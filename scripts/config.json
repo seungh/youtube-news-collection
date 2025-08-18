@@ -4,84 +4,84 @@
       "name": "MBC NEWS",
       "channelId": "UCF4Wxdo3inmxP-Y59wXDsFw",
       "enabled": true,
-      "maxVideos": 50,
+      "maxVideos": 100,
       "description": ""
     },
     {
       "name": "JTBC NEWS",
       "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
       "enabled": false,
-      "maxVideos": 50,
+      "maxVideos": 100,
       "description": ""
     },
     {
       "name": "KBS NEWS",
       "channelId": "UCcQTRi69dsVYHN3exePtZ1A",
       "enabled": true,
-      "maxVideos": 50,
+      "maxVideos": 100,
       "description": ""
     },
     {
       "name": "SBS NEWS",
       "channelId": "UCkinYTS9IHqOEwR1Sze2JTw",
       "enabled": true,
-      "maxVideos": 50,
+      "maxVideos": 100,
       "description": ""
     },
     {
       "name": "YTN",
       "channelId": "UChlgI3UHCOnwUGzWzbJ3H5w",
       "enabled": true,
-      "maxVideos": 50,
+      "maxVideos": 100,
       "description": ""
     },
     {
       "name": "연합뉴스 TV",
       "channelId": "UCTHCOPwqNfZ0uiKOvFyhGwg",
       "enabled": true,
-      "maxVideos": 50,
+      "maxVideos": 100,
       "description": ""
     },
     {
       "name": "TV CHOSUN",
       "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
       "enabled": true,
-      "maxVideos": 50,
+      "maxVideos": 100,
       "description": ""
     },
     {
       "name": "채널A NEWS",
       "channelId": "UCfq4V1DAuaojnr2ryvWNysw",
       "enabled": true,
-      "maxVideos": 50,
+      "maxVideos": 100,
       "description": ""
     },
     {
       "name": "MBN NEWS",
       "channelId": "UCG9aFJTZ-lMCHAiO1KJsirg",
       "enabled": true,
-      "maxVideos": 50,
+      "maxVideos": 100,
       "description": ""
     },
     {
       "name": "KTV NEWS",
       "channelId": "UCn8WFi6pE4cJZP8MiUNGFxg",
       "enabled": true,
-      "maxVideos": 50,
+      "maxVideos": 100,
       "description": ""
     },
     {
       "name": "NATV 국회뉴스",
       "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
       "enabled": true,
-      "maxVideos": 50,
+      "maxVideos": 100,
       "description": ""
     },
     {
       "name": "KFN 국방뉴스",
       "channelId": "UC88r6mA2791EXvGAruLL7ug",
       "enabled": true,
-      "maxVideos": 50,
+      "maxVideos": 100,
       "description": ""
     }
   ],
