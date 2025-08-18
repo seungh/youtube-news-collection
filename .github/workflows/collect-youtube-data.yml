@@ -8,18 +8,29 @@ on:
 permissions:
   contents: write
 
+concurrency:
+  group: youtube-collector
+  cancel-in-progress: false
+
 jobs:
-  build:
+  update:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repository
+      - name: Debug trigger & branch
+        run: |
+          echo "event: ${{ github.event_name }}"
+          echo "ref: ${{ github.ref }}"
+          date -u
+
+      - name: Checkout (with push credentials)
         uses: actions/checkout@v4
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
+          persist-credentials: true
+          fetch-depth: 0
 
       - name: Set up Python
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v5
         with:
           python-version: '3.11'
 
@@ -34,7 +45,6 @@ jobs:
         run: python scripts/collect_youtube_data.py
 
       - name: Set current date as env variable
-        id: date
         run: echo "NOW=$(date -u +'%Y-%m-%d %H:%M UTC')" >> "$GITHUB_ENV"
 
       - name: Commit and push if data changed
