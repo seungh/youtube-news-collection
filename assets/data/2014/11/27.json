@@ -1,0 +1,82 @@
+{
+  "videos": {
+    "_JHWjafUr3c": {
+      "videoId": "_JHWjafUr3c",
+      "title": "국민입법제안 우리가 만드는 세상 - 제4회, 중.고등학교 탈의실 설치 의무화",
+      "description": "제4회\n방송날짜 : 2014년 11월 19일\n부제: 중.고등학교 탈의실 설치 의무화",
+      "publishedAt": "2014-11-27T11:11:16Z",
+      "duration": "PT10M9S",
+      "viewCount": 136,
+      "likeCount": 0,
+      "commentCount": 0,
+      "tags": [],
+      "categoryId": "25",
+      "defaultLanguage": "ko",
+      "defaultAudioLanguage": "ko",
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
+      "channelName": "NATV 국회방송",
+      "collectedAt": "2025-08-18T07:13:47.312080Z"
+    },
+    "mFp4Y1YrTYs": {
+      "videoId": "mFp4Y1YrTYs",
+      "title": "NATV 국회방송 국회입법데이트 236회 형법 개정안 - 박민식의원",
+      "description": "국회입법데이트 236회 형법 개정안 - 박민식의원\n\n정당방위로 인정되는 행위의 범위를 확대하는 법안",
+      "publishedAt": "2014-11-27T02:02:58Z",
+      "duration": "PT21M28S",
+      "viewCount": 193,
+      "likeCount": 1,
+      "commentCount": 0,
+      "tags": [
+        "National Assembly (Governmental Body)",
+        "국회방송",
+        "형법",
+        "박민식의원",
+        "새누리당",
+        "정당방위",
+        "법안"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
+      "channelName": "NATV 국회방송",
+      "collectedAt": "2025-08-18T07:13:47.312080Z"
+    }
+  },
+  "channels": {
+    "UCL-WOj1FxKR8Hlzg5tvnWKg": {
+      "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
+      "channelName": "NATV 국회방송",
+      "channelUrl": "@natv_korea",
+      "channelDescription": "대한민국 국회가 운영하는 '국회방송(NATV)'의 공식 유튜브 채널입니다.\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/pR9h1UtIbvQgb1jzvA3cInTCuI9M_2tFxITGQb2pm7vlYy1lvoYmPMNrBQv7Rxhjy2Gh4FWGiQ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/pR9h1UtIbvQgb1jzvA3cInTCuI9M_2tFxITGQb2pm7vlYy1lvoYmPMNrBQv7Rxhjy2Gh4FWGiQ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/pR9h1UtIbvQgb1jzvA3cInTCuI9M_2tFxITGQb2pm7vlYy1lvoYmPMNrBQv7Rxhjy2Gh4FWGiQ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 264000,
+      "viewCount": 86009826,
+      "videoCount": 16390,
+      "lastUpdated": "2025-08-18T07:13:47.311123Z"
+    }
+  },
+  "lastUpdated": "2025-08-18T07:13:47.313078Z",
+  "totalVideos": 2,
+  "totalChannels": 1
+}

@@ -1,0 +1,119 @@
+{
+  "videos": {
+    "kOcX5xncijk": {
+      "videoId": "kOcX5xncijk",
+      "title": "[현장영상] 고향땅 밟은 레드백 시범 운용 완료",
+      "description": "호주 육군용 보병전투차량 프로그램을 위해 한화에서 개발,\n최종 후보로 선정되어 경쟁중에 있습니다.\n\n이번에 육군 제11기계화보병사단에서 처음 시범 운용을 보였는데\n그 현장을 여러분께 공개해드립니다.\n\n자세한 사항은 내일(5월30일) 낮12시 국방뉴스에서 확인하실 수 있습니다.\n\n#레드백 #11사단 #시범운용 #장갑차",
+      "publishedAt": "2022-05-29T03:00:22Z",
+      "duration": "PT2M8S",
+      "viewCount": 18352,
+      "likeCount": 362,
+      "commentCount": 72,
+      "tags": [
+        "국방홍보원",
+        "국방뉴스",
+        "국방NEWS",
+        "뉴스바바",
+        "DEFENSE NEWS",
+        "ROK",
+        "11사단",
+        "레드백",
+        "redback",
+        "호주"
+      ],
+      "categoryId": "24",
+      "defaultLanguage": "ko",
+      "defaultAudioLanguage": "ko",
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UC88r6mA2791EXvGAruLL7ug",
+      "channelName": "KFN뉴스",
+      "collectedAt": "2025-08-18T07:13:04.384942Z"
+    },
+    "UCrHA6pUAfI": {
+      "videoId": "UCrHA6pUAfI",
+      "title": "[국회방송 생중계] 제397회 국회(임시회) 제4차 본회의 (22.5.29)",
+      "description": "#국회 #국회방송 #생중계 #본회의 #추경안",
+      "publishedAt": "2022-05-29T13:59:19Z",
+      "duration": "PT3H16M31S",
+      "viewCount": 21429,
+      "likeCount": 293,
+      "commentCount": 29,
+      "tags": [
+        "국회방송",
+        "NATV"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": "en-US",
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": {
+        "actualStartTime": "2022-05-29T10:30:34Z",
+        "actualEndTime": "2022-05-29T13:47:05Z",
+        "scheduledStartTime": "2022-05-29T10:30:00Z"
+      },
+      "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
+      "channelName": "NATV 국회방송",
+      "collectedAt": "2025-08-18T07:13:04.400960Z"
+    }
+  },
+  "channels": {
+    "UC88r6mA2791EXvGAruLL7ug": {
+      "channelId": "UC88r6mA2791EXvGAruLL7ug",
+      "channelName": "KFN뉴스",
+      "channelUrl": "@dnrok1028",
+      "channelDescription": "국방소식을 가장 정확하고 신속하게 전달하는 국방소식 KFN뉴스\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/cWmZDCjMEuPq0MTN5pBC1rrN0Bu9CEAsmux48XxhvxYeqR9gH1ee8PsIrYqaweZteHWOTH66OSA=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/cWmZDCjMEuPq0MTN5pBC1rrN0Bu9CEAsmux48XxhvxYeqR9gH1ee8PsIrYqaweZteHWOTH66OSA=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/cWmZDCjMEuPq0MTN5pBC1rrN0Bu9CEAsmux48XxhvxYeqR9gH1ee8PsIrYqaweZteHWOTH66OSA=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 192000,
+      "viewCount": 203799141,
+      "videoCount": 15149,
+      "lastUpdated": "2025-08-18T07:13:04.376929Z"
+    },
+    "UCL-WOj1FxKR8Hlzg5tvnWKg": {
+      "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
+      "channelName": "NATV 국회방송",
+      "channelUrl": "@natv_korea",
+      "channelDescription": "대한민국 국회가 운영하는 '국회방송(NATV)'의 공식 유튜브 채널입니다.\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/pR9h1UtIbvQgb1jzvA3cInTCuI9M_2tFxITGQb2pm7vlYy1lvoYmPMNrBQv7Rxhjy2Gh4FWGiQ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/pR9h1UtIbvQgb1jzvA3cInTCuI9M_2tFxITGQb2pm7vlYy1lvoYmPMNrBQv7Rxhjy2Gh4FWGiQ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/pR9h1UtIbvQgb1jzvA3cInTCuI9M_2tFxITGQb2pm7vlYy1lvoYmPMNrBQv7Rxhjy2Gh4FWGiQ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 264000,
+      "viewCount": 86009826,
+      "videoCount": 16390,
+      "lastUpdated": "2025-08-18T07:13:04.385936Z"
+    }
+  },
+  "lastUpdated": "2025-08-18T07:13:04.408939Z",
+  "totalVideos": 2,
+  "totalChannels": 2
+}

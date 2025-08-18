@@ -1,0 +1,96 @@
+{
+  "videos": {
+    "t_5FUwHlTfE": {
+      "videoId": "t_5FUwHlTfE",
+      "title": "파우스트(요한 볼프강 폰 괴테 저)-TV, 도서관에 가다 148회",
+      "description": "TV, 도서관에 가다 (148회) \n\n1. 도권전평 \n'파우스트'\n\n서평: 서울대 독어독문학과 오순희 교수\n          소설가 김연경\n\n2. 내 인생의 책 \n더불어민주당 이재정 의원\n'고도를 기다리며'\n\n저자: 사뮈엘 베케트",
+      "publishedAt": "2018-01-23T10:46:52Z",
+      "duration": "PT59M53S",
+      "viewCount": 69629,
+      "likeCount": 1088,
+      "commentCount": 30,
+      "tags": [
+        "국회방송",
+        "tv도서관에가다",
+        "도서관",
+        "파우스트",
+        "고도를 기다리며",
+        "tv도서관에 가다 148회",
+        "김연경",
+        "오순희",
+        "이재정",
+        "사뮈엘 베케트"
+      ],
+      "categoryId": "29",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
+      "channelName": "NATV 국회방송",
+      "collectedAt": "2025-08-18T07:13:35.769351Z"
+    },
+    "GUrCGU6n_bg": {
+      "videoId": "GUrCGU6n_bg",
+      "title": "NATV 국회방송 50회 통통 입법토크 법률아 놀자",
+      "description": "주제 : 사회적참사법 2 – 붕괴, 침몰 \n내용 \n\n1. 낚시어선의 안전사고 예방 등을 위해 낚시어선업을 모두 시·도지사의 \n관할 수역 또는 공동영업구역 내에서만 하도록 법률에 명확히 명시함.\n\n2. 「4ㆍ16세월호참사 진상규명 및 안전사회 건설 등을 위한 특별법」을 폐지하고 \n가습기 살균제에 의한 사망사고 및 세월호 참사 피해자들의 피해회복을 위한 \n조치에 당국이 최선을 다하고자함.\n\n3. 타워크레인 설치·해체업의 등록제를 도입하고자 함.\n\n4. 타워크레인 등록, 검사, 정비 의무 위반시 100만원 이하의 벌금을 '6개월 이하 징역 500만원 이하의 벌금'으로 상향하고 잠.\n\n5. 위험작업 사내하도급 사용 전면 금지, 사업주의 안전보건조치 의무를 강화하고자 함.",
+      "publishedAt": "2018-01-23T09:16:17Z",
+      "duration": "PT47M39S",
+      "viewCount": 109,
+      "likeCount": 1,
+      "commentCount": 0,
+      "tags": [
+        "국회방송",
+        "국회",
+        "박지훈변호사",
+        "임방글변호사",
+        "양지민변호사",
+        "양윤선기자",
+        "이지선기자",
+        "사회적참사법",
+        "natv",
+        "통통법률아놀자"
+      ],
+      "categoryId": "29",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
+      "channelName": "NATV 국회방송",
+      "collectedAt": "2025-08-18T07:13:35.769351Z"
+    }
+  },
+  "channels": {
+    "UCL-WOj1FxKR8Hlzg5tvnWKg": {
+      "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
+      "channelName": "NATV 국회방송",
+      "channelUrl": "@natv_korea",
+      "channelDescription": "대한민국 국회가 운영하는 '국회방송(NATV)'의 공식 유튜브 채널입니다.\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/pR9h1UtIbvQgb1jzvA3cInTCuI9M_2tFxITGQb2pm7vlYy1lvoYmPMNrBQv7Rxhjy2Gh4FWGiQ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/pR9h1UtIbvQgb1jzvA3cInTCuI9M_2tFxITGQb2pm7vlYy1lvoYmPMNrBQv7Rxhjy2Gh4FWGiQ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/pR9h1UtIbvQgb1jzvA3cInTCuI9M_2tFxITGQb2pm7vlYy1lvoYmPMNrBQv7Rxhjy2Gh4FWGiQ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 264000,
+      "viewCount": 86009826,
+      "videoCount": 16390,
+      "lastUpdated": "2025-08-18T07:13:35.769351Z"
+    }
+  },
+  "lastUpdated": "2025-08-18T07:13:35.770348Z",
+  "totalVideos": 2,
+  "totalChannels": 1
+}

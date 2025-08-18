@@ -1,0 +1,60 @@
+{
+  "videos": {
+    "eCGSRlgPg1A": {
+      "videoId": "eCGSRlgPg1A",
+      "title": "NATV 국회방송 국회는 지금 일본 '헤이트 스피치·혐한 출판물' 전시회",
+      "description": "2014년 11월 11일 부터 16일까지 국회 도서관에서 열리는 일본 '헤이트 스피치·혐한 출판물' 전시회에 관한 내용",
+      "publishedAt": "2014-11-14T00:38:14Z",
+      "duration": "PT7M5S",
+      "viewCount": 12521,
+      "likeCount": 12,
+      "commentCount": 2,
+      "tags": [
+        "혐한",
+        "헤이트 스피치",
+        "국회방송",
+        "최재천"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": "ko",
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
+      "channelName": "NATV 국회방송",
+      "collectedAt": "2025-08-18T07:13:47.415786Z"
+    }
+  },
+  "channels": {
+    "UCL-WOj1FxKR8Hlzg5tvnWKg": {
+      "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
+      "channelName": "NATV 국회방송",
+      "channelUrl": "@natv_korea",
+      "channelDescription": "대한민국 국회가 운영하는 '국회방송(NATV)'의 공식 유튜브 채널입니다.\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/pR9h1UtIbvQgb1jzvA3cInTCuI9M_2tFxITGQb2pm7vlYy1lvoYmPMNrBQv7Rxhjy2Gh4FWGiQ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/pR9h1UtIbvQgb1jzvA3cInTCuI9M_2tFxITGQb2pm7vlYy1lvoYmPMNrBQv7Rxhjy2Gh4FWGiQ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/pR9h1UtIbvQgb1jzvA3cInTCuI9M_2tFxITGQb2pm7vlYy1lvoYmPMNrBQv7Rxhjy2Gh4FWGiQ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 264000,
+      "viewCount": 86009826,
+      "videoCount": 16390,
+      "lastUpdated": "2025-08-18T07:13:47.414180Z"
+    }
+  },
+  "lastUpdated": "2025-08-18T07:13:47.416814Z",
+  "totalVideos": 1,
+  "totalChannels": 1
+}

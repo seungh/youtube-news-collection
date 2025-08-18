@@ -1,0 +1,59 @@
+{
+  "videos": {
+    "whzO755Uo5k": {
+      "videoId": "whzO755Uo5k",
+      "title": "NATV 국회방송 한국의 정신- 60회 정약전",
+      "description": "바다를 품은 조선의 실학자 정약전\n험난한 유배중 이룬 학문적 대업 자산어보\n척박한 유배지에서도 실사구시 정신을 남기다",
+      "publishedAt": "2016-02-05T06:18:42Z",
+      "duration": "PT3M41S",
+      "viewCount": 2568,
+      "likeCount": 21,
+      "commentCount": 4,
+      "tags": [
+        "정약전",
+        "자산어보",
+        "실학자"
+      ],
+      "categoryId": "29",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
+      "channelName": "NATV 국회방송",
+      "collectedAt": "2025-08-18T07:13:42.082892Z"
+    }
+  },
+  "channels": {
+    "UCL-WOj1FxKR8Hlzg5tvnWKg": {
+      "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
+      "channelName": "NATV 국회방송",
+      "channelUrl": "@natv_korea",
+      "channelDescription": "대한민국 국회가 운영하는 '국회방송(NATV)'의 공식 유튜브 채널입니다.\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/pR9h1UtIbvQgb1jzvA3cInTCuI9M_2tFxITGQb2pm7vlYy1lvoYmPMNrBQv7Rxhjy2Gh4FWGiQ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/pR9h1UtIbvQgb1jzvA3cInTCuI9M_2tFxITGQb2pm7vlYy1lvoYmPMNrBQv7Rxhjy2Gh4FWGiQ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/pR9h1UtIbvQgb1jzvA3cInTCuI9M_2tFxITGQb2pm7vlYy1lvoYmPMNrBQv7Rxhjy2Gh4FWGiQ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 264000,
+      "viewCount": 86009826,
+      "videoCount": 16390,
+      "lastUpdated": "2025-08-18T07:13:42.081971Z"
+    }
+  },
+  "lastUpdated": "2025-08-18T07:13:42.083888Z",
+  "totalVideos": 1,
+  "totalChannels": 1
+}

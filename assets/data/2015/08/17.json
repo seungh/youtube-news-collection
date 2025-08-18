@@ -1,0 +1,92 @@
+{
+  "videos": {
+    "iKmiXeR6AtU": {
+      "videoId": "iKmiXeR6AtU",
+      "title": "NATV 국회방송 국회는 지금 국방위, 북한 목함지뢰 도발 관련 국방부 현안보고",
+      "description": "8월 12일 국방위, 북한 목함지뢰 도발 관련 국방부 현안보고",
+      "publishedAt": "2015-08-17T05:11:32Z",
+      "duration": "PT9M46S",
+      "viewCount": 1268,
+      "likeCount": 0,
+      "commentCount": 1,
+      "tags": [
+        "NATV",
+        "국회",
+        "국회방송",
+        "국회는 지금",
+        "국방위",
+        "목함지뢰"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
+      "channelName": "NATV 국회방송",
+      "collectedAt": "2025-08-18T07:13:43.633205Z"
+    },
+    "iJn6wFlbHrc": {
+      "videoId": "iJn6wFlbHrc",
+      "title": "NATV 국회방송 국회입법데이트 415회 기초연금법 개정안 & 경로당 및 노인학교 지원법안 - 양승조의원",
+      "description": "국회입법데이트 415회 \n기초연금법 개정안 & 경로당 및 노인학교 지원법안 - 양승조의원\n\n수급권자 권리 보호를 위하여 공무원이 수급자를 조사 시, 권한 표시 증표뿐 아니라 조사기간, 조사범위 등의 서류를 제시하도록 하는 법안 & 경로당 경비 및 활동 프로그램 지원 법안",
+      "publishedAt": "2015-08-17T00:41:45Z",
+      "duration": "PT19M19S",
+      "viewCount": 58,
+      "likeCount": 0,
+      "commentCount": 0,
+      "tags": [
+        "National Assembly (Governmental Body)",
+        "Politics (TV Genre)",
+        "국회방송",
+        "수급권자",
+        "기초연금",
+        "경로당",
+        "노인학교",
+        "법안",
+        "개정안",
+        "양승조의원"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
+      "channelName": "NATV 국회방송",
+      "collectedAt": "2025-08-18T07:13:43.633205Z"
+    }
+  },
+  "channels": {
+    "UCL-WOj1FxKR8Hlzg5tvnWKg": {
+      "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
+      "channelName": "NATV 국회방송",
+      "channelUrl": "@natv_korea",
+      "channelDescription": "대한민국 국회가 운영하는 '국회방송(NATV)'의 공식 유튜브 채널입니다.\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/pR9h1UtIbvQgb1jzvA3cInTCuI9M_2tFxITGQb2pm7vlYy1lvoYmPMNrBQv7Rxhjy2Gh4FWGiQ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/pR9h1UtIbvQgb1jzvA3cInTCuI9M_2tFxITGQb2pm7vlYy1lvoYmPMNrBQv7Rxhjy2Gh4FWGiQ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/pR9h1UtIbvQgb1jzvA3cInTCuI9M_2tFxITGQb2pm7vlYy1lvoYmPMNrBQv7Rxhjy2Gh4FWGiQ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 264000,
+      "viewCount": 86009826,
+      "videoCount": 16390,
+      "lastUpdated": "2025-08-18T07:13:43.626507Z"
+    }
+  },
+  "lastUpdated": "2025-08-18T07:13:43.640120Z",
+  "totalVideos": 2,
+  "totalChannels": 1
+}

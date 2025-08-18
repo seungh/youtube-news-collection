@@ -1,0 +1,82 @@
+{
+  "videos": {
+    "cKPIW6Pdork": {
+      "videoId": "cKPIW6Pdork",
+      "title": "의사당 사람들 2회_의사국",
+      "description": "의사당 사람들 2회_의사국",
+      "publishedAt": "2015-07-12T04:48:38Z",
+      "duration": "PT23M59S",
+      "viewCount": 3928,
+      "likeCount": 15,
+      "commentCount": 0,
+      "tags": [
+        "의사당 사람들",
+        "2회",
+        "의사국"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
+      "channelName": "NATV 국회방송",
+      "collectedAt": "2025-08-18T07:13:44.299108Z"
+    },
+    "CbsVW139rD0": {
+      "videoId": "CbsVW139rD0",
+      "title": "의사당 사람들 1회_법제실",
+      "description": "의사당 사람들 1회_법제실",
+      "publishedAt": "2015-07-11T18:36:02Z",
+      "duration": "PT24M34S",
+      "viewCount": 9192,
+      "likeCount": 44,
+      "commentCount": 1,
+      "tags": [
+        "의사당 사람들",
+        "1회",
+        "법제실"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
+      "channelName": "NATV 국회방송",
+      "collectedAt": "2025-08-18T07:13:44.299108Z"
+    }
+  },
+  "channels": {
+    "UCL-WOj1FxKR8Hlzg5tvnWKg": {
+      "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
+      "channelName": "NATV 국회방송",
+      "channelUrl": "@natv_korea",
+      "channelDescription": "대한민국 국회가 운영하는 '국회방송(NATV)'의 공식 유튜브 채널입니다.\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/pR9h1UtIbvQgb1jzvA3cInTCuI9M_2tFxITGQb2pm7vlYy1lvoYmPMNrBQv7Rxhjy2Gh4FWGiQ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/pR9h1UtIbvQgb1jzvA3cInTCuI9M_2tFxITGQb2pm7vlYy1lvoYmPMNrBQv7Rxhjy2Gh4FWGiQ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/pR9h1UtIbvQgb1jzvA3cInTCuI9M_2tFxITGQb2pm7vlYy1lvoYmPMNrBQv7Rxhjy2Gh4FWGiQ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 264000,
+      "viewCount": 86009826,
+      "videoCount": 16390,
+      "lastUpdated": "2025-08-18T07:13:44.299108Z"
+    }
+  },
+  "lastUpdated": "2025-08-18T07:13:44.300104Z",
+  "totalVideos": 2,
+  "totalChannels": 1
+}

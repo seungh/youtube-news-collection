@@ -1,0 +1,95 @@
+{
+  "videos": {
+    "8JZAvKyLxro": {
+      "videoId": "8JZAvKyLxro",
+      "title": "NATV 국회방송45회 TV, 도서관에 가다",
+      "description": "1. 도권전평 \n\"도시에 미학을 입히다\" 저자 : 고명석 \n/ 출연자 : 류중석 중앙대학교 도시공학과 교수\n                 고명석 경희대학교 언론정보대학원 교수\n2. 국회의원 서재\n새정치민주연합 백군기 의원 / \"6.25전쟁과 중국\"\n저자 : 이세기",
+      "publishedAt": "2015-11-09T09:58:38Z",
+      "duration": "PT58M37S",
+      "viewCount": 1083,
+      "likeCount": 11,
+      "commentCount": 0,
+      "tags": [
+        "국회의원",
+        "도서관",
+        "국회도서관",
+        "국회",
+        "NATV",
+        "국회방송",
+        "독서",
+        "도서",
+        "책",
+        "서재"
+      ],
+      "categoryId": "29",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
+      "channelName": "NATV 국회방송",
+      "collectedAt": "2025-08-18T07:13:43.046528Z"
+    },
+    "YFLUs_HhsNA": {
+      "videoId": "YFLUs_HhsNA",
+      "title": "NATV 국회방송 국회입법데이트 453회 고용정책 기본법 일부개정법률안 & 부패방지 및 국민권익위원회의 설치와 운영에 관한 법률 일부개정법률안 - 박병석의원",
+      "description": "국회입법데이트 453회 \n고용정책 기본법 일부개정법률안 & 부패방지 및 국민권익위원회의 설치와 운영에 관한 법률 일부개정법률안 - 박병석의원\n\n채용과정에서의 차별을 미연에 방지하려는 것 \n& 공공기관 부패에 관한 조사의 실효성을 높이기 위한 개정안",
+      "publishedAt": "2015-11-09T00:35:49Z",
+      "duration": "PT18M14S",
+      "viewCount": 48,
+      "likeCount": 0,
+      "commentCount": 0,
+      "tags": [
+        "Politics (TV Genre)",
+        "국회방송",
+        "National Assembly (Governmental Body)",
+        "국민권익위원회",
+        "공공기관",
+        "개정안",
+        "법안",
+        "박병석의원",
+        "새정치민주연합"
+      ],
+      "categoryId": "29",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
+      "channelName": "NATV 국회방송",
+      "collectedAt": "2025-08-18T07:13:43.046528Z"
+    }
+  },
+  "channels": {
+    "UCL-WOj1FxKR8Hlzg5tvnWKg": {
+      "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
+      "channelName": "NATV 국회방송",
+      "channelUrl": "@natv_korea",
+      "channelDescription": "대한민국 국회가 운영하는 '국회방송(NATV)'의 공식 유튜브 채널입니다.\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/pR9h1UtIbvQgb1jzvA3cInTCuI9M_2tFxITGQb2pm7vlYy1lvoYmPMNrBQv7Rxhjy2Gh4FWGiQ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/pR9h1UtIbvQgb1jzvA3cInTCuI9M_2tFxITGQb2pm7vlYy1lvoYmPMNrBQv7Rxhjy2Gh4FWGiQ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/pR9h1UtIbvQgb1jzvA3cInTCuI9M_2tFxITGQb2pm7vlYy1lvoYmPMNrBQv7Rxhjy2Gh4FWGiQ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 264000,
+      "viewCount": 86009826,
+      "videoCount": 16390,
+      "lastUpdated": "2025-08-18T07:13:43.046528Z"
+    }
+  },
+  "lastUpdated": "2025-08-18T07:13:43.047575Z",
+  "totalVideos": 2,
+  "totalChannels": 1
+}

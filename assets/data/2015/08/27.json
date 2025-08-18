@@ -1,0 +1,83 @@
+{
+  "videos": {
+    "17fRDHjqKbA": {
+      "videoId": "17fRDHjqKbA",
+      "title": "NATV 국회방송 39회 TV,도서관에 가다",
+      "description": "1. 도권전평 \n\"세상에서 가장 가난한 대통령 무히카\"  \n 저자 : 미겔 앙헬 캄포도니코  \n/ 출연자 : 김근식 경남대학교 정치외교학과 교수\n                  최연충 전 우루과이 대사\n2. 국회의원 서재\n새누리당 민현주 의원 / \"코끼리는 생각하지 마\"\n저자 : 조지 레이코프",
+      "publishedAt": "2015-08-27T10:48:25Z",
+      "duration": "PT56M49S",
+      "viewCount": 385,
+      "likeCount": 2,
+      "commentCount": 0,
+      "tags": [
+        "국회방송",
+        "NATV",
+        "국회도서관",
+        "도서관",
+        "책",
+        "서재",
+        "국회의원",
+        "국회"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
+      "channelName": "NATV 국회방송",
+      "collectedAt": "2025-08-18T07:13:43.580415Z"
+    },
+    "937ItYFTs6I": {
+      "videoId": "937ItYFTs6I",
+      "title": "NATV 국회방송 국회입법데이트 423회 고용정책 기본법 개정안 & 장기공공임대주택 지원법 개정안 - 우원식의원",
+      "description": "국회입법데이트 423회 고용정책 기본법 개정안 & 장기공공임대주택 지원법 개정안 - 우원식의원\n\n기본계획 수립 및 시행 절차를 구체적으로 명시하는 법안\n& 복지서비스시설 내 장비설치에 필요한 비용을 지원하는 법안",
+      "publishedAt": "2015-08-27T00:20:19Z",
+      "duration": "PT22M21S",
+      "viewCount": 21,
+      "likeCount": 0,
+      "commentCount": 1,
+      "tags": [],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
+      "channelName": "NATV 국회방송",
+      "collectedAt": "2025-08-18T07:13:43.580415Z"
+    }
+  },
+  "channels": {
+    "UCL-WOj1FxKR8Hlzg5tvnWKg": {
+      "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
+      "channelName": "NATV 국회방송",
+      "channelUrl": "@natv_korea",
+      "channelDescription": "대한민국 국회가 운영하는 '국회방송(NATV)'의 공식 유튜브 채널입니다.\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/pR9h1UtIbvQgb1jzvA3cInTCuI9M_2tFxITGQb2pm7vlYy1lvoYmPMNrBQv7Rxhjy2Gh4FWGiQ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/pR9h1UtIbvQgb1jzvA3cInTCuI9M_2tFxITGQb2pm7vlYy1lvoYmPMNrBQv7Rxhjy2Gh4FWGiQ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/pR9h1UtIbvQgb1jzvA3cInTCuI9M_2tFxITGQb2pm7vlYy1lvoYmPMNrBQv7Rxhjy2Gh4FWGiQ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 264000,
+      "viewCount": 86009826,
+      "videoCount": 16390,
+      "lastUpdated": "2025-08-18T07:13:43.579563Z"
+    }
+  },
+  "lastUpdated": "2025-08-18T07:13:43.580415Z",
+  "totalVideos": 2,
+  "totalChannels": 1
+}

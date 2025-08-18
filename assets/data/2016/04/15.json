@@ -1,0 +1,92 @@
+{
+  "videos": {
+    "cStxPTOlNY4": {
+      "videoId": "cStxPTOlNY4",
+      "title": "NATV 국회방송 65회 TV,도서관에 가다",
+      "description": "1. 도권전평 \n\"지리쌤과 함께하는 우리나라 도시여행\" 저자 : 전국지리교사모임\n/ 출연자 : 김석용 안산강서고등학교 교사\n           권다현 여행작가\n2. 내 인생의 책\n이두호 만화가 / \"한국의 살림집\"\n저자 : 신영훈",
+      "publishedAt": "2016-04-15T03:57:22Z",
+      "duration": "PT57M13S",
+      "viewCount": 551,
+      "likeCount": 5,
+      "commentCount": 1,
+      "tags": [
+        "국회의원",
+        "서재",
+        "도서관",
+        "국회방송",
+        "NATV",
+        "국회도서관",
+        "책",
+        "독서"
+      ],
+      "categoryId": "29",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
+      "channelName": "NATV 국회방송",
+      "collectedAt": "2025-08-18T07:13:41.379046Z"
+    },
+    "MyZlksSKIUc": {
+      "videoId": "MyZlksSKIUc",
+      "title": "NATV 국회방송 66회 TV,도서관에 가다",
+      "description": "1. 도권전평 \n\"덫에 걸린 유럽\" 저자 : 클라우스 오페\n/ 출연자 : 정인교 인하대학교 경제학부 교수\n           이해영 한신대학교 국제관계학과 교수\n2. 내 인생의 책\n윤무부 조류학자 / \"파브르 곤충기\"\n저자 : 장 앙리 파브르",
+      "publishedAt": "2016-04-15T03:26:25Z",
+      "duration": "PT57M46S",
+      "viewCount": 502,
+      "likeCount": 4,
+      "commentCount": 0,
+      "tags": [
+        "국회방송",
+        "NATV",
+        "국회",
+        "국회의원",
+        "책",
+        "도서관",
+        "독서",
+        "국회도서관"
+      ],
+      "categoryId": "29",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
+      "channelName": "NATV 국회방송",
+      "collectedAt": "2025-08-18T07:13:41.379046Z"
+    }
+  },
+  "channels": {
+    "UCL-WOj1FxKR8Hlzg5tvnWKg": {
+      "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
+      "channelName": "NATV 국회방송",
+      "channelUrl": "@natv_korea",
+      "channelDescription": "대한민국 국회가 운영하는 '국회방송(NATV)'의 공식 유튜브 채널입니다.\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/pR9h1UtIbvQgb1jzvA3cInTCuI9M_2tFxITGQb2pm7vlYy1lvoYmPMNrBQv7Rxhjy2Gh4FWGiQ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/pR9h1UtIbvQgb1jzvA3cInTCuI9M_2tFxITGQb2pm7vlYy1lvoYmPMNrBQv7Rxhjy2Gh4FWGiQ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/pR9h1UtIbvQgb1jzvA3cInTCuI9M_2tFxITGQb2pm7vlYy1lvoYmPMNrBQv7Rxhjy2Gh4FWGiQ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 264000,
+      "viewCount": 86009826,
+      "videoCount": 16390,
+      "lastUpdated": "2025-08-18T07:13:41.376823Z"
+    }
+  },
+  "lastUpdated": "2025-08-18T07:13:41.380046Z",
+  "totalVideos": 2,
+  "totalChannels": 1
+}

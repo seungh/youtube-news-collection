@@ -1,0 +1,78 @@
+{
+  "videos": {
+    "3WoIYyrBMfA": {
+      "videoId": "3WoIYyrBMfA",
+      "title": "국민입법제안 우리가 만든는 세상 - 제43회, 대중교통 유아보호용 장구 마련",
+      "description": "제43회\n방송일 : 2015년 04월 03일\n부   제 : 대중교통 유아보호용 장구 마련",
+      "publishedAt": "2015-04-04T08:58:28Z",
+      "duration": "PT10M20S",
+      "viewCount": 36,
+      "likeCount": 1,
+      "commentCount": 0,
+      "tags": [],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
+      "channelName": "NATV 국회방송",
+      "collectedAt": "2025-08-18T07:13:45.436188Z"
+    },
+    "9nSsHvNNOSI": {
+      "videoId": "9nSsHvNNOSI",
+      "title": "칭찬 62회, 문희상 의원 (새정치민주연합)",
+      "description": "",
+      "publishedAt": "2015-04-04T05:56:37Z",
+      "duration": "PT11M14S",
+      "viewCount": 3575,
+      "likeCount": 20,
+      "commentCount": 0,
+      "tags": [
+        "칭찬",
+        "인터뷰",
+        "문희상"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
+      "channelName": "NATV 국회방송",
+      "collectedAt": "2025-08-18T07:13:45.436188Z"
+    }
+  },
+  "channels": {
+    "UCL-WOj1FxKR8Hlzg5tvnWKg": {
+      "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
+      "channelName": "NATV 국회방송",
+      "channelUrl": "@natv_korea",
+      "channelDescription": "대한민국 국회가 운영하는 '국회방송(NATV)'의 공식 유튜브 채널입니다.\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/pR9h1UtIbvQgb1jzvA3cInTCuI9M_2tFxITGQb2pm7vlYy1lvoYmPMNrBQv7Rxhjy2Gh4FWGiQ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/pR9h1UtIbvQgb1jzvA3cInTCuI9M_2tFxITGQb2pm7vlYy1lvoYmPMNrBQv7Rxhjy2Gh4FWGiQ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/pR9h1UtIbvQgb1jzvA3cInTCuI9M_2tFxITGQb2pm7vlYy1lvoYmPMNrBQv7Rxhjy2Gh4FWGiQ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 264000,
+      "viewCount": 86009826,
+      "videoCount": 16390,
+      "lastUpdated": "2025-08-18T07:13:45.436188Z"
+    }
+  },
+  "lastUpdated": "2025-08-18T07:13:45.437244Z",
+  "totalVideos": 2,
+  "totalChannels": 1
+}

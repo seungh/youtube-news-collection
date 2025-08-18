@@ -1,0 +1,95 @@
+{
+  "videos": {
+    "fa4b7UGTQ6U": {
+      "videoId": "fa4b7UGTQ6U",
+      "title": "NATV 국회방송 국회입법데이트 311회 전기통신기본법 개정안, 일명 '미네르바법' - 진성준의원",
+      "description": "국회입법데이트 311회 \n전기통신기본법 개정안, 일명 '미네르바법' - 진성준의원\n\n인터넷 상에서의 자유로운 의사표현을 보장하기 위한 법안",
+      "publishedAt": "2015-03-19T01:41:06Z",
+      "duration": "PT21M15S",
+      "viewCount": 92,
+      "likeCount": 1,
+      "commentCount": 1,
+      "tags": [
+        "National Assembly (Governmental Body)",
+        "전기통신기본법",
+        "국회방송",
+        "미네르바",
+        "진성준의원",
+        "새정치민주연합",
+        "법안",
+        "개정안",
+        "제정안"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": "ko",
+      "defaultAudioLanguage": "ko",
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
+      "channelName": "NATV 국회방송",
+      "collectedAt": "2025-08-18T07:13:45.601962Z"
+    },
+    "bIx0-VTM6Ac": {
+      "videoId": "bIx0-VTM6Ac",
+      "title": "NATV 국회방송 국회는 지금 국회 국민안전혁신위원회 현안보고",
+      "description": "3월 17일 국회 국민안전혁신위원회 현안보고",
+      "publishedAt": "2015-03-19T01:25:46Z",
+      "duration": "PT7M46S",
+      "viewCount": 40,
+      "likeCount": 0,
+      "commentCount": 0,
+      "tags": [
+        "NATV",
+        "국회",
+        "국회방송",
+        "국회는 지금",
+        "강신명",
+        "홍익태",
+        "황인자",
+        "이성호",
+        "김민기",
+        "노웅래"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
+      "channelName": "NATV 국회방송",
+      "collectedAt": "2025-08-18T07:13:45.601962Z"
+    }
+  },
+  "channels": {
+    "UCL-WOj1FxKR8Hlzg5tvnWKg": {
+      "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
+      "channelName": "NATV 국회방송",
+      "channelUrl": "@natv_korea",
+      "channelDescription": "대한민국 국회가 운영하는 '국회방송(NATV)'의 공식 유튜브 채널입니다.\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/pR9h1UtIbvQgb1jzvA3cInTCuI9M_2tFxITGQb2pm7vlYy1lvoYmPMNrBQv7Rxhjy2Gh4FWGiQ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/pR9h1UtIbvQgb1jzvA3cInTCuI9M_2tFxITGQb2pm7vlYy1lvoYmPMNrBQv7Rxhjy2Gh4FWGiQ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/pR9h1UtIbvQgb1jzvA3cInTCuI9M_2tFxITGQb2pm7vlYy1lvoYmPMNrBQv7Rxhjy2Gh4FWGiQ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 264000,
+      "viewCount": 86009826,
+      "videoCount": 16390,
+      "lastUpdated": "2025-08-18T07:13:45.601393Z"
+    }
+  },
+  "lastUpdated": "2025-08-18T07:13:45.601962Z",
+  "totalVideos": 2,
+  "totalChannels": 1
+}

@@ -1,0 +1,55 @@
+{
+  "videos": {
+    "QBLuTTooPlk": {
+      "videoId": "QBLuTTooPlk",
+      "title": "NATV 133회 TV, 도서관에 가다 - 예언(김진명 작가 저)",
+      "description": "TV, 도서관에 가다 (133회) \n\n1. 도권전평 \n'예언'\n\n저자: 김진명 작가\n\n서평: 경희대 국어국문학과 김종회 교수\n          경남대 정치외교학과 김근식 교수\n\n2. 내 인생의 책 \n\n더불어민주당 박영선 의원\n'수필'\n\n저자: 피천득",
+      "publishedAt": "2017-09-04T09:31:32Z",
+      "duration": "PT1H4M4S",
+      "viewCount": 25339,
+      "likeCount": 289,
+      "commentCount": 10,
+      "tags": [],
+      "categoryId": "29",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
+      "channelName": "NATV 국회방송",
+      "collectedAt": "2025-08-18T07:13:36.920325Z"
+    }
+  },
+  "channels": {
+    "UCL-WOj1FxKR8Hlzg5tvnWKg": {
+      "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
+      "channelName": "NATV 국회방송",
+      "channelUrl": "@natv_korea",
+      "channelDescription": "대한민국 국회가 운영하는 '국회방송(NATV)'의 공식 유튜브 채널입니다.\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/pR9h1UtIbvQgb1jzvA3cInTCuI9M_2tFxITGQb2pm7vlYy1lvoYmPMNrBQv7Rxhjy2Gh4FWGiQ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/pR9h1UtIbvQgb1jzvA3cInTCuI9M_2tFxITGQb2pm7vlYy1lvoYmPMNrBQv7Rxhjy2Gh4FWGiQ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/pR9h1UtIbvQgb1jzvA3cInTCuI9M_2tFxITGQb2pm7vlYy1lvoYmPMNrBQv7Rxhjy2Gh4FWGiQ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 264000,
+      "viewCount": 86009826,
+      "videoCount": 16390,
+      "lastUpdated": "2025-08-18T07:13:36.914502Z"
+    }
+  },
+  "lastUpdated": "2025-08-18T07:13:36.921321Z",
+  "totalVideos": 1,
+  "totalChannels": 1
+}

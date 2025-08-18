@@ -1,0 +1,94 @@
+{
+  "videos": {
+    "LhEIf3rmVzI": {
+      "videoId": "LhEIf3rmVzI",
+      "title": "[시청각장애인용] 공군사관학교(공사) 생도의 하루[국방홍보원]",
+      "description": "#군대 #공군 #배리어프리\n[안승회 기자의 군금해] 공군사관학교(공사) 생도의 하루 배리어프리 버전",
+      "publishedAt": "2022-04-02T08:14:36Z",
+      "duration": "PT23M25S",
+      "viewCount": 6514,
+      "likeCount": 89,
+      "commentCount": 15,
+      "tags": [
+        "군대",
+        "공군",
+        "공사",
+        "사관학교",
+        "공군사관학교",
+        "파일럿",
+        "전투기",
+        "우주",
+        "생도",
+        "군인"
+      ],
+      "categoryId": "24",
+      "defaultLanguage": "ko",
+      "defaultAudioLanguage": "ko",
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UC88r6mA2791EXvGAruLL7ug",
+      "channelName": "KFN뉴스",
+      "collectedAt": "2025-08-18T07:13:05.679379Z"
+    },
+    "_xjNQcS2qUc": {
+      "videoId": "_xjNQcS2qUc",
+      "title": "[군금해1분] 해병대 DI 왜 항상 화가 나 있을까?[국방홍보원]",
+      "description": "#해병대 #shorts #di \n[군금해1분] 해병대 DI는 왜 항상 화를 낼까?",
+      "publishedAt": "2022-04-02T00:12:43Z",
+      "duration": "PT1M",
+      "viewCount": 2659921,
+      "likeCount": 15014,
+      "commentCount": 1212,
+      "tags": [
+        "해병",
+        "해병대",
+        "훈련",
+        "훈련교관",
+        "훈단",
+        "훈련병",
+        "훈련소",
+        "di"
+      ],
+      "categoryId": "24",
+      "defaultLanguage": "ko",
+      "defaultAudioLanguage": "ko",
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UC88r6mA2791EXvGAruLL7ug",
+      "channelName": "KFN뉴스",
+      "collectedAt": "2025-08-18T07:13:05.679379Z"
+    }
+  },
+  "channels": {
+    "UC88r6mA2791EXvGAruLL7ug": {
+      "channelId": "UC88r6mA2791EXvGAruLL7ug",
+      "channelName": "KFN뉴스",
+      "channelUrl": "@dnrok1028",
+      "channelDescription": "국방소식을 가장 정확하고 신속하게 전달하는 국방소식 KFN뉴스\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/cWmZDCjMEuPq0MTN5pBC1rrN0Bu9CEAsmux48XxhvxYeqR9gH1ee8PsIrYqaweZteHWOTH66OSA=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/cWmZDCjMEuPq0MTN5pBC1rrN0Bu9CEAsmux48XxhvxYeqR9gH1ee8PsIrYqaweZteHWOTH66OSA=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/cWmZDCjMEuPq0MTN5pBC1rrN0Bu9CEAsmux48XxhvxYeqR9gH1ee8PsIrYqaweZteHWOTH66OSA=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 192000,
+      "viewCount": 203799141,
+      "videoCount": 15149,
+      "lastUpdated": "2025-08-18T07:13:05.678381Z"
+    }
+  },
+  "lastUpdated": "2025-08-18T07:13:05.680376Z",
+  "totalVideos": 2,
+  "totalChannels": 1
+}

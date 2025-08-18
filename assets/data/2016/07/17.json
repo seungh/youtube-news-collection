@@ -1,0 +1,86 @@
+{
+  "videos": {
+    "BV-WorVNinc": {
+      "videoId": "BV-WorVNinc",
+      "title": "더불어민주당 김경수 의원_NATV 국회방송 300인의 희망인터뷰",
+      "description": "20대 총선에서 당내 전국 최다 득표율(62.38%)을 기록한 주인공. \n여당 성향이 강한 지역구 경남 김해을에서 국회 입성에 성공한 김경수 의원.\n 노무현 전 대통령의 마지막 비서관에서 국회의원으로 변신한 김경수 의원을 만난다.",
+      "publishedAt": "2016-07-17T12:10:45Z",
+      "duration": "PT9M18S",
+      "viewCount": 18797,
+      "likeCount": 549,
+      "commentCount": 53,
+      "tags": [
+        "국회방송",
+        "300인의 희망인터뷰",
+        "더불어민주당",
+        "김경수",
+        "김경수의원",
+        "경남 김해을",
+        "20대 총선 최다득표율",
+        "노무현 전 대통령 마지막 비서관"
+      ],
+      "categoryId": "29",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
+      "channelName": "NATV 국회방송",
+      "collectedAt": "2025-08-18T07:13:40.345581Z"
+    },
+    "EpAJpHRrknw": {
+      "videoId": "EpAJpHRrknw",
+      "title": "NATV 국회방송 300인의 희망인터뷰(새누리당 곽대훈의원)",
+      "description": "NATV 국회방송 300인의 희망인터뷰 새누리당 곽대훈의원편",
+      "publishedAt": "2016-07-16T18:10:33Z",
+      "duration": "PT8M29S",
+      "viewCount": 336,
+      "likeCount": 10,
+      "commentCount": 0,
+      "tags": [
+        "300인의 희망인터뷰",
+        "새누리당 곽대훈의원"
+      ],
+      "categoryId": "29",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
+      "channelName": "NATV 국회방송",
+      "collectedAt": "2025-08-18T07:13:40.345581Z"
+    }
+  },
+  "channels": {
+    "UCL-WOj1FxKR8Hlzg5tvnWKg": {
+      "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
+      "channelName": "NATV 국회방송",
+      "channelUrl": "@natv_korea",
+      "channelDescription": "대한민국 국회가 운영하는 '국회방송(NATV)'의 공식 유튜브 채널입니다.\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/pR9h1UtIbvQgb1jzvA3cInTCuI9M_2tFxITGQb2pm7vlYy1lvoYmPMNrBQv7Rxhjy2Gh4FWGiQ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/pR9h1UtIbvQgb1jzvA3cInTCuI9M_2tFxITGQb2pm7vlYy1lvoYmPMNrBQv7Rxhjy2Gh4FWGiQ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/pR9h1UtIbvQgb1jzvA3cInTCuI9M_2tFxITGQb2pm7vlYy1lvoYmPMNrBQv7Rxhjy2Gh4FWGiQ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 264000,
+      "viewCount": 86009826,
+      "videoCount": 16390,
+      "lastUpdated": "2025-08-18T07:13:40.341578Z"
+    }
+  },
+  "lastUpdated": "2025-08-18T07:13:40.352297Z",
+  "totalVideos": 2,
+  "totalChannels": 1
+}

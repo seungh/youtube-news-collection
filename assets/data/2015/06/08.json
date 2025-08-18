@@ -1,0 +1,91 @@
+{
+  "videos": {
+    "6jTCczfTBpI": {
+      "videoId": "6jTCczfTBpI",
+      "title": "NATV 국회방송 국회는 지금 국회로 간 장발장",
+      "description": "6월 4일 국회로 간 장발장",
+      "publishedAt": "2015-06-08T01:05:08Z",
+      "duration": "PT7M48S",
+      "viewCount": 32,
+      "likeCount": 0,
+      "commentCount": 0,
+      "tags": [
+        "NATV",
+        "국회",
+        "국회방송",
+        "국회는 지금",
+        "장발장",
+        "장발장은행",
+        "국회로 간 장발장"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
+      "channelName": "NATV 국회방송",
+      "collectedAt": "2025-08-18T07:13:44.635691Z"
+    },
+    "xYK3UvNrb8w": {
+      "videoId": "xYK3UvNrb8w",
+      "title": "NATV 국회방송 국회입법데이트 366회 동물보호법 개정안 & 화장품법 개정안 - 문정림의원",
+      "description": "국회입법데이트 366회\n동물보호법 개정안 & 화장품법 개정안 - 문정림의원\n\n반려동물 대여업 금지 법안 & 화장품 동물실험 금지 법안",
+      "publishedAt": "2015-06-08T01:01:46Z",
+      "duration": "PT21M46S",
+      "viewCount": 48,
+      "likeCount": 0,
+      "commentCount": 0,
+      "tags": [
+        "National Assembly (Governmental Body)",
+        "Politics (TV Genre)",
+        "동물보호",
+        "화장품실험",
+        "문정림의원",
+        "새누리당",
+        "개정안",
+        "법안"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
+      "channelName": "NATV 국회방송",
+      "collectedAt": "2025-08-18T07:13:44.635691Z"
+    }
+  },
+  "channels": {
+    "UCL-WOj1FxKR8Hlzg5tvnWKg": {
+      "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
+      "channelName": "NATV 국회방송",
+      "channelUrl": "@natv_korea",
+      "channelDescription": "대한민국 국회가 운영하는 '국회방송(NATV)'의 공식 유튜브 채널입니다.\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/pR9h1UtIbvQgb1jzvA3cInTCuI9M_2tFxITGQb2pm7vlYy1lvoYmPMNrBQv7Rxhjy2Gh4FWGiQ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/pR9h1UtIbvQgb1jzvA3cInTCuI9M_2tFxITGQb2pm7vlYy1lvoYmPMNrBQv7Rxhjy2Gh4FWGiQ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/pR9h1UtIbvQgb1jzvA3cInTCuI9M_2tFxITGQb2pm7vlYy1lvoYmPMNrBQv7Rxhjy2Gh4FWGiQ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 264000,
+      "viewCount": 86009826,
+      "videoCount": 16390,
+      "lastUpdated": "2025-08-18T07:13:44.634694Z"
+    }
+  },
+  "lastUpdated": "2025-08-18T07:13:44.635691Z",
+  "totalVideos": 2,
+  "totalChannels": 1
+}

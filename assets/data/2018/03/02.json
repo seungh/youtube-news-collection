@@ -1,0 +1,95 @@
+{
+  "videos": {
+    "Ej0rzEwpFNQ": {
+      "videoId": "Ej0rzEwpFNQ",
+      "title": "제20대 국회 인터뷰 릴레이 칭찬 162회 김종석 의원 자유한국당",
+      "description": "제20대 국회 인터뷰 릴레이 칭찬 162회 김종석 의원 자유한국당",
+      "publishedAt": "2018-03-02T02:17:15Z",
+      "duration": "PT10M27S",
+      "viewCount": 719,
+      "likeCount": 5,
+      "commentCount": 2,
+      "tags": [
+        "국회",
+        "인터뷰릴레이칭찬",
+        "김종석",
+        "자유한국당",
+        "김종석의원",
+        "인터뷰",
+        "릴레이",
+        "칭찬",
+        "국회방송"
+      ],
+      "categoryId": "29",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
+      "channelName": "NATV 국회방송",
+      "collectedAt": "2025-08-18T07:13:35.589202Z"
+    },
+    "9iugiC16OpI": {
+      "videoId": "9iugiC16OpI",
+      "title": "포스트 평창, 한반도 정세 분기점 맞나? - NATV 직언직설 토론당당",
+      "description": "2018/03/01 직언직설 토론당당 24회\n\n포스트 평창, 한반도 정세 분기점 맞나?\n\n\n출연자\n서 영 교 (더불어민주당)\n김 영 우 (자유한국당)",
+      "publishedAt": "2018-03-02T02:03:01Z",
+      "duration": "PT49M56S",
+      "viewCount": 447,
+      "likeCount": 2,
+      "commentCount": 1,
+      "tags": [
+        "포스트평창",
+        "평창올림픽",
+        "서영교",
+        "김영우",
+        "한반도 정세",
+        "남북회담",
+        "북미대화",
+        "해빙무드",
+        "이방카방한",
+        "김여정방한"
+      ],
+      "categoryId": "29",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
+      "channelName": "NATV 국회방송",
+      "collectedAt": "2025-08-18T07:13:35.589202Z"
+    }
+  },
+  "channels": {
+    "UCL-WOj1FxKR8Hlzg5tvnWKg": {
+      "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
+      "channelName": "NATV 국회방송",
+      "channelUrl": "@natv_korea",
+      "channelDescription": "대한민국 국회가 운영하는 '국회방송(NATV)'의 공식 유튜브 채널입니다.\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/pR9h1UtIbvQgb1jzvA3cInTCuI9M_2tFxITGQb2pm7vlYy1lvoYmPMNrBQv7Rxhjy2Gh4FWGiQ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/pR9h1UtIbvQgb1jzvA3cInTCuI9M_2tFxITGQb2pm7vlYy1lvoYmPMNrBQv7Rxhjy2Gh4FWGiQ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/pR9h1UtIbvQgb1jzvA3cInTCuI9M_2tFxITGQb2pm7vlYy1lvoYmPMNrBQv7Rxhjy2Gh4FWGiQ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 264000,
+      "viewCount": 86009826,
+      "videoCount": 16390,
+      "lastUpdated": "2025-08-18T07:13:35.576104Z"
+    }
+  },
+  "lastUpdated": "2025-08-18T07:13:35.592046Z",
+  "totalVideos": 2,
+  "totalChannels": 1
+}

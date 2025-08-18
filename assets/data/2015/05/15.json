@@ -1,0 +1,95 @@
+{
+  "videos": {
+    "cPFVOuNVz4o": {
+      "videoId": "cPFVOuNVz4o",
+      "title": "NATV 국회방송 24회 TV, 도서관에 가다",
+      "description": "1. 도권전평 \n\"엄마를 부탁해\" 저자 : 신경숙\n/ 서평 : 차성종 숭의여대 문헌정보학과 교수  \n/ 전문가 : 김성녀 예술감독 \n\n2. 국회의원 서재\n새정치민주연합 김기준 의원 / \"우리도 행복할 수 있을까\" \n저자 : 오연호",
+      "publishedAt": "2015-05-15T04:22:08Z",
+      "duration": "PT56M8S",
+      "viewCount": 541,
+      "likeCount": 6,
+      "commentCount": 0,
+      "tags": [
+        "국회방송",
+        "NATV",
+        "국회의원",
+        "서재",
+        "도서관",
+        "독서",
+        "국회도서관",
+        "도서",
+        "책"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
+      "channelName": "NATV 국회방송",
+      "collectedAt": "2025-08-18T07:13:45.050147Z"
+    },
+    "S71yufyx-Ro": {
+      "videoId": "S71yufyx-Ro",
+      "title": "NATV 국회방송 국회입법데이트 351회 의료법 개정안 - 박인숙의원",
+      "description": "국회방송 국회입법데이트 351회 의료법 개정안 - 박인숙의원\n\n의료인 폭행 방지 법안",
+      "publishedAt": "2015-05-15T01:23:02Z",
+      "duration": "PT23M3S",
+      "viewCount": 138,
+      "likeCount": 0,
+      "commentCount": 1,
+      "tags": [
+        "의원",
+        "국회의원",
+        "박인숙",
+        "박인숙의원",
+        "새누리당",
+        "국회방송",
+        "입법데이트",
+        "NATV",
+        "의료인",
+        "의료"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
+      "channelName": "NATV 국회방송",
+      "collectedAt": "2025-08-18T07:13:45.050147Z"
+    }
+  },
+  "channels": {
+    "UCL-WOj1FxKR8Hlzg5tvnWKg": {
+      "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
+      "channelName": "NATV 국회방송",
+      "channelUrl": "@natv_korea",
+      "channelDescription": "대한민국 국회가 운영하는 '국회방송(NATV)'의 공식 유튜브 채널입니다.\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/pR9h1UtIbvQgb1jzvA3cInTCuI9M_2tFxITGQb2pm7vlYy1lvoYmPMNrBQv7Rxhjy2Gh4FWGiQ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/pR9h1UtIbvQgb1jzvA3cInTCuI9M_2tFxITGQb2pm7vlYy1lvoYmPMNrBQv7Rxhjy2Gh4FWGiQ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/pR9h1UtIbvQgb1jzvA3cInTCuI9M_2tFxITGQb2pm7vlYy1lvoYmPMNrBQv7Rxhjy2Gh4FWGiQ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 264000,
+      "viewCount": 86009826,
+      "videoCount": 16390,
+      "lastUpdated": "2025-08-18T07:13:45.049244Z"
+    }
+  },
+  "lastUpdated": "2025-08-18T07:13:45.050147Z",
+  "totalVideos": 2,
+  "totalChannels": 1
+}

@@ -1,0 +1,65 @@
+{
+  "videos": {
+    "fv4ykPEhh9M": {
+      "videoId": "fv4ykPEhh9M",
+      "title": "NATV 국회방송 100회 TV 도서관에 가다",
+      "description": "1. 도권전평 \n\"트렌드코리아2017\"\n 저자 : 김난도 외 5명\n/ 출연자 : 이향은 성신여대 교수 & 오기자 빅데이터 전문가 \n\n\n2. 내 인생의 책\n새누리당 심재철 국회부의장 \n\"죽음의 수용소에서\"\n저자 : 빅터 프랭클",
+      "publishedAt": "2017-01-10T12:17:50Z",
+      "duration": "PT58M12S",
+      "viewCount": 1192,
+      "likeCount": 3,
+      "commentCount": 0,
+      "tags": [
+        "트렌드코리아2017",
+        "TV도서관",
+        "도서관",
+        "이향은",
+        "김난도",
+        "오기자",
+        "심재철",
+        "죽음의 수용소에서",
+        "빅터 프랭클"
+      ],
+      "categoryId": "29",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
+      "channelName": "NATV 국회방송",
+      "collectedAt": "2025-08-18T07:13:38.763981Z"
+    }
+  },
+  "channels": {
+    "UCL-WOj1FxKR8Hlzg5tvnWKg": {
+      "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
+      "channelName": "NATV 국회방송",
+      "channelUrl": "@natv_korea",
+      "channelDescription": "대한민국 국회가 운영하는 '국회방송(NATV)'의 공식 유튜브 채널입니다.\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/pR9h1UtIbvQgb1jzvA3cInTCuI9M_2tFxITGQb2pm7vlYy1lvoYmPMNrBQv7Rxhjy2Gh4FWGiQ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/pR9h1UtIbvQgb1jzvA3cInTCuI9M_2tFxITGQb2pm7vlYy1lvoYmPMNrBQv7Rxhjy2Gh4FWGiQ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/pR9h1UtIbvQgb1jzvA3cInTCuI9M_2tFxITGQb2pm7vlYy1lvoYmPMNrBQv7Rxhjy2Gh4FWGiQ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 264000,
+      "viewCount": 86009826,
+      "videoCount": 16390,
+      "lastUpdated": "2025-08-18T07:13:38.763981Z"
+    }
+  },
+  "lastUpdated": "2025-08-18T07:13:38.765974Z",
+  "totalVideos": 1,
+  "totalChannels": 1
+}

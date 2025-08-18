@@ -1,0 +1,66 @@
+{
+  "videos": {
+    "f2KJVl5Mwz4": {
+      "videoId": "f2KJVl5Mwz4",
+      "title": "제20대 국회 인터뷰릴레이칭찬 195회 서영교 의원 더불어민주당",
+      "description": "제20대 국회 인터뷰릴레이칭찬 195회 서영교 의원 더불어민주당",
+      "publishedAt": "2019-01-28T05:00:06Z",
+      "duration": "PT10M1S",
+      "viewCount": 1920,
+      "likeCount": 53,
+      "commentCount": 23,
+      "tags": [
+        "국회의원",
+        "인터뷰릴레이칭찬",
+        "국회방송",
+        "인터뷰",
+        "릴레이",
+        "칭찬",
+        "natv",
+        "서영교 더불어민주당",
+        "서영교의원",
+        "서영교"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
+      "channelName": "NATV 국회방송",
+      "collectedAt": "2025-08-18T07:13:32.233817Z"
+    }
+  },
+  "channels": {
+    "UCL-WOj1FxKR8Hlzg5tvnWKg": {
+      "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
+      "channelName": "NATV 국회방송",
+      "channelUrl": "@natv_korea",
+      "channelDescription": "대한민국 국회가 운영하는 '국회방송(NATV)'의 공식 유튜브 채널입니다.\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/pR9h1UtIbvQgb1jzvA3cInTCuI9M_2tFxITGQb2pm7vlYy1lvoYmPMNrBQv7Rxhjy2Gh4FWGiQ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/pR9h1UtIbvQgb1jzvA3cInTCuI9M_2tFxITGQb2pm7vlYy1lvoYmPMNrBQv7Rxhjy2Gh4FWGiQ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/pR9h1UtIbvQgb1jzvA3cInTCuI9M_2tFxITGQb2pm7vlYy1lvoYmPMNrBQv7Rxhjy2Gh4FWGiQ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 264000,
+      "viewCount": 86009826,
+      "videoCount": 16390,
+      "lastUpdated": "2025-08-18T07:13:32.232135Z"
+    }
+  },
+  "lastUpdated": "2025-08-18T07:13:32.236323Z",
+  "totalVideos": 1,
+  "totalChannels": 1
+}

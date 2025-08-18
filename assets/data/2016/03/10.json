@@ -1,0 +1,83 @@
+{
+  "videos": {
+    "fCgwsd07fjs": {
+      "videoId": "fCgwsd07fjs",
+      "title": "NATV 국회방송 한국의 정신- 69회 김부식",
+      "description": "한국 중세 사학의 기초수립\n시호 문열 뛰어난 학문적 기량\n삼국사기를 편찬한 대 문장가 - 김부식",
+      "publishedAt": "2016-03-10T14:10:28Z",
+      "duration": "PT4M3S",
+      "viewCount": 1865,
+      "likeCount": 10,
+      "commentCount": 0,
+      "tags": [
+        "김부식",
+        "삼국사기",
+        "한국의 정신"
+      ],
+      "categoryId": "29",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
+      "channelName": "NATV 국회방송",
+      "collectedAt": "2025-08-18T07:13:41.865416Z"
+    },
+    "PcSXxn0uIxA": {
+      "videoId": "PcSXxn0uIxA",
+      "title": "NATV 국회방송 한국의 정신- 70회 박은식",
+      "description": "한말 애국계몽사상가 역사가이자 독립운동가\n대한민국 임시정부 2대 대통령\n국혼을 살려 나라를 되찾고자 하다 - 박은식",
+      "publishedAt": "2016-03-10T14:04:44Z",
+      "duration": "PT4M5S",
+      "viewCount": 4170,
+      "likeCount": 35,
+      "commentCount": 5,
+      "tags": [
+        "박은식",
+        "한국의 정신",
+        "한국통사",
+        "한국독립운동지혈사"
+      ],
+      "categoryId": "29",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
+      "channelName": "NATV 국회방송",
+      "collectedAt": "2025-08-18T07:13:41.865416Z"
+    }
+  },
+  "channels": {
+    "UCL-WOj1FxKR8Hlzg5tvnWKg": {
+      "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
+      "channelName": "NATV 국회방송",
+      "channelUrl": "@natv_korea",
+      "channelDescription": "대한민국 국회가 운영하는 '국회방송(NATV)'의 공식 유튜브 채널입니다.\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/pR9h1UtIbvQgb1jzvA3cInTCuI9M_2tFxITGQb2pm7vlYy1lvoYmPMNrBQv7Rxhjy2Gh4FWGiQ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/pR9h1UtIbvQgb1jzvA3cInTCuI9M_2tFxITGQb2pm7vlYy1lvoYmPMNrBQv7Rxhjy2Gh4FWGiQ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/pR9h1UtIbvQgb1jzvA3cInTCuI9M_2tFxITGQb2pm7vlYy1lvoYmPMNrBQv7Rxhjy2Gh4FWGiQ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 264000,
+      "viewCount": 86009826,
+      "videoCount": 16390,
+      "lastUpdated": "2025-08-18T07:13:41.864414Z"
+    }
+  },
+  "lastUpdated": "2025-08-18T07:13:41.865416Z",
+  "totalVideos": 2,
+  "totalChannels": 1
+}

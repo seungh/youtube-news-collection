@@ -1,0 +1,112 @@
+{
+  "videos": {
+    "Q9nfcY0UUAE": {
+      "videoId": "Q9nfcY0UUAE",
+      "title": "[배리어프리]대한민국 해병대 최전방 소초의 하루[국방홍보원]",
+      "description": "#해병대 #소초 #최전방\n[안승회 기자의 군금해] 대한민국 해병대 최전방 소초의 하루 [배리어프리 버전]",
+      "publishedAt": "2022-04-17T02:00:05Z",
+      "duration": "PT22M6S",
+      "viewCount": 83710,
+      "likeCount": 692,
+      "commentCount": 131,
+      "tags": [
+        "해병대",
+        "군대",
+        "소초",
+        "소초장",
+        "군인",
+        "해병",
+        "무기",
+        "무기체계",
+        "전방",
+        "북한"
+      ],
+      "categoryId": "24",
+      "defaultLanguage": "ko",
+      "defaultAudioLanguage": "ko",
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UC88r6mA2791EXvGAruLL7ug",
+      "channelName": "KFN뉴스",
+      "collectedAt": "2025-08-18T07:13:05.416071Z"
+    },
+    "QOg7PGxExVA": {
+      "videoId": "QOg7PGxExVA",
+      "title": "스리랑카 경제위기의 주요 원인과 전망",
+      "description": "스리랑카 경제위기의 주요 원인과 전망",
+      "publishedAt": "2022-04-17T10:56:42Z",
+      "duration": "PT17M20S",
+      "viewCount": 10884,
+      "likeCount": 105,
+      "commentCount": 6,
+      "tags": [],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": "ko",
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCn8WFi6pE4cJZP8MiUNGFxg",
+      "channelName": "KTV NEWS",
+      "collectedAt": "2025-08-18T07:13:05.417068Z"
+    }
+  },
+  "channels": {
+    "UC88r6mA2791EXvGAruLL7ug": {
+      "channelId": "UC88r6mA2791EXvGAruLL7ug",
+      "channelName": "KFN뉴스",
+      "channelUrl": "@dnrok1028",
+      "channelDescription": "국방소식을 가장 정확하고 신속하게 전달하는 국방소식 KFN뉴스\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/cWmZDCjMEuPq0MTN5pBC1rrN0Bu9CEAsmux48XxhvxYeqR9gH1ee8PsIrYqaweZteHWOTH66OSA=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/cWmZDCjMEuPq0MTN5pBC1rrN0Bu9CEAsmux48XxhvxYeqR9gH1ee8PsIrYqaweZteHWOTH66OSA=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/cWmZDCjMEuPq0MTN5pBC1rrN0Bu9CEAsmux48XxhvxYeqR9gH1ee8PsIrYqaweZteHWOTH66OSA=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 192000,
+      "viewCount": 203799141,
+      "videoCount": 15149,
+      "lastUpdated": "2025-08-18T07:13:05.402962Z"
+    },
+    "UCn8WFi6pE4cJZP8MiUNGFxg": {
+      "channelId": "UCn8WFi6pE4cJZP8MiUNGFxg",
+      "channelName": "KTV NEWS",
+      "channelUrl": "@ktv_news",
+      "channelDescription": "최신 정부 정책과 뉴스를 가장 빠르고 정확하게\n전문가와 함께 심도깊게 풀어보는 KTV NEWS \nKTV는 내일도 가장 빠른 정책 정보를 전달하겠습니다✨️\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/-onJTfnhW4T3ddcj4M8_iZ2psnWXUIbmrnXJhbuug1Rhg4XdjXMG81HOdAKp8zPox3paTfkK=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/-onJTfnhW4T3ddcj4M8_iZ2psnWXUIbmrnXJhbuug1Rhg4XdjXMG81HOdAKp8zPox3paTfkK=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/-onJTfnhW4T3ddcj4M8_iZ2psnWXUIbmrnXJhbuug1Rhg4XdjXMG81HOdAKp8zPox3paTfkK=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 166000,
+      "viewCount": 87289483,
+      "videoCount": 19304,
+      "lastUpdated": "2025-08-18T07:13:05.416071Z"
+    }
+  },
+  "lastUpdated": "2025-08-18T07:13:05.417068Z",
+  "totalVideos": 2,
+  "totalChannels": 2
+}

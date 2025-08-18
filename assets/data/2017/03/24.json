@@ -1,0 +1,112 @@
+{
+  "videos": {
+    "ELyIJ9X-xGQ": {
+      "videoId": "ELyIJ9X-xGQ",
+      "title": "국회의원25시_280회 박주민 의원 편[2017.03.08]",
+      "description": "거리의 변호사, 주민을 주인으로 섬기다-국회의원 박주민",
+      "publishedAt": "2017-03-24T00:51:28Z",
+      "duration": "PT24M48S",
+      "viewCount": 67872,
+      "likeCount": 1326,
+      "commentCount": 148,
+      "tags": [],
+      "categoryId": "29",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
+      "channelName": "NATV 국회방송",
+      "collectedAt": "2025-08-18T07:13:38.294993Z"
+    },
+    "7xfEZxTv1Is": {
+      "videoId": "7xfEZxTv1Is",
+      "title": "국회의원25시_279회 이재정 의원 편[2017.03.01]",
+      "description": "국민을 변호하는 시대의 대변인-국회의원 이재정",
+      "publishedAt": "2017-03-24T00:31:48Z",
+      "duration": "PT23M43S",
+      "viewCount": 53526,
+      "likeCount": 930,
+      "commentCount": 126,
+      "tags": [],
+      "categoryId": "29",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
+      "channelName": "NATV 국회방송",
+      "collectedAt": "2025-08-18T07:13:38.294993Z"
+    },
+    "Upou_FzhROc": {
+      "videoId": "Upou_FzhROc",
+      "title": "국회의원25시_278회 윤소하 의원 편[2017.02.22]",
+      "description": "삶의 현장과 국회를 잇다-국회의원 윤소하",
+      "publishedAt": "2017-03-24T00:30:59Z",
+      "duration": "PT26M3S",
+      "viewCount": 2808,
+      "likeCount": 47,
+      "commentCount": 6,
+      "tags": [],
+      "categoryId": "29",
+      "defaultLanguage": "ko",
+      "defaultAudioLanguage": "ko",
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
+      "channelName": "NATV 국회방송",
+      "collectedAt": "2025-08-18T07:13:38.294993Z"
+    },
+    "SkQFoXI3W7Y": {
+      "videoId": "SkQFoXI3W7Y",
+      "title": "국회의원25시_277회 윤영일 의원 편[2017.02.15]",
+      "description": "지구 반 바퀴, 지역 속으로 파고들다-국회의원 윤영일",
+      "publishedAt": "2017-03-24T00:30:10Z",
+      "duration": "PT22M32S",
+      "viewCount": 921,
+      "likeCount": 11,
+      "commentCount": 0,
+      "tags": [],
+      "categoryId": "29",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
+      "channelName": "NATV 국회방송",
+      "collectedAt": "2025-08-18T07:13:38.294993Z"
+    }
+  },
+  "channels": {
+    "UCL-WOj1FxKR8Hlzg5tvnWKg": {
+      "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
+      "channelName": "NATV 국회방송",
+      "channelUrl": "@natv_korea",
+      "channelDescription": "대한민국 국회가 운영하는 '국회방송(NATV)'의 공식 유튜브 채널입니다.\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/pR9h1UtIbvQgb1jzvA3cInTCuI9M_2tFxITGQb2pm7vlYy1lvoYmPMNrBQv7Rxhjy2Gh4FWGiQ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/pR9h1UtIbvQgb1jzvA3cInTCuI9M_2tFxITGQb2pm7vlYy1lvoYmPMNrBQv7Rxhjy2Gh4FWGiQ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/pR9h1UtIbvQgb1jzvA3cInTCuI9M_2tFxITGQb2pm7vlYy1lvoYmPMNrBQv7Rxhjy2Gh4FWGiQ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 264000,
+      "viewCount": 86009826,
+      "videoCount": 16390,
+      "lastUpdated": "2025-08-18T07:13:38.293996Z"
+    }
+  },
+  "lastUpdated": "2025-08-18T07:13:38.294993Z",
+  "totalVideos": 4,
+  "totalChannels": 1
+}

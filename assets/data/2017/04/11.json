@@ -1,0 +1,90 @@
+{
+  "videos": {
+    "4QtEZ9b5pHY": {
+      "videoId": "4QtEZ9b5pHY",
+      "title": "NATV 국회방송 힘내요, 청춘 _ 꿈을 핸드메이드하는 와일드 청춘, 청년 목수! (8회)",
+      "description": "꿈과 희망 도전하는 열정\n느린 걸음,내일로 향하는 길\n당신의 봄날을 응원합니다\n청년희망 미니다큐\n힘내요, 청춘",
+      "publishedAt": "2017-04-11T07:23:58Z",
+      "duration": "PT15M28S",
+      "viewCount": 8310,
+      "likeCount": 54,
+      "commentCount": 6,
+      "tags": [
+        "김동혁",
+        "목수",
+        "힘내요청춘",
+        "natv"
+      ],
+      "categoryId": "29",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
+      "channelName": "NATV 국회방송",
+      "collectedAt": "2025-08-18T07:13:37.997062Z"
+    },
+    "ExcRKYX8gpk": {
+      "videoId": "ExcRKYX8gpk",
+      "title": "NATV 국회방송 113회 TV 도서관에 가다",
+      "description": "1. 도권전평 \n\"여수\"\n 저자 : 서효인\n/ 출연자 : 서효인 시인 & 박준 시인 & 황인찬 시인 \n\n\n2. 내 인생의 책\n국민의당 김경진 의원 \n\"클라우드 아틀라스\"\n저자 : 데이비드 미첼",
+      "publishedAt": "2017-04-11T05:10:26Z",
+      "duration": "PT1H33S",
+      "viewCount": 2003,
+      "likeCount": 11,
+      "commentCount": 0,
+      "tags": [
+        "여수",
+        "NATV",
+        "국회방송",
+        "TV도서관",
+        "클라우드 아틀라스",
+        "서효인",
+        "황인찬",
+        "박준",
+        "데이비드 미첼",
+        "김경진"
+      ],
+      "categoryId": "29",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
+      "channelName": "NATV 국회방송",
+      "collectedAt": "2025-08-18T07:13:37.997062Z"
+    }
+  },
+  "channels": {
+    "UCL-WOj1FxKR8Hlzg5tvnWKg": {
+      "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
+      "channelName": "NATV 국회방송",
+      "channelUrl": "@natv_korea",
+      "channelDescription": "대한민국 국회가 운영하는 '국회방송(NATV)'의 공식 유튜브 채널입니다.\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/pR9h1UtIbvQgb1jzvA3cInTCuI9M_2tFxITGQb2pm7vlYy1lvoYmPMNrBQv7Rxhjy2Gh4FWGiQ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/pR9h1UtIbvQgb1jzvA3cInTCuI9M_2tFxITGQb2pm7vlYy1lvoYmPMNrBQv7Rxhjy2Gh4FWGiQ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/pR9h1UtIbvQgb1jzvA3cInTCuI9M_2tFxITGQb2pm7vlYy1lvoYmPMNrBQv7Rxhjy2Gh4FWGiQ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 264000,
+      "viewCount": 86009826,
+      "videoCount": 16390,
+      "lastUpdated": "2025-08-18T07:13:37.995063Z"
+    }
+  },
+  "lastUpdated": "2025-08-18T07:13:37.997062Z",
+  "totalVideos": 2,
+  "totalChannels": 1
+}

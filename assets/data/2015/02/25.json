@@ -1,0 +1,94 @@
+{
+  "videos": {
+    "1fpTtvqz7N0": {
+      "videoId": "1fpTtvqz7N0",
+      "title": "NATV 국회방송 국회는 지금 국회도서관 개관 63주년 기념식",
+      "description": "2월 24일 국회도서관 개관 63주년 기념식",
+      "publishedAt": "2015-02-25T01:21:35Z",
+      "duration": "PT6M1S",
+      "viewCount": 93,
+      "likeCount": 0,
+      "commentCount": 0,
+      "tags": [
+        "NATV",
+        "국회",
+        "국회는 지금",
+        "국회방송",
+        "정의화",
+        "국회의장",
+        "이은철",
+        "신익희",
+        "해공",
+        "박관용"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
+      "channelName": "NATV 국회방송",
+      "collectedAt": "2025-08-18T07:13:45.867645Z"
+    },
+    "JYg4ywib2Qk": {
+      "videoId": "JYg4ywib2Qk",
+      "title": "NATV 국회방송 국회입법데이트 295회 사회복지사업법 개정안 & 독점규제 및 공정거래법 개정안 - 박병석의원",
+      "description": "국회입법데이트 295회 사회복지사업법 개정안 & 독점규제 및 공정거래법 개정안 - 박병석의원\n\n사회복지관의 안정적 운영을 위하여 사회복지관 인력배치에 대한 기준을 마련하는 법안 & 공정거래위원회의 처분에 대한 불복의 소의 전속관할을 공정거래위원회의 소재지를 관할하는 대전고등법원으로 변경하는 법안",
+      "publishedAt": "2015-02-25T00:58:38Z",
+      "duration": "PT21M55S",
+      "viewCount": 102,
+      "likeCount": 0,
+      "commentCount": 0,
+      "tags": [
+        "국회방송",
+        "사회복지관",
+        "공정거래위원회",
+        "대전고등법원",
+        "박병석의원",
+        "새정치민주연합",
+        "법안",
+        "개정안"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
+      "channelName": "NATV 국회방송",
+      "collectedAt": "2025-08-18T07:13:45.867645Z"
+    }
+  },
+  "channels": {
+    "UCL-WOj1FxKR8Hlzg5tvnWKg": {
+      "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
+      "channelName": "NATV 국회방송",
+      "channelUrl": "@natv_korea",
+      "channelDescription": "대한민국 국회가 운영하는 '국회방송(NATV)'의 공식 유튜브 채널입니다.\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/pR9h1UtIbvQgb1jzvA3cInTCuI9M_2tFxITGQb2pm7vlYy1lvoYmPMNrBQv7Rxhjy2Gh4FWGiQ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/pR9h1UtIbvQgb1jzvA3cInTCuI9M_2tFxITGQb2pm7vlYy1lvoYmPMNrBQv7Rxhjy2Gh4FWGiQ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/pR9h1UtIbvQgb1jzvA3cInTCuI9M_2tFxITGQb2pm7vlYy1lvoYmPMNrBQv7Rxhjy2Gh4FWGiQ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 264000,
+      "viewCount": 86009826,
+      "videoCount": 16390,
+      "lastUpdated": "2025-08-18T07:13:45.867645Z"
+    }
+  },
+  "lastUpdated": "2025-08-18T07:13:45.867645Z",
+  "totalVideos": 2,
+  "totalChannels": 1
+}

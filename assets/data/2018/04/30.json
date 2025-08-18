@@ -1,0 +1,95 @@
+{
+  "videos": {
+    "ARKuNOTcfzw": {
+      "videoId": "ARKuNOTcfzw",
+      "title": "제20대 국회 인터뷰 릴레이 칭찬 172회 김종회 의원 민주평화당",
+      "description": "제20대 국회 인터뷰 릴레이 칭찬 172회 김종회 의원 민주평화당",
+      "publishedAt": "2018-04-30T06:54:41Z",
+      "duration": "PT9M44S",
+      "viewCount": 1357,
+      "likeCount": 6,
+      "commentCount": 1,
+      "tags": [
+        "국회의원",
+        "인터뷰릴레이칭찬",
+        "김종회의원",
+        "김종회",
+        "국회방송",
+        "인터뷰",
+        "릴레이",
+        "칭찬",
+        "김종회민주평화당",
+        "natv"
+      ],
+      "categoryId": "29",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
+      "channelName": "NATV 국회방송",
+      "collectedAt": "2025-08-18T07:13:34.871589Z"
+    },
+    "M-zrwRQCCXE": {
+      "videoId": "M-zrwRQCCXE",
+      "title": "제20대 국회 인터뷰 릴레이 칭찬 171회 위성곤 의원 더불어민주당",
+      "description": "제20대 국회 인터뷰 릴레이 칭찬 171회 위성곤 의원 더불어민주당",
+      "publishedAt": "2018-04-30T06:38:42Z",
+      "duration": "PT10M14S",
+      "viewCount": 1018,
+      "likeCount": 15,
+      "commentCount": 1,
+      "tags": [
+        "국회",
+        "국회방송",
+        "인터뷰릴레이칭찬",
+        "위성곤의원",
+        "더불어민주당",
+        "위성곤",
+        "더불어민주당위성곤",
+        "natv",
+        "칭찬"
+      ],
+      "categoryId": "29",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
+      "channelName": "NATV 국회방송",
+      "collectedAt": "2025-08-18T07:13:34.871589Z"
+    }
+  },
+  "channels": {
+    "UCL-WOj1FxKR8Hlzg5tvnWKg": {
+      "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
+      "channelName": "NATV 국회방송",
+      "channelUrl": "@natv_korea",
+      "channelDescription": "대한민국 국회가 운영하는 '국회방송(NATV)'의 공식 유튜브 채널입니다.\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/pR9h1UtIbvQgb1jzvA3cInTCuI9M_2tFxITGQb2pm7vlYy1lvoYmPMNrBQv7Rxhjy2Gh4FWGiQ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/pR9h1UtIbvQgb1jzvA3cInTCuI9M_2tFxITGQb2pm7vlYy1lvoYmPMNrBQv7Rxhjy2Gh4FWGiQ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/pR9h1UtIbvQgb1jzvA3cInTCuI9M_2tFxITGQb2pm7vlYy1lvoYmPMNrBQv7Rxhjy2Gh4FWGiQ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 264000,
+      "viewCount": 86009826,
+      "videoCount": 16390,
+      "lastUpdated": "2025-08-18T07:13:34.867516Z"
+    }
+  },
+  "lastUpdated": "2025-08-18T07:13:34.875149Z",
+  "totalVideos": 2,
+  "totalChannels": 1
+}

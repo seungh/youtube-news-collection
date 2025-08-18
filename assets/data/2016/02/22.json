@@ -1,0 +1,91 @@
+{
+  "videos": {
+    "M-57dcYTzTg": {
+      "videoId": "M-57dcYTzTg",
+      "title": "NATV 국회방송 59회 TV,도서관에가다",
+      "description": "1. 도권전평 \n\"인종차별의 역사\" 저자 : 크리스티앙 들라캉파뉴 \n/ 출연자 : 박경태 성공회대학교 사화학과 교수\n           이현우(로쟈) 서평가\n2. 내 인생의 책\n고도원 작가 / \"나의 사랑, 백남준\"\n저자 : 구보타 시게코",
+      "publishedAt": "2016-02-22T04:51:33Z",
+      "duration": "PT55M20S",
+      "viewCount": 561,
+      "likeCount": 7,
+      "commentCount": 0,
+      "tags": [
+        "NATV",
+        "국회방송",
+        "독서",
+        "도서",
+        "도서관",
+        "책",
+        "서재"
+      ],
+      "categoryId": "29",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
+      "channelName": "NATV 국회방송",
+      "collectedAt": "2025-08-18T07:13:42.027855Z"
+    },
+    "OkUTK5aovMw": {
+      "videoId": "OkUTK5aovMw",
+      "title": "NATV 국회방송 58회 TV,도서관에가다",
+      "description": "1. 도권전평 \n\"요리하는 조선 남자\" 저자 : 이 한 \n/ 출연자 : 이숙인 서울대학교 규장각 한국학 중앙연구원 교수\n           황광해 음식칼럼니스트\n2. 내 인생의 책\n 이호철 소설가 / \"무진기행\"\n저자 : 김승옥",
+      "publishedAt": "2016-02-22T03:15:05Z",
+      "duration": "PT55M50S",
+      "viewCount": 472,
+      "likeCount": 3,
+      "commentCount": 0,
+      "tags": [
+        "국회방송",
+        "NATV",
+        "국회도서관",
+        "명사",
+        "국회",
+        "도서관",
+        "독석",
+        "책"
+      ],
+      "categoryId": "29",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
+      "channelName": "NATV 국회방송",
+      "collectedAt": "2025-08-18T07:13:42.027855Z"
+    }
+  },
+  "channels": {
+    "UCL-WOj1FxKR8Hlzg5tvnWKg": {
+      "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
+      "channelName": "NATV 국회방송",
+      "channelUrl": "@natv_korea",
+      "channelDescription": "대한민국 국회가 운영하는 '국회방송(NATV)'의 공식 유튜브 채널입니다.\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/pR9h1UtIbvQgb1jzvA3cInTCuI9M_2tFxITGQb2pm7vlYy1lvoYmPMNrBQv7Rxhjy2Gh4FWGiQ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/pR9h1UtIbvQgb1jzvA3cInTCuI9M_2tFxITGQb2pm7vlYy1lvoYmPMNrBQv7Rxhjy2Gh4FWGiQ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/pR9h1UtIbvQgb1jzvA3cInTCuI9M_2tFxITGQb2pm7vlYy1lvoYmPMNrBQv7Rxhjy2Gh4FWGiQ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 264000,
+      "viewCount": 86009826,
+      "videoCount": 16390,
+      "lastUpdated": "2025-08-18T07:13:42.027855Z"
+    }
+  },
+  "lastUpdated": "2025-08-18T07:13:42.027855Z",
+  "totalVideos": 2,
+  "totalChannels": 1
+}

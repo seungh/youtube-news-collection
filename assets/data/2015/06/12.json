@@ -1,0 +1,95 @@
+{
+  "videos": {
+    "7YQ6f1sX1yM": {
+      "videoId": "7YQ6f1sX1yM",
+      "title": "NATV 국회방송 28회 TV, 도서관에 가다",
+      "description": "1. 도권전평 \n\"커피 만인을 위한 철학\" 저자 : 스콧F. 파커 외 \n/ 출연자 : 김경주 시인  \n                  박우현 커피 활동가\n\n2. 국회의원 서재\n새정치민주연합 홍종학 의원 /  \"위험한 정치인 \"\n저자 : 제임스 길리건",
+      "publishedAt": "2015-06-12T10:17:46Z",
+      "duration": "PT54M5S",
+      "viewCount": 811,
+      "likeCount": 9,
+      "commentCount": 0,
+      "tags": [
+        "국회의원",
+        "도서관",
+        "국회",
+        "국회방송",
+        "NATV",
+        "서재",
+        "책",
+        "도서",
+        "독서"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
+      "channelName": "NATV 국회방송",
+      "collectedAt": "2025-08-18T07:13:44.598172Z"
+    },
+    "Y30byhkJtbI": {
+      "videoId": "Y30byhkJtbI",
+      "title": "NATV 국회방송 국회입법데이트 370회 감염병의 예방 및 격리에 관한 법률 개정안 - 김용익의원",
+      "description": "국회입법데이트 370회 \n감염병의 예방 및 격리에 관한 법률 개정안 - 김용익의원\n\n'메르스' 격리 환자 생활보호 · 지원방안",
+      "publishedAt": "2015-06-12T01:06:59Z",
+      "duration": "PT21M46S",
+      "viewCount": 83,
+      "likeCount": 5,
+      "commentCount": 0,
+      "tags": [
+        "National Assembly (Governmental Body)",
+        "Statute",
+        "Legislation (Literature Subject)",
+        "Politics (TV Genre)",
+        "국회방송",
+        "감염병",
+        "메르스",
+        "개정안",
+        "법안",
+        "김용익의원"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
+      "channelName": "NATV 국회방송",
+      "collectedAt": "2025-08-18T07:13:44.598172Z"
+    }
+  },
+  "channels": {
+    "UCL-WOj1FxKR8Hlzg5tvnWKg": {
+      "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
+      "channelName": "NATV 국회방송",
+      "channelUrl": "@natv_korea",
+      "channelDescription": "대한민국 국회가 운영하는 '국회방송(NATV)'의 공식 유튜브 채널입니다.\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/pR9h1UtIbvQgb1jzvA3cInTCuI9M_2tFxITGQb2pm7vlYy1lvoYmPMNrBQv7Rxhjy2Gh4FWGiQ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/pR9h1UtIbvQgb1jzvA3cInTCuI9M_2tFxITGQb2pm7vlYy1lvoYmPMNrBQv7Rxhjy2Gh4FWGiQ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/pR9h1UtIbvQgb1jzvA3cInTCuI9M_2tFxITGQb2pm7vlYy1lvoYmPMNrBQv7Rxhjy2Gh4FWGiQ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 264000,
+      "viewCount": 86009826,
+      "videoCount": 16390,
+      "lastUpdated": "2025-08-18T07:13:44.598172Z"
+    }
+  },
+  "lastUpdated": "2025-08-18T07:13:44.598172Z",
+  "totalVideos": 2,
+  "totalChannels": 1
+}

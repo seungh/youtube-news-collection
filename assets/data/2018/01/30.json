@@ -1,0 +1,58 @@
+{
+  "videos": {
+    "th5fW-XZzK4": {
+      "videoId": "th5fW-XZzK4",
+      "title": "[국회방송 생중계] 제356회 국회(임시회) 개회식 및 제1차 본회의(2018.1.30)",
+      "description": "[국회방송 생중계] 제356회 국회(임시회) 개회식 및 제1차 본회의(2018.1.30)",
+      "publishedAt": "2018-01-30T07:25:53Z",
+      "duration": "PT2H10M11S",
+      "viewCount": 3553,
+      "likeCount": 13,
+      "commentCount": 1,
+      "tags": [],
+      "categoryId": "29",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": "en-US",
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": {
+        "actualStartTime": "2018-01-30T04:38:58Z",
+        "actualEndTime": "2018-01-30T06:49:54Z"
+      },
+      "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
+      "channelName": "NATV 국회방송",
+      "collectedAt": "2025-08-18T07:13:35.738400Z"
+    }
+  },
+  "channels": {
+    "UCL-WOj1FxKR8Hlzg5tvnWKg": {
+      "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
+      "channelName": "NATV 국회방송",
+      "channelUrl": "@natv_korea",
+      "channelDescription": "대한민국 국회가 운영하는 '국회방송(NATV)'의 공식 유튜브 채널입니다.\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/pR9h1UtIbvQgb1jzvA3cInTCuI9M_2tFxITGQb2pm7vlYy1lvoYmPMNrBQv7Rxhjy2Gh4FWGiQ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/pR9h1UtIbvQgb1jzvA3cInTCuI9M_2tFxITGQb2pm7vlYy1lvoYmPMNrBQv7Rxhjy2Gh4FWGiQ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/pR9h1UtIbvQgb1jzvA3cInTCuI9M_2tFxITGQb2pm7vlYy1lvoYmPMNrBQv7Rxhjy2Gh4FWGiQ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 264000,
+      "viewCount": 86009826,
+      "videoCount": 16390,
+      "lastUpdated": "2025-08-18T07:13:35.737369Z"
+    }
+  },
+  "lastUpdated": "2025-08-18T07:13:35.739417Z",
+  "totalVideos": 1,
+  "totalChannels": 1
+}

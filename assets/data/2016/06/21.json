@@ -1,0 +1,63 @@
+{
+  "videos": {
+    "Q3_ImiCioZg": {
+      "videoId": "Q3_ImiCioZg",
+      "title": "NATV 국회방송 74회 TV,도서관에 가다",
+      "description": "1. 도권전평 \n\"그리고 산이 울렸다\" 저자 : 할레드 호세이니\n/ 출연자 : 강유정 문학평론가\n                  서정민 한국외국어대학교 국제지역대학원 교수\n2. 내 인생의 책\n더불어민주당 이철희 의원  \"절반의 인민주권\"\n저자 : E.E. 샤츠슈나이더",
+      "publishedAt": "2016-06-21T02:07:51Z",
+      "duration": "PT57M45S",
+      "viewCount": 1065,
+      "likeCount": 11,
+      "commentCount": 0,
+      "tags": [
+        "NATV",
+        "국회방송",
+        "국회도서관",
+        "책",
+        "서재",
+        "독서",
+        "국회의원"
+      ],
+      "categoryId": "29",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
+      "channelName": "NATV 국회방송",
+      "collectedAt": "2025-08-18T07:13:40.839608Z"
+    }
+  },
+  "channels": {
+    "UCL-WOj1FxKR8Hlzg5tvnWKg": {
+      "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
+      "channelName": "NATV 국회방송",
+      "channelUrl": "@natv_korea",
+      "channelDescription": "대한민국 국회가 운영하는 '국회방송(NATV)'의 공식 유튜브 채널입니다.\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/pR9h1UtIbvQgb1jzvA3cInTCuI9M_2tFxITGQb2pm7vlYy1lvoYmPMNrBQv7Rxhjy2Gh4FWGiQ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/pR9h1UtIbvQgb1jzvA3cInTCuI9M_2tFxITGQb2pm7vlYy1lvoYmPMNrBQv7Rxhjy2Gh4FWGiQ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/pR9h1UtIbvQgb1jzvA3cInTCuI9M_2tFxITGQb2pm7vlYy1lvoYmPMNrBQv7Rxhjy2Gh4FWGiQ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 264000,
+      "viewCount": 86009826,
+      "videoCount": 16390,
+      "lastUpdated": "2025-08-18T07:13:40.838568Z"
+    }
+  },
+  "lastUpdated": "2025-08-18T07:13:40.844715Z",
+  "totalVideos": 1,
+  "totalChannels": 1
+}

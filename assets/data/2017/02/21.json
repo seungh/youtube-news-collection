@@ -1,0 +1,93 @@
+{
+  "videos": {
+    "E3xXV0kIa00": {
+      "videoId": "E3xXV0kIa00",
+      "title": "NATV 국회방송 힘내요, 청춘 _ 3D 직업의 변신, 청춘 도전기 1회",
+      "description": "꿈과 희망 도전하는 열정\n느린 걸음,내일로 향하는 길\n당신의 봄날을 응원합니다\n청년희망 미니다큐\n힘내요, 청춘 \n\n1회: 3D 직업의 변신, 청춘 도전기",
+      "publishedAt": "2017-02-21T08:29:03Z",
+      "duration": "PT18M48S",
+      "viewCount": 618,
+      "likeCount": 0,
+      "commentCount": 0,
+      "tags": [
+        "NATV",
+        "힘내요",
+        "청춘",
+        "힘내요청춘",
+        "세탁특공대",
+        "홈마스터",
+        "도전기",
+        "3D"
+      ],
+      "categoryId": "29",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
+      "channelName": "NATV 국회방송",
+      "collectedAt": "2025-08-18T07:13:38.496400Z"
+    },
+    "pc4hu3rB5vI": {
+      "videoId": "pc4hu3rB5vI",
+      "title": "NATV 국회방송 106회 TV 도서관에 가다",
+      "description": "1. 도권전평 \n\"트럼프 강한 미국을 꿈꾸다 \" \n  저자 : 도널드 트럼프\n  출연자 : 윤창현 교수 / 서울시립대 경영학부\n                 김근식 교수 / 경남대 정치외교학과 \n\n2. 내 인생의 책\n더불어민주당 신창현 의원 \n\"전환시대의 논리 \"\n저자 : 리영희",
+      "publishedAt": "2017-02-21T04:44:41Z",
+      "duration": "PT58M35S",
+      "viewCount": 1145,
+      "likeCount": 5,
+      "commentCount": 0,
+      "tags": [
+        "NATV",
+        "TV도서관",
+        "트럼프",
+        "트럼프 강한 미국을 꿈꾸다",
+        "김근식",
+        "윤창현",
+        "신창현",
+        "리영희",
+        "전환시대의 논리"
+      ],
+      "categoryId": "29",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
+      "channelName": "NATV 국회방송",
+      "collectedAt": "2025-08-18T07:13:38.496400Z"
+    }
+  },
+  "channels": {
+    "UCL-WOj1FxKR8Hlzg5tvnWKg": {
+      "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
+      "channelName": "NATV 국회방송",
+      "channelUrl": "@natv_korea",
+      "channelDescription": "대한민국 국회가 운영하는 '국회방송(NATV)'의 공식 유튜브 채널입니다.\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/pR9h1UtIbvQgb1jzvA3cInTCuI9M_2tFxITGQb2pm7vlYy1lvoYmPMNrBQv7Rxhjy2Gh4FWGiQ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/pR9h1UtIbvQgb1jzvA3cInTCuI9M_2tFxITGQb2pm7vlYy1lvoYmPMNrBQv7Rxhjy2Gh4FWGiQ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/pR9h1UtIbvQgb1jzvA3cInTCuI9M_2tFxITGQb2pm7vlYy1lvoYmPMNrBQv7Rxhjy2Gh4FWGiQ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 264000,
+      "viewCount": 86009826,
+      "videoCount": 16390,
+      "lastUpdated": "2025-08-18T07:13:38.495323Z"
+    }
+  },
+  "lastUpdated": "2025-08-18T07:13:38.496400Z",
+  "totalVideos": 2,
+  "totalChannels": 1
+}

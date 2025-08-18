@@ -1,0 +1,88 @@
+{
+  "videos": {
+    "1k3i0lKts8Q": {
+      "videoId": "1k3i0lKts8Q",
+      "title": "NATV 국회방송 11회 TV,도서관에 가다",
+      "description": "1. 글로벌입법뉴스 \n김령희 해외자료조사관 \n조동관 법률자료조사관 \n\n2. 국회의원 서재 \n새누리당 황영철 의원 / \"갈 수 없는 나라\" 저자 : 조해일 \n\n3.. 도권전평 \n\"규슈, 백년의 맛\" 저자 : 박종호, 김종열 \n/ 서평 이천효 동부산대학교 호텔외식조리과 교수",
+      "publishedAt": "2015-02-06T11:40:42Z",
+      "duration": "PT53M18S",
+      "viewCount": 462,
+      "likeCount": 1,
+      "commentCount": 0,
+      "tags": [
+        "NATV 국회방송",
+        "책",
+        "도서",
+        "도서관",
+        "국회의원"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
+      "channelName": "NATV 국회방송",
+      "collectedAt": "2025-08-18T07:13:45.948775Z"
+    },
+    "S9IaVZa4KRE": {
+      "videoId": "S9IaVZa4KRE",
+      "title": "NATV 국회방송 국회입법데이트 285회 형사소송법 & 공익신고자 보호법 개정안 - 박주선의원",
+      "description": "국회입법데이트 285회 \n형사소송법 & 공익신고자 보호법 개정안 - 박주선의원\n\n원심법원이 대법원 판례변경 절차 없이 기존의 대법원 판례와 배치되는 판결을 내린 경우, 해당 판결의 부당함을 시정할 수 있도록 하는 법안 & 교육분야 비리를 신고한 공익신고자를 보호하기 위한 법안",
+      "publishedAt": "2015-02-06T01:14:06Z",
+      "duration": "PT19M31S",
+      "viewCount": 42,
+      "likeCount": 0,
+      "commentCount": 0,
+      "tags": [
+        "National Assembly (Governmental Body)",
+        "형사소송",
+        "공익신고자",
+        "대법원",
+        "새정치민주연합",
+        "박주선의원",
+        "국회방송"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
+      "channelName": "NATV 국회방송",
+      "collectedAt": "2025-08-18T07:13:45.948775Z"
+    }
+  },
+  "channels": {
+    "UCL-WOj1FxKR8Hlzg5tvnWKg": {
+      "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
+      "channelName": "NATV 국회방송",
+      "channelUrl": "@natv_korea",
+      "channelDescription": "대한민국 국회가 운영하는 '국회방송(NATV)'의 공식 유튜브 채널입니다.\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/pR9h1UtIbvQgb1jzvA3cInTCuI9M_2tFxITGQb2pm7vlYy1lvoYmPMNrBQv7Rxhjy2Gh4FWGiQ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/pR9h1UtIbvQgb1jzvA3cInTCuI9M_2tFxITGQb2pm7vlYy1lvoYmPMNrBQv7Rxhjy2Gh4FWGiQ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/pR9h1UtIbvQgb1jzvA3cInTCuI9M_2tFxITGQb2pm7vlYy1lvoYmPMNrBQv7Rxhjy2Gh4FWGiQ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 264000,
+      "viewCount": 86009826,
+      "videoCount": 16390,
+      "lastUpdated": "2025-08-18T07:13:45.948775Z"
+    }
+  },
+  "lastUpdated": "2025-08-18T07:13:45.950006Z",
+  "totalVideos": 2,
+  "totalChannels": 1
+}

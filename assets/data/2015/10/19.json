@@ -1,0 +1,91 @@
+{
+  "videos": {
+    "Hk0JbkZrHyQ": {
+      "videoId": "Hk0JbkZrHyQ",
+      "title": "NATV 국회방송 42회 TV, 도서관에 가다",
+      "description": "1. 도권전평 \n\"아트인문학 여행\" 저자 : 김태진 \n/ 출연자 : 김태진 서울시립대 교양학부 겸임교수\n                  안계환 '안계환 인문연구소' 대표\n2. 국회의원 서재\n새정치민주연합 임수경 의원 / \"이탈리아 기행\"\n저자 : 요한 볼프강 폰 괴테",
+      "publishedAt": "2015-10-19T09:53:12Z",
+      "duration": "PT57M15S",
+      "viewCount": 426,
+      "likeCount": 5,
+      "commentCount": 0,
+      "tags": [
+        "국회의원",
+        "국회방송",
+        "NATV",
+        "서재",
+        "도서관",
+        "국회도서관",
+        "국회",
+        "책"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
+      "channelName": "NATV 국회방송",
+      "collectedAt": "2025-08-18T07:13:43.265348Z"
+    },
+    "fK70X4jhmcI": {
+      "videoId": "fK70X4jhmcI",
+      "title": "NATV 국회방송 국회입법데이트 438회 형법일부개정법률안 & 민법일부개정법률안 - 민병두의원",
+      "description": "국회입법데이트 438회 \n형법일부개정법률안 & 민법일부개정법률안 - 민병두의원\n\n존속폭행죄에 대한 반의사불벌 규정을 쳬지하는 내용의 법률안\n& 배신행위의 유형을 보다 정확히 하고, 해제권의 제척기간을 외국의 민법 사례를 참고하여 1년으로 조정하고, 이미 이행한 부분에 대해서도 반환을 청구할 수 있도록 하기 위한 법안",
+      "publishedAt": "2015-10-19T00:42:51Z",
+      "duration": "PT20M55S",
+      "viewCount": 43,
+      "likeCount": 0,
+      "commentCount": 0,
+      "tags": [
+        "National Assembly (Governmental Body)",
+        "국회방송",
+        "존속폭행죄",
+        "법안",
+        "개정안",
+        "민병두의원",
+        "새정치민주연합"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
+      "channelName": "NATV 국회방송",
+      "collectedAt": "2025-08-18T07:13:43.265348Z"
+    }
+  },
+  "channels": {
+    "UCL-WOj1FxKR8Hlzg5tvnWKg": {
+      "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
+      "channelName": "NATV 국회방송",
+      "channelUrl": "@natv_korea",
+      "channelDescription": "대한민국 국회가 운영하는 '국회방송(NATV)'의 공식 유튜브 채널입니다.\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/pR9h1UtIbvQgb1jzvA3cInTCuI9M_2tFxITGQb2pm7vlYy1lvoYmPMNrBQv7Rxhjy2Gh4FWGiQ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/pR9h1UtIbvQgb1jzvA3cInTCuI9M_2tFxITGQb2pm7vlYy1lvoYmPMNrBQv7Rxhjy2Gh4FWGiQ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/pR9h1UtIbvQgb1jzvA3cInTCuI9M_2tFxITGQb2pm7vlYy1lvoYmPMNrBQv7Rxhjy2Gh4FWGiQ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 264000,
+      "viewCount": 86009826,
+      "videoCount": 16390,
+      "lastUpdated": "2025-08-18T07:13:43.264351Z"
+    }
+  },
+  "lastUpdated": "2025-08-18T07:13:43.265348Z",
+  "totalVideos": 2,
+  "totalChannels": 1
+}

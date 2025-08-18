@@ -1,0 +1,121 @@
+{
+  "videos": {
+    "oQvfu1qDFHc": {
+      "videoId": "oQvfu1qDFHc",
+      "title": "NATV 국회방송 104회 TV 도서관에 가다",
+      "description": "1. 도권전평 \n\"망고 스퀘어에서 우리는 \" \n  저자 : 금태현\n  출연자 : 금태현 / 소설가\n                 강유정 / 문학평론가\n\n2. 내 인생의 책\n더불어민주당 김해영 의원 \n\"마음 다스리는 법 \"\n저자 : 김정빈",
+      "publishedAt": "2017-02-14T08:34:41Z",
+      "duration": "PT58M14S",
+      "viewCount": 1317,
+      "likeCount": 5,
+      "commentCount": 0,
+      "tags": [
+        "tv도서관",
+        "국회방송",
+        "104회",
+        "마음다스리는법",
+        "망고스퀘어에서우리는",
+        "금태현",
+        "강유정"
+      ],
+      "categoryId": "29",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
+      "channelName": "NATV 국회방송",
+      "collectedAt": "2025-08-18T07:13:38.562125Z"
+    },
+    "hPgiY3EddVg": {
+      "videoId": "hPgiY3EddVg",
+      "title": "NATV 국회방송 3회 통통 입법토크 법률아 놀자",
+      "description": "1.주제\n- 노인복지법",
+      "publishedAt": "2017-02-14T08:32:27Z",
+      "duration": "PT52M21S",
+      "viewCount": 141,
+      "likeCount": 0,
+      "commentCount": 0,
+      "tags": [
+        "국회방송",
+        "NATV",
+        "임방글",
+        "박지훈",
+        "김양순",
+        "양윤선",
+        "양지민",
+        "법률",
+        "법"
+      ],
+      "categoryId": "29",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
+      "channelName": "NATV 국회방송",
+      "collectedAt": "2025-08-18T07:13:38.562125Z"
+    },
+    "NoMj6umD9BU": {
+      "videoId": "NoMj6umD9BU",
+      "title": "NATV 국회방송 2회 통통 입법토크 법률아 놀자",
+      "description": "1.주제\n- 도로교통법",
+      "publishedAt": "2017-02-14T05:44:39Z",
+      "duration": "PT51M26S",
+      "viewCount": 155,
+      "likeCount": 0,
+      "commentCount": 0,
+      "tags": [
+        "국회방송",
+        "NATV",
+        "임방글",
+        "김양순",
+        "박지훈",
+        "양지민",
+        "양윤선",
+        "법률",
+        "법"
+      ],
+      "categoryId": "29",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
+      "channelName": "NATV 국회방송",
+      "collectedAt": "2025-08-18T07:13:38.562125Z"
+    }
+  },
+  "channels": {
+    "UCL-WOj1FxKR8Hlzg5tvnWKg": {
+      "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
+      "channelName": "NATV 국회방송",
+      "channelUrl": "@natv_korea",
+      "channelDescription": "대한민국 국회가 운영하는 '국회방송(NATV)'의 공식 유튜브 채널입니다.\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/pR9h1UtIbvQgb1jzvA3cInTCuI9M_2tFxITGQb2pm7vlYy1lvoYmPMNrBQv7Rxhjy2Gh4FWGiQ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/pR9h1UtIbvQgb1jzvA3cInTCuI9M_2tFxITGQb2pm7vlYy1lvoYmPMNrBQv7Rxhjy2Gh4FWGiQ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/pR9h1UtIbvQgb1jzvA3cInTCuI9M_2tFxITGQb2pm7vlYy1lvoYmPMNrBQv7Rxhjy2Gh4FWGiQ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 264000,
+      "viewCount": 86009826,
+      "videoCount": 16390,
+      "lastUpdated": "2025-08-18T07:13:38.561593Z"
+    }
+  },
+  "lastUpdated": "2025-08-18T07:13:38.562125Z",
+  "totalVideos": 3,
+  "totalChannels": 1
+}

@@ -1,0 +1,90 @@
+{
+  "videos": {
+    "gBeNGzrkoww": {
+      "videoId": "gBeNGzrkoww",
+      "title": "NATV 국회방송 92회 TV 도서관에 가다",
+      "description": "1. 도권전평 \n\"왜 학교는 질문을 가르치지 않는가\"\n저자 : 황주환\n/ 출연자 : 황주환 교사 & 이범 교육평론가 \n\n\n2. 내 인생의 책\n더불어민주당 오제세의원\n\"불평등의 대가\"\n저자 : 조셉 스티글리츠",
+      "publishedAt": "2016-11-14T03:58:49Z",
+      "duration": "PT56M46S",
+      "viewCount": 1972,
+      "likeCount": 22,
+      "commentCount": 0,
+      "tags": [
+        "TV도서관",
+        "도서관",
+        "오제세의원",
+        "황주환",
+        "학교",
+        "왜학교는질문을"
+      ],
+      "categoryId": "29",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
+      "channelName": "NATV 국회방송",
+      "collectedAt": "2025-08-18T07:13:39.276966Z"
+    },
+    "aBpoH9l6UfA": {
+      "videoId": "aBpoH9l6UfA",
+      "title": "NATV 국회방송 슈퍼코리안 세상을 바꾸다 제5회 슈퍼코리안 김묘선1부",
+      "description": "고 이매방선생님의 승무 전수조교 및 살풀이춤 이수자로서 현재 우리나라와 일본, 미국 등지에서 승무와 살풀이춤을 전수하고 있다.",
+      "publishedAt": "2016-11-14T00:18:44Z",
+      "duration": "PT26M18S",
+      "viewCount": 5505,
+      "likeCount": 75,
+      "commentCount": 17,
+      "tags": [
+        "김묘선",
+        "이매방",
+        "승무",
+        "살풀이춤",
+        "대일사",
+        "대일사주지",
+        "전수조교",
+        "도쿠시마"
+      ],
+      "categoryId": "29",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
+      "channelName": "NATV 국회방송",
+      "collectedAt": "2025-08-18T07:13:39.276966Z"
+    }
+  },
+  "channels": {
+    "UCL-WOj1FxKR8Hlzg5tvnWKg": {
+      "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
+      "channelName": "NATV 국회방송",
+      "channelUrl": "@natv_korea",
+      "channelDescription": "대한민국 국회가 운영하는 '국회방송(NATV)'의 공식 유튜브 채널입니다.\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/pR9h1UtIbvQgb1jzvA3cInTCuI9M_2tFxITGQb2pm7vlYy1lvoYmPMNrBQv7Rxhjy2Gh4FWGiQ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/pR9h1UtIbvQgb1jzvA3cInTCuI9M_2tFxITGQb2pm7vlYy1lvoYmPMNrBQv7Rxhjy2Gh4FWGiQ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/pR9h1UtIbvQgb1jzvA3cInTCuI9M_2tFxITGQb2pm7vlYy1lvoYmPMNrBQv7Rxhjy2Gh4FWGiQ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 264000,
+      "viewCount": 86009826,
+      "videoCount": 16390,
+      "lastUpdated": "2025-08-18T07:13:39.275959Z"
+    }
+  },
+  "lastUpdated": "2025-08-18T07:13:39.277955Z",
+  "totalVideos": 2,
+  "totalChannels": 1
+}

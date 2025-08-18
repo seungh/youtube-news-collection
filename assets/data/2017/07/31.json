@@ -1,0 +1,55 @@
+{
+  "videos": {
+    "TvIFgvheFfU": {
+      "videoId": "TvIFgvheFfU",
+      "title": "NATV 국회방송 128회 TV 도서관에 가다 - 채소의 인문학(정혜경 교수 저)",
+      "description": "TV, 도서관에 가다 (128회) \n\n1. 도권전평 \n'채소의 인문학'\n\n저자: 정혜경 호서대 식품영양학과 교수\n서평: 장진주 도시농사꾼\n\n2. 내 인생의 책 \n\n서영교 의원\n'전태일 평전'\n\n저자: 조영래 변호사",
+      "publishedAt": "2017-07-31T09:26:48Z",
+      "duration": "PT59M51S",
+      "viewCount": 1901,
+      "likeCount": 10,
+      "commentCount": 0,
+      "tags": [],
+      "categoryId": "29",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
+      "channelName": "NATV 국회방송",
+      "collectedAt": "2025-08-18T07:13:37.127637Z"
+    }
+  },
+  "channels": {
+    "UCL-WOj1FxKR8Hlzg5tvnWKg": {
+      "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
+      "channelName": "NATV 국회방송",
+      "channelUrl": "@natv_korea",
+      "channelDescription": "대한민국 국회가 운영하는 '국회방송(NATV)'의 공식 유튜브 채널입니다.\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/pR9h1UtIbvQgb1jzvA3cInTCuI9M_2tFxITGQb2pm7vlYy1lvoYmPMNrBQv7Rxhjy2Gh4FWGiQ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/pR9h1UtIbvQgb1jzvA3cInTCuI9M_2tFxITGQb2pm7vlYy1lvoYmPMNrBQv7Rxhjy2Gh4FWGiQ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/pR9h1UtIbvQgb1jzvA3cInTCuI9M_2tFxITGQb2pm7vlYy1lvoYmPMNrBQv7Rxhjy2Gh4FWGiQ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 264000,
+      "viewCount": 86009826,
+      "videoCount": 16390,
+      "lastUpdated": "2025-08-18T07:13:37.127637Z"
+    }
+  },
+  "lastUpdated": "2025-08-18T07:13:37.127637Z",
+  "totalVideos": 1,
+  "totalChannels": 1
+}

@@ -28,7 +28,37 @@
       "liveStreamingDetails": null,
       "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
       "channelName": "NATV 국회방송",
-      "collectedAt": "2025-08-18T02:22:30.056926Z"
+      "collectedAt": "2025-08-18T07:13:03.523986Z"
+    },
+    "dIvP5wqESwg": {
+      "videoId": "dIvP5wqESwg",
+      "title": "[LIG넥스원 연구원의 하루]  세계 7번째! 한국형 위성항법시스템 연구원",
+      "description": "#GPS #KPS #lig넥스원 \n[LIG넥스원 연구원의 하루] 세계 7번째! GPS 한국버전? 한국형 위성항법시스템 연구원\n\n프로듀서: 국방홍보원 안승회",
+      "publishedAt": "2022-07-23T02:20:34Z",
+      "duration": "PT9M27S",
+      "viewCount": 10511,
+      "likeCount": 153,
+      "commentCount": 13,
+      "tags": [
+        "DEFENSE NEWS",
+        "ROK",
+        "군금해",
+        "K방산의주역",
+        "K방산",
+        "방산",
+        "방위사업",
+        "안승회",
+        "안승회기자",
+        "국방부"
+      ],
+      "categoryId": "24",
+      "defaultLanguage": "ko",
+      "defaultAudioLanguage": "ko",
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UC88r6mA2791EXvGAruLL7ug",
+      "channelName": "KFN뉴스",
+      "collectedAt": "2025-08-18T07:13:03.522030Z"
     }
   },
   "channels": {
@@ -58,9 +88,36 @@
       "viewCount": 86003788,
       "videoCount": 16388,
       "lastUpdated": "2025-08-18T02:22:30.055931Z"
+    },
+    "UC88r6mA2791EXvGAruLL7ug": {
+      "channelId": "UC88r6mA2791EXvGAruLL7ug",
+      "channelName": "KFN뉴스",
+      "channelUrl": "@dnrok1028",
+      "channelDescription": "국방소식을 가장 정확하고 신속하게 전달하는 국방소식 KFN뉴스\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/cWmZDCjMEuPq0MTN5pBC1rrN0Bu9CEAsmux48XxhvxYeqR9gH1ee8PsIrYqaweZteHWOTH66OSA=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/cWmZDCjMEuPq0MTN5pBC1rrN0Bu9CEAsmux48XxhvxYeqR9gH1ee8PsIrYqaweZteHWOTH66OSA=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/cWmZDCjMEuPq0MTN5pBC1rrN0Bu9CEAsmux48XxhvxYeqR9gH1ee8PsIrYqaweZteHWOTH66OSA=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 192000,
+      "viewCount": 203799141,
+      "videoCount": 15149,
+      "lastUpdated": "2025-08-18T07:13:03.518946Z"
     }
   },
-  "lastUpdated": "2025-08-18T02:22:30.058142Z",
-  "totalVideos": 1,
-  "totalChannels": 1
+  "lastUpdated": "2025-08-18T07:13:03.524975Z",
+  "totalVideos": 2,
+  "totalChannels": 2
 }

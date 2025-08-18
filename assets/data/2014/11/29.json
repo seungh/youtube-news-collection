@@ -1,0 +1,78 @@
+{
+  "videos": {
+    "6XC99VmTXck": {
+      "videoId": "6XC99VmTXck",
+      "title": "국민입법제안 우리가 만드는 세상 - 제5회, 소형 오토바이 안전교육 의무화",
+      "description": "제5회\n방송일 : 2014년 11월 21일\n부   제 : 소형 오토바이 안전교육 의무화",
+      "publishedAt": "2014-11-29T09:08:24Z",
+      "duration": "PT10M33S",
+      "viewCount": 2825,
+      "likeCount": 7,
+      "commentCount": 0,
+      "tags": [],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
+      "channelName": "NATV 국회방송",
+      "collectedAt": "2025-08-18T07:13:47.283206Z"
+    },
+    "6oDpdAgcEcM": {
+      "videoId": "6oDpdAgcEcM",
+      "title": "칭찬 13회, 오제세 의원 (새정치민주연합)",
+      "description": "칭찬 13회, 오제세 의원 (새정치민주연합)",
+      "publishedAt": "2014-11-29T07:54:42Z",
+      "duration": "PT9M23S",
+      "viewCount": 485,
+      "likeCount": 0,
+      "commentCount": 0,
+      "tags": [
+        "칭찬 13회",
+        "오제세 의원",
+        "새정치민주연합"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
+      "channelName": "NATV 국회방송",
+      "collectedAt": "2025-08-18T07:13:47.283206Z"
+    }
+  },
+  "channels": {
+    "UCL-WOj1FxKR8Hlzg5tvnWKg": {
+      "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
+      "channelName": "NATV 국회방송",
+      "channelUrl": "@natv_korea",
+      "channelDescription": "대한민국 국회가 운영하는 '국회방송(NATV)'의 공식 유튜브 채널입니다.\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/pR9h1UtIbvQgb1jzvA3cInTCuI9M_2tFxITGQb2pm7vlYy1lvoYmPMNrBQv7Rxhjy2Gh4FWGiQ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/pR9h1UtIbvQgb1jzvA3cInTCuI9M_2tFxITGQb2pm7vlYy1lvoYmPMNrBQv7Rxhjy2Gh4FWGiQ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/pR9h1UtIbvQgb1jzvA3cInTCuI9M_2tFxITGQb2pm7vlYy1lvoYmPMNrBQv7Rxhjy2Gh4FWGiQ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 264000,
+      "viewCount": 86009826,
+      "videoCount": 16390,
+      "lastUpdated": "2025-08-18T07:13:47.280181Z"
+    }
+  },
+  "lastUpdated": "2025-08-18T07:13:47.284718Z",
+  "totalVideos": 2,
+  "totalChannels": 1
+}

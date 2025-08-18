@@ -1,0 +1,92 @@
+{
+  "videos": {
+    "pVH2lSXq5OE": {
+      "videoId": "pVH2lSXq5OE",
+      "title": "NATV 국회방송 10회 통통 입법토크 법률아 놀자",
+      "description": "1.주제 : 국민기초생활보장법\n\n- 내용\n가. 기초생활보장제도 수급자 선정기준에서 부양의무자 기준을 제외함(안 제2조제5호 삭제 및 제3조제2항). \n\n나. 주소지가 없는 수급신청자의 경우 수급실시를 희망하는 보장기관에서 임시 주소지를 제공하도록 함(안 제10조제3항 신설 및 제19조).\n\n다. 수급자에 대한 급여가 행정상의 오류 또는 그 밖의 정당한 사유없이 과소 지급되었을 경우에는 그 기간과 관계없이 전액 소급하여 지급함을 원칙으로 함(안 제29조의2 신설).",
+      "publishedAt": "2017-04-25T09:08:25Z",
+      "duration": "PT45M1S",
+      "viewCount": 104,
+      "likeCount": 2,
+      "commentCount": 0,
+      "tags": [
+        "NATV",
+        "국회방송",
+        "임방글",
+        "박지훈",
+        "양윤선",
+        "박세희",
+        "양지민",
+        "법률"
+      ],
+      "categoryId": "29",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
+      "channelName": "NATV 국회방송",
+      "collectedAt": "2025-08-18T07:13:37.876531Z"
+    },
+    "bt0eJoiH4P4": {
+      "videoId": "bt0eJoiH4P4",
+      "title": "NATV 국회방송 9회 통통 입법토크 법률아 놀자",
+      "description": "1.주제 : 건축법시행령, 승강기시설안전관리법 \n        \n2. 내용\n- 건축법시행령\n- 승강기시설안전관리법",
+      "publishedAt": "2017-04-25T08:07:24Z",
+      "duration": "PT46M57S",
+      "viewCount": 118,
+      "likeCount": 2,
+      "commentCount": 0,
+      "tags": [
+        "NATV",
+        "국회방송",
+        "법률",
+        "임방글",
+        "양지민",
+        "박세희",
+        "양윤선",
+        "박지훈"
+      ],
+      "categoryId": "29",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
+      "channelName": "NATV 국회방송",
+      "collectedAt": "2025-08-18T07:13:37.876531Z"
+    }
+  },
+  "channels": {
+    "UCL-WOj1FxKR8Hlzg5tvnWKg": {
+      "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
+      "channelName": "NATV 국회방송",
+      "channelUrl": "@natv_korea",
+      "channelDescription": "대한민국 국회가 운영하는 '국회방송(NATV)'의 공식 유튜브 채널입니다.\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/pR9h1UtIbvQgb1jzvA3cInTCuI9M_2tFxITGQb2pm7vlYy1lvoYmPMNrBQv7Rxhjy2Gh4FWGiQ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/pR9h1UtIbvQgb1jzvA3cInTCuI9M_2tFxITGQb2pm7vlYy1lvoYmPMNrBQv7Rxhjy2Gh4FWGiQ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/pR9h1UtIbvQgb1jzvA3cInTCuI9M_2tFxITGQb2pm7vlYy1lvoYmPMNrBQv7Rxhjy2Gh4FWGiQ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 264000,
+      "viewCount": 86009826,
+      "videoCount": 16390,
+      "lastUpdated": "2025-08-18T07:13:37.864825Z"
+    }
+  },
+  "lastUpdated": "2025-08-18T07:13:37.876531Z",
+  "totalVideos": 2,
+  "totalChannels": 1
+}

@@ -1,0 +1,92 @@
+{
+  "videos": {
+    "k1VIB4buSz0": {
+      "videoId": "k1VIB4buSz0",
+      "title": "NATV 국회방송 48회 TV,도서관에 가다",
+      "description": "1. 도권전평 \n\"경성 상계사\"  저자 : 박상하 \n/ 출연자 : 박상하 소설가\n                  정병헌 숙명여대 국문과 교수         \n2. 국회의원 서재\n새정치민주연합 백재현 의원 / \"송곳\"\n저자 : 최규석",
+      "publishedAt": "2015-11-30T06:46:08Z",
+      "duration": "PT1H",
+      "viewCount": 380,
+      "likeCount": 4,
+      "commentCount": 0,
+      "tags": [
+        "NATV",
+        "국회방송",
+        "국회의원",
+        "서재",
+        "책",
+        "도서관",
+        "국회도서관",
+        "독서"
+      ],
+      "categoryId": "29",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
+      "channelName": "NATV 국회방송",
+      "collectedAt": "2025-08-18T07:13:42.862659Z"
+    },
+    "Tra6iOFKrpg": {
+      "videoId": "Tra6iOFKrpg",
+      "title": "NATV 국회방송 국회입법데이트 468회 우정사업 운영에 관한 특례법 일부개정법률안 & 건강기능식품에 관한 법률 일부개정법률안 - 이명수의원",
+      "description": "국회입법데이트 468회 우정사업 운영에 관한 특례법 일부개정법률안 & 건강기능식품에 관한 법률 일부개정법률안 - 이명수의원\n\n우정서비스를 보편적·지속적으로 제공할 수 있도록 하기 위한 개정안 & 국민들이 믿고 섭취할 수 있는 건강기능식품 제조·유통 환경을 조성하기 위한 개정안",
+      "publishedAt": "2015-11-30T02:36:54Z",
+      "duration": "PT18M44S",
+      "viewCount": 42,
+      "likeCount": 0,
+      "commentCount": 0,
+      "tags": [
+        "National Assembly (Governmental Body)",
+        "Politics (TV Genre)",
+        "특례법",
+        "국회방송",
+        "개정안",
+        "법안",
+        "이명수의원",
+        "새누리당"
+      ],
+      "categoryId": "29",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
+      "channelName": "NATV 국회방송",
+      "collectedAt": "2025-08-18T07:13:42.862659Z"
+    }
+  },
+  "channels": {
+    "UCL-WOj1FxKR8Hlzg5tvnWKg": {
+      "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
+      "channelName": "NATV 국회방송",
+      "channelUrl": "@natv_korea",
+      "channelDescription": "대한민국 국회가 운영하는 '국회방송(NATV)'의 공식 유튜브 채널입니다.\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/pR9h1UtIbvQgb1jzvA3cInTCuI9M_2tFxITGQb2pm7vlYy1lvoYmPMNrBQv7Rxhjy2Gh4FWGiQ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/pR9h1UtIbvQgb1jzvA3cInTCuI9M_2tFxITGQb2pm7vlYy1lvoYmPMNrBQv7Rxhjy2Gh4FWGiQ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/pR9h1UtIbvQgb1jzvA3cInTCuI9M_2tFxITGQb2pm7vlYy1lvoYmPMNrBQv7Rxhjy2Gh4FWGiQ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 264000,
+      "viewCount": 86009826,
+      "videoCount": 16390,
+      "lastUpdated": "2025-08-18T07:13:42.862659Z"
+    }
+  },
+  "lastUpdated": "2025-08-18T07:13:42.862659Z",
+  "totalVideos": 2,
+  "totalChannels": 1
+}

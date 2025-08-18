@@ -1,0 +1,85 @@
+{
+  "videos": {
+    "11GvlwrZre4": {
+      "videoId": "11GvlwrZre4",
+      "title": "떠나도 좋아 뜻밖의 대한민국 37회 무주",
+      "description": "덕유산의 정기를 품은 무주에서 펼쳐지는 나나의 활력+감성 여행",
+      "publishedAt": "2019-09-28T08:58:03Z",
+      "duration": "PT29M7S",
+      "viewCount": 973,
+      "likeCount": 19,
+      "commentCount": 2,
+      "tags": [],
+      "categoryId": "19",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": "ko",
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
+      "channelName": "NATV 국회방송",
+      "collectedAt": "2025-08-18T07:13:29.115552Z"
+    },
+    "WZdQBr3ALqM": {
+      "videoId": "WZdQBr3ALqM",
+      "title": "1. UN기조연설·韓美정상회담…文대통령 방미외교, 성과와 과제는? 2. 장외투쟁에서 정책투쟁까지…자유한국당의 승부수, 득실은??- NATV국회방송 정치토론 왈가왈부 122회",
+      "description": "[정치토론 왈가왈부] - 매주 금요일 10시 김형주, 진성호, 김유정 \n\n\n■ 이 주의 한 컷\n진성호의 한 컷 ➡“조국 자택 압수수색한 날, 윤석열 연호한 이웃주민들” \n   ( 23일, 조국 법무부 장관 자택 압수수색 모습 )\n김형주의 한 컷 ➡ “국대 떡볶이 사 먹는 국회의원들”\n(문대통령·조국 장관 비판 국대떡볶이 대표.. 김재원 김진태 의원 등 구매인증 ) \n김유정의 한 컷 ➡ \"조국은 검찰수사에, 국회는 민생을\"\n(아프리카 돼지열병으로 살처분 되는 돼지들..국내 발생 9곳에 6만 마리 대상)\n\n\n■ 주제 1. UN기조연설·韓美정상회담…文대통령 방미외교, 성과와 과제는?\n\nQ1. 文대통령, UN기조연설서 'DMZ 국제평화지대‘ 제안…의미는?\nQ1-1. \"DMZ 평화지대로 北안전 보장\"…실현 가능성 있을까?\nQ2. 65분 논의 오간 한미정상회담…文대통령의 득과 실은?\nQ3. 비핵화 열쇠는 '북미 관계'…3차 북미회담, 연내 가능할까?\nQ3-1. 탄핵 소용돌이 휘말린 트럼프…북미...",
+      "publishedAt": "2019-09-28T05:49:06Z",
+      "duration": "PT59M31S",
+      "viewCount": 525,
+      "likeCount": 9,
+      "commentCount": 6,
+      "tags": [
+        "한미정상회담",
+        "트럼프",
+        "문재인",
+        "황교안",
+        "조국",
+        "대정부질문",
+        "이은재",
+        "민부론",
+        "황교안민부론",
+        "비무장지대평화구축"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
+      "channelName": "NATV 국회방송",
+      "collectedAt": "2025-08-18T07:13:29.115552Z"
+    }
+  },
+  "channels": {
+    "UCL-WOj1FxKR8Hlzg5tvnWKg": {
+      "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
+      "channelName": "NATV 국회방송",
+      "channelUrl": "@natv_korea",
+      "channelDescription": "대한민국 국회가 운영하는 '국회방송(NATV)'의 공식 유튜브 채널입니다.\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/pR9h1UtIbvQgb1jzvA3cInTCuI9M_2tFxITGQb2pm7vlYy1lvoYmPMNrBQv7Rxhjy2Gh4FWGiQ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/pR9h1UtIbvQgb1jzvA3cInTCuI9M_2tFxITGQb2pm7vlYy1lvoYmPMNrBQv7Rxhjy2Gh4FWGiQ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/pR9h1UtIbvQgb1jzvA3cInTCuI9M_2tFxITGQb2pm7vlYy1lvoYmPMNrBQv7Rxhjy2Gh4FWGiQ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 264000,
+      "viewCount": 86009826,
+      "videoCount": 16390,
+      "lastUpdated": "2025-08-18T07:13:29.105948Z"
+    }
+  },
+  "lastUpdated": "2025-08-18T07:13:29.115552Z",
+  "totalVideos": 2,
+  "totalChannels": 1
+}

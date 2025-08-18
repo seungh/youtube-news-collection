@@ -1,0 +1,121 @@
+{
+  "videos": {
+    "_78IZWAP7TA": {
+      "videoId": "_78IZWAP7TA",
+      "title": "제20대 국회 인터뷰 릴레이 칭찬 27회 김관영 의원 국민의당",
+      "description": "제20대 국회 인터뷰 릴레이 칭찬 27회 김관영 의원 국민의당",
+      "publishedAt": "2017-03-08T06:47:51Z",
+      "duration": "PT10M29S",
+      "viewCount": 311,
+      "likeCount": 3,
+      "commentCount": 0,
+      "tags": [],
+      "categoryId": "29",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
+      "channelName": "NATV 국회방송",
+      "collectedAt": "2025-08-18T07:13:38.413160Z"
+    },
+    "eIG3bRCQgdk": {
+      "videoId": "eIG3bRCQgdk",
+      "title": "제20대 국회 인터뷰 릴레이 칭찬 28회 정성호 의원 더불어민주당",
+      "description": "제20대 국회 인터뷰 릴레이 칭찬 28회 정성호 의원 더불어민주당",
+      "publishedAt": "2017-03-08T06:47:51Z",
+      "duration": "PT9M44S",
+      "viewCount": 532,
+      "likeCount": 10,
+      "commentCount": 3,
+      "tags": [],
+      "categoryId": "29",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
+      "channelName": "NATV 국회방송",
+      "collectedAt": "2025-08-18T07:13:38.413160Z"
+    },
+    "uhDnrATHIDo": {
+      "videoId": "uhDnrATHIDo",
+      "title": "제20대 국회 인터뷰 릴레이 칭찬 29회 주광덕 의원 자유한국당",
+      "description": "제20대 국회 인터뷰 릴레이 칭찬 29회 주광덕 의원 자유한국당",
+      "publishedAt": "2017-03-08T06:47:51Z",
+      "duration": "PT10M33S",
+      "viewCount": 944,
+      "likeCount": 38,
+      "commentCount": 4,
+      "tags": [],
+      "categoryId": "29",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
+      "channelName": "NATV 국회방송",
+      "collectedAt": "2025-08-18T07:13:38.413160Z"
+    },
+    "Pt1GDorQrNE": {
+      "videoId": "Pt1GDorQrNE",
+      "title": "NATV 국회방송 5회 통통 입법토크 법률아 놀자",
+      "description": "- 주제 :1.정보통신망 이용촉진 및 정보보호등에 관한법률\n            2.주민등록법",
+      "publishedAt": "2017-03-08T04:40:43Z",
+      "duration": "PT55M",
+      "viewCount": 136,
+      "likeCount": 2,
+      "commentCount": 0,
+      "tags": [
+        "NATV",
+        "국회방송",
+        "통통",
+        "법률",
+        "박지훈",
+        "임방글",
+        "양윤선",
+        "박세희"
+      ],
+      "categoryId": "29",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
+      "channelName": "NATV 국회방송",
+      "collectedAt": "2025-08-18T07:13:38.413160Z"
+    }
+  },
+  "channels": {
+    "UCL-WOj1FxKR8Hlzg5tvnWKg": {
+      "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
+      "channelName": "NATV 국회방송",
+      "channelUrl": "@natv_korea",
+      "channelDescription": "대한민국 국회가 운영하는 '국회방송(NATV)'의 공식 유튜브 채널입니다.\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/pR9h1UtIbvQgb1jzvA3cInTCuI9M_2tFxITGQb2pm7vlYy1lvoYmPMNrBQv7Rxhjy2Gh4FWGiQ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/pR9h1UtIbvQgb1jzvA3cInTCuI9M_2tFxITGQb2pm7vlYy1lvoYmPMNrBQv7Rxhjy2Gh4FWGiQ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/pR9h1UtIbvQgb1jzvA3cInTCuI9M_2tFxITGQb2pm7vlYy1lvoYmPMNrBQv7Rxhjy2Gh4FWGiQ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 264000,
+      "viewCount": 86009826,
+      "videoCount": 16390,
+      "lastUpdated": "2025-08-18T07:13:38.412176Z"
+    }
+  },
+  "lastUpdated": "2025-08-18T07:13:38.413160Z",
+  "totalVideos": 4,
+  "totalChannels": 1
+}

@@ -1,0 +1,86 @@
+{
+  "videos": {
+    "vAMfA_CMfPU": {
+      "videoId": "vAMfA_CMfPU",
+      "title": "NATV 국회방송 한국의 정신  57회 일연",
+      "description": "유구한 역사를 되살려 민족의 자부심을 일깨우다 - 일연",
+      "publishedAt": "2016-01-25T09:11:55Z",
+      "duration": "PT3M22S",
+      "viewCount": 252,
+      "likeCount": 3,
+      "commentCount": 0,
+      "tags": [
+        "일연",
+        "한국의 정신",
+        "삼국유사"
+      ],
+      "categoryId": "29",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
+      "channelName": "NATV 국회방송",
+      "collectedAt": "2025-08-18T07:13:42.226098Z"
+    },
+    "VNkEXab0Qrk": {
+      "videoId": "VNkEXab0Qrk",
+      "title": "NATV 국회방송 56회 TV, 도서관에 가다",
+      "description": "1. 도권전평 \n\"우먼 인 골드\" 저자 : 앤 마리 오코너 \n/ 출연자 : 김윤섭 미술경영연구소 소장\n           이조로 변호사    \n2. 내 인생의 책\n 박석무 다산연구소 이사장 / \"격몽요결\"\n저자 : 율곡 이이",
+      "publishedAt": "2016-01-25T05:58:47Z",
+      "duration": "PT53M56S",
+      "viewCount": 1318,
+      "likeCount": 10,
+      "commentCount": 0,
+      "tags": [
+        "국회방송",
+        "국회도서관",
+        "도서관",
+        "책",
+        "국회의원",
+        "도서",
+        "독서"
+      ],
+      "categoryId": "29",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
+      "channelName": "NATV 국회방송",
+      "collectedAt": "2025-08-18T07:13:42.226098Z"
+    }
+  },
+  "channels": {
+    "UCL-WOj1FxKR8Hlzg5tvnWKg": {
+      "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
+      "channelName": "NATV 국회방송",
+      "channelUrl": "@natv_korea",
+      "channelDescription": "대한민국 국회가 운영하는 '국회방송(NATV)'의 공식 유튜브 채널입니다.\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/pR9h1UtIbvQgb1jzvA3cInTCuI9M_2tFxITGQb2pm7vlYy1lvoYmPMNrBQv7Rxhjy2Gh4FWGiQ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/pR9h1UtIbvQgb1jzvA3cInTCuI9M_2tFxITGQb2pm7vlYy1lvoYmPMNrBQv7Rxhjy2Gh4FWGiQ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/pR9h1UtIbvQgb1jzvA3cInTCuI9M_2tFxITGQb2pm7vlYy1lvoYmPMNrBQv7Rxhjy2Gh4FWGiQ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 264000,
+      "viewCount": 86009826,
+      "videoCount": 16390,
+      "lastUpdated": "2025-08-18T07:13:42.222936Z"
+    }
+  },
+  "lastUpdated": "2025-08-18T07:13:42.226098Z",
+  "totalVideos": 2,
+  "totalChannels": 1
+}

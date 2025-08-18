@@ -1,0 +1,55 @@
+{
+  "videos": {
+    "snXMgWndOPg": {
+      "videoId": "snXMgWndOPg",
+      "title": "NATV 136회 TV, 도서관에 가다 - 피터와 앨리스와 푸의 여행(곽한영 교수 저)",
+      "description": "TV, 도서관에 가다 (136회) \n\n1. 도권전평 \n'피터와 앨리스와 푸의 여행'\n\n저자: 부산대 사범대학 곽한영 교수\n서평: 장난감 수집가 현태준\n\n2. 내 인생의 책 \n\n자유한국당 안상수 의원\n'남한산성'\n\n저자: 김훈",
+      "publishedAt": "2017-09-25T06:54:57Z",
+      "duration": "PT59M46S",
+      "viewCount": 1504,
+      "likeCount": 19,
+      "commentCount": 4,
+      "tags": [],
+      "categoryId": "29",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
+      "channelName": "NATV 국회방송",
+      "collectedAt": "2025-08-18T07:13:36.776535Z"
+    }
+  },
+  "channels": {
+    "UCL-WOj1FxKR8Hlzg5tvnWKg": {
+      "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
+      "channelName": "NATV 국회방송",
+      "channelUrl": "@natv_korea",
+      "channelDescription": "대한민국 국회가 운영하는 '국회방송(NATV)'의 공식 유튜브 채널입니다.\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/pR9h1UtIbvQgb1jzvA3cInTCuI9M_2tFxITGQb2pm7vlYy1lvoYmPMNrBQv7Rxhjy2Gh4FWGiQ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/pR9h1UtIbvQgb1jzvA3cInTCuI9M_2tFxITGQb2pm7vlYy1lvoYmPMNrBQv7Rxhjy2Gh4FWGiQ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/pR9h1UtIbvQgb1jzvA3cInTCuI9M_2tFxITGQb2pm7vlYy1lvoYmPMNrBQv7Rxhjy2Gh4FWGiQ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 264000,
+      "viewCount": 86009826,
+      "videoCount": 16390,
+      "lastUpdated": "2025-08-18T07:13:36.776535Z"
+    }
+  },
+  "lastUpdated": "2025-08-18T07:13:36.776535Z",
+  "totalVideos": 1,
+  "totalChannels": 1
+}

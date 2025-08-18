@@ -1,0 +1,80 @@
+{
+  "videos": {
+    "DHxu0qmKAQo": {
+      "videoId": "DHxu0qmKAQo",
+      "title": "NATV 국회방송 300인의 희망인터뷰(국민의당 김경진 의원)",
+      "description": "NATV 국회방송 300인의 희망인터뷰 국민의당 김경진 의원편",
+      "publishedAt": "2016-06-24T19:34:33Z",
+      "duration": "PT8M17S",
+      "viewCount": 1635,
+      "likeCount": 18,
+      "commentCount": 2,
+      "tags": [
+        "300인의 희망인터뷰",
+        "국민의당 김경진 의원"
+      ],
+      "categoryId": "29",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
+      "channelName": "NATV 국회방송",
+      "collectedAt": "2025-08-18T07:13:40.826752Z"
+    },
+    "wLhlff0TLD0": {
+      "videoId": "wLhlff0TLD0",
+      "title": "NATV 국회방송 300인의 희망인터뷰(새누리당 김성찬 의원)",
+      "description": "NATV 국회방송 300인의 희망인터뷰 새누리당 김성찬 의원편",
+      "publishedAt": "2016-06-24T17:55:28Z",
+      "duration": "PT8M13S",
+      "viewCount": 474,
+      "likeCount": 3,
+      "commentCount": 0,
+      "tags": [
+        "300인의 희망인터뷰",
+        "새누리당 김성찬 의원"
+      ],
+      "categoryId": "29",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
+      "channelName": "NATV 국회방송",
+      "collectedAt": "2025-08-18T07:13:40.826752Z"
+    }
+  },
+  "channels": {
+    "UCL-WOj1FxKR8Hlzg5tvnWKg": {
+      "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
+      "channelName": "NATV 국회방송",
+      "channelUrl": "@natv_korea",
+      "channelDescription": "대한민국 국회가 운영하는 '국회방송(NATV)'의 공식 유튜브 채널입니다.\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/pR9h1UtIbvQgb1jzvA3cInTCuI9M_2tFxITGQb2pm7vlYy1lvoYmPMNrBQv7Rxhjy2Gh4FWGiQ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/pR9h1UtIbvQgb1jzvA3cInTCuI9M_2tFxITGQb2pm7vlYy1lvoYmPMNrBQv7Rxhjy2Gh4FWGiQ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/pR9h1UtIbvQgb1jzvA3cInTCuI9M_2tFxITGQb2pm7vlYy1lvoYmPMNrBQv7Rxhjy2Gh4FWGiQ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 264000,
+      "viewCount": 86009826,
+      "videoCount": 16390,
+      "lastUpdated": "2025-08-18T07:13:40.823761Z"
+    }
+  },
+  "lastUpdated": "2025-08-18T07:13:40.827760Z",
+  "totalVideos": 2,
+  "totalChannels": 1
+}

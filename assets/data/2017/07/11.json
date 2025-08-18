@@ -1,0 +1,85 @@
+{
+  "videos": {
+    "DjPoZJHVY1o": {
+      "videoId": "DjPoZJHVY1o",
+      "title": "국회의원 25시_292회 남인순 의원 편[2017.06.28]",
+      "description": "치유의 정치, 소외된 곳의 목소리를 듣다. 국회의원 남인순",
+      "publishedAt": "2017-07-11T11:51:29Z",
+      "duration": "PT22M15S",
+      "viewCount": 1129,
+      "likeCount": 12,
+      "commentCount": 18,
+      "tags": [],
+      "categoryId": "29",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
+      "channelName": "NATV 국회방송",
+      "collectedAt": "2025-08-18T07:13:37.228749Z"
+    },
+    "yxVUfPUENZI": {
+      "videoId": "yxVUfPUENZI",
+      "title": "NATV 국회방송 24회 통통 입법토크 법률아 놀자",
+      "description": "- 주제 : 실종아동법/ 학교폭력예방법\n- 내용\n\n1. 실종아동법\n- 경찰은 실종아동의 인터넷 IP 정보를 포털사이트, 게임사, 아이핀 등에 제공해달라고 요청할 수 있도록 함.\n\n- 실종아동법의 적용대상을 성인 및 노인을 포함 할 수 있도록 확대함. \n\n2. 학교폭력예방법\n- 상급학교 진학 시 가해학생과 피해학생의 분리 배정 함.\n\n- 학교폭력대책자치위원회의 위원 구성 시 전체의원의 과반수를 외부전문가로 구성하도록 함.\n\n- 학교폭력 피해학생에게 학내 외 전문가 상담을 지원함",
+      "publishedAt": "2017-07-11T07:49:56Z",
+      "duration": "PT49M54S",
+      "viewCount": 136,
+      "likeCount": 0,
+      "commentCount": 0,
+      "tags": [
+        "NATV",
+        "국회방송",
+        "통통",
+        "입법",
+        "법률",
+        "임방글",
+        "박세희",
+        "양지민",
+        "양윤선",
+        "박지훈"
+      ],
+      "categoryId": "29",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
+      "channelName": "NATV 국회방송",
+      "collectedAt": "2025-08-18T07:13:37.228749Z"
+    }
+  },
+  "channels": {
+    "UCL-WOj1FxKR8Hlzg5tvnWKg": {
+      "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
+      "channelName": "NATV 국회방송",
+      "channelUrl": "@natv_korea",
+      "channelDescription": "대한민국 국회가 운영하는 '국회방송(NATV)'의 공식 유튜브 채널입니다.\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/pR9h1UtIbvQgb1jzvA3cInTCuI9M_2tFxITGQb2pm7vlYy1lvoYmPMNrBQv7Rxhjy2Gh4FWGiQ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/pR9h1UtIbvQgb1jzvA3cInTCuI9M_2tFxITGQb2pm7vlYy1lvoYmPMNrBQv7Rxhjy2Gh4FWGiQ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/pR9h1UtIbvQgb1jzvA3cInTCuI9M_2tFxITGQb2pm7vlYy1lvoYmPMNrBQv7Rxhjy2Gh4FWGiQ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 264000,
+      "viewCount": 86009826,
+      "videoCount": 16390,
+      "lastUpdated": "2025-08-18T07:13:37.228749Z"
+    }
+  },
+  "lastUpdated": "2025-08-18T07:13:37.228749Z",
+  "totalVideos": 2,
+  "totalChannels": 1
+}

@@ -1,0 +1,94 @@
+{
+  "videos": {
+    "a9N0otme3Lw": {
+      "videoId": "a9N0otme3Lw",
+      "title": "NATV 국회방송 국회는 지금 한국 스페인 수교 65주년 기념 국회 회화전시회",
+      "description": "4월 23일 한국 스페인 수교 65주년 기념 국회 회화전시회",
+      "publishedAt": "2015-04-27T01:08:01Z",
+      "duration": "PT6M26S",
+      "viewCount": 101,
+      "likeCount": 1,
+      "commentCount": 0,
+      "tags": [
+        "NATV",
+        "국회",
+        "국회방송",
+        "국회는 지금",
+        "스페인",
+        "회화전시회",
+        "헤수스수스",
+        "정의화",
+        "안홍준",
+        "곤살로오르티스"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
+      "channelName": "NATV 국회방송",
+      "collectedAt": "2025-08-18T07:13:45.217588Z"
+    },
+    "sL1_OO5ZwH4": {
+      "videoId": "sL1_OO5ZwH4",
+      "title": "NATV 국회방송 국회입법데이트 338회 노인장기요양보험법 개정안 & 대기환경보전법 개정안 - 이한성의원",
+      "description": "국회입법데이트 338회 \n노인장기요양보험법 개정안 & 대기환경보전법 개정안 - 이한성의원\n\n수급자가 부담하는 본인일부부담금을 국민건강보험공단이 직접 수납 받도록 하는 법안 & 오염물질 배출 측정결과를 인터넷에 공개하는 법안",
+      "publishedAt": "2015-04-27T00:50:03Z",
+      "duration": "PT21M53S",
+      "viewCount": 54,
+      "likeCount": 0,
+      "commentCount": 0,
+      "tags": [
+        "National Assembly (Governmental Body)",
+        "국회방송",
+        "노인",
+        "수급자",
+        "오염물질",
+        "대기환경",
+        "이한성의원",
+        "새누리당"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
+      "channelName": "NATV 국회방송",
+      "collectedAt": "2025-08-18T07:13:45.217588Z"
+    }
+  },
+  "channels": {
+    "UCL-WOj1FxKR8Hlzg5tvnWKg": {
+      "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
+      "channelName": "NATV 국회방송",
+      "channelUrl": "@natv_korea",
+      "channelDescription": "대한민국 국회가 운영하는 '국회방송(NATV)'의 공식 유튜브 채널입니다.\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/pR9h1UtIbvQgb1jzvA3cInTCuI9M_2tFxITGQb2pm7vlYy1lvoYmPMNrBQv7Rxhjy2Gh4FWGiQ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/pR9h1UtIbvQgb1jzvA3cInTCuI9M_2tFxITGQb2pm7vlYy1lvoYmPMNrBQv7Rxhjy2Gh4FWGiQ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/pR9h1UtIbvQgb1jzvA3cInTCuI9M_2tFxITGQb2pm7vlYy1lvoYmPMNrBQv7Rxhjy2Gh4FWGiQ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 264000,
+      "viewCount": 86009826,
+      "videoCount": 16390,
+      "lastUpdated": "2025-08-18T07:13:45.216589Z"
+    }
+  },
+  "lastUpdated": "2025-08-18T07:13:45.217588Z",
+  "totalVideos": 2,
+  "totalChannels": 1
+}

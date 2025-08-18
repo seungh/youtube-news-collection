@@ -1,0 +1,104 @@
+{
+  "videos": {
+    "q9uYLFhnooI": {
+      "videoId": "q9uYLFhnooI",
+      "title": "NATV 국회방송 20대 국회의원 선거, 아는 만큼 보인다 재외 선거",
+      "description": "",
+      "publishedAt": "2016-03-28T10:13:38Z",
+      "duration": "PT8M41S",
+      "viewCount": 81,
+      "likeCount": 1,
+      "commentCount": 0,
+      "tags": [],
+      "categoryId": "29",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
+      "channelName": "NATV 국회방송",
+      "collectedAt": "2025-08-18T07:13:41.700412Z"
+    },
+    "_J7Bw9tLjLQ": {
+      "videoId": "_J7Bw9tLjLQ",
+      "title": "NATV 국회방송 20대 국회의원 선거, 아는 만큼 보인다 국민의 권리이자 의무, 선거",
+      "description": "",
+      "publishedAt": "2016-03-28T09:59:09Z",
+      "duration": "PT11M18S",
+      "viewCount": 424,
+      "likeCount": 1,
+      "commentCount": 0,
+      "tags": [],
+      "categoryId": "29",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
+      "channelName": "NATV 국회방송",
+      "collectedAt": "2025-08-18T07:13:41.700412Z"
+    },
+    "3VAqrt3cd1w": {
+      "videoId": "3VAqrt3cd1w",
+      "title": "NATV 국회방송 서유기(서민에 유익한 법이야기) 6회 신해철법",
+      "description": "서유기(서민에 유익한 법이야기) 6회 신해철법\n\n의료사고 피해구제 및 의료분쟁 조정 등에 관한 법률\n: 현행법상 한국의료분쟁조정중재원의 경우 신청인이 조정신청을 하여도 피신청인의 동의여부에 따라서 조정절차의 개시가 좌우되고 있을 뿐만 아니라 신청인이 부당한 목적으로 조정신청을 하여도 이를 종료할 수 있는 법적 근거가 없는 등 의료분쟁을 효율적으로 조정하기가 어려운 실정임.",
+      "publishedAt": "2016-03-28T06:31:56Z",
+      "duration": "PT44M52S",
+      "viewCount": 317,
+      "likeCount": 1,
+      "commentCount": 0,
+      "tags": [
+        "NATV",
+        "국회방송",
+        "서유기",
+        "서민에 유익한 법이야기",
+        "신해철법",
+        "의료사고 피해구제 및 의료분쟁 조정 등에 관한 법률",
+        "예강이법",
+        "박지훈 변호사",
+        "김양순 기자",
+        "이지상 기자"
+      ],
+      "categoryId": "29",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
+      "channelName": "NATV 국회방송",
+      "collectedAt": "2025-08-18T07:13:41.700412Z"
+    }
+  },
+  "channels": {
+    "UCL-WOj1FxKR8Hlzg5tvnWKg": {
+      "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
+      "channelName": "NATV 국회방송",
+      "channelUrl": "@natv_korea",
+      "channelDescription": "대한민국 국회가 운영하는 '국회방송(NATV)'의 공식 유튜브 채널입니다.\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/pR9h1UtIbvQgb1jzvA3cInTCuI9M_2tFxITGQb2pm7vlYy1lvoYmPMNrBQv7Rxhjy2Gh4FWGiQ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/pR9h1UtIbvQgb1jzvA3cInTCuI9M_2tFxITGQb2pm7vlYy1lvoYmPMNrBQv7Rxhjy2Gh4FWGiQ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/pR9h1UtIbvQgb1jzvA3cInTCuI9M_2tFxITGQb2pm7vlYy1lvoYmPMNrBQv7Rxhjy2Gh4FWGiQ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 264000,
+      "viewCount": 86009826,
+      "videoCount": 16390,
+      "lastUpdated": "2025-08-18T07:13:41.693612Z"
+    }
+  },
+  "lastUpdated": "2025-08-18T07:13:41.706242Z",
+  "totalVideos": 3,
+  "totalChannels": 1
+}

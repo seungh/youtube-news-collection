@@ -1,0 +1,66 @@
+{
+  "videos": {
+    "PwZ-dBbkV1Q": {
+      "videoId": "PwZ-dBbkV1Q",
+      "title": "NATV 국회방송 95회 TV, 도서관에 가다",
+      "description": "1. 도권전평 \n\"울고 들어온 너에게\"\n 저자 : 김용택\n/ 출연자 : 김용택 시인 & 서효인 시인 & 최성수 가수 \n\n\n2. 내 인생의 책\n새누리당 정태옥 의원 \n\"호마인 이야기\"\n저자 : 시오노 나나미",
+      "publishedAt": "2016-12-05T06:19:04Z",
+      "duration": "PT55M40S",
+      "viewCount": 1328,
+      "likeCount": 7,
+      "commentCount": 0,
+      "tags": [
+        "TV",
+        "도서관에 가다",
+        "김용택",
+        "울고 들어온 너에게",
+        "서효인",
+        "최성수",
+        "정태옥의원",
+        "로마인이야기",
+        "시오노나나미",
+        "95회"
+      ],
+      "categoryId": "29",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
+      "channelName": "NATV 국회방송",
+      "collectedAt": "2025-08-18T07:13:39.114253Z"
+    }
+  },
+  "channels": {
+    "UCL-WOj1FxKR8Hlzg5tvnWKg": {
+      "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
+      "channelName": "NATV 국회방송",
+      "channelUrl": "@natv_korea",
+      "channelDescription": "대한민국 국회가 운영하는 '국회방송(NATV)'의 공식 유튜브 채널입니다.\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/pR9h1UtIbvQgb1jzvA3cInTCuI9M_2tFxITGQb2pm7vlYy1lvoYmPMNrBQv7Rxhjy2Gh4FWGiQ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/pR9h1UtIbvQgb1jzvA3cInTCuI9M_2tFxITGQb2pm7vlYy1lvoYmPMNrBQv7Rxhjy2Gh4FWGiQ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/pR9h1UtIbvQgb1jzvA3cInTCuI9M_2tFxITGQb2pm7vlYy1lvoYmPMNrBQv7Rxhjy2Gh4FWGiQ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 264000,
+      "viewCount": 86009826,
+      "videoCount": 16390,
+      "lastUpdated": "2025-08-18T07:13:39.111410Z"
+    }
+  },
+  "lastUpdated": "2025-08-18T07:13:39.121502Z",
+  "totalVideos": 1,
+  "totalChannels": 1
+}

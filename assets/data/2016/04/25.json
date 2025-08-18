@@ -1,0 +1,64 @@
+{
+  "videos": {
+    "f9OlsUg4zkY": {
+      "videoId": "f9OlsUg4zkY",
+      "title": "NATV 국회방송 67회 TV, 도서관에 가다",
+      "description": "1. 도권전평 \n\"독일 통일 한국 통일\" 저자 : 손선홍\n/ 출연자 : 손선홍 연세대학교 외교안보 석사, 저자\n                 홍현익 세종연구소 소장\n2. 내 인생의 책\n오태석 연극연출가 / \"춘향전\"\n저자 : 송성욱",
+      "publishedAt": "2016-04-25T03:01:51Z",
+      "duration": "PT57M6S",
+      "viewCount": 969,
+      "likeCount": 6,
+      "commentCount": 0,
+      "tags": [
+        "국회방송",
+        "NATV",
+        "국회도서관",
+        "책",
+        "독서",
+        "도서",
+        "국회의원",
+        "서재"
+      ],
+      "categoryId": "29",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
+      "channelName": "NATV 국회방송",
+      "collectedAt": "2025-08-18T07:13:41.327910Z"
+    }
+  },
+  "channels": {
+    "UCL-WOj1FxKR8Hlzg5tvnWKg": {
+      "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
+      "channelName": "NATV 국회방송",
+      "channelUrl": "@natv_korea",
+      "channelDescription": "대한민국 국회가 운영하는 '국회방송(NATV)'의 공식 유튜브 채널입니다.\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/pR9h1UtIbvQgb1jzvA3cInTCuI9M_2tFxITGQb2pm7vlYy1lvoYmPMNrBQv7Rxhjy2Gh4FWGiQ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/pR9h1UtIbvQgb1jzvA3cInTCuI9M_2tFxITGQb2pm7vlYy1lvoYmPMNrBQv7Rxhjy2Gh4FWGiQ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/pR9h1UtIbvQgb1jzvA3cInTCuI9M_2tFxITGQb2pm7vlYy1lvoYmPMNrBQv7Rxhjy2Gh4FWGiQ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 264000,
+      "viewCount": 86009826,
+      "videoCount": 16390,
+      "lastUpdated": "2025-08-18T07:13:41.327910Z"
+    }
+  },
+  "lastUpdated": "2025-08-18T07:13:41.328907Z",
+  "totalVideos": 1,
+  "totalChannels": 1
+}

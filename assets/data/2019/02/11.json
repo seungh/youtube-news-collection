@@ -1,0 +1,126 @@
+{
+  "videos": {
+    "nmF3E3rGlSc": {
+      "videoId": "nmF3E3rGlSc",
+      "title": "제20대 국회 인터뷰 릴레이 칭찬 197회 박재호 의원 더불어민주당",
+      "description": "제20대 국회 인터뷰 릴레이 칭찬 197회 박재호 의원 더불어민주당",
+      "publishedAt": "2019-02-11T05:00:04Z",
+      "duration": "PT10M11S",
+      "viewCount": 687,
+      "likeCount": 14,
+      "commentCount": 1,
+      "tags": [
+        "국회의원",
+        "인터뷰릴레이칭찬",
+        "국회방송",
+        "인터뷰",
+        "릴레이",
+        "칭찬",
+        "natv",
+        "박재호의원",
+        "박재호",
+        "박재호 더불어민주당"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
+      "channelName": "NATV 국회방송",
+      "collectedAt": "2025-08-18T07:13:32.161966Z"
+    },
+    "0-8qPGJo58o": {
+      "videoId": "0-8qPGJo58o",
+      "title": "기본권이란 무엇인가?(이국운 교수) - 열린국회 시민아카데미 6회",
+      "description": "- 강연주제 : 기본권이란 무엇인가? \n- 강연자 : 이국운 교수(한동대학교 법학부)",
+      "publishedAt": "2019-02-11T04:43:10Z",
+      "duration": "PT54M41S",
+      "viewCount": 4868,
+      "likeCount": 43,
+      "commentCount": 4,
+      "tags": [
+        "헌법재판소",
+        "헌법강의",
+        "헌법조문",
+        "헌법재판관",
+        "헌법전문",
+        "헌법사",
+        "헌법소원",
+        "헌법 인강",
+        "헌법 강의",
+        "헌법 기본권"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
+      "channelName": "NATV 국회방송",
+      "collectedAt": "2025-08-18T07:13:32.163922Z"
+    },
+    "lueKkBzZZOo": {
+      "videoId": "lueKkBzZZOo",
+      "title": "국가권력의 현재와 미래(장영수 교수) - 열린국회 시민아카데미 5회",
+      "description": "- 강연주제 : 국가권력의 현재와 미래\n- 강연자 : 장영수 교수(고려대학교 법학전문대학원)",
+      "publishedAt": "2019-02-11T04:34:42Z",
+      "duration": "PT53M38S",
+      "viewCount": 1111,
+      "likeCount": 11,
+      "commentCount": 0,
+      "tags": [
+        "통치구조론",
+        "헌법 통치구조",
+        "열린국회 시민아카데미",
+        "국회방송",
+        "장영수 교수",
+        "지방분권 ucc",
+        "지방분권화",
+        "지방분권 연방제",
+        "지방분권이란",
+        "지방분권 동네정치"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
+      "channelName": "NATV 국회방송",
+      "collectedAt": "2025-08-18T07:13:32.163922Z"
+    }
+  },
+  "channels": {
+    "UCL-WOj1FxKR8Hlzg5tvnWKg": {
+      "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
+      "channelName": "NATV 국회방송",
+      "channelUrl": "@natv_korea",
+      "channelDescription": "대한민국 국회가 운영하는 '국회방송(NATV)'의 공식 유튜브 채널입니다.\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/pR9h1UtIbvQgb1jzvA3cInTCuI9M_2tFxITGQb2pm7vlYy1lvoYmPMNrBQv7Rxhjy2Gh4FWGiQ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/pR9h1UtIbvQgb1jzvA3cInTCuI9M_2tFxITGQb2pm7vlYy1lvoYmPMNrBQv7Rxhjy2Gh4FWGiQ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/pR9h1UtIbvQgb1jzvA3cInTCuI9M_2tFxITGQb2pm7vlYy1lvoYmPMNrBQv7Rxhjy2Gh4FWGiQ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 264000,
+      "viewCount": 86009826,
+      "videoCount": 16390,
+      "lastUpdated": "2025-08-18T07:13:32.160037Z"
+    }
+  },
+  "lastUpdated": "2025-08-18T07:13:32.164964Z",
+  "totalVideos": 3,
+  "totalChannels": 1
+}

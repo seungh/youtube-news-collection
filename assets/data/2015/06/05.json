@@ -1,0 +1,122 @@
+{
+  "videos": {
+    "W0Ck8cOwqbg": {
+      "videoId": "W0Ck8cOwqbg",
+      "title": "NATV 국회방송 국회는 지금 국회, 지방의회 의정자료 공유 통합시스템 개통식",
+      "description": "6월 4일 국회, 지방의회 의정자료 공유 통합시스템 개통식",
+      "publishedAt": "2015-06-05T02:00:44Z",
+      "duration": "PT6M21S",
+      "viewCount": 89,
+      "likeCount": 0,
+      "commentCount": 0,
+      "tags": [
+        "NATV",
+        "정의화",
+        "정갑윤",
+        "이은철",
+        "국회도서관",
+        "국회방송",
+        "국회는 지금"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
+      "channelName": "NATV 국회방송",
+      "collectedAt": "2025-08-18T07:13:44.648692Z"
+    },
+    "NRMlD1iRVRQ": {
+      "videoId": "NRMlD1iRVRQ",
+      "title": "NATV 국회방송 27회 TV, 도서관에 가다",
+      "description": "1. 도권전평 \n\"아들이 부모를 간병한다는 것\" 저자 : 우에노 치즈코 \n/ 출연자 : 노규식 정신과 전문의  \n                  이희구 개그우먼\n\n2. 국회의원 서재\n새정치민주연합 김경협 의원 / \"신과 함께\"\n저자 : 주호민",
+      "publishedAt": "2015-06-05T01:57:43Z",
+      "duration": "PT55M42S",
+      "viewCount": 330,
+      "likeCount": 3,
+      "commentCount": 0,
+      "tags": [
+        "NATV",
+        "국회방송",
+        "국회의원",
+        "국회",
+        "도서관",
+        "독서",
+        "도서",
+        "책",
+        "서재",
+        "국회도서관"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
+      "channelName": "NATV 국회방송",
+      "collectedAt": "2025-08-18T07:13:44.648692Z"
+    },
+    "pZ5aRM-29kg": {
+      "videoId": "pZ5aRM-29kg",
+      "title": "NATV 국회방송 국회입법데이트 365회 성폭력범죄자의 성충동 약물치료에 관한 법률 개정안 & 범죄피해자 보호법 - 박민식의원",
+      "description": "국회입법데이트 365회 성폭력범죄자의 성충동 약물치료에 관한 법률 개정안 & 범죄피해자 보호법 - 박민식의원\n\n유사강간도 성충동 약물치료 대상에 포함하는 법안\n& 범죄피해자에 대한 구조금 액수 상향조정 · 의료비 지원법",
+      "publishedAt": "2015-06-05T01:23:39Z",
+      "duration": "PT20M8S",
+      "viewCount": 117,
+      "likeCount": 0,
+      "commentCount": 0,
+      "tags": [
+        "국회방송",
+        "박민식의원",
+        "새누리당",
+        "성폭력범죄자",
+        "범죄피해자",
+        "National Assembly (Governmental Body)",
+        "Politics (TV Genre)",
+        "개정안",
+        "법안"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
+      "channelName": "NATV 국회방송",
+      "collectedAt": "2025-08-18T07:13:44.648692Z"
+    }
+  },
+  "channels": {
+    "UCL-WOj1FxKR8Hlzg5tvnWKg": {
+      "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
+      "channelName": "NATV 국회방송",
+      "channelUrl": "@natv_korea",
+      "channelDescription": "대한민국 국회가 운영하는 '국회방송(NATV)'의 공식 유튜브 채널입니다.\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/pR9h1UtIbvQgb1jzvA3cInTCuI9M_2tFxITGQb2pm7vlYy1lvoYmPMNrBQv7Rxhjy2Gh4FWGiQ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/pR9h1UtIbvQgb1jzvA3cInTCuI9M_2tFxITGQb2pm7vlYy1lvoYmPMNrBQv7Rxhjy2Gh4FWGiQ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/pR9h1UtIbvQgb1jzvA3cInTCuI9M_2tFxITGQb2pm7vlYy1lvoYmPMNrBQv7Rxhjy2Gh4FWGiQ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 264000,
+      "viewCount": 86009826,
+      "videoCount": 16390,
+      "lastUpdated": "2025-08-18T07:13:44.647648Z"
+    }
+  },
+  "lastUpdated": "2025-08-18T07:13:44.650580Z",
+  "totalVideos": 3,
+  "totalChannels": 1
+}

@@ -1,0 +1,90 @@
+{
+  "videos": {
+    "WJihy42TWrI": {
+      "videoId": "WJihy42TWrI",
+      "title": "NATV 국회방송 국회는 지금 2015 믹타MIKTA 국화의장 회의",
+      "description": "7월 2일 2015 믹타MIKTA 국화의장 회의",
+      "publishedAt": "2015-09-02T09:10:36Z",
+      "duration": "PT14M6S",
+      "viewCount": 294,
+      "likeCount": 3,
+      "commentCount": 0,
+      "tags": [
+        "NATV",
+        "국회",
+        "국회방송",
+        "국회는 지금",
+        "믹타"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
+      "channelName": "NATV 국회방송",
+      "collectedAt": "2025-08-18T07:13:43.501418Z"
+    },
+    "cb9VMFxeSao": {
+      "videoId": "cb9VMFxeSao",
+      "title": "NATV 국회방송 국회입법데이트 427회 은행법 일부개정법률안 & 보험업법 일부개정법률안 - 김용태의원",
+      "description": "국회입법데이트 427회 은행법 일부개정법률안 & 보험업법 일부개정법률안 - 김용태의원\n\n인터넷전문은행의 자본금 요건을 250억 원으로 정하고 일반은행과 동일한 업무를 하기 위한 개정안\n& 보험료율 정하는 기준을 현재 자동차 구입가격에서 평균 수리비로 보험료 체계를 바꾸는 내용의 개정안",
+      "publishedAt": "2015-09-02T00:30:14Z",
+      "duration": "PT19M3S",
+      "viewCount": 50,
+      "likeCount": 2,
+      "commentCount": 0,
+      "tags": [
+        "National Assembly (Governmental Body)",
+        "Politics (TV Genre)",
+        "국회방송",
+        "보험",
+        "은행",
+        "개정안",
+        "법안",
+        "김용태의원",
+        "새누리당"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
+      "channelName": "NATV 국회방송",
+      "collectedAt": "2025-08-18T07:13:43.501418Z"
+    }
+  },
+  "channels": {
+    "UCL-WOj1FxKR8Hlzg5tvnWKg": {
+      "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
+      "channelName": "NATV 국회방송",
+      "channelUrl": "@natv_korea",
+      "channelDescription": "대한민국 국회가 운영하는 '국회방송(NATV)'의 공식 유튜브 채널입니다.\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/pR9h1UtIbvQgb1jzvA3cInTCuI9M_2tFxITGQb2pm7vlYy1lvoYmPMNrBQv7Rxhjy2Gh4FWGiQ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/pR9h1UtIbvQgb1jzvA3cInTCuI9M_2tFxITGQb2pm7vlYy1lvoYmPMNrBQv7Rxhjy2Gh4FWGiQ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/pR9h1UtIbvQgb1jzvA3cInTCuI9M_2tFxITGQb2pm7vlYy1lvoYmPMNrBQv7Rxhjy2Gh4FWGiQ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 264000,
+      "viewCount": 86009826,
+      "videoCount": 16390,
+      "lastUpdated": "2025-08-18T07:13:43.499424Z"
+    }
+  },
+  "lastUpdated": "2025-08-18T07:13:43.506414Z",
+  "totalVideos": 2,
+  "totalChannels": 1
+}

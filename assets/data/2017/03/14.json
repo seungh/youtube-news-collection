@@ -1,0 +1,79 @@
+{
+  "videos": {
+    "OALsX_dwfyU": {
+      "videoId": "OALsX_dwfyU",
+      "title": "제20대 국회 인터뷰 릴레이 칭찬 22회 권성동 의원 바른정당",
+      "description": "제20대 국회 인터뷰 릴레이 칭찬 22회 권성동 의원 바른정당",
+      "publishedAt": "2017-03-14T11:27:29Z",
+      "duration": "PT10M32S",
+      "viewCount": 545,
+      "likeCount": 9,
+      "commentCount": 1,
+      "tags": [],
+      "categoryId": "29",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
+      "channelName": "NATV 국회방송",
+      "collectedAt": "2025-08-18T07:13:38.379384Z"
+    },
+    "h6z80PYE8tw": {
+      "videoId": "h6z80PYE8tw",
+      "title": "NATV 국회방송 힘내요, 청춘 _ 전통을 운반하는 표구계 아이돌청년 4회",
+      "description": "꿈과 희망 도전하는 열정\n느린 걸음,내일로 향하는 길\n당신의 봄날을 응원합니다\n청년희망 미니다큐\n힘내요, 청춘 \n\n4회: 전통을 운반하는 표구계 아이돌청년",
+      "publishedAt": "2017-03-14T03:48:21Z",
+      "duration": "PT14M48S",
+      "viewCount": 2552,
+      "likeCount": 29,
+      "commentCount": 4,
+      "tags": [
+        "국회방송",
+        "힘내요청춘",
+        "표구",
+        "전통"
+      ],
+      "categoryId": "29",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
+      "channelName": "NATV 국회방송",
+      "collectedAt": "2025-08-18T07:13:38.379384Z"
+    }
+  },
+  "channels": {
+    "UCL-WOj1FxKR8Hlzg5tvnWKg": {
+      "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
+      "channelName": "NATV 국회방송",
+      "channelUrl": "@natv_korea",
+      "channelDescription": "대한민국 국회가 운영하는 '국회방송(NATV)'의 공식 유튜브 채널입니다.\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/pR9h1UtIbvQgb1jzvA3cInTCuI9M_2tFxITGQb2pm7vlYy1lvoYmPMNrBQv7Rxhjy2Gh4FWGiQ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/pR9h1UtIbvQgb1jzvA3cInTCuI9M_2tFxITGQb2pm7vlYy1lvoYmPMNrBQv7Rxhjy2Gh4FWGiQ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/pR9h1UtIbvQgb1jzvA3cInTCuI9M_2tFxITGQb2pm7vlYy1lvoYmPMNrBQv7Rxhjy2Gh4FWGiQ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 264000,
+      "viewCount": 86009826,
+      "videoCount": 16390,
+      "lastUpdated": "2025-08-18T07:13:38.377932Z"
+    }
+  },
+  "lastUpdated": "2025-08-18T07:13:38.380380Z",
+  "totalVideos": 2,
+  "totalChannels": 1
+}

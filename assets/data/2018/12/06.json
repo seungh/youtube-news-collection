@@ -1,0 +1,96 @@
+{
+  "videos": {
+    "L8_0Z_coP3E": {
+      "videoId": "L8_0Z_coP3E",
+      "title": "떠나도 좋아 뜻밖의 대한민국 9회 곡성",
+      "description": "영화 곡성의 무대, 곡성\n다양한 즐길거리와 아름다운 자연 풍경을 자랑하는 전남 곡성으로\n떠난 이스칸의 가을 여행",
+      "publishedAt": "2018-12-06T12:44:51Z",
+      "duration": "PT27M30S",
+      "viewCount": 235,
+      "likeCount": 2,
+      "commentCount": 0,
+      "tags": [
+        "이스칸",
+        "곡성",
+        "섬진강",
+        "기차마을",
+        "증기 기관차",
+        "기차여행",
+        "곡성 관광 택시",
+        "침실 습지",
+        "곡성 메타세쿼이아길",
+        "은어회"
+      ],
+      "categoryId": "19",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": "ko",
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
+      "channelName": "NATV 국회방송",
+      "collectedAt": "2025-08-18T07:13:32.600892Z"
+    },
+    "CY9wQn0bvl8": {
+      "videoId": "CY9wQn0bvl8",
+      "title": "국회, 남북경협을 말한다 - NATV 직언직설 토론당당",
+      "description": "2018/12/06 직언직설 토론당당 50회\n\n국회, 남북경협을 말한다 \n\n-출연자-\n김 경 협  (국회남북경협특위 더불어민주당 간사)     \n송 석 준  (국회남북경협특위 자유한국당 위원)  \n지 상 욱  (국회남북경협특위 바른미래당 간사)",
+      "publishedAt": "2018-12-06T05:20:42Z",
+      "duration": "PT59M23S",
+      "viewCount": 706,
+      "likeCount": 6,
+      "commentCount": 1,
+      "tags": [
+        "남북경협",
+        "경협",
+        "국회방송 토론",
+        "남북경협특위",
+        "김경협",
+        "송석준",
+        "지상욱",
+        "남북경협특위 간사",
+        "남북경협 전망",
+        "남북경협 철도"
+      ],
+      "categoryId": "19",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
+      "channelName": "NATV 국회방송",
+      "collectedAt": "2025-08-18T07:13:32.600892Z"
+    }
+  },
+  "channels": {
+    "UCL-WOj1FxKR8Hlzg5tvnWKg": {
+      "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
+      "channelName": "NATV 국회방송",
+      "channelUrl": "@natv_korea",
+      "channelDescription": "대한민국 국회가 운영하는 '국회방송(NATV)'의 공식 유튜브 채널입니다.\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/pR9h1UtIbvQgb1jzvA3cInTCuI9M_2tFxITGQb2pm7vlYy1lvoYmPMNrBQv7Rxhjy2Gh4FWGiQ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/pR9h1UtIbvQgb1jzvA3cInTCuI9M_2tFxITGQb2pm7vlYy1lvoYmPMNrBQv7Rxhjy2Gh4FWGiQ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/pR9h1UtIbvQgb1jzvA3cInTCuI9M_2tFxITGQb2pm7vlYy1lvoYmPMNrBQv7Rxhjy2Gh4FWGiQ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 264000,
+      "viewCount": 86009826,
+      "videoCount": 16390,
+      "lastUpdated": "2025-08-18T07:13:32.600378Z"
+    }
+  },
+  "lastUpdated": "2025-08-18T07:13:32.611998Z",
+  "totalVideos": 2,
+  "totalChannels": 1
+}

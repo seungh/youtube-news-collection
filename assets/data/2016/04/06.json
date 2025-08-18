@@ -1,0 +1,90 @@
+{
+  "videos": {
+    "q9J9xvCqkA4": {
+      "videoId": "q9J9xvCqkA4",
+      "title": "natv국회방송 한국의 정신 74회 이준",
+      "description": "세계만방에 일제 침략의 부당함을 알리다  -이준-",
+      "publishedAt": "2016-04-06T07:06:57Z",
+      "duration": "PT3M36S",
+      "viewCount": 329,
+      "likeCount": 2,
+      "commentCount": 0,
+      "tags": [
+        "natv",
+        "국회방송",
+        "이준",
+        "74회",
+        "일제 침략",
+        "부당함",
+        "한국",
+        "정신"
+      ],
+      "categoryId": "29",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
+      "channelName": "NATV 국회방송",
+      "collectedAt": "2025-08-18T07:13:41.515813Z"
+    },
+    "bnteSNxHkmw": {
+      "videoId": "bnteSNxHkmw",
+      "title": "natv국회방송 한국의 정신 73회 이원익",
+      "description": "격동의 시대에 소신의 정치를 펼친 재상 -이원익-",
+      "publishedAt": "2016-04-06T06:54:56Z",
+      "duration": "PT3M43S",
+      "viewCount": 1618,
+      "likeCount": 16,
+      "commentCount": 0,
+      "tags": [
+        "natv",
+        "한국의정신",
+        "73회",
+        "이원익",
+        "재상",
+        "소신"
+      ],
+      "categoryId": "29",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
+      "channelName": "NATV 국회방송",
+      "collectedAt": "2025-08-18T07:13:41.515813Z"
+    }
+  },
+  "channels": {
+    "UCL-WOj1FxKR8Hlzg5tvnWKg": {
+      "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
+      "channelName": "NATV 국회방송",
+      "channelUrl": "@natv_korea",
+      "channelDescription": "대한민국 국회가 운영하는 '국회방송(NATV)'의 공식 유튜브 채널입니다.\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/pR9h1UtIbvQgb1jzvA3cInTCuI9M_2tFxITGQb2pm7vlYy1lvoYmPMNrBQv7Rxhjy2Gh4FWGiQ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/pR9h1UtIbvQgb1jzvA3cInTCuI9M_2tFxITGQb2pm7vlYy1lvoYmPMNrBQv7Rxhjy2Gh4FWGiQ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/pR9h1UtIbvQgb1jzvA3cInTCuI9M_2tFxITGQb2pm7vlYy1lvoYmPMNrBQv7Rxhjy2Gh4FWGiQ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 264000,
+      "viewCount": 86009826,
+      "videoCount": 16390,
+      "lastUpdated": "2025-08-18T07:13:41.514241Z"
+    }
+  },
+  "lastUpdated": "2025-08-18T07:13:41.516337Z",
+  "totalVideos": 2,
+  "totalChannels": 1
+}

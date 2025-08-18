@@ -1,0 +1,96 @@
+{
+  "videos": {
+    "g5ATiAv021w": {
+      "videoId": "g5ATiAv021w",
+      "title": "제20대 국회 인터뷰릴레이칭찬 181회 황희의원 더불어민주당",
+      "description": "제20대 국회 인터뷰릴레이칭찬 181회 황희의원 더불어민주당",
+      "publishedAt": "2018-10-22T05:47:20Z",
+      "duration": "PT9M56S",
+      "viewCount": 883,
+      "likeCount": 15,
+      "commentCount": 7,
+      "tags": [
+        "국회의원",
+        "인터뷰릴레이칭찬",
+        "국회방송",
+        "인터뷰",
+        "릴레이",
+        "칭찬",
+        "natv",
+        "황희의원",
+        "황희",
+        "더불어민주당"
+      ],
+      "categoryId": "19",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
+      "channelName": "NATV 국회방송",
+      "collectedAt": "2025-08-18T07:13:33.584130Z"
+    },
+    "VdlWLzom37A": {
+      "videoId": "VdlWLzom37A",
+      "title": "문희상 국회의장 100일의 기록 - 협치와 통합 그리고 미래",
+      "description": "대화와 타협을 통해 \n여야의 엉킨 실타래를 풀어오며 \n'통합형 정치인'으로 평가받아 온 문희상 국회의장. \n\n협치와 통합의 국회! \n민생을 살피는 실력 있는 국회! \n미래를 준비하는 국회를 만들기 위해 \n쉼 없이 달려온 문희상 의장의 \n지난 100일간을 돌아본다.\n\n- www.natv.go.kr에서 \n더 많은 국회방송 프로그램을 보실 수 있습니다.",
+      "publishedAt": "2018-10-22T02:29:53Z",
+      "duration": "PT17M35S",
+      "viewCount": 352,
+      "likeCount": 3,
+      "commentCount": 0,
+      "tags": [
+        "문희상",
+        "국회의장",
+        "국회의장 방송",
+        "문희상 의장",
+        "국회의장회의",
+        "믹타",
+        "국회방송",
+        "국회tv",
+        "국회방송 실시간",
+        "국회방송 생중계"
+      ],
+      "categoryId": "19",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
+      "channelName": "NATV 국회방송",
+      "collectedAt": "2025-08-18T07:13:33.584130Z"
+    }
+  },
+  "channels": {
+    "UCL-WOj1FxKR8Hlzg5tvnWKg": {
+      "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
+      "channelName": "NATV 국회방송",
+      "channelUrl": "@natv_korea",
+      "channelDescription": "대한민국 국회가 운영하는 '국회방송(NATV)'의 공식 유튜브 채널입니다.\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/pR9h1UtIbvQgb1jzvA3cInTCuI9M_2tFxITGQb2pm7vlYy1lvoYmPMNrBQv7Rxhjy2Gh4FWGiQ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/pR9h1UtIbvQgb1jzvA3cInTCuI9M_2tFxITGQb2pm7vlYy1lvoYmPMNrBQv7Rxhjy2Gh4FWGiQ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/pR9h1UtIbvQgb1jzvA3cInTCuI9M_2tFxITGQb2pm7vlYy1lvoYmPMNrBQv7Rxhjy2Gh4FWGiQ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 264000,
+      "viewCount": 86009826,
+      "videoCount": 16390,
+      "lastUpdated": "2025-08-18T07:13:33.577292Z"
+    }
+  },
+  "lastUpdated": "2025-08-18T07:13:33.585127Z",
+  "totalVideos": 2,
+  "totalChannels": 1
+}

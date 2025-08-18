@@ -1,0 +1,64 @@
+{
+  "videos": {
+    "1HfBxiP-_I8": {
+      "videoId": "1HfBxiP-_I8",
+      "title": "NATV 국회방송 103회 TV 도서관에 가다",
+      "description": "1. 도권전평 \n\"식당 골라주는 남자 \" \n  저자 : 노중훈\n  출연자 : 노중훈 / 여행작가\n                 유지상 / 푸드칼럼니스트\n\n2. 내 인생의 책\n국민의당 오세정 의원 \n\"부분과 전체 \"\n저자 : 베르너 하이젠베르크",
+      "publishedAt": "2017-02-20T04:33:09Z",
+      "duration": "PT57M41S",
+      "viewCount": 1481,
+      "likeCount": 8,
+      "commentCount": 0,
+      "tags": [
+        "NATV",
+        "103회 TV도서관에가다",
+        "오세정의원",
+        "부분과 전체",
+        "베르너 하이젠베르크",
+        "노중훈",
+        "유지상",
+        "식당 골라주는 남자"
+      ],
+      "categoryId": "29",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
+      "channelName": "NATV 국회방송",
+      "collectedAt": "2025-08-18T07:13:38.524939Z"
+    }
+  },
+  "channels": {
+    "UCL-WOj1FxKR8Hlzg5tvnWKg": {
+      "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
+      "channelName": "NATV 국회방송",
+      "channelUrl": "@natv_korea",
+      "channelDescription": "대한민국 국회가 운영하는 '국회방송(NATV)'의 공식 유튜브 채널입니다.\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/pR9h1UtIbvQgb1jzvA3cInTCuI9M_2tFxITGQb2pm7vlYy1lvoYmPMNrBQv7Rxhjy2Gh4FWGiQ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/pR9h1UtIbvQgb1jzvA3cInTCuI9M_2tFxITGQb2pm7vlYy1lvoYmPMNrBQv7Rxhjy2Gh4FWGiQ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/pR9h1UtIbvQgb1jzvA3cInTCuI9M_2tFxITGQb2pm7vlYy1lvoYmPMNrBQv7Rxhjy2Gh4FWGiQ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 264000,
+      "viewCount": 86009826,
+      "videoCount": 16390,
+      "lastUpdated": "2025-08-18T07:13:38.521955Z"
+    }
+  },
+  "lastUpdated": "2025-08-18T07:13:38.525969Z",
+  "totalVideos": 1,
+  "totalChannels": 1
+}

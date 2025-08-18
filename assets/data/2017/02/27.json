@@ -1,0 +1,83 @@
+{
+  "videos": {
+    "HcncU_SROL8": {
+      "videoId": "HcncU_SROL8",
+      "title": "107회 TV도서관에가다유튜브",
+      "description": "1. 도권전평 \n\"풍경소리 \" \n  저자 : 구효서\n  출연자 : 구효서 / 소설가\n                 허  희  /  문학평론가\n\n2. 내 인생의 책\n자유한국당 김현아 의원 \n\"사람은 어떻게 죽음을 맞이하는가 \"\n저자 : 셔윈 B.눌랜드",
+      "publishedAt": "2017-02-27T07:06:31Z",
+      "duration": "PT1H59S",
+      "viewCount": 1282,
+      "likeCount": 5,
+      "commentCount": 0,
+      "tags": [
+        "풍경소리",
+        "tv도서관",
+        "107회",
+        "구효서",
+        "허희",
+        "김현아의원",
+        "셔윈b.눌랜드",
+        "사람은 어떻게 죽음을 맞이하는가"
+      ],
+      "categoryId": "29",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
+      "channelName": "NATV 국회방송",
+      "collectedAt": "2025-08-18T07:13:38.463756Z"
+    },
+    "nJlH8NnjB8s": {
+      "videoId": "nJlH8NnjB8s",
+      "title": "[황수경이 만난 사람 시즌3] 제1회 최재천 이화여대 석좌교수·생태학자",
+      "description": "황수경이 만난 사람 시즌3\n제1회. 최재천 이화여대 석좌교수·생태학자\n\n과학의 대중화를 넘어 ‘대중의 과학화’를 꿈꾸는 생태학자, 최재천 교수\n고향인 강원도 강릉에서 자연과 벗 삼았던 유년기부터 \n“알면 사랑한다!”는 좌우명으로 자연 사랑과 기초과학의 전도사가 되기까지...\n스스로를 ‘관찰하는 사람’이라 말하는 최재천 교수의 남다른 철학과 경험담을 만난다\n일찍이 호주제 폐지, 인생이모작, 문·이과 통합 등 사회의 흐름을 예측해 온 최재천 교수\n과학자이자 지식인으로서 한국 사회에 중요한 화두를 던져온 그가\n오늘날 우리 사회에 꼭 필요한 ‘공감’과 ‘동행’의 지혜를 전한다.",
+      "publishedAt": "2017-02-27T05:57:36Z",
+      "duration": "PT48M37S",
+      "viewCount": 5518,
+      "likeCount": 77,
+      "commentCount": 5,
+      "tags": [],
+      "categoryId": "29",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
+      "channelName": "NATV 국회방송",
+      "collectedAt": "2025-08-18T07:13:38.463756Z"
+    }
+  },
+  "channels": {
+    "UCL-WOj1FxKR8Hlzg5tvnWKg": {
+      "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
+      "channelName": "NATV 국회방송",
+      "channelUrl": "@natv_korea",
+      "channelDescription": "대한민국 국회가 운영하는 '국회방송(NATV)'의 공식 유튜브 채널입니다.\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/pR9h1UtIbvQgb1jzvA3cInTCuI9M_2tFxITGQb2pm7vlYy1lvoYmPMNrBQv7Rxhjy2Gh4FWGiQ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/pR9h1UtIbvQgb1jzvA3cInTCuI9M_2tFxITGQb2pm7vlYy1lvoYmPMNrBQv7Rxhjy2Gh4FWGiQ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/pR9h1UtIbvQgb1jzvA3cInTCuI9M_2tFxITGQb2pm7vlYy1lvoYmPMNrBQv7Rxhjy2Gh4FWGiQ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 264000,
+      "viewCount": 86009826,
+      "videoCount": 16390,
+      "lastUpdated": "2025-08-18T07:13:38.463756Z"
+    }
+  },
+  "lastUpdated": "2025-08-18T07:13:38.469069Z",
+  "totalVideos": 2,
+  "totalChannels": 1
+}

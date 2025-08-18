@@ -1,0 +1,103 @@
+{
+  "videos": {
+    "oDJVc_dFcl0": {
+      "videoId": "oDJVc_dFcl0",
+      "title": "국회의원 25시- 제211회, 서영교 의원(새정치민주연합)",
+      "description": "제211회-2014.07.23\n\n대한민국 99% 서민을 위한 희망 만들기",
+      "publishedAt": "2014-11-25T08:32:29Z",
+      "duration": "PT21M28S",
+      "viewCount": 5778,
+      "likeCount": 60,
+      "commentCount": 16,
+      "tags": [],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
+      "channelName": "NATV 국회방송",
+      "collectedAt": "2025-08-18T07:13:47.334097Z"
+    },
+    "EHhbsZp3uN4": {
+      "videoId": "EHhbsZp3uN4",
+      "title": "TV특강 이제는 인성이다 - 제3회, 이영숙 박사",
+      "description": "2014/11/21 \n제3회 이영숙 박사 편 '세상을 변화시키는 힘, 인성입니다.'",
+      "publishedAt": "2014-11-25T07:46:01Z",
+      "duration": "PT28M53S",
+      "viewCount": 18574,
+      "likeCount": 96,
+      "commentCount": 3,
+      "tags": [],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
+      "channelName": "NATV 국회방송",
+      "collectedAt": "2025-08-18T07:13:47.334097Z"
+    },
+    "4mrIHMzETHw": {
+      "videoId": "4mrIHMzETHw",
+      "title": "NATV 국회방송 국회입법데이트 234회 세무사법 개정안 등 7법 & 형사소송법 개정안 - 박명재의원",
+      "description": "국회입법데이트 234회 \n세무사법 개정안 등 7법 & 형사소송법 개정안 - 박명재의원\n\n중징계를 받은 공무원의 경우, 경력공무원에게 부여되는 자격시험 면제 혜택을 받지 못하도록 하는 법안 & 공무원 고발의무를 강화하는 법안",
+      "publishedAt": "2014-11-25T01:51:57Z",
+      "duration": "PT21M13S",
+      "viewCount": 143,
+      "likeCount": 1,
+      "commentCount": 0,
+      "tags": [
+        "National Assembly (Governmental Body)",
+        "국회방송",
+        "박명재의원",
+        "새누리당",
+        "세무사법",
+        "공무원",
+        "형사소송법",
+        "개정안",
+        "법안"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
+      "channelName": "NATV 국회방송",
+      "collectedAt": "2025-08-18T07:13:47.334097Z"
+    }
+  },
+  "channels": {
+    "UCL-WOj1FxKR8Hlzg5tvnWKg": {
+      "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
+      "channelName": "NATV 국회방송",
+      "channelUrl": "@natv_korea",
+      "channelDescription": "대한민국 국회가 운영하는 '국회방송(NATV)'의 공식 유튜브 채널입니다.\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/pR9h1UtIbvQgb1jzvA3cInTCuI9M_2tFxITGQb2pm7vlYy1lvoYmPMNrBQv7Rxhjy2Gh4FWGiQ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/pR9h1UtIbvQgb1jzvA3cInTCuI9M_2tFxITGQb2pm7vlYy1lvoYmPMNrBQv7Rxhjy2Gh4FWGiQ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/pR9h1UtIbvQgb1jzvA3cInTCuI9M_2tFxITGQb2pm7vlYy1lvoYmPMNrBQv7Rxhjy2Gh4FWGiQ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 264000,
+      "viewCount": 86009826,
+      "videoCount": 16390,
+      "lastUpdated": "2025-08-18T07:13:47.333099Z"
+    }
+  },
+  "lastUpdated": "2025-08-18T07:13:47.336560Z",
+  "totalVideos": 3,
+  "totalChannels": 1
+}

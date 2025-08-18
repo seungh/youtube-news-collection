@@ -1,0 +1,90 @@
+{
+  "videos": {
+    "nIN50DZpVL4": {
+      "videoId": "nIN50DZpVL4",
+      "title": "NATV 국회방송 4회 통통 입법토크 법률아 놀자",
+      "description": "- 주제 : 1. 어린이식생활 안전관리 특별법\n             2.  건강기능식품에 관한 법률\n- 내용\n1. 어린이 식생활안전관리 특별법 - 공포:16.05.29 시행:17.05.30\n2. 건강기능식품에 관한 법률 - 공포:16.02.03 시행:17.02.03",
+      "publishedAt": "2017-02-28T04:23:13Z",
+      "duration": "PT46M37S",
+      "viewCount": 154,
+      "likeCount": 0,
+      "commentCount": 0,
+      "tags": [
+        "NATV",
+        "국회방송",
+        "국회",
+        "법률",
+        "박지훈",
+        "임방글",
+        "김양순",
+        "양윤선",
+        "양지민"
+      ],
+      "categoryId": "29",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
+      "channelName": "NATV 국회방송",
+      "collectedAt": "2025-08-18T07:13:38.451161Z"
+    },
+    "Iq4PsABaJUQ": {
+      "videoId": "Iq4PsABaJUQ",
+      "title": "NATV 국회방송 힘내요, 청춘 _ 우리는 청년장사꾼입니다 2회",
+      "description": "꿈과 희망 도전하는 열정\n느린 걸음,내일로 향하는 길\n당신의 봄날을 응원합니다\n청년희망 미니다큐\n힘내요, 청춘 \n\n2회: 우리는 청년장사꾼입니다",
+      "publishedAt": "2017-02-28T02:11:55Z",
+      "duration": "PT12M37S",
+      "viewCount": 381,
+      "likeCount": 3,
+      "commentCount": 0,
+      "tags": [
+        "구로",
+        "영프라쟈",
+        "힘내요",
+        "청춘",
+        "청년다큐"
+      ],
+      "categoryId": "29",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
+      "channelName": "NATV 국회방송",
+      "collectedAt": "2025-08-18T07:13:38.451161Z"
+    }
+  },
+  "channels": {
+    "UCL-WOj1FxKR8Hlzg5tvnWKg": {
+      "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
+      "channelName": "NATV 국회방송",
+      "channelUrl": "@natv_korea",
+      "channelDescription": "대한민국 국회가 운영하는 '국회방송(NATV)'의 공식 유튜브 채널입니다.\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/pR9h1UtIbvQgb1jzvA3cInTCuI9M_2tFxITGQb2pm7vlYy1lvoYmPMNrBQv7Rxhjy2Gh4FWGiQ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/pR9h1UtIbvQgb1jzvA3cInTCuI9M_2tFxITGQb2pm7vlYy1lvoYmPMNrBQv7Rxhjy2Gh4FWGiQ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/pR9h1UtIbvQgb1jzvA3cInTCuI9M_2tFxITGQb2pm7vlYy1lvoYmPMNrBQv7Rxhjy2Gh4FWGiQ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 264000,
+      "viewCount": 86009826,
+      "videoCount": 16390,
+      "lastUpdated": "2025-08-18T07:13:38.446547Z"
+    }
+  },
+  "lastUpdated": "2025-08-18T07:13:38.458785Z",
+  "totalVideos": 2,
+  "totalChannels": 1
+}

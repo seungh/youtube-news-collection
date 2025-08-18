@@ -1,0 +1,86 @@
+{
+  "videos": {
+    "cc4A159ySxQ": {
+      "videoId": "cc4A159ySxQ",
+      "title": "NATV 국회방송 한국의 정신 -53회 왕건",
+      "description": "중용과덕치로 한반도를 통일하다 - 태조왕건",
+      "publishedAt": "2016-01-11T05:33:54Z",
+      "duration": "PT3M48S",
+      "viewCount": 4931,
+      "likeCount": 6,
+      "commentCount": 1,
+      "tags": [
+        "왕건",
+        "한국의정신",
+        "태조왕건"
+      ],
+      "categoryId": "29",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
+      "channelName": "NATV 국회방송",
+      "collectedAt": "2025-08-18T07:13:42.299807Z"
+    },
+    "5OhtdjF2qBE": {
+      "videoId": "5OhtdjF2qBE",
+      "title": "NATV 국회방송 54회 TV, 도서관에 가다",
+      "description": "1. 도권전평 \n\"조선의 엔터테이너\" 저자 : 정명섭 \n/ 출연자 : 정명섭 소설가\n               박광일 역사 여행 작가\n2. 내 인생의 책\n 김형오 전 국회의장 / \"펠로폰네소스 전쟁사\"\n저자 : 투퀴디데스",
+      "publishedAt": "2016-01-11T04:55:02Z",
+      "duration": "PT57M24S",
+      "viewCount": 369,
+      "likeCount": 2,
+      "commentCount": 0,
+      "tags": [
+        "국회방송",
+        "NATV",
+        "국회의원",
+        "도서관",
+        "책",
+        "독서",
+        "국회도서관"
+      ],
+      "categoryId": "29",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
+      "channelName": "NATV 국회방송",
+      "collectedAt": "2025-08-18T07:13:42.299807Z"
+    }
+  },
+  "channels": {
+    "UCL-WOj1FxKR8Hlzg5tvnWKg": {
+      "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
+      "channelName": "NATV 국회방송",
+      "channelUrl": "@natv_korea",
+      "channelDescription": "대한민국 국회가 운영하는 '국회방송(NATV)'의 공식 유튜브 채널입니다.\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/pR9h1UtIbvQgb1jzvA3cInTCuI9M_2tFxITGQb2pm7vlYy1lvoYmPMNrBQv7Rxhjy2Gh4FWGiQ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/pR9h1UtIbvQgb1jzvA3cInTCuI9M_2tFxITGQb2pm7vlYy1lvoYmPMNrBQv7Rxhjy2Gh4FWGiQ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/pR9h1UtIbvQgb1jzvA3cInTCuI9M_2tFxITGQb2pm7vlYy1lvoYmPMNrBQv7Rxhjy2Gh4FWGiQ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 264000,
+      "viewCount": 86009826,
+      "videoCount": 16390,
+      "lastUpdated": "2025-08-18T07:13:42.298810Z"
+    }
+  },
+  "lastUpdated": "2025-08-18T07:13:42.300804Z",
+  "totalVideos": 2,
+  "totalChannels": 1
+}

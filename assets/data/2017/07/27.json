@@ -1,0 +1,112 @@
+{
+  "videos": {
+    "GWKq71TAMXc": {
+      "videoId": "GWKq71TAMXc",
+      "title": "0726 국회방송 특집토론 개헌이 미래다 1부",
+      "description": "NATV 특집토론 개헌이 미래다 5부작\n\n1부 - 왜 개헌인가?",
+      "publishedAt": "2017-07-27T11:58:52Z",
+      "duration": "PT1H45S",
+      "viewCount": 1110,
+      "likeCount": 8,
+      "commentCount": 5,
+      "tags": [],
+      "categoryId": "29",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
+      "channelName": "NATV 국회방송",
+      "collectedAt": "2025-08-18T07:13:37.153075Z"
+    },
+    "cxgJZgz-RUQ": {
+      "videoId": "cxgJZgz-RUQ",
+      "title": "국회의원 25시_295회 추경호 의원 편[2017.07.19]",
+      "description": "경제살림꾼 한결같은 신념을 지켜가다 - 국회의원 추경호",
+      "publishedAt": "2017-07-26T18:16:37Z",
+      "duration": "PT23M32S",
+      "viewCount": 2361,
+      "likeCount": 25,
+      "commentCount": 19,
+      "tags": [],
+      "categoryId": "29",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
+      "channelName": "NATV 국회방송",
+      "collectedAt": "2025-08-18T07:13:37.153075Z"
+    },
+    "_grXugXrMxE": {
+      "videoId": "_grXugXrMxE",
+      "title": "국회의원 25시_294회 민경욱 의원 편[2017.07.12]",
+      "description": "\"모두가 웃는 그날까지” 우리 지역 일꾼 - 국회의원 민경욱",
+      "publishedAt": "2017-07-26T17:35:46Z",
+      "duration": "PT22M58S",
+      "viewCount": 2454,
+      "likeCount": 15,
+      "commentCount": 10,
+      "tags": [],
+      "categoryId": "29",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
+      "channelName": "NATV 국회방송",
+      "collectedAt": "2025-08-18T07:13:37.153075Z"
+    },
+    "vsCKJzxTTeE": {
+      "videoId": "vsCKJzxTTeE",
+      "title": "국회의원 25시_293회 최교일 의원 편[2017.07.05]",
+      "description": "지역발전으로 새로운 변화를 꿈꾸다 - 국회의원 최교일",
+      "publishedAt": "2017-07-26T17:24:09Z",
+      "duration": "PT25M16S",
+      "viewCount": 1506,
+      "likeCount": 9,
+      "commentCount": 3,
+      "tags": [],
+      "categoryId": "29",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
+      "channelName": "NATV 국회방송",
+      "collectedAt": "2025-08-18T07:13:37.153075Z"
+    }
+  },
+  "channels": {
+    "UCL-WOj1FxKR8Hlzg5tvnWKg": {
+      "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
+      "channelName": "NATV 국회방송",
+      "channelUrl": "@natv_korea",
+      "channelDescription": "대한민국 국회가 운영하는 '국회방송(NATV)'의 공식 유튜브 채널입니다.\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/pR9h1UtIbvQgb1jzvA3cInTCuI9M_2tFxITGQb2pm7vlYy1lvoYmPMNrBQv7Rxhjy2Gh4FWGiQ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/pR9h1UtIbvQgb1jzvA3cInTCuI9M_2tFxITGQb2pm7vlYy1lvoYmPMNrBQv7Rxhjy2Gh4FWGiQ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/pR9h1UtIbvQgb1jzvA3cInTCuI9M_2tFxITGQb2pm7vlYy1lvoYmPMNrBQv7Rxhjy2Gh4FWGiQ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 264000,
+      "viewCount": 86009826,
+      "videoCount": 16390,
+      "lastUpdated": "2025-08-18T07:13:37.146371Z"
+    }
+  },
+  "lastUpdated": "2025-08-18T07:13:37.161112Z",
+  "totalVideos": 4,
+  "totalChannels": 1
+}

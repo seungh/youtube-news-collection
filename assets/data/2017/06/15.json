@@ -1,0 +1,66 @@
+{
+  "videos": {
+    "A9Gv871M-yM": {
+      "videoId": "A9Gv871M-yM",
+      "title": "NATV 국회방송 20회 통통 입법토크 법률아 놀자",
+      "description": "- 주제 : 식품위생법\n\n- 내용\n\n가. 집단급식소 이용자의 생명 또는 인체의 건강을 해친 자에 대하여 가중처벌함.\n\n나. 가맹본부가 가맹점에 대한 지도·관리를 하지 아니한 경우에는 과태료를 함께 \n    부과할 수 있도록 함 \n\n다. 제과점에서 제조하는 제품에 대하여도 유통기한을 표시하도록 함\n\n라. 빙과류 제품에 대해서도 유통기한을 표시하도록 함",
+      "publishedAt": "2017-06-15T02:19:50Z",
+      "duration": "PT42M14S",
+      "viewCount": 90,
+      "likeCount": 1,
+      "commentCount": 0,
+      "tags": [
+        "NATV",
+        "국회방송",
+        "국회",
+        "통통",
+        "법률",
+        "입법",
+        "박지훈",
+        "임방글",
+        "양윤선",
+        "양지민"
+      ],
+      "categoryId": "29",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
+      "channelName": "NATV 국회방송",
+      "collectedAt": "2025-08-18T07:13:37.425255Z"
+    }
+  },
+  "channels": {
+    "UCL-WOj1FxKR8Hlzg5tvnWKg": {
+      "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
+      "channelName": "NATV 국회방송",
+      "channelUrl": "@natv_korea",
+      "channelDescription": "대한민국 국회가 운영하는 '국회방송(NATV)'의 공식 유튜브 채널입니다.\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/pR9h1UtIbvQgb1jzvA3cInTCuI9M_2tFxITGQb2pm7vlYy1lvoYmPMNrBQv7Rxhjy2Gh4FWGiQ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/pR9h1UtIbvQgb1jzvA3cInTCuI9M_2tFxITGQb2pm7vlYy1lvoYmPMNrBQv7Rxhjy2Gh4FWGiQ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/pR9h1UtIbvQgb1jzvA3cInTCuI9M_2tFxITGQb2pm7vlYy1lvoYmPMNrBQv7Rxhjy2Gh4FWGiQ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 264000,
+      "viewCount": 86009826,
+      "videoCount": 16390,
+      "lastUpdated": "2025-08-18T07:13:37.425255Z"
+    }
+  },
+  "lastUpdated": "2025-08-18T07:13:37.426231Z",
+  "totalVideos": 1,
+  "totalChannels": 1
+}

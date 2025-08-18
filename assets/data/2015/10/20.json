@@ -1,0 +1,85 @@
+{
+  "videos": {
+    "rqQzsa6AVKw": {
+      "videoId": "rqQzsa6AVKw",
+      "title": "NATV  국회방송 새법률 산책 결혼중개업 관련 법안",
+      "description": "설명",
+      "publishedAt": "2015-10-20T10:13:05Z",
+      "duration": "PT28M47S",
+      "viewCount": 409,
+      "likeCount": 5,
+      "commentCount": 0,
+      "tags": [],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
+      "channelName": "NATV 국회방송",
+      "collectedAt": "2025-08-18T07:13:43.261370Z"
+    },
+    "NRLClhGRqyk": {
+      "videoId": "NRLClhGRqyk",
+      "title": "NATV 국회방송 그날을말하다 17회 남자현",
+      "description": "남자현 1872~1933\n\n총독은 내가 처단하겠다. 여자 안중근!  ‘남자현’   \n\n경상북도 영양에서 출생한 남자현은 1895년 남편 김영주가 의병으로 일본군과 싸우다 전사하여 유복자를 기르며 1919년 3·1운동 때 중국 동북지방으로 건너가 서로군정서에서 활약하며 본격적으로 독립운동에 뛰어든다.  \n만주 각 지역에 12곳에 교회를 건립하고 10개의 여성교육회를 조직하여 독립운동과 여성계몽에 힘쓴다. \n1925년 박청산(朴靑山)과 국내로 잠입, 총독 사이토 마코토[齋藤實]의 암살을 계획하였으나 실패하고, 1932년 국제연맹 리턴조사단이 일본의 만주침략에 대한 조사를 위해 하얼빈에 도착하자 무명지를 끊어 ‘조선독립원’이란 혈서를 써서 끊어진 손가락과 동봉하여 전달, 조국의 독립을 호소하였다. 1933년 만주 괴뢰정부 건국일(3월 1일)에  일본장교 부토 노부요시를 살해하려고 폭탄과 무기를 휴대하고 가다가 체포되었다. \n옥중에서도 단식으로 항쟁하다가 병보석으로 석방되었으나 하얼빈에서 ...",
+      "publishedAt": "2015-10-20T04:03:03Z",
+      "duration": "PT8M37S",
+      "viewCount": 901,
+      "likeCount": 10,
+      "commentCount": 0,
+      "tags": [
+        "NATV 국회방송",
+        "광복70주년",
+        "그날을말하다",
+        "남자현",
+        "애국지사",
+        "여성독립운동가",
+        "여자 안중근",
+        "독립운동",
+        "여성계몽",
+        "여성교육회"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
+      "channelName": "NATV 국회방송",
+      "collectedAt": "2025-08-18T07:13:43.261370Z"
+    }
+  },
+  "channels": {
+    "UCL-WOj1FxKR8Hlzg5tvnWKg": {
+      "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
+      "channelName": "NATV 국회방송",
+      "channelUrl": "@natv_korea",
+      "channelDescription": "대한민국 국회가 운영하는 '국회방송(NATV)'의 공식 유튜브 채널입니다.\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/pR9h1UtIbvQgb1jzvA3cInTCuI9M_2tFxITGQb2pm7vlYy1lvoYmPMNrBQv7Rxhjy2Gh4FWGiQ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/pR9h1UtIbvQgb1jzvA3cInTCuI9M_2tFxITGQb2pm7vlYy1lvoYmPMNrBQv7Rxhjy2Gh4FWGiQ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/pR9h1UtIbvQgb1jzvA3cInTCuI9M_2tFxITGQb2pm7vlYy1lvoYmPMNrBQv7Rxhjy2Gh4FWGiQ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 264000,
+      "viewCount": 86009826,
+      "videoCount": 16390,
+      "lastUpdated": "2025-08-18T07:13:43.260850Z"
+    }
+  },
+  "lastUpdated": "2025-08-18T07:13:43.261370Z",
+  "totalVideos": 2,
+  "totalChannels": 1
+}

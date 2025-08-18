@@ -1,0 +1,55 @@
+{
+  "videos": {
+    "EqxqzRRoz7M": {
+      "videoId": "EqxqzRRoz7M",
+      "title": "연옥의 봄(황동규 시인 저) - TV, 도서관에 가다 144회",
+      "description": "TV, 도서관에 가다 (144회) \n\n1. 도권전평 \n'연옥의 봄'\n\n저자: 황동규 시인\n서평: 한양대학교 국어국문학과 유성호 교수\n\n2. 내 인생의 책 \n정의당 윤소하 의원\n'그러니 그대 사라지지 말아라'\n\n저자: 박노해 시인",
+      "publishedAt": "2017-12-27T02:27:53Z",
+      "duration": "PT59M33S",
+      "viewCount": 2732,
+      "likeCount": 38,
+      "commentCount": 5,
+      "tags": [],
+      "categoryId": "29",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
+      "channelName": "NATV 국회방송",
+      "collectedAt": "2025-08-18T07:13:36.355886Z"
+    }
+  },
+  "channels": {
+    "UCL-WOj1FxKR8Hlzg5tvnWKg": {
+      "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
+      "channelName": "NATV 국회방송",
+      "channelUrl": "@natv_korea",
+      "channelDescription": "대한민국 국회가 운영하는 '국회방송(NATV)'의 공식 유튜브 채널입니다.\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/pR9h1UtIbvQgb1jzvA3cInTCuI9M_2tFxITGQb2pm7vlYy1lvoYmPMNrBQv7Rxhjy2Gh4FWGiQ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/pR9h1UtIbvQgb1jzvA3cInTCuI9M_2tFxITGQb2pm7vlYy1lvoYmPMNrBQv7Rxhjy2Gh4FWGiQ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/pR9h1UtIbvQgb1jzvA3cInTCuI9M_2tFxITGQb2pm7vlYy1lvoYmPMNrBQv7Rxhjy2Gh4FWGiQ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 264000,
+      "viewCount": 86009826,
+      "videoCount": 16390,
+      "lastUpdated": "2025-08-18T07:13:36.354889Z"
+    }
+  },
+  "lastUpdated": "2025-08-18T07:13:36.355886Z",
+  "totalVideos": 1,
+  "totalChannels": 1
+}

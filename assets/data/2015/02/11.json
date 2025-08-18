@@ -1,0 +1,83 @@
+{
+  "videos": {
+    "xH5QBfHMiDw": {
+      "videoId": "xH5QBfHMiDw",
+      "title": "국민입법제안 우리가 만든는 세상 - 제27회, 남녀 공용 화장실 분리 강화",
+      "description": "제27회\n방송일 : 2015년 02월 06일\n부   제 : 남녀 공용 화장실 분리 강화",
+      "publishedAt": "2015-02-11T05:45:16Z",
+      "duration": "PT9M51S",
+      "viewCount": 126,
+      "likeCount": 0,
+      "commentCount": 0,
+      "tags": [],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
+      "channelName": "NATV 국회방송",
+      "collectedAt": "2025-08-18T07:13:45.931364Z"
+    },
+    "2_5mqnA1v6U": {
+      "videoId": "2_5mqnA1v6U",
+      "title": "NATV 국회방송 국회입법데이트 288회 법원조직법 개정안 & 상고심절차에 관한 특례법 폐지법안 - 홍일표의원",
+      "description": "국회입법데이트 288회 법원조직법 개정안 & 상고심절차에 관한 특례법 폐지법안 - 홍일표의원\n\n대법원과 별도로 상고심을 선고하는 상고법원 설치 법안 & '법원조직법' 등의 개정으로 상고법원 설치 시, 특례규정이 불필요하게 되므로 동법을 폐지",
+      "publishedAt": "2015-02-11T01:02:35Z",
+      "duration": "PT22M41S",
+      "viewCount": 57,
+      "likeCount": 0,
+      "commentCount": 0,
+      "tags": [
+        "National Assembly (Governmental Body)",
+        "국회방송",
+        "법원조직법",
+        "상고심",
+        "특례법",
+        "상고법원",
+        "홍일표의원",
+        "새누리당"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
+      "channelName": "NATV 국회방송",
+      "collectedAt": "2025-08-18T07:13:45.931364Z"
+    }
+  },
+  "channels": {
+    "UCL-WOj1FxKR8Hlzg5tvnWKg": {
+      "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
+      "channelName": "NATV 국회방송",
+      "channelUrl": "@natv_korea",
+      "channelDescription": "대한민국 국회가 운영하는 '국회방송(NATV)'의 공식 유튜브 채널입니다.\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/pR9h1UtIbvQgb1jzvA3cInTCuI9M_2tFxITGQb2pm7vlYy1lvoYmPMNrBQv7Rxhjy2Gh4FWGiQ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/pR9h1UtIbvQgb1jzvA3cInTCuI9M_2tFxITGQb2pm7vlYy1lvoYmPMNrBQv7Rxhjy2Gh4FWGiQ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/pR9h1UtIbvQgb1jzvA3cInTCuI9M_2tFxITGQb2pm7vlYy1lvoYmPMNrBQv7Rxhjy2Gh4FWGiQ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 264000,
+      "viewCount": 86009826,
+      "videoCount": 16390,
+      "lastUpdated": "2025-08-18T07:13:45.931364Z"
+    }
+  },
+  "lastUpdated": "2025-08-18T07:13:45.932049Z",
+  "totalVideos": 2,
+  "totalChannels": 1
+}

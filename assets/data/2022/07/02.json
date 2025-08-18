@@ -28,7 +28,64 @@
       "liveStreamingDetails": null,
       "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
       "channelName": "NATV 국회방송",
-      "collectedAt": "2025-08-18T02:22:30.064096Z"
+      "collectedAt": "2025-08-18T07:13:22.349365Z"
+    },
+    "KGsom36pAWI": {
+      "videoId": "KGsom36pAWI",
+      "title": "미성년자, 무조건 신용카드 발급 안돼? [팩트체크]",
+      "description": "언론보도에 대한\n다양한 궁금증을 짚어보는\n‘사실은 이렇습니다’\n\n다양한 궁금증에 대한\n정확한 팩트, 전해드립니다.",
+      "publishedAt": "2022-07-02T14:11:07Z",
+      "duration": "PT1M19S",
+      "viewCount": 1891,
+      "likeCount": 5,
+      "commentCount": 0,
+      "tags": [],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": "ko",
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCn8WFi6pE4cJZP8MiUNGFxg",
+      "channelName": "KTV NEWS",
+      "collectedAt": "2025-08-18T07:13:22.350361Z"
+    },
+    "aSbpY9Oei-U": {
+      "videoId": "aSbpY9Oei-U",
+      "title": "긴급고용안정지원금, 소득 얼마 줄여야 신청 가능? [팩트체크]",
+      "description": "언론보도에 대한\n다양한 궁금증을 짚어보는\n‘사실은 이렇습니다’\n\n다양한 궁금증에 대한\n정확한 팩트, 전해드립니다.",
+      "publishedAt": "2022-07-02T14:09:57Z",
+      "duration": "PT1M21S",
+      "viewCount": 58,
+      "likeCount": 0,
+      "commentCount": 0,
+      "tags": [],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": "ko",
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCn8WFi6pE4cJZP8MiUNGFxg",
+      "channelName": "KTV NEWS",
+      "collectedAt": "2025-08-18T07:13:22.350361Z"
+    },
+    "ZmDjSomShxs": {
+      "videoId": "ZmDjSomShxs",
+      "title": "상생임대주택, 월세에서 전세로 전환해도 적용 가능? [팩트체크]",
+      "description": "언론보도에 대한\n다양한 궁금증을 짚어보는\n‘사실은 이렇습니다’\n\n다양한 궁금증에 대한\n정확한 팩트, 전해드립니다.",
+      "publishedAt": "2022-07-02T14:08:52Z",
+      "duration": "PT1M39S",
+      "viewCount": 318,
+      "likeCount": 2,
+      "commentCount": 0,
+      "tags": [],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": "ko",
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCn8WFi6pE4cJZP8MiUNGFxg",
+      "channelName": "KTV NEWS",
+      "collectedAt": "2025-08-18T07:13:22.350361Z"
     }
   },
   "channels": {
@@ -58,9 +115,36 @@
       "viewCount": 86003788,
       "videoCount": 16388,
       "lastUpdated": "2025-08-18T02:22:30.064096Z"
+    },
+    "UCn8WFi6pE4cJZP8MiUNGFxg": {
+      "channelId": "UCn8WFi6pE4cJZP8MiUNGFxg",
+      "channelName": "KTV NEWS",
+      "channelUrl": "@ktv_news",
+      "channelDescription": "최신 정부 정책과 뉴스를 가장 빠르고 정확하게\n전문가와 함께 심도깊게 풀어보는 KTV NEWS \nKTV는 내일도 가장 빠른 정책 정보를 전달하겠습니다✨️\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/-onJTfnhW4T3ddcj4M8_iZ2psnWXUIbmrnXJhbuug1Rhg4XdjXMG81HOdAKp8zPox3paTfkK=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/-onJTfnhW4T3ddcj4M8_iZ2psnWXUIbmrnXJhbuug1Rhg4XdjXMG81HOdAKp8zPox3paTfkK=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/-onJTfnhW4T3ddcj4M8_iZ2psnWXUIbmrnXJhbuug1Rhg4XdjXMG81HOdAKp8zPox3paTfkK=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 166000,
+      "viewCount": 87289483,
+      "videoCount": 19304,
+      "lastUpdated": "2025-08-18T07:13:22.350361Z"
     }
   },
-  "lastUpdated": "2025-08-18T02:22:30.064096Z",
-  "totalVideos": 1,
-  "totalChannels": 1
+  "lastUpdated": "2025-08-18T07:13:22.350361Z",
+  "totalVideos": 4,
+  "totalChannels": 2
 }

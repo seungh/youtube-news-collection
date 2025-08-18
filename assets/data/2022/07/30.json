@@ -28,7 +28,37 @@
       "liveStreamingDetails": null,
       "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
       "channelName": "NATV 국회방송",
-      "collectedAt": "2025-08-18T02:22:30.049942Z"
+      "collectedAt": "2025-08-18T07:13:03.348999Z"
+    },
+    "3yYaJYVj4Bs": {
+      "videoId": "3yYaJYVj4Bs",
+      "title": "대한민국, 세계 7번째 위성항법시스템 개발? LIG넥스원 사업관리 매니저의 하루",
+      "description": "#GPS #KPS #k방산\n대한민국 세계 7번째 위성항법시스템 개발 가능할까? LIG넥스원 사업관리 매니저의 하루 [K방산의 주역]\n\n프로듀서: 국방홍보원 안승회\n\n국방홍보원, 방위사업청, 한국방위산업진흥회 공동 기획 K방산의 주역 LIG넥스원 편",
+      "publishedAt": "2022-07-30T02:57:30Z",
+      "duration": "PT9M50S",
+      "viewCount": 14692,
+      "likeCount": 167,
+      "commentCount": 8,
+      "tags": [
+        "방산",
+        "방위산업",
+        "한화",
+        "LIG",
+        "lig넥스원",
+        "한화시스템",
+        "한화디펜스",
+        "우주",
+        "항공",
+        "군금해"
+      ],
+      "categoryId": "28",
+      "defaultLanguage": "ko",
+      "defaultAudioLanguage": "ko",
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UC88r6mA2791EXvGAruLL7ug",
+      "channelName": "KFN뉴스",
+      "collectedAt": "2025-08-18T07:13:03.348002Z"
     }
   },
   "channels": {
@@ -58,9 +88,36 @@
       "viewCount": 86003788,
       "videoCount": 16388,
       "lastUpdated": "2025-08-18T02:22:30.049942Z"
+    },
+    "UC88r6mA2791EXvGAruLL7ug": {
+      "channelId": "UC88r6mA2791EXvGAruLL7ug",
+      "channelName": "KFN뉴스",
+      "channelUrl": "@dnrok1028",
+      "channelDescription": "국방소식을 가장 정확하고 신속하게 전달하는 국방소식 KFN뉴스\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/cWmZDCjMEuPq0MTN5pBC1rrN0Bu9CEAsmux48XxhvxYeqR9gH1ee8PsIrYqaweZteHWOTH66OSA=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/cWmZDCjMEuPq0MTN5pBC1rrN0Bu9CEAsmux48XxhvxYeqR9gH1ee8PsIrYqaweZteHWOTH66OSA=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/cWmZDCjMEuPq0MTN5pBC1rrN0Bu9CEAsmux48XxhvxYeqR9gH1ee8PsIrYqaweZteHWOTH66OSA=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 192000,
+      "viewCount": 203799141,
+      "videoCount": 15149,
+      "lastUpdated": "2025-08-18T07:13:03.347005Z"
     }
   },
-  "lastUpdated": "2025-08-18T02:22:30.049942Z",
-  "totalVideos": 1,
-  "totalChannels": 1
+  "lastUpdated": "2025-08-18T07:13:03.348999Z",
+  "totalVideos": 2,
+  "totalChannels": 2
 }

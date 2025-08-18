@@ -27,7 +27,37 @@
       "liveStreamingDetails": null,
       "channelId": "UCn8WFi6pE4cJZP8MiUNGFxg",
       "channelName": "KTV NEWS",
-      "collectedAt": "2025-08-18T02:22:29.837607Z"
+      "collectedAt": "2025-08-18T07:13:03.714968Z"
+    },
+    "87f2WgTNQUo": {
+      "videoId": "87f2WgTNQUo",
+      "title": "클릭! 한방에 8m 너비의 웅덩이가!?/ 미클릭 수목지역 지뢰지대 극복 전투실험",
+      "description": "클릭 한 방이면 지뢰 제거 OK\n이 엄청난 장비 이름은? 마...마우스? (땡! 땡땡땡!!!!!)\n바로 \nMine Clearing Line charge 줄여서, MICLIC 미클릭입니다\n\n지뢰 개척 장비의 하나인 미클릭은 \n로켓 모터로 선형 작약을 전방으로 날려 폭파해 \n그 주변 지역의 지뢰까지도 함께 폭파해\n지뢰를 제거해주는 장비인데요 \n\n이번 6월 30일 6공병여단의 미클릭 전투 실험이 있다고 해서 \n뉴스바바가  핫 한 소식을 전달하기 위해 현장에 직접 가기로 했습니다 \n\n그!런!데!\n\n이날은 전국에 종일 폭우가 내렸으며 \n심지어 미클릭 실험을 하는 장소는 300mm의 집중호우가 내리기도 했는데요 \n\n아~~~ 취소되겠구나..라고 예상했던 뉴스바바 제작진의 예상은 \n언제나 그랬듯 보기 좋게 빗나갔습니다 (예상이 잘 안 맞는 타입들임)\n\n빗속을 뚫고 도착한 현장은 훈련 준비로 한창이였는데요\n악천후 속에서 진행된 6공병여단의 미클릭 폭파실험 \n과연 훈련 결과가 어떻게 나왔을까요?\n궁금...",
+      "publishedAt": "2022-07-10T05:35:41Z",
+      "duration": "PT5M32S",
+      "viewCount": 2181,
+      "likeCount": 60,
+      "commentCount": 8,
+      "tags": [
+        "국방홍보원",
+        "국방뉴스",
+        "국방NEWS",
+        "뉴스바바",
+        "DEFENSE NEWS",
+        "ROK",
+        "MICLIC",
+        "미클릭",
+        "6공병여단",
+        "지뢰폭발"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": "ko",
+      "defaultAudioLanguage": "ko",
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UC88r6mA2791EXvGAruLL7ug",
+      "channelName": "KFN뉴스",
+      "collectedAt": "2025-08-18T07:13:03.713972Z"
     }
   },
   "channels": {
@@ -57,9 +87,36 @@
       "viewCount": 87225174,
       "videoCount": 19299,
       "lastUpdated": "2025-08-18T02:22:29.837346Z"
+    },
+    "UC88r6mA2791EXvGAruLL7ug": {
+      "channelId": "UC88r6mA2791EXvGAruLL7ug",
+      "channelName": "KFN뉴스",
+      "channelUrl": "@dnrok1028",
+      "channelDescription": "국방소식을 가장 정확하고 신속하게 전달하는 국방소식 KFN뉴스\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/cWmZDCjMEuPq0MTN5pBC1rrN0Bu9CEAsmux48XxhvxYeqR9gH1ee8PsIrYqaweZteHWOTH66OSA=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/cWmZDCjMEuPq0MTN5pBC1rrN0Bu9CEAsmux48XxhvxYeqR9gH1ee8PsIrYqaweZteHWOTH66OSA=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/cWmZDCjMEuPq0MTN5pBC1rrN0Bu9CEAsmux48XxhvxYeqR9gH1ee8PsIrYqaweZteHWOTH66OSA=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 192000,
+      "viewCount": 203799141,
+      "videoCount": 15149,
+      "lastUpdated": "2025-08-18T07:13:03.713972Z"
     }
   },
-  "lastUpdated": "2025-08-18T02:22:29.838116Z",
-  "totalVideos": 1,
-  "totalChannels": 1
+  "lastUpdated": "2025-08-18T07:13:03.714968Z",
+  "totalVideos": 2,
+  "totalChannels": 2
 }

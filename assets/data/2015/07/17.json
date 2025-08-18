@@ -1,0 +1,94 @@
+{
+  "videos": {
+    "W5clxhBkfOg": {
+      "videoId": "W5clxhBkfOg",
+      "title": "NATV 국회방송 33회 TV, 도서관에 가다",
+      "description": "1. 도권전평 \n\"아버지의 딸\" 저자 : 이우경 \n/ 출연자 : 이우경 심리학박사  \n                  박종태 두란노 아버지학교 강사\n\n2. 국회의원 서재\n새누리당 김재원 의원 /  \"열하일기 \"\n저자 : 박지원",
+      "publishedAt": "2015-07-17T03:38:08Z",
+      "duration": "PT55M28S",
+      "viewCount": 330,
+      "likeCount": 3,
+      "commentCount": 0,
+      "tags": [
+        "NATV",
+        "국회방송",
+        "국회의원",
+        "도서관",
+        "국회도서관",
+        "서재",
+        "책",
+        "도서",
+        "독서"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
+      "channelName": "NATV 국회방송",
+      "collectedAt": "2025-08-18T07:13:44.195498Z"
+    },
+    "tiAGU4Ts12s": {
+      "videoId": "tiAGU4Ts12s",
+      "title": "NATV 국회방송 국회입법데이트 395회 취업 후 학자금 상환 특별법 개정안 & 장애인 고용촉진 직업재활법 개정안 외 2개 법안 - 이명수의원",
+      "description": "국회입법데이트 395회 \n취업 후 학자금 상환 특별법 개정안 & 장애니 고용촉진 직업재활법 개정안 & 장애인복지법 개정안 · 장애인활동 지원에 관한 법률 개정안 - 이명수의원\n\n'취업 후 상환 학자금대출' , '장애인 고용부담금' 연체금의 계산 방식을 월할 계산 방식에서 일할 계산방식으로 변경하는 법안\n& 국민기초생활보장제도를 맞춤형 빈곤정책으로 전환한 '국민기초생활 보장법'에 맞춰 관련 내용을 개정하는 법안",
+      "publishedAt": "2015-07-17T00:53:09Z",
+      "duration": "PT18M49S",
+      "viewCount": 43,
+      "likeCount": 0,
+      "commentCount": 0,
+      "tags": [
+        "National Assembly (Governmental Body)",
+        "국회방송",
+        "새누리당",
+        "이명수의원",
+        "학자금대출",
+        "국민기초생활보장제도",
+        "국민기초생활보장법",
+        "법안",
+        "개정안"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
+      "channelName": "NATV 국회방송",
+      "collectedAt": "2025-08-18T07:13:44.195498Z"
+    }
+  },
+  "channels": {
+    "UCL-WOj1FxKR8Hlzg5tvnWKg": {
+      "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
+      "channelName": "NATV 국회방송",
+      "channelUrl": "@natv_korea",
+      "channelDescription": "대한민국 국회가 운영하는 '국회방송(NATV)'의 공식 유튜브 채널입니다.\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/pR9h1UtIbvQgb1jzvA3cInTCuI9M_2tFxITGQb2pm7vlYy1lvoYmPMNrBQv7Rxhjy2Gh4FWGiQ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/pR9h1UtIbvQgb1jzvA3cInTCuI9M_2tFxITGQb2pm7vlYy1lvoYmPMNrBQv7Rxhjy2Gh4FWGiQ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/pR9h1UtIbvQgb1jzvA3cInTCuI9M_2tFxITGQb2pm7vlYy1lvoYmPMNrBQv7Rxhjy2Gh4FWGiQ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 264000,
+      "viewCount": 86009826,
+      "videoCount": 16390,
+      "lastUpdated": "2025-08-18T07:13:44.194997Z"
+    }
+  },
+  "lastUpdated": "2025-08-18T07:13:44.195498Z",
+  "totalVideos": 2,
+  "totalChannels": 1
+}

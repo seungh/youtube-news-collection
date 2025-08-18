@@ -1,0 +1,81 @@
+{
+  "videos": {
+    "uBhR6Wje_TY": {
+      "videoId": "uBhR6Wje_TY",
+      "title": "NATV 국회방송 힘내요, 청춘 _ 철의 골목에서 피어나는 청년예술 9회",
+      "description": "꿈과 희망 도전하는 열정\n느린 걸음,내일로 향하는 길\n당신의 봄날을 응원합니다\n청년희망 미니다큐\n힘내요, 청춘 \n\n9회: 철의 골목에서 피어나는 청년예술",
+      "publishedAt": "2017-04-18T10:54:23Z",
+      "duration": "PT16M9S",
+      "viewCount": 292,
+      "likeCount": 3,
+      "commentCount": 0,
+      "tags": [],
+      "categoryId": "29",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
+      "channelName": "NATV 국회방송",
+      "collectedAt": "2025-08-18T07:13:37.959355Z"
+    },
+    "N39LrFtDb64": {
+      "videoId": "N39LrFtDb64",
+      "title": "NATV 국회방송 114회 TV 도서관에 가다",
+      "description": "1. 도권전평 \n4차 산업혁명과 빅뱅파괴의 시대\n\n저 자 : 차두원 _ 한국과학기술기획평가원연구위원 \n\n공동저자 : 김학용 _ 순천향대학교 IoT보안연구센터 교수 \n\n2. 내 인생의 책 \n\n국민의당 이태규 의원 _  남한산성  \n\n저자 : 김훈",
+      "publishedAt": "2017-04-17T20:36:22Z",
+      "duration": "PT59M59S",
+      "viewCount": 1943,
+      "likeCount": 10,
+      "commentCount": 0,
+      "tags": [
+        "TV",
+        "도서관",
+        "국회방송",
+        "도권전평",
+        "내인생의책",
+        "이태규의원"
+      ],
+      "categoryId": "29",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
+      "channelName": "NATV 국회방송",
+      "collectedAt": "2025-08-18T07:13:37.959355Z"
+    }
+  },
+  "channels": {
+    "UCL-WOj1FxKR8Hlzg5tvnWKg": {
+      "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
+      "channelName": "NATV 국회방송",
+      "channelUrl": "@natv_korea",
+      "channelDescription": "대한민국 국회가 운영하는 '국회방송(NATV)'의 공식 유튜브 채널입니다.\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/pR9h1UtIbvQgb1jzvA3cInTCuI9M_2tFxITGQb2pm7vlYy1lvoYmPMNrBQv7Rxhjy2Gh4FWGiQ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/pR9h1UtIbvQgb1jzvA3cInTCuI9M_2tFxITGQb2pm7vlYy1lvoYmPMNrBQv7Rxhjy2Gh4FWGiQ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/pR9h1UtIbvQgb1jzvA3cInTCuI9M_2tFxITGQb2pm7vlYy1lvoYmPMNrBQv7Rxhjy2Gh4FWGiQ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 264000,
+      "viewCount": 86009826,
+      "videoCount": 16390,
+      "lastUpdated": "2025-08-18T07:13:37.958356Z"
+    }
+  },
+  "lastUpdated": "2025-08-18T07:13:37.959355Z",
+  "totalVideos": 2,
+  "totalChannels": 1
+}

@@ -1,0 +1,91 @@
+{
+  "videos": {
+    "_PTb0k5UcHc": {
+      "videoId": "_PTb0k5UcHc",
+      "title": "NATV 국회방송 9회 TV,도서관에 가다",
+      "description": "1. 글로벌입법뉴스 \n소준섭 해외자료조사관 \n박지원 법률자료조사관 \n\n2. 국회의원 서재 \n새누리당 김용태 의원 / '술탄과 황제'    저자 : 김형오 \n\n3.. 도권전평 \n'책과 혁명'   저자 : 로버트 단턴 \n/ 서평 박찬흥 국회도서관 독도자료조사관",
+      "publishedAt": "2015-01-23T09:06:50Z",
+      "duration": "PT54M11S",
+      "viewCount": 486,
+      "likeCount": 1,
+      "commentCount": 0,
+      "tags": [
+        "NATV국회방송",
+        "책",
+        "도서",
+        "도서관",
+        "국회의원"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
+      "channelName": "NATV 국회방송",
+      "collectedAt": "2025-08-18T07:13:46.163093Z"
+    },
+    "DUmobwPHXKM": {
+      "videoId": "DUmobwPHXKM",
+      "title": "NATV 국회방송 국회입법데이트 275회 농업협동조합법 개정안 & 농수산물 유통 및 가격안정에 관한 법률 개정안 & 양곡관리법 개정안 - 신정훈의원",
+      "description": "국회입법데이트 275회 \n농업협동조합법 개정안 & 농수산물 유통 및 가격안정에 관한 법률 개정안 & 양곡관리법 개정안 - 신정훈의원\n\n지역농협 임원의 결격사유를 완화하는 법안 & 자연재해 피해 농수산물(쌀, 보리 제외)을 농산물가격안정기금 등으로 우선 매입하는 법안 & 양곡수급계획 운용에 필요한 양곡 매입 시, 자연재해 피해양곡을 우선 매입하는 법안",
+      "publishedAt": "2015-01-23T01:19:33Z",
+      "duration": "PT22M14S",
+      "viewCount": 84,
+      "likeCount": 0,
+      "commentCount": 0,
+      "tags": [
+        "신정훈",
+        "신정훈의원",
+        "농협",
+        "자연",
+        "자연재해",
+        "농수산물",
+        "쌀",
+        "보리",
+        "양곡",
+        "양곡수급"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
+      "channelName": "NATV 국회방송",
+      "collectedAt": "2025-08-18T07:13:46.163093Z"
+    }
+  },
+  "channels": {
+    "UCL-WOj1FxKR8Hlzg5tvnWKg": {
+      "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
+      "channelName": "NATV 국회방송",
+      "channelUrl": "@natv_korea",
+      "channelDescription": "대한민국 국회가 운영하는 '국회방송(NATV)'의 공식 유튜브 채널입니다.\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/pR9h1UtIbvQgb1jzvA3cInTCuI9M_2tFxITGQb2pm7vlYy1lvoYmPMNrBQv7Rxhjy2Gh4FWGiQ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/pR9h1UtIbvQgb1jzvA3cInTCuI9M_2tFxITGQb2pm7vlYy1lvoYmPMNrBQv7Rxhjy2Gh4FWGiQ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/pR9h1UtIbvQgb1jzvA3cInTCuI9M_2tFxITGQb2pm7vlYy1lvoYmPMNrBQv7Rxhjy2Gh4FWGiQ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 264000,
+      "viewCount": 86009826,
+      "videoCount": 16390,
+      "lastUpdated": "2025-08-18T07:13:46.163093Z"
+    }
+  },
+  "lastUpdated": "2025-08-18T07:13:46.164091Z",
+  "totalVideos": 2,
+  "totalChannels": 1
+}

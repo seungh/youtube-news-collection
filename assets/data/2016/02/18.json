@@ -1,0 +1,89 @@
+{
+  "videos": {
+    "mjSaG5kfI_A": {
+      "videoId": "mjSaG5kfI_A",
+      "title": "NATV 국회방송 한국의 정신- 64회 박팽년",
+      "description": "곧은 절의로 일생을 마감한 조선의 충신 박팽년\n단종 복위를 도모하다 역모죄로 옥사\n죽음으로 지킨 충절",
+      "publishedAt": "2016-02-18T08:09:34Z",
+      "duration": "PT3M43S",
+      "viewCount": 4176,
+      "likeCount": 27,
+      "commentCount": 3,
+      "tags": [
+        "박팽년",
+        "한국의 정신",
+        "절의가"
+      ],
+      "categoryId": "29",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
+      "channelName": "NATV 국회방송",
+      "collectedAt": "2025-08-18T07:13:42.032677Z"
+    },
+    "WKWm-ZWQ0S0": {
+      "videoId": "WKWm-ZWQ0S0",
+      "title": "NATV 국회방송 서유기(서민에 유익한 법이야기) 2회 태완이법",
+      "description": "서유기(서민에 유익한 법이야기) 2회 태완이법\n\n형사소송법 일부개정법률안\n: 공소시효는 법적 안정성과 범인 필벌의 요구에 대한 타협의 산물이라고 할 것인데 현행법은 법적 안정성 측면에 더 많은 비중을 두고 있어 피해자의 인권 보호를 소홀히 하고 있다는 문제가 지적되어 왔음. 살인과 같은 중범죄에 대한 공소시효는 적용하지 않는 것이 국제적인 추세로 대한민국의 법체계도 이 같은 추세에 발맞춰 끝까지 밝혀 처벌할 필요성이 있음.",
+      "publishedAt": "2016-02-18T06:04:32Z",
+      "duration": "PT57M26S",
+      "viewCount": 964,
+      "likeCount": 6,
+      "commentCount": 1,
+      "tags": [
+        "NATV",
+        "국회방송",
+        "서유기",
+        "서민에 유익한 법이야기",
+        "태완이법",
+        "공소시효",
+        "형사소송법 일부개정법률안",
+        "시그널",
+        "박지훈 변호사",
+        "김양순 기자"
+      ],
+      "categoryId": "29",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
+      "channelName": "NATV 국회방송",
+      "collectedAt": "2025-08-18T07:13:42.032677Z"
+    }
+  },
+  "channels": {
+    "UCL-WOj1FxKR8Hlzg5tvnWKg": {
+      "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
+      "channelName": "NATV 국회방송",
+      "channelUrl": "@natv_korea",
+      "channelDescription": "대한민국 국회가 운영하는 '국회방송(NATV)'의 공식 유튜브 채널입니다.\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/pR9h1UtIbvQgb1jzvA3cInTCuI9M_2tFxITGQb2pm7vlYy1lvoYmPMNrBQv7Rxhjy2Gh4FWGiQ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/pR9h1UtIbvQgb1jzvA3cInTCuI9M_2tFxITGQb2pm7vlYy1lvoYmPMNrBQv7Rxhjy2Gh4FWGiQ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/pR9h1UtIbvQgb1jzvA3cInTCuI9M_2tFxITGQb2pm7vlYy1lvoYmPMNrBQv7Rxhjy2Gh4FWGiQ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 264000,
+      "viewCount": 86009826,
+      "videoCount": 16390,
+      "lastUpdated": "2025-08-18T07:13:42.032677Z"
+    }
+  },
+  "lastUpdated": "2025-08-18T07:13:42.032677Z",
+  "totalVideos": 2,
+  "totalChannels": 1
+}

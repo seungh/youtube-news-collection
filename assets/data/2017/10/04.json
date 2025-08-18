@@ -1,0 +1,55 @@
+{
+  "videos": {
+    "PZGjKMYp92M": {
+      "videoId": "PZGjKMYp92M",
+      "title": "NATV 137회 TV, 도서관에 가다 - 위대하고 위험한 약 이야기(정진호 교수 저)",
+      "description": "TV, 도서관에 가다 (137회) \n\n1. 도권전평 \n'위대하고 위험한 약 이야기'\n\n저자: 서울대학교 약학대 정진호 교수\n서평:  심창구 前 식약청장\n\n2. 내 인생의 책 \n\n자유한국당 이완영 의원\n'나는 세계 일주로 경제를 배웠다'\n\n저자: 코너 우드먼",
+      "publishedAt": "2017-10-03T15:23:02Z",
+      "duration": "PT59M28S",
+      "viewCount": 1892,
+      "likeCount": 11,
+      "commentCount": 0,
+      "tags": [],
+      "categoryId": "29",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
+      "channelName": "NATV 국회방송",
+      "collectedAt": "2025-08-18T07:13:36.727193Z"
+    }
+  },
+  "channels": {
+    "UCL-WOj1FxKR8Hlzg5tvnWKg": {
+      "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
+      "channelName": "NATV 국회방송",
+      "channelUrl": "@natv_korea",
+      "channelDescription": "대한민국 국회가 운영하는 '국회방송(NATV)'의 공식 유튜브 채널입니다.\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/pR9h1UtIbvQgb1jzvA3cInTCuI9M_2tFxITGQb2pm7vlYy1lvoYmPMNrBQv7Rxhjy2Gh4FWGiQ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/pR9h1UtIbvQgb1jzvA3cInTCuI9M_2tFxITGQb2pm7vlYy1lvoYmPMNrBQv7Rxhjy2Gh4FWGiQ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/pR9h1UtIbvQgb1jzvA3cInTCuI9M_2tFxITGQb2pm7vlYy1lvoYmPMNrBQv7Rxhjy2Gh4FWGiQ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 264000,
+      "viewCount": 86009826,
+      "videoCount": 16390,
+      "lastUpdated": "2025-08-18T07:13:36.725399Z"
+    }
+  },
+  "lastUpdated": "2025-08-18T07:13:36.727193Z",
+  "totalVideos": 1,
+  "totalChannels": 1
+}

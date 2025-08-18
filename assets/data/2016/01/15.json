@@ -1,0 +1,84 @@
+{
+  "videos": {
+    "R3RHaKAbk1s": {
+      "videoId": "R3RHaKAbk1s",
+      "title": "NATV 국회방송 한국의 정신-54회 조헌",
+      "description": "행동하는 지식인, 의병장이 되다- 조헌",
+      "publishedAt": "2016-01-15T06:58:38Z",
+      "duration": "PT3M47S",
+      "viewCount": 2832,
+      "likeCount": 23,
+      "commentCount": 3,
+      "tags": [
+        "조헌",
+        "임진왜란",
+        "의병",
+        "조천일기",
+        "금산전투"
+      ],
+      "categoryId": "29",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
+      "channelName": "NATV 국회방송",
+      "collectedAt": "2025-08-18T07:13:42.276714Z"
+    },
+    "s1UuFF3Yjwg": {
+      "videoId": "s1UuFF3Yjwg",
+      "title": "함께가요 희망세상 제29회 - 가장 따뜻했던 그들의 하루 공주 고마 봉사단",
+      "description": "제29회 - 가장 따뜻했던 그들의 하루, 고마봉사단 \n\n대한민국을 지키던 이들! 이제는 지역 사회를 책임진다! \n특수임무 유공자의 명예를 알리고 국가 발전에 이바지할 것을 목적으로 설립된 대한민국 특수임무 유공자회. 2015년 1월, 공주지회 소속 7명의 회원들이 지역을 위해 뭉쳤다! 이들의 봉사소식에 한달음에 달려와 준 사람들 덕분에 현재는 47명의 회원들이 모여 함께 뜻을 펼치고 있다. 애국활동(독도지킴이), 환경정화, 문화재 지킴이, 치안 방범 순찰, 집수리 등 지역사회를 위한 일이라면 그들은 망설임 없이 달려간다. \n\n그 누구보다 바쁘고 따뜻한, 고마봉사단이 함께 나눈 하루! \n집수리 봉사 후 오랜만에 찾은 할머니. 봉사단원들의 날카로운 눈과 손으로 지켜지는 공주의 문화재. 떡국 한 그릇으로 마음을 나눈 외롭고 소외된 이웃들. \n일방적인 봉사가 아닌, 이웃들과 더불어 살고 함께 걸어가기 위해 베풀어진 마음. 나눔과 감사의 기쁨을 공유한 이들의 특별하고 따뜻한 하루를 들여다본다...",
+      "publishedAt": "2016-01-15T05:35:25Z",
+      "duration": "PT24M27S",
+      "viewCount": 302,
+      "likeCount": 0,
+      "commentCount": 0,
+      "tags": [
+        "NATV 국회방송",
+        "공주 고마봉사단",
+        "특수임무 유공자회"
+      ],
+      "categoryId": "29",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
+      "channelName": "NATV 국회방송",
+      "collectedAt": "2025-08-18T07:13:42.276714Z"
+    }
+  },
+  "channels": {
+    "UCL-WOj1FxKR8Hlzg5tvnWKg": {
+      "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
+      "channelName": "NATV 국회방송",
+      "channelUrl": "@natv_korea",
+      "channelDescription": "대한민국 국회가 운영하는 '국회방송(NATV)'의 공식 유튜브 채널입니다.\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/pR9h1UtIbvQgb1jzvA3cInTCuI9M_2tFxITGQb2pm7vlYy1lvoYmPMNrBQv7Rxhjy2Gh4FWGiQ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/pR9h1UtIbvQgb1jzvA3cInTCuI9M_2tFxITGQb2pm7vlYy1lvoYmPMNrBQv7Rxhjy2Gh4FWGiQ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/pR9h1UtIbvQgb1jzvA3cInTCuI9M_2tFxITGQb2pm7vlYy1lvoYmPMNrBQv7Rxhjy2Gh4FWGiQ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 264000,
+      "viewCount": 86009826,
+      "videoCount": 16390,
+      "lastUpdated": "2025-08-18T07:13:42.274041Z"
+    }
+  },
+  "lastUpdated": "2025-08-18T07:13:42.280117Z",
+  "totalVideos": 2,
+  "totalChannels": 1
+}

@@ -1,0 +1,66 @@
+{
+  "videos": {
+    "r4aeufBwslI": {
+      "videoId": "r4aeufBwslI",
+      "title": "NATV 국회방송 78회 TV,도서관에 가다",
+      "description": "1. 도권전평\n\"군함도1,2\" 저자 : 한수산 \n / 출연자 : 한수산 소설가 겸 세종대학교 국어국문학과 교수\n                   정여울 작가 겸 문학평론가\n          \n2. 내 인생의 책\n더불어민주당 표창원 의원 \"파피용\" \n저자: 베르나르 베르베르",
+      "publishedAt": "2016-10-28T07:04:31Z",
+      "duration": "PT1H",
+      "viewCount": 1232,
+      "likeCount": 2,
+      "commentCount": 0,
+      "tags": [
+        "국회방송",
+        "도서관",
+        "TV",
+        "TV도서관",
+        "군함도",
+        "한수산",
+        "정여울",
+        "표창원",
+        "파피용",
+        "베르나르 베르베르"
+      ],
+      "categoryId": "29",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
+      "channelName": "NATV 국회방송",
+      "collectedAt": "2025-08-18T07:13:39.359626Z"
+    }
+  },
+  "channels": {
+    "UCL-WOj1FxKR8Hlzg5tvnWKg": {
+      "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
+      "channelName": "NATV 국회방송",
+      "channelUrl": "@natv_korea",
+      "channelDescription": "대한민국 국회가 운영하는 '국회방송(NATV)'의 공식 유튜브 채널입니다.\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/pR9h1UtIbvQgb1jzvA3cInTCuI9M_2tFxITGQb2pm7vlYy1lvoYmPMNrBQv7Rxhjy2Gh4FWGiQ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/pR9h1UtIbvQgb1jzvA3cInTCuI9M_2tFxITGQb2pm7vlYy1lvoYmPMNrBQv7Rxhjy2Gh4FWGiQ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/pR9h1UtIbvQgb1jzvA3cInTCuI9M_2tFxITGQb2pm7vlYy1lvoYmPMNrBQv7Rxhjy2Gh4FWGiQ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 264000,
+      "viewCount": 86009826,
+      "videoCount": 16390,
+      "lastUpdated": "2025-08-18T07:13:39.359626Z"
+    }
+  },
+  "lastUpdated": "2025-08-18T07:13:39.359626Z",
+  "totalVideos": 1,
+  "totalChannels": 1
+}

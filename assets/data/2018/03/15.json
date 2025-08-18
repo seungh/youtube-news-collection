@@ -1,0 +1,95 @@
+{
+  "videos": {
+    "mR9S4ZreGMw": {
+      "videoId": "mR9S4ZreGMw",
+      "title": "제20대 국회 인터뷰 릴레이 칭찬 164회 추혜선 의원 정의당",
+      "description": "제20대 국회 인터뷰 릴레이 칭찬 164회 추혜선 의원 정의당",
+      "publishedAt": "2018-03-15T12:07:33Z",
+      "duration": "PT10M12S",
+      "viewCount": 1273,
+      "likeCount": 13,
+      "commentCount": 6,
+      "tags": [
+        "국회",
+        "국회방송",
+        "추혜선의원",
+        "추혜선",
+        "정의당",
+        "국회의원",
+        "인터뷰",
+        "인터뷰릴레이칭찬",
+        "칭찬"
+      ],
+      "categoryId": "29",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
+      "channelName": "NATV 국회방송",
+      "collectedAt": "2025-08-18T07:13:35.421835Z"
+    },
+    "vNre6MkGpyg": {
+      "videoId": "vNre6MkGpyg",
+      "title": "주 52시간 근로시대, 대한민국 시험대 오르다 - NATV 직언직설 토론당당",
+      "description": "2018/03/15 직언직설 토론당당 26회\n\n주 52시간 근로시대, 대한민국 시험대 오르다\n\n\n출연자\n한 정 애  (더불어민주당)\n임 이 자  (자유한국당)\n김 삼 화  (바른미래당)",
+      "publishedAt": "2018-03-15T08:51:06Z",
+      "duration": "PT1H4M10S",
+      "viewCount": 6896,
+      "likeCount": 12,
+      "commentCount": 7,
+      "tags": [
+        "환경노동위원회",
+        "국회환노위",
+        "환노위",
+        "근로시간단축",
+        "근로단축",
+        "휴일수당",
+        "근로시간단축법",
+        "휴일근로수당",
+        "특례업종",
+        "탄력적 근로시간제"
+      ],
+      "categoryId": "29",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
+      "channelName": "NATV 국회방송",
+      "collectedAt": "2025-08-18T07:13:35.421835Z"
+    }
+  },
+  "channels": {
+    "UCL-WOj1FxKR8Hlzg5tvnWKg": {
+      "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
+      "channelName": "NATV 국회방송",
+      "channelUrl": "@natv_korea",
+      "channelDescription": "대한민국 국회가 운영하는 '국회방송(NATV)'의 공식 유튜브 채널입니다.\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/pR9h1UtIbvQgb1jzvA3cInTCuI9M_2tFxITGQb2pm7vlYy1lvoYmPMNrBQv7Rxhjy2Gh4FWGiQ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/pR9h1UtIbvQgb1jzvA3cInTCuI9M_2tFxITGQb2pm7vlYy1lvoYmPMNrBQv7Rxhjy2Gh4FWGiQ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/pR9h1UtIbvQgb1jzvA3cInTCuI9M_2tFxITGQb2pm7vlYy1lvoYmPMNrBQv7Rxhjy2Gh4FWGiQ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 264000,
+      "viewCount": 86009826,
+      "videoCount": 16390,
+      "lastUpdated": "2025-08-18T07:13:35.419800Z"
+    }
+  },
+  "lastUpdated": "2025-08-18T07:13:35.421835Z",
+  "totalVideos": 2,
+  "totalChannels": 1
+}

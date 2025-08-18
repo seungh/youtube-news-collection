@@ -1,0 +1,93 @@
+{
+  "videos": {
+    "LdMqDyjsu7A": {
+      "videoId": "LdMqDyjsu7A",
+      "title": "NATV  한국의정신  50회  안창호",
+      "description": "식민지 조국에 희망의 빛을 밝힌 안창호의 삶을  들여다 본다",
+      "publishedAt": "2016-03-09T06:08:52Z",
+      "duration": "PT4M42S",
+      "viewCount": 23792,
+      "likeCount": 82,
+      "commentCount": 14,
+      "tags": [],
+      "categoryId": "29",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
+      "channelName": "NATV 국회방송",
+      "collectedAt": "2025-08-18T07:13:41.876472Z"
+    },
+    "2PrluMh1Nlo": {
+      "videoId": "2PrluMh1Nlo",
+      "title": "NATV 국회방송 한국의 정신- 67회 임경업 난세에 못다핀 애국 충정",
+      "description": "명 청 교체기의 국제적 격변기 속에 나라를 지키며 끝까지 청에 저항했던 불운의 명장 임경업",
+      "publishedAt": "2016-03-09T05:09:42Z",
+      "duration": "PT3M45S",
+      "viewCount": 12719,
+      "likeCount": 97,
+      "commentCount": 42,
+      "tags": [],
+      "categoryId": "29",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
+      "channelName": "NATV 국회방송",
+      "collectedAt": "2025-08-18T07:13:41.876472Z"
+    },
+    "fTVPVx5Tz1Q": {
+      "videoId": "fTVPVx5Tz1Q",
+      "title": "NATV 국회방송 한국의 정신 68회 문무왕 삼국통일의 위업을 이루다",
+      "description": "태종무열왕의 장남으로 당나라와의 6년 간의 전쟁 끝에 당나라 세력을 축출하고 삼국통일의 대업을 이룬 문무왕\n살아서도 죽어서도 나라를 지키며 호국의식을 후세에 길이 전한 문무왕의 삶을 들여다본다",
+      "publishedAt": "2016-03-09T04:33:18Z",
+      "duration": "PT3M45S",
+      "viewCount": 3873,
+      "likeCount": 21,
+      "commentCount": 3,
+      "tags": [],
+      "categoryId": "29",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
+      "channelName": "NATV 국회방송",
+      "collectedAt": "2025-08-18T07:13:41.876472Z"
+    }
+  },
+  "channels": {
+    "UCL-WOj1FxKR8Hlzg5tvnWKg": {
+      "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
+      "channelName": "NATV 국회방송",
+      "channelUrl": "@natv_korea",
+      "channelDescription": "대한민국 국회가 운영하는 '국회방송(NATV)'의 공식 유튜브 채널입니다.\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/pR9h1UtIbvQgb1jzvA3cInTCuI9M_2tFxITGQb2pm7vlYy1lvoYmPMNrBQv7Rxhjy2Gh4FWGiQ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/pR9h1UtIbvQgb1jzvA3cInTCuI9M_2tFxITGQb2pm7vlYy1lvoYmPMNrBQv7Rxhjy2Gh4FWGiQ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/pR9h1UtIbvQgb1jzvA3cInTCuI9M_2tFxITGQb2pm7vlYy1lvoYmPMNrBQv7Rxhjy2Gh4FWGiQ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 264000,
+      "viewCount": 86009826,
+      "videoCount": 16390,
+      "lastUpdated": "2025-08-18T07:13:41.875479Z"
+    }
+  },
+  "lastUpdated": "2025-08-18T07:13:41.883249Z",
+  "totalVideos": 3,
+  "totalChannels": 1
+}

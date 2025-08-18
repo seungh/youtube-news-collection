@@ -1,0 +1,94 @@
+{
+  "videos": {
+    "WweMtdovZPw": {
+      "videoId": "WweMtdovZPw",
+      "title": "NATV 국회방송 슈퍼코리안 세상을 바꾸다 제6회 슈퍼코리안 김묘선2부",
+      "description": "우리나라 승무와 살풀이춤을 전세계에 전승하는 이매방의 승무 전수조교 겸 살풀이춤 이수자인 김묘선 한국춤 명인의 삶을 들여다본다.",
+      "publishedAt": "2016-11-21T13:32:18Z",
+      "duration": "PT26M52S",
+      "viewCount": 5824,
+      "likeCount": 69,
+      "commentCount": 7,
+      "tags": [
+        "김묘선",
+        "승무",
+        "살풀이춤",
+        "이매방",
+        "전수조교",
+        "일본",
+        "미국",
+        "대일사",
+        "주지"
+      ],
+      "categoryId": "29",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
+      "channelName": "NATV 국회방송",
+      "collectedAt": "2025-08-18T07:13:39.224653Z"
+    },
+    "A0y0BaUZjts": {
+      "videoId": "A0y0BaUZjts",
+      "title": "NATV 국회방송 93회 TV,도서관에 가다",
+      "description": "1. 도권전평 \n\"표현의 기술\"\n 저자 : 유시민\n/ 출연자 : 유시민 작가 & 곽금주 서울대 심리학 교수 \n\n\n2. 내 인생의 책\n더불어민주당 강훈식 의원 \n\"고우영 삼국지\"\n저자 : 고우영",
+      "publishedAt": "2016-11-21T10:06:10Z",
+      "duration": "PT1H2M25S",
+      "viewCount": 1868,
+      "likeCount": 8,
+      "commentCount": 1,
+      "tags": [
+        "TV도서관",
+        "도서관",
+        "고우영",
+        "삼국지",
+        "고우영 삼국지",
+        "강훈식",
+        "유시민",
+        "표현의 기술",
+        "곽금주"
+      ],
+      "categoryId": "29",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
+      "channelName": "NATV 국회방송",
+      "collectedAt": "2025-08-18T07:13:39.224653Z"
+    }
+  },
+  "channels": {
+    "UCL-WOj1FxKR8Hlzg5tvnWKg": {
+      "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
+      "channelName": "NATV 국회방송",
+      "channelUrl": "@natv_korea",
+      "channelDescription": "대한민국 국회가 운영하는 '국회방송(NATV)'의 공식 유튜브 채널입니다.\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/pR9h1UtIbvQgb1jzvA3cInTCuI9M_2tFxITGQb2pm7vlYy1lvoYmPMNrBQv7Rxhjy2Gh4FWGiQ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/pR9h1UtIbvQgb1jzvA3cInTCuI9M_2tFxITGQb2pm7vlYy1lvoYmPMNrBQv7Rxhjy2Gh4FWGiQ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/pR9h1UtIbvQgb1jzvA3cInTCuI9M_2tFxITGQb2pm7vlYy1lvoYmPMNrBQv7Rxhjy2Gh4FWGiQ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 264000,
+      "viewCount": 86009826,
+      "videoCount": 16390,
+      "lastUpdated": "2025-08-18T07:13:39.224653Z"
+    }
+  },
+  "lastUpdated": "2025-08-18T07:13:39.225648Z",
+  "totalVideos": 2,
+  "totalChannels": 1
+}

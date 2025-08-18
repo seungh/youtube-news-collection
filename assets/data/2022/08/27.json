@@ -28,7 +28,7 @@
       "liveStreamingDetails": null,
       "channelId": "UCn8WFi6pE4cJZP8MiUNGFxg",
       "channelName": "KTV NEWS",
-      "collectedAt": "2025-08-18T02:22:29.586786Z"
+      "collectedAt": "2025-08-18T07:13:02.859961Z"
     },
     "suhYLnQGsm4": {
       "videoId": "suhYLnQGsm4",
@@ -58,7 +58,7 @@
       "liveStreamingDetails": null,
       "channelId": "UCn8WFi6pE4cJZP8MiUNGFxg",
       "channelName": "KTV NEWS",
-      "collectedAt": "2025-08-18T02:22:29.586786Z"
+      "collectedAt": "2025-08-18T07:13:02.859961Z"
     },
     "9Nmvmdh1lU4": {
       "videoId": "9Nmvmdh1lU4",
@@ -80,7 +80,37 @@
       "liveStreamingDetails": null,
       "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
       "channelName": "NATV 국회방송",
-      "collectedAt": "2025-08-18T02:22:29.586786Z"
+      "collectedAt": "2025-08-18T07:13:02.858965Z"
+    },
+    "yNDSXb2g21c": {
+      "videoId": "yNDSXb2g21c",
+      "title": "[K방산]전기차? 이젠 전기선박이다! 장보고-III 잠수함 개발의 숨은 공신 LBTS",
+      "description": "#잠수함 #전기선박 #한국전기연구원\n전기차? 이젠 전기선박이다! 장보고-III 잠수함 개발의 숨은 공신 LBTS [K방산의 주역]\n\n프로듀서: 국방홍보원 안승회",
+      "publishedAt": "2022-08-27T04:54:35Z",
+      "duration": "PT10M4S",
+      "viewCount": 22080,
+      "likeCount": 393,
+      "commentCount": 22,
+      "tags": [
+        "잠수함",
+        "전기차",
+        "테슬라",
+        "전기선박",
+        "한국전기연구원",
+        "케리",
+        "keri",
+        "안승회",
+        "안승회기자",
+        "안승회_기자"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": "ko",
+      "defaultAudioLanguage": "ko",
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UC88r6mA2791EXvGAruLL7ug",
+      "channelName": "KFN뉴스",
+      "collectedAt": "2025-08-18T07:13:02.858965Z"
     }
   },
   "channels": {
@@ -137,9 +167,36 @@
       "viewCount": 86003788,
       "videoCount": 16388,
       "lastUpdated": "2025-08-18T02:22:29.586786Z"
+    },
+    "UC88r6mA2791EXvGAruLL7ug": {
+      "channelId": "UC88r6mA2791EXvGAruLL7ug",
+      "channelName": "KFN뉴스",
+      "channelUrl": "@dnrok1028",
+      "channelDescription": "국방소식을 가장 정확하고 신속하게 전달하는 국방소식 KFN뉴스\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/cWmZDCjMEuPq0MTN5pBC1rrN0Bu9CEAsmux48XxhvxYeqR9gH1ee8PsIrYqaweZteHWOTH66OSA=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/cWmZDCjMEuPq0MTN5pBC1rrN0Bu9CEAsmux48XxhvxYeqR9gH1ee8PsIrYqaweZteHWOTH66OSA=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/cWmZDCjMEuPq0MTN5pBC1rrN0Bu9CEAsmux48XxhvxYeqR9gH1ee8PsIrYqaweZteHWOTH66OSA=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 192000,
+      "viewCount": 203799141,
+      "videoCount": 15149,
+      "lastUpdated": "2025-08-18T07:13:02.858965Z"
     }
   },
-  "lastUpdated": "2025-08-18T02:22:29.587950Z",
-  "totalVideos": 3,
-  "totalChannels": 2
+  "lastUpdated": "2025-08-18T07:13:02.859961Z",
+  "totalVideos": 4,
+  "totalChannels": 3
 }

@@ -1,0 +1,66 @@
+{
+  "videos": {
+    "QvYJGVnqKew": {
+      "videoId": "QvYJGVnqKew",
+      "title": "떠나도 좋아 뜻밖의 대한민국 5회 여수",
+      "description": "우즈벡 출신 이스칸의 두번째 여행지 여수!!\n하루 종일 내리는 가을비를 벗삼아\n남도의 미항 여수로 떠난 낭만 여행~~~",
+      "publishedAt": "2018-10-10T08:31:46Z",
+      "duration": "PT27M46S",
+      "viewCount": 784,
+      "likeCount": 9,
+      "commentCount": 0,
+      "tags": [
+        "이스칸",
+        "우즈베키스탄",
+        "여수",
+        "돌게장",
+        "도심속 녹차밭",
+        "여수 밤바다",
+        "천사벽화마을",
+        "향일암",
+        "낭만포차",
+        "여수 해상 케이블카"
+      ],
+      "categoryId": "19",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": "ko",
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
+      "channelName": "NATV 국회방송",
+      "collectedAt": "2025-08-18T07:13:33.602772Z"
+    }
+  },
+  "channels": {
+    "UCL-WOj1FxKR8Hlzg5tvnWKg": {
+      "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
+      "channelName": "NATV 국회방송",
+      "channelUrl": "@natv_korea",
+      "channelDescription": "대한민국 국회가 운영하는 '국회방송(NATV)'의 공식 유튜브 채널입니다.\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/pR9h1UtIbvQgb1jzvA3cInTCuI9M_2tFxITGQb2pm7vlYy1lvoYmPMNrBQv7Rxhjy2Gh4FWGiQ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/pR9h1UtIbvQgb1jzvA3cInTCuI9M_2tFxITGQb2pm7vlYy1lvoYmPMNrBQv7Rxhjy2Gh4FWGiQ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/pR9h1UtIbvQgb1jzvA3cInTCuI9M_2tFxITGQb2pm7vlYy1lvoYmPMNrBQv7Rxhjy2Gh4FWGiQ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 264000,
+      "viewCount": 86009826,
+      "videoCount": 16390,
+      "lastUpdated": "2025-08-18T07:13:33.601774Z"
+    }
+  },
+  "lastUpdated": "2025-08-18T07:13:33.605204Z",
+  "totalVideos": 1,
+  "totalChannels": 1
+}

@@ -1,0 +1,83 @@
+{
+  "videos": {
+    "c2igGNuuw4w": {
+      "videoId": "c2igGNuuw4w",
+      "title": "NATV 국회방송 6회 통통 입법토크 법률아 놀자",
+      "description": "1. 주제 :여객자동차 운수사업법",
+      "publishedAt": "2017-03-09T03:13:52Z",
+      "duration": "PT48M55S",
+      "viewCount": 122,
+      "likeCount": 0,
+      "commentCount": 0,
+      "tags": [
+        "국회방송",
+        "NATV",
+        "입법",
+        "법률",
+        "박세희",
+        "임방글",
+        "박지훈",
+        "양윤선"
+      ],
+      "categoryId": "29",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
+      "channelName": "NATV 국회방송",
+      "collectedAt": "2025-08-18T07:13:38.396650Z"
+    },
+    "Yttpm2C49G8": {
+      "videoId": "Yttpm2C49G8",
+      "title": "국회 특권내려놓기",
+      "description": "국회가 특권을 내려놓고 국민에게 다가가겠습니다",
+      "publishedAt": "2017-03-09T01:49:04Z",
+      "duration": "PT42S",
+      "viewCount": 187,
+      "likeCount": 1,
+      "commentCount": 0,
+      "tags": [],
+      "categoryId": "29",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
+      "channelName": "NATV 국회방송",
+      "collectedAt": "2025-08-18T07:13:38.396650Z"
+    }
+  },
+  "channels": {
+    "UCL-WOj1FxKR8Hlzg5tvnWKg": {
+      "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
+      "channelName": "NATV 국회방송",
+      "channelUrl": "@natv_korea",
+      "channelDescription": "대한민국 국회가 운영하는 '국회방송(NATV)'의 공식 유튜브 채널입니다.\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/pR9h1UtIbvQgb1jzvA3cInTCuI9M_2tFxITGQb2pm7vlYy1lvoYmPMNrBQv7Rxhjy2Gh4FWGiQ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/pR9h1UtIbvQgb1jzvA3cInTCuI9M_2tFxITGQb2pm7vlYy1lvoYmPMNrBQv7Rxhjy2Gh4FWGiQ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/pR9h1UtIbvQgb1jzvA3cInTCuI9M_2tFxITGQb2pm7vlYy1lvoYmPMNrBQv7Rxhjy2Gh4FWGiQ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 264000,
+      "viewCount": 86009826,
+      "videoCount": 16390,
+      "lastUpdated": "2025-08-18T07:13:38.396650Z"
+    }
+  },
+  "lastUpdated": "2025-08-18T07:13:38.398074Z",
+  "totalVideos": 2,
+  "totalChannels": 1
+}

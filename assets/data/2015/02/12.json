@@ -1,0 +1,82 @@
+{
+  "videos": {
+    "2DIW8fBWnq4": {
+      "videoId": "2DIW8fBWnq4",
+      "title": "국민입법제안 우리가 만든는 세상 - 제28회, 향수의 알레르기 성분 표시 의무화",
+      "description": "제28회\n방송일 : 2015년 02월 11일\n부   제 : 향수의 알레르기 성분 표시 의무화",
+      "publishedAt": "2015-02-12T06:00:16Z",
+      "duration": "PT10M11S",
+      "viewCount": 55,
+      "likeCount": 0,
+      "commentCount": 0,
+      "tags": [],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
+      "channelName": "NATV 국회방송",
+      "collectedAt": "2025-08-18T07:13:45.926741Z"
+    },
+    "gl0e89ZStkA": {
+      "videoId": "gl0e89ZStkA",
+      "title": "NATV 국회방송 국회입법데이트 289회 공익신고자 보호법 개정안 - 권은희의원",
+      "description": "국회입법데이트 289회 공익신고자 보호법 개정안 - 권은희의원\n\n공익신고자 보호를 위하여 공익침해행위 및 공익신고자의 범위를 확대하고, 변호사 대리를 통한 익명 공익신고가 가능하도록 하는 법안",
+      "publishedAt": "2015-02-12T01:31:55Z",
+      "duration": "PT22M57S",
+      "viewCount": 175,
+      "likeCount": 0,
+      "commentCount": 0,
+      "tags": [
+        "국회방송",
+        "공익신고자",
+        "개정안",
+        "법안",
+        "권은희의원",
+        "새정치민주연합",
+        "National Assembly (Governmental Body)"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
+      "channelName": "NATV 국회방송",
+      "collectedAt": "2025-08-18T07:13:45.926741Z"
+    }
+  },
+  "channels": {
+    "UCL-WOj1FxKR8Hlzg5tvnWKg": {
+      "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
+      "channelName": "NATV 국회방송",
+      "channelUrl": "@natv_korea",
+      "channelDescription": "대한민국 국회가 운영하는 '국회방송(NATV)'의 공식 유튜브 채널입니다.\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/pR9h1UtIbvQgb1jzvA3cInTCuI9M_2tFxITGQb2pm7vlYy1lvoYmPMNrBQv7Rxhjy2Gh4FWGiQ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/pR9h1UtIbvQgb1jzvA3cInTCuI9M_2tFxITGQb2pm7vlYy1lvoYmPMNrBQv7Rxhjy2Gh4FWGiQ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/pR9h1UtIbvQgb1jzvA3cInTCuI9M_2tFxITGQb2pm7vlYy1lvoYmPMNrBQv7Rxhjy2Gh4FWGiQ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 264000,
+      "viewCount": 86009826,
+      "videoCount": 16390,
+      "lastUpdated": "2025-08-18T07:13:45.926217Z"
+    }
+  },
+  "lastUpdated": "2025-08-18T07:13:45.927725Z",
+  "totalVideos": 2,
+  "totalChannels": 1
+}

@@ -1,0 +1,96 @@
+{
+  "videos": {
+    "PsHSM1_azOw": {
+      "videoId": "PsHSM1_azOw",
+      "title": "제20대 인터뷰릴레이칭찬 193회 이용호 의원 무소속",
+      "description": "제20대 인터뷰릴레이칭찬 193회 이용호 의원 무소속",
+      "publishedAt": "2019-01-14T05:41:06Z",
+      "duration": "PT9M52S",
+      "viewCount": 996,
+      "likeCount": 17,
+      "commentCount": 3,
+      "tags": [
+        "국회의원",
+        "인터뷰릴레이칭찬",
+        "국회방송",
+        "인터뷰",
+        "릴레이",
+        "칭찬",
+        "natv",
+        "이용호의원",
+        "이용호",
+        "이용호의원 무소속"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
+      "channelName": "NATV 국회방송",
+      "collectedAt": "2025-08-18T07:13:32.340812Z"
+    },
+    "5E8odSZp3lw": {
+      "videoId": "5E8odSZp3lw",
+      "title": "한국헌법의 역사와 정치(서희경 교수) - 열린국회 시민아카데미 2회",
+      "description": "열린국회 시민아카데미 (2회)\n\n- 강연주제 : 한국헌법의 역사와 정치\n- 강연자 : 서희경 교수(경희대학교 공공거버넌스센터 학술연구소)",
+      "publishedAt": "2019-01-14T02:06:41Z",
+      "duration": "PT55M52S",
+      "viewCount": 1055,
+      "likeCount": 20,
+      "commentCount": 0,
+      "tags": [
+        "헌법재판소",
+        "헌법강의",
+        "헌법재판관",
+        "헌법전문",
+        "헌법 역사",
+        "헌법사",
+        "헌법소원",
+        "헌법 강의",
+        "헌법 재판소",
+        "헌법 특강"
+      ],
+      "categoryId": "19",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
+      "channelName": "NATV 국회방송",
+      "collectedAt": "2025-08-18T07:13:32.340812Z"
+    }
+  },
+  "channels": {
+    "UCL-WOj1FxKR8Hlzg5tvnWKg": {
+      "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
+      "channelName": "NATV 국회방송",
+      "channelUrl": "@natv_korea",
+      "channelDescription": "대한민국 국회가 운영하는 '국회방송(NATV)'의 공식 유튜브 채널입니다.\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/pR9h1UtIbvQgb1jzvA3cInTCuI9M_2tFxITGQb2pm7vlYy1lvoYmPMNrBQv7Rxhjy2Gh4FWGiQ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/pR9h1UtIbvQgb1jzvA3cInTCuI9M_2tFxITGQb2pm7vlYy1lvoYmPMNrBQv7Rxhjy2Gh4FWGiQ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/pR9h1UtIbvQgb1jzvA3cInTCuI9M_2tFxITGQb2pm7vlYy1lvoYmPMNrBQv7Rxhjy2Gh4FWGiQ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 264000,
+      "viewCount": 86009826,
+      "videoCount": 16390,
+      "lastUpdated": "2025-08-18T07:13:32.339821Z"
+    }
+  },
+  "lastUpdated": "2025-08-18T07:13:32.341811Z",
+  "totalVideos": 2,
+  "totalChannels": 1
+}

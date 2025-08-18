@@ -1,0 +1,74 @@
+{
+  "videos": {
+    "DD5s6OP1fnA": {
+      "videoId": "DD5s6OP1fnA",
+      "title": "국회의원25시_283회 이춘석 의원 편[2017.03.29]",
+      "description": "흔들리지 않는 원칙으로 통합의 길을 찾다 - 국회의원 이춘석",
+      "publishedAt": "2017-03-29T09:31:19Z",
+      "duration": "PT25M33S",
+      "viewCount": 2253,
+      "likeCount": 35,
+      "commentCount": 11,
+      "tags": [],
+      "categoryId": "29",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
+      "channelName": "NATV 국회방송",
+      "collectedAt": "2025-08-18T07:13:38.274944Z"
+    },
+    "BxwNoR2m0_c": {
+      "videoId": "BxwNoR2m0_c",
+      "title": "국회의원25시_282회 소병훈 의원 편[2017.03.22]",
+      "description": "더 낮은 곳으로 향하는 발걸음 - 국회의원 소병훈",
+      "publishedAt": "2017-03-29T09:24:09Z",
+      "duration": "PT24M14S",
+      "viewCount": 747,
+      "likeCount": 23,
+      "commentCount": 5,
+      "tags": [],
+      "categoryId": "29",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
+      "channelName": "NATV 국회방송",
+      "collectedAt": "2025-08-18T07:13:38.274944Z"
+    }
+  },
+  "channels": {
+    "UCL-WOj1FxKR8Hlzg5tvnWKg": {
+      "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
+      "channelName": "NATV 국회방송",
+      "channelUrl": "@natv_korea",
+      "channelDescription": "대한민국 국회가 운영하는 '국회방송(NATV)'의 공식 유튜브 채널입니다.\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/pR9h1UtIbvQgb1jzvA3cInTCuI9M_2tFxITGQb2pm7vlYy1lvoYmPMNrBQv7Rxhjy2Gh4FWGiQ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/pR9h1UtIbvQgb1jzvA3cInTCuI9M_2tFxITGQb2pm7vlYy1lvoYmPMNrBQv7Rxhjy2Gh4FWGiQ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/pR9h1UtIbvQgb1jzvA3cInTCuI9M_2tFxITGQb2pm7vlYy1lvoYmPMNrBQv7Rxhjy2Gh4FWGiQ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 264000,
+      "viewCount": 86009826,
+      "videoCount": 16390,
+      "lastUpdated": "2025-08-18T07:13:38.274944Z"
+    }
+  },
+  "lastUpdated": "2025-08-18T07:13:38.274944Z",
+  "totalVideos": 2,
+  "totalChannels": 1
+}

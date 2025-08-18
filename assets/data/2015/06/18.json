@@ -1,0 +1,91 @@
+{
+  "videos": {
+    "4cF1pBUkBnc": {
+      "videoId": "4cF1pBUkBnc",
+      "title": "NATV 국회방송 국회는 지금 여의도 국회 40주년 기념전",
+      "description": "6월 11일 여의도 국회 40주년 기념전",
+      "publishedAt": "2015-06-18T02:09:17Z",
+      "duration": "PT8M10S",
+      "viewCount": 34,
+      "likeCount": 0,
+      "commentCount": 0,
+      "tags": [
+        "NATV",
+        "국회방송",
+        "국회",
+        "국회는 지금",
+        "여의도 국회",
+        "정의화"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
+      "channelName": "NATV 국회방송",
+      "collectedAt": "2025-08-18T07:13:44.557318Z"
+    },
+    "UvLErJjXy3s": {
+      "videoId": "UvLErJjXy3s",
+      "title": "NATV 국회방송 국회입법데이트 374회 농어업 · 농어촌 및 식품산업 기본법 개정안 & 국민제안법안 - 유성엽의원",
+      "description": "국회입법데이트 374회 농어업 · 농어촌 및 식품산업 기본법 개정안 & 국민제안법안 - 유성엽의원\n\n이모작 농업 활성화 법안 & '국민제안 제도' 활성화 법안",
+      "publishedAt": "2015-06-18T01:00:55Z",
+      "duration": "PT19M3S",
+      "viewCount": 27,
+      "likeCount": 0,
+      "commentCount": 0,
+      "tags": [
+        "National Assembly (Governmental Body)",
+        "Politics (TV Genre)",
+        "이모작",
+        "농어업",
+        "국민제안제도",
+        "유성엽의원",
+        "새정치민주연합",
+        "개정안",
+        "법안"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
+      "channelName": "NATV 국회방송",
+      "collectedAt": "2025-08-18T07:13:44.557318Z"
+    }
+  },
+  "channels": {
+    "UCL-WOj1FxKR8Hlzg5tvnWKg": {
+      "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
+      "channelName": "NATV 국회방송",
+      "channelUrl": "@natv_korea",
+      "channelDescription": "대한민국 국회가 운영하는 '국회방송(NATV)'의 공식 유튜브 채널입니다.\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/pR9h1UtIbvQgb1jzvA3cInTCuI9M_2tFxITGQb2pm7vlYy1lvoYmPMNrBQv7Rxhjy2Gh4FWGiQ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/pR9h1UtIbvQgb1jzvA3cInTCuI9M_2tFxITGQb2pm7vlYy1lvoYmPMNrBQv7Rxhjy2Gh4FWGiQ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/pR9h1UtIbvQgb1jzvA3cInTCuI9M_2tFxITGQb2pm7vlYy1lvoYmPMNrBQv7Rxhjy2Gh4FWGiQ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 264000,
+      "viewCount": 86009826,
+      "videoCount": 16390,
+      "lastUpdated": "2025-08-18T07:13:44.552176Z"
+    }
+  },
+  "lastUpdated": "2025-08-18T07:13:44.558893Z",
+  "totalVideos": 2,
+  "totalChannels": 1
+}

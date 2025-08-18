@@ -1,0 +1,115 @@
+{
+  "videos": {
+    "5VNLXJX8pyE": {
+      "videoId": "5VNLXJX8pyE",
+      "title": "슈퍼코리안 9회 홍정오편 1부",
+      "description": "라오스 수도 비엔티엔 근교 시골마을에서 뉴새마을운동을 펼치고 있는 새마을 협력관 홍정오씨의 헌신적인 봉사활동을 밀착취재한다.",
+      "publishedAt": "2017-01-25T09:50:08Z",
+      "duration": "PT23M49S",
+      "viewCount": 2104,
+      "likeCount": 7,
+      "commentCount": 8,
+      "tags": [
+        "홍정오",
+        "새마을협력관",
+        "라오스",
+        "비엔티엔",
+        "학사이",
+        "몽족",
+        "봉사활동",
+        "아시아교류협회"
+      ],
+      "categoryId": "29",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
+      "channelName": "NATV 국회방송",
+      "collectedAt": "2025-08-18T07:13:38.682728Z"
+    },
+    "4hpGKNtROZ8": {
+      "videoId": "4hpGKNtROZ8",
+      "title": "NATV 국회방송 슈퍼코리안 세상을 바꾸다 제10회 - 홍정오편 2부",
+      "description": "라오스에서 새마을 홍보협력관으로 활약하면서 라오스 시골마을의 소득향상을 위해 노력하는 홍정오씨의 삶을 들여다본다.",
+      "publishedAt": "2017-01-25T09:35:03Z",
+      "duration": "PT27M23S",
+      "viewCount": 1276,
+      "likeCount": 10,
+      "commentCount": 4,
+      "tags": [
+        "홍정오",
+        "홍보협력관",
+        "라오스",
+        "새마을",
+        "뉴새마을운동",
+        "라오스한인회"
+      ],
+      "categoryId": "29",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
+      "channelName": "NATV 국회방송",
+      "collectedAt": "2025-08-18T07:13:38.682728Z"
+    },
+    "50AwQiaCFeI": {
+      "videoId": "50AwQiaCFeI",
+      "title": "NATV 국회방송 슈퍼코리안 세상을 바꾸다 제7회 - 김원숙편 1부",
+      "description": "재미화가 김원숙씨의 삶과 그의 작품세계, 그리고 그림으로 한국을 미국사회에 알리고 있는 모습을 취재",
+      "publishedAt": "2017-01-25T05:53:23Z",
+      "duration": "PT24M20S",
+      "viewCount": 174,
+      "likeCount": 0,
+      "commentCount": 0,
+      "tags": [
+        "김원숙",
+        "재미화가",
+        "그림",
+        "민간외교관",
+        "슈퍼코리안"
+      ],
+      "categoryId": "29",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
+      "channelName": "NATV 국회방송",
+      "collectedAt": "2025-08-18T07:13:38.682728Z"
+    }
+  },
+  "channels": {
+    "UCL-WOj1FxKR8Hlzg5tvnWKg": {
+      "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
+      "channelName": "NATV 국회방송",
+      "channelUrl": "@natv_korea",
+      "channelDescription": "대한민국 국회가 운영하는 '국회방송(NATV)'의 공식 유튜브 채널입니다.\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/pR9h1UtIbvQgb1jzvA3cInTCuI9M_2tFxITGQb2pm7vlYy1lvoYmPMNrBQv7Rxhjy2Gh4FWGiQ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/pR9h1UtIbvQgb1jzvA3cInTCuI9M_2tFxITGQb2pm7vlYy1lvoYmPMNrBQv7Rxhjy2Gh4FWGiQ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/pR9h1UtIbvQgb1jzvA3cInTCuI9M_2tFxITGQb2pm7vlYy1lvoYmPMNrBQv7Rxhjy2Gh4FWGiQ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 264000,
+      "viewCount": 86009826,
+      "videoCount": 16390,
+      "lastUpdated": "2025-08-18T07:13:38.679705Z"
+    }
+  },
+  "lastUpdated": "2025-08-18T07:13:38.684564Z",
+  "totalVideos": 3,
+  "totalChannels": 1
+}

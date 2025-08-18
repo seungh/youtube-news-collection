@@ -1,0 +1,55 @@
+{
+  "videos": {
+    "h1tWIc8cLjc": {
+      "videoId": "h1tWIc8cLjc",
+      "title": "NATV 국회방송 129회 TV 도서관에 가다 - 과학의 위안(강석기 과학 전문 작가)",
+      "description": "TV, 도서관에 가다 (129회) \n\n1. 도권전평 \n'과학의 위안'\n\n저자: 강석기 과학 전문 작가\n서평: 이정모 서울시립과학관장\n\n2. 내 인생의 책 \n\n더불어민주당 이수혁 의원\n'종의 기원'\n\n저자: 찰스 다윈",
+      "publishedAt": "2017-08-08T04:42:38Z",
+      "duration": "PT57M7S",
+      "viewCount": 57,
+      "likeCount": 1,
+      "commentCount": 0,
+      "tags": [],
+      "categoryId": "29",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
+      "channelName": "NATV 국회방송",
+      "collectedAt": "2025-08-18T07:13:37.072963Z"
+    }
+  },
+  "channels": {
+    "UCL-WOj1FxKR8Hlzg5tvnWKg": {
+      "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
+      "channelName": "NATV 국회방송",
+      "channelUrl": "@natv_korea",
+      "channelDescription": "대한민국 국회가 운영하는 '국회방송(NATV)'의 공식 유튜브 채널입니다.\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/pR9h1UtIbvQgb1jzvA3cInTCuI9M_2tFxITGQb2pm7vlYy1lvoYmPMNrBQv7Rxhjy2Gh4FWGiQ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/pR9h1UtIbvQgb1jzvA3cInTCuI9M_2tFxITGQb2pm7vlYy1lvoYmPMNrBQv7Rxhjy2Gh4FWGiQ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/pR9h1UtIbvQgb1jzvA3cInTCuI9M_2tFxITGQb2pm7vlYy1lvoYmPMNrBQv7Rxhjy2Gh4FWGiQ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 264000,
+      "viewCount": 86009826,
+      "videoCount": 16390,
+      "lastUpdated": "2025-08-18T07:13:37.062216Z"
+    }
+  },
+  "lastUpdated": "2025-08-18T07:13:37.077712Z",
+  "totalVideos": 1,
+  "totalChannels": 1
+}

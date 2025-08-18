@@ -1,0 +1,95 @@
+{
+  "videos": {
+    "5wzJ7pWldaI": {
+      "videoId": "5wzJ7pWldaI",
+      "title": "NATV 국회방송 43회 TV, 도서관에 가다",
+      "description": "1. 도권전평 \n\"왜 세계의 절반은 굶주리는가\"  저자 : 장 지글러 \n\"세상을 바꾸는 씨드\"  저자 : 슈테판 쉬르, 팀 투리악 \n/ 출연자 : 오건호 '내가 만드는 복지국가' 공동운영위원장\n           윤석명 고려대학교 경제학과 교수\n2. 국회의원 서재\n새누리당 이진복 의원 / \"또 하나의 로마인 이야기\"\n저자 : 시오노 나나미",
+      "publishedAt": "2015-10-30T06:34:22Z",
+      "duration": "PT59M45S",
+      "viewCount": 456,
+      "likeCount": 5,
+      "commentCount": 0,
+      "tags": [
+        "NATV",
+        "국회방송",
+        "국회도서관",
+        "독서",
+        "도서",
+        "책",
+        "도서관",
+        "국회의원",
+        "서재"
+      ],
+      "categoryId": "29",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
+      "channelName": "NATV 국회방송",
+      "collectedAt": "2025-08-18T07:13:43.114638Z"
+    },
+    "u2gwyhNV0Rc": {
+      "videoId": "u2gwyhNV0Rc",
+      "title": "NATV 국회방송 국회입법데이트 447회 정부조직법 일부개정법률안 & 방송문화진흥회법 개정안 - 송호창의원",
+      "description": "국회입법데이트 447회 정부조직법 일부개정법률안 & 방송문화진흥회법 개정안 - 송호창의원\n\n우정사업본부를 우정청으로 개편한다는 내용\n& 방문진 이사장을 재적이사 7명 이상의 찬성으로 선출하도록 하는 내용",
+      "publishedAt": "2015-10-30T01:35:00Z",
+      "duration": "PT16M24S",
+      "viewCount": 44,
+      "likeCount": 0,
+      "commentCount": 0,
+      "tags": [
+        "National Assembly (Governmental Body)",
+        "Politics (TV Genre)",
+        "국회방송",
+        "우정사업본부",
+        "우정청",
+        "방송문화진흥회",
+        "개정안",
+        "법안",
+        "송호창의원",
+        "새정치민주연합"
+      ],
+      "categoryId": "29",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
+      "channelName": "NATV 국회방송",
+      "collectedAt": "2025-08-18T07:13:43.114638Z"
+    }
+  },
+  "channels": {
+    "UCL-WOj1FxKR8Hlzg5tvnWKg": {
+      "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
+      "channelName": "NATV 국회방송",
+      "channelUrl": "@natv_korea",
+      "channelDescription": "대한민국 국회가 운영하는 '국회방송(NATV)'의 공식 유튜브 채널입니다.\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/pR9h1UtIbvQgb1jzvA3cInTCuI9M_2tFxITGQb2pm7vlYy1lvoYmPMNrBQv7Rxhjy2Gh4FWGiQ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/pR9h1UtIbvQgb1jzvA3cInTCuI9M_2tFxITGQb2pm7vlYy1lvoYmPMNrBQv7Rxhjy2Gh4FWGiQ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/pR9h1UtIbvQgb1jzvA3cInTCuI9M_2tFxITGQb2pm7vlYy1lvoYmPMNrBQv7Rxhjy2Gh4FWGiQ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 264000,
+      "viewCount": 86009826,
+      "videoCount": 16390,
+      "lastUpdated": "2025-08-18T07:13:43.111160Z"
+    }
+  },
+  "lastUpdated": "2025-08-18T07:13:43.116633Z",
+  "totalVideos": 2,
+  "totalChannels": 1
+}
