@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 import logging
 
 def setup_logging(log_file: str = "youtube_collector.log"):
