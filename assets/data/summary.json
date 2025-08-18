@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2025-08-18T05:41:34.957253Z",
+  "generatedAt": "2025-08-18T05:54:02.776389Z",
   "totalFiles": 1151,
-  "totalVideos": 109240,
-  "totalLiveStreams": 104,
+  "totalVideos": 109256,
+  "totalLiveStreams": 109,
   "totalUpcoming": 13,
   "totalChannels": 11,
   "dateRange": {
@@ -9160,7 +9160,7 @@
       "liveStreamCount": 0,
       "upcomingCount": 0,
       "channelCount": 11,
-      "lastUpdated": "2025-08-18T05:41:34.896015Z"
+      "lastUpdated": "2025-08-18T05:54:02.716329Z"
     },
     {
       "path": "2025/08/12.json",
@@ -9168,7 +9168,7 @@
       "liveStreamCount": 0,
       "upcomingCount": 0,
       "channelCount": 11,
-      "lastUpdated": "2025-08-18T05:41:34.822989Z"
+      "lastUpdated": "2025-08-18T05:54:02.641704Z"
     },
     {
       "path": "2025/08/13.json",
@@ -9176,7 +9176,7 @@
       "liveStreamCount": 0,
       "upcomingCount": 0,
       "channelCount": 11,
-      "lastUpdated": "2025-08-18T05:41:34.743747Z"
+      "lastUpdated": "2025-08-18T05:54:02.562656Z"
     },
     {
       "path": "2025/08/14.json",
@@ -9184,7 +9184,7 @@
       "liveStreamCount": 1,
       "upcomingCount": 0,
       "channelCount": 11,
-      "lastUpdated": "2025-08-18T05:41:34.664072Z"
+      "lastUpdated": "2025-08-18T05:54:02.483388Z"
     },
     {
       "path": "2025/08/15.json",
@@ -9192,7 +9192,7 @@
       "liveStreamCount": 0,
       "upcomingCount": 0,
       "channelCount": 3,
-      "lastUpdated": "2025-08-18T05:41:34.636718Z"
+      "lastUpdated": "2025-08-18T05:54:02.455986Z"
     },
     {
       "path": "2025/08/16.json",
@@ -9212,11 +9212,11 @@
     },
     {
       "path": "2025/08/18.json",
-      "videoCount": 859,
-      "liveStreamCount": 102,
+      "videoCount": 875,
+      "liveStreamCount": 107,
       "upcomingCount": 12,
       "channelCount": 11,
-      "lastUpdated": "2025-08-18T05:41:34.602027Z"
+      "lastUpdated": "2025-08-18T05:54:02.419189Z"
     }
   ]
 }
