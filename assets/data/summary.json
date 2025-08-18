@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2025-08-18T02:38:27.472721Z",
+  "generatedAt": "2025-08-18T02:55:56.102759Z",
   "totalFiles": 1151,
-  "totalVideos": 108923,
-  "totalLiveStreams": 60,
+  "totalVideos": 108951,
+  "totalLiveStreams": 61,
   "totalUpcoming": 8,
   "totalChannels": 11,
   "dateRange": {
@@ -9160,7 +9160,7 @@
       "liveStreamCount": 0,
       "upcomingCount": 0,
       "channelCount": 11,
-      "lastUpdated": "2025-08-18T02:38:27.425767Z"
+      "lastUpdated": "2025-08-18T02:55:56.054536Z"
     },
     {
       "path": "2025/08/12.json",
@@ -9168,7 +9168,7 @@
       "liveStreamCount": 0,
       "upcomingCount": 0,
       "channelCount": 11,
-      "lastUpdated": "2025-08-18T02:38:27.352361Z"
+      "lastUpdated": "2025-08-18T02:55:55.978984Z"
     },
     {
       "path": "2025/08/13.json",
@@ -9176,7 +9176,7 @@
       "liveStreamCount": 0,
       "upcomingCount": 0,
       "channelCount": 11,
-      "lastUpdated": "2025-08-18T02:38:27.272903Z"
+      "lastUpdated": "2025-08-18T02:55:55.899727Z"
     },
     {
       "path": "2025/08/14.json",
@@ -9184,7 +9184,7 @@
       "liveStreamCount": 1,
       "upcomingCount": 0,
       "channelCount": 11,
-      "lastUpdated": "2025-08-18T02:38:27.192768Z"
+      "lastUpdated": "2025-08-18T02:55:55.816491Z"
     },
     {
       "path": "2025/08/15.json",
@@ -9200,7 +9200,7 @@
       "liveStreamCount": 0,
       "upcomingCount": 0,
       "channelCount": 9,
-      "lastUpdated": "2025-08-18T02:38:27.141938Z"
+      "lastUpdated": "2025-08-18T02:55:55.758881Z"
     },
     {
       "path": "2025/08/17.json",
@@ -9208,15 +9208,15 @@
       "liveStreamCount": 1,
       "upcomingCount": 0,
       "channelCount": 9,
-      "lastUpdated": "2025-08-18T02:38:27.111559Z"
+      "lastUpdated": "2025-08-18T02:55:55.727891Z"
     },
     {
       "path": "2025/08/18.json",
-      "videoCount": 542,
-      "liveStreamCount": 58,
+      "videoCount": 570,
+      "liveStreamCount": 59,
       "upcomingCount": 7,
       "channelCount": 10,
-      "lastUpdated": "2025-08-18T02:38:27.083940Z"
+      "lastUpdated": "2025-08-18T02:55:55.699177Z"
     }
   ]
 }
