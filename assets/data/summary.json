@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2025-08-18T22:39:41.689129Z",
+  "generatedAt": "2025-08-18T22:46:45.306042Z",
   "totalFiles": 3113,
-  "totalVideos": 141120,
-  "totalLiveStreams": 202,
+  "totalVideos": 141140,
+  "totalLiveStreams": 204,
   "totalUpcoming": 39,
   "totalChannels": 11,
   "dateRange": {
@@ -24808,7 +24808,7 @@
       "liveStreamCount": 0,
       "upcomingCount": 0,
       "channelCount": 11,
-      "lastUpdated": "2025-08-18T22:39:41.607933Z"
+      "lastUpdated": "2025-08-18T22:46:45.224538Z"
     },
     {
       "path": "2025/08/07.json",
@@ -24816,7 +24816,7 @@
       "liveStreamCount": 0,
       "upcomingCount": 0,
       "channelCount": 11,
-      "lastUpdated": "2025-08-18T22:39:41.534665Z"
+      "lastUpdated": "2025-08-18T22:46:45.148151Z"
     },
     {
       "path": "2025/08/08.json",
@@ -24824,7 +24824,7 @@
       "liveStreamCount": 0,
       "upcomingCount": 0,
       "channelCount": 11,
-      "lastUpdated": "2025-08-18T22:39:41.464235Z"
+      "lastUpdated": "2025-08-18T22:46:45.076224Z"
     },
     {
       "path": "2025/08/09.json",
@@ -24848,7 +24848,7 @@
       "liveStreamCount": 0,
       "upcomingCount": 0,
       "channelCount": 11,
-      "lastUpdated": "2025-08-18T22:28:16.503511Z"
+      "lastUpdated": "2025-08-18T22:46:45.006283Z"
     },
     {
       "path": "2025/08/12.json",
@@ -24856,7 +24856,7 @@
       "liveStreamCount": 0,
       "upcomingCount": 0,
       "channelCount": 11,
-      "lastUpdated": "2025-08-18T22:39:41.370057Z"
+      "lastUpdated": "2025-08-18T22:46:44.934263Z"
     },
     {
       "path": "2025/08/13.json",
@@ -24864,7 +24864,7 @@
       "liveStreamCount": 0,
       "upcomingCount": 0,
       "channelCount": 11,
-      "lastUpdated": "2025-08-18T21:34:47.729137Z"
+      "lastUpdated": "2025-08-18T22:46:44.855767Z"
     },
     {
       "path": "2025/08/14.json",
@@ -24908,11 +24908,11 @@
     },
     {
       "path": "2025/08/19.json",
-      "videoCount": 213,
-      "liveStreamCount": 13,
+      "videoCount": 233,
+      "liveStreamCount": 15,
       "upcomingCount": 11,
       "channelCount": 8,
-      "lastUpdated": "2025-08-18T22:28:16.329513Z"
+      "lastUpdated": "2025-08-18T22:46:44.744247Z"
     }
   ]
 }
