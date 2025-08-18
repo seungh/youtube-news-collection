@@ -1,0 +1,115 @@
+{
+  "videos": {
+    "Iwu0WQeV-Gc": {
+      "videoId": "Iwu0WQeV-Gc",
+      "title": "누구나 무료로 보상! 시민안전보험!",
+      "description": "누구나 무료로 보상! 시민안전보험!",
+      "publishedAt": "2023-06-10T11:52:59Z",
+      "duration": "PT4M13S",
+      "viewCount": 489,
+      "likeCount": 22,
+      "commentCount": 2,
+      "tags": [
+        "지진",
+        "홍수",
+        "건물붕괴",
+        "개물림",
+        "개물림사고",
+        "스쿨존",
+        "스쿨존사고",
+        "대중교통사고",
+        "지하철사고",
+        "버스사고"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": "ko",
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCn8WFi6pE4cJZP8MiUNGFxg",
+      "channelName": "KTV NEWS",
+      "collectedAt": "2025-08-18T02:22:26.847671Z"
+    },
+    "NTsuj1lbiUs": {
+      "videoId": "NTsuj1lbiUs",
+      "title": "6.10 민주항쟁 시작되다 | 6월 10일 | 오늘의 의정사 | 국회방송",
+      "description": "00:06 #6.10 #민주항쟁 시작\n01:40 #나로호 2차 발사 실패\n02:55 제1회 #운전사의 날 기념식\n           #한일의원연맹 공식 발족\n           #전쟁기념관 #개관",
+      "publishedAt": "2023-06-09T15:00:14Z",
+      "duration": "PT3M49S",
+      "viewCount": 492,
+      "likeCount": 12,
+      "commentCount": 2,
+      "tags": [
+        "국회방송",
+        "NATV"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": "zxx",
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
+      "channelName": "NATV 국회방송",
+      "collectedAt": "2025-08-18T02:22:26.848661Z"
+    }
+  },
+  "channels": {
+    "UCn8WFi6pE4cJZP8MiUNGFxg": {
+      "channelId": "UCn8WFi6pE4cJZP8MiUNGFxg",
+      "channelName": "KTV NEWS",
+      "channelUrl": "@ktv_news",
+      "channelDescription": "최신 정부 정책과 뉴스를 가장 빠르고 정확하게\n전문가와 함께 심도깊게 풀어보는 KTV NEWS \nKTV는 내일도 가장 빠른 정책 정보를 전달하겠습니다✨️\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/-onJTfnhW4T3ddcj4M8_iZ2psnWXUIbmrnXJhbuug1Rhg4XdjXMG81HOdAKp8zPox3paTfkK=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/-onJTfnhW4T3ddcj4M8_iZ2psnWXUIbmrnXJhbuug1Rhg4XdjXMG81HOdAKp8zPox3paTfkK=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/-onJTfnhW4T3ddcj4M8_iZ2psnWXUIbmrnXJhbuug1Rhg4XdjXMG81HOdAKp8zPox3paTfkK=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 165000,
+      "viewCount": 87225174,
+      "videoCount": 19299,
+      "lastUpdated": "2025-08-18T02:22:26.847671Z"
+    },
+    "UCL-WOj1FxKR8Hlzg5tvnWKg": {
+      "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
+      "channelName": "NATV 국회방송",
+      "channelUrl": "@natv_korea",
+      "channelDescription": "대한민국 국회가 운영하는 '국회방송(NATV)'의 공식 유튜브 채널입니다.\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/pR9h1UtIbvQgb1jzvA3cInTCuI9M_2tFxITGQb2pm7vlYy1lvoYmPMNrBQv7Rxhjy2Gh4FWGiQ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/pR9h1UtIbvQgb1jzvA3cInTCuI9M_2tFxITGQb2pm7vlYy1lvoYmPMNrBQv7Rxhjy2Gh4FWGiQ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/pR9h1UtIbvQgb1jzvA3cInTCuI9M_2tFxITGQb2pm7vlYy1lvoYmPMNrBQv7Rxhjy2Gh4FWGiQ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 264000,
+      "viewCount": 86003788,
+      "videoCount": 16388,
+      "lastUpdated": "2025-08-18T02:22:26.847671Z"
+    }
+  },
+  "lastUpdated": "2025-08-18T02:22:26.848661Z",
+  "totalVideos": 2,
+  "totalChannels": 2
+}
