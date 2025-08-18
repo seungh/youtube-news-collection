@@ -308,7 +308,6 @@ def main():
     """
     # Get API key from environment variable
     api_key = os.getenv("YOUTUBE_API_KEY")
-    api_key = "AIzaSyDgfcukaj2knToOExnYpKMs8Ql1XVTyGcg"
     if not api_key:
         logger.error("YOUTUBE_API_KEY is not configured. Please set the environment variable.")
         sys.exit(1)
