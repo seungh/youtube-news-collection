@@ -10,7 +10,7 @@
     {
       "name": "JTBC NEWS",
       "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
-      "enabled": false,
+      "enabled": true,
       "maxVideos": 100,
       "description": ""
     },
@@ -67,21 +67,63 @@
       "name": "KTV NEWS",
       "channelId": "UCn8WFi6pE4cJZP8MiUNGFxg",
       "enabled": true,
-      "maxVideos": 100,
+      "maxVideos": 50,
+      "description": ""
+    },
+    {
+      "name": "KTV 국민방송",
+      "channelId": "UCIMOytYIzaUpoAM2bpT4JZQ",
+      "enabled": true,
+      "maxVideos": 50,
+      "description": ""
+    },
+    {
+      "name": "KTV 글로벌 인사이트",
+      "channelId": "UCiFVWb1D5nJ6Cv8Jc0krAjw",
+      "enabled": true,
+      "maxVideos": 50,
       "description": ""
     },
     {
       "name": "NATV 국회뉴스",
       "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
       "enabled": true,
-      "maxVideos": 100,
+      "maxVideos": 50,
       "description": ""
     },
     {
       "name": "KFN 국방뉴스",
       "channelId": "UC88r6mA2791EXvGAruLL7ug",
       "enabled": true,
-      "maxVideos": 100,
+      "maxVideos": 50,
+      "description": ""
+    },
+    {
+      "name": "문재인정부 청와대",
+      "channelId": "UC7WMB_czX5jF__5kqT4d9Ww",
+      "enabled": false,
+      "maxVideos": 50,
+      "description": ""
+    },
+    {
+      "name": "윤석열",
+      "channelId": "UCcl16CxYqlbKQJVCfdhSJVw",
+      "enabled": false,
+      "maxVideos": 50,
+      "description": ""
+    },
+    {
+      "name": "윤석열 정부 영상 아카이브",
+      "channelId": "UCydbI9p3_8DeteSBbnv0tuA",
+      "enabled": false,
+      "maxVideos": 50,
+      "description": ""
+    },
+    {
+      "name": "이재명",
+      "channelId": "UCNJM6dqu70Qr6VaseiW1Org",
+      "enabled": true,
+      "maxVideos": 50,
       "description": ""
     }
   ],
