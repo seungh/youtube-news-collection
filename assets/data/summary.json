@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2025-08-20T00:40:42.466895Z",
+  "generatedAt": "2025-08-20T02:20:04.078420Z",
   "totalFiles": 3114,
-  "totalVideos": 143154,
-  "totalLiveStreams": 447,
-  "totalUpcoming": 87,
+  "totalVideos": 143368,
+  "totalLiveStreams": 478,
+  "totalUpcoming": 89,
   "totalChannels": 11,
   "dateRange": {
     "start": "01",
@@ -24816,7 +24816,7 @@
       "liveStreamCount": 0,
       "upcomingCount": 0,
       "channelCount": 11,
-      "lastUpdated": "2025-08-20T00:40:42.416340Z"
+      "lastUpdated": "2025-08-20T02:20:04.029863Z"
     },
     {
       "path": "2025/08/08.json",
@@ -24824,7 +24824,7 @@
       "liveStreamCount": 0,
       "upcomingCount": 0,
       "channelCount": 11,
-      "lastUpdated": "2025-08-20T00:40:42.346525Z"
+      "lastUpdated": "2025-08-20T02:20:03.962610Z"
     },
     {
       "path": "2025/08/09.json",
@@ -24848,7 +24848,7 @@
       "liveStreamCount": 0,
       "upcomingCount": 0,
       "channelCount": 11,
-      "lastUpdated": "2025-08-19T23:51:22.280742Z"
+      "lastUpdated": "2025-08-20T02:20:03.874532Z"
     },
     {
       "path": "2025/08/12.json",
@@ -24856,7 +24856,7 @@
       "liveStreamCount": 0,
       "upcomingCount": 0,
       "channelCount": 11,
-      "lastUpdated": "2025-08-20T00:40:42.232182Z"
+      "lastUpdated": "2025-08-20T02:20:03.804761Z"
     },
     {
       "path": "2025/08/13.json",
@@ -24864,7 +24864,7 @@
       "liveStreamCount": 0,
       "upcomingCount": 0,
       "channelCount": 11,
-      "lastUpdated": "2025-08-19T23:51:22.130776Z"
+      "lastUpdated": "2025-08-20T02:20:03.729809Z"
     },
     {
       "path": "2025/08/14.json",
@@ -24916,11 +24916,11 @@
     },
     {
       "path": "2025/08/20.json",
-      "videoCount": 421,
-      "liveStreamCount": 45,
-      "upcomingCount": 18,
-      "channelCount": 9,
-      "lastUpdated": "2025-08-20T00:40:42.054460Z"
+      "videoCount": 635,
+      "liveStreamCount": 76,
+      "upcomingCount": 20,
+      "channelCount": 10,
+      "lastUpdated": "2025-08-20T02:20:03.566348Z"
     }
   ]
 }
