@@ -93,7 +93,7 @@
       "liveStreamingDetails": null,
       "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
       "channelName": "NATV 국회방송",
-      "collectedAt": "2025-08-18T07:13:19.138428Z"
+      "collectedAt": "2025-08-20T11:38:30.302249Z"
     },
     "P1IPoMuHIPI": {
       "videoId": "P1IPoMuHIPI",
@@ -112,7 +112,7 @@
       "liveStreamingDetails": null,
       "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
       "channelName": "NATV 국회방송",
-      "collectedAt": "2025-08-18T07:13:19.139425Z"
+      "collectedAt": "2025-08-20T11:38:30.302249Z"
     },
     "2EGOYXlZ8Gg": {
       "videoId": "2EGOYXlZ8Gg",
@@ -151,6 +151,55 @@
       "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
       "channelName": "NATV 국회방송",
       "collectedAt": "2025-08-18T07:13:19.139425Z"
+    },
+    "DquM0vLTmIs": {
+      "videoId": "DquM0vLTmIs",
+      "title": "WEEKLY 4회｜윤석열 대통령의 체코 공식 방문, 외교 성과와 유럽 진출 전략｜침묵의 전사 '로봇'이 바꾸는 전쟁 패러다임",
+      "description": "📍 6회 다시보기\nhttps://www.youtube.com/live/wSU_rQxwOME?si=xmmGD92tl9prcxg1\n\n📍 7회 다시보기\nhttps://www.youtube.com/live/YJNlvk-V7yc?si=L-OYpoajlktrn8-T\n\n#글로벌인사이트 #정혁진 #정법전",
+      "publishedAt": "2024-09-28T07:00:16Z",
+      "duration": "PT29M42S",
+      "viewCount": 668,
+      "likeCount": 160,
+      "commentCount": 11,
+      "tags": [
+        "외교",
+        "안보",
+        "글로벌인사이트",
+        "뉴스",
+        "KTV",
+        "핫이슈",
+        "해외",
+        "글로벌",
+        "K컬쳐",
+        "국방"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCiFVWb1D5nJ6Cv8Jc0krAjw",
+      "channelName": "글로벌 인사이트",
+      "collectedAt": "2025-08-20T11:38:30.302249Z"
+    },
+    "jsUwrJlhUfc": {
+      "videoId": "jsUwrJlhUfc",
+      "title": "#BTS #kfood #간식 #가을 #길거리음식 #포장마차 #붕어빵 #어묵 #호떡 #떡볶이 #글로벌인사이트 #한국음식 #정법전 #정혁진",
+      "description": "",
+      "publishedAt": "2024-09-28T13:00:58Z",
+      "duration": "PT33S",
+      "viewCount": 1089,
+      "likeCount": 30,
+      "commentCount": 1,
+      "tags": [],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCiFVWb1D5nJ6Cv8Jc0krAjw",
+      "channelName": "글로벌 인사이트",
+      "collectedAt": "2025-08-20T11:38:30.302249Z"
     }
   },
   "channels": {
@@ -207,9 +256,36 @@
       "viewCount": 86003788,
       "videoCount": 16388,
       "lastUpdated": "2025-08-18T02:22:22.196402Z"
+    },
+    "UCiFVWb1D5nJ6Cv8Jc0krAjw": {
+      "channelId": "UCiFVWb1D5nJ6Cv8Jc0krAjw",
+      "channelName": "글로벌 인사이트",
+      "channelUrl": "@ktv_world",
+      "channelDescription": "전 세계 소식, 더 넓은 인사이트! 대한민국의 오늘을 전합니다.\n#외교 #안보 #글로벌 #문화 #밀리터리\n* KTV 온라인콘텐츠의 부분 발췌, 상업적 이용 등 무단 사용을 금합니다.\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/6GlSu48BFB9NIiSZoPwLPgezLbKR6pkb3EpAmR5zjKiWBmwVAqUtuABvZ3kPTr6UK15GMcm2izA=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/6GlSu48BFB9NIiSZoPwLPgezLbKR6pkb3EpAmR5zjKiWBmwVAqUtuABvZ3kPTr6UK15GMcm2izA=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/6GlSu48BFB9NIiSZoPwLPgezLbKR6pkb3EpAmR5zjKiWBmwVAqUtuABvZ3kPTr6UK15GMcm2izA=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 109000,
+      "viewCount": 42463364,
+      "videoCount": 1939,
+      "lastUpdated": "2025-08-20T11:38:30.302249Z"
     }
   },
-  "lastUpdated": "2025-08-18T07:13:19.140423Z",
-  "totalVideos": 7,
-  "totalChannels": 2
+  "lastUpdated": "2025-08-20T11:38:30.305783Z",
+  "totalVideos": 9,
+  "totalChannels": 3
 }

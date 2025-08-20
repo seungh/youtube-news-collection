@@ -28,7 +28,56 @@
       "liveStreamingDetails": null,
       "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
       "channelName": "NATV 국회방송",
-      "collectedAt": "2025-08-18T07:13:36.988645Z"
+      "collectedAt": "2025-08-20T11:39:59.454185Z"
+    },
+    "j1_gO8L0J98": {
+      "videoId": "j1_gO8L0J98",
+      "title": "말한 것은 지킨다, 문재인 정부 100일을 말하다",
+      "description": "말한 것은 지킨다는 대통령\nPD 리포트 이슈본,  문재인 정부 100일을 말하다",
+      "publishedAt": "2017-08-19T04:00:46Z",
+      "duration": "PT4M",
+      "viewCount": 3799,
+      "likeCount": 120,
+      "commentCount": 10,
+      "tags": [
+        "KTV 국민방송",
+        "한국정책방송 KTV",
+        "문재인",
+        "대통령"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": "ko",
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCIMOytYIzaUpoAM2bpT4JZQ",
+      "channelName": "KTV 국민방송",
+      "collectedAt": "2025-08-20T11:39:59.456382Z"
+    },
+    "KWUP8Vl_FUM": {
+      "videoId": "KWUP8Vl_FUM",
+      "title": "진심으로 소통한다, 문재인 정부 100일",
+      "description": "진심을 다해 소통한 100일\n권위와 격식대신 비슷한 눈높이로 세상을 바라보는 열린 대통령\nPD리포트 이슈본, 문재인 정부 100일을 말하다.",
+      "publishedAt": "2017-08-19T03:56:16Z",
+      "duration": "PT4M1S",
+      "viewCount": 43300,
+      "likeCount": 686,
+      "commentCount": 58,
+      "tags": [
+        "KTV 국민방송",
+        "한국정책방송 KTV",
+        "문재인",
+        "대통령",
+        "문재인대통령"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": "ko",
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCIMOytYIzaUpoAM2bpT4JZQ",
+      "channelName": "KTV 국민방송",
+      "collectedAt": "2025-08-20T11:39:59.456382Z"
     }
   },
   "channels": {
@@ -58,9 +107,36 @@
       "viewCount": 86009826,
       "videoCount": 16390,
       "lastUpdated": "2025-08-18T07:13:36.988645Z"
+    },
+    "UCIMOytYIzaUpoAM2bpT4JZQ": {
+      "channelId": "UCIMOytYIzaUpoAM2bpT4JZQ",
+      "channelName": "KTV 국민방송",
+      "channelUrl": "@ktv_korea",
+      "channelDescription": "이재명 정부 국정소식, 정책정보, 정부브리핑 등을 실시간으로 소개해드립니다\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/C8SZ5Na4t2ExtMRDMXKbHJtoiC_2u30a4TjVoHpg4xLH0z2jUVntFrpGt26OXfkBHxuwjq8xTOk=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/C8SZ5Na4t2ExtMRDMXKbHJtoiC_2u30a4TjVoHpg4xLH0z2jUVntFrpGt26OXfkBHxuwjq8xTOk=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/C8SZ5Na4t2ExtMRDMXKbHJtoiC_2u30a4TjVoHpg4xLH0z2jUVntFrpGt26OXfkBHxuwjq8xTOk=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 594000,
+      "viewCount": 496166667,
+      "videoCount": 25206,
+      "lastUpdated": "2025-08-20T11:39:59.455412Z"
     }
   },
-  "lastUpdated": "2025-08-18T07:13:36.989642Z",
-  "totalVideos": 1,
-  "totalChannels": 1
+  "lastUpdated": "2025-08-20T11:39:59.457803Z",
+  "totalVideos": 3,
+  "totalChannels": 2
 }

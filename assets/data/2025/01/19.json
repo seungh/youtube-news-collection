@@ -17,7 +17,7 @@
       "liveStreamingDetails": null,
       "channelId": "UCn8WFi6pE4cJZP8MiUNGFxg",
       "channelName": "KTV NEWS",
-      "collectedAt": "2025-08-18T07:13:50.030803Z"
+      "collectedAt": "2025-08-20T11:39:16.460196Z"
     },
     "FMPgx67qlnE": {
       "videoId": "FMPgx67qlnE",
@@ -40,7 +40,37 @@
       "liveStreamingDetails": null,
       "channelId": "UCn8WFi6pE4cJZP8MiUNGFxg",
       "channelName": "KTV NEWS",
-      "collectedAt": "2025-08-18T07:13:50.030803Z"
+      "collectedAt": "2025-08-20T11:39:16.460196Z"
+    },
+    "UT5GcR-qk88": {
+      "videoId": "UT5GcR-qk88",
+      "title": "이재명 당대표, 서부지방법원 난동 사태 관련 입장 발표",
+      "description": "2025년 1월 19일 일요일 오전 11시 55분",
+      "publishedAt": "2025-01-19T03:41:11Z",
+      "duration": "PT3M35S",
+      "viewCount": 232684,
+      "likeCount": 29446,
+      "commentCount": 3016,
+      "tags": [
+        "이재명",
+        "이재명연설",
+        "이재명 레전드",
+        "기본소득",
+        "더불어민주당",
+        "정치인",
+        "민주당",
+        "김대중",
+        "노무현",
+        "문재인"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCNJM6dqu70Qr6VaseiW1Org",
+      "channelName": "이재명",
+      "collectedAt": "2025-08-20T11:39:16.461192Z"
     }
   },
   "channels": {
@@ -70,9 +100,36 @@
       "viewCount": 87225174,
       "videoCount": 19299,
       "lastUpdated": "2025-08-18T02:22:20.686360Z"
+    },
+    "UCNJM6dqu70Qr6VaseiW1Org": {
+      "channelId": "UCNJM6dqu70Qr6VaseiW1Org",
+      "channelName": "이재명",
+      "channelUrl": "@이재명tv",
+      "channelDescription": "대한민국 제21대 대통령\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/kIdZSRMagKta6GY6aiDm5asO5Cupd_HanW3xIFnBW2p8VNYI2JryJUchT4Aoy2ASM-ifq7JfyQ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/kIdZSRMagKta6GY6aiDm5asO5Cupd_HanW3xIFnBW2p8VNYI2JryJUchT4Aoy2ASM-ifq7JfyQ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/kIdZSRMagKta6GY6aiDm5asO5Cupd_HanW3xIFnBW2p8VNYI2JryJUchT4Aoy2ASM-ifq7JfyQ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 1710000,
+      "viewCount": 336974518,
+      "videoCount": 3965,
+      "lastUpdated": "2025-08-20T11:39:16.461192Z"
     }
   },
-  "lastUpdated": "2025-08-18T07:13:50.030803Z",
-  "totalVideos": 2,
-  "totalChannels": 1
+  "lastUpdated": "2025-08-20T11:39:16.461192Z",
+  "totalVideos": 3,
+  "totalChannels": 2
 }

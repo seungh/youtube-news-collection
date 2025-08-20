@@ -28,7 +28,7 @@
       "liveStreamingDetails": null,
       "channelId": "UCn8WFi6pE4cJZP8MiUNGFxg",
       "channelName": "KTV NEWS",
-      "collectedAt": "2025-08-18T07:13:21.527560Z"
+      "collectedAt": "2025-08-20T11:39:26.169236Z"
     },
     "56ple0TqXKA": {
       "videoId": "56ple0TqXKA",
@@ -50,7 +50,98 @@
       "liveStreamingDetails": null,
       "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
       "channelName": "NATV 국회방송",
-      "collectedAt": "2025-08-18T07:13:21.526563Z"
+      "collectedAt": "2025-08-20T11:39:26.169236Z"
+    },
+    "BPBixNO1pCk": {
+      "videoId": "BPBixNO1pCk",
+      "title": "#금융사기 뿌리 뽑자! 금감원에 전하는 윤 대통령의 당부!",
+      "description": "#금융감독원 #증권시장 #증권 #도덕적해이\n#기업상장 #국가경쟁력 #대한민국경제 \n#금융수사 #한국거래소 #외화 #투자",
+      "publishedAt": "2023-02-04T08:41:01Z",
+      "duration": "PT1M",
+      "viewCount": 1040,
+      "likeCount": 340,
+      "commentCount": 28,
+      "tags": [],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCydbI9p3_8DeteSBbnv0tuA",
+      "channelName": "윤석열 정부 영상 아카이브",
+      "collectedAt": "2025-08-20T11:39:26.170233Z"
+    },
+    "-tAT9dMUH6Y": {
+      "videoId": "-tAT9dMUH6Y",
+      "title": "#윤석열 대통령이 생각하는 #금융시장 선진화의 길은?!",
+      "description": "#체인지 #씽킹 #체인지씽킹 #ChangeThinking\n#금융활성 #금융 #선진화 #월스트리트 #외환\n#금융발전 #직접금융 #윤석열대통령",
+      "publishedAt": "2023-02-04T05:15:00Z",
+      "duration": "PT59S",
+      "viewCount": 934,
+      "likeCount": 239,
+      "commentCount": 7,
+      "tags": [],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCydbI9p3_8DeteSBbnv0tuA",
+      "channelName": "윤석열 정부 영상 아카이브",
+      "collectedAt": "2025-08-20T11:39:26.170233Z"
+    },
+    "0i2D3t9RX2Y": {
+      "videoId": "0i2D3t9RX2Y",
+      "title": "#금융리스크 회피를 위해선 #준비 또 준비! #shorts",
+      "description": "#윤석열 #대통령 #금융위기 #금융 #금윤산업\n#대출 #통화정책 #금융안정 #금리 #금리인상 \n#금융시장 #위기 #위기회복",
+      "publishedAt": "2023-02-04T01:00:00Z",
+      "duration": "PT1M",
+      "viewCount": 746,
+      "likeCount": 276,
+      "commentCount": 15,
+      "tags": [],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCydbI9p3_8DeteSBbnv0tuA",
+      "channelName": "윤석열 정부 영상 아카이브",
+      "collectedAt": "2025-08-20T11:39:26.170233Z"
+    },
+    "ewMY5wGZQho": {
+      "videoId": "ewMY5wGZQho",
+      "title": "[LIVE] 국가는 오직 국민을 위해 존재해야 합니다",
+      "description": "2023년 2월 4일 오후 3시 생중계\n윤석열정권 민생파탄검사독재 규탄대회",
+      "publishedAt": "2023-02-04T08:50:06Z",
+      "duration": "PT2H20M50S",
+      "viewCount": 166651,
+      "likeCount": 30943,
+      "commentCount": 1155,
+      "tags": [
+        "이재명",
+        "경기도",
+        "이재명연설",
+        "이재명지사",
+        "경기도지사",
+        "이재명 사이다",
+        "이재명 레전드",
+        "기본소득",
+        "이재명 계곡",
+        "중고차"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": {
+        "actualStartTime": "2023-02-04T05:56:18Z",
+        "actualEndTime": "2023-02-04T08:17:33Z",
+        "scheduledStartTime": "2023-02-04T06:00:00Z"
+      },
+      "channelId": "UCNJM6dqu70Qr6VaseiW1Org",
+      "channelName": "이재명",
+      "collectedAt": "2025-08-20T11:39:26.171051Z"
     }
   },
   "channels": {
@@ -107,9 +198,63 @@
       "viewCount": 86003788,
       "videoCount": 16388,
       "lastUpdated": "2025-08-18T02:22:28.082856Z"
+    },
+    "UCydbI9p3_8DeteSBbnv0tuA": {
+      "channelId": "UCydbI9p3_8DeteSBbnv0tuA",
+      "channelName": "윤석열 정부 영상 아카이브",
+      "channelUrl": "@yoonique2929",
+      "channelDescription": "* 윤석열 정부의 대통령 행보와 브리핑을 기록한 영상 아카이브 채널입니다.\n* KTV 온라인콘텐츠의 부분발췌, 상업적 이용 등 무단사용을 금합니다. \n※ 채널에 게시된 영상의 저작권은 영상을 취재한 개별 방송사에 있으며\n     영상의 무단 복제·배포 및 재가공 등을 금합니다\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/26A81EvLC15coLPb2U9jko_jbEmNq85IPoDxWRcy0xqhzD0uIEtOvBWIMdo2_lkLMnMLvvAHZA=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/26A81EvLC15coLPb2U9jko_jbEmNq85IPoDxWRcy0xqhzD0uIEtOvBWIMdo2_lkLMnMLvvAHZA=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/26A81EvLC15coLPb2U9jko_jbEmNq85IPoDxWRcy0xqhzD0uIEtOvBWIMdo2_lkLMnMLvvAHZA=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 255000,
+      "viewCount": 109575768,
+      "videoCount": 2854,
+      "lastUpdated": "2025-08-20T11:39:26.169236Z"
+    },
+    "UCNJM6dqu70Qr6VaseiW1Org": {
+      "channelId": "UCNJM6dqu70Qr6VaseiW1Org",
+      "channelName": "이재명",
+      "channelUrl": "@이재명tv",
+      "channelDescription": "대한민국 제21대 대통령\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/kIdZSRMagKta6GY6aiDm5asO5Cupd_HanW3xIFnBW2p8VNYI2JryJUchT4Aoy2ASM-ifq7JfyQ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/kIdZSRMagKta6GY6aiDm5asO5Cupd_HanW3xIFnBW2p8VNYI2JryJUchT4Aoy2ASM-ifq7JfyQ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/kIdZSRMagKta6GY6aiDm5asO5Cupd_HanW3xIFnBW2p8VNYI2JryJUchT4Aoy2ASM-ifq7JfyQ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 1710000,
+      "viewCount": 336974518,
+      "videoCount": 3965,
+      "lastUpdated": "2025-08-20T11:39:26.170233Z"
     }
   },
-  "lastUpdated": "2025-08-18T07:13:21.528557Z",
-  "totalVideos": 2,
-  "totalChannels": 2
+  "lastUpdated": "2025-08-20T11:39:26.171589Z",
+  "totalVideos": 6,
+  "totalChannels": 4
 }

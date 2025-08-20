@@ -28,7 +28,7 @@
       "liveStreamingDetails": null,
       "channelId": "UCn8WFi6pE4cJZP8MiUNGFxg",
       "channelName": "KTV NEWS",
-      "collectedAt": "2025-08-18T07:13:19.507830Z"
+      "collectedAt": "2025-08-20T11:39:24.130228Z"
     },
     "AaqtrcdZMzM": {
       "videoId": "AaqtrcdZMzM",
@@ -58,7 +58,7 @@
       "liveStreamingDetails": null,
       "channelId": "UCn8WFi6pE4cJZP8MiUNGFxg",
       "channelName": "KTV NEWS",
-      "collectedAt": "2025-08-18T07:13:19.507830Z"
+      "collectedAt": "2025-08-20T11:39:24.130228Z"
     },
     "Ry269li8OtQ": {
       "videoId": "Ry269li8OtQ",
@@ -78,6 +78,52 @@
       "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
       "channelName": "NATV 국회방송",
       "collectedAt": "2025-08-18T02:22:23.777607Z"
+    },
+    "S0TYHqnB6Cw": {
+      "videoId": "S0TYHqnB6Cw",
+      "title": "[LIVE] 계양 아라온에 대체 무슨 일이?",
+      "description": "",
+      "publishedAt": "2024-05-04T07:45:18Z",
+      "duration": "PT1H7M5S",
+      "viewCount": 152967,
+      "likeCount": 24999,
+      "commentCount": 785,
+      "tags": [],
+      "categoryId": "24",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": "en-US",
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": {
+        "actualStartTime": "2024-05-04T06:16:05Z",
+        "actualEndTime": "2024-05-04T07:22:39Z",
+        "scheduledStartTime": "2024-05-04T06:15:00Z"
+      },
+      "channelId": "UCNJM6dqu70Qr6VaseiW1Org",
+      "channelName": "이재명",
+      "collectedAt": "2025-08-20T11:39:24.131217Z"
+    },
+    "9goH8rFARk0": {
+      "videoId": "9goH8rFARk0",
+      "title": "[LIVE] 어린이들 만나러 계양~~",
+      "description": "",
+      "publishedAt": "2024-05-04T03:27:41Z",
+      "duration": "PT2H32M57S",
+      "viewCount": 215551,
+      "likeCount": 32953,
+      "commentCount": 1163,
+      "tags": [],
+      "categoryId": "24",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": "en-US",
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": {
+        "actualStartTime": "2024-05-04T00:48:05Z",
+        "actualEndTime": "2024-05-04T03:20:28Z",
+        "scheduledStartTime": "2024-05-04T00:50:00Z"
+      },
+      "channelId": "UCNJM6dqu70Qr6VaseiW1Org",
+      "channelName": "이재명",
+      "collectedAt": "2025-08-20T11:39:24.131217Z"
     }
   },
   "channels": {
@@ -134,9 +180,36 @@
       "viewCount": 86003788,
       "videoCount": 16388,
       "lastUpdated": "2025-08-18T02:22:23.777607Z"
+    },
+    "UCNJM6dqu70Qr6VaseiW1Org": {
+      "channelId": "UCNJM6dqu70Qr6VaseiW1Org",
+      "channelName": "이재명",
+      "channelUrl": "@이재명tv",
+      "channelDescription": "대한민국 제21대 대통령\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/kIdZSRMagKta6GY6aiDm5asO5Cupd_HanW3xIFnBW2p8VNYI2JryJUchT4Aoy2ASM-ifq7JfyQ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/kIdZSRMagKta6GY6aiDm5asO5Cupd_HanW3xIFnBW2p8VNYI2JryJUchT4Aoy2ASM-ifq7JfyQ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/kIdZSRMagKta6GY6aiDm5asO5Cupd_HanW3xIFnBW2p8VNYI2JryJUchT4Aoy2ASM-ifq7JfyQ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 1710000,
+      "viewCount": 336974518,
+      "videoCount": 3965,
+      "lastUpdated": "2025-08-20T11:39:24.131217Z"
     }
   },
-  "lastUpdated": "2025-08-18T07:13:19.510828Z",
-  "totalVideos": 3,
-  "totalChannels": 2
+  "lastUpdated": "2025-08-20T11:39:24.132215Z",
+  "totalVideos": 5,
+  "totalChannels": 3
 }

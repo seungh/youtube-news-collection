@@ -36,7 +36,7 @@
       "liveStreamingDetails": null,
       "channelId": "UCn8WFi6pE4cJZP8MiUNGFxg",
       "channelName": "KTV NEWS",
-      "collectedAt": "2025-08-18T07:13:51.068953Z"
+      "collectedAt": "2025-08-20T11:39:24.634436Z"
     },
     "VbV9I1HCEX8": {
       "videoId": "VbV9I1HCEX8",
@@ -55,7 +55,7 @@
       "liveStreamingDetails": null,
       "channelId": "UCn8WFi6pE4cJZP8MiUNGFxg",
       "channelName": "KTV NEWS",
-      "collectedAt": "2025-08-18T07:13:51.068953Z"
+      "collectedAt": "2025-08-20T11:39:24.634436Z"
     },
     "iwkKMQMuJCs": {
       "videoId": "iwkKMQMuJCs",
@@ -86,6 +86,40 @@
       "channelId": "UCn8WFi6pE4cJZP8MiUNGFxg",
       "channelName": "KTV NEWS",
       "collectedAt": "2025-08-18T07:13:51.068953Z"
+    },
+    "qTfJSXeDNIY": {
+      "videoId": "qTfJSXeDNIY",
+      "title": "독일 올라프 타보어 단장, 이번 대회 높이 평가｜2024 강원 동계청소년올림픽 관련 일일 브리핑 (24.1.28.)",
+      "description": "✔자원봉사자들 조명 보도 많아 자원봉사자들께 감사\n▪️토마스 바흐 IOC 위원장·장미란 문체부 제2차관, 자원봉사자 격려 예정\n\n✔29일 김진태 지사·장미란 제2차관, 기자들에게 감사 인사 전할 예정\n\n✔27일 1개 종목 2개 경기서 6개 메달 나와\n▪️미국 렘리 엘리자베스, 프리스타일 스키 여자 듀얼 모글 금메달\n▪️이윤승, 프리스타일 스키 남자 듀얼 모글 금메달\n\n✔28일 5개 종목 11개 경기 진행···12개 메달 놓고 경합\n▪️피겨스케이팅 아이스 댄스-리듬 댄스·여자 싱글 쇼트 프로그램 진행\n▪️김지니·이나무·신지아·김유성 선수 출전\n▪️싱글 쇼트 프로그램서 신지아-시마다 마오 선수 맞대결\n▪️스노보드 슬로프스타일 빅에어 결승·프리스타일 스키 빅에어 결승 진행\n\n✔'올림피언 토크콘서트' 진행···김연아·윤성빈 선수 등 참석\n\n✔강릉 낮 기온 영상권 유지···평창·횡성 한파특보 발효\n\n✔독일 올라프 타보어 단장, 이번 대회 높이 평가\n-\n\n#강원2024 #동계청소년올림픽 #조직...",
+      "publishedAt": "2024-01-28T02:12:21Z",
+      "duration": "PT10M26S",
+      "viewCount": 787,
+      "likeCount": 88,
+      "commentCount": 5,
+      "tags": [
+        "브리핑",
+        "자원봉사자",
+        "사회",
+        "환원",
+        "봉사자",
+        "올림픽",
+        "청소년",
+        "선수",
+        "경기",
+        "IOC"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": "ko",
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": {
+        "actualStartTime": "2024-01-28T01:57:08Z",
+        "actualEndTime": "2024-01-28T02:10:46Z",
+        "scheduledStartTime": "2024-01-28T02:00:00Z"
+      },
+      "channelId": "UCIMOytYIzaUpoAM2bpT4JZQ",
+      "channelName": "KTV 국민방송",
+      "collectedAt": "2025-08-20T11:39:24.638857Z"
     }
   },
   "channels": {
@@ -115,9 +149,36 @@
       "viewCount": 87225174,
       "videoCount": 19299,
       "lastUpdated": "2025-08-18T02:22:24.783945Z"
+    },
+    "UCIMOytYIzaUpoAM2bpT4JZQ": {
+      "channelId": "UCIMOytYIzaUpoAM2bpT4JZQ",
+      "channelName": "KTV 국민방송",
+      "channelUrl": "@ktv_korea",
+      "channelDescription": "이재명 정부 국정소식, 정책정보, 정부브리핑 등을 실시간으로 소개해드립니다\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/C8SZ5Na4t2ExtMRDMXKbHJtoiC_2u30a4TjVoHpg4xLH0z2jUVntFrpGt26OXfkBHxuwjq8xTOk=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/C8SZ5Na4t2ExtMRDMXKbHJtoiC_2u30a4TjVoHpg4xLH0z2jUVntFrpGt26OXfkBHxuwjq8xTOk=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/C8SZ5Na4t2ExtMRDMXKbHJtoiC_2u30a4TjVoHpg4xLH0z2jUVntFrpGt26OXfkBHxuwjq8xTOk=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 594000,
+      "viewCount": 496166667,
+      "videoCount": 25206,
+      "lastUpdated": "2025-08-20T11:39:24.637856Z"
     }
   },
-  "lastUpdated": "2025-08-18T07:13:51.068953Z",
-  "totalVideos": 4,
-  "totalChannels": 1
+  "lastUpdated": "2025-08-20T11:39:24.638857Z",
+  "totalVideos": 5,
+  "totalChannels": 2
 }

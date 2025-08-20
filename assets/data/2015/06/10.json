@@ -27,7 +27,96 @@
       "liveStreamingDetails": null,
       "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
       "channelName": "NATV 국회방송",
-      "collectedAt": "2025-08-18T07:13:44.618323Z"
+      "collectedAt": "2025-08-20T11:40:09.494852Z"
+    },
+    "lGuB04leAxQ": {
+      "videoId": "lGuB04leAxQ",
+      "title": "대한민국 정책퀴즈왕 -등록금-",
+      "description": "꽃나운 나이 20살! 대학교에 입학해서 청춘을 보내나 싶었지만,\n문제는 등록금! 캠퍼스에 머무는 시간보다 아르바이트 현장에 머무는 시간이 더 많은 우리의 현실.. 정책퀴즈를 풀고 등록금도 마련하자!",
+      "publishedAt": "2015-06-10T02:17:36Z",
+      "duration": "PT1M41S",
+      "viewCount": 365,
+      "likeCount": 3,
+      "commentCount": 0,
+      "tags": [
+        "KTV 국민방송",
+        "한국정책방송 KTV",
+        "대한민국",
+        "정책퀴즈",
+        "정책퀴즈왕",
+        "대한민국 정책퀴즈왕",
+        "등록금",
+        "문제풀이",
+        "아르바이트"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": "ko",
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCIMOytYIzaUpoAM2bpT4JZQ",
+      "channelName": "KTV 국민방송",
+      "collectedAt": "2025-08-20T11:40:09.495624Z"
+    },
+    "m80F5G1zEw8": {
+      "videoId": "m80F5G1zEw8",
+      "title": "감기와 메르스 어떻게 구분하나 -국민리포트-",
+      "description": "메르스 확산으로 국민들의 불안감이 커지고 있는데요. \n메르스가 일반적인 감기와 유사해 약간의 기침 증상만으로도  그 불안감은 배가 되고 있는데요.\n감기와 메르스 어떻게 구분할 수 있을까요. \n안은혜 기자가 알려드립니다.",
+      "publishedAt": "2015-06-10T06:52:12Z",
+      "duration": "PT1M31S",
+      "viewCount": 1798,
+      "likeCount": 5,
+      "commentCount": 0,
+      "tags": [
+        "KTV 국민방송",
+        "한국정책방송 KTV",
+        "국민방송",
+        "국민기자단",
+        "국민리포트",
+        "국민기자",
+        "메르스",
+        "중동",
+        "중동호흡기질환",
+        "메르스위험"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": "ko",
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCIMOytYIzaUpoAM2bpT4JZQ",
+      "channelName": "KTV 국민방송",
+      "collectedAt": "2025-08-20T11:40:09.495624Z"
+    },
+    "GVpIJ_Qbk3Y": {
+      "videoId": "GVpIJ_Qbk3Y",
+      "title": "야구와 사랑에 빠진 그녀, 최수정 - 살맛나는 이야기 미담美談 -",
+      "description": "야구는 남자만의 스포츠가 아니다!\n아직은 생소한 여자야구지만 올해로 11년 째 여자 야구선수로서 열심히 활동하고 있는 최수정씨. '여자가 야구를 할 수 있을까'라는 편견을 깨고 당당히 선수로서, 그리고 한국야구연맹의 국제이사로서 활동하고 있는 그녀의 야구에 대한 열정을 만나보자!",
+      "publishedAt": "2015-06-10T09:10:12Z",
+      "duration": "PT9M39S",
+      "viewCount": 5432,
+      "likeCount": 14,
+      "commentCount": 2,
+      "tags": [
+        "KTV 국민방송",
+        "한국정책방송 KTV",
+        "야구",
+        "롯데",
+        "한화",
+        "한화이글스",
+        "삼성",
+        "삼성라이온즈",
+        "엘지",
+        "엘지트윈스"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": "ko",
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCIMOytYIzaUpoAM2bpT4JZQ",
+      "channelName": "KTV 국민방송",
+      "collectedAt": "2025-08-20T11:40:09.495624Z"
     }
   },
   "channels": {
@@ -57,9 +146,36 @@
       "viewCount": 86009826,
       "videoCount": 16390,
       "lastUpdated": "2025-08-18T07:13:44.617676Z"
+    },
+    "UCIMOytYIzaUpoAM2bpT4JZQ": {
+      "channelId": "UCIMOytYIzaUpoAM2bpT4JZQ",
+      "channelName": "KTV 국민방송",
+      "channelUrl": "@ktv_korea",
+      "channelDescription": "이재명 정부 국정소식, 정책정보, 정부브리핑 등을 실시간으로 소개해드립니다\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/C8SZ5Na4t2ExtMRDMXKbHJtoiC_2u30a4TjVoHpg4xLH0z2jUVntFrpGt26OXfkBHxuwjq8xTOk=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/C8SZ5Na4t2ExtMRDMXKbHJtoiC_2u30a4TjVoHpg4xLH0z2jUVntFrpGt26OXfkBHxuwjq8xTOk=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/C8SZ5Na4t2ExtMRDMXKbHJtoiC_2u30a4TjVoHpg4xLH0z2jUVntFrpGt26OXfkBHxuwjq8xTOk=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 594000,
+      "viewCount": 496166667,
+      "videoCount": 25206,
+      "lastUpdated": "2025-08-20T11:40:09.495624Z"
     }
   },
-  "lastUpdated": "2025-08-18T07:13:44.618323Z",
-  "totalVideos": 1,
-  "totalChannels": 1
+  "lastUpdated": "2025-08-20T11:40:09.496621Z",
+  "totalVideos": 4,
+  "totalChannels": 2
 }

@@ -28,7 +28,7 @@
       "liveStreamingDetails": null,
       "channelId": "UCn8WFi6pE4cJZP8MiUNGFxg",
       "channelName": "KTV NEWS",
-      "collectedAt": "2025-08-18T07:13:21.941432Z"
+      "collectedAt": "2025-08-20T11:39:26.565216Z"
     },
     "dRfRogkkPCE": {
       "videoId": "dRfRogkkPCE",
@@ -58,7 +58,7 @@
       "liveStreamingDetails": null,
       "channelId": "UCn8WFi6pE4cJZP8MiUNGFxg",
       "channelName": "KTV NEWS",
-      "collectedAt": "2025-08-18T07:13:21.941432Z"
+      "collectedAt": "2025-08-20T11:39:26.565216Z"
     },
     "AIHspGH9VK4": {
       "videoId": "AIHspGH9VK4",
@@ -80,7 +80,26 @@
       "liveStreamingDetails": null,
       "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
       "channelName": "NATV 국회방송",
-      "collectedAt": "2025-08-18T07:13:21.940912Z"
+      "collectedAt": "2025-08-20T11:39:26.567662Z"
+    },
+    "wWzROp4RdeM": {
+      "videoId": "wWzROp4RdeM",
+      "title": "'2022 APEC 정상회의' 2박 4일 태국 순방 총정리",
+      "description": "11월 17~20일, 2박 4일간\n태국 방콕에서 열린\n‘아시아태평양경제협력체(APEC)’ 회의에\n참석한 한덕수 국무총리\n\n*아시아태평양경제협력체(APEC)\n아시아·태평양 지역의 경제협력 증대를 위한 \n역내 정상들의 협의기구로 우리나라 포함\n미국, 일본, 뉴질랜드 등 현재 21개 국가 가입\n\n1일 차 \n뉴질랜드 총리와 양자 회담으로\n양국 우호 협력 관계 강화와 \n'푸른 태평양 협력체(PBP)' 참여 의사 재확인 \n\n2일 차\nAPEC 정상회의 세션1 참여\n파푸아뉴기니, 페루와 양자 회담 진행\n북 미사일 긴급 회담을 통해\n주요 회원국 간 다자플랫폼 역할 증명\n\n3일 차\nAPEC 정상회의 세션2 참여\n태국 주요 기업인들과 오찬 간담회에서\n‘2030 부산 세계박람회’ 지지 요청 등 \n\nAPEC 협력이 계속 활성화될 수 있도록..!! \n'개방·연결·균형' 주제로 열린 제29차 APEC 정상회의\n더 자세한 내용은 영상을 통해 확인하세요\n\n#APEC #APEC정상회의 #한덕수 \n#북미사일 #긴급회...",
+      "publishedAt": "2022-11-20T04:26:29Z",
+      "duration": "PT5M14S",
+      "viewCount": 3359,
+      "likeCount": 101,
+      "commentCount": 64,
+      "tags": [],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": "ko",
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCIMOytYIzaUpoAM2bpT4JZQ",
+      "channelName": "KTV 국민방송",
+      "collectedAt": "2025-08-20T11:39:26.570124Z"
     }
   },
   "channels": {
@@ -137,9 +156,36 @@
       "viewCount": 86003788,
       "videoCount": 16388,
       "lastUpdated": "2025-08-18T02:22:28.763220Z"
+    },
+    "UCIMOytYIzaUpoAM2bpT4JZQ": {
+      "channelId": "UCIMOytYIzaUpoAM2bpT4JZQ",
+      "channelName": "KTV 국민방송",
+      "channelUrl": "@ktv_korea",
+      "channelDescription": "이재명 정부 국정소식, 정책정보, 정부브리핑 등을 실시간으로 소개해드립니다\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/C8SZ5Na4t2ExtMRDMXKbHJtoiC_2u30a4TjVoHpg4xLH0z2jUVntFrpGt26OXfkBHxuwjq8xTOk=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/C8SZ5Na4t2ExtMRDMXKbHJtoiC_2u30a4TjVoHpg4xLH0z2jUVntFrpGt26OXfkBHxuwjq8xTOk=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/C8SZ5Na4t2ExtMRDMXKbHJtoiC_2u30a4TjVoHpg4xLH0z2jUVntFrpGt26OXfkBHxuwjq8xTOk=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 594000,
+      "viewCount": 496166667,
+      "videoCount": 25206,
+      "lastUpdated": "2025-08-20T11:39:26.569078Z"
     }
   },
-  "lastUpdated": "2025-08-18T07:13:21.942938Z",
-  "totalVideos": 3,
-  "totalChannels": 2
+  "lastUpdated": "2025-08-20T11:39:26.570124Z",
+  "totalVideos": 4,
+  "totalChannels": 3
 }

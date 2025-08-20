@@ -28,7 +28,45 @@
       "liveStreamingDetails": null,
       "channelId": "UC88r6mA2791EXvGAruLL7ug",
       "channelName": "KFN뉴스",
-      "collectedAt": "2025-08-18T07:13:09.232009Z"
+      "collectedAt": "2025-08-20T11:40:19.201764Z"
+    },
+    "zfLuBldQXKo": {
+      "videoId": "zfLuBldQXKo",
+      "title": "윤석열 국민의힘 대통령 후보, 이준석 당대표 오찬 회동",
+      "description": "지난 6일 윤석열 국민의힘 대통령 후보는 이준석 당대표와 오찬 회동을 갖고 선대위 구성 등 국민의힘 대선 필승 전략에 대해 논의했습니다. \n\n\"앞으로 우리 본선이라고 하는 것은 당을 중심으로 해서 당과 함께 치러나가야 하는 것이고, 선대위와 당은 동일선상에 있는 것이기 때문에 이준석 대표님과 당 관계자들과 함께 준비를 차분하게 해나가고 선거운동도 해나갈 생각입니다.\"\n\n#윤석열 #이준석 #국민의힘 #정권교체 #국민캠프 #공정 #상식",
+      "publishedAt": "2021-11-07T04:43:01Z",
+      "duration": "PT1M15S",
+      "viewCount": 24721,
+      "likeCount": 3375,
+      "commentCount": 936,
+      "tags": [],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCcl16CxYqlbKQJVCfdhSJVw",
+      "channelName": "윤석열",
+      "collectedAt": "2025-08-20T11:40:19.201764Z"
+    },
+    "BNQtWPNI0Ko": {
+      "videoId": "BNQtWPNI0Ko",
+      "title": "윤석열 국민의힘 대통령 후보, 가락시장 방문",
+      "description": "지난 6일 윤석열 국민의힘 대통령 후보는 첫 일정으로 가락시장에 방문해 \n상인들의 애로사항을 청취하고 현장을 찾은 시민들에게 \n국민의힘 대통령 후보로 선출해 주신대에 대한 감사 인사와 함께 \n확실한 정권교체를 통한 공정과 상식이 바로 선 대한민국을 약속했습니다.\n\n#윤석열 #국민의힘 #정권교체 #국민캠프 #공정 #상식 #가락시장",
+      "publishedAt": "2021-11-07T01:22:39Z",
+      "duration": "PT1M24S",
+      "viewCount": 22255,
+      "likeCount": 3412,
+      "commentCount": 689,
+      "tags": [],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCcl16CxYqlbKQJVCfdhSJVw",
+      "channelName": "윤석열",
+      "collectedAt": "2025-08-20T11:40:19.201764Z"
     }
   },
   "channels": {
@@ -58,9 +96,36 @@
       "viewCount": 203799141,
       "videoCount": 15149,
       "lastUpdated": "2025-08-18T07:13:09.232009Z"
+    },
+    "UCcl16CxYqlbKQJVCfdhSJVw": {
+      "channelId": "UCcl16CxYqlbKQJVCfdhSJVw",
+      "channelName": "윤석열",
+      "channelUrl": "@sukyeol_yoon",
+      "channelDescription": "제20대 대통령 윤석열입니다.",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/Vn2wpB1HmM2E0ARHadprj2TrRWhBnkzeOhtfZ6fEEWHUnBg9YOGY_-dPUTAwUahGZg_igf9xDw=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/Vn2wpB1HmM2E0ARHadprj2TrRWhBnkzeOhtfZ6fEEWHUnBg9YOGY_-dPUTAwUahGZg_igf9xDw=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/Vn2wpB1HmM2E0ARHadprj2TrRWhBnkzeOhtfZ6fEEWHUnBg9YOGY_-dPUTAwUahGZg_igf9xDw=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 754000,
+      "viewCount": 157172619,
+      "videoCount": 3538,
+      "lastUpdated": "2025-08-20T11:40:19.200766Z"
     }
   },
-  "lastUpdated": "2025-08-18T07:13:09.233006Z",
-  "totalVideos": 1,
-  "totalChannels": 1
+  "lastUpdated": "2025-08-20T11:40:19.201764Z",
+  "totalVideos": 3,
+  "totalChannels": 2
 }

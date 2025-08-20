@@ -58,7 +58,7 @@
       "liveStreamingDetails": null,
       "channelId": "UCn8WFi6pE4cJZP8MiUNGFxg",
       "channelName": "KTV NEWS",
-      "collectedAt": "2025-08-18T07:13:21.661299Z"
+      "collectedAt": "2025-08-20T11:39:07.482326Z"
     },
     "ch3Wvb0fGGo": {
       "videoId": "ch3Wvb0fGGo",
@@ -118,7 +118,7 @@
       "liveStreamingDetails": null,
       "channelId": "UCn8WFi6pE4cJZP8MiUNGFxg",
       "channelName": "KTV NEWS",
-      "collectedAt": "2025-08-18T07:13:21.661299Z"
+      "collectedAt": "2025-08-20T11:39:07.481520Z"
     },
     "GjeE7CKXQJg": {
       "videoId": "GjeE7CKXQJg",
@@ -179,7 +179,7 @@
       },
       "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
       "channelName": "NATV 국회방송",
-      "collectedAt": "2025-08-18T07:13:21.657303Z"
+      "collectedAt": "2025-08-20T11:39:07.484034Z"
     },
     "4BPsPk0_Cuc": {
       "videoId": "4BPsPk0_Cuc",
@@ -202,6 +202,36 @@
       "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
       "channelName": "NATV 국회방송",
       "collectedAt": "2025-08-18T07:13:21.657303Z"
+    },
+    "gLw7_8QivL4": {
+      "videoId": "gLw7_8QivL4",
+      "title": "UAE 국빈 방문과 다보스 포럼 참석을 위해 6박 8일 일정으로 떠나는 순방길에 오른 윤석열 대통령과 김건희 여사의 서울 공항 출국 영상",
+      "description": "1월 14일 서울 공항\n2023년 첫 순방길에 오른\n윤석열 대통령과 김건희 여사! \n \n1980년 양국 수교 이래 최초로 \n국빈으로 초대되어 UAE를 방문하고   \n스위스 다보스에서 개최되는 \n세계경제포럼 연차총회에 참석할 예정입니다~\n\n6박 8일 일정의 시작!\n윤 대통령 내외의 출국 현장을 윤니크로 확인하세요~\n\n#윤석열대통령 #김건희여사 #국빈방문",
+      "publishedAt": "2023-01-14T03:10:14Z",
+      "duration": "PT1M33S",
+      "viewCount": 7686,
+      "likeCount": 1112,
+      "commentCount": 152,
+      "tags": [
+        "윤석열",
+        "대통령",
+        "윤대통령",
+        "김건희",
+        "순방",
+        "UAE",
+        "경제외교",
+        "다보스포럼",
+        "스위스",
+        "한국인의밤"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCydbI9p3_8DeteSBbnv0tuA",
+      "channelName": "윤석열 정부 영상 아카이브",
+      "collectedAt": "2025-08-20T11:39:07.485033Z"
     }
   },
   "channels": {
@@ -258,9 +288,36 @@
       "viewCount": 86003788,
       "videoCount": 16388,
       "lastUpdated": "2025-08-18T02:22:28.333521Z"
+    },
+    "UCydbI9p3_8DeteSBbnv0tuA": {
+      "channelId": "UCydbI9p3_8DeteSBbnv0tuA",
+      "channelName": "윤석열 정부 영상 아카이브",
+      "channelUrl": "@yoonique2929",
+      "channelDescription": "* 윤석열 정부의 대통령 행보와 브리핑을 기록한 영상 아카이브 채널입니다.\n* KTV 온라인콘텐츠의 부분발췌, 상업적 이용 등 무단사용을 금합니다. \n※ 채널에 게시된 영상의 저작권은 영상을 취재한 개별 방송사에 있으며\n     영상의 무단 복제·배포 및 재가공 등을 금합니다\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/26A81EvLC15coLPb2U9jko_jbEmNq85IPoDxWRcy0xqhzD0uIEtOvBWIMdo2_lkLMnMLvvAHZA=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/26A81EvLC15coLPb2U9jko_jbEmNq85IPoDxWRcy0xqhzD0uIEtOvBWIMdo2_lkLMnMLvvAHZA=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/26A81EvLC15coLPb2U9jko_jbEmNq85IPoDxWRcy0xqhzD0uIEtOvBWIMdo2_lkLMnMLvvAHZA=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 255000,
+      "viewCount": 109575768,
+      "videoCount": 2854,
+      "lastUpdated": "2025-08-20T11:39:07.484034Z"
     }
   },
-  "lastUpdated": "2025-08-18T07:13:21.662077Z",
-  "totalVideos": 7,
-  "totalChannels": 2
+  "lastUpdated": "2025-08-20T11:39:07.485033Z",
+  "totalVideos": 8,
+  "totalChannels": 3
 }

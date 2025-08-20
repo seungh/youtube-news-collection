@@ -28,7 +28,7 @@
       "liveStreamingDetails": null,
       "channelId": "UCn8WFi6pE4cJZP8MiUNGFxg",
       "channelName": "KTV NEWS",
-      "collectedAt": "2025-08-18T07:13:22.047640Z"
+      "collectedAt": "2025-08-20T11:39:26.787161Z"
     },
     "UZIZFyEQSvQ": {
       "videoId": "UZIZFyEQSvQ",
@@ -50,7 +50,41 @@
       "liveStreamingDetails": null,
       "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
       "channelName": "NATV 국회방송",
-      "collectedAt": "2025-08-18T07:13:22.046048Z"
+      "collectedAt": "2025-08-20T11:39:26.788361Z"
+    },
+    "OSzLi-BPUEg": {
+      "videoId": "OSzLi-BPUEg",
+      "title": "제43주년 부마민주항쟁 기념식｜시월의 이름들 (22.10.16. 풀영상)",
+      "description": "📌02:40 시작 바로가기\n📌22:14 이상민 행정안전부 장관 기념사 바로가기 \n\n부마민주항쟁기념재단에서 주관하는 \n부마민주항쟁 제43주년 기념식이\n16일 오전 부산시민회관에서 개최됩니다.\n\n행사는 ‘시월의 이름들' 이라는 주제로 \n1979년 10월 항쟁에 참여했던 \n이름 없는 시민을 기억하고 \n정신을 계승하겠다는 취지입니다.\n\n#제43주년 #부마항쟁 #기념식\n\n🔹일시 : 2022. 10. 16. (일) 10:00\n🔹장소 : 부산시민회관 대극장",
+      "publishedAt": "2022-10-16T01:43:00Z",
+      "duration": "PT38M35S",
+      "viewCount": 4095,
+      "likeCount": 134,
+      "commentCount": 8,
+      "tags": [
+        "43주년",
+        "부마민주항쟁",
+        "민주항쟁",
+        "기념식",
+        "정부기념식",
+        "부산시민회관",
+        "이름없는시민",
+        "행정안전부",
+        "행안부장관",
+        "뮤지컬갈라"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": "ko",
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": {
+        "actualStartTime": "2022-10-16T00:57:59Z",
+        "actualEndTime": "2022-10-16T01:39:20Z",
+        "scheduledStartTime": "2022-10-16T01:00:00Z"
+      },
+      "channelId": "UCIMOytYIzaUpoAM2bpT4JZQ",
+      "channelName": "KTV 국민방송",
+      "collectedAt": "2025-08-20T11:39:26.788361Z"
     }
   },
   "channels": {
@@ -107,9 +141,36 @@
       "viewCount": 86003788,
       "videoCount": 16388,
       "lastUpdated": "2025-08-18T02:22:29.135145Z"
+    },
+    "UCIMOytYIzaUpoAM2bpT4JZQ": {
+      "channelId": "UCIMOytYIzaUpoAM2bpT4JZQ",
+      "channelName": "KTV 국민방송",
+      "channelUrl": "@ktv_korea",
+      "channelDescription": "이재명 정부 국정소식, 정책정보, 정부브리핑 등을 실시간으로 소개해드립니다\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/C8SZ5Na4t2ExtMRDMXKbHJtoiC_2u30a4TjVoHpg4xLH0z2jUVntFrpGt26OXfkBHxuwjq8xTOk=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/C8SZ5Na4t2ExtMRDMXKbHJtoiC_2u30a4TjVoHpg4xLH0z2jUVntFrpGt26OXfkBHxuwjq8xTOk=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/C8SZ5Na4t2ExtMRDMXKbHJtoiC_2u30a4TjVoHpg4xLH0z2jUVntFrpGt26OXfkBHxuwjq8xTOk=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 594000,
+      "viewCount": 496166667,
+      "videoCount": 25206,
+      "lastUpdated": "2025-08-20T11:39:26.788361Z"
     }
   },
-  "lastUpdated": "2025-08-18T07:13:22.048641Z",
-  "totalVideos": 2,
-  "totalChannels": 2
+  "lastUpdated": "2025-08-20T11:39:26.789358Z",
+  "totalVideos": 3,
+  "totalChannels": 3
 }

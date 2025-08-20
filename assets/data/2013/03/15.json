@@ -1,0 +1,65 @@
+{
+  "videos": {
+    "pl0fRi8Y50E": {
+      "videoId": "pl0fRi8Y50E",
+      "title": "[한국정책방송 KTV] 국악콘서트 울림 (2013.3.16)",
+      "description": "국악인 박애리와 함께 매주 토요일 저녁 여러분을 찾아가는 KTV 국악콘서트 울림.\n이번 방송에서는 세종문화회관 대극장에서 열렸던 '풍덩!춤세상'의 무대를 여러분께 선사합니다.\n\n이번 공연은 한국을 대표하는 서울시 무용단과 서울시 국악관현악단이 준비해, 우리 가무의 진수를 보여드린다고 하는데요.\n\n대한민국 국민들에게 익숙한 판소리 '흥보가'부터 장고춤, 허튼춤, 부채춤 등 다양한 춤사위, 그리고 서울시무용단의 아름다운 강강술래 모습 등을 담았습니다.\n\n토요일 저녁 8시 20분, 가족 모두 둘러앉아 국악콘서트 울림의 신명나는 우리 소리로 스트레스를 날려보세요~^^",
+      "publishedAt": "2013-03-15T00:55:33Z",
+      "duration": "PT59S",
+      "viewCount": 151,
+      "likeCount": 0,
+      "commentCount": 0,
+      "tags": [
+        "국악",
+        "콘서트",
+        "울림",
+        "한국",
+        "정책",
+        "방송",
+        "ktv",
+        "korea",
+        "박애리"
+      ],
+      "categoryId": "17",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCIMOytYIzaUpoAM2bpT4JZQ",
+      "channelName": "KTV 국민방송",
+      "collectedAt": "2025-08-20T11:40:18.700182Z"
+    }
+  },
+  "channels": {
+    "UCIMOytYIzaUpoAM2bpT4JZQ": {
+      "channelId": "UCIMOytYIzaUpoAM2bpT4JZQ",
+      "channelName": "KTV 국민방송",
+      "channelUrl": "@ktv_korea",
+      "channelDescription": "이재명 정부 국정소식, 정책정보, 정부브리핑 등을 실시간으로 소개해드립니다\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/C8SZ5Na4t2ExtMRDMXKbHJtoiC_2u30a4TjVoHpg4xLH0z2jUVntFrpGt26OXfkBHxuwjq8xTOk=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/C8SZ5Na4t2ExtMRDMXKbHJtoiC_2u30a4TjVoHpg4xLH0z2jUVntFrpGt26OXfkBHxuwjq8xTOk=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/C8SZ5Na4t2ExtMRDMXKbHJtoiC_2u30a4TjVoHpg4xLH0z2jUVntFrpGt26OXfkBHxuwjq8xTOk=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 594000,
+      "viewCount": 496166667,
+      "videoCount": 25206,
+      "lastUpdated": "2025-08-20T11:40:18.699185Z"
+    }
+  },
+  "lastUpdated": "2025-08-20T11:40:18.701179Z",
+  "totalVideos": 1,
+  "totalChannels": 1
+}

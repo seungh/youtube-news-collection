@@ -17,7 +17,7 @@
       "liveStreamingDetails": null,
       "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
       "channelName": "NATV 국회방송",
-      "collectedAt": "2025-08-18T07:13:32.041631Z"
+      "collectedAt": "2025-08-20T11:39:58.164101Z"
     },
     "jTPdrCMHUV8": {
       "videoId": "jTPdrCMHUV8",
@@ -36,7 +36,7 @@
       "liveStreamingDetails": null,
       "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
       "channelName": "NATV 국회방송",
-      "collectedAt": "2025-08-18T07:13:32.041631Z"
+      "collectedAt": "2025-08-20T11:39:58.164101Z"
     },
     "qGyqha6G8KE": {
       "videoId": "qGyqha6G8KE",
@@ -55,7 +55,7 @@
       "liveStreamingDetails": null,
       "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
       "channelName": "NATV 국회방송",
-      "collectedAt": "2025-08-18T07:13:32.041631Z"
+      "collectedAt": "2025-08-20T11:39:58.164101Z"
     },
     "NXidOM3oVgU": {
       "videoId": "NXidOM3oVgU",
@@ -74,7 +74,7 @@
       "liveStreamingDetails": null,
       "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
       "channelName": "NATV 국회방송",
-      "collectedAt": "2025-08-18T07:13:32.041631Z"
+      "collectedAt": "2025-08-20T11:39:58.164101Z"
     },
     "wG5sk7Hp3xk": {
       "videoId": "wG5sk7Hp3xk",
@@ -93,7 +93,7 @@
       "liveStreamingDetails": null,
       "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
       "channelName": "NATV 국회방송",
-      "collectedAt": "2025-08-18T07:13:32.041631Z"
+      "collectedAt": "2025-08-20T11:39:58.164101Z"
     },
     "FU4hZiBX3cA": {
       "videoId": "FU4hZiBX3cA",
@@ -123,7 +123,7 @@
       "liveStreamingDetails": null,
       "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
       "channelName": "NATV 국회방송",
-      "collectedAt": "2025-08-18T07:13:32.041631Z"
+      "collectedAt": "2025-08-20T11:39:58.164101Z"
     },
     "cZN0oPqpjvE": {
       "videoId": "cZN0oPqpjvE",
@@ -142,7 +142,7 @@
       "liveStreamingDetails": null,
       "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
       "channelName": "NATV 국회방송",
-      "collectedAt": "2025-08-18T07:13:32.041631Z"
+      "collectedAt": "2025-08-20T11:39:58.164101Z"
     },
     "3CBWJoqPn88": {
       "videoId": "3CBWJoqPn88",
@@ -162,6 +162,36 @@
       "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
       "channelName": "NATV 국회방송",
       "collectedAt": "2025-08-18T07:13:32.041631Z"
+    },
+    "FYzoF8LiUcM": {
+      "videoId": "FYzoF8LiUcM",
+      "title": "전우용의 정설남녀 4화 - 조선 코끼리 수난사(史)",
+      "description": "2019년 2월 27일과 28일. \n제2차 북미정상회담이 개최되는 베트남 하노이!\n앞으로 동남아시아는 ‘신남방정책’을 통해\n우리와 더욱 가까워질 예정인데요.\n\n동남아시아와의 교류는 조선 시대에도 있었습니다.\n이번 이야기에서는 조선왕조 태종과 세종 시절 \n인도네시아에서 건너온 코끼리에 대해 알아봅니다.\n(코끼리도 사람들도 고생이 이만저만이 아니었다는 후문~ㅠㅠ)\n\n#전우용 #정설남녀 #북미정상회담 #베트남 #신남방정책 \n#정책 #조선왕조 #태종 #세종 #인도네시아 #코끼리",
+      "publishedAt": "2019-02-23T04:00:05Z",
+      "duration": "PT3M40S",
+      "viewCount": 1026,
+      "likeCount": 94,
+      "commentCount": 8,
+      "tags": [
+        "전우용",
+        "정설남녀",
+        "북미정상회담",
+        "베트남",
+        "신남방정책",
+        "정책",
+        "조선왕조",
+        "태종",
+        "세종",
+        "인도네시아"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": "ko",
+      "defaultAudioLanguage": "ko",
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCIMOytYIzaUpoAM2bpT4JZQ",
+      "channelName": "KTV 국민방송",
+      "collectedAt": "2025-08-20T11:39:58.166790Z"
     }
   },
   "channels": {
@@ -191,9 +221,36 @@
       "viewCount": 86009826,
       "videoCount": 16390,
       "lastUpdated": "2025-08-18T07:13:32.039047Z"
+    },
+    "UCIMOytYIzaUpoAM2bpT4JZQ": {
+      "channelId": "UCIMOytYIzaUpoAM2bpT4JZQ",
+      "channelName": "KTV 국민방송",
+      "channelUrl": "@ktv_korea",
+      "channelDescription": "이재명 정부 국정소식, 정책정보, 정부브리핑 등을 실시간으로 소개해드립니다\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/C8SZ5Na4t2ExtMRDMXKbHJtoiC_2u30a4TjVoHpg4xLH0z2jUVntFrpGt26OXfkBHxuwjq8xTOk=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/C8SZ5Na4t2ExtMRDMXKbHJtoiC_2u30a4TjVoHpg4xLH0z2jUVntFrpGt26OXfkBHxuwjq8xTOk=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/C8SZ5Na4t2ExtMRDMXKbHJtoiC_2u30a4TjVoHpg4xLH0z2jUVntFrpGt26OXfkBHxuwjq8xTOk=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 594000,
+      "viewCount": 496166667,
+      "videoCount": 25206,
+      "lastUpdated": "2025-08-20T11:39:58.166790Z"
     }
   },
-  "lastUpdated": "2025-08-18T07:13:32.043826Z",
-  "totalVideos": 8,
-  "totalChannels": 1
+  "lastUpdated": "2025-08-20T11:39:58.167787Z",
+  "totalVideos": 9,
+  "totalChannels": 2
 }

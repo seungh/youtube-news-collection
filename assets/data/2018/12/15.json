@@ -29,6 +29,36 @@
       "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
       "channelName": "NATV 국회방송",
       "collectedAt": "2025-08-18T07:13:32.552518Z"
+    },
+    "NrXlbSnFKsk": {
+      "videoId": "NrXlbSnFKsk",
+      "title": "이재명 경기도지사가 도의원들에게 연설중 갑자기 꾸벅 인사한 이유는?",
+      "description": "도의회와의 협치로 만드는 2019년 기대해주십시오\n\n\n2019년 본예산안이 오늘 경기도의회에서 최종 통과되었습니다.\n\n2019년 예산은 민선7기 첫 번째 본예산인 만큼 공정, 평화, 복지라는 경기도 3대 가치를 비롯해 새로운 도정 철학을 반영했습니다.\n\n제가 도민 여러분께 약속드렸던 청년배당과 산후조리비 지원, 무상교복 예산도 원안대로 통과돼 내년에 사업을 차질없이 집행할 수 있게 되었습니다.\n\n골목경제와 재래시장 활성화의 마중물이 될 지역화폐 관련 예산도 마련되었으니 내년 소상공인들의 숨통도 틔워줄 수 있게 되리라 기대합니다.\n\n경기도의 새로운 출발을 위해 힘을 모아주신 송한준 의장님을 비롯한 경기도의회 의원님들께 감사드립니다.\n\n도의회와의 협치를 토대로 1300만 도민이 살기 좋은 경기도를 만드는 데 더욱 집중하겠습니다.",
+      "publishedAt": "2018-12-15T04:29:48Z",
+      "duration": "PT2M36S",
+      "viewCount": 53055,
+      "likeCount": 3583,
+      "commentCount": 559,
+      "tags": [
+        "이재명",
+        "경기도청",
+        "경기도",
+        "이재명연설",
+        "이재명지사",
+        "경기도지사",
+        "경기도이재명",
+        "이재명경기도",
+        "경기도정",
+        "이재명경기도지사"
+      ],
+      "categoryId": "22",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCNJM6dqu70Qr6VaseiW1Org",
+      "channelName": "이재명",
+      "collectedAt": "2025-08-20T11:39:58.561274Z"
     }
   },
   "channels": {
@@ -58,9 +88,36 @@
       "viewCount": 86009826,
       "videoCount": 16390,
       "lastUpdated": "2025-08-18T07:13:32.551521Z"
+    },
+    "UCNJM6dqu70Qr6VaseiW1Org": {
+      "channelId": "UCNJM6dqu70Qr6VaseiW1Org",
+      "channelName": "이재명",
+      "channelUrl": "@이재명tv",
+      "channelDescription": "대한민국 제21대 대통령\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/kIdZSRMagKta6GY6aiDm5asO5Cupd_HanW3xIFnBW2p8VNYI2JryJUchT4Aoy2ASM-ifq7JfyQ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/kIdZSRMagKta6GY6aiDm5asO5Cupd_HanW3xIFnBW2p8VNYI2JryJUchT4Aoy2ASM-ifq7JfyQ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/kIdZSRMagKta6GY6aiDm5asO5Cupd_HanW3xIFnBW2p8VNYI2JryJUchT4Aoy2ASM-ifq7JfyQ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 1710000,
+      "viewCount": 336974518,
+      "videoCount": 3965,
+      "lastUpdated": "2025-08-20T11:39:58.557001Z"
     }
   },
-  "lastUpdated": "2025-08-18T07:13:32.552518Z",
-  "totalVideos": 1,
-  "totalChannels": 1
+  "lastUpdated": "2025-08-20T11:39:58.561274Z",
+  "totalVideos": 2,
+  "totalChannels": 2
 }

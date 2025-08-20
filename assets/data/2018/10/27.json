@@ -1,0 +1,93 @@
+{
+  "videos": {
+    "cKg0vtK2NQM": {
+      "videoId": "cKg0vtK2NQM",
+      "title": "친환경차 활성화···충전인프라 구축 박차",
+      "description": "친환경 차에 대한 관심은 높아졌지만 충전과 관련된 기반 시설은 제자리걸음이라는 지적이 나오고 있습니다.\n국민들도 충전기 부족을 가장 큰 불편 요인으로 꼽았는데요.\n정부가 이런 불편함을 해소하기 위해 충전 인프라를 대폭 늘리기로 했습니다.",
+      "publishedAt": "2018-10-27T01:07:33Z",
+      "duration": "PT1M37S",
+      "viewCount": 432,
+      "likeCount": 35,
+      "commentCount": 5,
+      "tags": [
+        "KTV",
+        "한국정책방송원",
+        "한국방송",
+        "친환경차",
+        "활성화",
+        "충전",
+        "인프라",
+        "구축"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": "ko",
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCIMOytYIzaUpoAM2bpT4JZQ",
+      "channelName": "KTV 국민방송",
+      "collectedAt": "2025-08-20T11:40:18.869400Z"
+    },
+    "JwN9qZS1YME": {
+      "videoId": "JwN9qZS1YME",
+      "title": "이 총리 \"메르스 방역 애썼다\"···관계자 초청 오찬",
+      "description": "지난 9월 발생한 메르스는 추가 감염 없이 약 38일 만에 종료됐는데요.\n이낙연 국무총리는 메르스 추가 확산을 막기 위해 노력한 관계자를 초청해 오찬을 함께하며 격려했습니다.",
+      "publishedAt": "2018-10-27T01:03:51Z",
+      "duration": "PT1M36S",
+      "viewCount": 4314,
+      "likeCount": 303,
+      "commentCount": 56,
+      "tags": [
+        "KTV",
+        "한국정책방송원",
+        "한국방송",
+        "메르스",
+        "방역",
+        "이낙연",
+        "총리",
+        "초청",
+        "오찬"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": "ko",
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCIMOytYIzaUpoAM2bpT4JZQ",
+      "channelName": "KTV 국민방송",
+      "collectedAt": "2025-08-20T11:40:18.869400Z"
+    }
+  },
+  "channels": {
+    "UCIMOytYIzaUpoAM2bpT4JZQ": {
+      "channelId": "UCIMOytYIzaUpoAM2bpT4JZQ",
+      "channelName": "KTV 국민방송",
+      "channelUrl": "@ktv_korea",
+      "channelDescription": "이재명 정부 국정소식, 정책정보, 정부브리핑 등을 실시간으로 소개해드립니다\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/C8SZ5Na4t2ExtMRDMXKbHJtoiC_2u30a4TjVoHpg4xLH0z2jUVntFrpGt26OXfkBHxuwjq8xTOk=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/C8SZ5Na4t2ExtMRDMXKbHJtoiC_2u30a4TjVoHpg4xLH0z2jUVntFrpGt26OXfkBHxuwjq8xTOk=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/C8SZ5Na4t2ExtMRDMXKbHJtoiC_2u30a4TjVoHpg4xLH0z2jUVntFrpGt26OXfkBHxuwjq8xTOk=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 594000,
+      "viewCount": 496166667,
+      "videoCount": 25206,
+      "lastUpdated": "2025-08-20T11:40:18.868402Z"
+    }
+  },
+  "lastUpdated": "2025-08-20T11:40:18.869400Z",
+  "totalVideos": 2,
+  "totalChannels": 1
+}

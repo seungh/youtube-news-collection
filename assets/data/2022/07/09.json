@@ -55,7 +55,7 @@
       "liveStreamingDetails": null,
       "channelId": "UCn8WFi6pE4cJZP8MiUNGFxg",
       "channelName": "KTV NEWS",
-      "collectedAt": "2025-08-18T07:13:22.342007Z"
+      "collectedAt": "2025-08-20T11:39:54.311068Z"
     },
     "6F_2oSj2_OI": {
       "videoId": "6F_2oSj2_OI",
@@ -86,6 +86,36 @@
       "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
       "channelName": "NATV 국회방송",
       "collectedAt": "2025-08-18T07:13:22.341009Z"
+    },
+    "ewTVOzDMgwo": {
+      "videoId": "ewTVOzDMgwo",
+      "title": "힘을 모아 열어가는 지방시대! 시·도지사와 함께 지역 발전을 논의하는 윤석열 대통령 제1차 민선 8기 시‧도지사 간담회 풀영상",
+      "description": "2022년 7월 8일 윤석열 대통령은 용산 대통령실 청사에서\n제1차 민선 8기 시·도지사 간담회에 참석했습니다.\n\n각 지방자치단체장들이 모인 이 자리에서 윤 대통령은\n지역에 상관없이 공정한 기회를 누릴 수 있는 지방시대를 열어가기 위해 \n아낌없는 지원과 지속적인 소통을 약속하였는데요.\n\n자리에 참석한 홍준표 시·도지사협의회 임시회장은\n산업 재배치를 통한 국토 균형 발전 등 실질적인 지원 \n정책의 방향에 대해서 이야기하기도 했습니다.\n\n진정한 지방시대를 열어가기 위한 열정과 구상들!\n​\n지방 중심의 새로운 시대를 위해 논의하는\n제1차 민선 8기 시·도지사 간담회 현장의 모습을 \n영상으로 함께 보시겠습니다~\n​\n**** 참석자 ****\n김영록 전라남도지사\n유정복 인천광역시장\n최민호 세종특별자치시장\n김관영 전라북도지사\n김영환 충청북도지사\n김두겸 울산광역시장\n홍준표 대구광역시장\n박형준 부산광역시장\n이철우 경상북도지사\n이장우 대전광역시장\n김동연 경기도지사\n김태흠 충청남도지사\n오영훈 제주특별자...",
+      "publishedAt": "2022-07-08T15:00:33Z",
+      "duration": "PT7M1S",
+      "viewCount": 23089,
+      "likeCount": 498,
+      "commentCount": 227,
+      "tags": [
+        "윤석열대통령",
+        "윤석열",
+        "대통령",
+        "홍준표",
+        "용ㅏㄴ",
+        "대통령실",
+        "시도지사",
+        "지역발전",
+        "간담회",
+        "지방자치단체장"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": "ko",
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCIMOytYIzaUpoAM2bpT4JZQ",
+      "channelName": "KTV 국민방송",
+      "collectedAt": "2025-08-20T11:39:54.312065Z"
     }
   },
   "channels": {
@@ -142,9 +172,36 @@
       "viewCount": 86003788,
       "videoCount": 16388,
       "lastUpdated": "2025-08-18T02:22:29.844224Z"
+    },
+    "UCIMOytYIzaUpoAM2bpT4JZQ": {
+      "channelId": "UCIMOytYIzaUpoAM2bpT4JZQ",
+      "channelName": "KTV 국민방송",
+      "channelUrl": "@ktv_korea",
+      "channelDescription": "이재명 정부 국정소식, 정책정보, 정부브리핑 등을 실시간으로 소개해드립니다\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/C8SZ5Na4t2ExtMRDMXKbHJtoiC_2u30a4TjVoHpg4xLH0z2jUVntFrpGt26OXfkBHxuwjq8xTOk=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/C8SZ5Na4t2ExtMRDMXKbHJtoiC_2u30a4TjVoHpg4xLH0z2jUVntFrpGt26OXfkBHxuwjq8xTOk=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/C8SZ5Na4t2ExtMRDMXKbHJtoiC_2u30a4TjVoHpg4xLH0z2jUVntFrpGt26OXfkBHxuwjq8xTOk=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 594000,
+      "viewCount": 496166667,
+      "videoCount": 25206,
+      "lastUpdated": "2025-08-20T11:39:54.312065Z"
     }
   },
-  "lastUpdated": "2025-08-18T07:13:22.342007Z",
-  "totalVideos": 4,
-  "totalChannels": 2
+  "lastUpdated": "2025-08-20T11:39:54.313466Z",
+  "totalVideos": 5,
+  "totalChannels": 3
 }

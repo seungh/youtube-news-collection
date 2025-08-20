@@ -28,7 +28,7 @@
       "liveStreamingDetails": null,
       "channelId": "UCn8WFi6pE4cJZP8MiUNGFxg",
       "channelName": "KTV NEWS",
-      "collectedAt": "2025-08-18T07:13:21.182259Z"
+      "collectedAt": "2025-08-20T11:39:25.723956Z"
     },
     "X0mpMvxorHY": {
       "videoId": "X0mpMvxorHY",
@@ -88,7 +88,7 @@
       "liveStreamingDetails": null,
       "channelId": "UCn8WFi6pE4cJZP8MiUNGFxg",
       "channelName": "KTV NEWS",
-      "collectedAt": "2025-08-18T07:13:21.182259Z"
+      "collectedAt": "2025-08-20T11:39:25.723956Z"
     },
     "UQV97rLOnR8": {
       "videoId": "UQV97rLOnR8",
@@ -110,7 +110,26 @@
       "liveStreamingDetails": null,
       "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
       "channelName": "NATV 국회방송",
-      "collectedAt": "2025-08-18T07:13:21.181262Z"
+      "collectedAt": "2025-08-20T11:39:25.723956Z"
+    },
+    "3sdCiQQynbU": {
+      "videoId": "3sdCiQQynbU",
+      "title": "#BUSAN IS READY👍 17개 시·도 다 함께 #부산엑스포 유치 가야G~ 가야G~ #부산세계박람회 #비하인드공개 #shorts",
+      "description": "",
+      "publishedAt": "2023-04-08T00:37:05Z",
+      "duration": "PT1M",
+      "viewCount": 32173,
+      "likeCount": 4538,
+      "commentCount": 280,
+      "tags": [],
+      "categoryId": "25",
+      "defaultLanguage": "ko",
+      "defaultAudioLanguage": "ko",
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCcl16CxYqlbKQJVCfdhSJVw",
+      "channelName": "윤석열",
+      "collectedAt": "2025-08-20T11:39:25.725763Z"
     }
   },
   "channels": {
@@ -167,9 +186,36 @@
       "viewCount": 86003788,
       "videoCount": 16388,
       "lastUpdated": "2025-08-18T02:22:27.465395Z"
+    },
+    "UCcl16CxYqlbKQJVCfdhSJVw": {
+      "channelId": "UCcl16CxYqlbKQJVCfdhSJVw",
+      "channelName": "윤석열",
+      "channelUrl": "@sukyeol_yoon",
+      "channelDescription": "제20대 대통령 윤석열입니다.",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/Vn2wpB1HmM2E0ARHadprj2TrRWhBnkzeOhtfZ6fEEWHUnBg9YOGY_-dPUTAwUahGZg_igf9xDw=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/Vn2wpB1HmM2E0ARHadprj2TrRWhBnkzeOhtfZ6fEEWHUnBg9YOGY_-dPUTAwUahGZg_igf9xDw=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/Vn2wpB1HmM2E0ARHadprj2TrRWhBnkzeOhtfZ6fEEWHUnBg9YOGY_-dPUTAwUahGZg_igf9xDw=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 754000,
+      "viewCount": 157172619,
+      "videoCount": 3538,
+      "lastUpdated": "2025-08-20T11:39:25.724952Z"
     }
   },
-  "lastUpdated": "2025-08-18T07:13:21.183257Z",
-  "totalVideos": 4,
-  "totalChannels": 2
+  "lastUpdated": "2025-08-20T11:39:25.731575Z",
+  "totalVideos": 5,
+  "totalChannels": 3
 }

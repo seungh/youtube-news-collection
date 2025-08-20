@@ -24,7 +24,7 @@
       "liveStreamingDetails": null,
       "channelId": "UC88r6mA2791EXvGAruLL7ug",
       "channelName": "KFN뉴스",
-      "collectedAt": "2025-08-18T07:13:14.250024Z"
+      "collectedAt": "2025-08-20T11:39:30.465478Z"
     },
     "E-FpaKxUEDI": {
       "videoId": "E-FpaKxUEDI",
@@ -50,7 +50,7 @@
       "liveStreamingDetails": null,
       "channelId": "UC88r6mA2791EXvGAruLL7ug",
       "channelName": "KFN뉴스",
-      "collectedAt": "2025-08-18T07:13:14.250024Z"
+      "collectedAt": "2025-08-20T11:39:30.465478Z"
     },
     "DulGltyG2Ss": {
       "videoId": "DulGltyG2Ss",
@@ -76,7 +76,7 @@
       "liveStreamingDetails": null,
       "channelId": "UC88r6mA2791EXvGAruLL7ug",
       "channelName": "KFN뉴스",
-      "collectedAt": "2025-08-18T07:13:14.250024Z"
+      "collectedAt": "2025-08-20T11:39:30.465478Z"
     },
     "sJxvIEmvhhg": {
       "videoId": "sJxvIEmvhhg",
@@ -102,7 +102,7 @@
       "liveStreamingDetails": null,
       "channelId": "UC88r6mA2791EXvGAruLL7ug",
       "channelName": "KFN뉴스",
-      "collectedAt": "2025-08-18T07:13:14.250024Z"
+      "collectedAt": "2025-08-20T11:39:30.465478Z"
     },
     "UZwPr-mNP_k": {
       "videoId": "UZwPr-mNP_k",
@@ -132,7 +132,7 @@
       "liveStreamingDetails": null,
       "channelId": "UCn8WFi6pE4cJZP8MiUNGFxg",
       "channelName": "KTV NEWS",
-      "collectedAt": "2025-08-18T07:13:14.251019Z"
+      "collectedAt": "2025-08-20T11:39:30.462485Z"
     },
     "QorTeEuExDU": {
       "videoId": "QorTeEuExDU",
@@ -162,7 +162,7 @@
       "liveStreamingDetails": null,
       "channelId": "UCn8WFi6pE4cJZP8MiUNGFxg",
       "channelName": "KTV NEWS",
-      "collectedAt": "2025-08-18T07:13:14.251019Z"
+      "collectedAt": "2025-08-20T11:39:30.462485Z"
     },
     "n1qNYOhGdFw": {
       "videoId": "n1qNYOhGdFw",
@@ -192,7 +192,7 @@
       "liveStreamingDetails": null,
       "channelId": "UCn8WFi6pE4cJZP8MiUNGFxg",
       "channelName": "KTV NEWS",
-      "collectedAt": "2025-08-18T07:13:14.251019Z"
+      "collectedAt": "2025-08-20T11:39:30.462485Z"
     },
     "nia7-pxUw_c": {
       "videoId": "nia7-pxUw_c",
@@ -222,7 +222,41 @@
       "liveStreamingDetails": null,
       "channelId": "UCn8WFi6pE4cJZP8MiUNGFxg",
       "channelName": "KTV NEWS",
-      "collectedAt": "2025-08-18T07:13:14.251019Z"
+      "collectedAt": "2025-08-20T11:39:30.462485Z"
+    },
+    "LclR7IbjYO0": {
+      "videoId": "LclR7IbjYO0",
+      "title": "코로나19 국내 신규확진 및 예방접종 현황 (2021년 5월 1일 0시 기준)",
+      "description": "🚨 #코로나19​​​ #신규확진​​​ #예방접종​​ 현황​ 🚨\n (2021년 5월 1일 0시 기준)\n\n✔신규확진 627명\n▪️국내발생 593명·해외유입 34명\n\n✔누적확진자 122,634명\n▪️격리해제 112,337명 (+291명)\n▪️치료 중 1,831명 (+23명)\n▪️사망 1,828명 (+3명)\n\n✔1차 누적 접종자 3,326,003명\n▪️2차 누적 접종자 228,399명 \n\n✔1차 신규 접종자 259,018명\n▪️2차 신규 접종자 29,655명\n\n✔아스트라제네카 백신 1,775,732명\n▪️화이자 백신 1,778,670명\n\n📢의심신고 검사자 수는 35,096명, 수도권 임시선별검사소 검사 건수는 35,314건(확진자 86명), 비수도권 임시선별검사소 검사 건수는 5,504건(확진자 12명)으로 총 검사 건수는 75,914건, 신규 확진자는 총 627명입니다.",
+      "publishedAt": "2021-05-01T00:38:38Z",
+      "duration": "PT5M32S",
+      "viewCount": 2887,
+      "likeCount": 218,
+      "commentCount": 30,
+      "tags": [
+        "코로나19",
+        "국내",
+        "신규확진",
+        "해외유입",
+        "격리해제",
+        "치료중",
+        "격리중",
+        "사망자",
+        "현황",
+        "코로나바이러스감염증19"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": "ko",
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": {
+        "actualStartTime": "2021-05-01T00:28:01Z",
+        "actualEndTime": "2021-05-01T00:37:49Z",
+        "scheduledStartTime": "2021-05-01T00:30:00Z"
+      },
+      "channelId": "UCIMOytYIzaUpoAM2bpT4JZQ",
+      "channelName": "KTV 국민방송",
+      "collectedAt": "2025-08-20T11:39:30.463482Z"
     }
   },
   "channels": {
@@ -279,9 +313,36 @@
       "viewCount": 87289483,
       "videoCount": 19304,
       "lastUpdated": "2025-08-18T07:13:14.251019Z"
+    },
+    "UCIMOytYIzaUpoAM2bpT4JZQ": {
+      "channelId": "UCIMOytYIzaUpoAM2bpT4JZQ",
+      "channelName": "KTV 국민방송",
+      "channelUrl": "@ktv_korea",
+      "channelDescription": "이재명 정부 국정소식, 정책정보, 정부브리핑 등을 실시간으로 소개해드립니다\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/C8SZ5Na4t2ExtMRDMXKbHJtoiC_2u30a4TjVoHpg4xLH0z2jUVntFrpGt26OXfkBHxuwjq8xTOk=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/C8SZ5Na4t2ExtMRDMXKbHJtoiC_2u30a4TjVoHpg4xLH0z2jUVntFrpGt26OXfkBHxuwjq8xTOk=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/C8SZ5Na4t2ExtMRDMXKbHJtoiC_2u30a4TjVoHpg4xLH0z2jUVntFrpGt26OXfkBHxuwjq8xTOk=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 594000,
+      "viewCount": 496166667,
+      "videoCount": 25206,
+      "lastUpdated": "2025-08-20T11:39:30.463482Z"
     }
   },
-  "lastUpdated": "2025-08-18T07:13:14.252016Z",
-  "totalVideos": 8,
-  "totalChannels": 2
+  "lastUpdated": "2025-08-20T11:39:30.468564Z",
+  "totalVideos": 9,
+  "totalChannels": 3
 }

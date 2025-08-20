@@ -79,6 +79,66 @@
       "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
       "channelName": "NATV 국회방송",
       "collectedAt": "2025-08-18T07:13:46.348900Z"
+    },
+    "467grIoZ8Kw": {
+      "videoId": "467grIoZ8Kw",
+      "title": "[KTV 국민방송] 2015년 양띠해, 유물과 풍속으로 만나는 을미년",
+      "description": "2015년 올해는 을미년, 즉 양띠해~!\n조조, 조선 태종, 스티브 잡스, 빌 게이츠도 양띠라고 하는데요\n국립민속박물관에서는 새해를 맞아 \n양띠 특별전시회를 하고 있다고 합니다\n전통 속에서 양은 어떤 모습이었는지 함께 보실까요?",
+      "publishedAt": "2015-01-07T05:19:05Z",
+      "duration": "PT2M23S",
+      "viewCount": 226,
+      "likeCount": 0,
+      "commentCount": 0,
+      "tags": [
+        "KTV 국민방송",
+        "한국정책방송 KTV",
+        "양띠",
+        "을미년",
+        "2015년",
+        "2015년 을미년",
+        "양띠해",
+        "양띠 유명인",
+        "국립민속박물관",
+        "국립민속박물관 양띠"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCIMOytYIzaUpoAM2bpT4JZQ",
+      "channelName": "KTV 국민방송",
+      "collectedAt": "2025-08-20T11:40:09.890074Z"
+    },
+    "DE52pwsdUMk": {
+      "videoId": "DE52pwsdUMk",
+      "title": "이재명 성남시장 직원들에게 큰절",
+      "description": "지난 해 열심히 해주신 것에 대한 감사와\n올해도 잘 부탁한다는 청탁의 의미로 큰절!",
+      "publishedAt": "2015-01-07T08:47:34Z",
+      "duration": "PT32S",
+      "viewCount": 25452,
+      "likeCount": 987,
+      "commentCount": 86,
+      "tags": [
+        "이재명",
+        "이재명시장",
+        "성남",
+        "성남시장",
+        "성남시",
+        "시무식",
+        "2015",
+        "감사",
+        "부탁",
+        "청탁"
+      ],
+      "categoryId": "22",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCNJM6dqu70Qr6VaseiW1Org",
+      "channelName": "이재명",
+      "collectedAt": "2025-08-20T11:40:09.891071Z"
     }
   },
   "channels": {
@@ -108,9 +168,63 @@
       "viewCount": 86009826,
       "videoCount": 16390,
       "lastUpdated": "2025-08-18T07:13:46.337362Z"
+    },
+    "UCIMOytYIzaUpoAM2bpT4JZQ": {
+      "channelId": "UCIMOytYIzaUpoAM2bpT4JZQ",
+      "channelName": "KTV 국민방송",
+      "channelUrl": "@ktv_korea",
+      "channelDescription": "이재명 정부 국정소식, 정책정보, 정부브리핑 등을 실시간으로 소개해드립니다\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/C8SZ5Na4t2ExtMRDMXKbHJtoiC_2u30a4TjVoHpg4xLH0z2jUVntFrpGt26OXfkBHxuwjq8xTOk=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/C8SZ5Na4t2ExtMRDMXKbHJtoiC_2u30a4TjVoHpg4xLH0z2jUVntFrpGt26OXfkBHxuwjq8xTOk=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/C8SZ5Na4t2ExtMRDMXKbHJtoiC_2u30a4TjVoHpg4xLH0z2jUVntFrpGt26OXfkBHxuwjq8xTOk=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 594000,
+      "viewCount": 496166667,
+      "videoCount": 25206,
+      "lastUpdated": "2025-08-20T11:40:09.890074Z"
+    },
+    "UCNJM6dqu70Qr6VaseiW1Org": {
+      "channelId": "UCNJM6dqu70Qr6VaseiW1Org",
+      "channelName": "이재명",
+      "channelUrl": "@이재명tv",
+      "channelDescription": "대한민국 제21대 대통령\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/kIdZSRMagKta6GY6aiDm5asO5Cupd_HanW3xIFnBW2p8VNYI2JryJUchT4Aoy2ASM-ifq7JfyQ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/kIdZSRMagKta6GY6aiDm5asO5Cupd_HanW3xIFnBW2p8VNYI2JryJUchT4Aoy2ASM-ifq7JfyQ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/kIdZSRMagKta6GY6aiDm5asO5Cupd_HanW3xIFnBW2p8VNYI2JryJUchT4Aoy2ASM-ifq7JfyQ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 1710000,
+      "viewCount": 336974518,
+      "videoCount": 3965,
+      "lastUpdated": "2025-08-20T11:40:09.890074Z"
     }
   },
-  "lastUpdated": "2025-08-18T07:13:46.352973Z",
-  "totalVideos": 3,
-  "totalChannels": 1
+  "lastUpdated": "2025-08-20T11:40:09.891071Z",
+  "totalVideos": 5,
+  "totalChannels": 3
 }

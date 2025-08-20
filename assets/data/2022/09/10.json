@@ -28,7 +28,7 @@
       "liveStreamingDetails": null,
       "channelId": "UCn8WFi6pE4cJZP8MiUNGFxg",
       "channelName": "KTV NEWS",
-      "collectedAt": "2025-08-18T07:13:22.207632Z"
+      "collectedAt": "2025-08-20T11:39:27.404321Z"
     },
     "2Oewb7kSpKE": {
       "videoId": "2Oewb7kSpKE",
@@ -80,7 +80,102 @@
       "liveStreamingDetails": null,
       "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
       "channelName": "NATV 국회방송",
-      "collectedAt": "2025-08-18T07:13:22.207632Z"
+      "collectedAt": "2025-08-20T11:39:27.404321Z"
+    },
+    "fNAViMUADuI": {
+      "videoId": "fNAViMUADuI",
+      "title": "1990년 음력 팔월 보름날 #추석 #명절 #한가위",
+      "description": "추석을 맞아 고향을 찾은 귀성객들은 햇곡식으로 송편을 빚고 여러 가지 음식을 장만하면서 풍성한 결실을 보게 된 것에 대해 하늘과 조상에게 감사의 뜻을 나타냈습니다.",
+      "publishedAt": "2022-09-10T00:00:12Z",
+      "duration": "PT49S",
+      "viewCount": 4894,
+      "likeCount": 104,
+      "commentCount": 2,
+      "tags": [
+        "연휴",
+        "추석당일",
+        "귀성객",
+        "고향",
+        "햅쌀",
+        "송편",
+        "햇과일",
+        "햇곡식",
+        "조상",
+        "제사"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": "ko",
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCIMOytYIzaUpoAM2bpT4JZQ",
+      "channelName": "KTV 국민방송",
+      "collectedAt": "2025-08-20T11:39:27.405316Z"
+    },
+    "c9v_FyyXzMo": {
+      "videoId": "c9v_FyyXzMo",
+      "title": "아들과 영상통화하는 데 대통령이 나타났다?! 윤 대통령 장병 격려 오찬 행사에서 생긴 일! #shorts #추석",
+      "description": "추석을 맞이해! #수도방위사령부 예하 #방공중대\n찾아간 #윤석열 #대통령 \n같이 식사하며 장병들을 격하게 응원!\n\n#수방사 #국군장병 #군인 #필승 #단결 \n#영상통화 #이벤트 #윤석열대통령",
+      "publishedAt": "2022-09-10T09:20:31Z",
+      "duration": "PT51S",
+      "viewCount": 8345,
+      "likeCount": 698,
+      "commentCount": 48,
+      "tags": [],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCydbI9p3_8DeteSBbnv0tuA",
+      "channelName": "윤석열 정부 영상 아카이브",
+      "collectedAt": "2025-08-20T11:39:27.406313Z"
+    },
+    "OvJBnIwmxqo": {
+      "videoId": "OvJBnIwmxqo",
+      "title": "[LIVE] 초딩 이재명이 개복숭아 따먹으며 통학한 시오리길..",
+      "description": "",
+      "publishedAt": "2022-09-10T05:35:27Z",
+      "duration": "PT47M42S",
+      "viewCount": 500857,
+      "likeCount": 45056,
+      "commentCount": 4392,
+      "tags": [],
+      "categoryId": "24",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": {
+        "actualStartTime": "2022-09-10T04:43:17Z",
+        "actualEndTime": "2022-09-10T05:31:01Z",
+        "scheduledStartTime": "2022-09-10T04:37:53Z"
+      },
+      "channelId": "UCNJM6dqu70Qr6VaseiW1Org",
+      "channelName": "이재명",
+      "collectedAt": "2025-08-20T11:39:27.407311Z"
+    },
+    "sy29f8t0b9s": {
+      "videoId": "sy29f8t0b9s",
+      "title": "[LIVE] 코찔찔이의 고향, 경북 안동 봉화 골짜기 궁금하신가요?",
+      "description": "",
+      "publishedAt": "2022-09-10T02:33:35Z",
+      "duration": "PT40M19S",
+      "viewCount": 750721,
+      "likeCount": 54558,
+      "commentCount": 5309,
+      "tags": [],
+      "categoryId": "24",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": {
+        "actualStartTime": "2022-09-10T01:50:55Z",
+        "actualEndTime": "2022-09-10T02:31:08Z",
+        "scheduledStartTime": "2022-09-10T01:43:00Z"
+      },
+      "channelId": "UCNJM6dqu70Qr6VaseiW1Org",
+      "channelName": "이재명",
+      "collectedAt": "2025-08-20T11:39:27.407311Z"
     }
   },
   "channels": {
@@ -137,9 +232,90 @@
       "viewCount": 86003788,
       "videoCount": 16388,
       "lastUpdated": "2025-08-18T02:22:29.496413Z"
+    },
+    "UCIMOytYIzaUpoAM2bpT4JZQ": {
+      "channelId": "UCIMOytYIzaUpoAM2bpT4JZQ",
+      "channelName": "KTV 국민방송",
+      "channelUrl": "@ktv_korea",
+      "channelDescription": "이재명 정부 국정소식, 정책정보, 정부브리핑 등을 실시간으로 소개해드립니다\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/C8SZ5Na4t2ExtMRDMXKbHJtoiC_2u30a4TjVoHpg4xLH0z2jUVntFrpGt26OXfkBHxuwjq8xTOk=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/C8SZ5Na4t2ExtMRDMXKbHJtoiC_2u30a4TjVoHpg4xLH0z2jUVntFrpGt26OXfkBHxuwjq8xTOk=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/C8SZ5Na4t2ExtMRDMXKbHJtoiC_2u30a4TjVoHpg4xLH0z2jUVntFrpGt26OXfkBHxuwjq8xTOk=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 594000,
+      "viewCount": 496166667,
+      "videoCount": 25206,
+      "lastUpdated": "2025-08-20T11:39:27.405316Z"
+    },
+    "UCydbI9p3_8DeteSBbnv0tuA": {
+      "channelId": "UCydbI9p3_8DeteSBbnv0tuA",
+      "channelName": "윤석열 정부 영상 아카이브",
+      "channelUrl": "@yoonique2929",
+      "channelDescription": "* 윤석열 정부의 대통령 행보와 브리핑을 기록한 영상 아카이브 채널입니다.\n* KTV 온라인콘텐츠의 부분발췌, 상업적 이용 등 무단사용을 금합니다. \n※ 채널에 게시된 영상의 저작권은 영상을 취재한 개별 방송사에 있으며\n     영상의 무단 복제·배포 및 재가공 등을 금합니다\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/26A81EvLC15coLPb2U9jko_jbEmNq85IPoDxWRcy0xqhzD0uIEtOvBWIMdo2_lkLMnMLvvAHZA=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/26A81EvLC15coLPb2U9jko_jbEmNq85IPoDxWRcy0xqhzD0uIEtOvBWIMdo2_lkLMnMLvvAHZA=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/26A81EvLC15coLPb2U9jko_jbEmNq85IPoDxWRcy0xqhzD0uIEtOvBWIMdo2_lkLMnMLvvAHZA=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 255000,
+      "viewCount": 109575768,
+      "videoCount": 2854,
+      "lastUpdated": "2025-08-20T11:39:27.406313Z"
+    },
+    "UCNJM6dqu70Qr6VaseiW1Org": {
+      "channelId": "UCNJM6dqu70Qr6VaseiW1Org",
+      "channelName": "이재명",
+      "channelUrl": "@이재명tv",
+      "channelDescription": "대한민국 제21대 대통령\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/kIdZSRMagKta6GY6aiDm5asO5Cupd_HanW3xIFnBW2p8VNYI2JryJUchT4Aoy2ASM-ifq7JfyQ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/kIdZSRMagKta6GY6aiDm5asO5Cupd_HanW3xIFnBW2p8VNYI2JryJUchT4Aoy2ASM-ifq7JfyQ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/kIdZSRMagKta6GY6aiDm5asO5Cupd_HanW3xIFnBW2p8VNYI2JryJUchT4Aoy2ASM-ifq7JfyQ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 1710000,
+      "viewCount": 336974518,
+      "videoCount": 3965,
+      "lastUpdated": "2025-08-20T11:39:27.406313Z"
     }
   },
-  "lastUpdated": "2025-08-18T07:13:22.208650Z",
-  "totalVideos": 3,
-  "totalChannels": 2
+  "lastUpdated": "2025-08-20T11:39:27.407311Z",
+  "totalVideos": 7,
+  "totalChannels": 5
 }

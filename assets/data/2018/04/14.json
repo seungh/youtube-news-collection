@@ -28,7 +28,37 @@
       "liveStreamingDetails": null,
       "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
       "channelName": "NATV 국회방송",
-      "collectedAt": "2025-08-18T07:13:35.068212Z"
+      "collectedAt": "2025-08-20T11:39:59.069036Z"
+    },
+    "aSnXFiMVC4g": {
+      "videoId": "aSnXFiMVC4g",
+      "title": "에이핑크, 손가락 하트 날리며 아프리카개발은행 홍보다짐- 김동연 부총리도 하트 날려",
+      "description": "기획재정부는 5월 21일부터 25일까지 부산에서 열리는 아프리카개발은행(AfDB) 연차총회 및 한ㆍ아프리카 경제협력회의(KOAFEC) 홍보대사로 한국의 대표 아이돌그룹인 에이핑크를 4월13일 위촉했습니다. \n\n---------------------------------------\n에이핑크 트리에 지문찍으며 홍보다짐 영상 깜찍해요\n김동연 부총리도 하트를 날립니다... 부총리 하트 영상 재밌어요\n----------------------------------------\n\n올해 데뷔 7주년을 맞는 에이핑크는 밝고 청순한 이미지로 대중들의 꾸준한 사랑을 받고 있는 한국의 대표 아이돌 그룹입니다. 에이핑크는 앞으로 홍보 포스터 및 배너광고 출연, 사회관계망서비스(SNS) 활동 등을 통해 AfDB 연차총회 홍보활동을 벌입니다.\n\n김동연 부총리 겸 기획재정부 장관은 위촉식에서 “AfDB 연차총회가 우리의 개발경험을 아프리카 국가들과 공유하고 우리 기업들의 아프리카 진출을 확대하는 중요한 기회가 될...",
+      "publishedAt": "2018-04-13T16:18:38Z",
+      "duration": "PT2M28S",
+      "viewCount": 1217,
+      "likeCount": 39,
+      "commentCount": 0,
+      "tags": [
+        "KTV 국민방송",
+        "한국정책방송 KTV",
+        "에이핑크",
+        "apink",
+        "박초롱",
+        "정은지",
+        "윤보미",
+        "김남주",
+        "손나은",
+        "오하영"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": "ko",
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCIMOytYIzaUpoAM2bpT4JZQ",
+      "channelName": "KTV 국민방송",
+      "collectedAt": "2025-08-20T11:39:59.069036Z"
     }
   },
   "channels": {
@@ -58,9 +88,36 @@
       "viewCount": 86009826,
       "videoCount": 16390,
       "lastUpdated": "2025-08-18T07:13:35.065301Z"
+    },
+    "UCIMOytYIzaUpoAM2bpT4JZQ": {
+      "channelId": "UCIMOytYIzaUpoAM2bpT4JZQ",
+      "channelName": "KTV 국민방송",
+      "channelUrl": "@ktv_korea",
+      "channelDescription": "이재명 정부 국정소식, 정책정보, 정부브리핑 등을 실시간으로 소개해드립니다\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/C8SZ5Na4t2ExtMRDMXKbHJtoiC_2u30a4TjVoHpg4xLH0z2jUVntFrpGt26OXfkBHxuwjq8xTOk=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/C8SZ5Na4t2ExtMRDMXKbHJtoiC_2u30a4TjVoHpg4xLH0z2jUVntFrpGt26OXfkBHxuwjq8xTOk=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/C8SZ5Na4t2ExtMRDMXKbHJtoiC_2u30a4TjVoHpg4xLH0z2jUVntFrpGt26OXfkBHxuwjq8xTOk=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 594000,
+      "viewCount": 496166667,
+      "videoCount": 25206,
+      "lastUpdated": "2025-08-20T11:39:59.069036Z"
     }
   },
-  "lastUpdated": "2025-08-18T07:13:35.068729Z",
-  "totalVideos": 1,
-  "totalChannels": 1
+  "lastUpdated": "2025-08-20T11:39:59.070034Z",
+  "totalVideos": 2,
+  "totalChannels": 2
 }

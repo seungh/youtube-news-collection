@@ -28,7 +28,7 @@
       "liveStreamingDetails": null,
       "channelId": "UCn8WFi6pE4cJZP8MiUNGFxg",
       "channelName": "KTV NEWS",
-      "collectedAt": "2025-08-18T07:13:19.314484Z"
+      "collectedAt": "2025-08-20T11:39:23.763393Z"
     },
     "_iS7yOwwoUo": {
       "videoId": "_iS7yOwwoUo",
@@ -58,7 +58,7 @@
       "liveStreamingDetails": null,
       "channelId": "UCn8WFi6pE4cJZP8MiUNGFxg",
       "channelName": "KTV NEWS",
-      "collectedAt": "2025-08-18T07:13:19.314484Z"
+      "collectedAt": "2025-08-20T11:39:23.763393Z"
     },
     "jRHi8TAX9dA": {
       "videoId": "jRHi8TAX9dA",
@@ -77,7 +77,7 @@
       "liveStreamingDetails": null,
       "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
       "channelName": "NATV 국회방송",
-      "collectedAt": "2025-08-18T07:13:19.314484Z"
+      "collectedAt": "2025-08-20T11:39:23.764200Z"
     },
     "eR7kJrjsi6A": {
       "videoId": "eR7kJrjsi6A",
@@ -96,7 +96,30 @@
       "liveStreamingDetails": null,
       "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
       "channelName": "NATV 국회방송",
-      "collectedAt": "2025-08-18T07:13:19.314484Z"
+      "collectedAt": "2025-08-20T11:39:23.764200Z"
+    },
+    "v3MNlOMiD1I": {
+      "videoId": "v3MNlOMiD1I",
+      "title": "[LIVE] 잼카에 소환된 초대손님👀? #잼카초대석",
+      "description": "2024년 7월 20일 토요일 생중계\n#국민_옆에_이재명 #다시_뛰는_대한민국",
+      "publishedAt": "2024-07-20T13:10:10Z",
+      "duration": "PT1H32M18S",
+      "viewCount": 202571,
+      "likeCount": 37769,
+      "commentCount": 2485,
+      "tags": [],
+      "categoryId": "24",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": "en-US",
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": {
+        "actualStartTime": "2024-07-20T11:19:16Z",
+        "actualEndTime": "2024-07-20T12:51:22Z",
+        "scheduledStartTime": "2024-07-20T10:00:00Z"
+      },
+      "channelId": "UCNJM6dqu70Qr6VaseiW1Org",
+      "channelName": "이재명",
+      "collectedAt": "2025-08-20T11:39:23.765199Z"
     }
   },
   "channels": {
@@ -153,9 +176,36 @@
       "viewCount": 86003788,
       "videoCount": 16388,
       "lastUpdated": "2025-08-18T02:22:22.861159Z"
+    },
+    "UCNJM6dqu70Qr6VaseiW1Org": {
+      "channelId": "UCNJM6dqu70Qr6VaseiW1Org",
+      "channelName": "이재명",
+      "channelUrl": "@이재명tv",
+      "channelDescription": "대한민국 제21대 대통령\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/kIdZSRMagKta6GY6aiDm5asO5Cupd_HanW3xIFnBW2p8VNYI2JryJUchT4Aoy2ASM-ifq7JfyQ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/kIdZSRMagKta6GY6aiDm5asO5Cupd_HanW3xIFnBW2p8VNYI2JryJUchT4Aoy2ASM-ifq7JfyQ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/kIdZSRMagKta6GY6aiDm5asO5Cupd_HanW3xIFnBW2p8VNYI2JryJUchT4Aoy2ASM-ifq7JfyQ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 1710000,
+      "viewCount": 336974518,
+      "videoCount": 3965,
+      "lastUpdated": "2025-08-20T11:39:23.764200Z"
     }
   },
-  "lastUpdated": "2025-08-18T07:13:19.321501Z",
-  "totalVideos": 4,
-  "totalChannels": 2
+  "lastUpdated": "2025-08-20T11:39:23.765199Z",
+  "totalVideos": 5,
+  "totalChannels": 3
 }

@@ -28,7 +28,96 @@
       "liveStreamingDetails": null,
       "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
       "channelName": "NATV 국회방송",
-      "collectedAt": "2025-08-18T07:13:33.376431Z"
+      "collectedAt": "2025-08-20T11:39:58.630084Z"
+    },
+    "fJuhNbxMAkY": {
+      "videoId": "fJuhNbxMAkY",
+      "title": "한류로 물든 문화 예술의 나라! 프랑스와 경제·문화 협력 강화한다",
+      "description": "오늘 세계 속 한국에서는 문학과 사유를 사랑하는 문화예술과 낭만의 나라, 프랑스로 떠나 봅니다.\n프랑스는 유럽 서부에 위치한 나라로, 우리나라 국민들에겐 최고의 여행지로 많은 사랑을 받고 있는 나라죠.\n지난달, 문재인 대통령의 방문으로 한국과 프랑스, 두 나라의 관계가 앞으로 어떻게 발전해 나갈지 관심을 모으고 있는데요.\n최종문 주 프랑스대사와 더 자세한 이야기 나눠보겠습니다.",
+      "publishedAt": "2018-11-10T02:00:03Z",
+      "duration": "PT17M7S",
+      "viewCount": 4669,
+      "likeCount": 301,
+      "commentCount": 25,
+      "tags": [
+        "KTV",
+        "한국정책방송원",
+        "국민방송",
+        "프랑스",
+        "경제",
+        "문화",
+        "협력"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": "ko",
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCIMOytYIzaUpoAM2bpT4JZQ",
+      "channelName": "KTV 국민방송",
+      "collectedAt": "2025-08-20T11:39:58.630084Z"
+    },
+    "awa0-V3-T_M": {
+      "videoId": "awa0-V3-T_M",
+      "title": "사회적기업 문턱 낮춘다···\"일자리 10만 개 창출\"",
+      "description": "앞으로는 일자리 창출과 환경보호 등 사회적 가치를 추구하는 사회적기업의 진입 장벽이 낮아지고 지원은 강화됩니다.\n이를 통해 앞으로 5년 동안 새로운 일자리 10만 개가 창출될 전망인데요.",
+      "publishedAt": "2018-11-10T02:00:01Z",
+      "duration": "PT2M5S",
+      "viewCount": 1198,
+      "likeCount": 63,
+      "commentCount": 25,
+      "tags": [
+        "한국정책방송원",
+        "KTV",
+        "국민방송",
+        "사회적기업",
+        "문턱",
+        "일자리",
+        "10만개",
+        "창출"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": "ko",
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCIMOytYIzaUpoAM2bpT4JZQ",
+      "channelName": "KTV 국민방송",
+      "collectedAt": "2025-08-20T11:39:58.631082Z"
+    },
+    "E-l_2HenzDg": {
+      "videoId": "E-l_2HenzDg",
+      "title": "이재명x윰댕x팀세이카가 함께하는 설탕공예 (2018 경기 크레에이터즈 DAY)",
+      "description": "2018 경기 크레에이터즈 DAY\n#이재명 #윰댕 #팀세이카 쿠킹시연!",
+      "publishedAt": "2018-11-10T05:49:34Z",
+      "duration": "PT26M25S",
+      "viewCount": 5495,
+      "likeCount": 614,
+      "commentCount": 45,
+      "tags": [
+        "이재명",
+        "윰댕",
+        "팀세이카",
+        "이재명윰댕",
+        "윰댕이재명",
+        "크리에이터즈DAY",
+        "크리에이터즈",
+        "크리에이터즈데이",
+        "쿠킹",
+        "요리교실"
+      ],
+      "categoryId": "22",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": {
+        "actualStartTime": "2018-11-10T05:16:01Z",
+        "actualEndTime": "2018-11-10T05:42:14Z",
+        "scheduledStartTime": "2018-11-10T05:15:00Z"
+      },
+      "channelId": "UCNJM6dqu70Qr6VaseiW1Org",
+      "channelName": "이재명",
+      "collectedAt": "2025-08-20T11:39:58.631082Z"
     }
   },
   "channels": {
@@ -58,9 +147,63 @@
       "viewCount": 86009826,
       "videoCount": 16390,
       "lastUpdated": "2025-08-18T07:13:33.367579Z"
+    },
+    "UCIMOytYIzaUpoAM2bpT4JZQ": {
+      "channelId": "UCIMOytYIzaUpoAM2bpT4JZQ",
+      "channelName": "KTV 국민방송",
+      "channelUrl": "@ktv_korea",
+      "channelDescription": "이재명 정부 국정소식, 정책정보, 정부브리핑 등을 실시간으로 소개해드립니다\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/C8SZ5Na4t2ExtMRDMXKbHJtoiC_2u30a4TjVoHpg4xLH0z2jUVntFrpGt26OXfkBHxuwjq8xTOk=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/C8SZ5Na4t2ExtMRDMXKbHJtoiC_2u30a4TjVoHpg4xLH0z2jUVntFrpGt26OXfkBHxuwjq8xTOk=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/C8SZ5Na4t2ExtMRDMXKbHJtoiC_2u30a4TjVoHpg4xLH0z2jUVntFrpGt26OXfkBHxuwjq8xTOk=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 594000,
+      "viewCount": 496166667,
+      "videoCount": 25206,
+      "lastUpdated": "2025-08-20T11:39:58.630084Z"
+    },
+    "UCNJM6dqu70Qr6VaseiW1Org": {
+      "channelId": "UCNJM6dqu70Qr6VaseiW1Org",
+      "channelName": "이재명",
+      "channelUrl": "@이재명tv",
+      "channelDescription": "대한민국 제21대 대통령\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/kIdZSRMagKta6GY6aiDm5asO5Cupd_HanW3xIFnBW2p8VNYI2JryJUchT4Aoy2ASM-ifq7JfyQ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/kIdZSRMagKta6GY6aiDm5asO5Cupd_HanW3xIFnBW2p8VNYI2JryJUchT4Aoy2ASM-ifq7JfyQ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/kIdZSRMagKta6GY6aiDm5asO5Cupd_HanW3xIFnBW2p8VNYI2JryJUchT4Aoy2ASM-ifq7JfyQ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 1710000,
+      "viewCount": 336974518,
+      "videoCount": 3965,
+      "lastUpdated": "2025-08-20T11:39:58.631082Z"
     }
   },
-  "lastUpdated": "2025-08-18T07:13:33.382067Z",
-  "totalVideos": 1,
-  "totalChannels": 1
+  "lastUpdated": "2025-08-20T11:39:58.632134Z",
+  "totalVideos": 4,
+  "totalChannels": 3
 }

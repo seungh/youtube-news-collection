@@ -28,7 +28,67 @@
       "liveStreamingDetails": null,
       "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
       "channelName": "NATV 국회방송",
-      "collectedAt": "2025-08-18T07:13:46.170127Z"
+      "collectedAt": "2025-08-20T11:40:07.958938Z"
+    },
+    "btzm7wgX0l8": {
+      "videoId": "btzm7wgX0l8",
+      "title": "성남시 공보관실 행정체험 대학생 안전, 교육, 의료 공공성 UCC",
+      "description": "성남시청 공보관실에서 방학기간 중 \n대학생 아르바이트로 근무하는 학생들이 직접 기획, 제작, 편집하여 만든 UCC입니다.\n(5명이 함께 5일만에 만든 작품입니다)\n\n정말 기발하고 잘 만들어진 UCC를 시민여러분께 선물해드리고 싶습니다^^\n\n참신한 아이디어와 창의성! \n대한민국과 성남시의 미래는 청년에게 있다는 말을 증명하는 한 사례입니다",
+      "publishedAt": "2015-01-22T01:06:19Z",
+      "duration": "PT3M48S",
+      "viewCount": 1130,
+      "likeCount": 73,
+      "commentCount": 5,
+      "tags": [
+        "이재명",
+        "성남시장",
+        "이재명시장",
+        "성남시",
+        "성남",
+        "대학생",
+        "행정",
+        "체험",
+        "안전",
+        "교육"
+      ],
+      "categoryId": "22",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCNJM6dqu70Qr6VaseiW1Org",
+      "channelName": "이재명",
+      "collectedAt": "2025-08-20T11:40:07.959958Z"
+    },
+    "UUunR8eFnBU": {
+      "videoId": "UUunR8eFnBU",
+      "title": "2015 이재명 성남시장 새해인사회 초등학생 돌발질문",
+      "description": "이재명 성남시장의 새해인사회 중\n\n태평3동 초등학생의 돌발질문\n\n기차역이 너무 멀어요~~ 성남에서도 기차탈 수 있게 해주세요^^",
+      "publishedAt": "2015-01-22T01:00:14Z",
+      "duration": "PT1M46S",
+      "viewCount": 104553,
+      "likeCount": 1777,
+      "commentCount": 111,
+      "tags": [
+        "이재명",
+        "성남시장",
+        "이재명시장",
+        "성남시",
+        "성남",
+        "새해",
+        "초등학생",
+        "돌발영상",
+        "기차",
+        "은하철도999"
+      ],
+      "categoryId": "22",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCNJM6dqu70Qr6VaseiW1Org",
+      "channelName": "이재명",
+      "collectedAt": "2025-08-20T11:40:07.959958Z"
     }
   },
   "channels": {
@@ -58,9 +118,36 @@
       "viewCount": 86009826,
       "videoCount": 16390,
       "lastUpdated": "2025-08-18T07:13:46.169129Z"
+    },
+    "UCNJM6dqu70Qr6VaseiW1Org": {
+      "channelId": "UCNJM6dqu70Qr6VaseiW1Org",
+      "channelName": "이재명",
+      "channelUrl": "@이재명tv",
+      "channelDescription": "대한민국 제21대 대통령\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/kIdZSRMagKta6GY6aiDm5asO5Cupd_HanW3xIFnBW2p8VNYI2JryJUchT4Aoy2ASM-ifq7JfyQ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/kIdZSRMagKta6GY6aiDm5asO5Cupd_HanW3xIFnBW2p8VNYI2JryJUchT4Aoy2ASM-ifq7JfyQ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/kIdZSRMagKta6GY6aiDm5asO5Cupd_HanW3xIFnBW2p8VNYI2JryJUchT4Aoy2ASM-ifq7JfyQ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 1710000,
+      "viewCount": 336974518,
+      "videoCount": 3965,
+      "lastUpdated": "2025-08-20T11:40:07.959958Z"
     }
   },
-  "lastUpdated": "2025-08-18T07:13:46.170127Z",
-  "totalVideos": 1,
-  "totalChannels": 1
+  "lastUpdated": "2025-08-20T11:40:07.960933Z",
+  "totalVideos": 3,
+  "totalChannels": 2
 }

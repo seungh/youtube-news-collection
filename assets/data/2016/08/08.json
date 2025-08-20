@@ -24,7 +24,97 @@
       "liveStreamingDetails": null,
       "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
       "channelName": "NATV 국회방송",
-      "collectedAt": "2025-08-18T07:13:40.124972Z"
+      "collectedAt": "2025-08-20T11:38:51.152016Z"
+    },
+    "jHG8ujbBRSs": {
+      "videoId": "jHG8ujbBRSs",
+      "title": "[추억의 가수] 김용만 '밀양 아리랑'",
+      "description": "노래가 되살려내는 한 자락의 추억과 아련한 향수.\n젊은 남보원의 재치있는 진행과 당대 최고 가수들의 향연을 함께하시죠.\n김용만의 '밀양 아리랑'",
+      "publishedAt": "2016-08-08T08:23:54Z",
+      "duration": "PT2M3S",
+      "viewCount": 5382,
+      "likeCount": 29,
+      "commentCount": 2,
+      "tags": [
+        "문화영화",
+        "다시보는문화영화",
+        "KTV",
+        "KTV국민방송",
+        "한국정책방송원",
+        "밀양 아리랑",
+        "밀양아리랑",
+        "아리랑",
+        "밀양",
+        "김용만"
+      ],
+      "categoryId": "10",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCiFVWb1D5nJ6Cv8Jc0krAjw",
+      "channelName": "글로벌 인사이트",
+      "collectedAt": "2025-08-20T11:38:51.152016Z"
+    },
+    "A8saklfJ4kA": {
+      "videoId": "A8saklfJ4kA",
+      "title": "[추억의 가수] 최숙자 노래모음 '나룻배처녀', '삼다도소식'",
+      "description": "노래가 되살려내는 한 자락의 추억과 아련한 향수.\n젊은 남보원의 재치있는 진행과 당대 최고 가수들의 향연을 함께하시죠.\n최숙자의 '나룻배처녀',  '삼다도 소식'",
+      "publishedAt": "2016-08-08T08:21:35Z",
+      "duration": "PT1M59S",
+      "viewCount": 336178,
+      "likeCount": 1475,
+      "commentCount": 81,
+      "tags": [
+        "문화영화",
+        "다시보는문화영화",
+        "KTV",
+        "KTV국민방송",
+        "한국정책방송원",
+        "노래는 즐거워",
+        "최숙자",
+        "최숙자 노래",
+        "최숙자 음악",
+        "최숙자 노래감상"
+      ],
+      "categoryId": "10",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCiFVWb1D5nJ6Cv8Jc0krAjw",
+      "channelName": "글로벌 인사이트",
+      "collectedAt": "2025-08-20T11:38:51.152016Z"
+    },
+    "0Tdscczt_As": {
+      "videoId": "0Tdscczt_As",
+      "title": "내가 취업이 안되는 이유",
+      "description": "첨단 기술과 기발한 아이디어를 더하여 아무도 시작하지 않은 \n새로운 시장을 개척하기 위해 설립되는 벤처기업！\n김충범 총괄대표이사의 강연을 통해 한국벤처기업의 약점을 극복하고 \n세계기업과 견줄 수 있는 방법과 CEO들이 바라는 인재상을 알아보자",
+      "publishedAt": "2016-08-08T01:53:00Z",
+      "duration": "PT4M48S",
+      "viewCount": 437,
+      "likeCount": 2,
+      "commentCount": 0,
+      "tags": [
+        "KTV 국민방송",
+        "한국정책방송 KTV",
+        "김충범",
+        "취업",
+        "청년취업",
+        "청년 취업",
+        "창업",
+        "벤처기업",
+        "기업",
+        "기업 가능성"
+      ],
+      "categoryId": "26",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": "ko",
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCIMOytYIzaUpoAM2bpT4JZQ",
+      "channelName": "KTV 국민방송",
+      "collectedAt": "2025-08-20T11:38:51.154003Z"
     }
   },
   "channels": {
@@ -54,9 +144,63 @@
       "viewCount": 86009826,
       "videoCount": 16390,
       "lastUpdated": "2025-08-18T07:13:40.119683Z"
+    },
+    "UCiFVWb1D5nJ6Cv8Jc0krAjw": {
+      "channelId": "UCiFVWb1D5nJ6Cv8Jc0krAjw",
+      "channelName": "글로벌 인사이트",
+      "channelUrl": "@ktv_world",
+      "channelDescription": "전 세계 소식, 더 넓은 인사이트! 대한민국의 오늘을 전합니다.\n#외교 #안보 #글로벌 #문화 #밀리터리\n* KTV 온라인콘텐츠의 부분 발췌, 상업적 이용 등 무단 사용을 금합니다.\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/6GlSu48BFB9NIiSZoPwLPgezLbKR6pkb3EpAmR5zjKiWBmwVAqUtuABvZ3kPTr6UK15GMcm2izA=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/6GlSu48BFB9NIiSZoPwLPgezLbKR6pkb3EpAmR5zjKiWBmwVAqUtuABvZ3kPTr6UK15GMcm2izA=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/6GlSu48BFB9NIiSZoPwLPgezLbKR6pkb3EpAmR5zjKiWBmwVAqUtuABvZ3kPTr6UK15GMcm2izA=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 109000,
+      "viewCount": 42463364,
+      "videoCount": 1939,
+      "lastUpdated": "2025-08-20T11:38:51.151498Z"
+    },
+    "UCIMOytYIzaUpoAM2bpT4JZQ": {
+      "channelId": "UCIMOytYIzaUpoAM2bpT4JZQ",
+      "channelName": "KTV 국민방송",
+      "channelUrl": "@ktv_korea",
+      "channelDescription": "이재명 정부 국정소식, 정책정보, 정부브리핑 등을 실시간으로 소개해드립니다\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/C8SZ5Na4t2ExtMRDMXKbHJtoiC_2u30a4TjVoHpg4xLH0z2jUVntFrpGt26OXfkBHxuwjq8xTOk=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/C8SZ5Na4t2ExtMRDMXKbHJtoiC_2u30a4TjVoHpg4xLH0z2jUVntFrpGt26OXfkBHxuwjq8xTOk=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/C8SZ5Na4t2ExtMRDMXKbHJtoiC_2u30a4TjVoHpg4xLH0z2jUVntFrpGt26OXfkBHxuwjq8xTOk=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 594000,
+      "viewCount": 496166667,
+      "videoCount": 25206,
+      "lastUpdated": "2025-08-20T11:38:51.153009Z"
     }
   },
-  "lastUpdated": "2025-08-18T07:13:40.125969Z",
-  "totalVideos": 1,
-  "totalChannels": 1
+  "lastUpdated": "2025-08-20T11:38:51.154003Z",
+  "totalVideos": 4,
+  "totalChannels": 3
 }

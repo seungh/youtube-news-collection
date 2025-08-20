@@ -55,7 +55,7 @@
       "liveStreamingDetails": null,
       "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
       "channelName": "NATV 국회방송",
-      "collectedAt": "2025-08-18T07:13:24.409899Z"
+      "collectedAt": "2025-08-20T11:39:47.924168Z"
     },
     "AypqPlWyhQA": {
       "videoId": "AypqPlWyhQA",
@@ -74,7 +74,7 @@
       "liveStreamingDetails": null,
       "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
       "channelName": "NATV 국회방송",
-      "collectedAt": "2025-08-18T07:13:24.409899Z"
+      "collectedAt": "2025-08-20T11:39:47.924168Z"
     },
     "1V32NdT_3I4": {
       "videoId": "1V32NdT_3I4",
@@ -93,7 +93,7 @@
       "liveStreamingDetails": null,
       "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
       "channelName": "NATV 국회방송",
-      "collectedAt": "2025-08-18T07:13:24.409899Z"
+      "collectedAt": "2025-08-20T11:39:47.924168Z"
     },
     "_7VnCXaKKeo": {
       "videoId": "_7VnCXaKKeo",
@@ -127,7 +127,41 @@
       },
       "channelId": "UCn8WFi6pE4cJZP8MiUNGFxg",
       "channelName": "KTV NEWS",
-      "collectedAt": "2025-08-18T07:13:24.410906Z"
+      "collectedAt": "2025-08-20T11:39:47.923545Z"
+    },
+    "xgKaqr45a54": {
+      "videoId": "xgKaqr45a54",
+      "title": "광주 방문판매 모임 6명 추가 확진 - 코로나19 발생현황 중앙방역대책본부 브리핑 7/11(토)",
+      "description": "✔신규확진 35명···누적 1만3천373명\n✔해외유입 15명·국내발생 20명\n✔광주 방판 모임 6명 추가 확진\n✔코로나19 혈장 공여 참여자 375명\n✔혈장 제공 완료 171명\n✔5천 5백여 명 임상 역학정보 공유···9개 기관 우선 공개\n✔렘데시비르 어제까지 42명 중증환자 공급 완료\n✔국가주관시험에서 코로나19 환자 발견 없어\n✔장례 행사 지침, 서울시와 긴밀 협의\n✔감염병 관리지원단, 교육 최대 포함 노력 중\n✔렘데시비르 효과, 중앙임상위 전문 판단 필요\n✔베트남에서 디프테리아 유행\n✔디프테리아 치사율 10%···유입 가능성 있어\n\n○브리핑 전문○\n\n7월 11일 코로나바이러스감염증-19 국내 발생현황을 말씀드리겠습니다. \n\n국내 발생 신규 확진자는 20명입니다. 총 누적 확진자 수가 1만 3,373명이고, 신규로 79명이 격리해제되어서 현재 941명이 격리 중입니다. 해외유입 사례가 15명이고 어제는 사망자는 발생하지 않았습니다. \n\n국내 주요 발생현황을 말씀드리겠습니다. \n\n...",
+      "publishedAt": "2020-07-11T05:41:22Z",
+      "duration": "PT26M24S",
+      "viewCount": 8091,
+      "likeCount": 322,
+      "commentCount": 8,
+      "tags": [
+        "코로나19",
+        "신규확진자",
+        "사망자",
+        "해외유입",
+        "광주",
+        "방문판매",
+        "종교",
+        "교회",
+        "혈장",
+        "제공"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": {
+        "actualStartTime": "2020-07-11T05:07:55Z",
+        "actualEndTime": "2020-07-11T05:36:56Z",
+        "scheduledStartTime": "2020-07-11T05:10:00Z"
+      },
+      "channelId": "UCIMOytYIzaUpoAM2bpT4JZQ",
+      "channelName": "KTV 국민방송",
+      "collectedAt": "2025-08-20T11:39:47.924168Z"
     }
   },
   "channels": {
@@ -184,9 +218,36 @@
       "viewCount": 87289483,
       "videoCount": 19304,
       "lastUpdated": "2025-08-18T07:13:24.409899Z"
+    },
+    "UCIMOytYIzaUpoAM2bpT4JZQ": {
+      "channelId": "UCIMOytYIzaUpoAM2bpT4JZQ",
+      "channelName": "KTV 국민방송",
+      "channelUrl": "@ktv_korea",
+      "channelDescription": "이재명 정부 국정소식, 정책정보, 정부브리핑 등을 실시간으로 소개해드립니다\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/C8SZ5Na4t2ExtMRDMXKbHJtoiC_2u30a4TjVoHpg4xLH0z2jUVntFrpGt26OXfkBHxuwjq8xTOk=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/C8SZ5Na4t2ExtMRDMXKbHJtoiC_2u30a4TjVoHpg4xLH0z2jUVntFrpGt26OXfkBHxuwjq8xTOk=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/C8SZ5Na4t2ExtMRDMXKbHJtoiC_2u30a4TjVoHpg4xLH0z2jUVntFrpGt26OXfkBHxuwjq8xTOk=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 594000,
+      "viewCount": 496166667,
+      "videoCount": 25206,
+      "lastUpdated": "2025-08-20T11:39:47.924168Z"
     }
   },
-  "lastUpdated": "2025-08-18T07:13:24.410906Z",
-  "totalVideos": 6,
-  "totalChannels": 2
+  "lastUpdated": "2025-08-20T11:39:47.924168Z",
+  "totalVideos": 7,
+  "totalChannels": 3
 }

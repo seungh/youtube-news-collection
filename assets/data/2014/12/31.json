@@ -25,7 +25,67 @@
       "liveStreamingDetails": null,
       "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
       "channelName": "NATV 국회방송",
-      "collectedAt": "2025-08-18T07:13:46.505996Z"
+      "collectedAt": "2025-08-20T11:40:06.574740Z"
+    },
+    "lVWY-B9qP9w": {
+      "videoId": "lVWY-B9qP9w",
+      "title": "성남시 지역새마을금고 홀몸어르신 소화기 전달식",
+      "description": "겨울철 홀몸어르신 화재사고 예방을 위해\n소화기 1000개를 시청에 전달했습니다\n따뜻한 마음이 담긴 소화기는\n어르신들의 든든한 안전지킴이가 될 것입니다\n감사합니다^^",
+      "publishedAt": "2014-12-31T01:59:05Z",
+      "duration": "PT38S",
+      "viewCount": 767,
+      "likeCount": 108,
+      "commentCount": 4,
+      "tags": [
+        "이재명",
+        "성남시장",
+        "성남시",
+        "성남시청",
+        "성남",
+        "이재명시장",
+        "새마을금고",
+        "홀몸어르신",
+        "독거",
+        "소화기"
+      ],
+      "categoryId": "22",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCNJM6dqu70Qr6VaseiW1Org",
+      "channelName": "이재명",
+      "collectedAt": "2025-08-20T11:40:06.575737Z"
+    },
+    "HJVBLGH_VA8": {
+      "videoId": "HJVBLGH_VA8",
+      "title": "성남시 예술총감독 겸 성남시향 상임지휘자 금난새 성남시장 토크 콘서트",
+      "description": "성남시 예술총감독 겸 시향 상임지휘자 금난새 위촉\n- 이재명 성남시장과 토크쇼 (2014.12.23)\n\n\n\"성남시민들이 우리 마을에 문화가 있고 예술이 있기 때문에 산다는 생각을 할 수 있도록 하겠다.\" - 금난새",
+      "publishedAt": "2014-12-31T07:00:01Z",
+      "duration": "PT4M",
+      "viewCount": 3362,
+      "likeCount": 203,
+      "commentCount": 13,
+      "tags": [
+        "이재명",
+        "성남시장",
+        "성남시",
+        "성남",
+        "이재명시장",
+        "예술총감독",
+        "성남시향",
+        "지휘자",
+        "금난새",
+        "토크콘터스"
+      ],
+      "categoryId": "22",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCNJM6dqu70Qr6VaseiW1Org",
+      "channelName": "이재명",
+      "collectedAt": "2025-08-20T11:40:06.575737Z"
     }
   },
   "channels": {
@@ -55,9 +115,36 @@
       "viewCount": 86009826,
       "videoCount": 16390,
       "lastUpdated": "2025-08-18T07:13:46.498935Z"
+    },
+    "UCNJM6dqu70Qr6VaseiW1Org": {
+      "channelId": "UCNJM6dqu70Qr6VaseiW1Org",
+      "channelName": "이재명",
+      "channelUrl": "@이재명tv",
+      "channelDescription": "대한민국 제21대 대통령\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/kIdZSRMagKta6GY6aiDm5asO5Cupd_HanW3xIFnBW2p8VNYI2JryJUchT4Aoy2ASM-ifq7JfyQ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/kIdZSRMagKta6GY6aiDm5asO5Cupd_HanW3xIFnBW2p8VNYI2JryJUchT4Aoy2ASM-ifq7JfyQ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/kIdZSRMagKta6GY6aiDm5asO5Cupd_HanW3xIFnBW2p8VNYI2JryJUchT4Aoy2ASM-ifq7JfyQ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 1710000,
+      "viewCount": 336974518,
+      "videoCount": 3965,
+      "lastUpdated": "2025-08-20T11:40:06.575737Z"
     }
   },
-  "lastUpdated": "2025-08-18T07:13:46.507988Z",
-  "totalVideos": 1,
-  "totalChannels": 1
+  "lastUpdated": "2025-08-20T11:40:06.575737Z",
+  "totalVideos": 3,
+  "totalChannels": 2
 }

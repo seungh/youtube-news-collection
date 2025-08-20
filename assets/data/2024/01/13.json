@@ -28,7 +28,7 @@
       "liveStreamingDetails": null,
       "channelId": "UCn8WFi6pE4cJZP8MiUNGFxg",
       "channelName": "KTV NEWS",
-      "collectedAt": "2025-08-18T07:13:19.806065Z"
+      "collectedAt": "2025-08-20T11:39:24.689480Z"
     },
     "ytAvL4sHSc8": {
       "videoId": "ytAvL4sHSc8",
@@ -132,7 +132,7 @@
       "liveStreamingDetails": null,
       "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
       "channelName": "NATV 국회방송",
-      "collectedAt": "2025-08-18T07:13:19.806065Z"
+      "collectedAt": "2025-08-20T11:39:24.690652Z"
     },
     "ofH9YusOI7k": {
       "videoId": "ofH9YusOI7k",
@@ -162,7 +162,7 @@
       "liveStreamingDetails": null,
       "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
       "channelName": "NATV 국회방송",
-      "collectedAt": "2025-08-18T07:13:19.806065Z"
+      "collectedAt": "2025-08-20T11:39:24.690122Z"
     },
     "aSDbNqzi67o": {
       "videoId": "aSDbNqzi67o",
@@ -212,6 +212,55 @@
       "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
       "channelName": "NATV 국회방송",
       "collectedAt": "2025-08-18T02:22:24.897353Z"
+    },
+    "Lnao18Ru5nk": {
+      "videoId": "Lnao18Ru5nk",
+      "title": "배우 이정재, 최불암, 이순재 그리고 특별한 New Face들 등장! 대한민국의 활력을 위해서 윤석열 대통령 부지런히 뛰는 중! 그 유니크한 현장을 영상으로~",
+      "description": "00:00 새해 대통령과 만난 사람들\n02:50 2024년 대통령 주재 첫 국무회의\n06:40 민생토론회 제2회\n13:38 문화예술인 만남\n\n#윤석열대통령 #윤석열 #대통령실 #민생 #민생토론회 \n#이정재 #최불암 #신년음악회 #국무회의 #장관 #뉴페이스\n\n※ 본 영상의 저작권은\n영상을 게재한 개별 방송사에 있으며\n영상의 무단 복제·배포 및 재가공 등을 금합니다",
+      "publishedAt": "2024-01-13T02:11:57Z",
+      "duration": "PT18M53S",
+      "viewCount": 13924,
+      "likeCount": 1193,
+      "commentCount": 105,
+      "tags": [],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": "ko",
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCIMOytYIzaUpoAM2bpT4JZQ",
+      "channelName": "KTV 국민방송",
+      "collectedAt": "2025-08-20T11:39:24.690652Z"
+    },
+    "t0gVaJByUWk": {
+      "videoId": "t0gVaJByUWk",
+      "title": "[국정NOW] 윤 대통령의 결단. 2024년 3대 개혁은 어떻게 진행될 것인가?",
+      "description": "#윤석열 #대통령 #3대개혁 #연금 #개혁 #노동 #개혁 #교육 #개혁 #2024 #방향성 \n\n00:45 연금 개혁 왜 중요한가?\n03:25 연금 개혁은 어떤 방향으로 진행될까?\n08:11 2024 노동 개혁 무엇을 기대할 수 있나?\n10:10 교육 개혁은 방향성은?\n12:20 저출산 해결에 관한 신년사 분석은?\n\n더 이상 늦출 수 없는 3대 개혁.\n개혁은 미래의 문제이기 때문에\n현재에는 누구도 쉽게 진행하지 못했습니다.\n하지만 결국 누군가는 해야할 대업.\n지도자의 결단이 필요한 순간, 그 순간이 바로\n2024년 될 것이라 말한 윤 대통령.\n과연 3대 개혁은 어떤 방향으로 진행될까요?",
+      "publishedAt": "2024-01-13T06:37:04Z",
+      "duration": "PT15M58S",
+      "viewCount": 1239,
+      "likeCount": 172,
+      "commentCount": 39,
+      "tags": [
+        "윤석열",
+        "대통령",
+        "윤대통령",
+        "연금",
+        "개혁",
+        "연금개혁",
+        "노동",
+        "교육",
+        "윤니크",
+        "2024"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": "ko",
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCIMOytYIzaUpoAM2bpT4JZQ",
+      "channelName": "KTV 국민방송",
+      "collectedAt": "2025-08-20T11:39:24.690652Z"
     }
   },
   "channels": {
@@ -268,9 +317,36 @@
       "viewCount": 86003788,
       "videoCount": 16388,
       "lastUpdated": "2025-08-18T02:22:24.896338Z"
+    },
+    "UCIMOytYIzaUpoAM2bpT4JZQ": {
+      "channelId": "UCIMOytYIzaUpoAM2bpT4JZQ",
+      "channelName": "KTV 국민방송",
+      "channelUrl": "@ktv_korea",
+      "channelDescription": "이재명 정부 국정소식, 정책정보, 정부브리핑 등을 실시간으로 소개해드립니다\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/C8SZ5Na4t2ExtMRDMXKbHJtoiC_2u30a4TjVoHpg4xLH0z2jUVntFrpGt26OXfkBHxuwjq8xTOk=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/C8SZ5Na4t2ExtMRDMXKbHJtoiC_2u30a4TjVoHpg4xLH0z2jUVntFrpGt26OXfkBHxuwjq8xTOk=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/C8SZ5Na4t2ExtMRDMXKbHJtoiC_2u30a4TjVoHpg4xLH0z2jUVntFrpGt26OXfkBHxuwjq8xTOk=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 594000,
+      "viewCount": 496166667,
+      "videoCount": 25206,
+      "lastUpdated": "2025-08-20T11:39:24.690652Z"
     }
   },
-  "lastUpdated": "2025-08-18T07:13:19.809020Z",
-  "totalVideos": 8,
-  "totalChannels": 2
+  "lastUpdated": "2025-08-20T11:39:24.691676Z",
+  "totalVideos": 10,
+  "totalChannels": 3
 }

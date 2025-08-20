@@ -17,7 +17,7 @@
       "liveStreamingDetails": null,
       "channelId": "UCn8WFi6pE4cJZP8MiUNGFxg",
       "channelName": "KTV NEWS",
-      "collectedAt": "2025-08-18T07:13:21.443483Z"
+      "collectedAt": "2025-08-20T11:39:26.088270Z"
     },
     "c3ZbbVJmHeI": {
       "videoId": "c3ZbbVJmHeI",
@@ -115,7 +115,7 @@
       "liveStreamingDetails": null,
       "channelId": "UCn8WFi6pE4cJZP8MiUNGFxg",
       "channelName": "KTV NEWS",
-      "collectedAt": "2025-08-18T07:13:21.443483Z"
+      "collectedAt": "2025-08-20T11:39:26.088270Z"
     },
     "cLQiI1I0V7Q": {
       "videoId": "cLQiI1I0V7Q",
@@ -145,7 +145,7 @@
       "liveStreamingDetails": null,
       "channelId": "UCn8WFi6pE4cJZP8MiUNGFxg",
       "channelName": "KTV NEWS",
-      "collectedAt": "2025-08-18T07:13:21.443483Z"
+      "collectedAt": "2025-08-20T11:39:26.088270Z"
     },
     "v9kV-CmmHFo": {
       "videoId": "v9kV-CmmHFo",
@@ -167,7 +167,32 @@
       "liveStreamingDetails": null,
       "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
       "channelName": "NATV 국회방송",
-      "collectedAt": "2025-08-18T07:13:21.433996Z"
+      "collectedAt": "2025-08-20T11:39:26.088270Z"
+    },
+    "6XNDD2pCgQI": {
+      "videoId": "6XNDD2pCgQI",
+      "title": "이도운 대변인 브리핑 (23.2.19.)",
+      "description": "",
+      "publishedAt": "2023-02-19T09:23:58Z",
+      "duration": "PT2M31S",
+      "viewCount": 53619,
+      "likeCount": 10370,
+      "commentCount": 595,
+      "tags": [
+        "윤석열",
+        "대통령",
+        "20대대통령",
+        "공정",
+        "상식"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": "ko",
+      "defaultAudioLanguage": "ko",
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCcl16CxYqlbKQJVCfdhSJVw",
+      "channelName": "윤석열",
+      "collectedAt": "2025-08-20T11:39:26.089269Z"
     }
   },
   "channels": {
@@ -224,9 +249,36 @@
       "viewCount": 86003788,
       "videoCount": 16388,
       "lastUpdated": "2025-08-18T02:22:27.966498Z"
+    },
+    "UCcl16CxYqlbKQJVCfdhSJVw": {
+      "channelId": "UCcl16CxYqlbKQJVCfdhSJVw",
+      "channelName": "윤석열",
+      "channelUrl": "@sukyeol_yoon",
+      "channelDescription": "제20대 대통령 윤석열입니다.",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/Vn2wpB1HmM2E0ARHadprj2TrRWhBnkzeOhtfZ6fEEWHUnBg9YOGY_-dPUTAwUahGZg_igf9xDw=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/Vn2wpB1HmM2E0ARHadprj2TrRWhBnkzeOhtfZ6fEEWHUnBg9YOGY_-dPUTAwUahGZg_igf9xDw=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/Vn2wpB1HmM2E0ARHadprj2TrRWhBnkzeOhtfZ6fEEWHUnBg9YOGY_-dPUTAwUahGZg_igf9xDw=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 754000,
+      "viewCount": 157172619,
+      "videoCount": 3538,
+      "lastUpdated": "2025-08-20T11:39:26.089269Z"
     }
   },
-  "lastUpdated": "2025-08-18T07:13:21.446011Z",
-  "totalVideos": 7,
-  "totalChannels": 2
+  "lastUpdated": "2025-08-20T11:39:26.089269Z",
+  "totalVideos": 8,
+  "totalChannels": 3
 }

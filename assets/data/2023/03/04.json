@@ -28,7 +28,7 @@
       "liveStreamingDetails": null,
       "channelId": "UCn8WFi6pE4cJZP8MiUNGFxg",
       "channelName": "KTV NEWS",
-      "collectedAt": "2025-08-18T07:13:21.363190Z"
+      "collectedAt": "2025-08-20T11:39:25.902645Z"
     },
     "kthL3cA4wKM": {
       "videoId": "kthL3cA4wKM",
@@ -50,7 +50,26 @@
       "liveStreamingDetails": null,
       "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
       "channelName": "NATV 국회방송",
-      "collectedAt": "2025-08-18T07:13:21.362192Z"
+      "collectedAt": "2025-08-20T11:39:25.902645Z"
+    },
+    "1zDUcjFUlPk": {
+      "videoId": "1zDUcjFUlPk",
+      "title": "조국을 위해 희생과 헌신한 분들, 결코 잊지 않겠다고 이 자리에서 약속합니다. 보훈문화는 #국격입니다. #shorts",
+      "description": "",
+      "publishedAt": "2023-03-04T05:35:41Z",
+      "duration": "PT57S",
+      "viewCount": 18868,
+      "likeCount": 3419,
+      "commentCount": 153,
+      "tags": [],
+      "categoryId": "25",
+      "defaultLanguage": "ko",
+      "defaultAudioLanguage": "ko",
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCcl16CxYqlbKQJVCfdhSJVw",
+      "channelName": "윤석열",
+      "collectedAt": "2025-08-20T11:39:25.903642Z"
     }
   },
   "channels": {
@@ -107,9 +126,36 @@
       "viewCount": 86003788,
       "videoCount": 16388,
       "lastUpdated": "2025-08-18T02:22:27.881054Z"
+    },
+    "UCcl16CxYqlbKQJVCfdhSJVw": {
+      "channelId": "UCcl16CxYqlbKQJVCfdhSJVw",
+      "channelName": "윤석열",
+      "channelUrl": "@sukyeol_yoon",
+      "channelDescription": "제20대 대통령 윤석열입니다.",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/Vn2wpB1HmM2E0ARHadprj2TrRWhBnkzeOhtfZ6fEEWHUnBg9YOGY_-dPUTAwUahGZg_igf9xDw=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/Vn2wpB1HmM2E0ARHadprj2TrRWhBnkzeOhtfZ6fEEWHUnBg9YOGY_-dPUTAwUahGZg_igf9xDw=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/Vn2wpB1HmM2E0ARHadprj2TrRWhBnkzeOhtfZ6fEEWHUnBg9YOGY_-dPUTAwUahGZg_igf9xDw=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 754000,
+      "viewCount": 157172619,
+      "videoCount": 3538,
+      "lastUpdated": "2025-08-20T11:39:25.903642Z"
     }
   },
-  "lastUpdated": "2025-08-18T07:13:21.364215Z",
-  "totalVideos": 2,
-  "totalChannels": 2
+  "lastUpdated": "2025-08-20T11:39:25.903642Z",
+  "totalVideos": 3,
+  "totalChannels": 3
 }

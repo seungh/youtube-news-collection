@@ -28,7 +28,90 @@
       "liveStreamingDetails": null,
       "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
       "channelName": "NATV 국회방송",
-      "collectedAt": "2025-08-18T07:13:34.387633Z"
+      "collectedAt": "2025-08-20T11:39:58.850224Z"
+    },
+    "pE7M6vgD5I0": {
+      "videoId": "pE7M6vgD5I0",
+      "title": "시원한 박수 연발~ 문재인 대통령 싱가포르 동포간담회 모두발언 풀버전",
+      "description": "\"동포여러분 서로에게 큰 격려의 박수 한번 보내볼까요?\"\n\n인도 · 싱가포르의 순방의 마지막 일정은?\n바로~ 싱가포르 동포간담회!\n\n동포여러분에게 큰 감사의 인사를 전하며 격려의 박수를 아끼지 않았던 현장!! (감동x3 T.T)  문워크에서 전달합니다 ^^",
+      "publishedAt": "2018-07-14T08:42:49Z",
+      "duration": "PT8M34S",
+      "viewCount": 14127,
+      "likeCount": 587,
+      "commentCount": 98,
+      "tags": [
+        "문재인",
+        "싱가포르",
+        "순방",
+        "동포간담회"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": "ko",
+      "defaultAudioLanguage": "ko",
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCIMOytYIzaUpoAM2bpT4JZQ",
+      "channelName": "KTV 국민방송",
+      "collectedAt": "2025-08-20T11:39:58.851684Z"
+    },
+    "PPJZiPPs8lA": {
+      "videoId": "PPJZiPPs8lA",
+      "title": "트럼프, 김정은 친서 공개 \"다음 상봉 앞당길 것\"",
+      "description": "트럼프 미국 대통령이 김정은 북한 국무위원장에게 받은 친서를 전격 공개했습니다.김 위원장은 친서에서 트럼프 대통령과 조미관계를 향한 신뢰와 함께, 다음 정상회담에 대한 기대를 내비쳤습니다.",
+      "publishedAt": "2018-07-14T11:49:12Z",
+      "duration": "PT1M37S",
+      "viewCount": 340,
+      "likeCount": 16,
+      "commentCount": 0,
+      "tags": [
+        "KTV",
+        "국민방송",
+        "한국정책방송원",
+        "트럼프",
+        "김정은",
+        "친서",
+        "조미관계",
+        "신뢰",
+        "정상회담",
+        "기대"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": "ko",
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCIMOytYIzaUpoAM2bpT4JZQ",
+      "channelName": "KTV 국민방송",
+      "collectedAt": "2025-08-20T11:39:58.851684Z"
+    },
+    "Kx0fDKUFiZk": {
+      "videoId": "Kx0fDKUFiZk",
+      "title": "'기무사' 특별수사단 발족···다음 주 수사 착수",
+      "description": "독립적인 군 특별 수사단이 최종 구성돼 다음주부터 수사에 착수합니다.군 특별 수사단은 전익수 단장을 중심으로 해 공군 출신 군 검사와 검찰 수사관 30명을 수사 기획팀, 수사 1·2팀으로 나눠 구성하고, 주말 동안 준비를 마친 뒤 공식 업무에 들어갈 것이라고 밝혔습니다.군 특별 수사단은 법과 원칙에 따라 공정하고 철저하게 수사하겠다는 입장을 발표했습니다",
+      "publishedAt": "2018-07-14T11:45:07Z",
+      "duration": "PT30S",
+      "viewCount": 631,
+      "likeCount": 66,
+      "commentCount": 3,
+      "tags": [
+        "- KTV",
+        "국민방송",
+        "한국정책방송원",
+        "기무사",
+        "특별수사단",
+        "수사착수",
+        "공정",
+        "철저",
+        "수사"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": "ko",
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCIMOytYIzaUpoAM2bpT4JZQ",
+      "channelName": "KTV 국민방송",
+      "collectedAt": "2025-08-20T11:39:58.851684Z"
     }
   },
   "channels": {
@@ -58,9 +141,36 @@
       "viewCount": 86009826,
       "videoCount": 16390,
       "lastUpdated": "2025-08-18T07:13:34.386637Z"
+    },
+    "UCIMOytYIzaUpoAM2bpT4JZQ": {
+      "channelId": "UCIMOytYIzaUpoAM2bpT4JZQ",
+      "channelName": "KTV 국민방송",
+      "channelUrl": "@ktv_korea",
+      "channelDescription": "이재명 정부 국정소식, 정책정보, 정부브리핑 등을 실시간으로 소개해드립니다\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/C8SZ5Na4t2ExtMRDMXKbHJtoiC_2u30a4TjVoHpg4xLH0z2jUVntFrpGt26OXfkBHxuwjq8xTOk=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/C8SZ5Na4t2ExtMRDMXKbHJtoiC_2u30a4TjVoHpg4xLH0z2jUVntFrpGt26OXfkBHxuwjq8xTOk=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/C8SZ5Na4t2ExtMRDMXKbHJtoiC_2u30a4TjVoHpg4xLH0z2jUVntFrpGt26OXfkBHxuwjq8xTOk=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 594000,
+      "viewCount": 496166667,
+      "videoCount": 25206,
+      "lastUpdated": "2025-08-20T11:39:58.851684Z"
     }
   },
-  "lastUpdated": "2025-08-18T07:13:34.387633Z",
-  "totalVideos": 1,
-  "totalChannels": 1
+  "lastUpdated": "2025-08-20T11:39:58.851684Z",
+  "totalVideos": 4,
+  "totalChannels": 2
 }

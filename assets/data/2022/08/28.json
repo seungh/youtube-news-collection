@@ -28,7 +28,7 @@
       "liveStreamingDetails": null,
       "channelId": "UCn8WFi6pE4cJZP8MiUNGFxg",
       "channelName": "KTV NEWS",
-      "collectedAt": "2025-08-18T07:13:22.243024Z"
+      "collectedAt": "2025-08-20T11:39:27.456953Z"
     },
     "Y2JgRd-nMpE": {
       "videoId": "Y2JgRd-nMpE",
@@ -47,7 +47,7 @@
       "liveStreamingDetails": null,
       "channelId": "UCn8WFi6pE4cJZP8MiUNGFxg",
       "channelName": "KTV NEWS",
-      "collectedAt": "2025-08-18T07:13:22.243220Z"
+      "collectedAt": "2025-08-20T11:39:27.456953Z"
     },
     "tv8bZaIRBSo": {
       "videoId": "tv8bZaIRBSo",
@@ -66,7 +66,7 @@
       "liveStreamingDetails": null,
       "channelId": "UCn8WFi6pE4cJZP8MiUNGFxg",
       "channelName": "KTV NEWS",
-      "collectedAt": "2025-08-18T07:13:22.243220Z"
+      "collectedAt": "2025-08-20T11:39:27.456953Z"
     },
     "uXuRZBYhA2U": {
       "videoId": "uXuRZBYhA2U",
@@ -137,7 +137,62 @@
       "liveStreamingDetails": null,
       "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
       "channelName": "NATV 국회방송",
-      "collectedAt": "2025-08-18T07:13:22.241031Z"
+      "collectedAt": "2025-08-20T11:39:27.458121Z"
+    },
+    "XSL_Ssm9QRM": {
+      "videoId": "XSL_Ssm9QRM",
+      "title": "전술핵도 못 뚫는 한미 두뇌 벙커 공개┃북핵 문제에 대한 대응 방안 \"다차원적인 접근 필요하다\"",
+      "description": "이종섭 국방부 장관이 한미연합군사령부 전시지휘소 'CP 탱고'에 방문했습니다.\n\n매년 하반기 한미연합훈련의 일환으로 열리는 지휘소훈련(CPX) 현장 모습을 지난 2016년 이후 6년 만에 다시 언론에 공개한 것인데요.\n\n00:00 김용현 교수\n00:24 Q. 지금까지 우리 정부의 북핵 문제 접근 방식은?\n01:09 Q. 북핵 문제에서 한국이 주도권을 잡을 수 있을까?\n01:55 Q. 앞으로 우리 정부는 북핵 문제를 어떻게 다뤄야 하나?\n03:21 권보람 연구원\n03:38 Q. 한미 ‘두뇌’ 지하 벙커, 그 중요도는? \n04:14 Q. CP 탱고의 위력은? \n04:33 Q. 한미 연합훈련 중 CP 탱고 공개가 지닌 의미는? \n05:36 Q. 공고해진 한미동맹, 북한에 던지는 메시지는? \n\n동국대학교 북한학전공 김용현 교수,\n한국국방연구원 안보 전략 연구센터 국제전략실 권보람 연구원이 전해드립니다.\n\n\n#북핵 #지하벙커 #CP탱고 #한미동맹",
+      "publishedAt": "2022-08-28T03:27:03Z",
+      "duration": "PT6M11S",
+      "viewCount": 2671,
+      "likeCount": 67,
+      "commentCount": 11,
+      "tags": [
+        "한미연합사",
+        "한미",
+        "한국",
+        "미국",
+        "북한",
+        "안보",
+        "안보전략",
+        "벙커",
+        "지휘소훈련",
+        "CPX"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": "ko",
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCIMOytYIzaUpoAM2bpT4JZQ",
+      "channelName": "KTV 국민방송",
+      "collectedAt": "2025-08-20T11:39:27.458644Z"
+    },
+    "LmiDPeZ_pjM": {
+      "videoId": "LmiDPeZ_pjM",
+      "title": "대구 서문시장 방문",
+      "description": "",
+      "publishedAt": "2022-08-28T05:12:39Z",
+      "duration": "PT3M54S",
+      "viewCount": 30693,
+      "likeCount": 6956,
+      "commentCount": 1263,
+      "tags": [
+        "윤석열",
+        "대통령",
+        "20대대통령",
+        "공정",
+        "상식"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": "ko",
+      "defaultAudioLanguage": "ko",
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCcl16CxYqlbKQJVCfdhSJVw",
+      "channelName": "윤석열",
+      "collectedAt": "2025-08-20T11:39:27.458644Z"
     }
   },
   "channels": {
@@ -194,9 +249,63 @@
       "viewCount": 86003788,
       "videoCount": 16388,
       "lastUpdated": "2025-08-18T02:22:29.582523Z"
+    },
+    "UCIMOytYIzaUpoAM2bpT4JZQ": {
+      "channelId": "UCIMOytYIzaUpoAM2bpT4JZQ",
+      "channelName": "KTV 국민방송",
+      "channelUrl": "@ktv_korea",
+      "channelDescription": "이재명 정부 국정소식, 정책정보, 정부브리핑 등을 실시간으로 소개해드립니다\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/C8SZ5Na4t2ExtMRDMXKbHJtoiC_2u30a4TjVoHpg4xLH0z2jUVntFrpGt26OXfkBHxuwjq8xTOk=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/C8SZ5Na4t2ExtMRDMXKbHJtoiC_2u30a4TjVoHpg4xLH0z2jUVntFrpGt26OXfkBHxuwjq8xTOk=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/C8SZ5Na4t2ExtMRDMXKbHJtoiC_2u30a4TjVoHpg4xLH0z2jUVntFrpGt26OXfkBHxuwjq8xTOk=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 594000,
+      "viewCount": 496166667,
+      "videoCount": 25206,
+      "lastUpdated": "2025-08-20T11:39:27.458121Z"
+    },
+    "UCcl16CxYqlbKQJVCfdhSJVw": {
+      "channelId": "UCcl16CxYqlbKQJVCfdhSJVw",
+      "channelName": "윤석열",
+      "channelUrl": "@sukyeol_yoon",
+      "channelDescription": "제20대 대통령 윤석열입니다.",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/Vn2wpB1HmM2E0ARHadprj2TrRWhBnkzeOhtfZ6fEEWHUnBg9YOGY_-dPUTAwUahGZg_igf9xDw=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/Vn2wpB1HmM2E0ARHadprj2TrRWhBnkzeOhtfZ6fEEWHUnBg9YOGY_-dPUTAwUahGZg_igf9xDw=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/Vn2wpB1HmM2E0ARHadprj2TrRWhBnkzeOhtfZ6fEEWHUnBg9YOGY_-dPUTAwUahGZg_igf9xDw=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 754000,
+      "viewCount": 157172619,
+      "videoCount": 3538,
+      "lastUpdated": "2025-08-20T11:39:27.458644Z"
     }
   },
-  "lastUpdated": "2025-08-18T07:13:22.246014Z",
-  "totalVideos": 6,
-  "totalChannels": 2
+  "lastUpdated": "2025-08-20T11:39:27.459627Z",
+  "totalVideos": 8,
+  "totalChannels": 4
 }

@@ -28,7 +28,7 @@
       "liveStreamingDetails": null,
       "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
       "channelName": "NATV 국회방송",
-      "collectedAt": "2025-08-18T07:13:32.508742Z"
+      "collectedAt": "2025-08-20T11:39:58.191001Z"
     },
     "AoeBd9DQMKs": {
       "videoId": "AoeBd9DQMKs",
@@ -58,7 +58,37 @@
       "liveStreamingDetails": null,
       "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
       "channelName": "NATV 국회방송",
-      "collectedAt": "2025-08-18T07:13:32.508742Z"
+      "collectedAt": "2025-08-20T11:39:58.191001Z"
+    },
+    "aigQYY-nk0A": {
+      "videoId": "aigQYY-nk0A",
+      "title": "소방관이 하는일이 신의 일이라구요? 이재명 경기도지사",
+      "description": "- 도민의 생명과 안전을 지킬 새내기 소방공무원분들을 응원합니다 -\n\n15주 간의 교육과정을 끝내고 드디어 오늘 임용장을 받은 385명의 경기 소방공무원 여러분, 진심으로 축하드립니다.\n\n자신보다 다른 이의 생명과 안전을 먼저 생각하는 것은 정말 쉽지 않은 일입니다. 소방공무원은 '의로운' 직업이지만 '외로운' 직업이기도 하죠.\n\n경기도는 소방공무원들이 마음 놓고 일할 수 있도록 시설과 장비, 인력을 뒷받침할 것을 약속합니다. 소방공무원의 처우 또한 지속적으로 개선해 나갈 것입니다.\n\n1,300만 경기도민의 안전을 위해 힘써주실 소방공무원분들이 계셔 한없이 든든합니다. 자랑스러운 새내기 경기소방가족 여러분, 임용을 다시 한번 축하합니다!",
+      "publishedAt": "2018-12-22T06:02:39Z",
+      "duration": "PT2M40S",
+      "viewCount": 32701,
+      "likeCount": 2849,
+      "commentCount": 437,
+      "tags": [
+        "이재명",
+        "경기도청",
+        "경기도",
+        "이재명연설",
+        "이재명지사",
+        "경기도지사",
+        "경기도이재명",
+        "이재명경기도",
+        "경기도정",
+        "이재명경기도지사"
+      ],
+      "categoryId": "22",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCNJM6dqu70Qr6VaseiW1Org",
+      "channelName": "이재명",
+      "collectedAt": "2025-08-20T11:39:58.193730Z"
     }
   },
   "channels": {
@@ -88,9 +118,36 @@
       "viewCount": 86009826,
       "videoCount": 16390,
       "lastUpdated": "2025-08-18T07:13:32.507746Z"
+    },
+    "UCNJM6dqu70Qr6VaseiW1Org": {
+      "channelId": "UCNJM6dqu70Qr6VaseiW1Org",
+      "channelName": "이재명",
+      "channelUrl": "@이재명tv",
+      "channelDescription": "대한민국 제21대 대통령\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/kIdZSRMagKta6GY6aiDm5asO5Cupd_HanW3xIFnBW2p8VNYI2JryJUchT4Aoy2ASM-ifq7JfyQ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/kIdZSRMagKta6GY6aiDm5asO5Cupd_HanW3xIFnBW2p8VNYI2JryJUchT4Aoy2ASM-ifq7JfyQ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/kIdZSRMagKta6GY6aiDm5asO5Cupd_HanW3xIFnBW2p8VNYI2JryJUchT4Aoy2ASM-ifq7JfyQ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 1710000,
+      "viewCount": 336974518,
+      "videoCount": 3965,
+      "lastUpdated": "2025-08-20T11:39:58.193276Z"
     }
   },
-  "lastUpdated": "2025-08-18T07:13:32.508742Z",
-  "totalVideos": 2,
-  "totalChannels": 1
+  "lastUpdated": "2025-08-20T11:39:58.193730Z",
+  "totalVideos": 3,
+  "totalChannels": 2
 }

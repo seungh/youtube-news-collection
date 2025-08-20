@@ -28,7 +28,7 @@
       "liveStreamingDetails": null,
       "channelId": "UCn8WFi6pE4cJZP8MiUNGFxg",
       "channelName": "KTV NEWS",
-      "collectedAt": "2025-08-18T07:13:21.541510Z"
+      "collectedAt": "2025-08-20T11:39:26.190640Z"
     },
     "MDWobsCOK5g": {
       "videoId": "MDWobsCOK5g",
@@ -50,7 +50,37 @@
       "liveStreamingDetails": null,
       "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
       "channelName": "NATV 국회방송",
-      "collectedAt": "2025-08-18T07:13:21.539971Z"
+      "collectedAt": "2025-08-20T11:39:26.190640Z"
+    },
+    "CVbgFYqwtdY": {
+      "videoId": "CVbgFYqwtdY",
+      "title": "1958년 1월 29일 오늘 #독립문 #수축 #완료",
+      "description": "1958년 1월 29일 독립문 수축 완료\n\n이후 2월 28일, 내외귀빈과 시민들이 참석한 가운데 독립문의 수축 개소식이 엄숙하게 거행되었습니다.",
+      "publishedAt": "2023-01-29T00:00:08Z",
+      "duration": "PT31S",
+      "viewCount": 1641,
+      "likeCount": 50,
+      "commentCount": 5,
+      "tags": [
+        "개소식",
+        "독립문수축",
+        "선열추모",
+        "서대문구",
+        "독립협회",
+        "한국독립",
+        "영은문",
+        "완공",
+        "프랑스",
+        "에투알개선문"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": "ko",
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCIMOytYIzaUpoAM2bpT4JZQ",
+      "channelName": "KTV 국민방송",
+      "collectedAt": "2025-08-20T11:39:26.190640Z"
     }
   },
   "channels": {
@@ -107,9 +137,36 @@
       "viewCount": 86003788,
       "videoCount": 16388,
       "lastUpdated": "2025-08-18T02:22:28.137399Z"
+    },
+    "UCIMOytYIzaUpoAM2bpT4JZQ": {
+      "channelId": "UCIMOytYIzaUpoAM2bpT4JZQ",
+      "channelName": "KTV 국민방송",
+      "channelUrl": "@ktv_korea",
+      "channelDescription": "이재명 정부 국정소식, 정책정보, 정부브리핑 등을 실시간으로 소개해드립니다\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/C8SZ5Na4t2ExtMRDMXKbHJtoiC_2u30a4TjVoHpg4xLH0z2jUVntFrpGt26OXfkBHxuwjq8xTOk=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/C8SZ5Na4t2ExtMRDMXKbHJtoiC_2u30a4TjVoHpg4xLH0z2jUVntFrpGt26OXfkBHxuwjq8xTOk=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/C8SZ5Na4t2ExtMRDMXKbHJtoiC_2u30a4TjVoHpg4xLH0z2jUVntFrpGt26OXfkBHxuwjq8xTOk=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 594000,
+      "viewCount": 496166667,
+      "videoCount": 25206,
+      "lastUpdated": "2025-08-20T11:39:26.190640Z"
     }
   },
-  "lastUpdated": "2025-08-18T07:13:21.543499Z",
-  "totalVideos": 2,
-  "totalChannels": 2
+  "lastUpdated": "2025-08-20T11:39:26.191637Z",
+  "totalVideos": 3,
+  "totalChannels": 3
 }

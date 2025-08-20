@@ -40,7 +40,41 @@
       "liveStreamingDetails": null,
       "channelId": "UCn8WFi6pE4cJZP8MiUNGFxg",
       "channelName": "KTV NEWS",
-      "collectedAt": "2025-08-18T07:13:49.768939Z"
+      "collectedAt": "2025-08-20T11:38:29.908256Z"
+    },
+    "WeszSHuGytA": {
+      "videoId": "WeszSHuGytA",
+      "title": "WEEKLY 22회｜파나마 운하를 둘러싼 패권 전쟁, 미국 vs 중국｜AI 전력 수요 증가, 빅테크 기업 SMR 주문 폭주, 한국 영향은?",
+      "description": "📍 42회 다시보기\nhttps://www.youtube.com/live/iPym9OSZj4I?si=hFGE9KlUcgCd2Du0\n\n📍 43회 다시보기\nhttps://www.youtube.com/live/hjRd3mAcY3A?si=iVjXerVLavFbVos5",
+      "publishedAt": "2025-02-15T07:00:06Z",
+      "duration": "PT29M41S",
+      "viewCount": 494,
+      "likeCount": 29,
+      "commentCount": 3,
+      "tags": [
+        "외교",
+        "안보",
+        "글로벌인사이트",
+        "뉴스",
+        "KTV",
+        "핫이슈",
+        "해외",
+        "글로벌",
+        "K컬쳐",
+        "국방"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": {
+        "actualStartTime": "2025-02-15T07:00:06Z",
+        "actualEndTime": "2025-02-15T07:32:04Z",
+        "scheduledStartTime": "2025-02-15T07:00:00Z"
+      },
+      "channelId": "UCiFVWb1D5nJ6Cv8Jc0krAjw",
+      "channelName": "글로벌 인사이트",
+      "collectedAt": "2025-08-20T11:38:29.908256Z"
     }
   },
   "channels": {
@@ -70,9 +104,36 @@
       "viewCount": 87225174,
       "videoCount": 19299,
       "lastUpdated": "2025-08-18T02:22:20.460579Z"
+    },
+    "UCiFVWb1D5nJ6Cv8Jc0krAjw": {
+      "channelId": "UCiFVWb1D5nJ6Cv8Jc0krAjw",
+      "channelName": "글로벌 인사이트",
+      "channelUrl": "@ktv_world",
+      "channelDescription": "전 세계 소식, 더 넓은 인사이트! 대한민국의 오늘을 전합니다.\n#외교 #안보 #글로벌 #문화 #밀리터리\n* KTV 온라인콘텐츠의 부분 발췌, 상업적 이용 등 무단 사용을 금합니다.\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/6GlSu48BFB9NIiSZoPwLPgezLbKR6pkb3EpAmR5zjKiWBmwVAqUtuABvZ3kPTr6UK15GMcm2izA=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/6GlSu48BFB9NIiSZoPwLPgezLbKR6pkb3EpAmR5zjKiWBmwVAqUtuABvZ3kPTr6UK15GMcm2izA=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/6GlSu48BFB9NIiSZoPwLPgezLbKR6pkb3EpAmR5zjKiWBmwVAqUtuABvZ3kPTr6UK15GMcm2izA=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 109000,
+      "viewCount": 42463364,
+      "videoCount": 1939,
+      "lastUpdated": "2025-08-20T11:38:29.908256Z"
     }
   },
-  "lastUpdated": "2025-08-18T07:13:49.771082Z",
-  "totalVideos": 2,
-  "totalChannels": 1
+  "lastUpdated": "2025-08-20T11:38:29.908256Z",
+  "totalVideos": 3,
+  "totalChannels": 2
 }

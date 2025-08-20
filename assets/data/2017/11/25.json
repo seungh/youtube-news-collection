@@ -28,7 +28,81 @@
       "liveStreamingDetails": null,
       "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
       "channelName": "NATV 국회방송",
-      "collectedAt": "2025-08-18T07:13:36.529354Z"
+      "collectedAt": "2025-08-20T11:39:59.335701Z"
+    },
+    "qAtZ0xZO0ds": {
+      "videoId": "qAtZ0xZO0ds",
+      "title": "문재인 대통령 포항 방문, 수험생들 격려와 이재민들 위로",
+      "description": "문재인 대통령은 지진 피해를 입은 포항을 찾아 수능을 앞두고 맘 고생했을 수험생들을 격려하고 이재민들의 고충을 들으며 위로했습니다. 찾아가는 대통령의 포항 방문 현장, 문워크에서 소개합니다.",
+      "publishedAt": "2017-11-25T08:14:44Z",
+      "duration": "PT5M51S",
+      "viewCount": 26252,
+      "likeCount": 558,
+      "commentCount": 45,
+      "tags": [
+        "문워크",
+        "문재인",
+        "문재인대통령",
+        "포항",
+        "포항지진",
+        "문재인 포항",
+        "포항여고",
+        "포항 이재민",
+        "나그네",
+        "문재인 3행시"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": "ko",
+      "defaultAudioLanguage": "ko",
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCIMOytYIzaUpoAM2bpT4JZQ",
+      "channelName": "KTV 국민방송",
+      "collectedAt": "2025-08-20T11:39:59.338140Z"
+    },
+    "W8l3ne3hjF4": {
+      "videoId": "W8l3ne3hjF4",
+      "title": "문재인 대통령이 국빈방문한 우즈베키스탄 미르지요예프 대통령에게 꺼낸 한 마디는?!",
+      "description": "트럼프 미 대통령에 이어 두 번째 국빈방한을 한\n우즈베키스탄 미르지요예프 대통령 내외!\n한국과 우즈베키스탄의 수교 25주년을 맞는 뜻깊은 날인데요\n양국의 우정이 샘솟는 그 현장! 문워크에서 확인하세요",
+      "publishedAt": "2017-11-25T00:09:04Z",
+      "duration": "PT5M13S",
+      "viewCount": 188807,
+      "likeCount": 2200,
+      "commentCount": 153,
+      "tags": [],
+      "categoryId": "25",
+      "defaultLanguage": "ko",
+      "defaultAudioLanguage": "ko",
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCIMOytYIzaUpoAM2bpT4JZQ",
+      "channelName": "KTV 국민방송",
+      "collectedAt": "2025-08-20T11:39:59.338140Z"
+    },
+    "h42whlpgL-M": {
+      "videoId": "h42whlpgL-M",
+      "title": "문재인 대통령, 포항의 수험생들에게 전하는 이야기",
+      "description": "24일 포항여고를 방문한 문재인 대통령. 현장 동영상을 궁금해하는 분들이 많으셨는데요. 수험생들의 솔직한 토로, 선생님의 소회. 그리고 문 대통령이 학생들에게 따뜻하게 들려준, 바로 그 이야기입니다. \n\n전체 수능생 59만명 중 1%가 채 안되는 포항 수험생들. 그들을 위한 안전, 공정함이 더 중요하다고 생각해서 결정을 내렸다는 대통령. \n\n이 과정에서 대통령이 정말 고맙게 느낀 것은 무엇일까요. 대통령은 우리 대한민국의 희망을 어디서 찾았을까요. 영상으로 보시죠.\n\n혹시 이 영상에 포함되지 않은, '삼행시' 현장 모습이 궁금하신 분은 청와대 인스타그램을 확인해주세요. \nhttps://www.instagram.com/thebluehouse_kr/",
+      "publishedAt": "2017-11-25T03:43:10Z",
+      "duration": "PT2M31S",
+      "viewCount": 13349,
+      "likeCount": 1046,
+      "commentCount": 87,
+      "tags": [
+        "문재인",
+        "수능",
+        "포항",
+        "지진",
+        "청와대"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UC7WMB_czX5jF__5kqT4d9Ww",
+      "channelName": " 문재인정부 청와대",
+      "collectedAt": "2025-08-20T11:39:59.343759Z"
     }
   },
   "channels": {
@@ -58,9 +132,63 @@
       "viewCount": 86009826,
       "videoCount": 16390,
       "lastUpdated": "2025-08-18T07:13:36.528357Z"
+    },
+    "UCIMOytYIzaUpoAM2bpT4JZQ": {
+      "channelId": "UCIMOytYIzaUpoAM2bpT4JZQ",
+      "channelName": "KTV 국민방송",
+      "channelUrl": "@ktv_korea",
+      "channelDescription": "이재명 정부 국정소식, 정책정보, 정부브리핑 등을 실시간으로 소개해드립니다\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/C8SZ5Na4t2ExtMRDMXKbHJtoiC_2u30a4TjVoHpg4xLH0z2jUVntFrpGt26OXfkBHxuwjq8xTOk=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/C8SZ5Na4t2ExtMRDMXKbHJtoiC_2u30a4TjVoHpg4xLH0z2jUVntFrpGt26OXfkBHxuwjq8xTOk=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/C8SZ5Na4t2ExtMRDMXKbHJtoiC_2u30a4TjVoHpg4xLH0z2jUVntFrpGt26OXfkBHxuwjq8xTOk=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 594000,
+      "viewCount": 496166667,
+      "videoCount": 25206,
+      "lastUpdated": "2025-08-20T11:39:59.337144Z"
+    },
+    "UC7WMB_czX5jF__5kqT4d9Ww": {
+      "channelId": "UC7WMB_czX5jF__5kqT4d9Ww",
+      "channelName": " 문재인정부 청와대",
+      "channelUrl": "@thebluehousekr",
+      "channelDescription": " 문재인정부 청와대 공식 유튜브 채널입니다.",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/z0uFyY8invEc-QlNJod5ycMfMCwQiQlDNT4LWIyJqi4IL-XQc0F7OyYeBbJMhhaYJOs-ecL7VTo=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/z0uFyY8invEc-QlNJod5ycMfMCwQiQlDNT4LWIyJqi4IL-XQc0F7OyYeBbJMhhaYJOs-ecL7VTo=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/z0uFyY8invEc-QlNJod5ycMfMCwQiQlDNT4LWIyJqi4IL-XQc0F7OyYeBbJMhhaYJOs-ecL7VTo=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 308000,
+      "viewCount": 58715833,
+      "videoCount": 1549,
+      "lastUpdated": "2025-08-20T11:39:59.341787Z"
     }
   },
-  "lastUpdated": "2025-08-18T07:13:36.529354Z",
-  "totalVideos": 1,
-  "totalChannels": 1
+  "lastUpdated": "2025-08-20T11:39:59.343759Z",
+  "totalVideos": 4,
+  "totalChannels": 3
 }

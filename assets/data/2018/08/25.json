@@ -28,7 +28,40 @@
       "liveStreamingDetails": null,
       "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
       "channelName": "NATV 국회방송",
-      "collectedAt": "2025-08-18T07:13:34.202662Z"
+      "collectedAt": "2025-08-20T11:39:58.746356Z"
+    },
+    "ViKAOJHQxYY": {
+      "videoId": "ViKAOJHQxYY",
+      "title": "[풀영상] 이산가족상봉 명장면 다시보기 - 2018 남북이산가족상봉 2차 특별생방송 ③부",
+      "description": "[KTV Live] 제2차 이산가족상봉 명장면과 의미 - 2018 남북이산가족상봉 2차 특별생방송 ③부\n▶영상시작 바로가기 10:40\n\n✔일시: 8월25일(토) 13:00 - 14:00\n\n#남북이산가족상봉 의 역사적인 순간을\n#KTV #LIVE 로 함께해주세요😊\n24-26일 열리는 2차 상봉에서는 \n북측 방문단 83가족이 우리측 가족과 만납니다.\n\n-\n🚩 2018 남북이산가족상봉 2차 특별생방송 편성\n: 북측 방문단, 우리측 가족 상봉\n\n○ 8월25일(토) 13:00 - 14:00\n○ 8월26일(일) 14:00 - 15:00\n\n#이산가족상봉_LIVE는_KTV 😍\n\n-\n\n📌KTV SNS 바로가기\n▶페이스북 https://goo.gl/4JJZzN\n▶유튜브(1080p) https://goo.gl/7yuedv\n▶트위터 https://goo.gl/Aen58u\n▶네이버TV https://tv.naver.com/ktv\n▶TV채널 https://goo.gl/F7p7kR",
+      "publishedAt": "2018-08-25T05:45:26Z",
+      "duration": "PT1H11M31S",
+      "viewCount": 8431,
+      "likeCount": 100,
+      "commentCount": 1,
+      "tags": [
+        "KTV",
+        "KTV국민방송",
+        "한국정책방송원",
+        "KTV 라이브",
+        "국민방송",
+        "이산가족",
+        "이산가족상봉",
+        "남북이산가족상봉",
+        "남북이산가족",
+        "2차 이산가족"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": {
+        "actualStartTime": "2018-08-25T03:49:42Z",
+        "actualEndTime": "2018-08-25T05:01:14Z"
+      },
+      "channelId": "UCIMOytYIzaUpoAM2bpT4JZQ",
+      "channelName": "KTV 국민방송",
+      "collectedAt": "2025-08-20T11:39:58.750355Z"
     }
   },
   "channels": {
@@ -58,9 +91,36 @@
       "viewCount": 86009826,
       "videoCount": 16390,
       "lastUpdated": "2025-08-18T07:13:34.202662Z"
+    },
+    "UCIMOytYIzaUpoAM2bpT4JZQ": {
+      "channelId": "UCIMOytYIzaUpoAM2bpT4JZQ",
+      "channelName": "KTV 국민방송",
+      "channelUrl": "@ktv_korea",
+      "channelDescription": "이재명 정부 국정소식, 정책정보, 정부브리핑 등을 실시간으로 소개해드립니다\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/C8SZ5Na4t2ExtMRDMXKbHJtoiC_2u30a4TjVoHpg4xLH0z2jUVntFrpGt26OXfkBHxuwjq8xTOk=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/C8SZ5Na4t2ExtMRDMXKbHJtoiC_2u30a4TjVoHpg4xLH0z2jUVntFrpGt26OXfkBHxuwjq8xTOk=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/C8SZ5Na4t2ExtMRDMXKbHJtoiC_2u30a4TjVoHpg4xLH0z2jUVntFrpGt26OXfkBHxuwjq8xTOk=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 594000,
+      "viewCount": 496166667,
+      "videoCount": 25206,
+      "lastUpdated": "2025-08-20T11:39:58.746356Z"
     }
   },
-  "lastUpdated": "2025-08-18T07:13:34.203658Z",
-  "totalVideos": 1,
-  "totalChannels": 1
+  "lastUpdated": "2025-08-20T11:39:58.750355Z",
+  "totalVideos": 2,
+  "totalChannels": 2
 }

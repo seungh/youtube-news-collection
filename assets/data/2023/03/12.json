@@ -17,7 +17,7 @@
       "liveStreamingDetails": null,
       "channelId": "UCn8WFi6pE4cJZP8MiUNGFxg",
       "channelName": "KTV NEWS",
-      "collectedAt": "2025-08-18T07:13:21.313208Z"
+      "collectedAt": "2025-08-20T11:39:25.825864Z"
     },
     "g9e7S837riI": {
       "videoId": "g9e7S837riI",
@@ -36,7 +36,7 @@
       "liveStreamingDetails": null,
       "channelId": "UCn8WFi6pE4cJZP8MiUNGFxg",
       "channelName": "KTV NEWS",
-      "collectedAt": "2025-08-18T07:13:21.313208Z"
+      "collectedAt": "2025-08-20T11:39:25.825864Z"
     },
     "B_fhMAtxBH4": {
       "videoId": "B_fhMAtxBH4",
@@ -55,7 +55,7 @@
       "liveStreamingDetails": null,
       "channelId": "UCn8WFi6pE4cJZP8MiUNGFxg",
       "channelName": "KTV NEWS",
-      "collectedAt": "2025-08-18T07:13:21.313208Z"
+      "collectedAt": "2025-08-20T11:39:25.825864Z"
     },
     "s_-H3OZE4s0": {
       "videoId": "s_-H3OZE4s0",
@@ -107,7 +107,64 @@
       "liveStreamingDetails": null,
       "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
       "channelName": "NATV 국회방송",
-      "collectedAt": "2025-08-18T07:13:21.309854Z"
+      "collectedAt": "2025-08-20T11:39:25.825864Z"
+    },
+    "9yElIVszRGY": {
+      "videoId": "9yElIVszRGY",
+      "title": "노조법 개정안, 왜 이슈가 됐을까? #정말이지",
+      "description": "제대로 보는 #법 알려주는 정말 EASY!\n어려운 노조법 개정안! 더 나아질 일터를 위해 알려줄게\n\n#정말이지 #노조법 #직장인",
+      "publishedAt": "2023-03-12T12:11:15Z",
+      "duration": "PT2M36S",
+      "viewCount": 988,
+      "likeCount": 45,
+      "commentCount": 0,
+      "tags": [],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": "ko",
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCIMOytYIzaUpoAM2bpT4JZQ",
+      "channelName": "KTV 국민방송",
+      "collectedAt": "2025-08-20T11:39:25.827859Z"
+    },
+    "IDJC6W8XgYE": {
+      "videoId": "IDJC6W8XgYE",
+      "title": "#국제사회 가 바라 본 #미래지향적 한일관계, 함께 만들어 가야합니다 #한일관계 #Shorts",
+      "description": "",
+      "publishedAt": "2023-03-11T23:35:09Z",
+      "duration": "PT50S",
+      "viewCount": 17611,
+      "likeCount": 3921,
+      "commentCount": 241,
+      "tags": [],
+      "categoryId": "25",
+      "defaultLanguage": "ko",
+      "defaultAudioLanguage": "ko",
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCcl16CxYqlbKQJVCfdhSJVw",
+      "channelName": "윤석열",
+      "collectedAt": "2025-08-20T11:39:25.832785Z"
+    },
+    "JxM_QmSYSZM": {
+      "videoId": "JxM_QmSYSZM",
+      "title": "모든 #책임 은 저에게 있습니다. 윤석열 대통령의 #결단? #TheBuckStopsHere #한일관계 #김대중_오부치정신 #shorts",
+      "description": "",
+      "publishedAt": "2023-03-11T23:31:54Z",
+      "duration": "PT59S",
+      "viewCount": 214742,
+      "likeCount": 10542,
+      "commentCount": 1341,
+      "tags": [],
+      "categoryId": "25",
+      "defaultLanguage": "ko",
+      "defaultAudioLanguage": "ko",
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCcl16CxYqlbKQJVCfdhSJVw",
+      "channelName": "윤석열",
+      "collectedAt": "2025-08-20T11:39:25.832785Z"
     }
   },
   "channels": {
@@ -164,9 +221,63 @@
       "viewCount": 86003788,
       "videoCount": 16388,
       "lastUpdated": "2025-08-18T02:22:27.826392Z"
+    },
+    "UCIMOytYIzaUpoAM2bpT4JZQ": {
+      "channelId": "UCIMOytYIzaUpoAM2bpT4JZQ",
+      "channelName": "KTV 국민방송",
+      "channelUrl": "@ktv_korea",
+      "channelDescription": "이재명 정부 국정소식, 정책정보, 정부브리핑 등을 실시간으로 소개해드립니다\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/C8SZ5Na4t2ExtMRDMXKbHJtoiC_2u30a4TjVoHpg4xLH0z2jUVntFrpGt26OXfkBHxuwjq8xTOk=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/C8SZ5Na4t2ExtMRDMXKbHJtoiC_2u30a4TjVoHpg4xLH0z2jUVntFrpGt26OXfkBHxuwjq8xTOk=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/C8SZ5Na4t2ExtMRDMXKbHJtoiC_2u30a4TjVoHpg4xLH0z2jUVntFrpGt26OXfkBHxuwjq8xTOk=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 594000,
+      "viewCount": 496166667,
+      "videoCount": 25206,
+      "lastUpdated": "2025-08-20T11:39:25.827859Z"
+    },
+    "UCcl16CxYqlbKQJVCfdhSJVw": {
+      "channelId": "UCcl16CxYqlbKQJVCfdhSJVw",
+      "channelName": "윤석열",
+      "channelUrl": "@sukyeol_yoon",
+      "channelDescription": "제20대 대통령 윤석열입니다.",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/Vn2wpB1HmM2E0ARHadprj2TrRWhBnkzeOhtfZ6fEEWHUnBg9YOGY_-dPUTAwUahGZg_igf9xDw=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/Vn2wpB1HmM2E0ARHadprj2TrRWhBnkzeOhtfZ6fEEWHUnBg9YOGY_-dPUTAwUahGZg_igf9xDw=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/Vn2wpB1HmM2E0ARHadprj2TrRWhBnkzeOhtfZ6fEEWHUnBg9YOGY_-dPUTAwUahGZg_igf9xDw=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 754000,
+      "viewCount": 157172619,
+      "videoCount": 3538,
+      "lastUpdated": "2025-08-20T11:39:25.829845Z"
     }
   },
-  "lastUpdated": "2025-08-18T07:13:21.313208Z",
-  "totalVideos": 5,
-  "totalChannels": 2
+  "lastUpdated": "2025-08-20T11:39:25.832905Z",
+  "totalVideos": 8,
+  "totalChannels": 4
 }

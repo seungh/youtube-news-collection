@@ -31,7 +31,70 @@
       },
       "channelId": "UCn8WFi6pE4cJZP8MiUNGFxg",
       "channelName": "KTV NEWS",
-      "collectedAt": "2025-08-18T07:13:53.771614Z"
+      "collectedAt": "2025-08-20T11:39:49.550895Z"
+    },
+    "xnRA7ykB5zI": {
+      "videoId": "xnRA7ykB5zI",
+      "title": "이낙연 총리, 박영선 장관에게 야단맞을 뻔한 사연은? 2019 중소기업 송년연찬회",
+      "description": "12일 중소기업중앙회에서 한해를 보내는 송년연찬회를 개최하였습니다.\n이날 행사에서는 ‘2019 협동조합 대상 및 중소기업지원 우수기관’을 \n선정하고 시상했는데요.\n이낙연 총리는 축사를 통해 중소기업인들의 끊임없는 도전을 부탁하고\n정부도 힘껏 도울 것을 약속하였습니다. \n자세한 내용은 영상을 통해 확인하시죠~\n \n#이낙연 #중소기업 #박영선",
+      "publishedAt": "2019-12-15T07:19:53Z",
+      "duration": "PT7M42S",
+      "viewCount": 124582,
+      "likeCount": 3363,
+      "commentCount": 142,
+      "tags": [
+        "KTV 국민방송",
+        "한국정책방송 KTV",
+        "이낙연 총리",
+        "이낙연",
+        "박영선 장관",
+        "박영선",
+        "중소기업중앙회",
+        "중소기업",
+        "정부",
+        "정책"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": "ko",
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCIMOytYIzaUpoAM2bpT4JZQ",
+      "channelName": "KTV 국민방송",
+      "collectedAt": "2025-08-20T11:39:49.553761Z"
+    },
+    "ZlI8uJLAzYM": {
+      "videoId": "ZlI8uJLAzYM",
+      "title": "한중일, 감염병 신속대응 ‘핫라인’ 만든다 - 제12차 한중일 보건장관회의 공동선언문",
+      "description": "📌 2:07 제12차 한중일 보건장관회의 서명식 바로가기\n📌 7:01 한국 박능후 복지부 장관 공동선언사 바로가기\n\n✔한중일 보건장관, 서울서 보건협력 논의\n✔모든 사람은 최고 수준 건강 누릴 권리 있어\r\n✔ICT·빅데이터, 보건시스템 전반 효율성 제고\r\n✔감염병 유행 대응 위한 긴밀한 협력 시급\r\n✔공동행동계획 개정 통한 감염병 협력 확대 지지\r\n✔WHO사무처·아시아태평양 국가와 협력 지속\r\n✔고령인구 삶의 질 향상 위해 노력\r\n✔한중일 정상회의 제출할 고령화 공동선언문 채택\r\n\n\n●제12차 한중일 보건장관회의 공동선언문●\r\n 1. ICT를 통한 보편적 의료보장(UHC) 달성\n\r\n    우리는 2019년 UN 고위급 회의에서 채택된 UHC에 관한 정치적 선언을 지지하며, 모든 사람이 가장 높은 수준의 신체적, 정신적 건강을 누릴 권리가 있음을 다시 확인한다. 우리는 아시아 태평양 경제협력체(APEC)가 UN 고위급 회의에 제출한 “UHC 증진: 번영과 건강한 미래 (2019)”라고...",
+      "publishedAt": "2019-12-15T04:09:25Z",
+      "duration": "PT14M24S",
+      "viewCount": 2655,
+      "likeCount": 323,
+      "commentCount": 16,
+      "tags": [
+        "한중일보건장관회의",
+        "박능후복지부장관",
+        "ICT",
+        "빅데이터",
+        "핫라인",
+        "감염병",
+        "공동행동계획개정",
+        "고령인구",
+        "고령화",
+        "보건복지부"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": {
+        "actualStartTime": "2019-12-15T03:15:14Z",
+        "actualEndTime": "2019-12-15T03:36:59Z"
+      },
+      "channelId": "UCIMOytYIzaUpoAM2bpT4JZQ",
+      "channelName": "KTV 국민방송",
+      "collectedAt": "2025-08-20T11:39:49.553761Z"
     }
   },
   "channels": {
@@ -61,9 +124,36 @@
       "viewCount": 87289483,
       "videoCount": 19304,
       "lastUpdated": "2025-08-18T07:13:53.770091Z"
+    },
+    "UCIMOytYIzaUpoAM2bpT4JZQ": {
+      "channelId": "UCIMOytYIzaUpoAM2bpT4JZQ",
+      "channelName": "KTV 국민방송",
+      "channelUrl": "@ktv_korea",
+      "channelDescription": "이재명 정부 국정소식, 정책정보, 정부브리핑 등을 실시간으로 소개해드립니다\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/C8SZ5Na4t2ExtMRDMXKbHJtoiC_2u30a4TjVoHpg4xLH0z2jUVntFrpGt26OXfkBHxuwjq8xTOk=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/C8SZ5Na4t2ExtMRDMXKbHJtoiC_2u30a4TjVoHpg4xLH0z2jUVntFrpGt26OXfkBHxuwjq8xTOk=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/C8SZ5Na4t2ExtMRDMXKbHJtoiC_2u30a4TjVoHpg4xLH0z2jUVntFrpGt26OXfkBHxuwjq8xTOk=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 594000,
+      "viewCount": 496166667,
+      "videoCount": 25206,
+      "lastUpdated": "2025-08-20T11:39:49.551892Z"
     }
   },
-  "lastUpdated": "2025-08-18T07:13:53.772153Z",
-  "totalVideos": 1,
-  "totalChannels": 1
+  "lastUpdated": "2025-08-20T11:39:49.554591Z",
+  "totalVideos": 3,
+  "totalChannels": 2
 }

@@ -26,7 +26,37 @@
       "liveStreamingDetails": null,
       "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
       "channelName": "NATV 국회방송",
-      "collectedAt": "2025-08-18T07:13:45.848608Z"
+      "collectedAt": "2025-08-20T11:40:09.807763Z"
+    },
+    "xXb6wiCDmG8": {
+      "videoId": "xXb6wiCDmG8",
+      "title": "2015년 이재명 성남시장 새해인사회를 마치며",
+      "description": "지난 1. 20일부터 17일 동안 48개 동에서 ‘2015 시민과의 새해인사회’ 개최되었습니다.\n\n이번 인사회는 학생에서부터 경로당회장, 학부모대표, 주민센터 \n수강생 등 각계각층의 시민들과 다양한 의견을 주고받는 소통의 자리였습니다. \n\n올해 인사회에서는 학생들이 지방자치를 생생히 체험하기 위해 \n참여했습니다.\n\n현장행정의 강화와 시 SNS를 통한 신속한 민원처리로\n주민불편사항보다 정책제안이 늘어났습니다.\n\n성남은 앞으로도 시민 의견을 적극 반영하여\n시민이 행복한 성남을 만들겠습니다.",
+      "publishedAt": "2015-03-02T05:06:42Z",
+      "duration": "PT1M18S",
+      "viewCount": 1723,
+      "likeCount": 141,
+      "commentCount": 5,
+      "tags": [
+        "이재명",
+        "성남시장",
+        "성남시",
+        "성남",
+        "새해",
+        "인사회",
+        "새해인사회",
+        "학생",
+        "경로당",
+        "학부모"
+      ],
+      "categoryId": "22",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCNJM6dqu70Qr6VaseiW1Org",
+      "channelName": "이재명",
+      "collectedAt": "2025-08-20T11:40:09.807763Z"
     }
   },
   "channels": {
@@ -56,9 +86,36 @@
       "viewCount": 86009826,
       "videoCount": 16390,
       "lastUpdated": "2025-08-18T07:13:45.848608Z"
+    },
+    "UCNJM6dqu70Qr6VaseiW1Org": {
+      "channelId": "UCNJM6dqu70Qr6VaseiW1Org",
+      "channelName": "이재명",
+      "channelUrl": "@이재명tv",
+      "channelDescription": "대한민국 제21대 대통령\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/kIdZSRMagKta6GY6aiDm5asO5Cupd_HanW3xIFnBW2p8VNYI2JryJUchT4Aoy2ASM-ifq7JfyQ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/kIdZSRMagKta6GY6aiDm5asO5Cupd_HanW3xIFnBW2p8VNYI2JryJUchT4Aoy2ASM-ifq7JfyQ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/kIdZSRMagKta6GY6aiDm5asO5Cupd_HanW3xIFnBW2p8VNYI2JryJUchT4Aoy2ASM-ifq7JfyQ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 1710000,
+      "viewCount": 336974518,
+      "videoCount": 3965,
+      "lastUpdated": "2025-08-20T11:40:09.807763Z"
     }
   },
-  "lastUpdated": "2025-08-18T07:13:45.849627Z",
-  "totalVideos": 1,
-  "totalChannels": 1
+  "lastUpdated": "2025-08-20T11:40:09.810472Z",
+  "totalVideos": 2,
+  "totalChannels": 2
 }

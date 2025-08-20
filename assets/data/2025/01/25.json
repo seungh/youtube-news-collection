@@ -40,7 +40,71 @@
       "liveStreamingDetails": null,
       "channelId": "UCn8WFi6pE4cJZP8MiUNGFxg",
       "channelName": "KTV NEWS",
-      "collectedAt": "2025-08-18T07:13:49.999130Z"
+      "collectedAt": "2025-08-20T11:38:29.931633Z"
+    },
+    "lLcT-XpCRNM": {
+      "videoId": "lLcT-XpCRNM",
+      "title": "WEEKLY 20회｜트럼프 시대 개막, 미국 대통령 취임식 취임사 메시지와 의미｜국경 잠그는 ‘이민자의 나라’",
+      "description": "📍 38회 다시보기\nhttps://www.youtube.com/live/L5bqlDvjUSU?si=mdzeffT9gRDpt4zD\n\n📍 39회 다시보기\nhttps://www.youtube.com/live/_zmML7AvJmI?si=iP4rkxQmBZZD5uUQ\n\n#KTV #글로벌인사이트 #정혁진 #정법전\n❇️ 매주 (화), (목) 오후 3시 '글로벌 인사이트'에서 만나보세요!\n❇️ 본 내용은 제작 사정에 따라 변경될 수 있습니다",
+      "publishedAt": "2025-01-25T07:00:06Z",
+      "duration": "PT29M25S",
+      "viewCount": 223,
+      "likeCount": 19,
+      "commentCount": 2,
+      "tags": [
+        "외교",
+        "안보",
+        "글로벌인사이트",
+        "뉴스",
+        "KTV",
+        "핫이슈",
+        "해외",
+        "글로벌",
+        "K컬쳐",
+        "국방"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": {
+        "actualStartTime": "2025-01-25T07:00:06Z",
+        "actualEndTime": "2025-01-25T07:31:41Z",
+        "scheduledStartTime": "2025-01-25T07:00:00Z"
+      },
+      "channelId": "UCiFVWb1D5nJ6Cv8Jc0krAjw",
+      "channelName": "글로벌 인사이트",
+      "collectedAt": "2025-08-20T11:38:29.930636Z"
+    },
+    "GKzdONioKgM": {
+      "videoId": "GKzdONioKgM",
+      "title": "대한민국을 지켜낸 위대한 국민 여러분께",
+      "description": "설 연휴가 시작되었습니다. \n대한민국을 지켜내신 국민 여러분 고맙습니다. \n뜻깊은 명절 보내시기 바랍니다.",
+      "publishedAt": "2025-01-25T04:00:09Z",
+      "duration": "PT1M31S",
+      "viewCount": 151653,
+      "likeCount": 30058,
+      "commentCount": 4556,
+      "tags": [
+        "이재명",
+        "이재명연설",
+        "이재명 레전드",
+        "기본소득",
+        "더불어민주당",
+        "정치인",
+        "민주당",
+        "김대중",
+        "노무현",
+        "문재인"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCNJM6dqu70Qr6VaseiW1Org",
+      "channelName": "이재명",
+      "collectedAt": "2025-08-20T11:38:29.933747Z"
     }
   },
   "channels": {
@@ -70,9 +134,63 @@
       "viewCount": 87225174,
       "videoCount": 19299,
       "lastUpdated": "2025-08-18T02:22:20.625265Z"
+    },
+    "UCiFVWb1D5nJ6Cv8Jc0krAjw": {
+      "channelId": "UCiFVWb1D5nJ6Cv8Jc0krAjw",
+      "channelName": "글로벌 인사이트",
+      "channelUrl": "@ktv_world",
+      "channelDescription": "전 세계 소식, 더 넓은 인사이트! 대한민국의 오늘을 전합니다.\n#외교 #안보 #글로벌 #문화 #밀리터리\n* KTV 온라인콘텐츠의 부분 발췌, 상업적 이용 등 무단 사용을 금합니다.\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/6GlSu48BFB9NIiSZoPwLPgezLbKR6pkb3EpAmR5zjKiWBmwVAqUtuABvZ3kPTr6UK15GMcm2izA=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/6GlSu48BFB9NIiSZoPwLPgezLbKR6pkb3EpAmR5zjKiWBmwVAqUtuABvZ3kPTr6UK15GMcm2izA=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/6GlSu48BFB9NIiSZoPwLPgezLbKR6pkb3EpAmR5zjKiWBmwVAqUtuABvZ3kPTr6UK15GMcm2izA=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 109000,
+      "viewCount": 42463364,
+      "videoCount": 1939,
+      "lastUpdated": "2025-08-20T11:38:29.929561Z"
+    },
+    "UCNJM6dqu70Qr6VaseiW1Org": {
+      "channelId": "UCNJM6dqu70Qr6VaseiW1Org",
+      "channelName": "이재명",
+      "channelUrl": "@이재명tv",
+      "channelDescription": "대한민국 제21대 대통령\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/kIdZSRMagKta6GY6aiDm5asO5Cupd_HanW3xIFnBW2p8VNYI2JryJUchT4Aoy2ASM-ifq7JfyQ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/kIdZSRMagKta6GY6aiDm5asO5Cupd_HanW3xIFnBW2p8VNYI2JryJUchT4Aoy2ASM-ifq7JfyQ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/kIdZSRMagKta6GY6aiDm5asO5Cupd_HanW3xIFnBW2p8VNYI2JryJUchT4Aoy2ASM-ifq7JfyQ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 1710000,
+      "viewCount": 336974518,
+      "videoCount": 3965,
+      "lastUpdated": "2025-08-20T11:38:29.931633Z"
     }
   },
-  "lastUpdated": "2025-08-18T07:13:50.016861Z",
-  "totalVideos": 2,
-  "totalChannels": 1
+  "lastUpdated": "2025-08-20T11:38:29.933747Z",
+  "totalVideos": 4,
+  "totalChannels": 3
 }

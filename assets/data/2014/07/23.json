@@ -1,0 +1,58 @@
+{
+  "videos": {
+    "3nEbvyi3ajA": {
+      "videoId": "3nEbvyi3ajA",
+      "title": "[KTV 국민방송]한여름 밤에 만나는 경복궁 - 경복궁 여름철 야간 특별개방",
+      "description": "무더위에 지친 국민의 심신을 달래고,\n 한여름 밤 고궁의 정취를 만끽할 수 있도록 \n\n'경복궁 여름철 야간 특별개방'을 \n7월 30일부터 8월 11일까지(8월 5일 휴관) 12일 동안 시행!\n\n1일 최대 관람인원은 1,500 명!\n\n현장 판매와 인터넷 예매로 이루어지니\n빨리 서두르세요~!",
+      "publishedAt": "2014-07-23T08:25:59Z",
+      "duration": "PT1M21S",
+      "viewCount": 84,
+      "likeCount": 0,
+      "commentCount": 0,
+      "tags": [
+        "KTV 국민방송",
+        "한국정책방송 KTV"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCIMOytYIzaUpoAM2bpT4JZQ",
+      "channelName": "KTV 국민방송",
+      "collectedAt": "2025-08-20T11:40:14.095873Z"
+    }
+  },
+  "channels": {
+    "UCIMOytYIzaUpoAM2bpT4JZQ": {
+      "channelId": "UCIMOytYIzaUpoAM2bpT4JZQ",
+      "channelName": "KTV 국민방송",
+      "channelUrl": "@ktv_korea",
+      "channelDescription": "이재명 정부 국정소식, 정책정보, 정부브리핑 등을 실시간으로 소개해드립니다\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/C8SZ5Na4t2ExtMRDMXKbHJtoiC_2u30a4TjVoHpg4xLH0z2jUVntFrpGt26OXfkBHxuwjq8xTOk=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/C8SZ5Na4t2ExtMRDMXKbHJtoiC_2u30a4TjVoHpg4xLH0z2jUVntFrpGt26OXfkBHxuwjq8xTOk=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/C8SZ5Na4t2ExtMRDMXKbHJtoiC_2u30a4TjVoHpg4xLH0z2jUVntFrpGt26OXfkBHxuwjq8xTOk=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 594000,
+      "viewCount": 496166667,
+      "videoCount": 25206,
+      "lastUpdated": "2025-08-20T11:40:14.094875Z"
+    }
+  },
+  "lastUpdated": "2025-08-20T11:40:14.095873Z",
+  "totalVideos": 1,
+  "totalChannels": 1
+}

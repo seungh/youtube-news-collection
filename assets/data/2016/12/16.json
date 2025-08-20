@@ -25,7 +25,67 @@
       "liveStreamingDetails": null,
       "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
       "channelName": "NATV 국회방송",
-      "collectedAt": "2025-08-18T07:13:38.957672Z"
+      "collectedAt": "2025-08-20T11:40:10.346355Z"
+    },
+    "v76dL6pkt-o": {
+      "videoId": "v76dL6pkt-o",
+      "title": "세상을 시작하는 당신에게, 자기관리법으로 힐링하세요!",
+      "description": "자신을 어떻게 꾸려나가고 있나요?\n오석송대표의 힘이되는 성공스토리를 들으면 조금 용기가 생길거라고 확신합니다! 세상을 넓게 보는 법.",
+      "publishedAt": "2016-12-16T06:26:40Z",
+      "duration": "PT4M46S",
+      "viewCount": 55,
+      "likeCount": 0,
+      "commentCount": 0,
+      "tags": [
+        "KTV 국민방송",
+        "한국정책방송 KTV",
+        "오석송",
+        "오석송대표",
+        "청년희망특강",
+        "청년희망특강 열려라! 청년일자리",
+        "중소기업",
+        "성공스토리",
+        "성공담",
+        "글로벌"
+      ],
+      "categoryId": "26",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": "ko",
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCIMOytYIzaUpoAM2bpT4JZQ",
+      "channelName": "KTV 국민방송",
+      "collectedAt": "2025-08-20T11:40:10.353915Z"
+    },
+    "9HGgj1-cjj0": {
+      "videoId": "9HGgj1-cjj0",
+      "title": "중소기업 쉽게 보셨나요? 시장을 지배하는 중소기업의 힘!",
+      "description": "한국의 기업 중, 중소기업이 차지하는 비율은 무려 99%!!!!\n대기업이 시장을 지배하고 있는 우리나라에서 중소기업이 살아남기란 매우 힘든 일이죠\n하지만 최근, 대중에게 잘 알려지지는 않았지만, 각 분야 별 시장을 지배하고 있는 중소기업들이 늘고 있습니다!!",
+      "publishedAt": "2016-12-16T06:16:39Z",
+      "duration": "PT36M36S",
+      "viewCount": 90,
+      "likeCount": 1,
+      "commentCount": 0,
+      "tags": [
+        "KTV 국민방송",
+        "한국정책방송 KTV",
+        "중소기업",
+        "오석송",
+        "글로벌",
+        "메타바이오메드",
+        "오석송대표",
+        "중소기업 취업",
+        "창업",
+        "성공기"
+      ],
+      "categoryId": "22",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": "ko",
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCIMOytYIzaUpoAM2bpT4JZQ",
+      "channelName": "KTV 국민방송",
+      "collectedAt": "2025-08-20T11:40:10.353915Z"
     }
   },
   "channels": {
@@ -55,9 +115,36 @@
       "viewCount": 86009826,
       "videoCount": 16390,
       "lastUpdated": "2025-08-18T07:13:38.940562Z"
+    },
+    "UCIMOytYIzaUpoAM2bpT4JZQ": {
+      "channelId": "UCIMOytYIzaUpoAM2bpT4JZQ",
+      "channelName": "KTV 국민방송",
+      "channelUrl": "@ktv_korea",
+      "channelDescription": "이재명 정부 국정소식, 정책정보, 정부브리핑 등을 실시간으로 소개해드립니다\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/C8SZ5Na4t2ExtMRDMXKbHJtoiC_2u30a4TjVoHpg4xLH0z2jUVntFrpGt26OXfkBHxuwjq8xTOk=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/C8SZ5Na4t2ExtMRDMXKbHJtoiC_2u30a4TjVoHpg4xLH0z2jUVntFrpGt26OXfkBHxuwjq8xTOk=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/C8SZ5Na4t2ExtMRDMXKbHJtoiC_2u30a4TjVoHpg4xLH0z2jUVntFrpGt26OXfkBHxuwjq8xTOk=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 594000,
+      "viewCount": 496166667,
+      "videoCount": 25206,
+      "lastUpdated": "2025-08-20T11:40:10.346355Z"
     }
   },
-  "lastUpdated": "2025-08-18T07:13:38.974067Z",
-  "totalVideos": 1,
-  "totalChannels": 1
+  "lastUpdated": "2025-08-20T11:40:10.354912Z",
+  "totalVideos": 3,
+  "totalChannels": 2
 }

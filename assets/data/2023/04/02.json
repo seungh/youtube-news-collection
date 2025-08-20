@@ -36,7 +36,7 @@
       "liveStreamingDetails": null,
       "channelId": "UCn8WFi6pE4cJZP8MiUNGFxg",
       "channelName": "KTV NEWS",
-      "collectedAt": "2025-08-18T07:13:21.216065Z"
+      "collectedAt": "2025-08-20T11:39:00.862159Z"
     },
     "H31J0bd5-4E": {
       "videoId": "H31J0bd5-4E",
@@ -55,7 +55,7 @@
       "liveStreamingDetails": null,
       "channelId": "UCn8WFi6pE4cJZP8MiUNGFxg",
       "channelName": "KTV NEWS",
-      "collectedAt": "2025-08-18T07:13:21.216065Z"
+      "collectedAt": "2025-08-20T11:39:00.862159Z"
     },
     "AkkoL1gxHJI": {
       "videoId": "AkkoL1gxHJI",
@@ -115,7 +115,7 @@
       "liveStreamingDetails": null,
       "channelId": "UCn8WFi6pE4cJZP8MiUNGFxg",
       "channelName": "KTV NEWS",
-      "collectedAt": "2025-08-18T07:13:21.216065Z"
+      "collectedAt": "2025-08-20T11:39:00.862159Z"
     },
     "xVVGRtEZ104": {
       "videoId": "xVVGRtEZ104",
@@ -137,7 +137,78 @@
       "liveStreamingDetails": null,
       "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
       "channelName": "NATV 국회방송",
-      "collectedAt": "2025-08-18T07:13:21.204634Z"
+      "collectedAt": "2025-08-20T11:39:00.865671Z"
+    },
+    "3pDVSNl-bI4": {
+      "videoId": "3pDVSNl-bI4",
+      "title": "대구·순천시민, 전남도민 여러분 감사드립니다! [이도운 대변인 브리핑(23.4.2.)] #프로야구 #대통령시구 #전남 #순천 #대구",
+      "description": "",
+      "publishedAt": "2023-04-02T08:41:38Z",
+      "duration": "PT1M30S",
+      "viewCount": 25000,
+      "likeCount": 5326,
+      "commentCount": 356,
+      "tags": [
+        "윤석열",
+        "대통령",
+        "대통령실",
+        "대통령실 채널",
+        "윤석열 유튜브",
+        "대한민국 대통령실"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": "ko",
+      "defaultAudioLanguage": "ko",
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCcl16CxYqlbKQJVCfdhSJVw",
+      "channelName": "윤석열",
+      "collectedAt": "2025-08-20T11:39:00.866200Z"
+    },
+    "n4Kipxyk40Y": {
+      "videoId": "n4Kipxyk40Y",
+      "title": "#역대급_돌직구! 윤 대통령 직구의 원 포인트 레슨?! #비하인드 #프로야구 #shorts",
+      "description": "",
+      "publishedAt": "2023-04-02T12:15:23Z",
+      "duration": "PT59S",
+      "viewCount": 51486,
+      "likeCount": 5590,
+      "commentCount": 326,
+      "tags": [],
+      "categoryId": "25",
+      "defaultLanguage": "ko",
+      "defaultAudioLanguage": "ko",
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCcl16CxYqlbKQJVCfdhSJVw",
+      "channelName": "윤석열",
+      "collectedAt": "2025-08-20T11:39:00.866200Z"
+    },
+    "xiJZqsx753U": {
+      "videoId": "xiJZqsx753U",
+      "title": "전통시장을 하나의 문화상품으로 발전시킬 것! [대구 서문시장 100주년 기념식]",
+      "description": "",
+      "publishedAt": "2023-04-01T15:01:41Z",
+      "duration": "PT6M55S",
+      "viewCount": 165048,
+      "likeCount": 18475,
+      "commentCount": 1752,
+      "tags": [
+        "윤석열",
+        "대통령",
+        "대통령실",
+        "대통령실 채널",
+        "윤석열 유튜브",
+        "대한민국 대통령실"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": "ko",
+      "defaultAudioLanguage": "ko",
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCcl16CxYqlbKQJVCfdhSJVw",
+      "channelName": "윤석열",
+      "collectedAt": "2025-08-20T11:39:00.866200Z"
     }
   },
   "channels": {
@@ -194,9 +265,36 @@
       "viewCount": 86003788,
       "videoCount": 16388,
       "lastUpdated": "2025-08-18T02:22:27.512896Z"
+    },
+    "UCcl16CxYqlbKQJVCfdhSJVw": {
+      "channelId": "UCcl16CxYqlbKQJVCfdhSJVw",
+      "channelName": "윤석열",
+      "channelUrl": "@sukyeol_yoon",
+      "channelDescription": "제20대 대통령 윤석열입니다.",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/Vn2wpB1HmM2E0ARHadprj2TrRWhBnkzeOhtfZ6fEEWHUnBg9YOGY_-dPUTAwUahGZg_igf9xDw=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/Vn2wpB1HmM2E0ARHadprj2TrRWhBnkzeOhtfZ6fEEWHUnBg9YOGY_-dPUTAwUahGZg_igf9xDw=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/Vn2wpB1HmM2E0ARHadprj2TrRWhBnkzeOhtfZ6fEEWHUnBg9YOGY_-dPUTAwUahGZg_igf9xDw=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 754000,
+      "viewCount": 157172619,
+      "videoCount": 3538,
+      "lastUpdated": "2025-08-20T11:39:00.865671Z"
     }
   },
-  "lastUpdated": "2025-08-18T07:13:21.222056Z",
-  "totalVideos": 6,
-  "totalChannels": 2
+  "lastUpdated": "2025-08-20T11:39:00.866200Z",
+  "totalVideos": 9,
+  "totalChannels": 3
 }

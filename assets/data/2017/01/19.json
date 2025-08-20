@@ -1,0 +1,66 @@
+{
+  "videos": {
+    "Bt0nKYTUQ0Y": {
+      "videoId": "Bt0nKYTUQ0Y",
+      "title": "쌀쌀한 겨울밤, 해금과 피아노소리에 빠져보세요!",
+      "description": "도라지타령에 의한 '흰꽃'\n동서양의 조화, 겨울밤을 따뜻하게 만들어주는\n해금과 피아노소리를 KTV와 함께 감상해보세요!",
+      "publishedAt": "2017-01-19T12:34:37Z",
+      "duration": "PT7M20S",
+      "viewCount": 550,
+      "likeCount": 3,
+      "commentCount": 1,
+      "tags": [
+        "KTV 국민방송",
+        "한국정책방송 KTV",
+        "도라지타령에 의한 흰꽃",
+        "해금",
+        "피아노",
+        "해금과 피아노",
+        "동서양",
+        "퓨전 음악",
+        "퓨전 전통음악",
+        "국악콘서트 울림"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": "ko",
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCIMOytYIzaUpoAM2bpT4JZQ",
+      "channelName": "KTV 국민방송",
+      "collectedAt": "2025-08-20T11:40:17.761502Z"
+    }
+  },
+  "channels": {
+    "UCIMOytYIzaUpoAM2bpT4JZQ": {
+      "channelId": "UCIMOytYIzaUpoAM2bpT4JZQ",
+      "channelName": "KTV 국민방송",
+      "channelUrl": "@ktv_korea",
+      "channelDescription": "이재명 정부 국정소식, 정책정보, 정부브리핑 등을 실시간으로 소개해드립니다\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/C8SZ5Na4t2ExtMRDMXKbHJtoiC_2u30a4TjVoHpg4xLH0z2jUVntFrpGt26OXfkBHxuwjq8xTOk=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/C8SZ5Na4t2ExtMRDMXKbHJtoiC_2u30a4TjVoHpg4xLH0z2jUVntFrpGt26OXfkBHxuwjq8xTOk=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/C8SZ5Na4t2ExtMRDMXKbHJtoiC_2u30a4TjVoHpg4xLH0z2jUVntFrpGt26OXfkBHxuwjq8xTOk=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 594000,
+      "viewCount": 496166667,
+      "videoCount": 25206,
+      "lastUpdated": "2025-08-20T11:40:17.761502Z"
+    }
+  },
+  "lastUpdated": "2025-08-20T11:40:17.815749Z",
+  "totalVideos": 1,
+  "totalChannels": 1
+}

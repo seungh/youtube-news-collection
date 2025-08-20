@@ -1,0 +1,66 @@
+{
+  "videos": {
+    "BPcbEwRjaG8": {
+      "videoId": "BPcbEwRjaG8",
+      "title": "[KTV 어울림콘서트]   노래하는 낭만반상회  - 인천 청라지구 호반베르디움 2단지 편",
+      "description": "KTV 어울림 콘서트 '노래하는 낭만반상회'\n\n오늘은 서울 은평뉴타운 인천 청라지구 호반베르디움 2단지 주민들과 함께합니다.\n\n사랑이 넘치는 음악 토크 콘서트 '노래하는 낭만반상회'\n\n11월 14일 금요일 1시 5분 여러분의 많은 시청 바랍니다.",
+      "publishedAt": "2014-11-12T01:40:11Z",
+      "duration": "PT6M19S",
+      "viewCount": 326,
+      "likeCount": 2,
+      "commentCount": 0,
+      "tags": [
+        "KTV 국민방송",
+        "한국정책방송 KTV",
+        "SBS",
+        "SBS 공채 개그맨 SBS 공채 개그맨 사륜구동",
+        "사륜구동",
+        "서울 번동 주공 3단지",
+        "주공 3단지 어울림콘서트",
+        "콘서트 노래하는 낭만반상회",
+        "반상회",
+        "제니스"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": "ko",
+      "defaultAudioLanguage": "ko",
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCIMOytYIzaUpoAM2bpT4JZQ",
+      "channelName": "KTV 국민방송",
+      "collectedAt": "2025-08-20T11:40:13.617011Z"
+    }
+  },
+  "channels": {
+    "UCIMOytYIzaUpoAM2bpT4JZQ": {
+      "channelId": "UCIMOytYIzaUpoAM2bpT4JZQ",
+      "channelName": "KTV 국민방송",
+      "channelUrl": "@ktv_korea",
+      "channelDescription": "이재명 정부 국정소식, 정책정보, 정부브리핑 등을 실시간으로 소개해드립니다\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/C8SZ5Na4t2ExtMRDMXKbHJtoiC_2u30a4TjVoHpg4xLH0z2jUVntFrpGt26OXfkBHxuwjq8xTOk=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/C8SZ5Na4t2ExtMRDMXKbHJtoiC_2u30a4TjVoHpg4xLH0z2jUVntFrpGt26OXfkBHxuwjq8xTOk=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/C8SZ5Na4t2ExtMRDMXKbHJtoiC_2u30a4TjVoHpg4xLH0z2jUVntFrpGt26OXfkBHxuwjq8xTOk=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 594000,
+      "viewCount": 496166667,
+      "videoCount": 25206,
+      "lastUpdated": "2025-08-20T11:40:13.617011Z"
+    }
+  },
+  "lastUpdated": "2025-08-20T11:40:13.618008Z",
+  "totalVideos": 1,
+  "totalChannels": 1
+}

@@ -1,0 +1,66 @@
+{
+  "videos": {
+    "9HN9DtUPFXo": {
+      "videoId": "9HN9DtUPFXo",
+      "title": "[KTV 어울림콘서트6회 노래하는 낭만반상회] - 서울 강북구 번동 주공3단지 편",
+      "description": "운치 좋은 가을날, 서울 강북구 번동 주공 3단지 아파트 주민과 함께하는 음악 토크 콘서트!\n\n- 진행 : SBS 공채 개그맨 사륜구동 \n- 출연 : 제니스 (세계 아카펠라 대회 1등 그룹)\n- 장소 : 서울 강북구 번동 주공 3단지 아파트\n\n아름다운 아카펠라의 선율 함께 들어볼까요?",
+      "publishedAt": "2014-10-31T01:28:45Z",
+      "duration": "PT17S",
+      "viewCount": 251,
+      "likeCount": 1,
+      "commentCount": 0,
+      "tags": [
+        "KTV 국민방송",
+        "한국정책방송 KTV",
+        "SBS",
+        "SBS공채개그맨",
+        "사륜구동",
+        "주공아파트",
+        "어울림콘서트",
+        "콘서트",
+        "가을",
+        "낭만반상회"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCIMOytYIzaUpoAM2bpT4JZQ",
+      "channelName": "KTV 국민방송",
+      "collectedAt": "2025-08-20T11:40:13.624732Z"
+    }
+  },
+  "channels": {
+    "UCIMOytYIzaUpoAM2bpT4JZQ": {
+      "channelId": "UCIMOytYIzaUpoAM2bpT4JZQ",
+      "channelName": "KTV 국민방송",
+      "channelUrl": "@ktv_korea",
+      "channelDescription": "이재명 정부 국정소식, 정책정보, 정부브리핑 등을 실시간으로 소개해드립니다\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/C8SZ5Na4t2ExtMRDMXKbHJtoiC_2u30a4TjVoHpg4xLH0z2jUVntFrpGt26OXfkBHxuwjq8xTOk=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/C8SZ5Na4t2ExtMRDMXKbHJtoiC_2u30a4TjVoHpg4xLH0z2jUVntFrpGt26OXfkBHxuwjq8xTOk=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/C8SZ5Na4t2ExtMRDMXKbHJtoiC_2u30a4TjVoHpg4xLH0z2jUVntFrpGt26OXfkBHxuwjq8xTOk=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 594000,
+      "viewCount": 496166667,
+      "videoCount": 25206,
+      "lastUpdated": "2025-08-20T11:40:13.624732Z"
+    }
+  },
+  "lastUpdated": "2025-08-20T11:40:13.624732Z",
+  "totalVideos": 1,
+  "totalChannels": 1
+}

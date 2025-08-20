@@ -21,7 +21,7 @@
       "liveStreamingDetails": null,
       "channelId": "UCn8WFi6pE4cJZP8MiUNGFxg",
       "channelName": "KTV NEWS",
-      "collectedAt": "2025-08-18T07:13:49.665611Z"
+      "collectedAt": "2025-08-20T11:39:16.345409Z"
     },
     "fC5FDodVfv0": {
       "videoId": "fC5FDodVfv0",
@@ -63,7 +63,7 @@
       "liveStreamingDetails": null,
       "channelId": "UCn8WFi6pE4cJZP8MiUNGFxg",
       "channelName": "KTV NEWS",
-      "collectedAt": "2025-08-18T07:13:49.665611Z"
+      "collectedAt": "2025-08-20T11:39:16.345409Z"
     },
     "D28ecY7NEiA": {
       "videoId": "D28ecY7NEiA",
@@ -86,7 +86,7 @@
       "liveStreamingDetails": null,
       "channelId": "UCn8WFi6pE4cJZP8MiUNGFxg",
       "channelName": "KTV NEWS",
-      "collectedAt": "2025-08-18T07:13:49.665611Z"
+      "collectedAt": "2025-08-20T11:39:16.345409Z"
     },
     "imFRNTtG76s": {
       "videoId": "imFRNTtG76s",
@@ -1743,6 +1743,70 @@
       "channelId": "UCfq4V1DAuaojnr2ryvWNysw",
       "channelName": "채널A News",
       "collectedAt": "2025-08-18T08:07:08.309032Z"
+    },
+    "zeDktBKZlK8": {
+      "videoId": "zeDktBKZlK8",
+      "title": "국민 여러분과 다시 만날 세계를 기다리며",
+      "description": "#광화문 #이재명 #다만세",
+      "publishedAt": "2025-03-09T13:48:07Z",
+      "duration": "PT2M8S",
+      "viewCount": 22924,
+      "likeCount": 7494,
+      "commentCount": 609,
+      "tags": [
+        "이재명",
+        "이재명연설",
+        "이재명 레전드",
+        "기본소득",
+        "더불어민주당",
+        "정치인",
+        "민주당",
+        "김대중",
+        "노무현",
+        "문재인"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCNJM6dqu70Qr6VaseiW1Org",
+      "channelName": "이재명",
+      "collectedAt": "2025-08-20T11:39:16.345409Z"
+    },
+    "8ryF-BxWZo4": {
+      "videoId": "8ryF-BxWZo4",
+      "title": "[LIVE] 야5당대표 비상시국 공동대응을 위한 원탁회의",
+      "description": "",
+      "publishedAt": "2025-03-09T06:22:02Z",
+      "duration": "PT19M1S",
+      "viewCount": 83027,
+      "likeCount": 15325,
+      "commentCount": 1081,
+      "tags": [
+        "이재명",
+        "이재명연설",
+        "이재명 레전드",
+        "기본소득",
+        "더불어민주당",
+        "정치인",
+        "민주당",
+        "김대중",
+        "노무현",
+        "문재인"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": "ko",
+      "defaultAudioLanguage": "ko",
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": {
+        "actualStartTime": "2025-03-09T05:59:31Z",
+        "actualEndTime": "2025-03-09T06:18:28Z",
+        "scheduledStartTime": "2025-03-09T06:00:00Z"
+      },
+      "channelId": "UCNJM6dqu70Qr6VaseiW1Org",
+      "channelName": "이재명",
+      "collectedAt": "2025-08-20T11:39:16.345409Z"
     }
   },
   "channels": {
@@ -1799,9 +1863,36 @@
       "viewCount": 6174114224,
       "videoCount": 142651,
       "lastUpdated": "2025-08-18T08:07:08.301042Z"
+    },
+    "UCNJM6dqu70Qr6VaseiW1Org": {
+      "channelId": "UCNJM6dqu70Qr6VaseiW1Org",
+      "channelName": "이재명",
+      "channelUrl": "@이재명tv",
+      "channelDescription": "대한민국 제21대 대통령\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/kIdZSRMagKta6GY6aiDm5asO5Cupd_HanW3xIFnBW2p8VNYI2JryJUchT4Aoy2ASM-ifq7JfyQ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/kIdZSRMagKta6GY6aiDm5asO5Cupd_HanW3xIFnBW2p8VNYI2JryJUchT4Aoy2ASM-ifq7JfyQ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/kIdZSRMagKta6GY6aiDm5asO5Cupd_HanW3xIFnBW2p8VNYI2JryJUchT4Aoy2ASM-ifq7JfyQ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 1710000,
+      "viewCount": 336974518,
+      "videoCount": 3965,
+      "lastUpdated": "2025-08-20T11:39:16.345409Z"
     }
   },
-  "lastUpdated": "2025-08-18T08:07:08.311016Z",
-  "totalVideos": 61,
-  "totalChannels": 2
+  "lastUpdated": "2025-08-20T11:39:16.345409Z",
+  "totalVideos": 63,
+  "totalChannels": 3
 }

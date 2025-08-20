@@ -18884,6 +18884,36 @@
       "channelId": "UCG9aFJTZ-lMCHAiO1KJsirg",
       "channelName": "MBN News",
       "collectedAt": "2025-08-18T02:22:08.678898Z"
+    },
+    "xQc87vOwV9U": {
+      "videoId": "xQc87vOwV9U",
+      "title": "중국산 가짜 정수기 필터 밀반입! 관세청 ‘강력 단속’ 관세청, 민생 범죄와의 전쟁 시작",
+      "description": "#뉴스 #이슈\n#가짜필터 #정수기필터 #중국산모조품\n#관세청 #민생범죄 #밀수단속 #국경단속\n#건강위협 #중금속 #뉴스 #시사 #정책뉴스 #사회이슈\n#정부정책 #정부지원 #지원금",
+      "publishedAt": "2025-08-16T23:50:00Z",
+      "duration": "PT1M1S",
+      "viewCount": 8525,
+      "likeCount": 223,
+      "commentCount": 5,
+      "tags": [
+        "가짜필터",
+        "정수기필터",
+        "중국산모조품",
+        "관세청",
+        "민생범죄",
+        "밀수단속",
+        "국경단속",
+        "건강위협",
+        "중금속",
+        "뉴스"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": "ko",
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCIMOytYIzaUpoAM2bpT4JZQ",
+      "channelName": "KTV 국민방송",
+      "collectedAt": "2025-08-20T11:38:51.945958Z"
     }
   },
   "channels": {
@@ -19129,9 +19159,36 @@
       "viewCount": 24119897882,
       "videoCount": 331518,
       "lastUpdated": "2025-08-18T02:22:08.667921Z"
+    },
+    "UCIMOytYIzaUpoAM2bpT4JZQ": {
+      "channelId": "UCIMOytYIzaUpoAM2bpT4JZQ",
+      "channelName": "KTV 국민방송",
+      "channelUrl": "@ktv_korea",
+      "channelDescription": "이재명 정부 국정소식, 정책정보, 정부브리핑 등을 실시간으로 소개해드립니다\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/C8SZ5Na4t2ExtMRDMXKbHJtoiC_2u30a4TjVoHpg4xLH0z2jUVntFrpGt26OXfkBHxuwjq8xTOk=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/C8SZ5Na4t2ExtMRDMXKbHJtoiC_2u30a4TjVoHpg4xLH0z2jUVntFrpGt26OXfkBHxuwjq8xTOk=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/C8SZ5Na4t2ExtMRDMXKbHJtoiC_2u30a4TjVoHpg4xLH0z2jUVntFrpGt26OXfkBHxuwjq8xTOk=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 594000,
+      "viewCount": 496166667,
+      "videoCount": 25206,
+      "lastUpdated": "2025-08-20T11:38:51.945958Z"
     }
   },
-  "lastUpdated": "2025-08-18T04:30:09.271314Z",
-  "totalVideos": 669,
-  "totalChannels": 9
+  "lastUpdated": "2025-08-20T11:38:51.949958Z",
+  "totalVideos": 670,
+  "totalChannels": 10
 }

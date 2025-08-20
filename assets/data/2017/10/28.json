@@ -1,0 +1,65 @@
+{
+  "videos": {
+    "KnFIp0PpF18": {
+      "videoId": "KnFIp0PpF18",
+      "title": "제49차 한미안보협의회의(SCM) 공동성명",
+      "description": "🎥[LIVE] 제49차 한미안보협의회의(SCM) 공동성명\n\n✔️미 전략자산 상시적 순환배치한다-한미안보협의회의 결과",
+      "publishedAt": "2017-10-28T04:14:09Z",
+      "duration": "PT46M59S",
+      "viewCount": 1582,
+      "likeCount": 44,
+      "commentCount": 1,
+      "tags": [
+        "KTV국민방송",
+        "한국정책방송KTV",
+        "한미안보협의회의",
+        "한미",
+        "한미안보",
+        "공동성명"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": {
+        "actualStartTime": "2017-10-28T02:44:20Z",
+        "actualEndTime": "2017-10-28T03:38:30Z"
+      },
+      "channelId": "UCIMOytYIzaUpoAM2bpT4JZQ",
+      "channelName": "KTV 국민방송",
+      "collectedAt": "2025-08-20T11:40:16.421975Z"
+    }
+  },
+  "channels": {
+    "UCIMOytYIzaUpoAM2bpT4JZQ": {
+      "channelId": "UCIMOytYIzaUpoAM2bpT4JZQ",
+      "channelName": "KTV 국민방송",
+      "channelUrl": "@ktv_korea",
+      "channelDescription": "이재명 정부 국정소식, 정책정보, 정부브리핑 등을 실시간으로 소개해드립니다\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/C8SZ5Na4t2ExtMRDMXKbHJtoiC_2u30a4TjVoHpg4xLH0z2jUVntFrpGt26OXfkBHxuwjq8xTOk=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/C8SZ5Na4t2ExtMRDMXKbHJtoiC_2u30a4TjVoHpg4xLH0z2jUVntFrpGt26OXfkBHxuwjq8xTOk=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/C8SZ5Na4t2ExtMRDMXKbHJtoiC_2u30a4TjVoHpg4xLH0z2jUVntFrpGt26OXfkBHxuwjq8xTOk=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 594000,
+      "viewCount": 496166667,
+      "videoCount": 25206,
+      "lastUpdated": "2025-08-20T11:40:16.418932Z"
+    }
+  },
+  "lastUpdated": "2025-08-20T11:40:16.424870Z",
+  "totalVideos": 1,
+  "totalChannels": 1
+}

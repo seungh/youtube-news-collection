@@ -24,7 +24,7 @@
       "liveStreamingDetails": null,
       "channelId": "UC88r6mA2791EXvGAruLL7ug",
       "channelName": "KFN뉴스",
-      "collectedAt": "2025-08-18T07:13:08.387942Z"
+      "collectedAt": "2025-08-20T11:39:57.167165Z"
     },
     "RgWSqH9O4uY": {
       "videoId": "RgWSqH9O4uY",
@@ -68,7 +68,31 @@
       "liveStreamingDetails": null,
       "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
       "channelName": "NATV 국회방송",
-      "collectedAt": "2025-08-18T07:13:08.388939Z"
+      "collectedAt": "2025-08-20T11:39:57.166168Z"
+    },
+    "xq7TEJD8zoc": {
+      "videoId": "xq7TEJD8zoc",
+      "title": "🇺🇿🇰🇷 김정숙 여사와 미르지요예바 여사가 국립재활원을 방문했습니다 | 우즈베키스탄 대통령 국빈방문",
+      "description": "🇺🇿🇰🇷 “김정숙 여사와 미르지요예바 여사가 국립재활원을 방문했습니다”\n\n- 김정숙 여사, 미르지요예바 여사와 ‘아리랑 요양원’ 이후 두 번째 동행\n- 국내 유일 공공재활전문 기관 ‘국립재활원’의 ‘열린제작실’과 ‘로봇재활실’ 방문 및 체험\n- 미르지요예바 여사, “스스로 걸을 수 있게 해주는 ‘엔젤릭스’ 재활 로봇에 감탄과 찬사\n- 김정숙 여사, 접견실 입구에 걸린 최차원 작가의 ‘바다거북과 산호’ 소개\n\n김정숙 여사는 어제(17일) 오전, 우즈베키스탄 미르지요예프 대통령과 함께 국빈 방문 중인 지로아트 미르지요예바 여사와 서울 강북구에 위치한 국내 유일의 공공재활전문기관, ‘국립재활원’을 방문했습니다.\n\n두 영부인의 동행은 이번이 처음이 아닙니다. 아동과 여성, 장애인 등 사회 취약계층에 대해 각별한 관심을 갖고 있는 김정숙 여사와 미르지요예바 여사는 지난 2019년 4월, 우즈베키스탄 타슈켄트의 ‘아리랑 요양원’을 함께 방문해 고려인 1세대 어르신들을 찾아뵌 적이 있습니다. 이...",
+      "publishedAt": "2021-12-18T02:39:55Z",
+      "duration": "PT5M16S",
+      "viewCount": 19526,
+      "likeCount": 2504,
+      "commentCount": 226,
+      "tags": [
+        "문재인",
+        "청와대",
+        "대통령",
+        "김정숙"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": "ko",
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UC7WMB_czX5jF__5kqT4d9Ww",
+      "channelName": " 문재인정부 청와대",
+      "collectedAt": "2025-08-20T11:39:57.167165Z"
     }
   },
   "channels": {
@@ -125,9 +149,36 @@
       "viewCount": 86009826,
       "videoCount": 16390,
       "lastUpdated": "2025-08-18T07:13:08.387942Z"
+    },
+    "UC7WMB_czX5jF__5kqT4d9Ww": {
+      "channelId": "UC7WMB_czX5jF__5kqT4d9Ww",
+      "channelName": " 문재인정부 청와대",
+      "channelUrl": "@thebluehousekr",
+      "channelDescription": " 문재인정부 청와대 공식 유튜브 채널입니다.",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/z0uFyY8invEc-QlNJod5ycMfMCwQiQlDNT4LWIyJqi4IL-XQc0F7OyYeBbJMhhaYJOs-ecL7VTo=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/z0uFyY8invEc-QlNJod5ycMfMCwQiQlDNT4LWIyJqi4IL-XQc0F7OyYeBbJMhhaYJOs-ecL7VTo=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/z0uFyY8invEc-QlNJod5ycMfMCwQiQlDNT4LWIyJqi4IL-XQc0F7OyYeBbJMhhaYJOs-ecL7VTo=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 308000,
+      "viewCount": 58715833,
+      "videoCount": 1549,
+      "lastUpdated": "2025-08-20T11:39:57.166168Z"
     }
   },
-  "lastUpdated": "2025-08-18T07:13:08.388939Z",
-  "totalVideos": 3,
-  "totalChannels": 2
+  "lastUpdated": "2025-08-20T11:39:57.167165Z",
+  "totalVideos": 4,
+  "totalChannels": 3
 }

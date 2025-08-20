@@ -36,7 +36,7 @@
       "liveStreamingDetails": null,
       "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
       "channelName": "NATV 국회방송",
-      "collectedAt": "2025-08-18T07:13:22.541514Z"
+      "collectedAt": "2025-08-20T11:39:47.026461Z"
     },
     "u2-7cQN_zuU": {
       "videoId": "u2-7cQN_zuU",
@@ -55,7 +55,7 @@
       "liveStreamingDetails": null,
       "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
       "channelName": "NATV 국회방송",
-      "collectedAt": "2025-08-18T07:13:22.541514Z"
+      "collectedAt": "2025-08-20T11:39:47.026461Z"
     },
     "CkoqzVciq9k": {
       "videoId": "CkoqzVciq9k",
@@ -89,7 +89,75 @@
       },
       "channelId": "UCn8WFi6pE4cJZP8MiUNGFxg",
       "channelName": "KTV NEWS",
-      "collectedAt": "2025-08-18T07:13:22.542537Z"
+      "collectedAt": "2025-08-20T11:39:47.026461Z"
+    },
+    "JviKfDCddGo": {
+      "videoId": "JviKfDCddGo",
+      "title": "코로나19 아프리카서 세포 수형체 변이 보고ㅣ코로나19 중앙방역대책본부 브리핑 (20.12.26.)",
+      "description": "✔지역발생 1,104명·해외유입 28명\n▪️사망자 20명 증가···누적 793명\n▪️경기도 식당 25명 추가 확진\n▪️경기도 고양시 요양병원 38명 추가 확진\n▪️충북 괴산군·진천군 등 25명 추가 확진\n\n✔코로나19 아프리카서 세포 수형체 변이 보고\n▪️남아공, 입국자 중 확진자 검체 조사중\n\n✔전국확산세 유지···의심증상 검사 양성률 2%넘어\n▪️40~50대 사회 활동 통해 감염 뒤 가족 내 전파\n\n✔동부구치소 12월 18일 전체 수용자 검사\n▪️170여명 타 교정시설로 조정 이송 진행\n▪️동부구치소 내 노출자 밀도 높아 이송\n▪️이송 후 추적검사 적용···속초 이송 후 확진\n\n🔎발표 전문\n\n   코로나바이러스감염증-19 국내 발생 현황을 보고드리겠습니다. \n\n   12월 26일 기준으로 국내 발생 신규 확진자 수는 1,104명이 확인되었고 해외유입 사례는 28명이 확인되어 총 누적 확진자 수는 5만 5,902명입니다. \n\n   어제 의심신고 검사자 수는 3만 58명이었고 수도권...",
+      "publishedAt": "2020-12-26T05:47:47Z",
+      "duration": "PT33M55S",
+      "viewCount": 18593,
+      "likeCount": 1009,
+      "commentCount": 122,
+      "tags": [
+        "코로나19",
+        "요양병원",
+        "변이바러스",
+        "남아공",
+        "아프리카",
+        "코로나변이",
+        "가족전파",
+        "종교",
+        "교회",
+        "예배"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": "ko",
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": {
+        "actualStartTime": "2020-12-26T05:07:56Z",
+        "actualEndTime": "2020-12-26T05:45:41Z",
+        "scheduledStartTime": "2020-12-26T05:10:00Z"
+      },
+      "channelId": "UCIMOytYIzaUpoAM2bpT4JZQ",
+      "channelName": "KTV 국민방송",
+      "collectedAt": "2025-08-20T11:39:47.032368Z"
+    },
+    "SZbblSiCkvA": {
+      "videoId": "SZbblSiCkvA",
+      "title": "코로나19 국내 신규확진 현황 (2020년 12월 26일 0시 기준)",
+      "description": "🚨 #코로나19 #신규확진 #현황 🚨\n(2020년 12월 26일 0시 기준)\n\n✔신규확진 1,132명\n▪️국내발생 1,104명·해외유입 28명\n\n✔누적확진자 55,902명\n▪️격리해제 38,532명 (+484명)\n▪️치료 중 16,577명 (+628명)\n▪️사망 793명 (+20명)\n\n👉코로나19 중앙방역대책본부 브리핑(20.12.26.14:10)\nhttps://youtu.be/JviKfDCddGo",
+      "publishedAt": "2020-12-26T00:36:48Z",
+      "duration": "PT5M19S",
+      "viewCount": 5184,
+      "likeCount": 383,
+      "commentCount": 26,
+      "tags": [
+        "코로나19",
+        "국내",
+        "신규확진",
+        "해외유입",
+        "격리해제",
+        "치료중",
+        "격리중",
+        "사망자",
+        "현황",
+        "코로나바이러스감염증19"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": "ko",
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": {
+        "actualStartTime": "2020-12-26T00:27:07Z",
+        "actualEndTime": "2020-12-26T00:36:06Z",
+        "scheduledStartTime": "2020-12-26T00:30:00Z"
+      },
+      "channelId": "UCIMOytYIzaUpoAM2bpT4JZQ",
+      "channelName": "KTV 국민방송",
+      "collectedAt": "2025-08-20T11:39:47.032368Z"
     }
   },
   "channels": {
@@ -146,9 +214,36 @@
       "viewCount": 87289483,
       "videoCount": 19304,
       "lastUpdated": "2025-08-18T07:13:22.542025Z"
+    },
+    "UCIMOytYIzaUpoAM2bpT4JZQ": {
+      "channelId": "UCIMOytYIzaUpoAM2bpT4JZQ",
+      "channelName": "KTV 국민방송",
+      "channelUrl": "@ktv_korea",
+      "channelDescription": "이재명 정부 국정소식, 정책정보, 정부브리핑 등을 실시간으로 소개해드립니다\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/C8SZ5Na4t2ExtMRDMXKbHJtoiC_2u30a4TjVoHpg4xLH0z2jUVntFrpGt26OXfkBHxuwjq8xTOk=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/C8SZ5Na4t2ExtMRDMXKbHJtoiC_2u30a4TjVoHpg4xLH0z2jUVntFrpGt26OXfkBHxuwjq8xTOk=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/C8SZ5Na4t2ExtMRDMXKbHJtoiC_2u30a4TjVoHpg4xLH0z2jUVntFrpGt26OXfkBHxuwjq8xTOk=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 594000,
+      "viewCount": 496166667,
+      "videoCount": 25206,
+      "lastUpdated": "2025-08-20T11:39:47.027459Z"
     }
   },
-  "lastUpdated": "2025-08-18T07:13:22.542537Z",
-  "totalVideos": 4,
-  "totalChannels": 2
+  "lastUpdated": "2025-08-20T11:39:47.032368Z",
+  "totalVideos": 6,
+  "totalChannels": 3
 }

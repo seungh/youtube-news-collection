@@ -17,7 +17,7 @@
       "liveStreamingDetails": null,
       "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
       "channelName": "NATV 국회방송",
-      "collectedAt": "2025-08-18T07:13:22.579998Z"
+      "collectedAt": "2025-08-20T11:39:47.219426Z"
     },
     "wUc8-WjmBdA": {
       "videoId": "wUc8-WjmBdA",
@@ -52,6 +52,59 @@
       "channelId": "UCn8WFi6pE4cJZP8MiUNGFxg",
       "channelName": "KTV NEWS",
       "collectedAt": "2025-08-18T07:13:22.582234Z"
+    },
+    "6SDU-_prqJI": {
+      "videoId": "6SDU-_prqJI",
+      "title": "코로나19 중앙재난안전대책본부 브리핑｜13일부터 마스크 미착용 과태료 부과 (20.11.8.)",
+      "description": "✔신규 확진자 143명 추가···총 2만 7천 427명\n▪️사망자 1명 추가···총 478명\n\n✔어제부터 새로운 거리두기 적용\n▪️각 권역별로 방역지침 차등 적용\n▪️지난 주 확진자 일일 평균 88.7명\n\n✔모든 지역 1단계 수준 총족하는 상황\n▪️위증·중증 환자수 50명 대 유지 중\n▪️수도권 1.5단계 격상 가능성 있어\n\n✔중국, 11일부터 입국자 검역 강화\n▪️취약시설 종사자 대상 진단검사 계획\n▪️연말까지 중환자 치료전담시설 확충\n▪️PCR 검사 대신 항체 검사 적극 추진\n\n🔎발표 전문\n\n오늘 0시 기준 국내 발생 환자는 118명입니다. 수도권의 환자는 79명이고 비수도권은 39명입니다. 어제 1분이 돌아가셨습니다. 고인의 명복을 빌고 유가족께는 심심한 위로의 말씀을 전합니다. \n\n코로나19의 장기화가 불가피한 가운데 지속 가능한 코로나19 대응을 위해 사회적 거리두기 개편을, 거리두기 체계를 개편하여 어제부터 적용하고 있습니다. 이번 개편은 그동안 축적된 경험과 지식을 반영...",
+      "publishedAt": "2020-11-08T07:53:04Z",
+      "duration": "PT20M16S",
+      "viewCount": 8270,
+      "likeCount": 408,
+      "commentCount": 30,
+      "tags": [
+        "코로나19",
+        "신규확진자",
+        "중앙재난안전대책본부",
+        "중대본브리핑",
+        "새로운거리두기",
+        "방역지침",
+        "위증환자",
+        "중증환자",
+        "할로윈데이",
+        "취약시설"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": "ko",
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": {
+        "actualStartTime": "2020-11-08T07:27:46Z",
+        "actualEndTime": "2020-11-08T07:50:51Z",
+        "scheduledStartTime": "2020-11-08T07:30:00Z"
+      },
+      "channelId": "UCIMOytYIzaUpoAM2bpT4JZQ",
+      "channelName": "KTV 국민방송",
+      "collectedAt": "2025-08-20T11:39:47.220423Z"
+    },
+    "WDtiXYXTCt8": {
+      "videoId": "WDtiXYXTCt8",
+      "title": "정세균 총리, 홍대 김밥집 사장에게 건넨 '이것'은? 팬서비스에 사인 요청, 상인 격려까지 숨 가쁜 거리유세(?) 현장!",
+      "description": "11월 7일, 젊음의 거리 홍대를 찾은\n정세균 국무총리\n\n장기화되고 있는 코로나19...\n결코 안심할 수 없는 상황!\n\n나와 우리, 모두를 지킬 수 있는\n가장 확실한 방역이 있다?\n그 정체는 바로, 조그마한 '이것'!\n\n정세균 총리, 숨 가쁜 거리 유세에 나서다?!\n팬서비스부터 상인 격려까지...\n훈훈해진 홍대 거리, 현장에선 무슨 일이?\n\n#마스크 #마스크착용의무화 #정세균\n#마스크미착용과태료 #마스크착용거리캠페인\n#마스크의무화 #마스크착용 #코로나19마스크\n#정세균 #국무총리 #총리 #정부 #방역",
+      "publishedAt": "2020-11-08T14:03:11Z",
+      "duration": "PT2M58S",
+      "viewCount": 4371,
+      "likeCount": 358,
+      "commentCount": 45,
+      "tags": [],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": "ko",
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCIMOytYIzaUpoAM2bpT4JZQ",
+      "channelName": "KTV 국민방송",
+      "collectedAt": "2025-08-20T11:39:47.220423Z"
     }
   },
   "channels": {
@@ -108,9 +161,36 @@
       "viewCount": 87289483,
       "videoCount": 19304,
       "lastUpdated": "2025-08-18T07:13:22.582046Z"
+    },
+    "UCIMOytYIzaUpoAM2bpT4JZQ": {
+      "channelId": "UCIMOytYIzaUpoAM2bpT4JZQ",
+      "channelName": "KTV 국민방송",
+      "channelUrl": "@ktv_korea",
+      "channelDescription": "이재명 정부 국정소식, 정책정보, 정부브리핑 등을 실시간으로 소개해드립니다\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/C8SZ5Na4t2ExtMRDMXKbHJtoiC_2u30a4TjVoHpg4xLH0z2jUVntFrpGt26OXfkBHxuwjq8xTOk=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/C8SZ5Na4t2ExtMRDMXKbHJtoiC_2u30a4TjVoHpg4xLH0z2jUVntFrpGt26OXfkBHxuwjq8xTOk=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/C8SZ5Na4t2ExtMRDMXKbHJtoiC_2u30a4TjVoHpg4xLH0z2jUVntFrpGt26OXfkBHxuwjq8xTOk=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 594000,
+      "viewCount": 496166667,
+      "videoCount": 25206,
+      "lastUpdated": "2025-08-20T11:39:47.220423Z"
     }
   },
-  "lastUpdated": "2025-08-18T07:13:22.582234Z",
-  "totalVideos": 2,
-  "totalChannels": 2
+  "lastUpdated": "2025-08-20T11:39:47.221160Z",
+  "totalVideos": 4,
+  "totalChannels": 3
 }

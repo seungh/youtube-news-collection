@@ -28,7 +28,7 @@
       "liveStreamingDetails": null,
       "channelId": "UCn8WFi6pE4cJZP8MiUNGFxg",
       "channelName": "KTV NEWS",
-      "collectedAt": "2025-08-18T07:13:20.642679Z"
+      "collectedAt": "2025-08-20T11:39:25.384890Z"
     },
     "oL5hosmjscg": {
       "videoId": "oL5hosmjscg",
@@ -73,6 +73,55 @@
       "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
       "channelName": "NATV 국회방송",
       "collectedAt": "2025-08-18T07:13:20.641680Z"
+    },
+    "4OEcm0xchyw": {
+      "videoId": "4OEcm0xchyw",
+      "title": "초격차 전략기술 육성하는 과학기술 선도국, 대한민국",
+      "description": "대한민국 12대 국가전략기술 중 하나인 양자과학기술분야. \n\n정부는 세계 양자과학기술 패권전쟁 속에\n대한민국 미래 먹거리 창출과 경제 안보를 위해\n국가차원으로 확보해야 하는 양자과학기술 육성에 힘쓰고 있는데요!\n\n대한민국 양자과학기술분야의 \n현재와 미래를 살펴볼 수 있는 현장을\n영상으로 확인하세요~\n\n\n#윤석열대통령 #윤석열 #대통령 #정부 #대한민국 #과학기술정보통신부\n#퀀텀코리아 #퀀텀코리아2023 #노벨물리학상 #존클라우저\n#양자기술 #양자역학 #양자과학기술 #양자혁명 #과학기술선도국\n#양자컴퓨터 #양자통신 #양자센싱",
+      "publishedAt": "2023-07-08T04:00:02Z",
+      "duration": "PT4M54S",
+      "viewCount": 1289,
+      "likeCount": 84,
+      "commentCount": 0,
+      "tags": [],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": "ko",
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCIMOytYIzaUpoAM2bpT4JZQ",
+      "channelName": "KTV 국민방송",
+      "collectedAt": "2025-08-20T11:39:25.387449Z"
+    },
+    "0ZHjeLXzCDY": {
+      "videoId": "0ZHjeLXzCDY",
+      "title": "후쿠시마 오염수 방류에 대한 과학적 진실! 오염수 방류에 대한 미국의 반응",
+      "description": "2011년 후쿠시마 원전 사고 이후\n방출된 엄청난 양의 원자력 핵종\n수많은 핵종이 태평양을 건너 미국으로 향했다고 하는데\n후쿠시마 사고 이후 흘러들어간 방사능 물질에 대해\n미국은 어떤 반응을 보였을까.\n그리고 후쿠시마 원전에서 처리된 물을\n바다에 버리는 것은 과연 국제법상 가능한 일인가.\n전문가의 말을 들어봅니다.",
+      "publishedAt": "2023-07-07T23:14:20Z",
+      "duration": "PT3M6S",
+      "viewCount": 4808,
+      "likeCount": 75,
+      "commentCount": 54,
+      "tags": [
+        "후쿠시마",
+        "오염수",
+        "방류",
+        "원자력",
+        "핵",
+        "방류수",
+        "방사능",
+        "방사선",
+        "과학",
+        "세슘"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": "ko",
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCIMOytYIzaUpoAM2bpT4JZQ",
+      "channelName": "KTV 국민방송",
+      "collectedAt": "2025-08-20T11:39:25.387449Z"
     }
   },
   "channels": {
@@ -129,9 +178,36 @@
       "viewCount": 86003788,
       "videoCount": 16388,
       "lastUpdated": "2025-08-18T02:22:26.644432Z"
+    },
+    "UCIMOytYIzaUpoAM2bpT4JZQ": {
+      "channelId": "UCIMOytYIzaUpoAM2bpT4JZQ",
+      "channelName": "KTV 국민방송",
+      "channelUrl": "@ktv_korea",
+      "channelDescription": "이재명 정부 국정소식, 정책정보, 정부브리핑 등을 실시간으로 소개해드립니다\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/C8SZ5Na4t2ExtMRDMXKbHJtoiC_2u30a4TjVoHpg4xLH0z2jUVntFrpGt26OXfkBHxuwjq8xTOk=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/C8SZ5Na4t2ExtMRDMXKbHJtoiC_2u30a4TjVoHpg4xLH0z2jUVntFrpGt26OXfkBHxuwjq8xTOk=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/C8SZ5Na4t2ExtMRDMXKbHJtoiC_2u30a4TjVoHpg4xLH0z2jUVntFrpGt26OXfkBHxuwjq8xTOk=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 594000,
+      "viewCount": 496166667,
+      "videoCount": 25206,
+      "lastUpdated": "2025-08-20T11:39:25.387449Z"
     }
   },
-  "lastUpdated": "2025-08-18T07:13:20.642679Z",
-  "totalVideos": 3,
-  "totalChannels": 2
+  "lastUpdated": "2025-08-20T11:39:25.387449Z",
+  "totalVideos": 5,
+  "totalChannels": 3
 }

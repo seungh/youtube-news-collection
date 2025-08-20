@@ -28,7 +28,7 @@
       "liveStreamingDetails": null,
       "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
       "channelName": "NATV 국회방송",
-      "collectedAt": "2025-08-18T07:13:30.240031Z"
+      "collectedAt": "2025-08-20T11:39:54.465824Z"
     },
     "CG9JcK910vc": {
       "videoId": "CG9JcK910vc",
@@ -58,7 +58,67 @@
       "liveStreamingDetails": null,
       "channelId": "UCn8WFi6pE4cJZP8MiUNGFxg",
       "channelName": "KTV NEWS",
-      "collectedAt": "2025-08-18T07:13:30.247089Z"
+      "collectedAt": "2025-08-20T11:39:54.465824Z"
+    },
+    "aD-yhnGs1JI": {
+      "videoId": "aD-yhnGs1JI",
+      "title": "전우용의 정설남녀 24화 - 내게 꼭 필요한 ‘행복주택’",
+      "description": "결혼 계획을 빨리 세우고 싶어도 '내 집' \n구하기가 힘들어 결혼을 미루는 경우가 많습니다.\n\n'내 집'이 없어 정착하지 못하고\n저축도 어려운 건 혼자 자취하는 \n젊은 남녀도 마찬가지인데요.\n\n그래서 정설남녀 24화에서는 \n'행복주택'에 대해 알려드립니다!\n행복주택은 젊은 계층의 주거 안정을\n위해서 도심 내 공급하는 공공임대주택을 \n말하는데요.\n\n임대료도 저렴하고\n문화생활 인프라가 구축된 곳이고\n도심 내 교통까지 편리한 지역에 선정된다고요?\n\n정말 청년들에게 필요한 모든 것이 갖춰진 \n그런 주택인데요!\n\n입주 조건은 무엇일까요?\n어떻게 신청할 수 있을까요?\n정설남녀에서 알아보세요~ *3*",
+      "publishedAt": "2019-07-20T04:00:01Z",
+      "duration": "PT2M7S",
+      "viewCount": 1215,
+      "likeCount": 127,
+      "commentCount": 3,
+      "tags": [
+        "전우용",
+        "정설남녀",
+        "행복주택",
+        "국토교통부",
+        "공공임대주택",
+        "신혼",
+        "청년",
+        "결혼",
+        "딩크족",
+        "임대료"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": "ko",
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCIMOytYIzaUpoAM2bpT4JZQ",
+      "channelName": "KTV 국민방송",
+      "collectedAt": "2025-08-20T11:39:54.466821Z"
+    },
+    "a-ETrXwpD00": {
+      "videoId": "a-ETrXwpD00",
+      "title": "오늘도 뼈 때리는 이재명 경기도지사",
+      "description": "#이재명 #뼈때리는소신 #이기분마치명치맞음",
+      "publishedAt": "2019-07-20T03:00:02Z",
+      "duration": "PT3M40S",
+      "viewCount": 259211,
+      "likeCount": 8123,
+      "commentCount": 841,
+      "tags": [
+        "이재명",
+        "경기도청",
+        "경기도",
+        "이재명연설",
+        "이재명지사",
+        "경기도지사",
+        "경기도이재명",
+        "이재명경기도",
+        "경기도정",
+        "이재명경기도지사"
+      ],
+      "categoryId": "22",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCNJM6dqu70Qr6VaseiW1Org",
+      "channelName": "이재명",
+      "collectedAt": "2025-08-20T11:39:54.466821Z"
     }
   },
   "channels": {
@@ -115,9 +175,63 @@
       "viewCount": 87289483,
       "videoCount": 19304,
       "lastUpdated": "2025-08-18T07:13:30.247089Z"
+    },
+    "UCIMOytYIzaUpoAM2bpT4JZQ": {
+      "channelId": "UCIMOytYIzaUpoAM2bpT4JZQ",
+      "channelName": "KTV 국민방송",
+      "channelUrl": "@ktv_korea",
+      "channelDescription": "이재명 정부 국정소식, 정책정보, 정부브리핑 등을 실시간으로 소개해드립니다\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/C8SZ5Na4t2ExtMRDMXKbHJtoiC_2u30a4TjVoHpg4xLH0z2jUVntFrpGt26OXfkBHxuwjq8xTOk=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/C8SZ5Na4t2ExtMRDMXKbHJtoiC_2u30a4TjVoHpg4xLH0z2jUVntFrpGt26OXfkBHxuwjq8xTOk=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/C8SZ5Na4t2ExtMRDMXKbHJtoiC_2u30a4TjVoHpg4xLH0z2jUVntFrpGt26OXfkBHxuwjq8xTOk=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 594000,
+      "viewCount": 496166667,
+      "videoCount": 25206,
+      "lastUpdated": "2025-08-20T11:39:54.465824Z"
+    },
+    "UCNJM6dqu70Qr6VaseiW1Org": {
+      "channelId": "UCNJM6dqu70Qr6VaseiW1Org",
+      "channelName": "이재명",
+      "channelUrl": "@이재명tv",
+      "channelDescription": "대한민국 제21대 대통령\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/kIdZSRMagKta6GY6aiDm5asO5Cupd_HanW3xIFnBW2p8VNYI2JryJUchT4Aoy2ASM-ifq7JfyQ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/kIdZSRMagKta6GY6aiDm5asO5Cupd_HanW3xIFnBW2p8VNYI2JryJUchT4Aoy2ASM-ifq7JfyQ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/kIdZSRMagKta6GY6aiDm5asO5Cupd_HanW3xIFnBW2p8VNYI2JryJUchT4Aoy2ASM-ifq7JfyQ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 1710000,
+      "viewCount": 336974518,
+      "videoCount": 3965,
+      "lastUpdated": "2025-08-20T11:39:54.466821Z"
     }
   },
-  "lastUpdated": "2025-08-18T07:13:30.251081Z",
-  "totalVideos": 2,
-  "totalChannels": 2
+  "lastUpdated": "2025-08-20T11:39:54.467819Z",
+  "totalVideos": 4,
+  "totalChannels": 4
 }

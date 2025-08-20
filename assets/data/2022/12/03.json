@@ -28,7 +28,7 @@
       "liveStreamingDetails": null,
       "channelId": "UCn8WFi6pE4cJZP8MiUNGFxg",
       "channelName": "KTV NEWS",
-      "collectedAt": "2025-08-18T07:13:21.864851Z"
+      "collectedAt": "2025-08-20T11:39:26.486401Z"
     },
     "I7DRKuWXlAk": {
       "videoId": "I7DRKuWXlAk",
@@ -58,7 +58,7 @@
       "liveStreamingDetails": null,
       "channelId": "UCn8WFi6pE4cJZP8MiUNGFxg",
       "channelName": "KTV NEWS",
-      "collectedAt": "2025-08-18T07:13:21.864851Z"
+      "collectedAt": "2025-08-20T11:39:26.486401Z"
     },
     "t9tQbpWpV4Y": {
       "videoId": "t9tQbpWpV4Y",
@@ -111,6 +111,65 @@
       "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
       "channelName": "NATV 국회방송",
       "collectedAt": "2025-08-18T07:13:21.863018Z"
+    },
+    "QTq9YPYPgCg": {
+      "videoId": "QTq9YPYPgCg",
+      "title": "1967년 12월 3일 오늘 #북한 #박순국 #소좌 #귀순",
+      "description": "1967년 12월 3일 오후 2시 27분 북한 공군 소속 박순국 소좌가 「미그」 15기를 몰고 휴전선을 넘어 간성 북쪽 5㎞ 지점인 고성군 거진면 송죽리 앞 육군 1668부대 앞 모래사장에 착륙, 귀순해 왔습니다.",
+      "publishedAt": "2022-12-03T00:00:11Z",
+      "duration": "PT39S",
+      "viewCount": 37583,
+      "likeCount": 514,
+      "commentCount": 36,
+      "tags": [
+        "북괴",
+        "북한괴리",
+        "휴전선",
+        "국방부",
+        "유근창",
+        "북괴군",
+        "공군기",
+        "레이다",
+        "착륙",
+        "미그15기"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": "ko",
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCIMOytYIzaUpoAM2bpT4JZQ",
+      "channelName": "KTV 국민방송",
+      "collectedAt": "2025-08-20T11:39:26.489348Z"
+    },
+    "uufw64sDMqc": {
+      "videoId": "uufw64sDMqc",
+      "title": "#카타르월드컵 #대한민국 #16강 진출! #윤석열 대통령 축전 #shorts",
+      "description": "#포르투갈 #김영권 #황희찬 #손흥민 #극장골\n#윤석열대통령 #페이스북메시지 #축전\n\n대한민국 축구 대표팀의 8강 진출을 기원합니다~",
+      "publishedAt": "2022-12-03T03:06:59Z",
+      "duration": "PT35S",
+      "viewCount": 8736,
+      "likeCount": 253,
+      "commentCount": 39,
+      "tags": [
+        "호날두",
+        "해버지",
+        "박지성",
+        "안정환",
+        "again2022",
+        "어게인2022",
+        "KOREA",
+        "SON",
+        "NO7"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCydbI9p3_8DeteSBbnv0tuA",
+      "channelName": "윤석열 정부 영상 아카이브",
+      "collectedAt": "2025-08-20T11:39:26.490345Z"
     }
   },
   "channels": {
@@ -167,9 +226,63 @@
       "viewCount": 86003788,
       "videoCount": 16388,
       "lastUpdated": "2025-08-18T02:22:28.669522Z"
+    },
+    "UCIMOytYIzaUpoAM2bpT4JZQ": {
+      "channelId": "UCIMOytYIzaUpoAM2bpT4JZQ",
+      "channelName": "KTV 국민방송",
+      "channelUrl": "@ktv_korea",
+      "channelDescription": "이재명 정부 국정소식, 정책정보, 정부브리핑 등을 실시간으로 소개해드립니다\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/C8SZ5Na4t2ExtMRDMXKbHJtoiC_2u30a4TjVoHpg4xLH0z2jUVntFrpGt26OXfkBHxuwjq8xTOk=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/C8SZ5Na4t2ExtMRDMXKbHJtoiC_2u30a4TjVoHpg4xLH0z2jUVntFrpGt26OXfkBHxuwjq8xTOk=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/C8SZ5Na4t2ExtMRDMXKbHJtoiC_2u30a4TjVoHpg4xLH0z2jUVntFrpGt26OXfkBHxuwjq8xTOk=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 594000,
+      "viewCount": 496166667,
+      "videoCount": 25206,
+      "lastUpdated": "2025-08-20T11:39:26.489348Z"
+    },
+    "UCydbI9p3_8DeteSBbnv0tuA": {
+      "channelId": "UCydbI9p3_8DeteSBbnv0tuA",
+      "channelName": "윤석열 정부 영상 아카이브",
+      "channelUrl": "@yoonique2929",
+      "channelDescription": "* 윤석열 정부의 대통령 행보와 브리핑을 기록한 영상 아카이브 채널입니다.\n* KTV 온라인콘텐츠의 부분발췌, 상업적 이용 등 무단사용을 금합니다. \n※ 채널에 게시된 영상의 저작권은 영상을 취재한 개별 방송사에 있으며\n     영상의 무단 복제·배포 및 재가공 등을 금합니다\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/26A81EvLC15coLPb2U9jko_jbEmNq85IPoDxWRcy0xqhzD0uIEtOvBWIMdo2_lkLMnMLvvAHZA=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/26A81EvLC15coLPb2U9jko_jbEmNq85IPoDxWRcy0xqhzD0uIEtOvBWIMdo2_lkLMnMLvvAHZA=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/26A81EvLC15coLPb2U9jko_jbEmNq85IPoDxWRcy0xqhzD0uIEtOvBWIMdo2_lkLMnMLvvAHZA=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 255000,
+      "viewCount": 109575768,
+      "videoCount": 2854,
+      "lastUpdated": "2025-08-20T11:39:26.489348Z"
     }
   },
-  "lastUpdated": "2025-08-18T07:13:21.864851Z",
-  "totalVideos": 4,
-  "totalChannels": 2
+  "lastUpdated": "2025-08-20T11:39:26.490345Z",
+  "totalVideos": 6,
+  "totalChannels": 4
 }

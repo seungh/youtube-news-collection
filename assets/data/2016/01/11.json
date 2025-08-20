@@ -48,7 +48,97 @@
       "liveStreamingDetails": null,
       "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
       "channelName": "NATV 국회방송",
-      "collectedAt": "2025-08-18T07:13:42.299807Z"
+      "collectedAt": "2025-08-20T11:40:05.613615Z"
+    },
+    "6wj4Bu5Hiio": {
+      "videoId": "6wj4Bu5Hiio",
+      "title": "심각한 코리아 디스카운트 이유는? - 앵커들의 유쾌한 방송사고",
+      "description": "국가의 인지도가 경제적 손익과는 상관이 없는 추상적인 개념일 뿐이라고 생각하는 사람들이 있습니다. 과연 그럴까요?\n한국무역협회가 분석해 봤더니 한국이 국제사회에서 저평가되는 이른바 '디스카운트 비율'은 9%나 되는 걸로 파악됐는데요, 대한민국의 저평가된 국가 이미지 때문에 우리 근로자와 기업들이 땀 흘려 만든 상품들이 외국으로 수출되면서 무려 71조원을 덜 받고 있다는 얘기입니다.\n국가브랜드는 단지 우리의 일시적인 기분을 좌우하는 추상적 개념이 아니라, 세계시장에서 메이드 인 코리아 제품의 경쟁력과 값어치를 결정짓는 엄연한 현실적 요소입니다.",
+      "publishedAt": "2016-01-11T00:48:19Z",
+      "duration": "PT1M50S",
+      "viewCount": 121,
+      "likeCount": 0,
+      "commentCount": 0,
+      "tags": [
+        "KTV 국민방송",
+        "한국정책방송 KTV",
+        "과연 그럴까요",
+        "앵커",
+        "방송사고",
+        "방송",
+        "대한민국",
+        "대한민국 브랜드",
+        "국가 브랜드",
+        "코리아"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": "ko",
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCIMOytYIzaUpoAM2bpT4JZQ",
+      "channelName": "KTV 국민방송",
+      "collectedAt": "2025-08-20T11:40:05.615656Z"
+    },
+    "N_z7yw0Cd-A": {
+      "videoId": "N_z7yw0Cd-A",
+      "title": "전통한지 세계시장 공략 나섰다 -국민리포트-",
+      "description": "이탈리아 로마에서\n우리의 전통 한지의 우수성을 알리는\n한지홍보전이 열리고 있습니다.\n \n지금까지 유럽에서는\n종이로 된 문화재를 복원 할 때\n대부분 일본 종이를 써왔는데,\n이번 한지 홍보전을 계기로\n분위기가 좀 달라질 것으로 보입니다.",
+      "publishedAt": "2016-01-11T08:59:18Z",
+      "duration": "PT2M51S",
+      "viewCount": 1018,
+      "likeCount": 0,
+      "commentCount": 0,
+      "tags": [
+        "KTV 국민방송",
+        "한국정책방송 KTV",
+        "국민리포트",
+        "국민기자단",
+        "국민기자",
+        "이탈리아",
+        "로마",
+        "문화재",
+        "복원",
+        "종이"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": "ko",
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCIMOytYIzaUpoAM2bpT4JZQ",
+      "channelName": "KTV 국민방송",
+      "collectedAt": "2025-08-20T11:40:05.615656Z"
+    },
+    "z8P77Qnb2bw": {
+      "videoId": "z8P77Qnb2bw",
+      "title": "절망의 끝에서 '내 일'을 찾다 -PD리포트 이슈 본- [3분 \"쏙쏙\"]",
+      "description": "갑작스런 남편의 사망, 막막하기만 했던 생계...\n탈북 10년, 험난하기만 한 한국 정착의 길\n그리고,\n취업전선에 뛰어든 스펙제로의 청년!\n절망의 끝에서 찾은 희망, '내 일!'",
+      "publishedAt": "2016-01-11T07:46:29Z",
+      "duration": "PT3M1S",
+      "viewCount": 66,
+      "likeCount": 0,
+      "commentCount": 0,
+      "tags": [
+        "KTV 국민방송",
+        "한국정책방송 KTV",
+        "pd",
+        "리포트",
+        "이슈 본",
+        "신년기획",
+        "내일",
+        "내 일",
+        "탈북",
+        "하나원"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": "ko",
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCIMOytYIzaUpoAM2bpT4JZQ",
+      "channelName": "KTV 국민방송",
+      "collectedAt": "2025-08-20T11:40:05.615656Z"
     }
   },
   "channels": {
@@ -78,9 +168,36 @@
       "viewCount": 86009826,
       "videoCount": 16390,
       "lastUpdated": "2025-08-18T07:13:42.298810Z"
+    },
+    "UCIMOytYIzaUpoAM2bpT4JZQ": {
+      "channelId": "UCIMOytYIzaUpoAM2bpT4JZQ",
+      "channelName": "KTV 국민방송",
+      "channelUrl": "@ktv_korea",
+      "channelDescription": "이재명 정부 국정소식, 정책정보, 정부브리핑 등을 실시간으로 소개해드립니다\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/C8SZ5Na4t2ExtMRDMXKbHJtoiC_2u30a4TjVoHpg4xLH0z2jUVntFrpGt26OXfkBHxuwjq8xTOk=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/C8SZ5Na4t2ExtMRDMXKbHJtoiC_2u30a4TjVoHpg4xLH0z2jUVntFrpGt26OXfkBHxuwjq8xTOk=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/C8SZ5Na4t2ExtMRDMXKbHJtoiC_2u30a4TjVoHpg4xLH0z2jUVntFrpGt26OXfkBHxuwjq8xTOk=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 594000,
+      "viewCount": 496166667,
+      "videoCount": 25206,
+      "lastUpdated": "2025-08-20T11:40:05.614658Z"
     }
   },
-  "lastUpdated": "2025-08-18T07:13:42.300804Z",
-  "totalVideos": 2,
-  "totalChannels": 1
+  "lastUpdated": "2025-08-20T11:40:05.615656Z",
+  "totalVideos": 5,
+  "totalChannels": 2
 }

@@ -27,7 +27,7 @@
       "liveStreamingDetails": null,
       "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
       "channelName": "NATV 국회방송",
-      "collectedAt": "2025-08-18T07:13:44.728216Z"
+      "collectedAt": "2025-08-20T11:40:07.451607Z"
     },
     "smCuYP1UK1I": {
       "videoId": "smCuYP1UK1I",
@@ -57,7 +57,37 @@
       "liveStreamingDetails": null,
       "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
       "channelName": "NATV 국회방송",
-      "collectedAt": "2025-08-18T07:13:44.728216Z"
+      "collectedAt": "2025-08-20T11:40:07.451607Z"
+    },
+    "cJvEf8MSGZc": {
+      "videoId": "cJvEf8MSGZc",
+      "title": "이색버스 타고 도심으로, 바다로!/바다 속에 사막화가? 바다숲을 살린다/학교 밖 청소년에게 '꿈드림' -  100년의 행복, 희망 대한민국 -",
+      "description": "1. 1920~30년대에 전차의 모습을 재현한 트롤리버스가 서울을 달리고 있다!\n'서울시티투어 파노라마 노선'에 옛 전차를 연상시키는 '트롤리버스'를 3대 도입한 서울시의 이색버스\n2. 5월 31일 바다의 날을 맞아 2009년부터 진행돼 온 '바다숲만들기' 정책 현황을 살펴보자!\n3. 여성가족부가 전국 최초로 부산에 개설한 '꿈드림지원센터' 학교 밖 청소년에게 상담, 교육, 취업, 자립 지원을 제공한다는데...",
+      "publishedAt": "2015-05-28T08:26:09Z",
+      "duration": "PT9M42S",
+      "viewCount": 3338,
+      "likeCount": 12,
+      "commentCount": 0,
+      "tags": [
+        "KTV 국민방송",
+        "한국정책방송 KTV",
+        "100년",
+        "100년의 행복",
+        "힐링",
+        "탈북자",
+        "여가부",
+        "여성가족부",
+        "꿈드림지원센터",
+        "취뽀"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": "ko",
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCIMOytYIzaUpoAM2bpT4JZQ",
+      "channelName": "KTV 국민방송",
+      "collectedAt": "2025-08-20T11:40:07.454428Z"
     }
   },
   "channels": {
@@ -87,9 +117,36 @@
       "viewCount": 86009826,
       "videoCount": 16390,
       "lastUpdated": "2025-08-18T07:13:44.728216Z"
+    },
+    "UCIMOytYIzaUpoAM2bpT4JZQ": {
+      "channelId": "UCIMOytYIzaUpoAM2bpT4JZQ",
+      "channelName": "KTV 국민방송",
+      "channelUrl": "@ktv_korea",
+      "channelDescription": "이재명 정부 국정소식, 정책정보, 정부브리핑 등을 실시간으로 소개해드립니다\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/C8SZ5Na4t2ExtMRDMXKbHJtoiC_2u30a4TjVoHpg4xLH0z2jUVntFrpGt26OXfkBHxuwjq8xTOk=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/C8SZ5Na4t2ExtMRDMXKbHJtoiC_2u30a4TjVoHpg4xLH0z2jUVntFrpGt26OXfkBHxuwjq8xTOk=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/C8SZ5Na4t2ExtMRDMXKbHJtoiC_2u30a4TjVoHpg4xLH0z2jUVntFrpGt26OXfkBHxuwjq8xTOk=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 594000,
+      "viewCount": 496166667,
+      "videoCount": 25206,
+      "lastUpdated": "2025-08-20T11:40:07.454038Z"
     }
   },
-  "lastUpdated": "2025-08-18T07:13:44.729214Z",
-  "totalVideos": 2,
-  "totalChannels": 1
+  "lastUpdated": "2025-08-20T11:40:07.454428Z",
+  "totalVideos": 3,
+  "totalChannels": 2
 }

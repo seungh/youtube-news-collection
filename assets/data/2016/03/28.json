@@ -17,7 +17,7 @@
       "liveStreamingDetails": null,
       "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
       "channelName": "NATV 국회방송",
-      "collectedAt": "2025-08-18T07:13:41.700412Z"
+      "collectedAt": "2025-08-20T11:40:03.507421Z"
     },
     "_J7Bw9tLjLQ": {
       "videoId": "_J7Bw9tLjLQ",
@@ -36,7 +36,7 @@
       "liveStreamingDetails": null,
       "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
       "channelName": "NATV 국회방송",
-      "collectedAt": "2025-08-18T07:13:41.700412Z"
+      "collectedAt": "2025-08-20T11:40:03.507421Z"
     },
     "3VAqrt3cd1w": {
       "videoId": "3VAqrt3cd1w",
@@ -66,7 +66,37 @@
       "liveStreamingDetails": null,
       "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
       "channelName": "NATV 국회방송",
-      "collectedAt": "2025-08-18T07:13:41.700412Z"
+      "collectedAt": "2025-08-20T11:40:03.507421Z"
+    },
+    "YnMRfTswSZE": {
+      "videoId": "YnMRfTswSZE",
+      "title": "정부 3.0이 뭐지? 코코몽과 알아보세요~ - 싱싱정책 씽씽코코몽 5편 -",
+      "description": "올해 더 새로워진 정부 3.0 정책을 코코몽이 레이싱 하며 퀴즈를 푼다!\n1. 행복 출산 원스톱 서비스 \n- 출산지원금, 양육수당, 출산부터 양육에 관한 모든 지원을 출생신고와 함께 신청\n2. 민원 24시 대폭확대\n- 자동차 검사일, 휴먼예금 등 생활에 밀접한 정보들 확대\n3. 국민행복 카드\n- 건강보험 임신, 출산 진료비/청소년 산모임신 출산 의료비/ 산모, 신생아 건강관리 지원, 저소득층 기저귀 조제분유 지원 등",
+      "publishedAt": "2016-03-28T01:48:11Z",
+      "duration": "PT6M21S",
+      "viewCount": 5097,
+      "likeCount": 9,
+      "commentCount": 3,
+      "tags": [
+        "KTV 국민방송",
+        "한국정책방송 KTV",
+        "코코몽",
+        "정부3.0",
+        "빨간원숭이",
+        "병신년",
+        "정책",
+        "정부정책",
+        "출산",
+        "육아"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": "ko",
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCIMOytYIzaUpoAM2bpT4JZQ",
+      "channelName": "KTV 국민방송",
+      "collectedAt": "2025-08-20T11:40:03.509417Z"
     }
   },
   "channels": {
@@ -96,9 +126,36 @@
       "viewCount": 86009826,
       "videoCount": 16390,
       "lastUpdated": "2025-08-18T07:13:41.693612Z"
+    },
+    "UCIMOytYIzaUpoAM2bpT4JZQ": {
+      "channelId": "UCIMOytYIzaUpoAM2bpT4JZQ",
+      "channelName": "KTV 국민방송",
+      "channelUrl": "@ktv_korea",
+      "channelDescription": "이재명 정부 국정소식, 정책정보, 정부브리핑 등을 실시간으로 소개해드립니다\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/C8SZ5Na4t2ExtMRDMXKbHJtoiC_2u30a4TjVoHpg4xLH0z2jUVntFrpGt26OXfkBHxuwjq8xTOk=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/C8SZ5Na4t2ExtMRDMXKbHJtoiC_2u30a4TjVoHpg4xLH0z2jUVntFrpGt26OXfkBHxuwjq8xTOk=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/C8SZ5Na4t2ExtMRDMXKbHJtoiC_2u30a4TjVoHpg4xLH0z2jUVntFrpGt26OXfkBHxuwjq8xTOk=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 594000,
+      "viewCount": 496166667,
+      "videoCount": 25206,
+      "lastUpdated": "2025-08-20T11:40:03.507421Z"
     }
   },
-  "lastUpdated": "2025-08-18T07:13:41.706242Z",
-  "totalVideos": 3,
-  "totalChannels": 1
+  "lastUpdated": "2025-08-20T11:40:03.512044Z",
+  "totalVideos": 4,
+  "totalChannels": 2
 }

@@ -18,6 +18,89 @@
       "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
       "channelName": "NATV 국회방송",
       "collectedAt": "2025-08-18T07:13:37.357893Z"
+    },
+    "J1U34DRiLHM": {
+      "videoId": "J1U34DRiLHM",
+      "title": "문재인 대통령 탄도미사일 시험발사 참관",
+      "description": "문재인 대통령이 국방과학연구소를 방문해 현무2 탄도미사일 시험발사를 참관했습니다. 청와대는 이번 방문이 최근 북한의 잇따른 도발에 대한 경고의 의미라고 밝혔습니다.\n\n☆새로운 정책 정보가 가득! KTV국민방송 유튜브 구독해 주세요!",
+      "publishedAt": "2017-06-23T09:29:50Z",
+      "duration": "PT1M11S",
+      "viewCount": 8021,
+      "likeCount": 162,
+      "commentCount": 14,
+      "tags": [
+        "KTV 국민방송",
+        "한국정책방송 KTV",
+        "문재인",
+        "문재인대통령",
+        "국방과학연구소",
+        "탄도미사일",
+        "문재인 탄도미사일",
+        "북핵"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": "ko",
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCIMOytYIzaUpoAM2bpT4JZQ",
+      "channelName": "KTV 국민방송",
+      "collectedAt": "2025-08-20T11:40:10.976188Z"
+    },
+    "dkbpWklwDmE": {
+      "videoId": "dkbpWklwDmE",
+      "title": "이낙연 총리 세종시 우수 중소기업 방문...\"벤처 붐 기대\"",
+      "description": "이낙연 국무총리는 23일 “김대중정부 시절의 벤처 붐을 잇는 제2의 벤처 바람이 불었으면 좋겠다”고 했다. 이 총리는 이날 세종시 전의면에 있는 ㈜레이크머티리얼즈를 방문한 자리에서 “벤처 바람이 불었으면 좋겠다. 청년들의 꿈이 이뤄지도록 끌어주고, 맨땅에 헤딩하지 않도록 했으면 좋겠다”며 이같이 말했다.  \n\n☆새로운 정책 정보가 가득! KTV국민방송 유튜브 구독해 주세요!",
+      "publishedAt": "2017-06-23T09:29:50Z",
+      "duration": "PT1M28S",
+      "viewCount": 3917,
+      "likeCount": 57,
+      "commentCount": 5,
+      "tags": [
+        "KTV 국민방송",
+        "한국정책방송 KTV",
+        "이낙연",
+        "이낙연 국무총리",
+        "국무총리",
+        "㈜레이크머티리얼즈",
+        "레이크머티리얼즈",
+        "우수중소기업"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": "ko",
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCIMOytYIzaUpoAM2bpT4JZQ",
+      "channelName": "KTV 국민방송",
+      "collectedAt": "2025-08-20T11:40:10.976188Z"
+    },
+    "qenx5qwoHGU": {
+      "videoId": "qenx5qwoHGU",
+      "title": "문재인 대통령, 일자리 추경 강력한 의지",
+      "description": "문재인 대통령은 일자리위원회 제1차 회의를 주재하며\n 추경의 신속한 국회 통과를 호소했고, 일자리위원회에는 일자리정책 로드맵을 8월까지 마련해 달라고 당부했습니다.\n\n\n\n☆새로운 정책 정보가 가득! KTV국민방송 유튜브 구독해 주세요!",
+      "publishedAt": "2017-06-23T04:20:36Z",
+      "duration": "PT2M22S",
+      "viewCount": 511,
+      "likeCount": 23,
+      "commentCount": 2,
+      "tags": [
+        "KTV 국민방송",
+        "한국정책방송 KTV",
+        "문재인",
+        "일자리위원회",
+        "일자리",
+        "일자리 위원회 1차회의",
+        "일자리 로드맵"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": "ko",
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCIMOytYIzaUpoAM2bpT4JZQ",
+      "channelName": "KTV 국민방송",
+      "collectedAt": "2025-08-20T11:40:10.976188Z"
     }
   },
   "channels": {
@@ -47,9 +130,36 @@
       "viewCount": 86009826,
       "videoCount": 16390,
       "lastUpdated": "2025-08-18T07:13:37.356895Z"
+    },
+    "UCIMOytYIzaUpoAM2bpT4JZQ": {
+      "channelId": "UCIMOytYIzaUpoAM2bpT4JZQ",
+      "channelName": "KTV 국민방송",
+      "channelUrl": "@ktv_korea",
+      "channelDescription": "이재명 정부 국정소식, 정책정보, 정부브리핑 등을 실시간으로 소개해드립니다\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/C8SZ5Na4t2ExtMRDMXKbHJtoiC_2u30a4TjVoHpg4xLH0z2jUVntFrpGt26OXfkBHxuwjq8xTOk=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/C8SZ5Na4t2ExtMRDMXKbHJtoiC_2u30a4TjVoHpg4xLH0z2jUVntFrpGt26OXfkBHxuwjq8xTOk=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/C8SZ5Na4t2ExtMRDMXKbHJtoiC_2u30a4TjVoHpg4xLH0z2jUVntFrpGt26OXfkBHxuwjq8xTOk=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 594000,
+      "viewCount": 496166667,
+      "videoCount": 25206,
+      "lastUpdated": "2025-08-20T11:40:10.976188Z"
     }
   },
-  "lastUpdated": "2025-08-18T07:13:37.358889Z",
-  "totalVideos": 1,
-  "totalChannels": 1
+  "lastUpdated": "2025-08-20T11:40:10.976188Z",
+  "totalVideos": 4,
+  "totalChannels": 2
 }

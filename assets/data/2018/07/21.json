@@ -28,7 +28,95 @@
       "liveStreamingDetails": null,
       "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
       "channelName": "NATV 국회방송",
-      "collectedAt": "2025-08-18T07:13:34.349880Z"
+      "collectedAt": "2025-08-20T11:39:58.832459Z"
+    },
+    "peJFSPmsrc8": {
+      "videoId": "peJFSPmsrc8",
+      "title": "문재인 대통령 \"어린이집 관련 대책, 국무회의서 보고하라\"",
+      "description": "문재인 대통령은 보건복지부가 어린이집 사건과 관련한 대책을 조속히 세워 다음주 국무회의 안건으로 상정하라고 지시했습니다. \n김의겸 청와대 대변인은 문 대통령이 오늘 오전 최근 통학차량 어린이 사망 등 어린이집 사건이 이어지고 있다며 유사한 사례가 발생하지 않도록 완전히 해결할 대책을 조속히 세워서 보고를 해달라고 말했다고 전했습니다.",
+      "publishedAt": "2018-07-21T01:12:20Z",
+      "duration": "PT40S",
+      "viewCount": 855,
+      "likeCount": 33,
+      "commentCount": 0,
+      "tags": [
+        "KTV 국민방송",
+        "한국정책방송 KTV",
+        "어린이집 사고",
+        "어린이집",
+        "어린이집 사건",
+        "통학차량 사고",
+        "어린이",
+        "아이",
+        "문재인 대통령",
+        "보건복지부"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": "ko",
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCIMOytYIzaUpoAM2bpT4JZQ",
+      "channelName": "KTV 국민방송",
+      "collectedAt": "2025-08-20T11:39:58.835364Z"
+    },
+    "YgosbZIJiPw": {
+      "videoId": "YgosbZIJiPw",
+      "title": "여름방학 시작! 올여름 책임질 핫플레이스",
+      "description": "전국 대부분 해수욕장은 이미 단장을 마쳤습니다. \n단 해수욕장을 이용할 때는 보호자나 안전요원이 있는 곳에서만 물놀이를 즐기셔야 합니다. \n무료 물놀이장도 전국 곳곳에 펼쳐져 있습니다. \n성남시는 탄천과 주택가 등에서 물놀이장 22곳을 운영하고 있고, 인천광역시 송현근린공원과 수봉공원 등에서 무료 물놀이장이 준비돼 있습니다. \n열대야로 잠 못 드는 밤, 별을 보면서 이겨 내보는 건 어떨까요. \n충북 증평에 위치한 좌구산천문대는 여름철, 토성과 목성을 찾아볼 수 있어 아이들에게 인기가 좋습니다.",
+      "publishedAt": "2018-07-21T01:11:31Z",
+      "duration": "PT1M55S",
+      "viewCount": 299,
+      "likeCount": 5,
+      "commentCount": 2,
+      "tags": [
+        "KTV 국민방송",
+        "한국정책방송 KTV",
+        "여름방학",
+        "물놀이",
+        "가 볼 만한 곳",
+        "여름",
+        "여행",
+        "천문대",
+        "해수욕장",
+        "물놀이장"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": "ko",
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCIMOytYIzaUpoAM2bpT4JZQ",
+      "channelName": "KTV 국민방송",
+      "collectedAt": "2025-08-20T11:39:58.835364Z"
+    },
+    "vebTIHigtZQ": {
+      "videoId": "vebTIHigtZQ",
+      "title": "청와대 기무사 세부자료 공개, 계엄령 문건 확보",
+      "description": "청와대가 계엄령 문건의 세부자료를 확보해 그 내용을 공개했습니다. \n문건에는 계엄선도 동시에 언론을 통제하고 계엄해제 표결을 막기 위한 구체적인 내용이 담겼습니다. \n아울러, 이번 문건을 공개하는 이유에 대해 문건의 중요성과 국민 관심이 높은 만큼 신속하게 공개하는 것이 국민에 대한 도리라고 생각했다고 설명했습니다",
+      "publishedAt": "2018-07-21T01:12:07Z",
+      "duration": "PT1M44S",
+      "viewCount": 2291,
+      "likeCount": 96,
+      "commentCount": 14,
+      "tags": [
+        "KTV 국민방송",
+        "한국정책방송 KTV",
+        "기무사",
+        "계엄령",
+        "촛불집회",
+        "청와대",
+        "기무사 내용",
+        "언론 통제"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": "ko",
+      "defaultAudioLanguage": "ko",
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCIMOytYIzaUpoAM2bpT4JZQ",
+      "channelName": "KTV 국민방송",
+      "collectedAt": "2025-08-20T11:39:58.835364Z"
     }
   },
   "channels": {
@@ -58,9 +146,36 @@
       "viewCount": 86009826,
       "videoCount": 16390,
       "lastUpdated": "2025-08-18T07:13:34.345283Z"
+    },
+    "UCIMOytYIzaUpoAM2bpT4JZQ": {
+      "channelId": "UCIMOytYIzaUpoAM2bpT4JZQ",
+      "channelName": "KTV 국민방송",
+      "channelUrl": "@ktv_korea",
+      "channelDescription": "이재명 정부 국정소식, 정책정보, 정부브리핑 등을 실시간으로 소개해드립니다\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/C8SZ5Na4t2ExtMRDMXKbHJtoiC_2u30a4TjVoHpg4xLH0z2jUVntFrpGt26OXfkBHxuwjq8xTOk=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/C8SZ5Na4t2ExtMRDMXKbHJtoiC_2u30a4TjVoHpg4xLH0z2jUVntFrpGt26OXfkBHxuwjq8xTOk=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/C8SZ5Na4t2ExtMRDMXKbHJtoiC_2u30a4TjVoHpg4xLH0z2jUVntFrpGt26OXfkBHxuwjq8xTOk=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 594000,
+      "viewCount": 496166667,
+      "videoCount": 25206,
+      "lastUpdated": "2025-08-20T11:39:58.835364Z"
     }
   },
-  "lastUpdated": "2025-08-18T07:13:34.351876Z",
-  "totalVideos": 1,
-  "totalChannels": 1
+  "lastUpdated": "2025-08-20T11:39:58.835364Z",
+  "totalVideos": 4,
+  "totalChannels": 2
 }

@@ -46,7 +46,97 @@
       "liveStreamingDetails": null,
       "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
       "channelName": "NATV 국회방송",
-      "collectedAt": "2025-08-18T07:13:42.276714Z"
+      "collectedAt": "2025-08-20T11:40:04.286158Z"
+    },
+    "-foLTB5FG0E": {
+      "videoId": "-foLTB5FG0E",
+      "title": "2016 유행할 패션 트렌드 미리 보기! -국민리포트-",
+      "description": "지난해 복고열풍 대단했죠. \n\n패션계에도 복고바람이 거셌는데요.\n\n1970년대 인기를 끌었던\n프린지룩, 체크 등이\n다시 유행하는 등 \n유행은 돌고돈다는 말을\n실감하는 한해였습니다.\n\n그렇다면 올해 유행할 \n패션 트렌드는 무엇일까요?\n\n지금 소개해 드립니다.",
+      "publishedAt": "2016-01-15T04:09:02Z",
+      "duration": "PT1M54S",
+      "viewCount": 4019,
+      "likeCount": 9,
+      "commentCount": 0,
+      "tags": [
+        "KTV 국민방송",
+        "한국정책방송 KTV",
+        "국민리포트",
+        "국민기자단",
+        "국민기자",
+        "패션",
+        "트렌드",
+        "패피",
+        "패션피플",
+        "패셔니스타"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": "ko",
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCIMOytYIzaUpoAM2bpT4JZQ",
+      "channelName": "KTV 국민방송",
+      "collectedAt": "2025-08-20T11:40:04.288188Z"
+    },
+    "5z2RmL6-ruE": {
+      "videoId": "5z2RmL6-ruE",
+      "title": "경기도, 공공병원서 '포괄간호서비스' -국민리포트-",
+      "description": "간호사가 입원 환자의\n간병인 역할까지\n해주는 것을\n'포괄간호서비스'라고\n하는데요.\n \n보호자의 간병 부담을\n줄여주는\n포괄간호서비스가\n올해부터 경기도의\n모든 공공병원으로\n확대됩니다.\n(20150113)",
+      "publishedAt": "2016-01-15T03:56:20Z",
+      "duration": "PT2M9S",
+      "viewCount": 1528,
+      "likeCount": 1,
+      "commentCount": 0,
+      "tags": [
+        "KTV 국민방송",
+        "한국정책방송 KTV",
+        "국민리포트",
+        "국민기자단",
+        "국민기자",
+        "곽지술",
+        "김창수",
+        "공공병원",
+        "경기도",
+        "포괄간호서비스"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": "ko",
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCIMOytYIzaUpoAM2bpT4JZQ",
+      "channelName": "KTV 국민방송",
+      "collectedAt": "2025-08-20T11:40:04.288188Z"
+    },
+    "5uEAUy5ona4": {
+      "videoId": "5uEAUy5ona4",
+      "title": "대학생들의 등록금부담 반으로 줄이다! '반값 등록금' - 100년의 행복, 희망 대한민국 -",
+      "description": "정부가 2012년부터 추진 중인 '소득연계형 반값등록금' 사업이 2015년 완성됐다! 국가 등록금의 종류는 소득연계형 장학금 유형과 대학 자체노력에 따라 지원하는 유형으로 구분되는데.\n부경대학교 박지흠 학생은 국가장학금을 받을 수 있는 성적과 소득기준이 충족돼서 국가장학금과 근로장학금으로 학비 전액을 면제받았다. \n또, 포항공과대학교 김유경 학생은 국가장학금 다자녀 유형과 대학 자체지원 등록금에 따라 전체학기 등록금 반값혜택을 받았다. 대학생과 학부모의 부담을 덜어주는 정부의 '반값등록금'정책을 만나본다.",
+      "publishedAt": "2016-01-15T07:24:16Z",
+      "duration": "PT7M38S",
+      "viewCount": 91,
+      "likeCount": 1,
+      "commentCount": 0,
+      "tags": [
+        "KTV 국민방송",
+        "한국정책방송 KTV",
+        "반값등록금",
+        "100년",
+        "100년의 행복",
+        "백년",
+        "포항공대",
+        "국가장학금",
+        "다자녀",
+        "대학자체지원 등록금"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": "ko",
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCIMOytYIzaUpoAM2bpT4JZQ",
+      "channelName": "KTV 국민방송",
+      "collectedAt": "2025-08-20T11:40:04.288188Z"
     }
   },
   "channels": {
@@ -76,9 +166,36 @@
       "viewCount": 86009826,
       "videoCount": 16390,
       "lastUpdated": "2025-08-18T07:13:42.274041Z"
+    },
+    "UCIMOytYIzaUpoAM2bpT4JZQ": {
+      "channelId": "UCIMOytYIzaUpoAM2bpT4JZQ",
+      "channelName": "KTV 국민방송",
+      "channelUrl": "@ktv_korea",
+      "channelDescription": "이재명 정부 국정소식, 정책정보, 정부브리핑 등을 실시간으로 소개해드립니다\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/C8SZ5Na4t2ExtMRDMXKbHJtoiC_2u30a4TjVoHpg4xLH0z2jUVntFrpGt26OXfkBHxuwjq8xTOk=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/C8SZ5Na4t2ExtMRDMXKbHJtoiC_2u30a4TjVoHpg4xLH0z2jUVntFrpGt26OXfkBHxuwjq8xTOk=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/C8SZ5Na4t2ExtMRDMXKbHJtoiC_2u30a4TjVoHpg4xLH0z2jUVntFrpGt26OXfkBHxuwjq8xTOk=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 594000,
+      "viewCount": 496166667,
+      "videoCount": 25206,
+      "lastUpdated": "2025-08-20T11:40:04.288188Z"
     }
   },
-  "lastUpdated": "2025-08-18T07:13:42.280117Z",
-  "totalVideos": 2,
-  "totalChannels": 1
+  "lastUpdated": "2025-08-20T11:40:04.288188Z",
+  "totalVideos": 5,
+  "totalChannels": 2
 }

@@ -28,7 +28,7 @@
       "liveStreamingDetails": null,
       "channelId": "UCn8WFi6pE4cJZP8MiUNGFxg",
       "channelName": "KTV NEWS",
-      "collectedAt": "2025-08-18T07:13:50.672820Z"
+      "collectedAt": "2025-08-20T11:39:23.934307Z"
     },
     "9Chx9LOWWR0": {
       "videoId": "9Chx9LOWWR0",
@@ -58,7 +58,97 @@
       "liveStreamingDetails": null,
       "channelId": "UCn8WFi6pE4cJZP8MiUNGFxg",
       "channelName": "KTV NEWS",
-      "collectedAt": "2025-08-18T07:13:50.672820Z"
+      "collectedAt": "2025-08-20T11:39:23.934307Z"
+    },
+    "Z7tFVyDzqWA": {
+      "videoId": "Z7tFVyDzqWA",
+      "title": "[국정NOW] 오직 국익을 위해 달리는 영업사원의 노력으로 달라진 대한민국 외교! 한일중 관계복원에서 글로벌 사우스 외교까지!",
+      "description": "00:30 4년 5개월 안에 개최된 한일중 정상회의, 주요내용과 성과는?\n01:57 한일중 정상회의 국가 간 관계를 어떻게 회복시켰나?\n03:57 윤석열 정부의 글로벌 사우스 외교란 무엇인가?\n05:40 이전과 다른 윤석열 정부의 글로벌 사우스 외교방향은?\n06:50 윤석열 정부의 글로벌 사우스 외교. 앞으로 방향성은?\n\n외교는 계속되어 왔습니다.\n국가와 국가사이에 \n관계가 좋았던 적도 나빴던 적도 있었지만\n지금만큼 각 국가 사이의 관계가\n좋았던 적이 언제였던가요?\n가위바위보 같은 국가간 이익주도의\n다툼 속에 우직하게 중심을 잡고\n걸어가고 있는 대한민국.\n한반도 주변국과의 외교부터\n저 멀리 아프리카 까지 외교의 박차를\n가하고 있는 지금. \n우리는 어떤 성과를 얻어왔는지 짧은 영상으로\n소개해드립니다.",
+      "publishedAt": "2024-06-01T06:00:18Z",
+      "duration": "PT8M37S",
+      "viewCount": 1636,
+      "likeCount": 120,
+      "commentCount": 33,
+      "tags": [
+        "윤니크",
+        "윤석열",
+        "대통령",
+        "윤대통령",
+        "외교",
+        "글로벌",
+        "사우스",
+        "아프리카",
+        "한일",
+        "한중"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": "ko",
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCIMOytYIzaUpoAM2bpT4JZQ",
+      "channelName": "KTV 국민방송",
+      "collectedAt": "2025-08-20T11:39:23.935587Z"
+    },
+    "X4T6qbd6V1E": {
+      "videoId": "X4T6qbd6V1E",
+      "title": "한-아프리카 정상회의 첫 방한국은? [줄리우스 마아다 비오 시에라리온 공화국 대통령 공식 방한]",
+      "description": "",
+      "publishedAt": "2024-06-01T00:08:56Z",
+      "duration": "PT1M47S",
+      "viewCount": 9124,
+      "likeCount": 1475,
+      "commentCount": 226,
+      "tags": [
+        "윤석열",
+        "대통령",
+        "대통령실",
+        "대통령실 채널",
+        "윤석열 유튜브",
+        "대한민국 대통령실"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": "ko",
+      "defaultAudioLanguage": "en",
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCcl16CxYqlbKQJVCfdhSJVw",
+      "channelName": "윤석열",
+      "collectedAt": "2025-08-20T11:39:23.936584Z"
+    },
+    "KJ9G6FNTpYU": {
+      "videoId": "KJ9G6FNTpYU",
+      "title": "[LIVE] 권력은 짧고 진실은 반드시 승리합니다",
+      "description": "2024년 6월 1일 토요일 오후 3시 생중계\n해병대원 특검법 관철을 위한 범국민대회",
+      "publishedAt": "2024-06-01T07:54:37Z",
+      "duration": "PT1H59M56S",
+      "viewCount": 110080,
+      "likeCount": 22468,
+      "commentCount": 604,
+      "tags": [
+        "이재명",
+        "경기도",
+        "이재명연설",
+        "이재명지사",
+        "경기도지사",
+        "이재명 사이다",
+        "이재명 레전드",
+        "기본소득",
+        "이재명 계곡",
+        "더불어민주당"
+      ],
+      "categoryId": "24",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": {
+        "actualStartTime": "2024-06-01T05:39:11Z",
+        "actualEndTime": "2024-06-01T07:38:48Z",
+        "scheduledStartTime": "2024-06-01T06:00:00Z"
+      },
+      "channelId": "UCNJM6dqu70Qr6VaseiW1Org",
+      "channelName": "이재명",
+      "collectedAt": "2025-08-20T11:39:23.936584Z"
     }
   },
   "channels": {
@@ -88,9 +178,90 @@
       "viewCount": 87225174,
       "videoCount": 19299,
       "lastUpdated": "2025-08-18T02:22:23.398633Z"
+    },
+    "UCIMOytYIzaUpoAM2bpT4JZQ": {
+      "channelId": "UCIMOytYIzaUpoAM2bpT4JZQ",
+      "channelName": "KTV 국민방송",
+      "channelUrl": "@ktv_korea",
+      "channelDescription": "이재명 정부 국정소식, 정책정보, 정부브리핑 등을 실시간으로 소개해드립니다\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/C8SZ5Na4t2ExtMRDMXKbHJtoiC_2u30a4TjVoHpg4xLH0z2jUVntFrpGt26OXfkBHxuwjq8xTOk=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/C8SZ5Na4t2ExtMRDMXKbHJtoiC_2u30a4TjVoHpg4xLH0z2jUVntFrpGt26OXfkBHxuwjq8xTOk=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/C8SZ5Na4t2ExtMRDMXKbHJtoiC_2u30a4TjVoHpg4xLH0z2jUVntFrpGt26OXfkBHxuwjq8xTOk=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 594000,
+      "viewCount": 496166667,
+      "videoCount": 25206,
+      "lastUpdated": "2025-08-20T11:39:23.935587Z"
+    },
+    "UCcl16CxYqlbKQJVCfdhSJVw": {
+      "channelId": "UCcl16CxYqlbKQJVCfdhSJVw",
+      "channelName": "윤석열",
+      "channelUrl": "@sukyeol_yoon",
+      "channelDescription": "제20대 대통령 윤석열입니다.",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/Vn2wpB1HmM2E0ARHadprj2TrRWhBnkzeOhtfZ6fEEWHUnBg9YOGY_-dPUTAwUahGZg_igf9xDw=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/Vn2wpB1HmM2E0ARHadprj2TrRWhBnkzeOhtfZ6fEEWHUnBg9YOGY_-dPUTAwUahGZg_igf9xDw=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/Vn2wpB1HmM2E0ARHadprj2TrRWhBnkzeOhtfZ6fEEWHUnBg9YOGY_-dPUTAwUahGZg_igf9xDw=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 754000,
+      "viewCount": 157172619,
+      "videoCount": 3538,
+      "lastUpdated": "2025-08-20T11:39:23.935587Z"
+    },
+    "UCNJM6dqu70Qr6VaseiW1Org": {
+      "channelId": "UCNJM6dqu70Qr6VaseiW1Org",
+      "channelName": "이재명",
+      "channelUrl": "@이재명tv",
+      "channelDescription": "대한민국 제21대 대통령\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/kIdZSRMagKta6GY6aiDm5asO5Cupd_HanW3xIFnBW2p8VNYI2JryJUchT4Aoy2ASM-ifq7JfyQ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/kIdZSRMagKta6GY6aiDm5asO5Cupd_HanW3xIFnBW2p8VNYI2JryJUchT4Aoy2ASM-ifq7JfyQ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/kIdZSRMagKta6GY6aiDm5asO5Cupd_HanW3xIFnBW2p8VNYI2JryJUchT4Aoy2ASM-ifq7JfyQ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 1710000,
+      "viewCount": 336974518,
+      "videoCount": 3965,
+      "lastUpdated": "2025-08-20T11:39:23.936584Z"
     }
   },
-  "lastUpdated": "2025-08-18T07:13:50.672820Z",
-  "totalVideos": 2,
-  "totalChannels": 1
+  "lastUpdated": "2025-08-20T11:39:23.937581Z",
+  "totalVideos": 5,
+  "totalChannels": 4
 }

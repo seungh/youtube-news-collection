@@ -27,7 +27,7 @@
       "liveStreamingDetails": null,
       "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
       "channelName": "NATV 국회방송",
-      "collectedAt": "2025-08-18T07:13:38.451161Z"
+      "collectedAt": "2025-08-20T11:40:00.937598Z"
     },
     "Iq4PsABaJUQ": {
       "videoId": "Iq4PsABaJUQ",
@@ -52,7 +52,67 @@
       "liveStreamingDetails": null,
       "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
       "channelName": "NATV 국회방송",
-      "collectedAt": "2025-08-18T07:13:38.451161Z"
+      "collectedAt": "2025-08-20T11:40:00.937598Z"
+    },
+    "vxJAQJxH3CQ": {
+      "videoId": "vxJAQJxH3CQ",
+      "title": "촛불민심따라 호남 찾은 이재명. 끼니도 거르며 광폭행보 이재명의 호남 일정 1일차(2/27)",
+      "description": "설명",
+      "publishedAt": "2017-02-28T14:40:51Z",
+      "duration": "PT5M1S",
+      "viewCount": 6338,
+      "likeCount": 1007,
+      "commentCount": 143,
+      "tags": [
+        "이재명",
+        "성남시장",
+        "성남시",
+        "성남",
+        "황교안",
+        "탄핵",
+        "jTBC",
+        "sbs",
+        "mbc",
+        "mbn"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCNJM6dqu70Qr6VaseiW1Org",
+      "channelName": "이재명",
+      "collectedAt": "2025-08-20T11:40:00.938596Z"
+    },
+    "WqT-xC5pBx0": {
+      "videoId": "WqT-xC5pBx0",
+      "title": "[제17차 촛불] 황교안 특검연장 거부 99.9% 외치던 이재명. 황교안도 최순실 게이트 공범! 광화문 촛불 사자후 연설",
+      "description": "",
+      "publishedAt": "2017-02-27T23:00:49Z",
+      "duration": "PT6M7S",
+      "viewCount": 4242,
+      "likeCount": 562,
+      "commentCount": 58,
+      "tags": [
+        "이재명",
+        "광화문",
+        "촛불",
+        "사자후",
+        "연설",
+        "박근혜",
+        "최순실",
+        "게이트",
+        "황교안",
+        "공범"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCNJM6dqu70Qr6VaseiW1Org",
+      "channelName": "이재명",
+      "collectedAt": "2025-08-20T11:40:00.938596Z"
     }
   },
   "channels": {
@@ -82,9 +142,36 @@
       "viewCount": 86009826,
       "videoCount": 16390,
       "lastUpdated": "2025-08-18T07:13:38.446547Z"
+    },
+    "UCNJM6dqu70Qr6VaseiW1Org": {
+      "channelId": "UCNJM6dqu70Qr6VaseiW1Org",
+      "channelName": "이재명",
+      "channelUrl": "@이재명tv",
+      "channelDescription": "대한민국 제21대 대통령\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/kIdZSRMagKta6GY6aiDm5asO5Cupd_HanW3xIFnBW2p8VNYI2JryJUchT4Aoy2ASM-ifq7JfyQ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/kIdZSRMagKta6GY6aiDm5asO5Cupd_HanW3xIFnBW2p8VNYI2JryJUchT4Aoy2ASM-ifq7JfyQ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/kIdZSRMagKta6GY6aiDm5asO5Cupd_HanW3xIFnBW2p8VNYI2JryJUchT4Aoy2ASM-ifq7JfyQ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 1710000,
+      "viewCount": 336974518,
+      "videoCount": 3965,
+      "lastUpdated": "2025-08-20T11:40:00.937598Z"
     }
   },
-  "lastUpdated": "2025-08-18T07:13:38.458785Z",
-  "totalVideos": 2,
-  "totalChannels": 1
+  "lastUpdated": "2025-08-20T11:40:00.938596Z",
+  "totalVideos": 4,
+  "totalChannels": 2
 }

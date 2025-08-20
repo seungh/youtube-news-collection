@@ -28,7 +28,7 @@
       "liveStreamingDetails": null,
       "channelId": "UCn8WFi6pE4cJZP8MiUNGFxg",
       "channelName": "KTV NEWS",
-      "collectedAt": "2025-08-18T07:13:22.099656Z"
+      "collectedAt": "2025-08-20T11:39:26.846602Z"
     },
     "twIypwDtaZ4": {
       "videoId": "twIypwDtaZ4",
@@ -58,7 +58,7 @@
       "liveStreamingDetails": null,
       "channelId": "UCn8WFi6pE4cJZP8MiUNGFxg",
       "channelName": "KTV NEWS",
-      "collectedAt": "2025-08-18T07:13:22.099656Z"
+      "collectedAt": "2025-08-20T11:39:26.846602Z"
     },
     "Td8RyFV33ng": {
       "videoId": "Td8RyFV33ng",
@@ -80,7 +80,41 @@
       "liveStreamingDetails": null,
       "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
       "channelName": "NATV 국회방송",
-      "collectedAt": "2025-08-18T07:13:22.099656Z"
+      "collectedAt": "2025-08-20T11:39:26.847362Z"
+    },
+    "RornM9f7ilk": {
+      "videoId": "RornM9f7ilk",
+      "title": "576돌 한글날 경축식｜한덕수 국무총리 기념사 (22.10.9. 풀영상)",
+      "description": "📢본 영상의 저작권은 영상을 취재하는 개별 방송사에 있으며\n영상의 무단 복제·배포 및 재가공 등을 금합니다.\n\n📌16:57 한덕수 국무총리 기념사 바로가기 \n\n✔우리 말과 글 지키신 모든분들께 감사\n▪️만든 이가 누구인지 밝혀진 글 '한글' 유일\n\n✔세계적으로 한글 우수성과 창조성 높이 평가\n▪️세계인이 사랑하는 K-문화 그 자체\n▪️전 세계 한글 열기 매우 뜨거워\n▪️한글 사랑하는 세계시민께 깊은 감사\n\n✔우리 말과 글의 힘, 대한민국 경쟁력\n▪️한국어 빅데이터 꾸준히 구축\n▪️한글 확산 위해 정책적 지원 아끼지 않을 것\n \n✔한글 있었기에 우리 생각 널리 전할 수 있어\n▪️한글, 세계인이 배우고 사랑하는 언어\n\n🔎한덕수 국무총리 기념사 전문\n\n존경하는 국민 여러분, 재외 동포 여러분,\n그리고 한글을 사랑하는 내외귀빈 여러분,\n\n오늘은 세종대왕께서\n‘백성이 날마다 씀에 편안케 하고자’\n우리글인 한글을 널리 펴신 지\n오백 일흔 여섯 돌이 되는 날입니다.\n\n소중한 한글을 더 널리 알리...",
+      "publishedAt": "2022-10-09T01:35:59Z",
+      "duration": "PT30M32S",
+      "viewCount": 4692,
+      "likeCount": 147,
+      "commentCount": 47,
+      "tags": [
+        "576돌",
+        "한글날",
+        "경축식",
+        "한글날경축식",
+        "한글날행사",
+        "정부행사",
+        "윤석열대통령",
+        "윤대통령",
+        "한덕수",
+        "한덕수국무총리"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": "ko",
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": {
+        "actualStartTime": "2022-10-09T00:55:55Z",
+        "actualEndTime": "2022-10-09T01:30:54Z",
+        "scheduledStartTime": "2022-10-09T01:00:00Z"
+      },
+      "channelId": "UCIMOytYIzaUpoAM2bpT4JZQ",
+      "channelName": "KTV 국민방송",
+      "collectedAt": "2025-08-20T11:39:26.850335Z"
     }
   },
   "channels": {
@@ -137,9 +171,36 @@
       "viewCount": 86003788,
       "videoCount": 16388,
       "lastUpdated": "2025-08-18T02:22:29.182340Z"
+    },
+    "UCIMOytYIzaUpoAM2bpT4JZQ": {
+      "channelId": "UCIMOytYIzaUpoAM2bpT4JZQ",
+      "channelName": "KTV 국민방송",
+      "channelUrl": "@ktv_korea",
+      "channelDescription": "이재명 정부 국정소식, 정책정보, 정부브리핑 등을 실시간으로 소개해드립니다\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/C8SZ5Na4t2ExtMRDMXKbHJtoiC_2u30a4TjVoHpg4xLH0z2jUVntFrpGt26OXfkBHxuwjq8xTOk=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/C8SZ5Na4t2ExtMRDMXKbHJtoiC_2u30a4TjVoHpg4xLH0z2jUVntFrpGt26OXfkBHxuwjq8xTOk=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/C8SZ5Na4t2ExtMRDMXKbHJtoiC_2u30a4TjVoHpg4xLH0z2jUVntFrpGt26OXfkBHxuwjq8xTOk=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 594000,
+      "viewCount": 496166667,
+      "videoCount": 25206,
+      "lastUpdated": "2025-08-20T11:39:26.849338Z"
     }
   },
-  "lastUpdated": "2025-08-18T07:13:22.099656Z",
-  "totalVideos": 3,
-  "totalChannels": 2
+  "lastUpdated": "2025-08-20T11:39:26.850335Z",
+  "totalVideos": 4,
+  "totalChannels": 3
 }

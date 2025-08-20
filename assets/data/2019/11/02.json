@@ -43,7 +43,7 @@
       "liveStreamingDetails": null,
       "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
       "channelName": "NATV 국회방송",
-      "collectedAt": "2025-08-18T07:13:28.577351Z"
+      "collectedAt": "2025-08-20T11:39:54.374212Z"
     },
     "L1ACXuZP6TM": {
       "videoId": "L1ACXuZP6TM",
@@ -72,7 +72,37 @@
       "liveStreamingDetails": null,
       "channelId": "UCn8WFi6pE4cJZP8MiUNGFxg",
       "channelName": "KTV NEWS",
-      "collectedAt": "2025-08-18T07:13:28.581103Z"
+      "collectedAt": "2025-08-20T11:39:54.373216Z"
+    },
+    "tG-2RtUbYL4": {
+      "videoId": "tG-2RtUbYL4",
+      "title": "[90초] 어이~ 갑질, 반칙하는 친구! 경기도에서는 공정하게 행동해",
+      "description": "- 경기도가 공정위와 함께 공정한 사회의 모범을 만들겠습니다 -\n\n우리 경제가 꾸준히 성장했음에도 불구하고 사회적 수준이 뒷걸음질 치는 듯 느껴지는 이유는 공정하지 못하기 때문일 것입니다.\n\n불공정이 끊임없이 격차와 편중을 확대 재생산하고 있습니다. 기득권이 대물림되고, 갈수록 이를 공고하게 만드는 지금의 시스템이 바뀌지 않으면 우리에게 미래는 없습니다.\n\n불공정한 구조로 피해보는 사람은 빠르게 구제하고, 편법으로 부당한 이익을 보는 사람은 엄중히 제재하는 것이야말로 사회적 불균형, 경제적 불평등을 해소하는 길입니다.\n\n일자리 문제도 심각하지요. 멀리 보면 공정한 경쟁의 장을 열어 국민들이 희망을 가지고 열심히 일하며 주어진 몫을 하게 만드는 것이 그 어떤 일자리 사업보다 효과적인 진짜 해법이라고 생각합니다.\n\n'함께 사는 세상'을 향한 우리 사회의 변곡점을 모색해야 한다면 바로 지금일 것입니다. 공정위와 협력하여 '공정'의 새로운 모범이 되겠습니다.\n\n#이재명 #공정2020 #공정...",
+      "publishedAt": "2019-11-02T04:00:09Z",
+      "duration": "PT3M13S",
+      "viewCount": 10301,
+      "likeCount": 1862,
+      "commentCount": 216,
+      "tags": [
+        "이재명",
+        "경기도청",
+        "경기도",
+        "이재명연설",
+        "이재명지사",
+        "경기도지사",
+        "경기도이재명",
+        "이재명경기도",
+        "경기도정",
+        "이재명경기도지사"
+      ],
+      "categoryId": "22",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCNJM6dqu70Qr6VaseiW1Org",
+      "channelName": "이재명",
+      "collectedAt": "2025-08-20T11:39:54.375210Z"
     }
   },
   "channels": {
@@ -129,9 +159,36 @@
       "viewCount": 87289483,
       "videoCount": 19304,
       "lastUpdated": "2025-08-18T07:13:28.580105Z"
+    },
+    "UCNJM6dqu70Qr6VaseiW1Org": {
+      "channelId": "UCNJM6dqu70Qr6VaseiW1Org",
+      "channelName": "이재명",
+      "channelUrl": "@이재명tv",
+      "channelDescription": "대한민국 제21대 대통령\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/kIdZSRMagKta6GY6aiDm5asO5Cupd_HanW3xIFnBW2p8VNYI2JryJUchT4Aoy2ASM-ifq7JfyQ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/kIdZSRMagKta6GY6aiDm5asO5Cupd_HanW3xIFnBW2p8VNYI2JryJUchT4Aoy2ASM-ifq7JfyQ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/kIdZSRMagKta6GY6aiDm5asO5Cupd_HanW3xIFnBW2p8VNYI2JryJUchT4Aoy2ASM-ifq7JfyQ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 1710000,
+      "viewCount": 336974518,
+      "videoCount": 3965,
+      "lastUpdated": "2025-08-20T11:39:54.374212Z"
     }
   },
-  "lastUpdated": "2025-08-18T07:13:28.582100Z",
-  "totalVideos": 3,
-  "totalChannels": 2
+  "lastUpdated": "2025-08-20T11:39:54.375210Z",
+  "totalVideos": 4,
+  "totalChannels": 3
 }

@@ -17,7 +17,7 @@
       "liveStreamingDetails": null,
       "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
       "channelName": "NATV 국회방송",
-      "collectedAt": "2025-08-18T07:13:46.615018Z"
+      "collectedAt": "2025-08-20T11:40:08.036332Z"
     },
     "S9Qb3pKxi_w": {
       "videoId": "S9Qb3pKxi_w",
@@ -36,7 +36,7 @@
       "liveStreamingDetails": null,
       "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
       "channelName": "NATV 국회방송",
-      "collectedAt": "2025-08-18T07:13:46.615018Z"
+      "collectedAt": "2025-08-20T11:40:08.036332Z"
     },
     "Bcd1tsOhrBc": {
       "videoId": "Bcd1tsOhrBc",
@@ -55,7 +55,7 @@
       "liveStreamingDetails": null,
       "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
       "channelName": "NATV 국회방송",
-      "collectedAt": "2025-08-18T07:13:46.615018Z"
+      "collectedAt": "2025-08-20T11:40:08.036332Z"
     },
     "dzyjS40fRdw": {
       "videoId": "dzyjS40fRdw",
@@ -85,7 +85,7 @@
       "liveStreamingDetails": null,
       "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
       "channelName": "NATV 국회방송",
-      "collectedAt": "2025-08-18T07:13:46.615018Z"
+      "collectedAt": "2025-08-20T11:40:08.036332Z"
     },
     "m8NOmxj60Yw": {
       "videoId": "m8NOmxj60Yw",
@@ -142,7 +142,7 @@
       "liveStreamingDetails": null,
       "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
       "channelName": "NATV 국회방송",
-      "collectedAt": "2025-08-18T07:13:46.615018Z"
+      "collectedAt": "2025-08-20T11:40:08.036332Z"
     },
     "TytbmknRmEM": {
       "videoId": "TytbmknRmEM",
@@ -172,7 +172,7 @@
       "liveStreamingDetails": null,
       "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
       "channelName": "NATV 국회방송",
-      "collectedAt": "2025-08-18T07:13:46.615018Z"
+      "collectedAt": "2025-08-20T11:40:08.036332Z"
     },
     "hwLyx6MbVQE": {
       "videoId": "hwLyx6MbVQE",
@@ -202,6 +202,34 @@
       "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
       "channelName": "NATV 국회방송",
       "collectedAt": "2025-08-18T07:13:46.615018Z"
+    },
+    "MRGmpERsTDc": {
+      "videoId": "MRGmpERsTDc",
+      "title": "[KTV 국민방송] '알록달록 이색 팥죽' 농촌진흥청, 이색 칼라 팥죽 개발",
+      "description": "낮이 가장 짧고 밤이 가장 길다는 동지.\n동짓날이면 팥죽을 먹어 액운을 떨쳐내고 \n이웃간에 정을 나눠왔는데요\n농촌진흥청은 다양한 색과 성분을 함유한 팥을 개발했다고 합니다.\n이 팥들로 알록달록한 팥죽을 만들 수 있다고 하는데요\n함께 만나보실까요~",
+      "publishedAt": "2014-12-22T11:22:20Z",
+      "duration": "PT1M58S",
+      "viewCount": 99,
+      "likeCount": 0,
+      "commentCount": 0,
+      "tags": [
+        "KTV 국민방송",
+        "한국정책방송 KTV",
+        "팥",
+        "팥죽",
+        "농촌진흥청",
+        "동지",
+        "동지팥죽",
+        "칼라팥죽"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCIMOytYIzaUpoAM2bpT4JZQ",
+      "channelName": "KTV 국민방송",
+      "collectedAt": "2025-08-20T11:40:08.037358Z"
     }
   },
   "channels": {
@@ -231,9 +259,36 @@
       "viewCount": 86009826,
       "videoCount": 16390,
       "lastUpdated": "2025-08-18T07:13:46.612667Z"
+    },
+    "UCIMOytYIzaUpoAM2bpT4JZQ": {
+      "channelId": "UCIMOytYIzaUpoAM2bpT4JZQ",
+      "channelName": "KTV 국민방송",
+      "channelUrl": "@ktv_korea",
+      "channelDescription": "이재명 정부 국정소식, 정책정보, 정부브리핑 등을 실시간으로 소개해드립니다\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/C8SZ5Na4t2ExtMRDMXKbHJtoiC_2u30a4TjVoHpg4xLH0z2jUVntFrpGt26OXfkBHxuwjq8xTOk=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/C8SZ5Na4t2ExtMRDMXKbHJtoiC_2u30a4TjVoHpg4xLH0z2jUVntFrpGt26OXfkBHxuwjq8xTOk=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/C8SZ5Na4t2ExtMRDMXKbHJtoiC_2u30a4TjVoHpg4xLH0z2jUVntFrpGt26OXfkBHxuwjq8xTOk=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 594000,
+      "viewCount": 496166667,
+      "videoCount": 25206,
+      "lastUpdated": "2025-08-20T11:40:08.036332Z"
     }
   },
-  "lastUpdated": "2025-08-18T07:13:46.617018Z",
-  "totalVideos": 9,
-  "totalChannels": 1
+  "lastUpdated": "2025-08-20T11:40:08.037358Z",
+  "totalVideos": 10,
+  "totalChannels": 2
 }

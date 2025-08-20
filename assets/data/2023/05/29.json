@@ -28,7 +28,7 @@
       "liveStreamingDetails": null,
       "channelId": "UCn8WFi6pE4cJZP8MiUNGFxg",
       "channelName": "KTV NEWS",
-      "collectedAt": "2025-08-18T07:13:20.742792Z"
+      "collectedAt": "2025-08-20T11:39:25.552079Z"
     },
     "aBoWzjF_378": {
       "videoId": "aBoWzjF_378",
@@ -58,7 +58,7 @@
       "liveStreamingDetails": null,
       "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
       "channelName": "NATV 국회방송",
-      "collectedAt": "2025-08-18T07:13:20.741029Z"
+      "collectedAt": "2025-08-20T11:39:25.553468Z"
     },
     "F22ascBsYZA": {
       "videoId": "F22ascBsYZA",
@@ -87,7 +87,7 @@
       "liveStreamingDetails": null,
       "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
       "channelName": "NATV 국회방송",
-      "collectedAt": "2025-08-18T07:13:20.741029Z"
+      "collectedAt": "2025-08-20T11:39:25.553468Z"
     },
     "CWydhPDOhzk": {
       "videoId": "CWydhPDOhzk",
@@ -110,6 +110,66 @@
       "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
       "channelName": "NATV 국회방송",
       "collectedAt": "2025-08-18T07:13:20.741029Z"
+    },
+    "XmDbTT1KTQY": {
+      "videoId": "XmDbTT1KTQY",
+      "title": "편집자가 대혼란에 빠진 윤 대통령의 릴레이 양자회담! 한국을 방문한 태평양도서국 10개국 정상들은 누구?",
+      "description": "윤석열 대통령은 5월 28일과 29일, 이틀에 걸쳐서 \n태평양도서국 10개국과 양자회담을 개최했습니다. \n\n2023 한-태평양도서국 정상회의 참석을 위해 방한한 국가는 \n키리바시, 통가, 투발루, 바누아투, 파푸아뉴기니, \n쿡제도, 마셜제도, 솔로몬제도, 니우에, 팔라우 인데요. \n\n각국 정상과 나눈 이야기, \n윤니크에서 확인하세요!\n\n\n#윤석열대통령 #양자회담 #태평양도서국 #정상회의",
+      "publishedAt": "2023-05-29T08:58:55Z",
+      "duration": "PT5M47S",
+      "viewCount": 10741,
+      "likeCount": 1640,
+      "commentCount": 122,
+      "tags": [
+        "윤석열대통령",
+        "윤석열",
+        "대통령",
+        "용산",
+        "대통령실",
+        "양자회담",
+        "양자정상회담",
+        "태평양도서국",
+        "한-태평양도서국",
+        "키리바시"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCydbI9p3_8DeteSBbnv0tuA",
+      "channelName": "윤석열 정부 영상 아카이브",
+      "collectedAt": "2025-08-20T11:39:25.554464Z"
+    },
+    "-BSEN6Yymxw": {
+      "videoId": "-BSEN6Yymxw",
+      "title": "윤 대통령, 한국-태평양도서국 간 정상회의 주재! 윤석열 정부 출범 후 국내에서 개최되는 첫 다자회의이자, 인태 전략 발표 후 첫 발걸음의 신호탄",
+      "description": "윤석열 대통령은 5월 29일, 청와대 영빈관에서\n한국-태평양도서국 정상회의를 주재했습니다\n한국-태평양도서국 정상회의는 처음으로 열리는데요.\n이번 정상회의는 윤석열 정부 출범 후 국내에서 개최되는 첫 다자회의이자\n인도태평양 전략 발표 후 첫발을 떼는 신호탄이기도 합니다\n그 현장 윤니크에서 확인하세요\n\n#윤석열대통령 #태평양도서국 #정상회의",
+      "publishedAt": "2023-05-29T10:32:23Z",
+      "duration": "PT5M52S",
+      "viewCount": 34176,
+      "likeCount": 3668,
+      "commentCount": 238,
+      "tags": [
+        "윤석열대통령",
+        "윤니크",
+        "YOONIQUE",
+        "태평양도서국",
+        "정상회의",
+        "다자회의",
+        "인도태평양",
+        "전략",
+        "글로벌",
+        "외교"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCydbI9p3_8DeteSBbnv0tuA",
+      "channelName": "윤석열 정부 영상 아카이브",
+      "collectedAt": "2025-08-20T11:39:25.554464Z"
     }
   },
   "channels": {
@@ -166,9 +226,36 @@
       "viewCount": 86003788,
       "videoCount": 16388,
       "lastUpdated": "2025-08-18T02:22:26.930607Z"
+    },
+    "UCydbI9p3_8DeteSBbnv0tuA": {
+      "channelId": "UCydbI9p3_8DeteSBbnv0tuA",
+      "channelName": "윤석열 정부 영상 아카이브",
+      "channelUrl": "@yoonique2929",
+      "channelDescription": "* 윤석열 정부의 대통령 행보와 브리핑을 기록한 영상 아카이브 채널입니다.\n* KTV 온라인콘텐츠의 부분발췌, 상업적 이용 등 무단사용을 금합니다. \n※ 채널에 게시된 영상의 저작권은 영상을 취재한 개별 방송사에 있으며\n     영상의 무단 복제·배포 및 재가공 등을 금합니다\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/26A81EvLC15coLPb2U9jko_jbEmNq85IPoDxWRcy0xqhzD0uIEtOvBWIMdo2_lkLMnMLvvAHZA=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/26A81EvLC15coLPb2U9jko_jbEmNq85IPoDxWRcy0xqhzD0uIEtOvBWIMdo2_lkLMnMLvvAHZA=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/26A81EvLC15coLPb2U9jko_jbEmNq85IPoDxWRcy0xqhzD0uIEtOvBWIMdo2_lkLMnMLvvAHZA=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 255000,
+      "viewCount": 109575768,
+      "videoCount": 2854,
+      "lastUpdated": "2025-08-20T11:39:25.553468Z"
     }
   },
-  "lastUpdated": "2025-08-18T07:13:20.744787Z",
-  "totalVideos": 4,
-  "totalChannels": 2
+  "lastUpdated": "2025-08-20T11:39:25.554464Z",
+  "totalVideos": 6,
+  "totalChannels": 3
 }

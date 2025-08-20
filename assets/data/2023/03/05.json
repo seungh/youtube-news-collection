@@ -28,7 +28,7 @@
       "liveStreamingDetails": null,
       "channelId": "UCn8WFi6pE4cJZP8MiUNGFxg",
       "channelName": "KTV NEWS",
-      "collectedAt": "2025-08-18T07:13:21.345639Z"
+      "collectedAt": "2025-08-20T11:39:25.878409Z"
     },
     "lRhwBEoVM0M": {
       "videoId": "lRhwBEoVM0M",
@@ -47,7 +47,7 @@
       "liveStreamingDetails": null,
       "channelId": "UCn8WFi6pE4cJZP8MiUNGFxg",
       "channelName": "KTV NEWS",
-      "collectedAt": "2025-08-18T07:13:21.345639Z"
+      "collectedAt": "2025-08-20T11:39:25.878409Z"
     },
     "aHnzL6iXxlM": {
       "videoId": "aHnzL6iXxlM",
@@ -85,7 +85,7 @@
       "liveStreamingDetails": null,
       "channelId": "UCn8WFi6pE4cJZP8MiUNGFxg",
       "channelName": "KTV NEWS",
-      "collectedAt": "2025-08-18T07:13:21.345639Z"
+      "collectedAt": "2025-08-20T11:39:25.878409Z"
     },
     "gzkQ7g7oGt0": {
       "videoId": "gzkQ7g7oGt0",
@@ -115,7 +115,7 @@
       "liveStreamingDetails": null,
       "channelId": "UCn8WFi6pE4cJZP8MiUNGFxg",
       "channelName": "KTV NEWS",
-      "collectedAt": "2025-08-18T07:13:21.345639Z"
+      "collectedAt": "2025-08-20T11:39:25.878409Z"
     },
     "LveW7kVpDks": {
       "videoId": "LveW7kVpDks",
@@ -137,7 +137,57 @@
       "liveStreamingDetails": null,
       "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
       "channelName": "NATV 국회방송",
-      "collectedAt": "2025-08-18T07:13:21.344596Z"
+      "collectedAt": "2025-08-20T11:39:25.881294Z"
+    },
+    "yVmmXnxltiY": {
+      "videoId": "yVmmXnxltiY",
+      "title": "Address by President Yoon Suk Yeol on the 104th March First Independence Movement Day",
+      "description": "",
+      "publishedAt": "2023-03-05T04:31:03Z",
+      "duration": "PT5M59S",
+      "viewCount": 13751,
+      "likeCount": 3385,
+      "commentCount": 257,
+      "tags": [
+        "윤석열",
+        "대통령",
+        "20대대통령",
+        "공정",
+        "상식"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": "ko",
+      "defaultAudioLanguage": "ko",
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCcl16CxYqlbKQJVCfdhSJVw",
+      "channelName": "윤석열",
+      "collectedAt": "2025-08-20T11:39:25.881815Z"
+    },
+    "1kPIu4CNL8Y": {
+      "videoId": "1kPIu4CNL8Y",
+      "title": "상인 한 명 한 명, 지난해 태풍 피해와 어려움 꼼꼼히 살폈다! [김건희 여사, 죽도시장 방문]",
+      "description": "",
+      "publishedAt": "2023-03-05T02:13:55Z",
+      "duration": "PT2M22S",
+      "viewCount": 179215,
+      "likeCount": 15547,
+      "commentCount": 1160,
+      "tags": [
+        "윤석열",
+        "대통령",
+        "20대대통령",
+        "공정",
+        "상식"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": "ko",
+      "defaultAudioLanguage": "ko",
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCcl16CxYqlbKQJVCfdhSJVw",
+      "channelName": "윤석열",
+      "collectedAt": "2025-08-20T11:39:25.882806Z"
     }
   },
   "channels": {
@@ -194,9 +244,36 @@
       "viewCount": 86003788,
       "videoCount": 16388,
       "lastUpdated": "2025-08-18T02:22:27.877153Z"
+    },
+    "UCcl16CxYqlbKQJVCfdhSJVw": {
+      "channelId": "UCcl16CxYqlbKQJVCfdhSJVw",
+      "channelName": "윤석열",
+      "channelUrl": "@sukyeol_yoon",
+      "channelDescription": "제20대 대통령 윤석열입니다.",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/Vn2wpB1HmM2E0ARHadprj2TrRWhBnkzeOhtfZ6fEEWHUnBg9YOGY_-dPUTAwUahGZg_igf9xDw=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/Vn2wpB1HmM2E0ARHadprj2TrRWhBnkzeOhtfZ6fEEWHUnBg9YOGY_-dPUTAwUahGZg_igf9xDw=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/Vn2wpB1HmM2E0ARHadprj2TrRWhBnkzeOhtfZ6fEEWHUnBg9YOGY_-dPUTAwUahGZg_igf9xDw=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 754000,
+      "viewCount": 157172619,
+      "videoCount": 3538,
+      "lastUpdated": "2025-08-20T11:39:25.881815Z"
     }
   },
-  "lastUpdated": "2025-08-18T07:13:21.347286Z",
-  "totalVideos": 6,
-  "totalChannels": 2
+  "lastUpdated": "2025-08-20T11:39:25.882806Z",
+  "totalVideos": 8,
+  "totalChannels": 3
 }

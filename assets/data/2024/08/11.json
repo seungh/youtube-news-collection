@@ -17,7 +17,7 @@
       "liveStreamingDetails": null,
       "channelId": "UCn8WFi6pE4cJZP8MiUNGFxg",
       "channelName": "KTV NEWS",
-      "collectedAt": "2025-08-18T07:13:50.585091Z"
+      "collectedAt": "2025-08-20T11:39:23.640310Z"
     },
     "DO2pMfWU9mg": {
       "videoId": "DO2pMfWU9mg",
@@ -36,7 +36,7 @@
       "liveStreamingDetails": null,
       "channelId": "UCn8WFi6pE4cJZP8MiUNGFxg",
       "channelName": "KTV NEWS",
-      "collectedAt": "2025-08-18T07:13:50.585091Z"
+      "collectedAt": "2025-08-20T11:39:23.640310Z"
     },
     "K3RANEVeorA": {
       "videoId": "K3RANEVeorA",
@@ -55,7 +55,7 @@
       "liveStreamingDetails": null,
       "channelId": "UCn8WFi6pE4cJZP8MiUNGFxg",
       "channelName": "KTV NEWS",
-      "collectedAt": "2025-08-18T07:13:50.585091Z"
+      "collectedAt": "2025-08-20T11:39:23.640310Z"
     },
     "jSigAuL6RlI": {
       "videoId": "jSigAuL6RlI",
@@ -85,7 +85,7 @@
       "liveStreamingDetails": null,
       "channelId": "UCn8WFi6pE4cJZP8MiUNGFxg",
       "channelName": "KTV NEWS",
-      "collectedAt": "2025-08-18T07:13:50.585091Z"
+      "collectedAt": "2025-08-20T11:39:23.640310Z"
     },
     "CFr7gjJwjHk": {
       "videoId": "CFr7gjJwjHk",
@@ -115,7 +115,33 @@
       "liveStreamingDetails": null,
       "channelId": "UCn8WFi6pE4cJZP8MiUNGFxg",
       "channelName": "KTV NEWS",
-      "collectedAt": "2025-08-18T07:13:50.586089Z"
+      "collectedAt": "2025-08-20T11:39:23.640310Z"
+    },
+    "2Nql8hz_hoI": {
+      "videoId": "2Nql8hz_hoI",
+      "title": "윤석열 대통령, 검찰총장 후보자에 심우정 법무부 차관 지명 [정진석 비서실장 브리핑(24.8.11.)]",
+      "description": "",
+      "publishedAt": "2024-08-11T05:44:14Z",
+      "duration": "PT58S",
+      "viewCount": 10444,
+      "likeCount": 2317,
+      "commentCount": 291,
+      "tags": [
+        "윤석열",
+        "대통령",
+        "대통령실",
+        "대통령실 채널",
+        "윤석열 유튜브",
+        "대한민국 대통령실"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": "ko",
+      "defaultAudioLanguage": "en",
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCcl16CxYqlbKQJVCfdhSJVw",
+      "channelName": "윤석열",
+      "collectedAt": "2025-08-20T11:39:23.640310Z"
     }
   },
   "channels": {
@@ -145,9 +171,36 @@
       "viewCount": 87225174,
       "videoCount": 19299,
       "lastUpdated": "2025-08-18T02:22:22.586912Z"
+    },
+    "UCcl16CxYqlbKQJVCfdhSJVw": {
+      "channelId": "UCcl16CxYqlbKQJVCfdhSJVw",
+      "channelName": "윤석열",
+      "channelUrl": "@sukyeol_yoon",
+      "channelDescription": "제20대 대통령 윤석열입니다.",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/Vn2wpB1HmM2E0ARHadprj2TrRWhBnkzeOhtfZ6fEEWHUnBg9YOGY_-dPUTAwUahGZg_igf9xDw=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/Vn2wpB1HmM2E0ARHadprj2TrRWhBnkzeOhtfZ6fEEWHUnBg9YOGY_-dPUTAwUahGZg_igf9xDw=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/Vn2wpB1HmM2E0ARHadprj2TrRWhBnkzeOhtfZ6fEEWHUnBg9YOGY_-dPUTAwUahGZg_igf9xDw=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 754000,
+      "viewCount": 157172619,
+      "videoCount": 3538,
+      "lastUpdated": "2025-08-20T11:39:23.640310Z"
     }
   },
-  "lastUpdated": "2025-08-18T07:13:50.586089Z",
-  "totalVideos": 5,
-  "totalChannels": 1
+  "lastUpdated": "2025-08-20T11:39:23.641306Z",
+  "totalVideos": 6,
+  "totalChannels": 2
 }

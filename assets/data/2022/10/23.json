@@ -28,7 +28,7 @@
       "liveStreamingDetails": null,
       "channelId": "UCn8WFi6pE4cJZP8MiUNGFxg",
       "channelName": "KTV NEWS",
-      "collectedAt": "2025-08-18T07:13:22.031380Z"
+      "collectedAt": "2025-08-20T11:39:26.739527Z"
     },
     "ri-6fbfQuJE": {
       "videoId": "ri-6fbfQuJE",
@@ -58,7 +58,7 @@
       "liveStreamingDetails": null,
       "channelId": "UCn8WFi6pE4cJZP8MiUNGFxg",
       "channelName": "KTV NEWS",
-      "collectedAt": "2025-08-18T07:13:22.031380Z"
+      "collectedAt": "2025-08-20T11:39:26.739527Z"
     },
     "ifL4mc2euH8": {
       "videoId": "ifL4mc2euH8",
@@ -81,6 +81,25 @@
       "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
       "channelName": "NATV 국회방송",
       "collectedAt": "2025-08-18T02:22:28.977514Z"
+    },
+    "ort9O7JeiaA": {
+      "videoId": "ort9O7JeiaA",
+      "title": "원수같은 이재명에게 대선자금을?",
+      "description": "대선자금 진실게임 3.\n\n자신들이 다 가졌을 개발이익을 공공개발한다며 4,400억원이나 뺏고,\n\n사업도중 1,100억원을 더 뺏은 이재명이 얼마나 미웠을까요?\n\n김만배는 이재명을 “0같은 XX, 00놈, 공산당 같은 XX”라 욕했습니다.\n\n2021.4.이면 사업도 다 끝난 후인데, 그들이 과연 원수같았을 이재명의 대선자금을 줬을까요?",
+      "publishedAt": "2022-10-23T02:45:57Z",
+      "duration": "PT36S",
+      "viewCount": 80021,
+      "likeCount": 13206,
+      "commentCount": 1617,
+      "tags": [],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCNJM6dqu70Qr6VaseiW1Org",
+      "channelName": "이재명",
+      "collectedAt": "2025-08-20T11:39:26.739527Z"
     }
   },
   "channels": {
@@ -137,9 +156,36 @@
       "viewCount": 86003788,
       "videoCount": 16388,
       "lastUpdated": "2025-08-18T02:22:28.976518Z"
+    },
+    "UCNJM6dqu70Qr6VaseiW1Org": {
+      "channelId": "UCNJM6dqu70Qr6VaseiW1Org",
+      "channelName": "이재명",
+      "channelUrl": "@이재명tv",
+      "channelDescription": "대한민국 제21대 대통령\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/kIdZSRMagKta6GY6aiDm5asO5Cupd_HanW3xIFnBW2p8VNYI2JryJUchT4Aoy2ASM-ifq7JfyQ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/kIdZSRMagKta6GY6aiDm5asO5Cupd_HanW3xIFnBW2p8VNYI2JryJUchT4Aoy2ASM-ifq7JfyQ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/kIdZSRMagKta6GY6aiDm5asO5Cupd_HanW3xIFnBW2p8VNYI2JryJUchT4Aoy2ASM-ifq7JfyQ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 1710000,
+      "viewCount": 336974518,
+      "videoCount": 3965,
+      "lastUpdated": "2025-08-20T11:39:26.739527Z"
     }
   },
-  "lastUpdated": "2025-08-18T07:13:22.032416Z",
-  "totalVideos": 3,
-  "totalChannels": 2
+  "lastUpdated": "2025-08-20T11:39:26.739527Z",
+  "totalVideos": 4,
+  "totalChannels": 3
 }

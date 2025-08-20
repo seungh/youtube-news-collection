@@ -21,7 +21,7 @@
       "liveStreamingDetails": null,
       "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
       "channelName": "NATV 국회방송",
-      "collectedAt": "2025-08-18T07:13:45.208244Z"
+      "collectedAt": "2025-08-20T11:40:08.251316Z"
     },
     "rrnboBozYbM": {
       "videoId": "rrnboBozYbM",
@@ -45,7 +45,7 @@
       "liveStreamingDetails": null,
       "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
       "channelName": "NATV 국회방송",
-      "collectedAt": "2025-08-18T07:13:45.208244Z"
+      "collectedAt": "2025-08-20T11:40:08.251316Z"
     },
     "HbYPOlj2cCU": {
       "videoId": "HbYPOlj2cCU",
@@ -69,7 +69,7 @@
       "liveStreamingDetails": null,
       "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
       "channelName": "NATV 국회방송",
-      "collectedAt": "2025-08-18T07:13:45.208244Z"
+      "collectedAt": "2025-08-20T11:40:08.251316Z"
     },
     "fhkfoUXz2Nc": {
       "videoId": "fhkfoUXz2Nc",
@@ -96,7 +96,67 @@
       "liveStreamingDetails": null,
       "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
       "channelName": "NATV 국회방송",
-      "collectedAt": "2025-08-18T07:13:45.208244Z"
+      "collectedAt": "2025-08-20T11:40:08.251316Z"
+    },
+    "ByqKNVD3iX4": {
+      "videoId": "ByqKNVD3iX4",
+      "title": "21세기 스포츠포럼 토론회 '대한민국 스포츠, 새 좌표를 말하다' - KTV 중계석",
+      "description": "대한민국은 명실상부한 스포츠 강국으로 자리매김했다. \n이에 대한민국 스포츠가 스포츠 강국을 넘어 스포츠 선진국으로 가기 위해 \n각계 전문가들이 우리 스포츠계를 돌아보고 \n대학 스포츠, 남북 스포츠 교류, 평창동계올림픽 이후의 한국 스포츠에 대한 견해를 나누고자 한다.",
+      "publishedAt": "2015-04-28T07:20:37Z",
+      "duration": "PT51S",
+      "viewCount": 67,
+      "likeCount": 0,
+      "commentCount": 0,
+      "tags": [
+        "KTV 국민방송",
+        "한국정책방송 KTV",
+        "스포츠",
+        "대학",
+        "남북 스포츠 교류",
+        "평창 동계올림픽",
+        "선진국",
+        "KTV 중계석",
+        "스포츠포럼",
+        "스포츠포럼 토론회"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": "ko",
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCIMOytYIzaUpoAM2bpT4JZQ",
+      "channelName": "KTV 국민방송",
+      "collectedAt": "2025-08-20T11:40:08.251316Z"
+    },
+    "ZQHK3MoRfV0": {
+      "videoId": "ZQHK3MoRfV0",
+      "title": "국악소녀 송소희, 여인의 향기 물씬!! - KTV 국민리포트",
+      "description": "젊은 국악의 아이콘, 송소희의 색다른 변신이 화젭니다. \n지난 주말엔 한 음악프로그램에 출연해 한복이 아닌 우아한 드레스를 입고 걸그룹의 걸음걸이까지 따라해 즐거움을 선사했는데요.\n\n소녀에서 여인으로 변신을 시도한 송소희의 모습을 지금부터 만나보시죠.",
+      "publishedAt": "2015-04-28T04:30:59Z",
+      "duration": "PT1M7S",
+      "viewCount": 1240,
+      "likeCount": 4,
+      "commentCount": 1,
+      "tags": [
+        "KTV 국민방송",
+        "한국정책방송 KTV",
+        "국악",
+        "송소희",
+        "음악프로그램",
+        "국악소녀",
+        "한복",
+        "드레스",
+        "걸그룹",
+        "뮤지션"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": "ko",
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCIMOytYIzaUpoAM2bpT4JZQ",
+      "channelName": "KTV 국민방송",
+      "collectedAt": "2025-08-20T11:40:08.251316Z"
     }
   },
   "channels": {
@@ -126,9 +186,36 @@
       "viewCount": 86009826,
       "videoCount": 16390,
       "lastUpdated": "2025-08-18T07:13:45.204005Z"
+    },
+    "UCIMOytYIzaUpoAM2bpT4JZQ": {
+      "channelId": "UCIMOytYIzaUpoAM2bpT4JZQ",
+      "channelName": "KTV 국민방송",
+      "channelUrl": "@ktv_korea",
+      "channelDescription": "이재명 정부 국정소식, 정책정보, 정부브리핑 등을 실시간으로 소개해드립니다\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/C8SZ5Na4t2ExtMRDMXKbHJtoiC_2u30a4TjVoHpg4xLH0z2jUVntFrpGt26OXfkBHxuwjq8xTOk=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/C8SZ5Na4t2ExtMRDMXKbHJtoiC_2u30a4TjVoHpg4xLH0z2jUVntFrpGt26OXfkBHxuwjq8xTOk=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/C8SZ5Na4t2ExtMRDMXKbHJtoiC_2u30a4TjVoHpg4xLH0z2jUVntFrpGt26OXfkBHxuwjq8xTOk=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 594000,
+      "viewCount": 496166667,
+      "videoCount": 25206,
+      "lastUpdated": "2025-08-20T11:40:08.251316Z"
     }
   },
-  "lastUpdated": "2025-08-18T07:13:45.209974Z",
-  "totalVideos": 4,
-  "totalChannels": 1
+  "lastUpdated": "2025-08-20T11:40:08.252313Z",
+  "totalVideos": 6,
+  "totalChannels": 2
 }

@@ -28,7 +28,62 @@
       "liveStreamingDetails": null,
       "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
       "channelName": "NATV 국회방송",
-      "collectedAt": "2025-08-18T07:13:36.378251Z"
+      "collectedAt": "2025-08-20T11:39:59.297459Z"
+    },
+    "8-FDLLShDpg": {
+      "videoId": "8-FDLLShDpg",
+      "title": "🎥[live] 래퍼들의 펀치라인 - 랩배틀 현장 라이브! 1등 상금 100만원!",
+      "description": "🎥[live] 래퍼들의 펀치라인 - 랩배틀 현장 라이브! 1등 상금 100만원!\n\n일시 : 2017년 12월 23일 토요일 오후1시부터\n장소 : 혜화역 2번출구 앞 대학로 마로니에공원 공연장\n\n국민 모두가 래퍼가 된다!\nKTV 래퍼들의 펀치라인 신년특집 공개방송!\n\n정부나 사회에 하고 싶었던 말들을 랩으로 노래하며\n2018년 더 안전하고 행복한 대한민국을 기원한다!\n\n랩과 음악으로 소통하는 KTV 국민방송\n대학로 마로니에 공원에서 즐겁게 #렛츠기릿",
+      "publishedAt": "2017-12-23T06:01:52Z",
+      "duration": "PT1H37M13S",
+      "viewCount": 1161,
+      "likeCount": 20,
+      "commentCount": 0,
+      "tags": [
+        "KTV국민방송",
+        "한국정책방송KTV"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": {
+        "actualStartTime": "2017-12-23T03:44:49Z",
+        "actualEndTime": "2017-12-23T05:23:00Z"
+      },
+      "channelId": "UCIMOytYIzaUpoAM2bpT4JZQ",
+      "channelName": "KTV 국민방송",
+      "collectedAt": "2025-08-20T11:39:59.298314Z"
+    },
+    "_3jk3DMk1Ac": {
+      "videoId": "_3jk3DMk1Ac",
+      "title": "문재인 대통령이 찾는 사람은? 신임 주한대사 제정식에서 생긴일",
+      "description": "문재인 대통령은 12월 20일 청와대에서비르힐리오 빠레데스 뜨라뻬로 주한 온두라스 대사\n 아민 무함마드 달하투 주한 나이지리아 대사\n 마누엘 안또니오 곤살브스 드 제주스 주한 포르투갈 대사\n 이피게니아 콘토레온토스 주한 그리스 대사(女)\n윌버 치시야 시무사 주한 잠비아 대사\n 나비 엘 아베드 주한 튀니지 대사 등 6개국 국가원수가 부여한 신임장을 파견국 주한대사를 통해 전달받았습니다.\n\n온두라스 대사 : It's my great honor to present my credentials from\n▲ 문 대통령 : 예, 대사님 부임 축하하고 환영합니다.\n\n## 주한 나이지리아대사 신임장 제정식\n-아민 무함마드 달하투(Amin Muhammad Dalhatu) 신임 주한나이지리아 대사와 배우자 포함 수행원 4인 접견실 입장\n*대사와 배우자 나이지리아 전통 복장 착용\n- 대사: My excellency. I have the honor to present letters of credence f...",
+      "publishedAt": "2017-12-23T02:00:01Z",
+      "duration": "PT59S",
+      "viewCount": 47858,
+      "likeCount": 870,
+      "commentCount": 49,
+      "tags": [
+        "KTV 국민방송",
+        "한국정책방송 KTV",
+        "문재인",
+        "대통령",
+        "문재인대통령",
+        "신임",
+        "주한대사",
+        "제정식",
+        "온두라스",
+        "나이지리아"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": "ko",
+      "defaultAudioLanguage": "ko",
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCIMOytYIzaUpoAM2bpT4JZQ",
+      "channelName": "KTV 국민방송",
+      "collectedAt": "2025-08-20T11:39:59.298314Z"
     }
   },
   "channels": {
@@ -58,9 +113,36 @@
       "viewCount": 86009826,
       "videoCount": 16390,
       "lastUpdated": "2025-08-18T07:13:36.377255Z"
+    },
+    "UCIMOytYIzaUpoAM2bpT4JZQ": {
+      "channelId": "UCIMOytYIzaUpoAM2bpT4JZQ",
+      "channelName": "KTV 국민방송",
+      "channelUrl": "@ktv_korea",
+      "channelDescription": "이재명 정부 국정소식, 정책정보, 정부브리핑 등을 실시간으로 소개해드립니다\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/C8SZ5Na4t2ExtMRDMXKbHJtoiC_2u30a4TjVoHpg4xLH0z2jUVntFrpGt26OXfkBHxuwjq8xTOk=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/C8SZ5Na4t2ExtMRDMXKbHJtoiC_2u30a4TjVoHpg4xLH0z2jUVntFrpGt26OXfkBHxuwjq8xTOk=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/C8SZ5Na4t2ExtMRDMXKbHJtoiC_2u30a4TjVoHpg4xLH0z2jUVntFrpGt26OXfkBHxuwjq8xTOk=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 594000,
+      "viewCount": 496166667,
+      "videoCount": 25206,
+      "lastUpdated": "2025-08-20T11:39:59.297459Z"
     }
   },
-  "lastUpdated": "2025-08-18T07:13:36.378251Z",
-  "totalVideos": 1,
-  "totalChannels": 1
+  "lastUpdated": "2025-08-20T11:39:59.298314Z",
+  "totalVideos": 3,
+  "totalChannels": 2
 }

@@ -26,7 +26,7 @@
       "liveStreamingDetails": null,
       "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
       "channelName": "NATV 국회방송",
-      "collectedAt": "2025-08-18T07:13:43.017246Z"
+      "collectedAt": "2025-08-20T11:40:08.900490Z"
     },
     "cE9PdAIikmQ": {
       "videoId": "cE9PdAIikmQ",
@@ -45,7 +45,67 @@
       "liveStreamingDetails": null,
       "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
       "channelName": "NATV 국회방송",
-      "collectedAt": "2025-08-18T07:13:43.017246Z"
+      "collectedAt": "2025-08-20T11:40:08.900490Z"
+    },
+    "xs24Gv4eNbA": {
+      "videoId": "xs24Gv4eNbA",
+      "title": "수능 보는 스타, 응원하는 스타! -국민리포트-",
+      "description": "오늘 수학능력시험이 치러졌는데요. \n\n수능을 본 아이돌 스타들도 많았습니다.\n\nsns엔 이들을 응원하는 메시지로 \n가득했습니다.\n\n수능 보는 스타, 응원하는 스타, \n지금 전해드립니다.",
+      "publishedAt": "2015-11-12T08:54:14Z",
+      "duration": "PT1M41S",
+      "viewCount": 2080,
+      "likeCount": 12,
+      "commentCount": 0,
+      "tags": [
+        "KTV 국민방송",
+        "한국정책방송 KTV",
+        "국민리포트",
+        "국민기자단",
+        "국민기자",
+        "SNS",
+        "SNS리포트",
+        "맹은지",
+        "안은혜",
+        "수능"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": "ko",
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCIMOytYIzaUpoAM2bpT4JZQ",
+      "channelName": "KTV 국민방송",
+      "collectedAt": "2025-08-20T11:40:08.901951Z"
+    },
+    "oMshxUlZUVo": {
+      "videoId": "oMshxUlZUVo",
+      "title": "알쏭달쏭 치매와 건망증 구별법!  - 철밥통은 가라 36회 예고 -",
+      "description": "KTV 휴먼다큐멘터리 '철밥통은 가라' 36회의 주인공은 \n의정부시 보건소 가족사랑 이음센터 염영분 팀장입니다.\n\n우리나라 노인인구 열 명 중 한 명은 치매를 앓고 있다는 사실.\n여러분 알고 계십니까? 하지만 더욱 가슴 아픈 건 \n그로인한 사회문제가 매년 증가하고 있다는 사실입니다. \n\n때문에 치매환자와 그 가족에 대한\n국가차원의 지원이 절실해지고 있는데요,\n여기 치매환자를 내 부모처럼, 가족의 아픔을 내 일처럼 생각하며\n맡은 바 일에 최선을 다하는 이가 있습니다.\n\n철밥통은 가라 오늘의 주인공!\n의정부시 보건소 가족사랑 이음센터 염영분 팀장!\n\n치매환자를 위한 센터와 그 가족을 위한 프로그램까지 직접 개발한 \n열정의 그녀를 만납니다.",
+      "publishedAt": "2015-11-12T01:34:42Z",
+      "duration": "PT38S",
+      "viewCount": 78,
+      "likeCount": 1,
+      "commentCount": 0,
+      "tags": [
+        "KTV 국민방송",
+        "한국정책방송 KTV",
+        "치매",
+        "염영분",
+        "의정부",
+        "건망증",
+        "노인",
+        "고령화",
+        "가족사랑이음센터",
+        "힐링"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": "ko",
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCIMOytYIzaUpoAM2bpT4JZQ",
+      "channelName": "KTV 국민방송",
+      "collectedAt": "2025-08-20T11:40:08.901951Z"
     }
   },
   "channels": {
@@ -75,9 +135,36 @@
       "viewCount": 86009826,
       "videoCount": 16390,
       "lastUpdated": "2025-08-18T07:13:43.016249Z"
+    },
+    "UCIMOytYIzaUpoAM2bpT4JZQ": {
+      "channelId": "UCIMOytYIzaUpoAM2bpT4JZQ",
+      "channelName": "KTV 국민방송",
+      "channelUrl": "@ktv_korea",
+      "channelDescription": "이재명 정부 국정소식, 정책정보, 정부브리핑 등을 실시간으로 소개해드립니다\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/C8SZ5Na4t2ExtMRDMXKbHJtoiC_2u30a4TjVoHpg4xLH0z2jUVntFrpGt26OXfkBHxuwjq8xTOk=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/C8SZ5Na4t2ExtMRDMXKbHJtoiC_2u30a4TjVoHpg4xLH0z2jUVntFrpGt26OXfkBHxuwjq8xTOk=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/C8SZ5Na4t2ExtMRDMXKbHJtoiC_2u30a4TjVoHpg4xLH0z2jUVntFrpGt26OXfkBHxuwjq8xTOk=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 594000,
+      "viewCount": 496166667,
+      "videoCount": 25206,
+      "lastUpdated": "2025-08-20T11:40:08.901951Z"
     }
   },
-  "lastUpdated": "2025-08-18T07:13:43.017246Z",
-  "totalVideos": 2,
-  "totalChannels": 1
+  "lastUpdated": "2025-08-20T11:40:08.902940Z",
+  "totalVideos": 4,
+  "totalChannels": 2
 }

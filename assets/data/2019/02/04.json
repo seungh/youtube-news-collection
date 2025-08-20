@@ -28,7 +28,37 @@
       "liveStreamingDetails": null,
       "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
       "channelName": "NATV 국회방송",
-      "collectedAt": "2025-08-18T07:13:32.190396Z"
+      "collectedAt": "2025-08-20T11:40:10.445416Z"
+    },
+    "c8MPCjFCA24": {
+      "videoId": "c8MPCjFCA24",
+      "title": "이번 설에 뭐하지? 이낙연 총리피셜, 전국의 HOT한 전통시장 모음! (feat. 돌 지난 손주)",
+      "description": "이번 설연휴, 어디 갈지 고민 중인 분들을 위한 이낙연 총리의 추천코스!!\n전통시장을 즐겨 찾는 이낙연 총리가 최근 방문했던 전국의 전통시장 어떤 곳들인지, 여니본색에서 모아봤습니다. 이제 돌+2개월이 지난 씬스틸러, 총리님 손주의 귀여운 모습도 놓치지 마세요~",
+      "publishedAt": "2019-02-04T01:00:04Z",
+      "duration": "PT4M12S",
+      "viewCount": 3534,
+      "likeCount": 271,
+      "commentCount": 16,
+      "tags": [
+        "KTV 국민방송",
+        "한국정책방송 KTV",
+        "이낙연 총리",
+        "이낙연 총리 시장방문",
+        "이낙연",
+        "총리",
+        "현장방문",
+        "정부",
+        "뉴스",
+        "이슈"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": "ko",
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCIMOytYIzaUpoAM2bpT4JZQ",
+      "channelName": "KTV 국민방송",
+      "collectedAt": "2025-08-20T11:40:10.447349Z"
     }
   },
   "channels": {
@@ -58,9 +88,36 @@
       "viewCount": 86009826,
       "videoCount": 16390,
       "lastUpdated": "2025-08-18T07:13:32.189435Z"
+    },
+    "UCIMOytYIzaUpoAM2bpT4JZQ": {
+      "channelId": "UCIMOytYIzaUpoAM2bpT4JZQ",
+      "channelName": "KTV 국민방송",
+      "channelUrl": "@ktv_korea",
+      "channelDescription": "이재명 정부 국정소식, 정책정보, 정부브리핑 등을 실시간으로 소개해드립니다\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/C8SZ5Na4t2ExtMRDMXKbHJtoiC_2u30a4TjVoHpg4xLH0z2jUVntFrpGt26OXfkBHxuwjq8xTOk=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/C8SZ5Na4t2ExtMRDMXKbHJtoiC_2u30a4TjVoHpg4xLH0z2jUVntFrpGt26OXfkBHxuwjq8xTOk=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/C8SZ5Na4t2ExtMRDMXKbHJtoiC_2u30a4TjVoHpg4xLH0z2jUVntFrpGt26OXfkBHxuwjq8xTOk=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 594000,
+      "viewCount": 496166667,
+      "videoCount": 25206,
+      "lastUpdated": "2025-08-20T11:40:10.446447Z"
     }
   },
-  "lastUpdated": "2025-08-18T07:13:32.190396Z",
-  "totalVideos": 1,
-  "totalChannels": 1
+  "lastUpdated": "2025-08-20T11:40:10.447349Z",
+  "totalVideos": 2,
+  "totalChannels": 2
 }

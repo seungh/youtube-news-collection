@@ -29,6 +29,66 @@
       "channelId": "UC88r6mA2791EXvGAruLL7ug",
       "channelName": "KFN뉴스",
       "collectedAt": "2025-08-18T07:13:08.884987Z"
+    },
+    "aN7b8_AOAoo": {
+      "videoId": "aN7b8_AOAoo",
+      "title": "※월동준비※ 울산중앙전통시장에서 픽!한 쇼핑템은?",
+      "description": "#이재명 #울산중앙전통시장 #shorts",
+      "publishedAt": "2021-11-14T10:33:17Z",
+      "duration": "PT1M",
+      "viewCount": 40491,
+      "likeCount": 7567,
+      "commentCount": 442,
+      "tags": [
+        "이재명",
+        "경기도",
+        "이재명연설",
+        "이재명지사",
+        "경기도지사",
+        "이재명 사이다",
+        "이재명 레전드",
+        "기본소득",
+        "이재명 계곡",
+        "중고차"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCNJM6dqu70Qr6VaseiW1Org",
+      "channelName": "이재명",
+      "collectedAt": "2025-08-20T11:40:19.235420Z"
+    },
+    "4Do2qJKNCI4": {
+      "videoId": "4Do2qJKNCI4",
+      "title": "김혜경 여사가 직접 전한 '낙상 사고' 당시 상황은?",
+      "description": "#이재명 #김혜경 #명심캠프",
+      "publishedAt": "2021-11-14T03:04:40Z",
+      "duration": "PT7M30S",
+      "viewCount": 137917,
+      "likeCount": 16820,
+      "commentCount": 1255,
+      "tags": [
+        "이재명",
+        "경기도",
+        "이재명연설",
+        "이재명지사",
+        "경기도지사",
+        "이재명 사이다",
+        "이재명 레전드",
+        "기본소득",
+        "이재명 계곡",
+        "중고차"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCNJM6dqu70Qr6VaseiW1Org",
+      "channelName": "이재명",
+      "collectedAt": "2025-08-20T11:40:19.235420Z"
     }
   },
   "channels": {
@@ -58,9 +118,36 @@
       "viewCount": 203799141,
       "videoCount": 15149,
       "lastUpdated": "2025-08-18T07:13:08.884987Z"
+    },
+    "UCNJM6dqu70Qr6VaseiW1Org": {
+      "channelId": "UCNJM6dqu70Qr6VaseiW1Org",
+      "channelName": "이재명",
+      "channelUrl": "@이재명tv",
+      "channelDescription": "대한민국 제21대 대통령\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/kIdZSRMagKta6GY6aiDm5asO5Cupd_HanW3xIFnBW2p8VNYI2JryJUchT4Aoy2ASM-ifq7JfyQ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/kIdZSRMagKta6GY6aiDm5asO5Cupd_HanW3xIFnBW2p8VNYI2JryJUchT4Aoy2ASM-ifq7JfyQ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/kIdZSRMagKta6GY6aiDm5asO5Cupd_HanW3xIFnBW2p8VNYI2JryJUchT4Aoy2ASM-ifq7JfyQ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 1710000,
+      "viewCount": 336974518,
+      "videoCount": 3965,
+      "lastUpdated": "2025-08-20T11:40:19.234336Z"
     }
   },
-  "lastUpdated": "2025-08-18T07:13:08.884987Z",
-  "totalVideos": 1,
-  "totalChannels": 1
+  "lastUpdated": "2025-08-20T11:40:19.235420Z",
+  "totalVideos": 3,
+  "totalChannels": 2
 }

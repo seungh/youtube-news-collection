@@ -28,7 +28,7 @@
       "liveStreamingDetails": null,
       "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
       "channelName": "NATV 국회방송",
-      "collectedAt": "2025-08-18T07:13:28.249610Z"
+      "collectedAt": "2025-08-20T11:39:54.319737Z"
     },
     "QzF9jZXYOJI": {
       "videoId": "QzF9jZXYOJI",
@@ -58,7 +58,31 @@
       "liveStreamingDetails": null,
       "channelId": "UCn8WFi6pE4cJZP8MiUNGFxg",
       "channelName": "KTV NEWS",
-      "collectedAt": "2025-08-18T07:13:28.252152Z"
+      "collectedAt": "2025-08-20T11:39:54.319289Z"
+    },
+    "KhpP4tj8s5E": {
+      "videoId": "KhpP4tj8s5E",
+      "title": "한-아세안 특별정상회의 개최쯤에 다시보는 신남방정책ㅣ도입이 시급하다는 그 신남방 정책ㅣ안물안궁",
+      "description": "한-아세안 특별정상회의와 한-메콩 정상회의가 11월 25일부터 부산에서 개최됩니다. 한-아세안 특별정상회의와 한-메콩 정상회의는 지난 2년 반 동안 우리 정부가 진심과 성의를 다해 추진해 온 신남방정책의 중간 결산입니다. \n\n아세안과 함께 새로운 미래를 여는 신남방정책, 영상으로 다시 한번 전해드립니다.",
+      "publishedAt": "2019-11-23T03:00:02Z",
+      "duration": "PT2M47S",
+      "viewCount": 6691,
+      "likeCount": 1505,
+      "commentCount": 160,
+      "tags": [
+        "문재인",
+        "청와대",
+        "대통령",
+        "김정숙"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": "ko",
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UC7WMB_czX5jF__5kqT4d9Ww",
+      "channelName": " 문재인정부 청와대",
+      "collectedAt": "2025-08-20T11:39:54.322511Z"
     }
   },
   "channels": {
@@ -115,9 +139,36 @@
       "viewCount": 87289483,
       "videoCount": 19304,
       "lastUpdated": "2025-08-18T07:13:28.251176Z"
+    },
+    "UC7WMB_czX5jF__5kqT4d9Ww": {
+      "channelId": "UC7WMB_czX5jF__5kqT4d9Ww",
+      "channelName": " 문재인정부 청와대",
+      "channelUrl": "@thebluehousekr",
+      "channelDescription": " 문재인정부 청와대 공식 유튜브 채널입니다.",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/z0uFyY8invEc-QlNJod5ycMfMCwQiQlDNT4LWIyJqi4IL-XQc0F7OyYeBbJMhhaYJOs-ecL7VTo=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/z0uFyY8invEc-QlNJod5ycMfMCwQiQlDNT4LWIyJqi4IL-XQc0F7OyYeBbJMhhaYJOs-ecL7VTo=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/z0uFyY8invEc-QlNJod5ycMfMCwQiQlDNT4LWIyJqi4IL-XQc0F7OyYeBbJMhhaYJOs-ecL7VTo=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 308000,
+      "viewCount": 58715833,
+      "videoCount": 1549,
+      "lastUpdated": "2025-08-20T11:39:54.321801Z"
     }
   },
-  "lastUpdated": "2025-08-18T07:13:28.252152Z",
-  "totalVideos": 2,
-  "totalChannels": 2
+  "lastUpdated": "2025-08-20T11:39:54.323511Z",
+  "totalVideos": 3,
+  "totalChannels": 3
 }

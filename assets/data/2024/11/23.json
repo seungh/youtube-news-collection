@@ -69,6 +69,70 @@
       "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
       "channelName": "NATV 국회방송",
       "collectedAt": "2025-08-18T02:22:21.379390Z"
+    },
+    "8dikl3eGg_I": {
+      "videoId": "8dikl3eGg_I",
+      "title": "WEEKLY 11회｜2024 APEC G20 정상회의 총정리, 향후 대한민국 외교 전략｜깊어지는 미-중 갈등 속 중국의 변화, 대한민국 전략은?",
+      "description": "📍20회 다시보기\nhttps://www.youtube.com/live/Ln7qqmMZ4hs?si=XZA00fxyKmV9rqs2\n\n📍21회 다시보기\nhttps://www.youtube.com/live/IBERWN3dE78?si=uHBwISPVi4N0MpK4\n\n#KTV #글로벌인사이트 #정혁진 #정법전",
+      "publishedAt": "2024-11-23T07:00:06Z",
+      "duration": "PT29M8S",
+      "viewCount": 306,
+      "likeCount": 37,
+      "commentCount": 3,
+      "tags": [
+        "외교",
+        "안보",
+        "글로벌인사이트",
+        "뉴스",
+        "KTV",
+        "핫이슈",
+        "해외",
+        "글로벌",
+        "K컬쳐",
+        "국방"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCiFVWb1D5nJ6Cv8Jc0krAjw",
+      "channelName": "글로벌 인사이트",
+      "collectedAt": "2025-08-20T11:38:30.136822Z"
+    },
+    "HsUVQpPzqfE": {
+      "videoId": "HsUVQpPzqfE",
+      "title": "#제4차국민행동의날 역사와 국민을 믿고 끝까지 함께 싸웁시다",
+      "description": "2024년 11월 23일 토요일 오후 5시 30분 생중계\n제4차 국민행동의 날 / 광화문 앞 대로",
+      "publishedAt": "2024-11-23T10:23:10Z",
+      "duration": "PT1H39M45S",
+      "viewCount": 70761,
+      "likeCount": 16879,
+      "commentCount": 422,
+      "tags": [
+        "이재명",
+        "이재명연설",
+        "이재명 레전드",
+        "기본소득",
+        "더불어민주당",
+        "정치인",
+        "민주당",
+        "김대중",
+        "노무현",
+        "문재인"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": {
+        "actualStartTime": "2024-11-23T08:24:07Z",
+        "actualEndTime": "2024-11-23T10:04:26Z",
+        "scheduledStartTime": "2024-11-23T08:30:00Z"
+      },
+      "channelId": "UCNJM6dqu70Qr6VaseiW1Org",
+      "channelName": "이재명",
+      "collectedAt": "2025-08-20T11:38:30.138107Z"
     }
   },
   "channels": {
@@ -125,9 +189,63 @@
       "viewCount": 86003788,
       "videoCount": 16388,
       "lastUpdated": "2025-08-18T02:22:21.379390Z"
+    },
+    "UCiFVWb1D5nJ6Cv8Jc0krAjw": {
+      "channelId": "UCiFVWb1D5nJ6Cv8Jc0krAjw",
+      "channelName": "글로벌 인사이트",
+      "channelUrl": "@ktv_world",
+      "channelDescription": "전 세계 소식, 더 넓은 인사이트! 대한민국의 오늘을 전합니다.\n#외교 #안보 #글로벌 #문화 #밀리터리\n* KTV 온라인콘텐츠의 부분 발췌, 상업적 이용 등 무단 사용을 금합니다.\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/6GlSu48BFB9NIiSZoPwLPgezLbKR6pkb3EpAmR5zjKiWBmwVAqUtuABvZ3kPTr6UK15GMcm2izA=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/6GlSu48BFB9NIiSZoPwLPgezLbKR6pkb3EpAmR5zjKiWBmwVAqUtuABvZ3kPTr6UK15GMcm2izA=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/6GlSu48BFB9NIiSZoPwLPgezLbKR6pkb3EpAmR5zjKiWBmwVAqUtuABvZ3kPTr6UK15GMcm2izA=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 109000,
+      "viewCount": 42463364,
+      "videoCount": 1939,
+      "lastUpdated": "2025-08-20T11:38:30.135823Z"
+    },
+    "UCNJM6dqu70Qr6VaseiW1Org": {
+      "channelId": "UCNJM6dqu70Qr6VaseiW1Org",
+      "channelName": "이재명",
+      "channelUrl": "@이재명tv",
+      "channelDescription": "대한민국 제21대 대통령\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/kIdZSRMagKta6GY6aiDm5asO5Cupd_HanW3xIFnBW2p8VNYI2JryJUchT4Aoy2ASM-ifq7JfyQ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/kIdZSRMagKta6GY6aiDm5asO5Cupd_HanW3xIFnBW2p8VNYI2JryJUchT4Aoy2ASM-ifq7JfyQ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/kIdZSRMagKta6GY6aiDm5asO5Cupd_HanW3xIFnBW2p8VNYI2JryJUchT4Aoy2ASM-ifq7JfyQ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 1710000,
+      "viewCount": 336974518,
+      "videoCount": 3965,
+      "lastUpdated": "2025-08-20T11:38:30.137815Z"
     }
   },
-  "lastUpdated": "2025-08-18T02:22:21.379390Z",
-  "totalVideos": 3,
-  "totalChannels": 2
+  "lastUpdated": "2025-08-20T11:38:30.138107Z",
+  "totalVideos": 5,
+  "totalChannels": 4
 }

@@ -23,7 +23,7 @@
       "liveStreamingDetails": null,
       "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
       "channelName": "NATV 국회방송",
-      "collectedAt": "2025-08-18T07:13:39.940318Z"
+      "collectedAt": "2025-08-20T11:38:50.774637Z"
     },
     "Z1arFNH4u_Y": {
       "videoId": "Z1arFNH4u_Y",
@@ -49,7 +49,67 @@
       "liveStreamingDetails": null,
       "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
       "channelName": "NATV 국회방송",
-      "collectedAt": "2025-08-18T07:13:39.940318Z"
+      "collectedAt": "2025-08-20T11:38:50.774637Z"
+    },
+    "0McGOBrmNF8": {
+      "videoId": "0McGOBrmNF8",
+      "title": "[추억의 가수] 국민가수 이미자가 완창하는 '낭주골 처녀'",
+      "description": "최근 외국인들의 큰 호응을 얻고 있는 한류의 새로운 아이콘, '새마을 운동'\n1972년 평택의 새마을 역군들을 찾은 연예인들과 추억의 가수들의 위문공연!\n국민가수 이미자의 '낭주골 처녀'",
+      "publishedAt": "2016-08-26T08:13:56Z",
+      "duration": "PT2M24S",
+      "viewCount": 3059651,
+      "likeCount": 16455,
+      "commentCount": 1055,
+      "tags": [
+        "문화영화",
+        "다시보는문화영화",
+        "KTV",
+        "KTV국민방송",
+        "한국정책방송원",
+        "국민가수",
+        "국민가수 이미자",
+        "이미자",
+        "이미자 음악",
+        "이미자 노래"
+      ],
+      "categoryId": "10",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCiFVWb1D5nJ6Cv8Jc0krAjw",
+      "channelName": "글로벌 인사이트",
+      "collectedAt": "2025-08-20T11:38:50.773935Z"
+    },
+    "GoS_7_UcjbI": {
+      "videoId": "GoS_7_UcjbI",
+      "title": "[추억의 가수] 국민가수 이미자의 '강변살자'",
+      "description": "최근 외국인들의 큰 호응을 얻고 있는 한류의 새로운 아이콘, '새마을 운동'\n1972년 평택의 새마을 역군들을 찾은 연예인들과 추억의 가수들의 위문공연!\n국민가수 이미자의 '강변살자'",
+      "publishedAt": "2016-08-26T08:11:51Z",
+      "duration": "PT41S",
+      "viewCount": 3922,
+      "likeCount": 42,
+      "commentCount": 0,
+      "tags": [
+        "문화영화",
+        "다시보는문화영화",
+        "KTV",
+        "KTV국민방송",
+        "한국정책방송원",
+        "국민가수",
+        "이미자",
+        "이미자 노래",
+        "이미자 음악",
+        "이미자 음악감상"
+      ],
+      "categoryId": "10",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCiFVWb1D5nJ6Cv8Jc0krAjw",
+      "channelName": "글로벌 인사이트",
+      "collectedAt": "2025-08-20T11:38:50.774379Z"
     }
   },
   "channels": {
@@ -79,9 +139,36 @@
       "viewCount": 86009826,
       "videoCount": 16390,
       "lastUpdated": "2025-08-18T07:13:39.940318Z"
+    },
+    "UCiFVWb1D5nJ6Cv8Jc0krAjw": {
+      "channelId": "UCiFVWb1D5nJ6Cv8Jc0krAjw",
+      "channelName": "글로벌 인사이트",
+      "channelUrl": "@ktv_world",
+      "channelDescription": "전 세계 소식, 더 넓은 인사이트! 대한민국의 오늘을 전합니다.\n#외교 #안보 #글로벌 #문화 #밀리터리\n* KTV 온라인콘텐츠의 부분 발췌, 상업적 이용 등 무단 사용을 금합니다.\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/6GlSu48BFB9NIiSZoPwLPgezLbKR6pkb3EpAmR5zjKiWBmwVAqUtuABvZ3kPTr6UK15GMcm2izA=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/6GlSu48BFB9NIiSZoPwLPgezLbKR6pkb3EpAmR5zjKiWBmwVAqUtuABvZ3kPTr6UK15GMcm2izA=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/6GlSu48BFB9NIiSZoPwLPgezLbKR6pkb3EpAmR5zjKiWBmwVAqUtuABvZ3kPTr6UK15GMcm2izA=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 109000,
+      "viewCount": 42463364,
+      "videoCount": 1939,
+      "lastUpdated": "2025-08-20T11:38:50.773603Z"
     }
   },
-  "lastUpdated": "2025-08-18T07:13:39.941316Z",
-  "totalVideos": 2,
-  "totalChannels": 1
+  "lastUpdated": "2025-08-20T11:38:50.774637Z",
+  "totalVideos": 4,
+  "totalChannels": 2
 }

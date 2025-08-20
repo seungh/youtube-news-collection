@@ -28,7 +28,97 @@
       "liveStreamingDetails": null,
       "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
       "channelName": "NATV 국회방송",
-      "collectedAt": "2025-08-18T07:13:33.536768Z"
+      "collectedAt": "2025-08-20T11:39:58.641976Z"
+    },
+    "IldmQkNq6GA": {
+      "videoId": "IldmQkNq6GA",
+      "title": "집 팔아 노후 준비, 연금형 주택 대상자 모집",
+      "description": "살던 집으로 연금을 받을 수 있는 '연금형 희망나눔 주택' 사업 대상자 모집이 시작됐습니다. \n정부는 사들인 주택을 리모델링하거나 신축해서 다세대 형태의 임대주택으로 재공급할 계획입니다.",
+      "publishedAt": "2018-11-03T01:00:01Z",
+      "duration": "PT1M40S",
+      "viewCount": 404,
+      "likeCount": 12,
+      "commentCount": 0,
+      "tags": [
+        "KTV 국민방송",
+        "한국정책방송 KTV",
+        "노후 준비",
+        "연금형 희망나눔 주책",
+        "국토부",
+        "국토교통부",
+        "공공임대",
+        "공공임대주택",
+        "뉴스",
+        "이슈"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": "ko",
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCIMOytYIzaUpoAM2bpT4JZQ",
+      "channelName": "KTV 국민방송",
+      "collectedAt": "2025-08-20T11:39:58.643504Z"
+    },
+    "5RaUiQIvUjU": {
+      "videoId": "5RaUiQIvUjU",
+      "title": "근로·자녀장려금, 이달 말까지 신청하세요",
+      "description": "근로·자녀장려금은 가구원과 소득, 재산 등 세 가지 요건을 모두 충족해야 합니다. \n근로장려금은 배우자나 18세 미만 부양자녀 또는 70세 이상 부모를 부양하거나 단독가구로 30세 이상인 경우 받을 수 있는데, 각각 연간 총소득과 재산 합계가 기준 금액 미만이어야 받을 수 있습니다. \n신청은 인터넷이나 모바일 앱, ARS 모두 가능한데요, 국세청 홈택스에 접속해 신청하거나 국세청 홈택스 앱을 다운 받아서 하면 됩니다. \nARS는 1544-9944에 전화해서 안내에 따라 신청할 수 있습니다. \n전자신청이 어렵다면 가까운 세무서나 우편으로도 신청 가능합니다. \n신청자는 수급 요건 심사를 거쳐 내년 2월 장려금이 지급될 예정입니다.",
+      "publishedAt": "2018-11-03T01:00:00Z",
+      "duration": "PT1M9S",
+      "viewCount": 1316,
+      "likeCount": 14,
+      "commentCount": 0,
+      "tags": [
+        "KTV 국민방송",
+        "한국정책방송 KTV",
+        "근로장려금",
+        "자녀장려금",
+        "소득",
+        "국세청",
+        "홈택스",
+        "세금",
+        "근로장려금 신청",
+        "자녀장려금 신청"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": "ko",
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCIMOytYIzaUpoAM2bpT4JZQ",
+      "channelName": "KTV 국민방송",
+      "collectedAt": "2025-08-20T11:39:58.643504Z"
+    },
+    "CuiWdvVK_R4": {
+      "videoId": "CuiWdvVK_R4",
+      "title": "'도련님·서방님·아가씨' 호칭···여성 93.6% '바꾸자'",
+      "description": "국민권익위원회가 가족 간, 직장 내 언어예절 개선방안에 대한 설문조사를 실시했는데요. \n호칭을 지금보다 객관적이고, 성대칭적으로 바꿔야 한다는 응답이 많았습니다.",
+      "publishedAt": "2018-11-03T01:00:00Z",
+      "duration": "PT2M31S",
+      "viewCount": 3090,
+      "likeCount": 55,
+      "commentCount": 62,
+      "tags": [
+        "KTV 국민방송",
+        "한국정책방송 KTV",
+        "국민권익위원회",
+        "권익위",
+        "남녀차별",
+        "양성평등",
+        "도련님",
+        "서방님",
+        "호칭",
+        "뉴스"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": "ko",
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCIMOytYIzaUpoAM2bpT4JZQ",
+      "channelName": "KTV 국민방송",
+      "collectedAt": "2025-08-20T11:39:58.643504Z"
     }
   },
   "channels": {
@@ -58,9 +148,36 @@
       "viewCount": 86009826,
       "videoCount": 16390,
       "lastUpdated": "2025-08-18T07:13:33.536768Z"
+    },
+    "UCIMOytYIzaUpoAM2bpT4JZQ": {
+      "channelId": "UCIMOytYIzaUpoAM2bpT4JZQ",
+      "channelName": "KTV 국민방송",
+      "channelUrl": "@ktv_korea",
+      "channelDescription": "이재명 정부 국정소식, 정책정보, 정부브리핑 등을 실시간으로 소개해드립니다\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/C8SZ5Na4t2ExtMRDMXKbHJtoiC_2u30a4TjVoHpg4xLH0z2jUVntFrpGt26OXfkBHxuwjq8xTOk=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/C8SZ5Na4t2ExtMRDMXKbHJtoiC_2u30a4TjVoHpg4xLH0z2jUVntFrpGt26OXfkBHxuwjq8xTOk=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/C8SZ5Na4t2ExtMRDMXKbHJtoiC_2u30a4TjVoHpg4xLH0z2jUVntFrpGt26OXfkBHxuwjq8xTOk=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 594000,
+      "viewCount": 496166667,
+      "videoCount": 25206,
+      "lastUpdated": "2025-08-20T11:39:58.642536Z"
     }
   },
-  "lastUpdated": "2025-08-18T07:13:33.540765Z",
-  "totalVideos": 1,
-  "totalChannels": 1
+  "lastUpdated": "2025-08-20T11:39:58.644502Z",
+  "totalVideos": 4,
+  "totalChannels": 2
 }

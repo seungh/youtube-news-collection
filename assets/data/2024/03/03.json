@@ -55,7 +55,7 @@
       "liveStreamingDetails": null,
       "channelId": "UCn8WFi6pE4cJZP8MiUNGFxg",
       "channelName": "KTV NEWS",
-      "collectedAt": "2025-08-18T07:13:50.987351Z"
+      "collectedAt": "2025-08-20T11:39:24.421525Z"
     },
     "m0i-r6eCvq4": {
       "videoId": "m0i-r6eCvq4",
@@ -85,7 +85,41 @@
       "liveStreamingDetails": null,
       "channelId": "UCn8WFi6pE4cJZP8MiUNGFxg",
       "channelName": "KTV NEWS",
-      "collectedAt": "2025-08-18T07:13:50.987351Z"
+      "collectedAt": "2025-08-20T11:39:24.421525Z"
+    },
+    "2u5BiND6pHM": {
+      "videoId": "2u5BiND6pHM",
+      "title": "[LIVE] 민주개혁연합의 최전방에 서겠습니다",
+      "description": "2024년 3월 3일 일요일 오후 2시 생중계\n더불어민주연합 중앙당 창당대회\n\n#더불어민주당 #더불어민주연합",
+      "publishedAt": "2024-03-03T06:13:03Z",
+      "duration": "PT1H11S",
+      "viewCount": 74296,
+      "likeCount": 17446,
+      "commentCount": 988,
+      "tags": [
+        "이재명",
+        "경기도",
+        "이재명연설",
+        "이재명지사",
+        "경기도지사",
+        "이재명 사이다",
+        "이재명 레전드",
+        "기본소득",
+        "이재명 계곡",
+        "더불어민주당"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": "ko",
+      "defaultAudioLanguage": "ko",
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": {
+        "actualStartTime": "2024-03-03T05:01:44Z",
+        "actualEndTime": "2024-03-03T06:01:57Z",
+        "scheduledStartTime": "2024-03-03T05:00:00Z"
+      },
+      "channelId": "UCNJM6dqu70Qr6VaseiW1Org",
+      "channelName": "이재명",
+      "collectedAt": "2025-08-20T11:39:24.422521Z"
     }
   },
   "channels": {
@@ -115,9 +149,36 @@
       "viewCount": 87225174,
       "videoCount": 19299,
       "lastUpdated": "2025-08-18T02:22:24.530809Z"
+    },
+    "UCNJM6dqu70Qr6VaseiW1Org": {
+      "channelId": "UCNJM6dqu70Qr6VaseiW1Org",
+      "channelName": "이재명",
+      "channelUrl": "@이재명tv",
+      "channelDescription": "대한민국 제21대 대통령\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/kIdZSRMagKta6GY6aiDm5asO5Cupd_HanW3xIFnBW2p8VNYI2JryJUchT4Aoy2ASM-ifq7JfyQ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/kIdZSRMagKta6GY6aiDm5asO5Cupd_HanW3xIFnBW2p8VNYI2JryJUchT4Aoy2ASM-ifq7JfyQ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/kIdZSRMagKta6GY6aiDm5asO5Cupd_HanW3xIFnBW2p8VNYI2JryJUchT4Aoy2ASM-ifq7JfyQ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 1710000,
+      "viewCount": 336974518,
+      "videoCount": 3965,
+      "lastUpdated": "2025-08-20T11:39:24.421525Z"
     }
   },
-  "lastUpdated": "2025-08-18T07:13:50.990138Z",
-  "totalVideos": 4,
-  "totalChannels": 1
+  "lastUpdated": "2025-08-20T11:39:24.422521Z",
+  "totalVideos": 5,
+  "totalChannels": 2
 }

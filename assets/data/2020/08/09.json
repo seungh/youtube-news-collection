@@ -17,7 +17,7 @@
       "liveStreamingDetails": null,
       "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
       "channelName": "NATV 국회방송",
-      "collectedAt": "2025-08-18T07:13:24.014145Z"
+      "collectedAt": "2025-08-20T11:39:47.775984Z"
     },
     "-O14yESLoLw": {
       "videoId": "-O14yESLoLw",
@@ -51,7 +51,41 @@
       },
       "channelId": "UCn8WFi6pE4cJZP8MiUNGFxg",
       "channelName": "KTV NEWS",
-      "collectedAt": "2025-08-18T07:13:24.014145Z"
+      "collectedAt": "2025-08-20T11:39:47.772866Z"
+    },
+    "Jw5qxrtyKiE": {
+      "videoId": "Jw5qxrtyKiE",
+      "title": "환자 안전 위협하는 극단적 휴업 지양- 코로나19 대응현황 중앙재난안전대책본부 브리핑 8/9(일)",
+      "description": "✔신규 확진자 30명 추가 총 1만2,048명\n✔해외유입 감염사례 확연한 감소세\n✔코로나19 우울감 측정 정신건강앱 등 지원\n✔다양한 문화예술치유 프로그램 지원\n✔다문화 가정·청소년 등 특성별 심리 치료\n✔의대 정원 확대는 불가피한 선택\n✔의료계 좋은 의견 있다면 적극 수용\n✔환자 안전 위협하는 극단적 휴업 지양\n✔피해복구에 총력···피해 최소화 주의 당부\n\n○브리핑 전문○\n\n코로나19 중앙재난안전대책본부 1차장 박능후 보건복지부 장관입니다. \n\n   8월 9일 0시 기준 국내 발생 신규환자는 30명이고 해외유입 사례는 6명입니다. 환자는 총 1만 4,598명이며, 현재 651명의 환자들이 치료를 받고 있습니다. \n\n   어제 1분이 돌아가셨고 현재까지 사망자는 총 305명입니다. 돌아가신 고인의 명복을 빌며 유가족분들에게는 깊은 위로의 뜻을 전합니다. \n\n   정부는 오늘 중대본회의를 개최하여 코로나19 심리지원 대책, 해외입국자 추이분석 등을 논의하였습니다. \n\n   지난 2주간...",
+      "publishedAt": "2020-08-09T08:22:37Z",
+      "duration": "PT20M5S",
+      "viewCount": 3810,
+      "likeCount": 291,
+      "commentCount": 26,
+      "tags": [
+        "코로나19",
+        "중앙재난안전대책본부",
+        "중대본",
+        "브리핑",
+        "박능후",
+        "보건복지부",
+        "장관",
+        "해외유입",
+        "신규확진",
+        "국내발생"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": {
+        "actualStartTime": "2020-08-09T07:57:08Z",
+        "actualEndTime": "2020-08-09T08:20:39Z",
+        "scheduledStartTime": "2020-08-09T08:00:00Z"
+      },
+      "channelId": "UCIMOytYIzaUpoAM2bpT4JZQ",
+      "channelName": "KTV 국민방송",
+      "collectedAt": "2025-08-20T11:39:47.775984Z"
     }
   },
   "channels": {
@@ -108,9 +142,36 @@
       "viewCount": 87289483,
       "videoCount": 19304,
       "lastUpdated": "2025-08-18T07:13:24.014145Z"
+    },
+    "UCIMOytYIzaUpoAM2bpT4JZQ": {
+      "channelId": "UCIMOytYIzaUpoAM2bpT4JZQ",
+      "channelName": "KTV 국민방송",
+      "channelUrl": "@ktv_korea",
+      "channelDescription": "이재명 정부 국정소식, 정책정보, 정부브리핑 등을 실시간으로 소개해드립니다\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/C8SZ5Na4t2ExtMRDMXKbHJtoiC_2u30a4TjVoHpg4xLH0z2jUVntFrpGt26OXfkBHxuwjq8xTOk=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/C8SZ5Na4t2ExtMRDMXKbHJtoiC_2u30a4TjVoHpg4xLH0z2jUVntFrpGt26OXfkBHxuwjq8xTOk=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/C8SZ5Na4t2ExtMRDMXKbHJtoiC_2u30a4TjVoHpg4xLH0z2jUVntFrpGt26OXfkBHxuwjq8xTOk=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 594000,
+      "viewCount": 496166667,
+      "videoCount": 25206,
+      "lastUpdated": "2025-08-20T11:39:47.775984Z"
     }
   },
-  "lastUpdated": "2025-08-18T07:13:24.015141Z",
-  "totalVideos": 2,
-  "totalChannels": 2
+  "lastUpdated": "2025-08-20T11:39:47.775984Z",
+  "totalVideos": 3,
+  "totalChannels": 3
 }

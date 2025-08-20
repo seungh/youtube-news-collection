@@ -25,7 +25,7 @@
       "liveStreamingDetails": null,
       "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
       "channelName": "NATV 국회방송",
-      "collectedAt": "2025-08-18T07:13:45.153068Z"
+      "collectedAt": "2025-08-20T11:40:07.539885Z"
     },
     "E3M6hLAdll0": {
       "videoId": "E3M6hLAdll0",
@@ -49,7 +49,7 @@
       "liveStreamingDetails": null,
       "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
       "channelName": "NATV 국회방송",
-      "collectedAt": "2025-08-18T07:13:45.153068Z"
+      "collectedAt": "2025-08-20T11:40:07.539885Z"
     },
     "V8buEkpkHqo": {
       "videoId": "V8buEkpkHqo",
@@ -75,6 +75,66 @@
       "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
       "channelName": "NATV 국회방송",
       "collectedAt": "2025-08-18T07:13:45.153068Z"
+    },
+    "iMSfjlMEwys": {
+      "videoId": "iMSfjlMEwys",
+      "title": "한복입고 꽃구경 건전한 대학 문화 만들기 - 국민리포트 -",
+      "description": "",
+      "publishedAt": "2015-05-05T00:55:00Z",
+      "duration": "PT2M1S",
+      "viewCount": 357,
+      "likeCount": 4,
+      "commentCount": 0,
+      "tags": [
+        "KTV 국민방송",
+        "한국정책방송 KTV",
+        "꽃구경",
+        "꽃",
+        "한복",
+        "대학",
+        "대학문화",
+        "대학생활",
+        "캠퍼스라이프",
+        "충남대학교"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": "ko",
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCIMOytYIzaUpoAM2bpT4JZQ",
+      "channelName": "KTV 국민방송",
+      "collectedAt": "2025-08-20T11:40:07.544679Z"
+    },
+    "bh8YbYTTlMA": {
+      "videoId": "bh8YbYTTlMA",
+      "title": "요즘 사회의 경제를 알기 위해 꼭 알아야 할 주식!! - 파워특강 10minutes -",
+      "description": "아이디어브릿지 자산운용 장석환 대표가 말하는 요즘 사회의 경제에 대해 알기 위해 꼭 알아야 할 주식!\n주식에 대한 총체적인 이해로 시작해서 취업에 필요한 무형자산까지 다루는 주식지식부터 삶에 대한 필수적인 강의!",
+      "publishedAt": "2015-05-05T00:56:45Z",
+      "duration": "PT9M15S",
+      "viewCount": 213,
+      "likeCount": 0,
+      "commentCount": 0,
+      "tags": [
+        "KTV 국민방송",
+        "한국정책방송 KTV",
+        "주식",
+        "경제",
+        "아이디어",
+        "자산운용",
+        "자산관리",
+        "아이디어브릿지",
+        "장석환",
+        "장석환 대표"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": "ko",
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCIMOytYIzaUpoAM2bpT4JZQ",
+      "channelName": "KTV 국민방송",
+      "collectedAt": "2025-08-20T11:40:07.544679Z"
     }
   },
   "channels": {
@@ -104,9 +164,36 @@
       "viewCount": 86009826,
       "videoCount": 16390,
       "lastUpdated": "2025-08-18T07:13:45.152070Z"
+    },
+    "UCIMOytYIzaUpoAM2bpT4JZQ": {
+      "channelId": "UCIMOytYIzaUpoAM2bpT4JZQ",
+      "channelName": "KTV 국민방송",
+      "channelUrl": "@ktv_korea",
+      "channelDescription": "이재명 정부 국정소식, 정책정보, 정부브리핑 등을 실시간으로 소개해드립니다\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/C8SZ5Na4t2ExtMRDMXKbHJtoiC_2u30a4TjVoHpg4xLH0z2jUVntFrpGt26OXfkBHxuwjq8xTOk=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/C8SZ5Na4t2ExtMRDMXKbHJtoiC_2u30a4TjVoHpg4xLH0z2jUVntFrpGt26OXfkBHxuwjq8xTOk=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/C8SZ5Na4t2ExtMRDMXKbHJtoiC_2u30a4TjVoHpg4xLH0z2jUVntFrpGt26OXfkBHxuwjq8xTOk=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 594000,
+      "viewCount": 496166667,
+      "videoCount": 25206,
+      "lastUpdated": "2025-08-20T11:40:07.543677Z"
     }
   },
-  "lastUpdated": "2025-08-18T07:13:45.160951Z",
-  "totalVideos": 3,
-  "totalChannels": 1
+  "lastUpdated": "2025-08-20T11:40:07.546675Z",
+  "totalVideos": 5,
+  "totalChannels": 2
 }

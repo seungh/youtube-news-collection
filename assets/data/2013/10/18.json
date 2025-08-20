@@ -1,0 +1,66 @@
+{
+  "videos": {
+    "ybkYEanqypw": {
+      "videoId": "ybkYEanqypw",
+      "title": "[한국정책방송KTV] 국악콘서트 울림(2013.10.19)",
+      "description": "전통음악에 심취하고, 연희단의 매력에 빠질수 있는 신명나는 축제. \n\n타악을 울리고 재주를 펼치는 젊은 재주꾼들의 향연.\n\nKTV국악콘서트 울림에서 지난 10일 열린 '연희페스티벌-한국전통타악그룹 태극'. 그 감동의 무대를 그대로 담아 여러분께 선사해드립니다.\n\n바쁜 일상 속 작은 쉼터, 토요일 저녁 8시 20분 KTV국악콘서트 울림과 함께하세요~ ^^",
+      "publishedAt": "2013-10-18T00:07:05Z",
+      "duration": "PT51S",
+      "viewCount": 782,
+      "likeCount": 3,
+      "commentCount": 0,
+      "tags": [
+        "한국정책방송 KTV",
+        "문화체육관광부",
+        "국악",
+        "콘서트",
+        "울림",
+        "연희",
+        "한마당",
+        "향연",
+        "재주꾼",
+        "타악"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCIMOytYIzaUpoAM2bpT4JZQ",
+      "channelName": "KTV 국민방송",
+      "collectedAt": "2025-08-20T11:40:18.527445Z"
+    }
+  },
+  "channels": {
+    "UCIMOytYIzaUpoAM2bpT4JZQ": {
+      "channelId": "UCIMOytYIzaUpoAM2bpT4JZQ",
+      "channelName": "KTV 국민방송",
+      "channelUrl": "@ktv_korea",
+      "channelDescription": "이재명 정부 국정소식, 정책정보, 정부브리핑 등을 실시간으로 소개해드립니다\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/C8SZ5Na4t2ExtMRDMXKbHJtoiC_2u30a4TjVoHpg4xLH0z2jUVntFrpGt26OXfkBHxuwjq8xTOk=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/C8SZ5Na4t2ExtMRDMXKbHJtoiC_2u30a4TjVoHpg4xLH0z2jUVntFrpGt26OXfkBHxuwjq8xTOk=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/C8SZ5Na4t2ExtMRDMXKbHJtoiC_2u30a4TjVoHpg4xLH0z2jUVntFrpGt26OXfkBHxuwjq8xTOk=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 594000,
+      "viewCount": 496166667,
+      "videoCount": 25206,
+      "lastUpdated": "2025-08-20T11:40:18.527445Z"
+    }
+  },
+  "lastUpdated": "2025-08-20T11:40:18.527445Z",
+  "totalVideos": 1,
+  "totalChannels": 1
+}

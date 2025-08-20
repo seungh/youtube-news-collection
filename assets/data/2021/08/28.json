@@ -54,7 +54,7 @@
       "liveStreamingDetails": null,
       "channelId": "UC88r6mA2791EXvGAruLL7ug",
       "channelName": "KFN뉴스",
-      "collectedAt": "2025-08-18T07:13:11.446342Z"
+      "collectedAt": "2025-08-20T11:39:29.621912Z"
     },
     "u5hkCxIIFKc": {
       "videoId": "u5hkCxIIFKc",
@@ -80,7 +80,7 @@
       "liveStreamingDetails": null,
       "channelId": "UC88r6mA2791EXvGAruLL7ug",
       "channelName": "KFN뉴스",
-      "collectedAt": "2025-08-18T07:13:11.446342Z"
+      "collectedAt": "2025-08-20T11:39:29.621912Z"
     },
     "ZgU3VzEGAVs": {
       "videoId": "ZgU3VzEGAVs",
@@ -106,7 +106,7 @@
       "liveStreamingDetails": null,
       "channelId": "UC88r6mA2791EXvGAruLL7ug",
       "channelName": "KFN뉴스",
-      "collectedAt": "2025-08-18T07:13:11.446342Z"
+      "collectedAt": "2025-08-20T11:39:29.621912Z"
     },
     "7Wu7JiR7dLE": {
       "videoId": "7Wu7JiR7dLE",
@@ -155,7 +155,7 @@
       "liveStreamingDetails": null,
       "channelId": "UCn8WFi6pE4cJZP8MiUNGFxg",
       "channelName": "KTV NEWS",
-      "collectedAt": "2025-08-18T07:13:11.472988Z"
+      "collectedAt": "2025-08-20T11:39:29.621394Z"
     },
     "Xwmt9swW21E": {
       "videoId": "Xwmt9swW21E",
@@ -185,7 +185,7 @@
       "liveStreamingDetails": null,
       "channelId": "UCn8WFi6pE4cJZP8MiUNGFxg",
       "channelName": "KTV NEWS",
-      "collectedAt": "2025-08-18T07:13:11.472988Z"
+      "collectedAt": "2025-08-20T11:39:29.621394Z"
     },
     "U-u-zO2RvLE": {
       "videoId": "U-u-zO2RvLE",
@@ -216,6 +216,70 @@
       "channelId": "UCn8WFi6pE4cJZP8MiUNGFxg",
       "channelName": "KTV NEWS",
       "collectedAt": "2025-08-18T07:13:11.472988Z"
+    },
+    "o3VaABQEIww": {
+      "videoId": "o3VaABQEIww",
+      "title": "코로나19 국내 신규확진 및 예방접종 현황 (2021년 8월 28일 0시 기준)",
+      "description": "🚨 #코로나19​​​ #신규확진​​​ #예방접종​​ 현황​ 🚨\n (2021년 8월 28일 0시 기준)\n\n✔신규확진 1,793명\n▪️국내발생 1,738명·해외유입 55명\n\n✔누적확진자 246,951명\n▪️격리해제 216,989명 (+2,316명)\n▪️치료 중 27,686명 (-534명)\n▪️사망 2,276명 (+11명)\n\n✔1차 누적 접종자 28,345,045명\n▪️2차 누적 접종자 14,346,836명\n\n✔1차 신규 접종자 598,603명\n▪️2차 신규 접종자 549,112명\n\n📢 의심신고 검사자 수는 55,697명, 수도권 임시선별검사소 검사 건수는 103,894건(확진자 415명), 비수도권 임시선별검사소 검사 건수는 15,364건(확진자 22명)으로 총 검사 건수는 174,955건, 신규 확진자는 총 1,793명입니다.\n\n👉오늘은 코로나19 정례브리핑이 없습니다. 시청에 참고하시길 바랍니다.",
+      "publishedAt": "2021-08-28T00:37:44Z",
+      "duration": "PT4M42S",
+      "viewCount": 2340,
+      "likeCount": 150,
+      "commentCount": 7,
+      "tags": [
+        "코로나19",
+        "국내",
+        "신규확진",
+        "해외유입",
+        "격리해제",
+        "치료중",
+        "격리중",
+        "사망자",
+        "현황",
+        "코로나바이러스감염증19"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": "ko",
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": {
+        "actualStartTime": "2021-08-28T00:27:10Z",
+        "actualEndTime": "2021-08-28T00:35:55Z",
+        "scheduledStartTime": "2021-08-28T00:30:00Z"
+      },
+      "channelId": "UCIMOytYIzaUpoAM2bpT4JZQ",
+      "channelName": "KTV 국민방송",
+      "collectedAt": "2025-08-20T11:39:29.621912Z"
+    },
+    "N_-pPhmmycE": {
+      "videoId": "N_-pPhmmycE",
+      "title": "불가능한 것을 가능하다고 말할 수 없습니다",
+      "description": "- 후원회 홈페이지: www.ljm4you.com\n- 후원회 연락처 : 02-786-5225\n\n- 이재명 후원회 -\n\n#이재명 #Shorts #이재명후원회",
+      "publishedAt": "2021-08-28T12:32:17Z",
+      "duration": "PT49S",
+      "viewCount": 1415824,
+      "likeCount": 22145,
+      "commentCount": 2522,
+      "tags": [
+        "이재명",
+        "경기도청",
+        "경기도",
+        "이재명연설",
+        "이재명지사",
+        "경기도지사",
+        "경기도이재명",
+        "이재명경기도",
+        "경기도정",
+        "이재명경기도지사"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCNJM6dqu70Qr6VaseiW1Org",
+      "channelName": "이재명",
+      "collectedAt": "2025-08-20T11:39:29.622901Z"
     }
   },
   "channels": {
@@ -299,9 +363,63 @@
       "viewCount": 87289483,
       "videoCount": 19304,
       "lastUpdated": "2025-08-18T07:13:11.472006Z"
+    },
+    "UCIMOytYIzaUpoAM2bpT4JZQ": {
+      "channelId": "UCIMOytYIzaUpoAM2bpT4JZQ",
+      "channelName": "KTV 국민방송",
+      "channelUrl": "@ktv_korea",
+      "channelDescription": "이재명 정부 국정소식, 정책정보, 정부브리핑 등을 실시간으로 소개해드립니다\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/C8SZ5Na4t2ExtMRDMXKbHJtoiC_2u30a4TjVoHpg4xLH0z2jUVntFrpGt26OXfkBHxuwjq8xTOk=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/C8SZ5Na4t2ExtMRDMXKbHJtoiC_2u30a4TjVoHpg4xLH0z2jUVntFrpGt26OXfkBHxuwjq8xTOk=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/C8SZ5Na4t2ExtMRDMXKbHJtoiC_2u30a4TjVoHpg4xLH0z2jUVntFrpGt26OXfkBHxuwjq8xTOk=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 594000,
+      "viewCount": 496166667,
+      "videoCount": 25206,
+      "lastUpdated": "2025-08-20T11:39:29.621912Z"
+    },
+    "UCNJM6dqu70Qr6VaseiW1Org": {
+      "channelId": "UCNJM6dqu70Qr6VaseiW1Org",
+      "channelName": "이재명",
+      "channelUrl": "@이재명tv",
+      "channelDescription": "대한민국 제21대 대통령\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/kIdZSRMagKta6GY6aiDm5asO5Cupd_HanW3xIFnBW2p8VNYI2JryJUchT4Aoy2ASM-ifq7JfyQ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/kIdZSRMagKta6GY6aiDm5asO5Cupd_HanW3xIFnBW2p8VNYI2JryJUchT4Aoy2ASM-ifq7JfyQ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/kIdZSRMagKta6GY6aiDm5asO5Cupd_HanW3xIFnBW2p8VNYI2JryJUchT4Aoy2ASM-ifq7JfyQ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 1710000,
+      "viewCount": 336974518,
+      "videoCount": 3965,
+      "lastUpdated": "2025-08-20T11:39:29.622901Z"
     }
   },
-  "lastUpdated": "2025-08-18T07:13:11.473985Z",
-  "totalVideos": 8,
-  "totalChannels": 3
+  "lastUpdated": "2025-08-20T11:39:29.623898Z",
+  "totalVideos": 10,
+  "totalChannels": 5
 }

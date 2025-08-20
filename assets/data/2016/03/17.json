@@ -22,7 +22,7 @@
       "liveStreamingDetails": null,
       "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
       "channelName": "NATV 국회방송",
-      "collectedAt": "2025-08-18T07:13:41.816912Z"
+      "collectedAt": "2025-08-20T11:40:03.534439Z"
     },
     "uztgjrn7xco": {
       "videoId": "uztgjrn7xco",
@@ -75,7 +75,7 @@
       "liveStreamingDetails": null,
       "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
       "channelName": "NATV 국회방송",
-      "collectedAt": "2025-08-18T07:13:41.816912Z"
+      "collectedAt": "2025-08-20T11:40:03.534439Z"
     },
     "9K1Ts1tRtWQ": {
       "videoId": "9K1Ts1tRtWQ",
@@ -98,7 +98,7 @@
       "liveStreamingDetails": null,
       "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
       "channelName": "NATV 국회방송",
-      "collectedAt": "2025-08-18T07:13:41.816912Z"
+      "collectedAt": "2025-08-20T11:40:03.534439Z"
     },
     "lD_zFhEVcRE": {
       "videoId": "lD_zFhEVcRE",
@@ -121,7 +121,7 @@
       "liveStreamingDetails": null,
       "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
       "channelName": "NATV 국회방송",
-      "collectedAt": "2025-08-18T07:13:41.816912Z"
+      "collectedAt": "2025-08-20T11:40:03.534439Z"
     },
     "NgRhJZX8Qco": {
       "videoId": "NgRhJZX8Qco",
@@ -167,7 +167,97 @@
       "liveStreamingDetails": null,
       "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
       "channelName": "NATV 국회방송",
-      "collectedAt": "2025-08-18T07:13:41.816912Z"
+      "collectedAt": "2025-08-20T11:40:03.534439Z"
+    },
+    "BwjdW7vSI2k": {
+      "videoId": "BwjdW7vSI2k",
+      "title": "자연 속 어린이 집…꿈과 미래가 쑥쑥 -국민리포트-",
+      "description": "아름다운 자연을 벗 삼아 재미있게 공부도 하고\n놀이를 통해] 꿈과 미래를 키워주는\n어린이집이 있습니다. \n\n아이들은 매일 소풍 가는 기분으로\n어린이집을 갈 것 같은데요.",
+      "publishedAt": "2016-03-17T14:35:20Z",
+      "duration": "PT2M17S",
+      "viewCount": 160,
+      "likeCount": 3,
+      "commentCount": 0,
+      "tags": [
+        "KTV 국민방송",
+        "한국정책방송 KTV",
+        "국민리포트",
+        "국민기자단",
+        "국민기자",
+        "주부기자",
+        "어린이집",
+        "국공립어린이집",
+        "유치원",
+        "행복"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": "ko",
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCIMOytYIzaUpoAM2bpT4JZQ",
+      "channelName": "KTV 국민방송",
+      "collectedAt": "2025-08-20T11:40:03.535274Z"
+    },
+    "nVVwU1_tAF0": {
+      "videoId": "nVVwU1_tAF0",
+      "title": "K-POP, 드라마를 잇는 한국뷰티 열풍. 압구정 '뷰티로드' -핫플레이스 코리아-",
+      "description": "한국의 뷰티 열풍. 중국을 넘어 전 세계로 뻗어나가고 있죠! 뷰티 열풍의 중심 압구정 '뷰티로드' 여행을 떠나보시죠~",
+      "publishedAt": "2016-03-17T05:56:37Z",
+      "duration": "PT9M37S",
+      "viewCount": 1351,
+      "likeCount": 6,
+      "commentCount": 0,
+      "tags": [
+        "KTV 국민방송",
+        "한국정책방송 KTV",
+        "K-POP",
+        "드라마",
+        "한류",
+        "한국",
+        "한류열풍",
+        "한국드라마",
+        "핫플레이스",
+        "코리아"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": "ko",
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCIMOytYIzaUpoAM2bpT4JZQ",
+      "channelName": "KTV 국민방송",
+      "collectedAt": "2025-08-20T11:40:03.535274Z"
+    },
+    "02AK_ePr_qk": {
+      "videoId": "02AK_ePr_qk",
+      "title": "낮과 밤이 다르다? 서울 근교의 숨은 여행지 '부천' -핫플레이스 코리아-",
+      "description": "한국의 과학기술, IT기술을 한 눈에 볼 수 있는 곳. 국내외 최초의 로봇 상설전시관이 있는 부천으로 떠나봅니다.",
+      "publishedAt": "2016-03-17T05:45:35Z",
+      "duration": "PT8M35S",
+      "viewCount": 4295,
+      "likeCount": 13,
+      "commentCount": 0,
+      "tags": [
+        "KTV 국민방송",
+        "한국정책방송 KTV",
+        "서울",
+        "근교",
+        "근교여행",
+        "관광",
+        "여행지",
+        "관광지",
+        "부천",
+        "로봇"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": "ko",
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCIMOytYIzaUpoAM2bpT4JZQ",
+      "channelName": "KTV 국민방송",
+      "collectedAt": "2025-08-20T11:40:03.535274Z"
     }
   },
   "channels": {
@@ -197,9 +287,36 @@
       "viewCount": 86009826,
       "videoCount": 16390,
       "lastUpdated": "2025-08-18T07:13:41.815914Z"
+    },
+    "UCIMOytYIzaUpoAM2bpT4JZQ": {
+      "channelId": "UCIMOytYIzaUpoAM2bpT4JZQ",
+      "channelName": "KTV 국민방송",
+      "channelUrl": "@ktv_korea",
+      "channelDescription": "이재명 정부 국정소식, 정책정보, 정부브리핑 등을 실시간으로 소개해드립니다\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/C8SZ5Na4t2ExtMRDMXKbHJtoiC_2u30a4TjVoHpg4xLH0z2jUVntFrpGt26OXfkBHxuwjq8xTOk=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/C8SZ5Na4t2ExtMRDMXKbHJtoiC_2u30a4TjVoHpg4xLH0z2jUVntFrpGt26OXfkBHxuwjq8xTOk=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/C8SZ5Na4t2ExtMRDMXKbHJtoiC_2u30a4TjVoHpg4xLH0z2jUVntFrpGt26OXfkBHxuwjq8xTOk=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 594000,
+      "viewCount": 496166667,
+      "videoCount": 25206,
+      "lastUpdated": "2025-08-20T11:40:03.535274Z"
     }
   },
-  "lastUpdated": "2025-08-18T07:13:41.822457Z",
-  "totalVideos": 7,
-  "totalChannels": 1
+  "lastUpdated": "2025-08-20T11:40:03.535274Z",
+  "totalVideos": 10,
+  "totalChannels": 2
 }

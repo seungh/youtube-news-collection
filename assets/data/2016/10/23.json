@@ -1,0 +1,69 @@
+{
+  "videos": {
+    "fKYFl7lopkU": {
+      "videoId": "fKYFl7lopkU",
+      "title": "실시간 중계 영상 이재명 카페트인 작당모의 가라읍자!",
+      "description": "현장에 못오신 분들 함께해요",
+      "publishedAt": "2016-10-23T08:36:40Z",
+      "duration": "PT2H45M29S",
+      "viewCount": 60763,
+      "likeCount": 2608,
+      "commentCount": 479,
+      "tags": [
+        "이재명",
+        "성남시장",
+        "성남",
+        "성남시",
+        "대한민국",
+        "혁명",
+        "변화",
+        "손가락",
+        "손가혁",
+        "희망"
+      ],
+      "categoryId": "22",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": {
+        "actualStartTime": "2016-10-23T04:57:10Z",
+        "actualEndTime": "2016-10-23T07:43:27Z"
+      },
+      "channelId": "UCNJM6dqu70Qr6VaseiW1Org",
+      "channelName": "이재명",
+      "collectedAt": "2025-08-20T11:40:19.350208Z"
+    }
+  },
+  "channels": {
+    "UCNJM6dqu70Qr6VaseiW1Org": {
+      "channelId": "UCNJM6dqu70Qr6VaseiW1Org",
+      "channelName": "이재명",
+      "channelUrl": "@이재명tv",
+      "channelDescription": "대한민국 제21대 대통령\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/kIdZSRMagKta6GY6aiDm5asO5Cupd_HanW3xIFnBW2p8VNYI2JryJUchT4Aoy2ASM-ifq7JfyQ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/kIdZSRMagKta6GY6aiDm5asO5Cupd_HanW3xIFnBW2p8VNYI2JryJUchT4Aoy2ASM-ifq7JfyQ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/kIdZSRMagKta6GY6aiDm5asO5Cupd_HanW3xIFnBW2p8VNYI2JryJUchT4Aoy2ASM-ifq7JfyQ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 1710000,
+      "viewCount": 336974518,
+      "videoCount": 3965,
+      "lastUpdated": "2025-08-20T11:40:19.348179Z"
+    }
+  },
+  "lastUpdated": "2025-08-20T11:40:19.350208Z",
+  "totalVideos": 1,
+  "totalChannels": 1
+}

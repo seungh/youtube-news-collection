@@ -32,7 +32,7 @@
       },
       "channelId": "UCn8WFi6pE4cJZP8MiUNGFxg",
       "channelName": "KTV NEWS",
-      "collectedAt": "2025-08-18T07:13:52.746776Z"
+      "collectedAt": "2025-08-20T11:39:47.837589Z"
     },
     "vF3AqWKp2PE": {
       "videoId": "vF3AqWKp2PE",
@@ -62,7 +62,7 @@
       "liveStreamingDetails": null,
       "channelId": "UCn8WFi6pE4cJZP8MiUNGFxg",
       "channelName": "KTV NEWS",
-      "collectedAt": "2025-08-18T07:13:52.746776Z"
+      "collectedAt": "2025-08-20T11:39:47.837589Z"
     },
     "o6cfXJJ4tE0": {
       "videoId": "o6cfXJJ4tE0",
@@ -92,7 +92,7 @@
       "liveStreamingDetails": null,
       "channelId": "UCn8WFi6pE4cJZP8MiUNGFxg",
       "channelName": "KTV NEWS",
-      "collectedAt": "2025-08-18T07:13:52.746776Z"
+      "collectedAt": "2025-08-20T11:39:47.837589Z"
     },
     "8OC5XsMPi8U": {
       "videoId": "8OC5XsMPi8U",
@@ -122,7 +122,41 @@
       "liveStreamingDetails": null,
       "channelId": "UCn8WFi6pE4cJZP8MiUNGFxg",
       "channelName": "KTV NEWS",
-      "collectedAt": "2025-08-18T07:13:52.746776Z"
+      "collectedAt": "2025-08-20T11:39:47.837589Z"
+    },
+    "fgPrObDMUqs": {
+      "videoId": "fgPrObDMUqs",
+      "title": "신규 확진자 113명 해외유입 86명·지역발생 27명- 코로나19 발생현황 중앙방역대책본부 브리핑 7/25(토)",
+      "description": "✔해외유입 86명·지역발생 27명\n✔사망자 추가 없어 총 298명\n✔이라크 36명·러시아 34명·필리핀 5명·미국 3명 등\n✔해외유입 86명 중 81명은 검역 단계에서 확인\n✔이라크 근로자 35명 추가 확진···누적 71명\n✔20일부터 러시아 입항 선원 전수 검사\n✔방역 수칙 준수 지도 관리 강화\n✔모든 국민·사회가 거리두기 등 수칙 지켜야\n✔41명 입국자 통해 15명 국내 추가 전파\n✔이라크 근로자 누적 확진자 71명···재검 11명\n✔서울청사 확진 관련 57명 접촉자 파악 진행 중\n\n○브리핑 전문○\n\n7월 25일 코로나바이러스감염증-19 국내 발생현항을 말씀드리겠습니다. \n\n국내에 새롭게 발생한 신규 확진자는 27명입니다. 해외유입 사례는 86명으로 이중에는 이라크에서 귀국한 우리 근로자가 36명 러시아 선원 32명이 포함되어 있습니다. 총 누적 확진자가 1만 4,092명이고 신규로 49명이 격리해제되어 현재 928명이 격리 중입니다. 어제는 사망자가 발생하지 않았습니다. \n\n국...",
+      "publishedAt": "2020-07-25T05:44:18Z",
+      "duration": "PT30M54S",
+      "viewCount": 9588,
+      "likeCount": 296,
+      "commentCount": 19,
+      "tags": [
+        "코로나19",
+        "확진자",
+        "해외유입",
+        "지역발생",
+        "이라크",
+        "러시아",
+        "필리핀",
+        "미국",
+        "검역",
+        "근로자"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": {
+        "actualStartTime": "2020-07-25T05:06:55Z",
+        "actualEndTime": "2020-07-25T05:41:34Z",
+        "scheduledStartTime": "2020-07-25T05:10:00Z"
+      },
+      "channelId": "UCIMOytYIzaUpoAM2bpT4JZQ",
+      "channelName": "KTV 국민방송",
+      "collectedAt": "2025-08-20T11:39:47.838586Z"
     }
   },
   "channels": {
@@ -152,9 +186,36 @@
       "viewCount": 87289483,
       "videoCount": 19304,
       "lastUpdated": "2025-08-18T07:13:52.741968Z"
+    },
+    "UCIMOytYIzaUpoAM2bpT4JZQ": {
+      "channelId": "UCIMOytYIzaUpoAM2bpT4JZQ",
+      "channelName": "KTV 국민방송",
+      "channelUrl": "@ktv_korea",
+      "channelDescription": "이재명 정부 국정소식, 정책정보, 정부브리핑 등을 실시간으로 소개해드립니다\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/C8SZ5Na4t2ExtMRDMXKbHJtoiC_2u30a4TjVoHpg4xLH0z2jUVntFrpGt26OXfkBHxuwjq8xTOk=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/C8SZ5Na4t2ExtMRDMXKbHJtoiC_2u30a4TjVoHpg4xLH0z2jUVntFrpGt26OXfkBHxuwjq8xTOk=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/C8SZ5Na4t2ExtMRDMXKbHJtoiC_2u30a4TjVoHpg4xLH0z2jUVntFrpGt26OXfkBHxuwjq8xTOk=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 594000,
+      "viewCount": 496166667,
+      "videoCount": 25206,
+      "lastUpdated": "2025-08-20T11:39:47.838586Z"
     }
   },
-  "lastUpdated": "2025-08-18T07:13:52.751880Z",
-  "totalVideos": 4,
-  "totalChannels": 1
+  "lastUpdated": "2025-08-20T11:39:47.838586Z",
+  "totalVideos": 5,
+  "totalChannels": 2
 }

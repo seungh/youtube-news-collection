@@ -24,7 +24,7 @@
       "liveStreamingDetails": null,
       "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
       "channelName": "NATV 국회방송",
-      "collectedAt": "2025-08-18T07:13:43.034517Z"
+      "collectedAt": "2025-08-20T11:40:04.388607Z"
     },
     "9w-2e_lm9FQ": {
       "videoId": "9w-2e_lm9FQ",
@@ -76,7 +76,97 @@
       "liveStreamingDetails": null,
       "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
       "channelName": "NATV 국회방송",
-      "collectedAt": "2025-08-18T07:13:43.034517Z"
+      "collectedAt": "2025-08-20T11:40:04.388607Z"
+    },
+    "__rY5m9KiJE": {
+      "videoId": "__rY5m9KiJE",
+      "title": "전남 화순 성안마을, 이야기꽃을 피우다! \"마을미술 프로젝트\" - 행복한 오후 -",
+      "description": "문화 소외지역 성안마을에 주민 누구나 즐길 수 있는 문화공간을 조성하자는 취지에서 2011년 마을미술프로젝트 '5일 시장과 연계한 문화마을 조성'이 시작되었는데요, 화순 남산 자락에 위치한 그곳으로 함께 떠나볼까요?",
+      "publishedAt": "2015-11-10T06:47:32Z",
+      "duration": "PT7M9S",
+      "viewCount": 348,
+      "likeCount": 2,
+      "commentCount": 0,
+      "tags": [
+        "KTV 국민방송",
+        "한국정책방송 KTV",
+        "마을미술",
+        "성안마을",
+        "마을미술 프로젝트",
+        "행복마을",
+        "문화체육관광부",
+        "전남",
+        "전라남도",
+        "화순"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": "ko",
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCIMOytYIzaUpoAM2bpT4JZQ",
+      "channelName": "KTV 국민방송",
+      "collectedAt": "2025-08-20T11:40:04.389604Z"
+    },
+    "IxiQOV-IP-g": {
+      "videoId": "IxiQOV-IP-g",
+      "title": "[3분'쏙쏙'프로그램 하이라이트] 한센인과의 동행 유의배 신부를 만나다 -살맛나는 이야기 미담 36회-",
+      "description": "",
+      "publishedAt": "2015-11-10T04:52:39Z",
+      "duration": "PT1M36S",
+      "viewCount": 2262,
+      "likeCount": 42,
+      "commentCount": 1,
+      "tags": [
+        "KTV 국민방송",
+        "한국정책방송 KTV",
+        "미담",
+        "살맛나는 이야기 미담",
+        "유의배",
+        "유의배 신부",
+        "한센인",
+        "봉사",
+        "봉사 활동",
+        "천주교"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": "ko",
+      "defaultAudioLanguage": "ko",
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCIMOytYIzaUpoAM2bpT4JZQ",
+      "channelName": "KTV 국민방송",
+      "collectedAt": "2025-08-20T11:40:04.389604Z"
+    },
+    "IyOLN2G6DhE": {
+      "videoId": "IyOLN2G6DhE",
+      "title": "\"한국형전투기 '에이사 레이더' 75% 이상 완성\" -KTV 뉴스(10시)-",
+      "description": "",
+      "publishedAt": "2015-11-10T07:38:53Z",
+      "duration": "PT1M30S",
+      "viewCount": 23156,
+      "likeCount": 45,
+      "commentCount": 8,
+      "tags": [
+        "KTV 국민방송",
+        "한국정책방송 KTV",
+        "전투기",
+        "KF-X",
+        "KAI KF-X",
+        "한국형 전투기",
+        "한국 전투기",
+        "제트기",
+        "차세대 전투기",
+        "차세대 무기"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": "ko",
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCIMOytYIzaUpoAM2bpT4JZQ",
+      "channelName": "KTV 국민방송",
+      "collectedAt": "2025-08-20T11:40:04.389604Z"
     }
   },
   "channels": {
@@ -106,9 +196,36 @@
       "viewCount": 86009826,
       "videoCount": 16390,
       "lastUpdated": "2025-08-18T07:13:43.033519Z"
+    },
+    "UCIMOytYIzaUpoAM2bpT4JZQ": {
+      "channelId": "UCIMOytYIzaUpoAM2bpT4JZQ",
+      "channelName": "KTV 국민방송",
+      "channelUrl": "@ktv_korea",
+      "channelDescription": "이재명 정부 국정소식, 정책정보, 정부브리핑 등을 실시간으로 소개해드립니다\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/C8SZ5Na4t2ExtMRDMXKbHJtoiC_2u30a4TjVoHpg4xLH0z2jUVntFrpGt26OXfkBHxuwjq8xTOk=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/C8SZ5Na4t2ExtMRDMXKbHJtoiC_2u30a4TjVoHpg4xLH0z2jUVntFrpGt26OXfkBHxuwjq8xTOk=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/C8SZ5Na4t2ExtMRDMXKbHJtoiC_2u30a4TjVoHpg4xLH0z2jUVntFrpGt26OXfkBHxuwjq8xTOk=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 594000,
+      "viewCount": 496166667,
+      "videoCount": 25206,
+      "lastUpdated": "2025-08-20T11:40:04.388607Z"
     }
   },
-  "lastUpdated": "2025-08-18T07:13:43.034517Z",
-  "totalVideos": 3,
-  "totalChannels": 1
+  "lastUpdated": "2025-08-20T11:40:04.389604Z",
+  "totalVideos": 6,
+  "totalChannels": 2
 }

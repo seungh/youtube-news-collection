@@ -27,7 +27,7 @@
       "liveStreamingDetails": null,
       "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
       "channelName": "NATV 국회방송",
-      "collectedAt": "2025-08-18T07:13:45.601962Z"
+      "collectedAt": "2025-08-20T11:40:07.701832Z"
     },
     "bIx0-VTM6Ac": {
       "videoId": "bIx0-VTM6Ac",
@@ -57,7 +57,85 @@
       "liveStreamingDetails": null,
       "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
       "channelName": "NATV 국회방송",
-      "collectedAt": "2025-08-18T07:13:45.601962Z"
+      "collectedAt": "2025-08-20T11:40:07.701832Z"
+    },
+    "vTdqNqaRCGg": {
+      "videoId": "vTdqNqaRCGg",
+      "title": "[KTV 박종진의 정책&이슈] 11회 예고 분장실ver.",
+      "description": "분장실에서 대기중안 박종진 앵커와 임윤선 변호사, 그리고 담당피디의 대화를 들어보세요!",
+      "publishedAt": "2015-03-19T05:20:03Z",
+      "duration": "PT1M",
+      "viewCount": 681,
+      "likeCount": 1,
+      "commentCount": 0,
+      "tags": [
+        "KTV 국민방송",
+        "한국정책방송 KTV",
+        "박종진",
+        "박종진 앵커",
+        "분장실",
+        "임윤선",
+        "임윤선 변호사",
+        "PD",
+        "유격훈련",
+        "생방송"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": "ko",
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCIMOytYIzaUpoAM2bpT4JZQ",
+      "channelName": "KTV 국민방송",
+      "collectedAt": "2025-08-20T11:40:07.707598Z"
+    },
+    "ln8-qgyuCBo": {
+      "videoId": "ln8-qgyuCBo",
+      "title": "[KTV 국민리포트] 중학교 글쓰기 동아리 재능기부",
+      "description": "",
+      "publishedAt": "2015-03-19T11:03:00Z",
+      "duration": "PT2M21S",
+      "viewCount": 219,
+      "likeCount": 2,
+      "commentCount": 0,
+      "tags": [
+        "KTV 국민방송",
+        "한국정책방송 KTV"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": "ko",
+      "defaultAudioLanguage": "ko",
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCIMOytYIzaUpoAM2bpT4JZQ",
+      "channelName": "KTV 국민방송",
+      "collectedAt": "2025-08-20T11:40:07.707598Z"
+    },
+    "8IZFQDqsbm0": {
+      "videoId": "8IZFQDqsbm0",
+      "title": "[KTV 국민리포트] 섬진강 100리 스토리길 열렸다.",
+      "description": "",
+      "publishedAt": "2015-03-19T10:56:43Z",
+      "duration": "PT2M18S",
+      "viewCount": 182,
+      "likeCount": 3,
+      "commentCount": 0,
+      "tags": [
+        "KTV 국민방송",
+        "한국정책방송 KTV",
+        "국민리포트",
+        "주부기자단",
+        "시니어기자단",
+        "캠퍼스기자"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": "ko",
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCIMOytYIzaUpoAM2bpT4JZQ",
+      "channelName": "KTV 국민방송",
+      "collectedAt": "2025-08-20T11:40:07.707598Z"
     }
   },
   "channels": {
@@ -87,9 +165,36 @@
       "viewCount": 86009826,
       "videoCount": 16390,
       "lastUpdated": "2025-08-18T07:13:45.601393Z"
+    },
+    "UCIMOytYIzaUpoAM2bpT4JZQ": {
+      "channelId": "UCIMOytYIzaUpoAM2bpT4JZQ",
+      "channelName": "KTV 국민방송",
+      "channelUrl": "@ktv_korea",
+      "channelDescription": "이재명 정부 국정소식, 정책정보, 정부브리핑 등을 실시간으로 소개해드립니다\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/C8SZ5Na4t2ExtMRDMXKbHJtoiC_2u30a4TjVoHpg4xLH0z2jUVntFrpGt26OXfkBHxuwjq8xTOk=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/C8SZ5Na4t2ExtMRDMXKbHJtoiC_2u30a4TjVoHpg4xLH0z2jUVntFrpGt26OXfkBHxuwjq8xTOk=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/C8SZ5Na4t2ExtMRDMXKbHJtoiC_2u30a4TjVoHpg4xLH0z2jUVntFrpGt26OXfkBHxuwjq8xTOk=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 594000,
+      "viewCount": 496166667,
+      "videoCount": 25206,
+      "lastUpdated": "2025-08-20T11:40:07.707598Z"
     }
   },
-  "lastUpdated": "2025-08-18T07:13:45.601962Z",
-  "totalVideos": 2,
-  "totalChannels": 1
+  "lastUpdated": "2025-08-20T11:40:07.707598Z",
+  "totalVideos": 5,
+  "totalChannels": 2
 }

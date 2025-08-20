@@ -17,7 +17,7 @@
       "liveStreamingDetails": null,
       "channelId": "UCn8WFi6pE4cJZP8MiUNGFxg",
       "channelName": "KTV NEWS",
-      "collectedAt": "2025-08-18T07:13:21.475217Z"
+      "collectedAt": "2025-08-20T11:39:26.118607Z"
     },
     "7ZVulK_epqY": {
       "videoId": "7ZVulK_epqY",
@@ -36,7 +36,7 @@
       "liveStreamingDetails": null,
       "channelId": "UCn8WFi6pE4cJZP8MiUNGFxg",
       "channelName": "KTV NEWS",
-      "collectedAt": "2025-08-18T07:13:21.475217Z"
+      "collectedAt": "2025-08-20T11:39:26.118607Z"
     },
     "LJQs-Wq6zyM": {
       "videoId": "LJQs-Wq6zyM",
@@ -55,7 +55,7 @@
       "liveStreamingDetails": null,
       "channelId": "UCn8WFi6pE4cJZP8MiUNGFxg",
       "channelName": "KTV NEWS",
-      "collectedAt": "2025-08-18T07:13:21.475217Z"
+      "collectedAt": "2025-08-20T11:39:26.118607Z"
     },
     "wpsFy2wqWvI": {
       "videoId": "wpsFy2wqWvI",
@@ -85,7 +85,7 @@
       "liveStreamingDetails": null,
       "channelId": "UCn8WFi6pE4cJZP8MiUNGFxg",
       "channelName": "KTV NEWS",
-      "collectedAt": "2025-08-18T07:13:21.475217Z"
+      "collectedAt": "2025-08-20T11:39:26.118607Z"
     },
     "ezv6QSCRyq8": {
       "videoId": "ezv6QSCRyq8",
@@ -108,6 +108,50 @@
       "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
       "channelName": "NATV 국회방송",
       "collectedAt": "2025-08-18T07:13:21.474203Z"
+    },
+    "3GTplO8VKnE": {
+      "videoId": "3GTplO8VKnE",
+      "title": "윤석열 대통령의 단짠단짠 - MZ 공무원과의 대화 비하인드 컷 공개#솔직담백화끈 #맛있으면0칼로리? #shorts",
+      "description": "",
+      "publishedAt": "2023-02-12T02:12:38Z",
+      "duration": "PT1M",
+      "viewCount": 232220,
+      "likeCount": 21306,
+      "commentCount": 862,
+      "tags": [
+        "윤석열",
+        "대통령",
+        "20대대통령",
+        "공정",
+        "상식"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": "ko",
+      "defaultAudioLanguage": "ko",
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCcl16CxYqlbKQJVCfdhSJVw",
+      "channelName": "윤석열",
+      "collectedAt": "2025-08-20T11:39:26.119603Z"
+    },
+    "ehneYLscniQ": {
+      "videoId": "ehneYLscniQ",
+      "title": "제2의 중동 붐 이끄는 K-영업사원 #윤석열대통령 #순방성과 #후속조치",
+      "description": "지난 14일부터 20일까지\nUAE와 스위스 순방 후 역대 최대 규모의 성과를 이뤄낸 \n대한민국 1호 영업사원 윤석열 대통령!\n\nUAE의 300억 달러 투자 ‘약속’을 받아 돌아온 후에도\n성과의 결실을 맺기 위한 ‘실천’에 힘썼는데요\n\nK-영업사원 윤석열 대통령의 신속하고 꼼꼼한 후속조치\n영상으로 확인해보세요!\n\n- 정부 부처 중심의 UAE 투자 협력 위원회 출범\n- 민·관 합동 투자 협력 네트워크 출범\n- 셔틀 경제협력단 신설\n- 원스톱 수출·수주 지원단 출범\n\n\n#UAE #아랍에미리트 #스위스 #UAE투자유치후속조치점검회의\n#제1차인재양성전략회의 #반도체투자협약식및에이퍼초순수현장시찰 #CES디지털기술혁신기업인과의대화 \n#바라카원전관련기업인오찬간담회 #대전과학기술디지털혁신기업인과의대화",
+      "publishedAt": "2023-02-12T08:47:50Z",
+      "duration": "PT2M19S",
+      "viewCount": 2323,
+      "likeCount": 518,
+      "commentCount": 66,
+      "tags": [],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCydbI9p3_8DeteSBbnv0tuA",
+      "channelName": "윤석열 정부 영상 아카이브",
+      "collectedAt": "2025-08-20T11:39:26.120635Z"
     }
   },
   "channels": {
@@ -164,9 +208,63 @@
       "viewCount": 86003788,
       "videoCount": 16388,
       "lastUpdated": "2025-08-18T02:22:28.013993Z"
+    },
+    "UCcl16CxYqlbKQJVCfdhSJVw": {
+      "channelId": "UCcl16CxYqlbKQJVCfdhSJVw",
+      "channelName": "윤석열",
+      "channelUrl": "@sukyeol_yoon",
+      "channelDescription": "제20대 대통령 윤석열입니다.",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/Vn2wpB1HmM2E0ARHadprj2TrRWhBnkzeOhtfZ6fEEWHUnBg9YOGY_-dPUTAwUahGZg_igf9xDw=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/Vn2wpB1HmM2E0ARHadprj2TrRWhBnkzeOhtfZ6fEEWHUnBg9YOGY_-dPUTAwUahGZg_igf9xDw=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/Vn2wpB1HmM2E0ARHadprj2TrRWhBnkzeOhtfZ6fEEWHUnBg9YOGY_-dPUTAwUahGZg_igf9xDw=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 754000,
+      "viewCount": 157172619,
+      "videoCount": 3538,
+      "lastUpdated": "2025-08-20T11:39:26.119603Z"
+    },
+    "UCydbI9p3_8DeteSBbnv0tuA": {
+      "channelId": "UCydbI9p3_8DeteSBbnv0tuA",
+      "channelName": "윤석열 정부 영상 아카이브",
+      "channelUrl": "@yoonique2929",
+      "channelDescription": "* 윤석열 정부의 대통령 행보와 브리핑을 기록한 영상 아카이브 채널입니다.\n* KTV 온라인콘텐츠의 부분발췌, 상업적 이용 등 무단사용을 금합니다. \n※ 채널에 게시된 영상의 저작권은 영상을 취재한 개별 방송사에 있으며\n     영상의 무단 복제·배포 및 재가공 등을 금합니다\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/26A81EvLC15coLPb2U9jko_jbEmNq85IPoDxWRcy0xqhzD0uIEtOvBWIMdo2_lkLMnMLvvAHZA=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/26A81EvLC15coLPb2U9jko_jbEmNq85IPoDxWRcy0xqhzD0uIEtOvBWIMdo2_lkLMnMLvvAHZA=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/26A81EvLC15coLPb2U9jko_jbEmNq85IPoDxWRcy0xqhzD0uIEtOvBWIMdo2_lkLMnMLvvAHZA=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 255000,
+      "viewCount": 109575768,
+      "videoCount": 2854,
+      "lastUpdated": "2025-08-20T11:39:26.120635Z"
     }
   },
-  "lastUpdated": "2025-08-18T07:13:21.475217Z",
-  "totalVideos": 5,
-  "totalChannels": 2
+  "lastUpdated": "2025-08-20T11:39:26.121597Z",
+  "totalVideos": 7,
+  "totalChannels": 4
 }

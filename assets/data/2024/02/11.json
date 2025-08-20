@@ -29,6 +29,32 @@
       "channelId": "UCn8WFi6pE4cJZP8MiUNGFxg",
       "channelName": "KTV NEWS",
       "collectedAt": "2025-08-18T07:13:51.033840Z"
+    },
+    "ioVcT0ts1g0": {
+      "videoId": "ioVcT0ts1g0",
+      "title": "해병들과 편안한 만남과 격려…영상 통화까지? [해병 청룡부대 방문]",
+      "description": "해병대 정신은 언제나 든든합니다. 국군통수권자, 그리고 국민의 한 사람으로서 고맙습니다.\n#대한민국 #대통령 #윤석열 #해병대",
+      "publishedAt": "2024-02-10T15:37:34Z",
+      "duration": "PT3M22S",
+      "viewCount": 73377,
+      "likeCount": 8875,
+      "commentCount": 857,
+      "tags": [
+        "윤석열",
+        "대통령",
+        "대통령실",
+        "대통령실 채널",
+        "윤석열 유튜브",
+        "대한민국 대통령실"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": "ko",
+      "defaultAudioLanguage": "en",
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCcl16CxYqlbKQJVCfdhSJVw",
+      "channelName": "윤석열",
+      "collectedAt": "2025-08-20T11:39:24.584193Z"
     }
   },
   "channels": {
@@ -58,9 +84,36 @@
       "viewCount": 87225174,
       "videoCount": 19299,
       "lastUpdated": "2025-08-18T02:22:24.682433Z"
+    },
+    "UCcl16CxYqlbKQJVCfdhSJVw": {
+      "channelId": "UCcl16CxYqlbKQJVCfdhSJVw",
+      "channelName": "윤석열",
+      "channelUrl": "@sukyeol_yoon",
+      "channelDescription": "제20대 대통령 윤석열입니다.",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/Vn2wpB1HmM2E0ARHadprj2TrRWhBnkzeOhtfZ6fEEWHUnBg9YOGY_-dPUTAwUahGZg_igf9xDw=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/Vn2wpB1HmM2E0ARHadprj2TrRWhBnkzeOhtfZ6fEEWHUnBg9YOGY_-dPUTAwUahGZg_igf9xDw=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/Vn2wpB1HmM2E0ARHadprj2TrRWhBnkzeOhtfZ6fEEWHUnBg9YOGY_-dPUTAwUahGZg_igf9xDw=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 754000,
+      "viewCount": 157172619,
+      "videoCount": 3538,
+      "lastUpdated": "2025-08-20T11:39:24.584193Z"
     }
   },
-  "lastUpdated": "2025-08-18T07:13:51.033885Z",
-  "totalVideos": 1,
-  "totalChannels": 1
+  "lastUpdated": "2025-08-20T11:39:24.585988Z",
+  "totalVideos": 2,
+  "totalChannels": 2
 }

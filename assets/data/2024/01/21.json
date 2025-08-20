@@ -18,6 +18,32 @@
       "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
       "channelName": "NATV 국회방송",
       "collectedAt": "2025-08-18T07:13:19.776093Z"
+    },
+    "hZ6gnRMxHu8": {
+      "videoId": "hZ6gnRMxHu8",
+      "title": "\"세계의 청소년 선수들과 미래세대가 오륜기 아래에서 당당하게 실력을 겨루며, 값진 경험을 얻게 될 것\" [강원 동계청소년올림픽 리셉션 및 개회식]",
+      "description": "",
+      "publishedAt": "2024-01-21T03:46:50Z",
+      "duration": "PT6M12S",
+      "viewCount": 12217,
+      "likeCount": 2558,
+      "commentCount": 427,
+      "tags": [
+        "윤석열",
+        "대통령",
+        "대통령실",
+        "대통령실 채널",
+        "윤석열 유튜브",
+        "대한민국 대통령실"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": "ko",
+      "defaultAudioLanguage": "en",
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCcl16CxYqlbKQJVCfdhSJVw",
+      "channelName": "윤석열",
+      "collectedAt": "2025-08-20T11:39:56.704478Z"
     }
   },
   "channels": {
@@ -47,9 +73,36 @@
       "viewCount": 86003788,
       "videoCount": 16388,
       "lastUpdated": "2025-08-18T02:22:29.897338Z"
+    },
+    "UCcl16CxYqlbKQJVCfdhSJVw": {
+      "channelId": "UCcl16CxYqlbKQJVCfdhSJVw",
+      "channelName": "윤석열",
+      "channelUrl": "@sukyeol_yoon",
+      "channelDescription": "제20대 대통령 윤석열입니다.",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/Vn2wpB1HmM2E0ARHadprj2TrRWhBnkzeOhtfZ6fEEWHUnBg9YOGY_-dPUTAwUahGZg_igf9xDw=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/Vn2wpB1HmM2E0ARHadprj2TrRWhBnkzeOhtfZ6fEEWHUnBg9YOGY_-dPUTAwUahGZg_igf9xDw=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/Vn2wpB1HmM2E0ARHadprj2TrRWhBnkzeOhtfZ6fEEWHUnBg9YOGY_-dPUTAwUahGZg_igf9xDw=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 754000,
+      "viewCount": 157172619,
+      "videoCount": 3538,
+      "lastUpdated": "2025-08-20T11:39:56.701485Z"
     }
   },
-  "lastUpdated": "2025-08-18T07:13:19.777091Z",
-  "totalVideos": 1,
-  "totalChannels": 1
+  "lastUpdated": "2025-08-20T11:39:56.706168Z",
+  "totalVideos": 2,
+  "totalChannels": 2
 }

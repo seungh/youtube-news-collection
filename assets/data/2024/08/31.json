@@ -36,7 +36,7 @@
       "liveStreamingDetails": null,
       "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
       "channelName": "NATV 국회방송",
-      "collectedAt": "2025-08-18T07:13:19.225813Z"
+      "collectedAt": "2025-08-20T11:40:11.409386Z"
     },
     "pG2PAEuhc1U": {
       "videoId": "pG2PAEuhc1U",
@@ -93,7 +93,37 @@
       "liveStreamingDetails": null,
       "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
       "channelName": "NATV 국회방송",
-      "collectedAt": "2025-08-18T07:13:19.225813Z"
+      "collectedAt": "2025-08-20T11:40:11.409386Z"
+    },
+    "9_fhhlga7Gw": {
+      "videoId": "9_fhhlga7Gw",
+      "title": "의료개혁 실행방안 차질 없는 이행 위해 과감한 재정투자와 법·제도 개선 추진",
+      "description": "► 국가재정과국가재정 투자 대폭 확대\n- 내년부터 의료 분야 지원은 건강보험 의존에서 탈피 \n- 국가재정과 건강보험을 양대 축으로 과감하게 지원\n- 향후 5년간 의료개혁 추진에 국가재정 10조 원·건강보험 10조 원 등 총 20조 원 이상의 재정 집중적 지원\n\n►의학교육과 전공의 수련에 5년간 4조 원 이상 투자\n\n►지역의료 기반 강화에 5년간 2.5조 원 이상 투자 \n\n►필수의료 기능 강화에 5년간 2조 원 이상 투자\n\n►의료사고 분쟁 해결 위한 재정투자 강화\n\n►진료-연구 선순환 등 위해 5년간 1.5조 원 규모의 필수의료 R&D 지원\n\n#윤석열대통령 #의료분야지원 #의료개혁",
+      "publishedAt": "2024-08-30T15:02:23Z",
+      "duration": "PT4M37S",
+      "viewCount": 566,
+      "likeCount": 48,
+      "commentCount": 25,
+      "tags": [
+        "의료개혁",
+        "보건복지부장관",
+        "윤석열대통령",
+        "대통령",
+        "재정투자",
+        "법개선",
+        "제도개선",
+        "개선",
+        "의료",
+        "의사"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": "ko",
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCIMOytYIzaUpoAM2bpT4JZQ",
+      "channelName": "KTV 국민방송",
+      "collectedAt": "2025-08-20T11:40:11.409386Z"
     }
   },
   "channels": {
@@ -123,9 +153,36 @@
       "viewCount": 86003788,
       "videoCount": 16388,
       "lastUpdated": "2025-08-18T02:22:29.886187Z"
+    },
+    "UCIMOytYIzaUpoAM2bpT4JZQ": {
+      "channelId": "UCIMOytYIzaUpoAM2bpT4JZQ",
+      "channelName": "KTV 국민방송",
+      "channelUrl": "@ktv_korea",
+      "channelDescription": "이재명 정부 국정소식, 정책정보, 정부브리핑 등을 실시간으로 소개해드립니다\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/C8SZ5Na4t2ExtMRDMXKbHJtoiC_2u30a4TjVoHpg4xLH0z2jUVntFrpGt26OXfkBHxuwjq8xTOk=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/C8SZ5Na4t2ExtMRDMXKbHJtoiC_2u30a4TjVoHpg4xLH0z2jUVntFrpGt26OXfkBHxuwjq8xTOk=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/C8SZ5Na4t2ExtMRDMXKbHJtoiC_2u30a4TjVoHpg4xLH0z2jUVntFrpGt26OXfkBHxuwjq8xTOk=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 594000,
+      "viewCount": 496166667,
+      "videoCount": 25206,
+      "lastUpdated": "2025-08-20T11:40:11.409386Z"
     }
   },
-  "lastUpdated": "2025-08-18T07:13:19.227538Z",
-  "totalVideos": 5,
-  "totalChannels": 1
+  "lastUpdated": "2025-08-20T11:40:11.410382Z",
+  "totalVideos": 6,
+  "totalChannels": 2
 }

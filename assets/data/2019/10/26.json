@@ -55,7 +55,7 @@
       "liveStreamingDetails": null,
       "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
       "channelName": "NATV 국회방송",
-      "collectedAt": "2025-08-18T07:13:28.696817Z"
+      "collectedAt": "2025-08-20T11:39:54.390439Z"
     },
     "_sQBI2COYrE": {
       "videoId": "_sQBI2COYrE",
@@ -115,7 +115,60 @@
       "liveStreamingDetails": null,
       "channelId": "UCn8WFi6pE4cJZP8MiUNGFxg",
       "channelName": "KTV NEWS",
-      "collectedAt": "2025-08-18T07:13:28.697814Z"
+      "collectedAt": "2025-08-20T11:39:54.390439Z"
+    },
+    "XUHVccQHxSE": {
+      "videoId": "XUHVccQHxSE",
+      "title": "기자들과 사진 찍고, 악수하고 무엇이든 물어보세요, 문재인 대통령 청와대 출입기자단 초청 행사(모두발언O, 질의응답O)",
+      "description": "외국인들도 극찬하는 이곳은 바로 청와대 녹지원~  문재인 대통령은 10월 25일 오후 청와대를 취재하는 내외신을 포함한 총 240여 명의 기자들을 초청해 격려, 소통하는 자리를 가졌습니다!\n\n  문재인 대통령은 모두발언을 통해 \"언론은 '제4부'라고 한다\"며 \"입법, 행정, 사법 이렇게 3부는 현실적인 권력이 힘이며, 언론은 진실이 가장 큰 힘이라고 생각한다\"고 말했습니다.\n또한 대통령은 \"독재시대에는 권력의 통제가 진실을 알리는 것을 가로막았고, 검열, 보도지침 같은 것이 노골적으로 작동했다\"며 \"하지만 그 시절 언론인들은 국민들의 신뢰를 받았다\"고 전했습니다. 이어 대통령은 그 이유를 \"비록 진실은 알리지 못하더라도 할 수만 있다면 1단 기사를 통해서라도, 하다못해 행간을 통해서라도 진실을 알리려고 노력하고 있다는 것을 국민들이 잘 알고 있었기 때문\"이라고 설명했습니다.\n\n 지난 태풍 피해로 어려움을 겪는 지역의 특산물과 과일 등으로 만든 음식과 '2019 한-핀란드 스타트업 서...",
+      "publishedAt": "2019-10-26T11:15:48Z",
+      "duration": "PT11M56S",
+      "viewCount": 69774,
+      "likeCount": 4889,
+      "commentCount": 760,
+      "tags": [
+        "문재인대통령",
+        "언론",
+        "청와대 출입기자",
+        "청와대",
+        "기자",
+        "녹지원"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": "ko",
+      "defaultAudioLanguage": "ko",
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCIMOytYIzaUpoAM2bpT4JZQ",
+      "channelName": "KTV 국민방송",
+      "collectedAt": "2025-08-20T11:39:54.394289Z"
+    },
+    "JrXYlKgpC34": {
+      "videoId": "JrXYlKgpC34",
+      "title": "[청원답변] ‘윤석열 총장 기밀누설죄 처벌 촉구’, ‘나경원 원내대표 각종의혹 특검 요청’ 청원  | 김광진 정무비서관",
+      "description": "[청원답변] ‘윤석열 총장 기밀누설죄 처벌 촉구’, ‘나경원 원내대표 각종의혹 특검 요청’ 청원  | 김광진 정무비서관\n\n\n#국민청원 #청원답변",
+      "publishedAt": "2019-10-26T06:00:00Z",
+      "duration": "PT8M3S",
+      "viewCount": 419353,
+      "likeCount": 25043,
+      "commentCount": 1875,
+      "tags": [
+        "문재인",
+        "청와대",
+        "대통령",
+        "김정숙",
+        "국민청원",
+        "나경원",
+        "윤석열"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": "ko",
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UC7WMB_czX5jF__5kqT4d9Ww",
+      "channelName": " 문재인정부 청와대",
+      "collectedAt": "2025-08-20T11:39:54.394289Z"
     }
   },
   "channels": {
@@ -172,9 +225,63 @@
       "viewCount": 87289483,
       "videoCount": 19304,
       "lastUpdated": "2025-08-18T07:13:28.696817Z"
+    },
+    "UCIMOytYIzaUpoAM2bpT4JZQ": {
+      "channelId": "UCIMOytYIzaUpoAM2bpT4JZQ",
+      "channelName": "KTV 국민방송",
+      "channelUrl": "@ktv_korea",
+      "channelDescription": "이재명 정부 국정소식, 정책정보, 정부브리핑 등을 실시간으로 소개해드립니다\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/C8SZ5Na4t2ExtMRDMXKbHJtoiC_2u30a4TjVoHpg4xLH0z2jUVntFrpGt26OXfkBHxuwjq8xTOk=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/C8SZ5Na4t2ExtMRDMXKbHJtoiC_2u30a4TjVoHpg4xLH0z2jUVntFrpGt26OXfkBHxuwjq8xTOk=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/C8SZ5Na4t2ExtMRDMXKbHJtoiC_2u30a4TjVoHpg4xLH0z2jUVntFrpGt26OXfkBHxuwjq8xTOk=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 594000,
+      "viewCount": 496166667,
+      "videoCount": 25206,
+      "lastUpdated": "2025-08-20T11:39:54.394289Z"
+    },
+    "UC7WMB_czX5jF__5kqT4d9Ww": {
+      "channelId": "UC7WMB_czX5jF__5kqT4d9Ww",
+      "channelName": " 문재인정부 청와대",
+      "channelUrl": "@thebluehousekr",
+      "channelDescription": " 문재인정부 청와대 공식 유튜브 채널입니다.",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/z0uFyY8invEc-QlNJod5ycMfMCwQiQlDNT4LWIyJqi4IL-XQc0F7OyYeBbJMhhaYJOs-ecL7VTo=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/z0uFyY8invEc-QlNJod5ycMfMCwQiQlDNT4LWIyJqi4IL-XQc0F7OyYeBbJMhhaYJOs-ecL7VTo=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/z0uFyY8invEc-QlNJod5ycMfMCwQiQlDNT4LWIyJqi4IL-XQc0F7OyYeBbJMhhaYJOs-ecL7VTo=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 308000,
+      "viewCount": 58715833,
+      "videoCount": 1549,
+      "lastUpdated": "2025-08-20T11:39:54.394289Z"
     }
   },
-  "lastUpdated": "2025-08-18T07:13:28.698811Z",
-  "totalVideos": 4,
-  "totalChannels": 2
+  "lastUpdated": "2025-08-20T11:39:54.395286Z",
+  "totalVideos": 6,
+  "totalChannels": 4
 }

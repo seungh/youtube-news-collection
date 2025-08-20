@@ -28,7 +28,35 @@
       "liveStreamingDetails": null,
       "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
       "channelName": "NATV 국회방송",
-      "collectedAt": "2025-08-18T07:13:46.317614Z"
+      "collectedAt": "2025-08-20T11:40:09.878510Z"
+    },
+    "cBjipXCJQ-U": {
+      "videoId": "cBjipXCJQ-U",
+      "title": "[KTV 국민방송] 그린라이트를 켜줘, 외국인 종합안내센터",
+      "description": "관광이나 유학, 취업을 하기 위해 \n한국을 방문하는 외국인이 점점 늘고 있습니다.\n낯선 타국에서 생활하다보면 어려운 일이나 \n불편한 일이 종종 생길텐데요 \n한국을 찾은 외국인들을 위해 그린라이트가 켜졌습니다!\n바로 외국인 종합안내센터와 전자민원 서비스~\n어떤 내용인지, 어떻게 이용할 수 있는지 함께 알아볼까요?",
+      "publishedAt": "2015-01-09T01:57:53Z",
+      "duration": "PT4M24S",
+      "viewCount": 1174,
+      "likeCount": 3,
+      "commentCount": 0,
+      "tags": [
+        "KTV 국민방송",
+        "한국정책방송 KTV",
+        "그린라이트",
+        "외국인",
+        "외국인 안내",
+        "외국인 종합안내센터",
+        "외국인 전자민원",
+        "전자민원서비스"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCIMOytYIzaUpoAM2bpT4JZQ",
+      "channelName": "KTV 국민방송",
+      "collectedAt": "2025-08-20T11:40:09.878510Z"
     }
   },
   "channels": {
@@ -58,9 +86,36 @@
       "viewCount": 86009826,
       "videoCount": 16390,
       "lastUpdated": "2025-08-18T07:13:46.317614Z"
+    },
+    "UCIMOytYIzaUpoAM2bpT4JZQ": {
+      "channelId": "UCIMOytYIzaUpoAM2bpT4JZQ",
+      "channelName": "KTV 국민방송",
+      "channelUrl": "@ktv_korea",
+      "channelDescription": "이재명 정부 국정소식, 정책정보, 정부브리핑 등을 실시간으로 소개해드립니다\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/C8SZ5Na4t2ExtMRDMXKbHJtoiC_2u30a4TjVoHpg4xLH0z2jUVntFrpGt26OXfkBHxuwjq8xTOk=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/C8SZ5Na4t2ExtMRDMXKbHJtoiC_2u30a4TjVoHpg4xLH0z2jUVntFrpGt26OXfkBHxuwjq8xTOk=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/C8SZ5Na4t2ExtMRDMXKbHJtoiC_2u30a4TjVoHpg4xLH0z2jUVntFrpGt26OXfkBHxuwjq8xTOk=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 594000,
+      "viewCount": 496166667,
+      "videoCount": 25206,
+      "lastUpdated": "2025-08-20T11:40:09.878510Z"
     }
   },
-  "lastUpdated": "2025-08-18T07:13:46.321142Z",
-  "totalVideos": 1,
-  "totalChannels": 1
+  "lastUpdated": "2025-08-20T11:40:09.879508Z",
+  "totalVideos": 2,
+  "totalChannels": 2
 }

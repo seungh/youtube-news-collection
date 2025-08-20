@@ -1,0 +1,67 @@
+{
+  "videos": {
+    "Vb3d988z_FM": {
+      "videoId": "Vb3d988z_FM",
+      "title": "청와대 브리핑 -대통령입장 대독",
+      "description": "[Live] 청와대 브리핑\n신고리 5·6호기 공론화 결과에 대한 \n문재인 대통령 입장 박수현 대변인 대독",
+      "publishedAt": "2017-10-22T06:07:10Z",
+      "duration": "PT4M26S",
+      "viewCount": 4345,
+      "likeCount": 182,
+      "commentCount": 19,
+      "tags": [
+        "KTV국민방송",
+        "한국정책방송KTV",
+        "원전",
+        "탈원전",
+        "고리",
+        "원자력발전소",
+        "원전건설",
+        "신고리위원회"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": {
+        "actualStartTime": "2017-10-22T05:29:02Z",
+        "actualEndTime": "2017-10-22T05:34:21Z"
+      },
+      "channelId": "UCIMOytYIzaUpoAM2bpT4JZQ",
+      "channelName": "KTV 국민방송",
+      "collectedAt": "2025-08-20T11:40:16.440698Z"
+    }
+  },
+  "channels": {
+    "UCIMOytYIzaUpoAM2bpT4JZQ": {
+      "channelId": "UCIMOytYIzaUpoAM2bpT4JZQ",
+      "channelName": "KTV 국민방송",
+      "channelUrl": "@ktv_korea",
+      "channelDescription": "이재명 정부 국정소식, 정책정보, 정부브리핑 등을 실시간으로 소개해드립니다\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/C8SZ5Na4t2ExtMRDMXKbHJtoiC_2u30a4TjVoHpg4xLH0z2jUVntFrpGt26OXfkBHxuwjq8xTOk=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/C8SZ5Na4t2ExtMRDMXKbHJtoiC_2u30a4TjVoHpg4xLH0z2jUVntFrpGt26OXfkBHxuwjq8xTOk=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/C8SZ5Na4t2ExtMRDMXKbHJtoiC_2u30a4TjVoHpg4xLH0z2jUVntFrpGt26OXfkBHxuwjq8xTOk=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 594000,
+      "viewCount": 496166667,
+      "videoCount": 25206,
+      "lastUpdated": "2025-08-20T11:40:16.434759Z"
+    }
+  },
+  "lastUpdated": "2025-08-20T11:40:16.440698Z",
+  "totalVideos": 1,
+  "totalChannels": 1
+}

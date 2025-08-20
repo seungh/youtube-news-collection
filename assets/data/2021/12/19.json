@@ -28,7 +28,26 @@
       "liveStreamingDetails": null,
       "channelId": "UC88r6mA2791EXvGAruLL7ug",
       "channelName": "KFN뉴스",
-      "collectedAt": "2025-08-18T07:13:08.382956Z"
+      "collectedAt": "2025-08-20T11:40:19.192827Z"
+    },
+    "KUB01D2Y-ZE": {
+      "videoId": "KUB01D2Y-ZE",
+      "title": "윤석열 국민의힘 대통령 후보, 청년보좌역 공개모집 격려 방문",
+      "description": "12월 18일 윤석열 국민의힘 대통령 후보는 국회 의원회관에서 진행된 국민의힘 선거대책위원회 청년보좌역 공개모집 현장에 방문해 모집에 참여한 청년들을 격려, 응원했습니다. \n\n\"제가 구상하는 정부는 디지털 플랫폼 정부입니다. 저는 청년 세대가 정부 운영에 적극적으로 참여해, 디지털 플랫폼 정부를 선도해야 한다고 생각합니다. 여러분들은 아직 젊기 때문에 경험은 장년층보다 부족할 수 있지만, 정부 운영을 과학과 데이터화 하는데 여러분들은 첨병이 될 수 있습니다.\"\n\n#윤석열 #공정 #상식 #국민의힘 #대선 #정권교체 #선대위 #살리는선대위 #청년 #청년보좌역 #공개모집",
+      "publishedAt": "2021-12-19T13:03:09Z",
+      "duration": "PT2M34S",
+      "viewCount": 16157,
+      "likeCount": 2883,
+      "commentCount": 915,
+      "tags": [],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCcl16CxYqlbKQJVCfdhSJVw",
+      "channelName": "윤석열",
+      "collectedAt": "2025-08-20T11:40:19.192827Z"
     }
   },
   "channels": {
@@ -58,9 +77,36 @@
       "viewCount": 203799141,
       "videoCount": 15149,
       "lastUpdated": "2025-08-18T07:13:08.381958Z"
+    },
+    "UCcl16CxYqlbKQJVCfdhSJVw": {
+      "channelId": "UCcl16CxYqlbKQJVCfdhSJVw",
+      "channelName": "윤석열",
+      "channelUrl": "@sukyeol_yoon",
+      "channelDescription": "제20대 대통령 윤석열입니다.",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/Vn2wpB1HmM2E0ARHadprj2TrRWhBnkzeOhtfZ6fEEWHUnBg9YOGY_-dPUTAwUahGZg_igf9xDw=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/Vn2wpB1HmM2E0ARHadprj2TrRWhBnkzeOhtfZ6fEEWHUnBg9YOGY_-dPUTAwUahGZg_igf9xDw=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/Vn2wpB1HmM2E0ARHadprj2TrRWhBnkzeOhtfZ6fEEWHUnBg9YOGY_-dPUTAwUahGZg_igf9xDw=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 754000,
+      "viewCount": 157172619,
+      "videoCount": 3538,
+      "lastUpdated": "2025-08-20T11:40:19.192827Z"
     }
   },
-  "lastUpdated": "2025-08-18T07:13:08.382956Z",
-  "totalVideos": 1,
-  "totalChannels": 1
+  "lastUpdated": "2025-08-20T11:40:19.192827Z",
+  "totalVideos": 2,
+  "totalChannels": 2
 }

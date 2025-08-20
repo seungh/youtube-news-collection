@@ -28,6 +28,96 @@
       "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
       "channelName": "NATV 국회방송",
       "collectedAt": "2025-08-18T07:13:43.349539Z"
+    },
+    "CNfbVvbCrSk": {
+      "videoId": "CNfbVvbCrSk",
+      "title": "k-pop 체험프로그램에 열광하는 외국인들 -국민리포트-",
+      "description": "외국 청소년들에게\n '한국'하면 먼저 떠오르는 것이 무엇이냐고 물었을 때\n절반 이상이 'k-pop'이라고 대답한다고 합니다.\n\n그래서 서울을 방문하\n 외국인 관광객을 대상으로 한\nk-pop 체험프로그램이\n큰 인기라고 하는데요.\n\n지금 소개해드릴게요.",
+      "publishedAt": "2015-09-29T12:48:42Z",
+      "duration": "PT2M19S",
+      "viewCount": 3549,
+      "likeCount": 12,
+      "commentCount": 0,
+      "tags": [
+        "KTV 국민방송",
+        "한국정책방송 KTV",
+        "K-pop",
+        "k팝",
+        "케이팝",
+        "K-pop스타",
+        "K-pop 체험프로그램",
+        "스타체험",
+        "드레스룸",
+        "메이크업 스튜디오"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": "ko",
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCIMOytYIzaUpoAM2bpT4JZQ",
+      "channelName": "KTV 국민방송",
+      "collectedAt": "2025-08-20T11:39:56.775297Z"
+    },
+    "gYVGE4Jf_n0": {
+      "videoId": "gYVGE4Jf_n0",
+      "title": "대한민국은 세일중… 할인 혜택 누리는 법 -국민리포트-",
+      "description": "요즘 대한민국은\n다양한 세일행사로 들썩이고 있습니다.\n\n10월 1일부터는\n본격적인 '블랙프라이데이'가 시작되는데요.\n\n먹거리, 볼거리, 즐길거리까지,\n가격 부담은 줄이면서\n다양한 혜택을 누릴 수 있는 방법.\n\n지금 알려드립니다.",
+      "publishedAt": "2015-09-29T12:36:51Z",
+      "duration": "PT2M32S",
+      "viewCount": 2097,
+      "likeCount": 2,
+      "commentCount": 0,
+      "tags": [
+        "KTV 국민방송",
+        "한국정책방송 KTV",
+        "블랙프라이데이",
+        "10월 1일",
+        "동대문",
+        "쇼핑",
+        "할인행사",
+        "코리아그랜드세일",
+        "대규모 할인행사",
+        "할인혜택"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": "ko",
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCIMOytYIzaUpoAM2bpT4JZQ",
+      "channelName": "KTV 국민방송",
+      "collectedAt": "2025-08-20T11:39:56.775297Z"
+    },
+    "xXFQkLelO-I": {
+      "videoId": "xXFQkLelO-I",
+      "title": "국내 최초 2층버스 이달말 본격 운행 -국민리포트-",
+      "description": "서울과 수도권을 오가는\n광역버스의 입석문제를 해소하기 위해\n경기도가 2층버스를 도입하기로 했는데요.\n\n본격적인 운행에 앞서\n시승체험행사가 열렸습니다.\n\n지금 만나보시죠!\n\n(20150928)",
+      "publishedAt": "2015-09-29T12:20:41Z",
+      "duration": "PT2M4S",
+      "viewCount": 9460,
+      "likeCount": 24,
+      "commentCount": 4,
+      "tags": [
+        "KTV 국민방송",
+        "한국정책방송 KTV",
+        "2층버스",
+        "광역버스",
+        "수도권",
+        "입석문제",
+        "경기도",
+        "시승체험",
+        "시범운행",
+        "출퇴근 시간"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": "ko",
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCIMOytYIzaUpoAM2bpT4JZQ",
+      "channelName": "KTV 국민방송",
+      "collectedAt": "2025-08-20T11:39:56.775297Z"
     }
   },
   "channels": {
@@ -57,9 +147,36 @@
       "viewCount": 86009826,
       "videoCount": 16390,
       "lastUpdated": "2025-08-18T07:13:43.349539Z"
+    },
+    "UCIMOytYIzaUpoAM2bpT4JZQ": {
+      "channelId": "UCIMOytYIzaUpoAM2bpT4JZQ",
+      "channelName": "KTV 국민방송",
+      "channelUrl": "@ktv_korea",
+      "channelDescription": "이재명 정부 국정소식, 정책정보, 정부브리핑 등을 실시간으로 소개해드립니다\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/C8SZ5Na4t2ExtMRDMXKbHJtoiC_2u30a4TjVoHpg4xLH0z2jUVntFrpGt26OXfkBHxuwjq8xTOk=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/C8SZ5Na4t2ExtMRDMXKbHJtoiC_2u30a4TjVoHpg4xLH0z2jUVntFrpGt26OXfkBHxuwjq8xTOk=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/C8SZ5Na4t2ExtMRDMXKbHJtoiC_2u30a4TjVoHpg4xLH0z2jUVntFrpGt26OXfkBHxuwjq8xTOk=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 594000,
+      "viewCount": 496166667,
+      "videoCount": 25206,
+      "lastUpdated": "2025-08-20T11:39:56.771957Z"
     }
   },
-  "lastUpdated": "2025-08-18T07:13:43.350534Z",
-  "totalVideos": 1,
-  "totalChannels": 1
+  "lastUpdated": "2025-08-20T11:39:56.776295Z",
+  "totalVideos": 4,
+  "totalChannels": 2
 }

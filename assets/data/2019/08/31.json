@@ -28,7 +28,37 @@
       "liveStreamingDetails": null,
       "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
       "channelName": "NATV 국회방송",
-      "collectedAt": "2025-08-18T07:13:29.650603Z"
+      "collectedAt": "2025-08-20T11:39:58.517496Z"
+    },
+    "syIIC_syJws": {
+      "videoId": "syIIC_syJws",
+      "title": "웨슬리 스나입스도 구경옴! '지구촌 최대 무술축제' 2019 충주세계무예마스터십 개회식 이낙연 총리 축사",
+      "description": "지구촌 최대 규모의 무예종합경기대회인 \n'2019 충주세계무예마스터십'이 30일 개회식을 시작으로 \n8일 동안의 열전에 들어갔습니다.\n개회식에는 이낙연 국무총리와 이시종 충북지사, \n명예 대회장인 반기문 전 유엔 사무총장 등 국내외 인사와 \n선수, 임원, 시민 등 1만 5천여명이 참석했는데요.\n할리우드 스타 웨슬리 스나입스가 축사 중인 \n이 총리를 촬영하는 모습이 보여 눈길을 끌기도 했습니다.\n웨서방이 충주에 온 이유는?! 영상을 통해 확인하세요!\n\n#충주세계무예마스터십 #웨서방 #wesley_snipes",
+      "publishedAt": "2019-08-31T10:28:49Z",
+      "duration": "PT5M39S",
+      "viewCount": 72324,
+      "likeCount": 1255,
+      "commentCount": 91,
+      "tags": [
+        "ktv국민방송",
+        "한국정책방송ktv",
+        "이낙연",
+        "이낙연총리",
+        "충주",
+        "충주세계무예마스터십",
+        "무술축제",
+        "무술",
+        "태권도",
+        "주짓수"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": "ko",
+      "defaultAudioLanguage": "ko",
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCIMOytYIzaUpoAM2bpT4JZQ",
+      "channelName": "KTV 국민방송",
+      "collectedAt": "2025-08-20T11:39:58.518493Z"
     }
   },
   "channels": {
@@ -58,9 +88,36 @@
       "viewCount": 86009826,
       "videoCount": 16390,
       "lastUpdated": "2025-08-18T07:13:29.650603Z"
+    },
+    "UCIMOytYIzaUpoAM2bpT4JZQ": {
+      "channelId": "UCIMOytYIzaUpoAM2bpT4JZQ",
+      "channelName": "KTV 국민방송",
+      "channelUrl": "@ktv_korea",
+      "channelDescription": "이재명 정부 국정소식, 정책정보, 정부브리핑 등을 실시간으로 소개해드립니다\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/C8SZ5Na4t2ExtMRDMXKbHJtoiC_2u30a4TjVoHpg4xLH0z2jUVntFrpGt26OXfkBHxuwjq8xTOk=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/C8SZ5Na4t2ExtMRDMXKbHJtoiC_2u30a4TjVoHpg4xLH0z2jUVntFrpGt26OXfkBHxuwjq8xTOk=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/C8SZ5Na4t2ExtMRDMXKbHJtoiC_2u30a4TjVoHpg4xLH0z2jUVntFrpGt26OXfkBHxuwjq8xTOk=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 594000,
+      "viewCount": 496166667,
+      "videoCount": 25206,
+      "lastUpdated": "2025-08-20T11:39:58.518493Z"
     }
   },
-  "lastUpdated": "2025-08-18T07:13:29.651600Z",
-  "totalVideos": 1,
-  "totalChannels": 1
+  "lastUpdated": "2025-08-20T11:39:58.518493Z",
+  "totalVideos": 2,
+  "totalChannels": 2
 }
