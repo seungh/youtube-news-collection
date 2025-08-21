@@ -219,6 +219,96 @@
       "channelId": "UCIMOytYIzaUpoAM2bpT4JZQ",
       "channelName": "KTV 국민방송",
       "collectedAt": "2025-08-20T11:40:05.623595Z"
+    },
+    "ALNdBR2AIVI": {
+      "videoId": "ALNdBR2AIVI",
+      "title": "北 김정은, 김양건 시신에 손 얹고…\"말도 없이 야속히 떠나\"",
+      "description": "북한 김정은이 사망한 김양건의 빈소를 찾아 조문하면서, \"격한 심정을 누르지 못했다\"고 북한매체들이 전했습니다. \n\n[Ch.19] 세상에 없는 TV 이제 시작합니다. \n★홈페이지 : www.tvchosun.com \n기사 더 보기 ▶ http://news.tvchosun.com/site/data/html_dir/2015/12/31/2015123190122.html",
+      "publishedAt": "2015-12-31T05:54:31Z",
+      "duration": "PT1M20S",
+      "viewCount": 1098,
+      "likeCount": 1,
+      "commentCount": 1,
+      "tags": [
+        "TV조선",
+        "티비조선",
+        "조선일보",
+        "종편",
+        "종합편성",
+        "티브이조선",
+        "방송사",
+        "TV조선뉴스",
+        "뉴스",
+        "뉴스프로그램"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": "ko",
+      "defaultAudioLanguage": "ko",
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "collectedAt": "2025-08-21T10:29:11.627309Z"
+    },
+    "g-f4ScV18ns": {
+      "videoId": "g-f4ScV18ns",
+      "title": "최태원·노소영 '두문불출'…내연녀 집 부당지원 '논란'",
+      "description": "혼외자 존재를 공개한 최태원 SK회장은 이혼을 하겠다, 부인 노소영 관장은 이혼은 않겠다는 입장인데, 이 와중에 내연녀가 살던 집에 대한 SK그룹의 부당지원 의혹도 불거져 나왔습니다. \n\n[Ch.19] 세상에 없는 TV 이제 시작합니다. \n★홈페이지 : www.tvchosun.com \n기사 더 보기 ▶ http://news.tvchosun.com/site/data/html_dir/2015/12/31/2015123190064.html",
+      "publishedAt": "2015-12-31T00:25:24Z",
+      "duration": "PT1M26S",
+      "viewCount": 56679,
+      "likeCount": 148,
+      "commentCount": 28,
+      "tags": [
+        "TV조선",
+        "티비조선",
+        "조선일보",
+        "종편",
+        "종합편성",
+        "티브이조선",
+        "방송사",
+        "TV조선뉴스",
+        "뉴스",
+        "뉴스프로그램"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": "ko",
+      "defaultAudioLanguage": "ko",
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "collectedAt": "2025-08-21T10:29:11.627309Z"
+    },
+    "G5QBnVeo4Gs": {
+      "videoId": "G5QBnVeo4Gs",
+      "title": "억대 연봉자 3%…평균 급여 3170만원",
+      "description": "억대 연봉을 받는 직장인이 크게 늘어난 것으로 나타났습니다. 근로자 평균 급여는 3천 170만원으로 지난해보다 4% 이상 늘었습니다. \n\n[Ch.19] 세상에 없는 TV 이제 시작합니다. \n★홈페이지 : www.tvchosun.com \n기사 더 보기 ▶ http://news.tvchosun.com/site/data/html_dir/2015/12/31/2015123190018.html",
+      "publishedAt": "2015-12-31T00:02:14Z",
+      "duration": "PT1M33S",
+      "viewCount": 117,
+      "likeCount": 1,
+      "commentCount": 0,
+      "tags": [
+        "TV조선",
+        "티비조선",
+        "조선일보",
+        "종편",
+        "종합편성",
+        "티브이조선",
+        "방송사",
+        "TV조선뉴스",
+        "뉴스",
+        "뉴스프로그램"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "collectedAt": "2025-08-21T10:29:11.627309Z"
     }
   },
   "channels": {
@@ -275,9 +365,36 @@
       "viewCount": 496166667,
       "videoCount": 25206,
       "lastUpdated": "2025-08-20T11:40:05.623595Z"
+    },
+    "UCWlV3Lz_55UaX4JsMj-z__Q": {
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "channelUrl": "@tvchosunnews",
+      "channelDescription": "TV조선 뉴스 공식 YouTube 입니다.",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 2900000,
+      "viewCount": 4319423561,
+      "videoCount": 150855,
+      "lastUpdated": "2025-08-21T10:29:11.627309Z"
     }
   },
-  "lastUpdated": "2025-08-20T11:40:05.623595Z",
-  "totalVideos": 8,
-  "totalChannels": 2
+  "lastUpdated": "2025-08-21T10:29:11.628342Z",
+  "totalVideos": 11,
+  "totalChannels": 3
 }

@@ -252,6 +252,66 @@
       "channelId": "UCIMOytYIzaUpoAM2bpT4JZQ",
       "channelName": "KTV 국민방송",
       "collectedAt": "2025-08-20T11:40:06.501373Z"
+    },
+    "J0kYLQrfBh0": {
+      "videoId": "J0kYLQrfBh0",
+      "title": "정두언 \"MB, 뭐하러 회고록을…매를 벌었다\"",
+      "description": "이명박 전 대통령 회고록을 놓고 원조 'MB 맨'이였던 새누리당 정두언 의원이 \"매를 벌었다\"고 비판했습니다. 반면 뒤늦게 이명박 정부에 참여했던 정운찬 전 국무 총리는 원안대로 간 현재의 세종시는 국가적 재앙이라며 이 전 대통령을 옹호했습니다. \n\n[Ch.19] 세상에 없는 TV 이제 시작합니다. \n★홈페이지 : www.tvchosun.com \n기사 더 보기 ▶ http://news.tvchosun.com/site/data/html_dir/2015/02/04/2015020490270.html",
+      "publishedAt": "2015-02-04T14:09:55Z",
+      "duration": "PT1M51S",
+      "viewCount": 1683,
+      "likeCount": 8,
+      "commentCount": 0,
+      "tags": [
+        "TV조선",
+        "티비조선",
+        "조선일보",
+        "종편",
+        "종합편성",
+        "티브이조선",
+        "방송사",
+        "TV조선뉴스",
+        "뉴스",
+        "뉴스프로그램"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "collectedAt": "2025-08-21T10:28:51.978258Z"
+    },
+    "K1HPaXQQoI4": {
+      "videoId": "K1HPaXQQoI4",
+      "title": "[TV조선 단독] 강남 특급호텔서 수입차 도난",
+      "description": "주차를 대행해주는 발레파킹과 관련된 차량 도난 사건이 끊이지 않고 있습니다.  이번엔 서울 강남의 유명 특급호텔에서 발레파킹을 맡긴 고급 수입차가 사라졌습니다.\n\n[Ch.19] 세상에 없는 TV 이제 시작합니다. \n★홈페이지 : www.tvchosun.com \n기사 더 보기 ▶ http://news.tvchosun.com/site/data/html_dir/2015/02/04/2015020490037.html",
+      "publishedAt": "2015-02-03T23:53:26Z",
+      "duration": "PT1M32S",
+      "viewCount": 310,
+      "likeCount": 0,
+      "commentCount": 0,
+      "tags": [
+        "TV조선",
+        "티비조선",
+        "조선일보",
+        "종편",
+        "종합편성",
+        "티브이조선",
+        "방송사",
+        "TV조선뉴스",
+        "뉴스",
+        "뉴스프로그램"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "collectedAt": "2025-08-21T10:28:51.978258Z"
     }
   },
   "channels": {
@@ -308,9 +368,36 @@
       "viewCount": 496166667,
       "videoCount": 25206,
       "lastUpdated": "2025-08-20T11:40:06.500376Z"
+    },
+    "UCWlV3Lz_55UaX4JsMj-z__Q": {
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "channelUrl": "@tvchosunnews",
+      "channelDescription": "TV조선 뉴스 공식 YouTube 입니다.",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 2900000,
+      "viewCount": 4319423561,
+      "videoCount": 150855,
+      "lastUpdated": "2025-08-21T10:28:51.978258Z"
     }
   },
-  "lastUpdated": "2025-08-20T11:40:06.501373Z",
-  "totalVideos": 9,
-  "totalChannels": 2
+  "lastUpdated": "2025-08-21T10:28:51.978258Z",
+  "totalVideos": 11,
+  "totalChannels": 3
 }

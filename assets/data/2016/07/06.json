@@ -269,6 +269,66 @@
       "channelId": "UCIMOytYIzaUpoAM2bpT4JZQ",
       "channelName": "KTV 국민방송",
       "collectedAt": "2025-08-20T11:38:48.311330Z"
+    },
+    "rKpNWLe0giU": {
+      "videoId": "rKpNWLe0giU",
+      "title": "김정은, 체중 이기지 못해…기회만 나면 '털썩'",
+      "description": "최근 몸무게가 130kg에 육박한 김정은의 모습입니다. 그리고 이건 4년 전입니다. 살이 불어난게 확연히 보이죠. 살이 너무 쪄서일까요. 자기 몸을 가누기 힘든 모양입니다. \n\n\n[Ch.19] 세상에 없는 TV 이제 시작합니다. \n★홈페이지 : http://news.tvchosun.com/",
+      "publishedAt": "2016-07-06T12:28:42Z",
+      "duration": "PT1M35S",
+      "viewCount": 794717,
+      "likeCount": 1968,
+      "commentCount": 1325,
+      "tags": [
+        "TV조선",
+        "티비조선",
+        "조선일보",
+        "종편",
+        "종합편성",
+        "티브이조선",
+        "방송사",
+        "TV조선뉴스",
+        "뉴스",
+        "뉴스프로그램"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "collectedAt": "2025-08-21T10:28:37.002416Z"
+    },
+    "lIYNwDLeQGY": {
+      "videoId": "lIYNwDLeQGY",
+      "title": "존경하는 의원님…정말 존경하세요?",
+      "description": "보통 국회의원들은 상대 의원을 가리켜 '존경하는 땡땡땡' 의원이라고 호칭을 합니다.  항상 궁금했습니다. 정말 저 의원을 존경할까... 여야가 어떤 핵심 쟁점으로 첨예하게 대치를 하며 살벌한 비방전을 벌일 때도 호칭할 땐 어김없이 존경한다고 말합니다.\n\n[Ch.19] 세상에 없는 TV 이제 시작합니다. \n★홈페이지 : http://news.tvchosun.com/",
+      "publishedAt": "2016-07-06T05:11:25Z",
+      "duration": "PT2M5S",
+      "viewCount": 723,
+      "likeCount": 4,
+      "commentCount": 0,
+      "tags": [
+        "TV조선",
+        "티비조선",
+        "조선일보",
+        "종편",
+        "종합편성",
+        "티브이조선",
+        "방송사",
+        "TV조선뉴스",
+        "뉴스",
+        "뉴스프로그램"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "collectedAt": "2025-08-21T10:28:37.002416Z"
     }
   },
   "channels": {
@@ -325,9 +385,36 @@
       "viewCount": 496166667,
       "videoCount": 25206,
       "lastUpdated": "2025-08-20T11:38:48.311330Z"
+    },
+    "UCWlV3Lz_55UaX4JsMj-z__Q": {
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "channelUrl": "@tvchosunnews",
+      "channelDescription": "TV조선 뉴스 공식 YouTube 입니다.",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 2900000,
+      "viewCount": 4319423561,
+      "videoCount": 150855,
+      "lastUpdated": "2025-08-21T10:28:37.002416Z"
     }
   },
-  "lastUpdated": "2025-08-20T11:38:48.311330Z",
-  "totalVideos": 9,
-  "totalChannels": 2
+  "lastUpdated": "2025-08-21T10:28:37.002416Z",
+  "totalVideos": 11,
+  "totalChannels": 3
 }

@@ -59,6 +59,66 @@
       "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
       "channelName": "NATV 국회방송",
       "collectedAt": "2025-08-18T07:13:42.365401Z"
+    },
+    "QU5HwQlA9Sg": {
+      "videoId": "QU5HwQlA9Sg",
+      "title": "병신년(丙申年) 원숭이 띠 유명인은 누구?",
+      "description": "동양학자 조용헌 선생 모셨습니다.\n\nQ. 올 해 병신년(丙申年)…왜 '붉은 원숭이'의 해?\nQ. '붉은 원숭이'가 가진 의미는?\nQ. 병신년(丙申年) 원숭이 띠 유명인은 누구?\nQ. 2016년 대한민국 국운(國運)은?\n\n[Ch.19] 세상에 없는 TV 이제 시작합니다. \n★홈페이지 : www.tvchosun.com \n기사 더 보기 ▶ http://news.tvchosun.com/site/data/html_dir/2016/01/01/2016010190099.html",
+      "publishedAt": "2016-01-01T13:12:04Z",
+      "duration": "PT4M11S",
+      "viewCount": 16518,
+      "likeCount": 111,
+      "commentCount": 6,
+      "tags": [
+        "TV조선",
+        "티비조선",
+        "조선일보",
+        "종편",
+        "종합편성",
+        "티브이조선",
+        "방송사",
+        "TV조선뉴스",
+        "뉴스",
+        "뉴스프로그램"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "collectedAt": "2025-08-21T10:29:03.256375Z"
+    },
+    "nH4sEPuYTYo": {
+      "videoId": "nH4sEPuYTYo",
+      "title": "'소유'가 아닌 '주거'…각광받는 뉴스테이!",
+      "description": "전국적으로 미분양 주택이 크게 늘어나고 있습니다. 반면에 장기 임대 주택은 큰 인깁니다. 우리나라도 선진국처럼 집을 사는 대신 빌려 쓰는 게 일반화 하고 있습니다\n\n[Ch.19] 세상에 없는 TV 이제 시작합니다. \n★홈페이지 : www.tvchosun.com \n기사 더 보기 ▶ http://news.tvchosun.com/site/data/html_dir/2016/01/01/2016010190113.html",
+      "publishedAt": "2016-01-01T13:12:06Z",
+      "duration": "PT1M14S",
+      "viewCount": 239,
+      "likeCount": 1,
+      "commentCount": 0,
+      "tags": [
+        "TV조선",
+        "티비조선",
+        "조선일보",
+        "종편",
+        "종합편성",
+        "티브이조선",
+        "방송사",
+        "TV조선뉴스",
+        "뉴스",
+        "뉴스프로그램"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "collectedAt": "2025-08-21T10:29:03.256375Z"
     }
   },
   "channels": {
@@ -88,9 +148,36 @@
       "viewCount": 86009826,
       "videoCount": 16390,
       "lastUpdated": "2025-08-18T07:13:42.365401Z"
+    },
+    "UCWlV3Lz_55UaX4JsMj-z__Q": {
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "channelUrl": "@tvchosunnews",
+      "channelDescription": "TV조선 뉴스 공식 YouTube 입니다.",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 2900000,
+      "viewCount": 4319423561,
+      "videoCount": 150855,
+      "lastUpdated": "2025-08-21T10:29:03.256375Z"
     }
   },
-  "lastUpdated": "2025-08-18T07:13:42.369448Z",
-  "totalVideos": 2,
-  "totalChannels": 1
+  "lastUpdated": "2025-08-21T10:29:03.257373Z",
+  "totalVideos": 4,
+  "totalChannels": 2
 }

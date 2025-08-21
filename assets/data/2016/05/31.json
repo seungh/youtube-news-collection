@@ -378,6 +378,96 @@
       "channelId": "UCIMOytYIzaUpoAM2bpT4JZQ",
       "channelName": "KTV 국민방송",
       "collectedAt": "2025-08-20T11:38:51.563572Z"
+    },
+    "UixNwUdlBwk": {
+      "videoId": "UixNwUdlBwk",
+      "title": "생리대 살 돈 없어요…저소득층 소녀들의 눈물",
+      "description": "말하기 꺼려하는 그래서 여성들끼리도 조용히 이야기하는 생리대 문제 판 포커스에서 조명해보겠습니다. 생리대 가격이 오른다는 소식에 생리대 대신, 신발 깔창과 수건을 사용했다는 저소득층 학생들의 말못했던 사연이 퍼지고 있습니다. 단순한 가격 문제가 아니라, 인권 문제라는 목소리가 나옵니다. \n\n[Ch.19] 세상에 없는 TV 이제 시작합니다. \n★홈페이지 : http://news.tvchosun.com/",
+      "publishedAt": "2016-05-31T12:35:53Z",
+      "duration": "PT1M48S",
+      "viewCount": 35043,
+      "likeCount": 139,
+      "commentCount": 261,
+      "tags": [
+        "TV조선",
+        "티비조선",
+        "조선일보",
+        "종편",
+        "종합편성",
+        "티브이조선",
+        "방송사",
+        "TV조선뉴스",
+        "뉴스",
+        "뉴스프로그램"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "collectedAt": "2025-08-21T10:28:32.147071Z"
+    },
+    "-M9uEby-b88": {
+      "videoId": "-M9uEby-b88",
+      "title": "집단 탈출 여종업원 11명은 '평양 노동당원의 딸' [단독]",
+      "description": "[앵커]\n지난달 단체로 입국한 중국의 북한 식당 여종업원 12명 중에서 11명이 북한의 상위층인 노동당원의 자녀들인 것으로 확인됐습니다. 이들이 평범한 노동자의 딸들이라던 북한의 주장과는 달리 핵심 기득권층의 자녀들이었습니다. 다시 말해, 북한에서도 잘 살 수 있었던 이들이 자유를 찾아서 왔다는 겁니다. \n\n[Ch.19] 세상에 없는 TV 이제 시작합니다. \n★홈페이지 : http://news.tvchosun.com/",
+      "publishedAt": "2016-05-31T12:22:21Z",
+      "duration": "PT1M50S",
+      "viewCount": 30690,
+      "likeCount": 187,
+      "commentCount": 7,
+      "tags": [
+        "TV조선",
+        "티비조선",
+        "조선일보",
+        "종편",
+        "종합편성",
+        "티브이조선",
+        "방송사",
+        "TV조선뉴스",
+        "뉴스",
+        "뉴스프로그램"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": "ko",
+      "defaultAudioLanguage": "ko",
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "collectedAt": "2025-08-21T10:28:32.147071Z"
+    },
+    "bt1IDtCJPdQ": {
+      "videoId": "bt1IDtCJPdQ",
+      "title": "미국 신무기 '레일건' 첫 공개 시연…\"전쟁 양상 바뀐다\"",
+      "description": "미군이 음속보다 6배 빠른 미래형 신무기인 '레일건'을 처음으로 시연했습니다. 2년 뒤 실전 배치될 레일건은 현재 방어 기술로는 막을 방법이 없어, 현대전의 양상을 바꿀 무기로 여겨지고 있습니다. \n\n[Ch.19] 세상에 없는 TV 이제 시작합니다. \n★홈페이지 : http://news.tvchosun.com/",
+      "publishedAt": "2016-05-31T01:14:43Z",
+      "duration": "PT1M24S",
+      "viewCount": 7383,
+      "likeCount": 17,
+      "commentCount": 4,
+      "tags": [
+        "TV조선",
+        "티비조선",
+        "조선일보",
+        "종편",
+        "종합편성",
+        "티브이조선",
+        "방송사",
+        "TV조선뉴스",
+        "뉴스",
+        "뉴스프로그램"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "collectedAt": "2025-08-21T10:28:32.147071Z"
     }
   },
   "channels": {
@@ -461,9 +551,36 @@
       "viewCount": 496166667,
       "videoCount": 25206,
       "lastUpdated": "2025-08-20T11:38:51.563572Z"
+    },
+    "UCWlV3Lz_55UaX4JsMj-z__Q": {
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "channelUrl": "@tvchosunnews",
+      "channelDescription": "TV조선 뉴스 공식 YouTube 입니다.",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 2900000,
+      "viewCount": 4319423561,
+      "videoCount": 150855,
+      "lastUpdated": "2025-08-21T10:28:32.147071Z"
     }
   },
-  "lastUpdated": "2025-08-20T11:38:51.564569Z",
-  "totalVideos": 13,
-  "totalChannels": 3
+  "lastUpdated": "2025-08-21T10:28:32.149103Z",
+  "totalVideos": 16,
+  "totalChannels": 4
 }

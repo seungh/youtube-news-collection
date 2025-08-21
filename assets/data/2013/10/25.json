@@ -29,6 +29,66 @@
       "channelId": "UCIMOytYIzaUpoAM2bpT4JZQ",
       "channelName": "KTV 국민방송",
       "collectedAt": "2025-08-20T11:40:18.517100Z"
+    },
+    "XOV4G0_tROE": {
+      "videoId": "XOV4G0_tROE",
+      "title": "[단독] 고교 한국사 교과서에 '다케시마·일본해'",
+      "description": "그런데 일부 한국사 교과서에 독도가 '다케시마'로 나와 있거나 동해를 '일본해'로 표기한 경우가 있어 도대체 어떻게 된 일인지 고개를 갸우뚱하게 만들고 있습니다. 일본 교과서도 아니고 대한민국 교과서입니다.\r\n\r\n[Ch.19] 세상에 없는 TV 이제 시작합니다. \r\n★홈페이지 : www.tvchosun.com \r\n기사 더 보기 ▶ http://news.tv.chosun.com/site/data/html_dir/2013/10/25/2013102590146.html",
+      "publishedAt": "2013-10-25T07:12:38Z",
+      "duration": "PT2M5S",
+      "viewCount": 1429,
+      "likeCount": 9,
+      "commentCount": 11,
+      "tags": [
+        "TV조선",
+        "티비조선",
+        "조선일보",
+        "종편",
+        "종합편성",
+        "티브이조선",
+        "방송사",
+        "TV조선뉴스",
+        "뉴스",
+        "뉴스프로그램"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "collectedAt": "2025-08-21T10:29:09.810157Z"
+    },
+    "Fq8e8SB5wvE": {
+      "videoId": "Fq8e8SB5wvE",
+      "title": "[2013년 국감] \"신동빈 빼고 정용진 부르고\"",
+      "description": "국회가 국정감사 증인에서 신동빈 롯데그룹 회장은 빼고, 정용진 신세계 부회장은 그대로 출석시키기로 했습니다. 같은 재계 총수에 대해 서로 다른 결정을 내려 형평성 논란이 일고 있습니다.\r\n\r\n[Ch.19] 세상에 없는 TV 이제 시작합니다. \r\n★홈페이지 : www.tvchosun.com \r\n기사 더 보기 ▶ http://news.tv.chosun.com/site/data/html_dir/2013/10/25/2013102590084.html",
+      "publishedAt": "2013-10-25T02:00:29Z",
+      "duration": "PT1M42S",
+      "viewCount": 554,
+      "likeCount": 0,
+      "commentCount": 1,
+      "tags": [
+        "TV조선",
+        "티비조선",
+        "조선일보",
+        "종편",
+        "종합편성",
+        "티브이조선",
+        "방송사",
+        "TV조선뉴스",
+        "뉴스",
+        "뉴스프로그램"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "collectedAt": "2025-08-21T10:29:09.810157Z"
     }
   },
   "channels": {
@@ -58,9 +118,36 @@
       "viewCount": 496166667,
       "videoCount": 25206,
       "lastUpdated": "2025-08-20T11:40:18.516104Z"
+    },
+    "UCWlV3Lz_55UaX4JsMj-z__Q": {
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "channelUrl": "@tvchosunnews",
+      "channelDescription": "TV조선 뉴스 공식 YouTube 입니다.",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 2900000,
+      "viewCount": 4319423561,
+      "videoCount": 150855,
+      "lastUpdated": "2025-08-21T10:29:09.809159Z"
     }
   },
-  "lastUpdated": "2025-08-20T11:40:18.517100Z",
-  "totalVideos": 1,
-  "totalChannels": 1
+  "lastUpdated": "2025-08-21T10:29:09.810157Z",
+  "totalVideos": 3,
+  "totalChannels": 2
 }

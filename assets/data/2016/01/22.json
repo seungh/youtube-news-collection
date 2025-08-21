@@ -280,6 +280,96 @@
       "channelId": "UCIMOytYIzaUpoAM2bpT4JZQ",
       "channelName": "KTV 국민방송",
       "collectedAt": "2025-08-20T11:40:04.258614Z"
+    },
+    "p8Yw5WPbaog": {
+      "videoId": "p8Yw5WPbaog",
+      "title": "1월 22일 장성민의 시사탱크 탱크정론",
+      "description": "[Ch.19] 세상에 없는 TV 이제 시작합니다. \n★홈페이지 : www.tvchosun.com \n기사 더 보기 ▶ 링크넣어주세요",
+      "publishedAt": "2016-01-22T09:22:12Z",
+      "duration": "PT3M8S",
+      "viewCount": 1349,
+      "likeCount": 59,
+      "commentCount": 2,
+      "tags": [
+        "TV조선",
+        "티비조선",
+        "조선일보",
+        "종편",
+        "종합편성",
+        "티브이조선",
+        "방송사",
+        "TV조선뉴스",
+        "뉴스",
+        "뉴스프로그램"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "collectedAt": "2025-08-21T10:28:41.084357Z"
+    },
+    "24g1EzyWL64": {
+      "videoId": "24g1EzyWL64",
+      "title": "야스쿠니 화장실 폭발 용의자 \"전범 합사에 불만\"",
+      "description": "일본 야스쿠니 신사 폭발음 사건의 용의자인 한국인 전모씨가 A급 전범에 대해 불만이 있었다는 취지의 진술을 한 것으로 알려졌습니다. 일본 경찰은 전씨에 대해 건조물 침입 혐의 외에, 화약류 단속법 위반 혐의를 추가로 적용했습니다. \n\n[Ch.19] 세상에 없는 TV 이제 시작합니다. \n★홈페이지 : www.tvchosun.com \n기사 더 보기 ▶ http://news.tvchosun.com/site/data/html_dir/2016/01/22/2016012290007.html",
+      "publishedAt": "2016-01-22T00:57:28Z",
+      "duration": "PT1M21S",
+      "viewCount": 200,
+      "likeCount": 4,
+      "commentCount": 3,
+      "tags": [
+        "TV조선",
+        "티비조선",
+        "조선일보",
+        "종편",
+        "종합편성",
+        "티브이조선",
+        "방송사",
+        "TV조선뉴스",
+        "뉴스",
+        "뉴스프로그램"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "collectedAt": "2025-08-21T10:28:41.084357Z"
+    },
+    "ax8F0Vji2LI": {
+      "videoId": "ax8F0Vji2LI",
+      "title": "'이재명 상품권' 풀자마자 인터넷서 현금 '깡'거래",
+      "description": "성남시가 20대 지역 청년들에게 무상으로 지급한 성남사랑상품권이 인터넷 상으로 불법 거래가 돼 논란이 되고 있습니다. 취업 지원이라는 본래 뜻과 상관 없이 청년층의 도덕적 해이만 불렀다는 비판이 일고 있습니다. \n\n[Ch.19] 세상에 없는 TV 이제 시작합니다. \n★홈페이지 : www.tvchosun.com \n기사 더 보기 ▶ http://news.tvchosun.com/site/data/html_dir/2016/01/22/2016012290009.html",
+      "publishedAt": "2016-01-22T00:57:28Z",
+      "duration": "PT1M30S",
+      "viewCount": 447,
+      "likeCount": 7,
+      "commentCount": 7,
+      "tags": [
+        "TV조선",
+        "티비조선",
+        "조선일보",
+        "종편",
+        "종합편성",
+        "티브이조선",
+        "방송사",
+        "TV조선뉴스",
+        "뉴스",
+        "뉴스프로그램"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "collectedAt": "2025-08-21T10:28:41.084357Z"
     }
   },
   "channels": {
@@ -336,9 +426,36 @@
       "viewCount": 496166667,
       "videoCount": 25206,
       "lastUpdated": "2025-08-20T11:40:04.257617Z"
+    },
+    "UCWlV3Lz_55UaX4JsMj-z__Q": {
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "channelUrl": "@tvchosunnews",
+      "channelDescription": "TV조선 뉴스 공식 YouTube 입니다.",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 2900000,
+      "viewCount": 4319423561,
+      "videoCount": 150855,
+      "lastUpdated": "2025-08-21T10:28:41.084357Z"
     }
   },
-  "lastUpdated": "2025-08-20T11:40:04.263981Z",
-  "totalVideos": 10,
-  "totalChannels": 2
+  "lastUpdated": "2025-08-21T10:28:41.084357Z",
+  "totalVideos": 13,
+  "totalChannels": 3
 }

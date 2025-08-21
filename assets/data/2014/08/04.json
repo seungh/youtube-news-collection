@@ -59,6 +59,96 @@
       "channelId": "UCIMOytYIzaUpoAM2bpT4JZQ",
       "channelName": "KTV 국민방송",
       "collectedAt": "2025-08-20T11:40:13.725830Z"
+    },
+    "ocChI2yl9DA": {
+      "videoId": "ocChI2yl9DA",
+      "title": "[테마 인터뷰] 양상문 감독 \"더 이상 DTD는 없다\"",
+      "description": "프로야구 LG 트윈스가 최근 완전히 달라졌습니다. 신바람의 주인공 양상문 감독을 윤창기 기자가 테마인터뷰에서 만나봤습니다.\n\n[Ch.19] 세상에 없는 TV 이제 시작합니다. \n★홈페이지 : www.tvchosun.com \n기사 더 보기 ▶ http://news.tvchosun.com/site/data/html_dir/2014/08/04/2014080490377.html",
+      "publishedAt": "2014-08-04T13:56:59Z",
+      "duration": "PT2M20S",
+      "viewCount": 5700,
+      "likeCount": 27,
+      "commentCount": 3,
+      "tags": [
+        "TV조선",
+        "티비조선",
+        "조선일보",
+        "종편",
+        "종합편성",
+        "티브이조선",
+        "방송사",
+        "TV조선뉴스",
+        "뉴스",
+        "뉴스프로그램"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": "ko",
+      "defaultAudioLanguage": "ko",
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "collectedAt": "2025-08-21T10:29:05.224377Z"
+    },
+    "7l7ZYkWrtec": {
+      "videoId": "7l7ZYkWrtec",
+      "title": "파죽지세 '명량'…'3부작' 되나?",
+      "description": "영화 '명량'의 인기가 무섭습니다. 최단 기간 500만 관객 돌파 기록을 세웠습니다. 인기에 힘입어서 한산도 대첩과 노량 해전까지 3부작으로 제작될 수 있다고 합니다. \n\n[Ch.19] 세상에 없는 TV 이제 시작합니다. \n★홈페이지 : www.tvchosun.com \n기사 더 보기 ▶ http://news.tvchosun.com/site/data/html_dir/2014/08/04/2014080490356.html",
+      "publishedAt": "2014-08-04T13:41:17Z",
+      "duration": "PT1M51S",
+      "viewCount": 7323,
+      "likeCount": 5,
+      "commentCount": 1,
+      "tags": [
+        "TV조선",
+        "티비조선",
+        "조선일보",
+        "종편",
+        "종합편성",
+        "티브이조선",
+        "방송사",
+        "TV조선뉴스",
+        "뉴스",
+        "뉴스프로그램"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "collectedAt": "2025-08-21T10:29:05.224377Z"
+    },
+    "zuWDfjEaDos": {
+      "videoId": "zuWDfjEaDos",
+      "title": "개포·대치 재건축, 보름새 3천만 원 '껑충'",
+      "description": "최경환 경제팀 출범 이후 부동산 규제 완화 바람이 불면서, 서울 강남권 재건축 단지의 매매 호가가 빠르게 오르고 있습니다. 보름새 3천만 원이나 뛴 곳도 있는데요. 이런 움직임은 여름 휴가철이 지난 뒤 다른 지역으로도 확산될 전망입니다.\n\n[Ch.19] 세상에 없는 TV 이제 시작합니다. \n★홈페이지 : www.tvchosun.com \n기사 더 보기 ▶ http://news.tvchosun.com/site/data/html_dir/2014/08/04/2014080490253.html",
+      "publishedAt": "2014-08-04T09:40:52Z",
+      "duration": "PT1M45S",
+      "viewCount": 165,
+      "likeCount": 0,
+      "commentCount": 0,
+      "tags": [
+        "TV조선",
+        "티비조선",
+        "조선일보",
+        "종편",
+        "종합편성",
+        "티브이조선",
+        "방송사",
+        "TV조선뉴스",
+        "뉴스",
+        "뉴스프로그램"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": "ko",
+      "defaultAudioLanguage": "ko",
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "collectedAt": "2025-08-21T10:29:05.224377Z"
     }
   },
   "channels": {
@@ -88,9 +178,36 @@
       "viewCount": 496166667,
       "videoCount": 25206,
       "lastUpdated": "2025-08-20T11:40:13.725830Z"
+    },
+    "UCWlV3Lz_55UaX4JsMj-z__Q": {
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "channelUrl": "@tvchosunnews",
+      "channelDescription": "TV조선 뉴스 공식 YouTube 입니다.",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 2900000,
+      "viewCount": 4319423561,
+      "videoCount": 150855,
+      "lastUpdated": "2025-08-21T10:29:05.223380Z"
     }
   },
-  "lastUpdated": "2025-08-20T11:40:13.725830Z",
-  "totalVideos": 2,
-  "totalChannels": 1
+  "lastUpdated": "2025-08-21T10:29:05.224377Z",
+  "totalVideos": 5,
+  "totalChannels": 2
 }

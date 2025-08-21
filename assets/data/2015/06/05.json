@@ -145,6 +145,66 @@
       "channelId": "UCIMOytYIzaUpoAM2bpT4JZQ",
       "channelName": "KTV 국민방송",
       "collectedAt": "2025-08-20T11:40:05.919516Z"
+    },
+    "1vYNcGYuSPY": {
+      "videoId": "1vYNcGYuSPY",
+      "title": "北 현영철 빈자리에 김정은 '별' 남발",
+      "description": "북한 현영철 인민 무력 부장이 숙청된지 이제 한 달쯤 됐습니다. 현영철 숙청이후 대장으로 진급한 박영식이 인민 무력 부장에 임명됐다는 관측이 나옵니다. \n\n\n[Ch.19] 세상에 없는 TV 이제 시작합니다. \n★홈페이지 : www.tvchosun.com \n기사 더 보기 ▶ http://news.tvchosun.com/site/data/html_dir/2015/06/05/2015060590405.html",
+      "publishedAt": "2015-06-05T14:34:50Z",
+      "duration": "PT1M33S",
+      "viewCount": 5553,
+      "likeCount": 14,
+      "commentCount": 4,
+      "tags": [
+        "TV조선",
+        "티비조선",
+        "조선일보",
+        "종편",
+        "종합편성",
+        "티브이조선",
+        "방송사",
+        "TV조선뉴스",
+        "뉴스",
+        "뉴스프로그램"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "collectedAt": "2025-08-21T10:28:48.327670Z"
+    },
+    "e82KgJfjSws": {
+      "videoId": "e82KgJfjSws",
+      "title": "여자월드컵 또 하나의 변수 '인조잔디'",
+      "description": "12년만에 여자월드컵 본선에 진출한 우리 태극여전사들이 오는 10일 브라질과의 첫 경기를 앞두고 비상이 걸렸습니다. 캐나다 구장에 깔린 '인조잔디' 때문인데요, 이것이 경기력까지 좌우한다고 합니다. \n\n\n[Ch.19] 세상에 없는 TV 이제 시작합니다. \n★홈페이지 : www.tvchosun.com \n기사 더 보기 ▶ http://news.tvchosun.com/site/data/html_dir/2015/06/05/2015060590421.html",
+      "publishedAt": "2015-06-05T14:34:39Z",
+      "duration": "PT1M55S",
+      "viewCount": 24170,
+      "likeCount": 58,
+      "commentCount": 11,
+      "tags": [
+        "TV조선",
+        "티비조선",
+        "조선일보",
+        "종편",
+        "종합편성",
+        "티브이조선",
+        "방송사",
+        "TV조선뉴스",
+        "뉴스",
+        "뉴스프로그램"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "collectedAt": "2025-08-21T10:28:48.327670Z"
     }
   },
   "channels": {
@@ -201,9 +261,36 @@
       "viewCount": 496166667,
       "videoCount": 25206,
       "lastUpdated": "2025-08-20T11:40:05.919516Z"
+    },
+    "UCWlV3Lz_55UaX4JsMj-z__Q": {
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "channelUrl": "@tvchosunnews",
+      "channelDescription": "TV조선 뉴스 공식 YouTube 입니다.",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 2900000,
+      "viewCount": 4319423561,
+      "videoCount": 150855,
+      "lastUpdated": "2025-08-21T10:28:48.321910Z"
     }
   },
-  "lastUpdated": "2025-08-20T11:40:05.921344Z",
-  "totalVideos": 5,
-  "totalChannels": 2
+  "lastUpdated": "2025-08-21T10:28:48.328667Z",
+  "totalVideos": 7,
+  "totalChannels": 3
 }

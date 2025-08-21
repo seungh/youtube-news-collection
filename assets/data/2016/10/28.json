@@ -206,6 +206,36 @@
       "channelId": "UCIMOytYIzaUpoAM2bpT4JZQ",
       "channelName": "KTV 국민방송",
       "collectedAt": "2025-08-20T11:38:50.420084Z"
+    },
+    "UJPDnmzul-w": {
+      "videoId": "UJPDnmzul-w",
+      "title": "조인근 前 비서관, '최순실 연설문 수정' 입장발표",
+      "description": "조인근 \"최순실 전혀 모른다. 언론보도 보고 알아\"\n\"'연설문 이상해져 돌아왔다'는 보도는 오보\"\n\"연설문 이상해져서 돌아온 적 없다\"\n\"최순실 연설문 수정 전혀 몰랐다\"\n\"오늘 기자회견, 청와대와 교감 없었다\"\n\"청와대 그만둔 이유는 '연설문 작업' 피로감 때문\"\n\"연설문 수정 크게 의심해 본 적 없다\"\n\"연설문 크게 바뀌었다고 느낀 적 없다\"\n\"연설문 최종본은 대통령 말씀\"\n\"연설문 관련 자세한 내용은 보안규정상 말 못한다\"\n\"최순실은 본적도 없고 언론보도로 처음 인지\"\n\"연설문 최순실에 유출 경로 전혀 모르겠다\"\n\"연설문 유출, 상식적으로 이해 못할 일\"\n\"연설문 초본 통상 부속실로 넘겼다\"\n\n[Ch.19] 세상에 없는 TV 이제 시작합니다. \n★홈페이지 : http://news.tvchosun.com/",
+      "publishedAt": "2016-10-28T06:28:02Z",
+      "duration": "PT9M31S",
+      "viewCount": 13951,
+      "likeCount": 8,
+      "commentCount": 25,
+      "tags": [
+        "TV조선",
+        "티비조선",
+        "조선일보",
+        "종편",
+        "종합편성",
+        "티브이조선",
+        "방송사",
+        "TV조선뉴스",
+        "뉴스",
+        "뉴스프로그램"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "collectedAt": "2025-08-21T10:28:35.902333Z"
     }
   },
   "channels": {
@@ -289,9 +319,36 @@
       "viewCount": 496166667,
       "videoCount": 25206,
       "lastUpdated": "2025-08-20T11:38:50.420084Z"
+    },
+    "UCWlV3Lz_55UaX4JsMj-z__Q": {
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "channelUrl": "@tvchosunnews",
+      "channelDescription": "TV조선 뉴스 공식 YouTube 입니다.",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 2900000,
+      "viewCount": 4319423561,
+      "videoCount": 150855,
+      "lastUpdated": "2025-08-21T10:28:35.899814Z"
     }
   },
-  "lastUpdated": "2025-08-20T11:38:50.421081Z",
-  "totalVideos": 7,
-  "totalChannels": 3
+  "lastUpdated": "2025-08-21T10:28:35.902759Z",
+  "totalVideos": 8,
+  "totalChannels": 4
 }

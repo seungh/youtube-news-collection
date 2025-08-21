@@ -29,6 +29,96 @@
       "channelId": "UCIMOytYIzaUpoAM2bpT4JZQ",
       "channelName": "KTV 국민방송",
       "collectedAt": "2025-08-20T11:40:18.371836Z"
+    },
+    "Pms5ytXp8dk": {
+      "videoId": "Pms5ytXp8dk",
+      "title": "[김종래의 여의도, 삼국지에 길을 묻다] 파워엘리트 계보...여의도 vs 삼국지",
+      "description": "Q. 여의도 정치권, 현재 구도는?\nQ. 여의도 3파전, 삼국지와 비교한다면?\nQ. 삼국지 속 계파, 우리 정치에 던지는 시사점은?\n\n[Ch.19] 세상에 없는 TV 이제 시작합니다. \n★홈페이지 : www.tvchosun.com \n기사 더 보기 ▶\nhttp://news.tv.chosun.com/site/data/html_dir/2014/01/29/2014012990115.html",
+      "publishedAt": "2014-01-29T02:29:13Z",
+      "duration": "PT12M54S",
+      "viewCount": 924,
+      "likeCount": 5,
+      "commentCount": 0,
+      "tags": [
+        "TV조선",
+        "티비조선",
+        "조선일보",
+        "종편",
+        "종합편성",
+        "티브이조선",
+        "방송사",
+        "TV조선뉴스",
+        "뉴스",
+        "뉴스프로그램"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "collectedAt": "2025-08-21T10:29:00.461047Z"
+    },
+    "4LJPrQJ6Org": {
+      "videoId": "4LJPrQJ6Org",
+      "title": "北, 영변 원자로서 플루토늄 추출할 듯",
+      "description": "북한이 오는 9월 이후에는 영변 원자로에서 폐연료봉을 꺼낼 수 있는 것으로 알려졌습니다. 폐연료봉을 재처리하면 플루토늄을 추출할 수 있는데, 북한이 '핵무기 재료'로 쓸 수 있는 물질입니다.\n\n[Ch.19] 세상에 없는 TV 이제 시작합니다. \n★홈페이지 : www.tvchosun.com \n기사 더 보기 ▶ http://news.tv.chosun.com/site/data/html_dir/2014/01/29/2014012990021.html",
+      "publishedAt": "2014-01-29T02:22:05Z",
+      "duration": "PT1M43S",
+      "viewCount": 705,
+      "likeCount": 0,
+      "commentCount": 0,
+      "tags": [
+        "TV조선",
+        "티비조선",
+        "조선일보",
+        "종편",
+        "종합편성",
+        "티브이조선",
+        "방송사",
+        "TV조선뉴스",
+        "뉴스",
+        "뉴스프로그램"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": "ko",
+      "defaultAudioLanguage": "ko",
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "collectedAt": "2025-08-21T10:29:00.461047Z"
+    },
+    "Z7engKu06CU": {
+      "videoId": "Z7engKu06CU",
+      "title": "'반갑다 소치!'...마케팅 올림픽 '후끈'",
+      "description": "소치 동계 올림픽 개막이 9일 앞으로 다가왔습니다. 기업들은 수조원대 마케팅 전쟁에 돌입했습니다.\r\n\r\n\r\n[Ch.19] 세상에 없는 TV 이제 시작합니다. \r\n★홈페이지 : www.tvchosun.com \r\n▶http://news.tv.chosun.com/site/data/html_dir/2014/01/29/2014012990374.html",
+      "publishedAt": "2014-01-29T13:53:53Z",
+      "duration": "PT1M29S",
+      "viewCount": 637,
+      "likeCount": 0,
+      "commentCount": 0,
+      "tags": [
+        "TV조선",
+        "티비조선",
+        "조선일보",
+        "종편",
+        "종합편성",
+        "티브이조선",
+        "방송사",
+        "TV조선뉴스",
+        "뉴스",
+        "뉴스프로그램"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "collectedAt": "2025-08-21T10:29:00.462611Z"
     }
   },
   "channels": {
@@ -58,9 +148,36 @@
       "viewCount": 496166667,
       "videoCount": 25206,
       "lastUpdated": "2025-08-20T11:40:18.369842Z"
+    },
+    "UCWlV3Lz_55UaX4JsMj-z__Q": {
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "channelUrl": "@tvchosunnews",
+      "channelDescription": "TV조선 뉴스 공식 YouTube 입니다.",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 2900000,
+      "viewCount": 4319423561,
+      "videoCount": 150855,
+      "lastUpdated": "2025-08-21T10:29:00.454504Z"
     }
   },
-  "lastUpdated": "2025-08-20T11:40:18.374958Z",
-  "totalVideos": 1,
-  "totalChannels": 1
+  "lastUpdated": "2025-08-21T10:29:00.471374Z",
+  "totalVideos": 4,
+  "totalChannels": 2
 }

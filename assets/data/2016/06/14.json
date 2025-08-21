@@ -438,6 +438,66 @@
       "channelId": "UCIMOytYIzaUpoAM2bpT4JZQ",
       "channelName": "KTV 국민방송",
       "collectedAt": "2025-08-20T11:38:51.455506Z"
+    },
+    "_gja-WkXDn4": {
+      "videoId": "_gja-WkXDn4",
+      "title": "살인 운전, 처벌은 솜방망이 [판 포커스] '",
+      "description": "매일 음주운전 사고로 2명 가까이 숨집니다. 다치는 사람도 120명 가까이 됩니다. 음주운전 탓에 운명이 바뀌는 것 만큼 억울한 일은 없을텐데 이런 일이 지금도 계속되고 있는 겁니다. 선진국에서는 음주사망사고를 살인죄로 보고 극형에 처하는데 우리나라의 처벌은 그야말로 솜방망이 수준입니다. \n\n\n[Ch.19] 세상에 없는 TV 이제 시작합니다. \n★홈페이지 : http://news.tvchosun.com/",
+      "publishedAt": "2016-06-14T13:18:23Z",
+      "duration": "PT1M52S",
+      "viewCount": 203,
+      "likeCount": 0,
+      "commentCount": 0,
+      "tags": [
+        "TV조선",
+        "티비조선",
+        "조선일보",
+        "종편",
+        "종합편성",
+        "티브이조선",
+        "방송사",
+        "TV조선뉴스",
+        "뉴스",
+        "뉴스프로그램"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "collectedAt": "2025-08-21T10:28:32.082396Z"
+    },
+    "5kZaaysJRQA": {
+      "videoId": "5kZaaysJRQA",
+      "title": "박유천 근태 논란…\"성관계후 비용 지불 없었다",
+      "description": "성폭행 논란에 휩싸인 연예인 박유천이 이번엔 불성실한 군 복무 근태 논란까지 일었습니다. 또 TV조선 취재 결과 사건 당시 상황에 대한 새로운 증언이 나왔습니다. \n\n[Ch.19] 세상에 없는 TV 이제 시작합니다. \n★홈페이지 : http://news.tvchosun.com/",
+      "publishedAt": "2016-06-14T13:18:23Z",
+      "duration": "PT1M33S",
+      "viewCount": 10901,
+      "likeCount": 6,
+      "commentCount": 8,
+      "tags": [
+        "TV조선",
+        "티비조선",
+        "조선일보",
+        "종편",
+        "종합편성",
+        "티브이조선",
+        "방송사",
+        "TV조선뉴스",
+        "뉴스",
+        "뉴스프로그램"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "collectedAt": "2025-08-21T10:28:32.082396Z"
     }
   },
   "channels": {
@@ -521,9 +581,36 @@
       "viewCount": 496166667,
       "videoCount": 25206,
       "lastUpdated": "2025-08-20T11:38:51.454510Z"
+    },
+    "UCWlV3Lz_55UaX4JsMj-z__Q": {
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "channelUrl": "@tvchosunnews",
+      "channelDescription": "TV조선 뉴스 공식 YouTube 입니다.",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 2900000,
+      "viewCount": 4319423561,
+      "videoCount": 150855,
+      "lastUpdated": "2025-08-21T10:28:32.081399Z"
     }
   },
-  "lastUpdated": "2025-08-20T11:38:51.455506Z",
-  "totalVideos": 15,
-  "totalChannels": 3
+  "lastUpdated": "2025-08-21T10:28:32.111145Z",
+  "totalVideos": 17,
+  "totalChannels": 4
 }

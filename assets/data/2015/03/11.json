@@ -457,6 +457,66 @@
       "channelId": "UCIMOytYIzaUpoAM2bpT4JZQ",
       "channelName": "KTV 국민방송",
       "collectedAt": "2025-08-20T11:40:07.741713Z"
+    },
+    "UShwkbI6rOI": {
+      "videoId": "UShwkbI6rOI",
+      "title": "김기종 후원 주요인사 12명…다수 야권 인사 포함",
+      "description": "[앵커]\n리퍼트 대사를 피습한 김기종씨 후원자 명단을 TV 조선이 단독으로 입수했습니다. \n\n[Ch.19] 세상에 없는 TV 이제 시작합니다. \n★홈페이지 : www.tvchosun.com \n기사 더 보기 ▶ http://news.tvchosun.com/site/data/html_dir/2015/03/11/2015031190250.html",
+      "publishedAt": "2015-03-11T13:23:22Z",
+      "duration": "PT1M27S",
+      "viewCount": 217,
+      "likeCount": 2,
+      "commentCount": 0,
+      "tags": [
+        "TV조선",
+        "티비조선",
+        "조선일보",
+        "종편",
+        "종합편성",
+        "티브이조선",
+        "방송사",
+        "TV조선뉴스",
+        "뉴스",
+        "뉴스프로그램"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "collectedAt": "2025-08-21T10:28:50.891854Z"
+    },
+    "Om-fXlsAQ18": {
+      "videoId": "Om-fXlsAQ18",
+      "title": "北 \"무자비한 징벌 내리겠다\" 위협",
+      "description": "북한이 우리가 김정은 국방위원장을 모욕했다며 강하게 비난했습니다. 극우보수깡패 무리들이 자신들을 모욕했다며 무자비한 징벌을 내리겠다고 비난의 수위를 높였습니다. 그러면서 또다시 4차 핵실험 가능성까지도 시사했는데 갖가지 핑계를 대고 무력 도발을 하려는 속셈으로 보입니다. \n\n\n[Ch.19] 세상에 없는 TV 이제 시작합니다. \n★홈페이지 : www.tvchosun.com \n기사 더 보기 ▶ http://news.tvchosun.com/site/data/html_dir/2015/03/11/2015031190057.html",
+      "publishedAt": "2015-03-11T00:32:07Z",
+      "duration": "PT1M49S",
+      "viewCount": 315,
+      "likeCount": 1,
+      "commentCount": 0,
+      "tags": [
+        "TV조선",
+        "티비조선",
+        "조선일보",
+        "종편",
+        "종합편성",
+        "티브이조선",
+        "방송사",
+        "TV조선뉴스",
+        "뉴스",
+        "뉴스프로그램"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "collectedAt": "2025-08-21T10:28:50.891854Z"
     }
   },
   "channels": {
@@ -513,9 +573,36 @@
       "viewCount": 496166667,
       "videoCount": 25206,
       "lastUpdated": "2025-08-20T11:40:07.740716Z"
+    },
+    "UCWlV3Lz_55UaX4JsMj-z__Q": {
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "channelUrl": "@tvchosunnews",
+      "channelDescription": "TV조선 뉴스 공식 YouTube 입니다.",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 2900000,
+      "viewCount": 4319423561,
+      "videoCount": 150855,
+      "lastUpdated": "2025-08-21T10:28:50.889858Z"
     }
   },
-  "lastUpdated": "2025-08-20T11:40:07.742109Z",
-  "totalVideos": 16,
-  "totalChannels": 2
+  "lastUpdated": "2025-08-21T10:28:50.896411Z",
+  "totalVideos": 18,
+  "totalChannels": 3
 }

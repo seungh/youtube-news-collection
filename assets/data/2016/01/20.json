@@ -239,6 +239,66 @@
       "channelId": "UCIMOytYIzaUpoAM2bpT4JZQ",
       "channelName": "KTV 국민방송",
       "collectedAt": "2025-08-20T11:40:13.827149Z"
+    },
+    "E7YQqMQF-Q4": {
+      "videoId": "E7YQqMQF-Q4",
+      "title": "[TV조선 단독] 윤여준, 큰 고비 넘겨…모레쯤 국민의당 복귀",
+      "description": "갑자기 병원에 입원했던 국민의당 윤여준 창당 준비 위원장이 한차례 큰 고비를 넘긴 것으로 확인됐습니다.\n\n\n[Ch.19] 세상에 없는 TV 이제 시작합니다. \n★홈페이지 : www.tvchosun.com \n기사 더 보기 ▶ http://news.tvchosun.com/site/data/html_dir/2016/01/20/2016012090176.html",
+      "publishedAt": "2016-01-20T13:10:33Z",
+      "duration": "PT1M31S",
+      "viewCount": 224,
+      "likeCount": 0,
+      "commentCount": 0,
+      "tags": [
+        "TV조선",
+        "티비조선",
+        "조선일보",
+        "종편",
+        "종합편성",
+        "티브이조선",
+        "방송사",
+        "TV조선뉴스",
+        "뉴스",
+        "뉴스프로그램"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "collectedAt": "2025-08-21T10:29:09.245290Z"
+    },
+    "lGf5B8JR8a0": {
+      "videoId": "lGf5B8JR8a0",
+      "title": "전 세계 덮친 한파…美 동부 빙판길에 44중 추돌",
+      "description": "이번 한파는 우리나라 뿐만 아니라, 미국과 유럽, 중국, 일본 등 북반구 전역을 강타해 미국에서는 44중 추돌 사고가 발생하는 등 피해가 속출하고 있습니다. 이번 전 세계적 한파는 북극 지방의 차가운 공기가 대거 남하했기 때문으로 분석됩니다.\n\n[Ch.19] 세상에 없는 TV 이제 시작합니다. \n★홈페이지 : www.tvchosun.com \n기사 더 보기 ▶ http://news.tvchosun.com/site/data/html_dir/2016/01/20/2016012090003.html",
+      "publishedAt": "2016-01-19T23:22:27Z",
+      "duration": "PT1M39S",
+      "viewCount": 577,
+      "likeCount": 2,
+      "commentCount": 0,
+      "tags": [
+        "TV조선",
+        "티비조선",
+        "조선일보",
+        "종편",
+        "종합편성",
+        "티브이조선",
+        "방송사",
+        "TV조선뉴스",
+        "뉴스",
+        "뉴스프로그램"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "collectedAt": "2025-08-21T10:29:09.245290Z"
     }
   },
   "channels": {
@@ -268,9 +328,36 @@
       "viewCount": 496166667,
       "videoCount": 25206,
       "lastUpdated": "2025-08-20T11:40:13.827149Z"
+    },
+    "UCWlV3Lz_55UaX4JsMj-z__Q": {
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "channelUrl": "@tvchosunnews",
+      "channelDescription": "TV조선 뉴스 공식 YouTube 입니다.",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 2900000,
+      "viewCount": 4319423561,
+      "videoCount": 150855,
+      "lastUpdated": "2025-08-21T10:29:09.245290Z"
     }
   },
-  "lastUpdated": "2025-08-20T11:40:13.827149Z",
-  "totalVideos": 8,
-  "totalChannels": 1
+  "lastUpdated": "2025-08-21T10:29:09.245290Z",
+  "totalVideos": 10,
+  "totalChannels": 2
 }

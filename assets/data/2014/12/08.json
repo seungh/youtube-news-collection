@@ -179,6 +179,96 @@
       "channelId": "UCIMOytYIzaUpoAM2bpT4JZQ",
       "channelName": "KTV 국민방송",
       "collectedAt": "2025-08-20T11:40:08.319286Z"
+    },
+    "hDU_0r0rKf8": {
+      "videoId": "hDU_0r0rKf8",
+      "title": "본질은 '문건' 아닌 '비선'",
+      "description": "박근혜 대통령은 이른바 정윤회 문건이 사실이 아니라고 분명히 선을 그었습니다. 하지만 비선실세에 대한 의혹은 증폭되고 있습니다.\n\n\n[Ch.19] 세상에 없는 TV 이제 시작합니다. \n★홈페이지 : www.tvchosun.com \n기사 더 보기 ▶ http://news.tvchosun.com/site/data/html_dir/2014/12/08/2014120890270.html",
+      "publishedAt": "2014-12-08T13:48:26Z",
+      "duration": "PT2M28S",
+      "viewCount": 56,
+      "likeCount": 0,
+      "commentCount": 0,
+      "tags": [
+        "TV조선",
+        "티비조선",
+        "조선일보",
+        "종편",
+        "종합편성",
+        "티브이조선",
+        "방송사",
+        "TV조선뉴스",
+        "뉴스",
+        "뉴스프로그램"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "collectedAt": "2025-08-21T10:28:53.364330Z"
+    },
+    "wLP-v8khGbo": {
+      "videoId": "wLP-v8khGbo",
+      "title": "입 닫은 정윤회·문고리 3인방",
+      "description": "이른바 '정윤회 문건'이 공개된 이후 청와대 '문고리 3인방'으로 불리는 인물들이 모두 모습을 드러내지 않고 있습니다. 며칠 전까지 적극적으로 언론 접촉에 나섰던 정윤회 씨도 언론을 피하고 있습니다.\r\n\r\n[Ch.19] 세상에 없는 TV 이제 시작합니다. \r\n★홈페이지 : www.tvchosun.com \r\n기사 더 보기 ▶ http://news.tvchosun.com/site/data/html_dir/2014/12/08/2014120890204.html",
+      "publishedAt": "2014-12-08T05:38:04Z",
+      "duration": "PT1M31S",
+      "viewCount": 126,
+      "likeCount": 0,
+      "commentCount": 0,
+      "tags": [
+        "TV조선",
+        "티비조선",
+        "조선일보",
+        "종편",
+        "종합편성",
+        "티브이조선",
+        "방송사",
+        "TV조선뉴스",
+        "뉴스",
+        "뉴스프로그램"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": "ko",
+      "defaultAudioLanguage": "ko",
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "collectedAt": "2025-08-21T10:28:53.364330Z"
+    },
+    "6lrGkDSb170": {
+      "videoId": "6lrGkDSb170",
+      "title": "野, 문재인·박지원·정세균 출마 초읽기",
+      "description": "야권의 당권 경쟁 윤곽이 슬슬 드러나고 있습니다. 당 대표 출마를 결심한 문재인 박지원 정세균 이 기존 빅3 구도에, 누가 도전할 지도 관심이 높습니다.\r\n\r\n[Ch.19] 세상에 없는 TV 이제 시작합니다. \r\n★홈페이지 : www.tvchosun.com \r\n기사 더 보기 ▶ http://news.tvchosun.com/site/data/html_dir/2014/12/08/2014120890115.html",
+      "publishedAt": "2014-12-08T05:29:47Z",
+      "duration": "PT1M31S",
+      "viewCount": 98,
+      "likeCount": 1,
+      "commentCount": 0,
+      "tags": [
+        "TV조선",
+        "티비조선",
+        "조선일보",
+        "종편",
+        "종합편성",
+        "티브이조선",
+        "방송사",
+        "TV조선뉴스",
+        "뉴스",
+        "뉴스프로그램"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "collectedAt": "2025-08-21T10:28:53.364330Z"
     }
   },
   "channels": {
@@ -235,9 +325,36 @@
       "viewCount": 496166667,
       "videoCount": 25206,
       "lastUpdated": "2025-08-20T11:40:08.317229Z"
+    },
+    "UCWlV3Lz_55UaX4JsMj-z__Q": {
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "channelUrl": "@tvchosunnews",
+      "channelDescription": "TV조선 뉴스 공식 YouTube 입니다.",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 2900000,
+      "viewCount": 4319423561,
+      "videoCount": 150855,
+      "lastUpdated": "2025-08-21T10:28:53.364330Z"
     }
   },
-  "lastUpdated": "2025-08-20T11:40:08.319286Z",
-  "totalVideos": 8,
-  "totalChannels": 2
+  "lastUpdated": "2025-08-21T10:28:53.365328Z",
+  "totalVideos": 11,
+  "totalChannels": 3
 }

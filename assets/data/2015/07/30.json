@@ -185,6 +185,36 @@
       "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
       "channelName": "NATV 국회방송",
       "collectedAt": "2025-08-20T11:40:04.096091Z"
+    },
+    "K0taO4FRznM": {
+      "videoId": "K0taO4FRznM",
+      "title": "7월 30일 '장성민의 시사탱크' 정론",
+      "description": "2014년 4월 16일 그날을 아직도 우리국민은 잊지 못합니다. 세월호 참사는 오늘을 사는 우리 모두에게 지울 수 없는, 아니 절대로 지워서는 안 될 국가적 재앙이었고, 재난이었습니다. 이는 팽목항 맹골수도로부터 안전 불감증에 빠진 우리 모두를 향한 성난 파도의 사이렌 소리이자, 분노한 파도의 경고음이었습니다. 세월호 참사를 경험하면서 우리 국민들은 안전한 대한민국이 만들어질 때까지 세월호를 우리 가슴 속 깊은 바다에 가라앉지 않도록 하자는 다짐을 하고 있는 지도 모릅니다. \n\n[Ch.19] 세상에 없는 TV 이제 시작합니다. \n★홈페이지 : www.tvchosun.com \n기사 더 보기 ▶ http://tvchosun.com/sisa/sisatank/sub/menu_6.html",
+      "publishedAt": "2015-07-30T10:18:50Z",
+      "duration": "PT3M53S",
+      "viewCount": 1228,
+      "likeCount": 26,
+      "commentCount": 1,
+      "tags": [
+        "TV조선",
+        "티비조선",
+        "조선일보",
+        "종편",
+        "종합편성",
+        "티브이조선",
+        "방송사",
+        "TV조선뉴스",
+        "뉴스",
+        "뉴스프로그램"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "collectedAt": "2025-08-21T10:28:46.910965Z"
     }
   },
   "channels": {
@@ -214,9 +244,36 @@
       "viewCount": 86009826,
       "videoCount": 16390,
       "lastUpdated": "2025-08-18T07:13:44.028227Z"
+    },
+    "UCWlV3Lz_55UaX4JsMj-z__Q": {
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "channelUrl": "@tvchosunnews",
+      "channelDescription": "TV조선 뉴스 공식 YouTube 입니다.",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 2900000,
+      "viewCount": 4319423561,
+      "videoCount": 150855,
+      "lastUpdated": "2025-08-21T10:28:46.910965Z"
     }
   },
-  "lastUpdated": "2025-08-20T11:40:04.101913Z",
-  "totalVideos": 7,
-  "totalChannels": 1
+  "lastUpdated": "2025-08-21T10:28:46.911962Z",
+  "totalVideos": 8,
+  "totalChannels": 2
 }

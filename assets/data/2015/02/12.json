@@ -45,6 +45,96 @@
       "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
       "channelName": "NATV 국회방송",
       "collectedAt": "2025-08-20T11:40:09.844695Z"
+    },
+    "gtkyVXoeqb4": {
+      "videoId": "gtkyVXoeqb4",
+      "title": "여당, 왜 마지막 순간에 멈칫했나",
+      "description": "[Ch.19] 세상에 없는 TV 이제 시작합니다. \n★홈페이지 : www.tvchosun.com \n기사 더 보기 ▶ http://news.tvchosun.com/site/data/html_dir/2015/02/12/2015021290286.html",
+      "publishedAt": "2015-02-12T14:08:47Z",
+      "duration": "PT1M35S",
+      "viewCount": 140,
+      "likeCount": 0,
+      "commentCount": 0,
+      "tags": [
+        "TV조선",
+        "티비조선",
+        "조선일보",
+        "종편",
+        "종합편성",
+        "티브이조선",
+        "방송사",
+        "TV조선뉴스",
+        "뉴스",
+        "뉴스프로그램"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "collectedAt": "2025-08-21T10:28:51.775870Z"
+    },
+    "S9AXPaIMIy4": {
+      "videoId": "S9AXPaIMIy4",
+      "title": "[단독] \"평택 캠프 험프리스에 사드 배치 논의\"",
+      "description": "미국이 최근 논란이 되고 있는 고고도 미사일방어체계, THAAD를 배치할 경우, 동북아 최대의 미군 기지가 될 평택 캠프 험프리스에 배치할 가능성이 높은 것으로 알려졌습니다. 평택이면 서해를 끼고 있어서 중국의 반발이 예상됩니다. \n\n[Ch.19] 세상에 없는 TV 이제 시작합니다. \n★홈페이지 : www.tvchosun.com \n기사 더 보기 ▶ http://news.tvchosun.com/site/data/html_dir/2015/02/12/2015021290322.html",
+      "publishedAt": "2015-02-12T13:55:01Z",
+      "duration": "PT2M2S",
+      "viewCount": 295,
+      "likeCount": 0,
+      "commentCount": 0,
+      "tags": [
+        "TV조선",
+        "티비조선",
+        "조선일보",
+        "종편",
+        "종합편성",
+        "티브이조선",
+        "방송사",
+        "TV조선뉴스",
+        "뉴스",
+        "뉴스프로그램"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "collectedAt": "2025-08-21T10:28:51.775870Z"
+    },
+    "7wV3VdLU9Sk": {
+      "videoId": "7wV3VdLU9Sk",
+      "title": "숫자로 본 2015 프로야구",
+      "description": "'KBO 리그'라는 이름으로 새롭게 출범하는 2015 한국 프로야구. 그 거대한 몸집이 공개됐습니다. 올해 프로야구를, 윤창기 기자가 숫자로 전해드립니다. \n\n[Ch.19] 세상에 없는 TV 이제 시작합니다. \n★홈페이지 : www.tvchosun.com \n기사 더 보기 ▶ http://news.tvchosun.com/site/data/html_dir/2015/02/12/2015021290354.html",
+      "publishedAt": "2015-02-12T14:15:12Z",
+      "duration": "PT1M56S",
+      "viewCount": 519,
+      "likeCount": 0,
+      "commentCount": 0,
+      "tags": [
+        "TV조선",
+        "티비조선",
+        "조선일보",
+        "종편",
+        "종합편성",
+        "티브이조선",
+        "방송사",
+        "TV조선뉴스",
+        "뉴스",
+        "뉴스프로그램"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "collectedAt": "2025-08-21T10:28:51.775870Z"
     }
   },
   "channels": {
@@ -74,9 +164,36 @@
       "viewCount": 86009826,
       "videoCount": 16390,
       "lastUpdated": "2025-08-18T07:13:45.926217Z"
+    },
+    "UCWlV3Lz_55UaX4JsMj-z__Q": {
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "channelUrl": "@tvchosunnews",
+      "channelDescription": "TV조선 뉴스 공식 YouTube 입니다.",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 2900000,
+      "viewCount": 4319423561,
+      "videoCount": 150855,
+      "lastUpdated": "2025-08-21T10:28:51.772111Z"
     }
   },
-  "lastUpdated": "2025-08-20T11:40:09.844695Z",
-  "totalVideos": 2,
-  "totalChannels": 1
+  "lastUpdated": "2025-08-21T10:28:51.775870Z",
+  "totalVideos": 5,
+  "totalChannels": 2
 }

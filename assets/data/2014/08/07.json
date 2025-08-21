@@ -29,6 +29,66 @@
       "channelId": "UCIMOytYIzaUpoAM2bpT4JZQ",
       "channelName": "KTV 국민방송",
       "collectedAt": "2025-08-20T11:40:17.981991Z"
+    },
+    "LrnRbqrNIIc": {
+      "videoId": "LrnRbqrNIIc",
+      "title": "\"무자격 낙하산 강행\"…靑, 보은인사?",
+      "description": "자니윤씨의 한국관광공사 감사 임명 논란을 보면, 청와대가 자니윤씨를 지나치게 감싼다는 느낌이 듭니다. 박근혜 대선 캠프에서 적극적으로 활동했기 때문이라는데 그 이유를 김정우 기자가 짚어봤습니다.\n\n\n[Ch.19] 세상에 없는 TV 이제 시작합니다. \n★홈페이지 : www.tvchosun.com \n기사 더 보기 ▶ http://news.tvchosun.com/site/data/html_dir/2014/08/07/2014080790284.html",
+      "publishedAt": "2014-08-07T10:34:43Z",
+      "duration": "PT1M26S",
+      "viewCount": 390,
+      "likeCount": 1,
+      "commentCount": 1,
+      "tags": [
+        "TV조선",
+        "티비조선",
+        "조선일보",
+        "종편",
+        "종합편성",
+        "티브이조선",
+        "방송사",
+        "TV조선뉴스",
+        "뉴스",
+        "뉴스프로그램"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "collectedAt": "2025-08-21T10:28:56.465710Z"
+    },
+    "NlkKMD6nPO0": {
+      "videoId": "NlkKMD6nPO0",
+      "title": "방송인 자니윤 한국관광공사 감사 선임 '시끌'",
+      "description": "방송인 자니윤 씨가 낙하산 인사 논란에 휘말렸습니다. 한국관광공사 상임감사에 선임됐는데, 이 자리에 전혀 어울리지 않는다는 의견도 나왔습니다. \n\n[Ch.19] 세상에 없는 TV 이제 시작합니다. \n★홈페이지 : www.tvchosun.com \n기사 더 보기 ▶ http://news.tvchosun.com/site/data/html_dir/2014/08/07/2014080790280.html",
+      "publishedAt": "2014-08-07T10:35:41Z",
+      "duration": "PT1M21S",
+      "viewCount": 563,
+      "likeCount": 0,
+      "commentCount": 0,
+      "tags": [
+        "TV조선",
+        "티비조선",
+        "조선일보",
+        "종편",
+        "종합편성",
+        "티브이조선",
+        "방송사",
+        "TV조선뉴스",
+        "뉴스",
+        "뉴스프로그램"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "collectedAt": "2025-08-21T10:28:56.465710Z"
     }
   },
   "channels": {
@@ -58,9 +118,36 @@
       "viewCount": 496166667,
       "videoCount": 25206,
       "lastUpdated": "2025-08-20T11:40:17.981991Z"
+    },
+    "UCWlV3Lz_55UaX4JsMj-z__Q": {
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "channelUrl": "@tvchosunnews",
+      "channelDescription": "TV조선 뉴스 공식 YouTube 입니다.",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 2900000,
+      "viewCount": 4319423561,
+      "videoCount": 150855,
+      "lastUpdated": "2025-08-21T10:28:56.465710Z"
     }
   },
-  "lastUpdated": "2025-08-20T11:40:17.982989Z",
-  "totalVideos": 1,
-  "totalChannels": 1
+  "lastUpdated": "2025-08-21T10:28:56.477870Z",
+  "totalVideos": 3,
+  "totalChannels": 2
 }

@@ -353,6 +353,66 @@
       "channelId": "UCNJM6dqu70Qr6VaseiW1Org",
       "channelName": "이재명",
       "collectedAt": "2025-08-20T11:40:16.650900Z"
+    },
+    "RZ8Oi-ne8Rs": {
+      "videoId": "RZ8Oi-ne8Rs",
+      "title": "최순실 사라지자…박근혜-박지만, 4년 만의 눈물 속 재회",
+      "description": "박근혜 전 대통령이 법원으로 떠나기 직전 동생 박지만 EG 회장과 서향희 변호사 부부가 삼성동 자택을 찾았습니다. 최순실 때문에 멀어졌던 남매는 4년만에 만나 눈물을 흘렸습니다. \n\n[Ch.19] 세상에 없는 TV 이제 시작합니다. \n★홈페이지 : http://news.tvchosun.com/\n\n* 뉴스제보 : 이메일(tvchosun@chosun.com), 카카오톡(tv조선제보), 전화(1661-0190)",
+      "publishedAt": "2017-03-30T12:28:21Z",
+      "duration": "PT1M35S",
+      "viewCount": 24163,
+      "likeCount": 44,
+      "commentCount": 15,
+      "tags": [
+        "TV조선",
+        "티비조선",
+        "조선일보",
+        "종편",
+        "종합편성",
+        "티브이조선",
+        "방송사",
+        "TV조선뉴스",
+        "뉴스",
+        "뉴스프로그램"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "collectedAt": "2025-08-21T10:28:34.079664Z"
+    },
+    "AlUoaARl5Vs": {
+      "videoId": "AlUoaARl5Vs",
+      "title": "'김정남 시신' 베이징으로…평양 갈 듯",
+      "description": "말레이시아 당국이 김정남의 시신을 결국 북한으로 보냈습니다. 당초 유가족 측에 보내겠다는 약속과 달리 오늘 시신을 베이징으로 옮겼습니다. 이르면 내일쯤 김정남의 시신은 평양으로 들어갈 것 같은데, 암살자에게 시신을 넘기는 어이없는 상황이 됐습니다. \n\n\n[Ch.19] 세상에 없는 TV 이제 시작합니다. \n★홈페이지 : http://news.tvchosun.com/\n\n* 뉴스제보 : 이메일(tvchosun@chosun.com), 카카오톡(tv조선제보), 전화(1661-0190)",
+      "publishedAt": "2017-03-30T12:28:21Z",
+      "duration": "PT1M34S",
+      "viewCount": 663,
+      "likeCount": 0,
+      "commentCount": 0,
+      "tags": [
+        "TV조선",
+        "티비조선",
+        "조선일보",
+        "종편",
+        "종합편성",
+        "티브이조선",
+        "방송사",
+        "TV조선뉴스",
+        "뉴스",
+        "뉴스프로그램"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "collectedAt": "2025-08-21T10:28:34.079664Z"
     }
   },
   "channels": {
@@ -409,9 +469,36 @@
       "viewCount": 336974518,
       "videoCount": 3965,
       "lastUpdated": "2025-08-20T11:40:16.649902Z"
+    },
+    "UCWlV3Lz_55UaX4JsMj-z__Q": {
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "channelUrl": "@tvchosunnews",
+      "channelDescription": "TV조선 뉴스 공식 YouTube 입니다.",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 2900000,
+      "viewCount": 4319423561,
+      "videoCount": 150855,
+      "lastUpdated": "2025-08-21T10:28:34.078666Z"
     }
   },
-  "lastUpdated": "2025-08-20T11:40:16.654640Z",
-  "totalVideos": 12,
-  "totalChannels": 2
+  "lastUpdated": "2025-08-21T10:28:34.079664Z",
+  "totalVideos": 14,
+  "totalChannels": 3
 }

@@ -29,6 +29,66 @@
       "channelId": "UCIMOytYIzaUpoAM2bpT4JZQ",
       "channelName": "KTV 국민방송",
       "collectedAt": "2025-08-20T11:40:18.508904Z"
+    },
+    "7dy1BYl3Lz0": {
+      "videoId": "7dy1BYl3Lz0",
+      "title": "[회장님 회장님] 재용불패 vs 용만불패...오늘은?",
+      "description": "야구팬들 사이엔 '재용불패'란 말이 있습니다. 이재용 삼성 전자 부회장이 야구장에 오면 삼성 라이온스가 그날은 꼭 이긴다는 것인데 두산 역시 박용만 회장의 '용만불패'를 자랑하고 있습니다.\r\n\r\n\r\n[Ch.19] 세상에 없는 TV 이제 시작합니다. \r\n★홈페이지 : www.tvchosun.com \r\n기사 더 보기 ▶ http://news.tv.chosun.com/site/data/html_dir/2013/11/01/2013110190322.html",
+      "publishedAt": "2013-11-01T14:48:23Z",
+      "duration": "PT1M51S",
+      "viewCount": 9842,
+      "likeCount": 41,
+      "commentCount": 1,
+      "tags": [
+        "TV조선",
+        "티비조선",
+        "조선일보",
+        "종편",
+        "종합편성",
+        "티브이조선",
+        "방송사",
+        "TV조선뉴스",
+        "뉴스",
+        "뉴스프로그램"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "collectedAt": "2025-08-21T10:29:13.750901Z"
+    },
+    "pA7dzMdZfW8": {
+      "videoId": "pA7dzMdZfW8",
+      "title": "우윳값, 이번엔 '10원 할인' 전쟁",
+      "description": "우유업계가 우윳값을 잇따라 올린지 두 달 만에 이번에는 대형 유통업체들이 앞다퉈 할인 경쟁에 나섰습니다. 이마트와 롯데마트는 대표상품인 서울우유와 빙그레 요플레를 가격인상 이전 수준으로 할인해서 판매한다고 밝혔습니다.\r\n\r\n[Ch.19] 세상에 없는 TV 이제 시작합니다. \r\n★홈페이지 : www.tvchosun.com \r\n기사 더 보기 ▶ 링크넣어주세요",
+      "publishedAt": "2013-11-01T02:22:35Z",
+      "duration": "PT1M35S",
+      "viewCount": 167,
+      "likeCount": 0,
+      "commentCount": 0,
+      "tags": [
+        "TV조선",
+        "티비조선",
+        "조선일보",
+        "종편",
+        "종합편성",
+        "티브이조선",
+        "방송사",
+        "TV조선뉴스",
+        "뉴스",
+        "뉴스프로그램"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "collectedAt": "2025-08-21T10:29:13.750901Z"
     }
   },
   "channels": {
@@ -58,9 +118,36 @@
       "viewCount": 496166667,
       "videoCount": 25206,
       "lastUpdated": "2025-08-20T11:40:18.502774Z"
+    },
+    "UCWlV3Lz_55UaX4JsMj-z__Q": {
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "channelUrl": "@tvchosunnews",
+      "channelDescription": "TV조선 뉴스 공식 YouTube 입니다.",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 2900000,
+      "viewCount": 4319423561,
+      "videoCount": 150855,
+      "lastUpdated": "2025-08-21T10:29:13.746572Z"
     }
   },
-  "lastUpdated": "2025-08-20T11:40:18.508904Z",
-  "totalVideos": 1,
-  "totalChannels": 1
+  "lastUpdated": "2025-08-21T10:29:13.762346Z",
+  "totalVideos": 3,
+  "totalChannels": 2
 }

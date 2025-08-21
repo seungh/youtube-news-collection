@@ -323,6 +323,96 @@
       "channelId": "UCIMOytYIzaUpoAM2bpT4JZQ",
       "channelName": "KTV 국민방송",
       "collectedAt": "2025-08-20T11:40:04.492656Z"
+    },
+    "3CSP6gBYH68": {
+      "videoId": "3CSP6gBYH68",
+      "title": "美 \"북한, 13년째 최악 인신매매국\"",
+      "description": "한반도 주변 정세는 언제나 모든게 맞물려 있고, 항상 복잡하게 돌아갑니다. 먼저 미국과 북한입니다. 미국 국무부가 북한을 13년째 최악의 인신매매국으로 평가했습니다. \n\n[Ch.19] 세상에 없는 TV 이제 시작합니다. \n★홈페이지 : www.tvchosun.com \n기사 더 보기 ▶ http://news.tvchosun.com/site/data/html_dir/2015/07/28/2015072890180.html",
+      "publishedAt": "2015-07-28T13:48:15Z",
+      "duration": "PT1M47S",
+      "viewCount": 190,
+      "likeCount": 0,
+      "commentCount": 0,
+      "tags": [
+        "TV조선",
+        "티비조선",
+        "조선일보",
+        "종편",
+        "종합편성",
+        "티브이조선",
+        "방송사",
+        "TV조선뉴스",
+        "뉴스",
+        "뉴스프로그램"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "collectedAt": "2025-08-21T10:28:46.994292Z"
+    },
+    "FJOsiRW6DqI": {
+      "videoId": "FJOsiRW6DqI",
+      "title": "[뉴스 인사이드] 김영사 파문, 진흙탕 싸움으로 번져",
+      "description": "캡션넣어주세요\n\n[Ch.19] 세상에 없는 TV 이제 시작합니다. \n★홈페이지 : www.tvchosun.com \n기사 더 보기 ▶ http://news.tvchosun.com/site/data/html_dir/2015/07/28/2015072890172.html",
+      "publishedAt": "2015-07-28T13:48:15Z",
+      "duration": "PT1M44S",
+      "viewCount": 214,
+      "likeCount": 0,
+      "commentCount": 0,
+      "tags": [
+        "TV조선",
+        "티비조선",
+        "조선일보",
+        "종편",
+        "종합편성",
+        "티브이조선",
+        "방송사",
+        "TV조선뉴스",
+        "뉴스",
+        "뉴스프로그램"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "collectedAt": "2025-08-21T10:28:46.994292Z"
+    },
+    "U6ryY5LSxTE": {
+      "videoId": "U6ryY5LSxTE",
+      "title": "롯데家에 무슨 일이…\"혼돈의 24시\"",
+      "description": "롯데그룹에서 왕자의 난이 일어났습니다. 후계 구도에서 밀려난 장남 신동주 전 일본 롯데 부회장이 창업주인 아버지 신격호 총괄회장을 앞세워 사실상의 쿠데타를 시도했습니다. 그러나 동생인 신동빈 회장이 곧바로 반격에 나서면서 뜻을 이루지 못했습니다.\n\n[Ch.19] 세상에 없는 TV 이제 시작합니다. \n★홈페이지 : www.tvchosun.com \n기사 더 보기 ▶ http://news.tvchosun.com/site/data/html_dir/2015/07/28/2015072890146.html",
+      "publishedAt": "2015-07-28T13:48:15Z",
+      "duration": "PT1M51S",
+      "viewCount": 1300,
+      "likeCount": 0,
+      "commentCount": 0,
+      "tags": [
+        "TV조선",
+        "티비조선",
+        "조선일보",
+        "종편",
+        "종합편성",
+        "티브이조선",
+        "방송사",
+        "TV조선뉴스",
+        "뉴스",
+        "뉴스프로그램"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "collectedAt": "2025-08-21T10:28:46.994292Z"
     }
   },
   "channels": {
@@ -379,9 +469,36 @@
       "viewCount": 496166667,
       "videoCount": 25206,
       "lastUpdated": "2025-08-20T11:40:04.491658Z"
+    },
+    "UCWlV3Lz_55UaX4JsMj-z__Q": {
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "channelUrl": "@tvchosunnews",
+      "channelDescription": "TV조선 뉴스 공식 YouTube 입니다.",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 2900000,
+      "viewCount": 4319423561,
+      "videoCount": 150855,
+      "lastUpdated": "2025-08-21T10:28:46.990287Z"
     }
   },
-  "lastUpdated": "2025-08-20T11:40:04.492656Z",
-  "totalVideos": 12,
-  "totalChannels": 2
+  "lastUpdated": "2025-08-21T10:28:46.994292Z",
+  "totalVideos": 15,
+  "totalChannels": 3
 }

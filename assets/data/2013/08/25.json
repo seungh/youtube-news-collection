@@ -1,0 +1,66 @@
+{
+  "videos": {
+    "xm1pJ_5l6I0": {
+      "videoId": "xm1pJ_5l6I0",
+      "title": "[스포츠 사이언스] 새로운 트랜드 '잠수함 선발'",
+      "description": "올 시즌 프로야구의 특징 중의 하나, 바로 잠수함 선발 투수입니다. 명맥이 끊겼다 싶었는데 김병현을 비롯해 우규민, 이재학 등 선발로 활약하는 잠수함 투수가 올 해 특히나 많이 늘었습니다.\r\n\r\n[Ch.19] 세상에 없는 TV 이제 시작합니다. \r\n★홈페이지 : www.tvchosun.com \r\n기사 더 보기 ▶ http://news.tv.chosun.com/site/data/html_dir/2013/08/25/2013082590209.html",
+      "publishedAt": "2013-08-25T11:04:55Z",
+      "duration": "PT2M16S",
+      "viewCount": 1433,
+      "likeCount": 2,
+      "commentCount": 0,
+      "tags": [
+        "TV조선",
+        "티비조선",
+        "조선일보",
+        "종편",
+        "종합편성",
+        "티브이조선",
+        "방송사",
+        "TV조선뉴스",
+        "뉴스",
+        "뉴스프로그램"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "collectedAt": "2025-08-21T10:29:14.427835Z"
+    }
+  },
+  "channels": {
+    "UCWlV3Lz_55UaX4JsMj-z__Q": {
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "channelUrl": "@tvchosunnews",
+      "channelDescription": "TV조선 뉴스 공식 YouTube 입니다.",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 2900000,
+      "viewCount": 4319423561,
+      "videoCount": 150855,
+      "lastUpdated": "2025-08-21T10:29:14.423500Z"
+    }
+  },
+  "lastUpdated": "2025-08-21T10:29:14.427835Z",
+  "totalVideos": 1,
+  "totalChannels": 1
+}

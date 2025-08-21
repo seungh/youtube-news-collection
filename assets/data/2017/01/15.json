@@ -137,6 +137,66 @@
       "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
       "channelName": "NATV 국회방송",
       "collectedAt": "2025-08-18T07:13:38.758086Z"
+    },
+    "GNzjfIIOpFs": {
+      "videoId": "GNzjfIIOpFs",
+      "title": "문재인-반기문 '사드' 두고 입장차",
+      "description": "대선 여론조사에서 선두를 달리는 문재인 전 더불어민주당 대표와 반기문 전 유엔 사무총장이 사드 배치 문제를 두고 입장차를 보였습니다. 각종 현안을 두고 양측의 신경전이 계속 이어질 것으로 보입니다. 국회 취재기자 연결합니다. \n\n[Ch.19] 세상에 없는 TV 이제 시작합니다. \n★홈페이지 : http://news.tvchosun.com/\n\n* 뉴스제보 : 이메일(tvchosun@chosun.com), 카카오톡(tv조선제보), 전화(1661-0190)",
+      "publishedAt": "2017-01-15T07:51:39Z",
+      "duration": "PT2M12S",
+      "viewCount": 468,
+      "likeCount": 1,
+      "commentCount": 0,
+      "tags": [
+        "TV조선",
+        "티비조선",
+        "조선일보",
+        "종편",
+        "종합편성",
+        "티브이조선",
+        "방송사",
+        "TV조선뉴스",
+        "뉴스",
+        "뉴스프로그램"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "collectedAt": "2025-08-21T10:28:34.734219Z"
+    },
+    "fMzNXS6FW4E": {
+      "videoId": "fMzNXS6FW4E",
+      "title": "자살 보험금 지급…여전한 꼼수 논란",
+      "description": "3대 생명보험사들이 미지급한 자살보험금이 3800억원에 이릅니다. 당시 약관이 잘못됐다, 시효가 지났다. 이런 저런 이유로 지급을 미루다 결국 금융 당국이 중징계 칼을 빼들자, 백기를 들었습니다. 하지만 일부만 지급하는 꼼수를 부리고 있습니다. \n\n\n[Ch.19] 세상에 없는 TV 이제 시작합니다. \n★홈페이지 : http://news.tvchosun.com/\n\n* 뉴스제보 : 이메일(tvchosun@chosun.com), 카카오톡(tv조선제보), 전화(1661-0190)",
+      "publishedAt": "2017-01-15T12:08:53Z",
+      "duration": "PT2M6S",
+      "viewCount": 214,
+      "likeCount": 0,
+      "commentCount": 0,
+      "tags": [
+        "TV조선",
+        "티비조선",
+        "조선일보",
+        "종편",
+        "종합편성",
+        "티브이조선",
+        "방송사",
+        "TV조선뉴스",
+        "뉴스",
+        "뉴스프로그램"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": "ko",
+      "defaultAudioLanguage": "ko",
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "collectedAt": "2025-08-21T10:28:34.734219Z"
     }
   },
   "channels": {
@@ -166,9 +226,36 @@
       "viewCount": 86009826,
       "videoCount": 16390,
       "lastUpdated": "2025-08-18T07:13:38.756046Z"
+    },
+    "UCWlV3Lz_55UaX4JsMj-z__Q": {
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "channelUrl": "@tvchosunnews",
+      "channelDescription": "TV조선 뉴스 공식 YouTube 입니다.",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 2900000,
+      "viewCount": 4319423561,
+      "videoCount": 150855,
+      "lastUpdated": "2025-08-21T10:28:34.732318Z"
     }
   },
-  "lastUpdated": "2025-08-20T11:39:56.795935Z",
-  "totalVideos": 5,
-  "totalChannels": 1
+  "lastUpdated": "2025-08-21T10:28:34.735216Z",
+  "totalVideos": 7,
+  "totalChannels": 2
 }

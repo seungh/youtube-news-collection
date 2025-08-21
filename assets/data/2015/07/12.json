@@ -45,6 +45,36 @@
       "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
       "channelName": "NATV 국회방송",
       "collectedAt": "2025-08-18T07:13:44.299108Z"
+    },
+    "-pDTjN194Yw": {
+      "videoId": "-pDTjN194Yw",
+      "title": "과열된 섹시…걸그룹 노출 도대체 어디까지?",
+      "description": "올 여름 가요계에서는 '걸그룹 대전'이 뜨겁게 펼쳐지고 있습니다. 하지만 섹시 콘셉트 과열로 인한, 걸그룹들의 지나친 노출이 도마위에 올랐습니다.\n\n[Ch.19] 세상에 없는 TV 이제 시작합니다. \n★홈페이지 : www.tvchosun.com \n기사 더 보기 ▶ http://news.tvchosun.com/site/data/html_dir/2015/07/12/2015071290125.html",
+      "publishedAt": "2015-07-12T11:22:33Z",
+      "duration": "PT1M11S",
+      "viewCount": 28784,
+      "likeCount": 17,
+      "commentCount": 25,
+      "tags": [
+        "TV조선",
+        "티비조선",
+        "조선일보",
+        "종편",
+        "종합편성",
+        "티브이조선",
+        "방송사",
+        "TV조선뉴스",
+        "뉴스",
+        "뉴스프로그램"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "collectedAt": "2025-08-21T10:29:04.120359Z"
     }
   },
   "channels": {
@@ -74,9 +104,36 @@
       "viewCount": 86009826,
       "videoCount": 16390,
       "lastUpdated": "2025-08-18T07:13:44.299108Z"
+    },
+    "UCWlV3Lz_55UaX4JsMj-z__Q": {
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "channelUrl": "@tvchosunnews",
+      "channelDescription": "TV조선 뉴스 공식 YouTube 입니다.",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 2900000,
+      "viewCount": 4319423561,
+      "videoCount": 150855,
+      "lastUpdated": "2025-08-21T10:29:04.120359Z"
     }
   },
-  "lastUpdated": "2025-08-20T11:40:04.585733Z",
-  "totalVideos": 2,
-  "totalChannels": 1
+  "lastUpdated": "2025-08-21T10:29:04.121356Z",
+  "totalVideos": 3,
+  "totalChannels": 2
 }

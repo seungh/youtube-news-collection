@@ -149,6 +149,96 @@
       "channelId": "UCIMOytYIzaUpoAM2bpT4JZQ",
       "channelName": "KTV 국민방송",
       "collectedAt": "2025-08-20T11:40:06.472392Z"
+    },
+    "vUHJ7l1q3TM": {
+      "videoId": "vUHJ7l1q3TM",
+      "title": "北, 단거리 발사체 5발 발사",
+      "description": "북한이 어제 동해상으로 단거리 발사체 5발을 발사했습니다. 지난 6일 원산 앞바다에서 함대함 미사일을 발사한지 이틀에 이뤄진 무력도발입니다. \n\n[Ch.19] 세상에 없는 TV 이제 시작합니다. \n★홈페이지 : www.tvchosun.com \n기사 더 보기 ▶http://news.tvchosun.com/site/data/html_dir/2015/02/09/2015020990070.html",
+      "publishedAt": "2015-02-09T23:13:40Z",
+      "duration": "PT1M38S",
+      "viewCount": 255,
+      "likeCount": 0,
+      "commentCount": 0,
+      "tags": [
+        "TV조선",
+        "티비조선",
+        "조선일보",
+        "종편",
+        "종합편성",
+        "티브이조선",
+        "방송사",
+        "TV조선뉴스",
+        "뉴스",
+        "뉴스프로그램"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "collectedAt": "2025-08-21T10:28:51.856691Z"
+    },
+    "renbnq-42w4": {
+      "videoId": "renbnq-42w4",
+      "title": "문재인 대표 첫 일정…이승만·박정희 묘역 참배",
+      "description": "새정치민주연합 문재인 신임 대표가 첫 공식 일정으로 국립서울현충원을 찾았습니다. 문 대표는 이례적으로 이승만 박정희 전 대통령의 묘역을 참배했습니다. \n\n[Ch.19] 세상에 없는 TV 이제 시작합니다. \n★홈페이지 : www.tvchosun.com \n기사 더 보기 ▶ http://news.tvchosun.com/site/data/html_dir/2015/02/09/2015020990058.html",
+      "publishedAt": "2015-02-09T23:13:40Z",
+      "duration": "PT1M34S",
+      "viewCount": 141,
+      "likeCount": 1,
+      "commentCount": 0,
+      "tags": [
+        "TV조선",
+        "티비조선",
+        "조선일보",
+        "종편",
+        "종합편성",
+        "티브이조선",
+        "방송사",
+        "TV조선뉴스",
+        "뉴스",
+        "뉴스프로그램"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "collectedAt": "2025-08-21T10:28:51.856691Z"
+    },
+    "8SNnknKF8hQ": {
+      "videoId": "8SNnknKF8hQ",
+      "title": "김세영, LPGA 두 번째 대회만에 우승",
+      "description": "올해 LPGA 무대에 데뷔한 김세영이 첫 우승을 거뒀습니다. 한국 낭자들은 지난 대회에 이어 두 대회 연속 우승의 상승세를 달렸습니다. \n\n[Ch.19] 세상에 없는 TV 이제 시작합니다. \n★홈페이지 : www.tvchosun.com \n기사 더 보기 ▶ http://news.tvchosun.com/site/data/html_dir/2015/02/09/2015020990080.html",
+      "publishedAt": "2015-02-09T23:13:40Z",
+      "duration": "PT1M22S",
+      "viewCount": 390,
+      "likeCount": 0,
+      "commentCount": 0,
+      "tags": [
+        "TV조선",
+        "티비조선",
+        "조선일보",
+        "종편",
+        "종합편성",
+        "티브이조선",
+        "방송사",
+        "TV조선뉴스",
+        "뉴스",
+        "뉴스프로그램"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": "ko",
+      "defaultAudioLanguage": "ko",
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "collectedAt": "2025-08-21T10:28:51.856691Z"
     }
   },
   "channels": {
@@ -205,9 +295,36 @@
       "viewCount": 496166667,
       "videoCount": 25206,
       "lastUpdated": "2025-08-20T11:40:06.472392Z"
+    },
+    "UCWlV3Lz_55UaX4JsMj-z__Q": {
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "channelUrl": "@tvchosunnews",
+      "channelDescription": "TV조선 뉴스 공식 YouTube 입니다.",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 2900000,
+      "viewCount": 4319423561,
+      "videoCount": 150855,
+      "lastUpdated": "2025-08-21T10:28:51.854104Z"
     }
   },
-  "lastUpdated": "2025-08-20T11:40:06.473387Z",
-  "totalVideos": 5,
-  "totalChannels": 2
+  "lastUpdated": "2025-08-21T10:28:51.857689Z",
+  "totalVideos": 8,
+  "totalChannels": 3
 }

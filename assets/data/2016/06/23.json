@@ -355,6 +355,96 @@
       "channelId": "UCIMOytYIzaUpoAM2bpT4JZQ",
       "channelName": "KTV 국민방송",
       "collectedAt": "2025-08-20T11:40:14.224132Z"
+    },
+    "d5nPZwteH7g": {
+      "videoId": "d5nPZwteH7g",
+      "title": "인디펜던스데이 20년 만에 돌아오다!",
+      "description": "외계의 침공으로 인류가 위기에 처한다는 영화, '인디펜던스데이'가 20년 만에 돌아와 큰 인기를 모으고 있습니다. 외계인에 맞서 싸우는 미국 대통령으로는 여성을 세웠습니다.\n\n[Ch.19] 세상에 없는 TV 이제 시작합니다. \n★홈페이지 : http://news.tvchosun.com/",
+      "publishedAt": "2016-06-23T07:10:10Z",
+      "duration": "PT1M19S",
+      "viewCount": 397,
+      "likeCount": 0,
+      "commentCount": 1,
+      "tags": [
+        "TV조선",
+        "티비조선",
+        "조선일보",
+        "종편",
+        "종합편성",
+        "티브이조선",
+        "방송사",
+        "TV조선뉴스",
+        "뉴스",
+        "뉴스프로그램"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "collectedAt": "2025-08-21T10:29:02.220483Z"
+    },
+    "JXDmJagK7CY": {
+      "videoId": "JXDmJagK7CY",
+      "title": "판사와 사채업자 수상한 돈거래 [TV조선 단독]",
+      "description": "부장 판사가 사채업자를 통해 10배 가까이 돈을 불렸지만, 아무런 징계를 받지 않은 것으로 확인됐습니다. 이 돈이 '투자금'이 아니라 뇌물이었다는 의혹이 불거졌지만, 대법원은 아무런 문제 삼지 않았습니다. 문제의 판사는 올해부터 변호사로 활동중입니다. \n\n[Ch.19] 세상에 없는 TV 이제 시작합니다. \n★홈페이지 : http://news.tvchosun.com/",
+      "publishedAt": "2016-06-23T12:49:25Z",
+      "duration": "PT2M1S",
+      "viewCount": 449,
+      "likeCount": 1,
+      "commentCount": 0,
+      "tags": [
+        "TV조선",
+        "티비조선",
+        "조선일보",
+        "종편",
+        "종합편성",
+        "티브이조선",
+        "방송사",
+        "TV조선뉴스",
+        "뉴스",
+        "뉴스프로그램"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "collectedAt": "2025-08-21T10:29:02.220483Z"
+    },
+    "DQRvs5ECvHQ": {
+      "videoId": "DQRvs5ECvHQ",
+      "title": "창문 블라인드 줄 흉기될 수도…아동 질식 위험 주의",
+      "description": "창문 블라인드에 달린 줄이 아이의 목숨을 위협하는 흉기가 되기도 합니다. 자칫 목에 걸리면 질식사 할 수 있는데요 하지만 기준도 지키지 않고 안전 표시도 없이 팔리고 있습니다. \n\n\n[Ch.19] 세상에 없는 TV 이제 시작합니다. \n★홈페이지 : http://news.tvchosun.com/",
+      "publishedAt": "2016-06-23T13:04:40Z",
+      "duration": "PT1M29S",
+      "viewCount": 747,
+      "likeCount": 1,
+      "commentCount": 0,
+      "tags": [
+        "TV조선",
+        "티비조선",
+        "조선일보",
+        "종편",
+        "종합편성",
+        "티브이조선",
+        "방송사",
+        "TV조선뉴스",
+        "뉴스",
+        "뉴스프로그램"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "collectedAt": "2025-08-21T10:29:02.220483Z"
     }
   },
   "channels": {
@@ -384,9 +474,36 @@
       "viewCount": 496166667,
       "videoCount": 25206,
       "lastUpdated": "2025-08-20T11:40:14.222506Z"
+    },
+    "UCWlV3Lz_55UaX4JsMj-z__Q": {
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "channelUrl": "@tvchosunnews",
+      "channelDescription": "TV조선 뉴스 공식 YouTube 입니다.",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 2900000,
+      "viewCount": 4319423561,
+      "videoCount": 150855,
+      "lastUpdated": "2025-08-21T10:29:02.220483Z"
     }
   },
-  "lastUpdated": "2025-08-20T11:40:14.225129Z",
-  "totalVideos": 12,
-  "totalChannels": 1
+  "lastUpdated": "2025-08-21T10:29:02.220483Z",
+  "totalVideos": 15,
+  "totalChannels": 2
 }

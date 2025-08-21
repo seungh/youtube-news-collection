@@ -131,6 +131,96 @@
       "channelId": "UCNJM6dqu70Qr6VaseiW1Org",
       "channelName": "이재명",
       "collectedAt": "2025-08-20T11:40:06.267751Z"
+    },
+    "44Tq45RTF6Q": {
+      "videoId": "44Tq45RTF6Q",
+      "title": "'인터뷰' 본 北 주민 \"가슴 뭉클\"…\"반감 느낄수도\"",
+      "description": "[앵커]\n김정은 암살을 소재로 한 영화 '인터뷰'가 철저한 단속에도 불구하고 북한에도 들어갔나 봅니다. 영화를 본 북한 주민들의 반응이 나오고 있는데 통쾌했다는 소감도 있지만 오히려 반감을 불러일으킬 수 있다는 반응도 있습니다. \n\n[Ch.19] 세상에 없는 TV 이제 시작합니다. \n★홈페이지 : www.tvchosun.com \n기사 더 보기 ▶ http://news.tvchosun.com/site/data/html_dir/2014/12/30/2014123090266.html",
+      "publishedAt": "2014-12-30T13:03:30Z",
+      "duration": "PT1M46S",
+      "viewCount": 848,
+      "likeCount": 1,
+      "commentCount": 0,
+      "tags": [
+        "TV조선",
+        "티비조선",
+        "조선일보",
+        "종편",
+        "종합편성",
+        "티브이조선",
+        "방송사",
+        "TV조선뉴스",
+        "뉴스",
+        "뉴스프로그램"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "collectedAt": "2025-08-21T10:28:52.949614Z"
+    },
+    "mpqE1aYnC-g": {
+      "videoId": "mpqE1aYnC-g",
+      "title": "PGA 배상문, 병역 '발등의 불'",
+      "description": "PGA 투어에서 활약하고 있는 배상문에게 병무청이 더 이상 입대를 연기해줄 수 없다는 뜻을 밝혔습니다.\r\n\r\n[Ch.19] 세상에 없는 TV 이제 시작합니다. \r\n★홈페이지 : www.tvchosun.com \r\n기사 더 보기 ▶ http://news.tvchosun.com/site/data/html_dir/2014/12/30/2014123090170.html",
+      "publishedAt": "2014-12-30T04:10:19Z",
+      "duration": "PT1M38S",
+      "viewCount": 205,
+      "likeCount": 1,
+      "commentCount": 0,
+      "tags": [
+        "TV조선",
+        "티비조선",
+        "조선일보",
+        "종편",
+        "종합편성",
+        "티브이조선",
+        "방송사",
+        "TV조선뉴스",
+        "뉴스",
+        "뉴스프로그램"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": "ko",
+      "defaultAudioLanguage": "ko",
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "collectedAt": "2025-08-21T10:28:52.949614Z"
+    },
+    "15Sm6_09XTI": {
+      "videoId": "15Sm6_09XTI",
+      "title": "전두환 부동산 경매 유찰…재산 환수 '빨간불'",
+      "description": "전두환 전 대통령 일가의 재산 환수 작업이 삐걱거리고 있습니다.\r\n\r\n[Ch.19] 세상에 없는 TV 이제 시작합니다. \r\n★홈페이지 : www.tvchosun.com \r\n기사 더 보기 ▶ http://news.tvchosun.com/site/data/html_dir/2014/12/30/2014123090156.html",
+      "publishedAt": "2014-12-30T02:51:42Z",
+      "duration": "PT1M44S",
+      "viewCount": 105,
+      "likeCount": 0,
+      "commentCount": 0,
+      "tags": [
+        "TV조선",
+        "티비조선",
+        "조선일보",
+        "종편",
+        "종합편성",
+        "티브이조선",
+        "방송사",
+        "TV조선뉴스",
+        "뉴스",
+        "뉴스프로그램"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "collectedAt": "2025-08-21T10:28:52.949614Z"
     }
   },
   "channels": {
@@ -187,9 +277,36 @@
       "viewCount": 336974518,
       "videoCount": 3965,
       "lastUpdated": "2025-08-20T11:40:06.267751Z"
+    },
+    "UCWlV3Lz_55UaX4JsMj-z__Q": {
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "channelUrl": "@tvchosunnews",
+      "channelDescription": "TV조선 뉴스 공식 YouTube 입니다.",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 2900000,
+      "viewCount": 4319423561,
+      "videoCount": 150855,
+      "lastUpdated": "2025-08-21T10:28:52.949614Z"
     }
   },
-  "lastUpdated": "2025-08-20T11:40:06.267751Z",
-  "totalVideos": 5,
-  "totalChannels": 2
+  "lastUpdated": "2025-08-21T10:28:52.959432Z",
+  "totalVideos": 8,
+  "totalChannels": 3
 }

@@ -201,6 +201,66 @@
       "channelId": "UCIMOytYIzaUpoAM2bpT4JZQ",
       "channelName": "KTV 국민방송",
       "collectedAt": "2025-08-20T11:40:05.506160Z"
+    },
+    "f5KrvDEi41k": {
+      "videoId": "f5KrvDEi41k",
+      "title": "이와중에 통진당 재등장…\"최순실 사태 이용\"",
+      "description": "촛불 정국을 타고 해산된 통합진보당이 고개를 내밀고 있습니다. 헌법재판소가 해산 결정을 하는데 청와대가 개입했다며 내란선동 혐의가 확정돼 복역중인 이석기 전 의원 석방까지 주장했습니다. 민주당 추미애 대표도 거들었는데, 헌법재판소는 이런 주장을 일축했습니다. 탄핵 결정도 헌법재판소가 할텐데, 그 결과도 문제삼을까요??\n\n\n[Ch.19] 세상에 없는 TV 이제 시작합니다. \n★홈페이지 : http://news.tvchosun.com/\n\n* 뉴스제보 : 이메일(tvchosun@chosun.com), 카카오톡(tv조선제보), 전화(1661-0190)",
+      "publishedAt": "2016-12-05T12:25:48Z",
+      "duration": "PT1M57S",
+      "viewCount": 475,
+      "likeCount": 3,
+      "commentCount": 6,
+      "tags": [
+        "TV조선",
+        "티비조선",
+        "조선일보",
+        "종편",
+        "종합편성",
+        "티브이조선",
+        "방송사",
+        "TV조선뉴스",
+        "뉴스",
+        "뉴스프로그램"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "collectedAt": "2025-08-21T10:28:35.450346Z"
+    },
+    "QRCibIDDfew": {
+      "videoId": "QRCibIDDfew",
+      "title": "최순실 연결고리 교수 \"정유라 출산 도우러 제주 갔다\"[TV조선 단독]",
+      "description": "최순실 일가의 주치의 역할을 한 순천향대병원 교수가 정유라 씨 출산을 돕기 위해 제주도에 갔던 것으로 확인됐습니다. 그 정도로 최씨 일가와 밀접했다는 건데,, 이 교수가 서병석 전 청와대 주치의와도 친분이 두터워, 비선 진료의 연결고리 역할을 했다는 의혹이 나옵니다. \n\n\n[Ch.19] 세상에 없는 TV 이제 시작합니다. \n★홈페이지 : http://news.tvchosun.com/\n\n* 뉴스제보 : 이메일(tvchosun@chosun.com), 카카오톡(tv조선제보), 전화(1661-0190)",
+      "publishedAt": "2016-12-05T12:25:48Z",
+      "duration": "PT1M50S",
+      "viewCount": 818,
+      "likeCount": 2,
+      "commentCount": 0,
+      "tags": [
+        "TV조선",
+        "티비조선",
+        "조선일보",
+        "종편",
+        "종합편성",
+        "티브이조선",
+        "방송사",
+        "TV조선뉴스",
+        "뉴스",
+        "뉴스프로그램"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "collectedAt": "2025-08-21T10:28:35.450346Z"
     }
   },
   "channels": {
@@ -257,9 +317,36 @@
       "viewCount": 496166667,
       "videoCount": 25206,
       "lastUpdated": "2025-08-20T11:40:05.506062Z"
+    },
+    "UCWlV3Lz_55UaX4JsMj-z__Q": {
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "channelUrl": "@tvchosunnews",
+      "channelDescription": "TV조선 뉴스 공식 YouTube 입니다.",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 2900000,
+      "viewCount": 4319423561,
+      "videoCount": 150855,
+      "lastUpdated": "2025-08-21T10:28:35.449367Z"
     }
   },
-  "lastUpdated": "2025-08-20T11:40:05.506160Z",
-  "totalVideos": 7,
-  "totalChannels": 2
+  "lastUpdated": "2025-08-21T10:28:35.451343Z",
+  "totalVideos": 9,
+  "totalChannels": 3
 }

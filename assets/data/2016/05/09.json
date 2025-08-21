@@ -449,6 +449,96 @@
       "channelId": "UCIMOytYIzaUpoAM2bpT4JZQ",
       "channelName": "KTV 국민방송",
       "collectedAt": "2025-08-20T11:40:13.877408Z"
+    },
+    "EWUbpJnhCdA": {
+      "videoId": "EWUbpJnhCdA",
+      "title": "北, BBC 기자 추방…\"피둥피둥 살찐 김정은\" 보도에 격노?",
+      "description": "이젠 외신 기자들이 취재차 평양에 가는 걸 다시 생각할 듯합니다. 북한이 당 대회 취재를 위해 평양을 방문한 BBC 기자를 8시간 동안 억류해 조사를 벌인 뒤, 추방했습니다. 보도가 마음에 들지 않는다는 이유였습니다. \n\n[Ch.19] 세상에 없는 TV 이제 시작합니다. \n★홈페이지 : http://news.tvchosun.com/",
+      "publishedAt": "2016-05-09T13:39:30Z",
+      "duration": "PT1M52S",
+      "viewCount": 612,
+      "likeCount": 1,
+      "commentCount": 0,
+      "tags": [
+        "TV조선",
+        "티비조선",
+        "조선일보",
+        "종편",
+        "종합편성",
+        "티브이조선",
+        "방송사",
+        "TV조선뉴스",
+        "뉴스",
+        "뉴스프로그램"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "collectedAt": "2025-08-21T10:28:38.032175Z"
+    },
+    "z20IdVtxAoM": {
+      "videoId": "z20IdVtxAoM",
+      "title": "김정은 하룻밤 와인 10병 마셨다더라..",
+      "description": "'김정일의 요리사'로 잘 알려진 후지모토 겐지가 지난달 방북해 김정은을 만났다고 월간중앙이 보도했습니다. 후지모토 겐지는 알려진 것과 달리 김정은의 여동생 김여정은 아직 미혼이라고 주장했습니다. \n\n[Ch.19] 세상에 없는 TV 이제 시작합니다. \n★홈페이지 : http://news.tvchosun.com/",
+      "publishedAt": "2016-05-09T00:43:54Z",
+      "duration": "PT1M12S",
+      "viewCount": 2526,
+      "likeCount": 8,
+      "commentCount": 3,
+      "tags": [
+        "TV조선",
+        "티비조선",
+        "조선일보",
+        "종편",
+        "종합편성",
+        "티브이조선",
+        "방송사",
+        "TV조선뉴스",
+        "뉴스",
+        "뉴스프로그램"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "collectedAt": "2025-08-21T10:28:38.032175Z"
+    },
+    "PKGzUXdA7qY": {
+      "videoId": "PKGzUXdA7qY",
+      "title": "한미 연합훈련 기간에 간부들이 술판",
+      "description": "북한의 군사적 위협이 고조되던 지난 3월, 역대 최대 규모의 한미 연합 상륙 훈련이 실시됐습니다. 그런데, 군 간부들이 훈련 현지에서 술판을 벌인 사실이 확인됐습니다. 해군 준위와 부사관 등 15명이 부대 안밖에서 세 차례나 술을 마셨습니다. \n\n[Ch.19] 세상에 없는 TV 이제 시작합니다. \n★홈페이지 : http://news.tvchosun.com/",
+      "publishedAt": "2016-05-09T13:39:32Z",
+      "duration": "PT1M55S",
+      "viewCount": 1259,
+      "likeCount": 5,
+      "commentCount": 2,
+      "tags": [
+        "TV조선",
+        "티비조선",
+        "조선일보",
+        "종편",
+        "종합편성",
+        "티브이조선",
+        "방송사",
+        "TV조선뉴스",
+        "뉴스",
+        "뉴스프로그램"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "collectedAt": "2025-08-21T10:28:38.032175Z"
     }
   },
   "channels": {
@@ -478,9 +568,36 @@
       "viewCount": 496166667,
       "videoCount": 25206,
       "lastUpdated": "2025-08-20T11:40:13.876410Z"
+    },
+    "UCWlV3Lz_55UaX4JsMj-z__Q": {
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "channelUrl": "@tvchosunnews",
+      "channelDescription": "TV조선 뉴스 공식 YouTube 입니다.",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 2900000,
+      "viewCount": 4319423561,
+      "videoCount": 150855,
+      "lastUpdated": "2025-08-21T10:28:38.030109Z"
     }
   },
-  "lastUpdated": "2025-08-20T11:40:13.877408Z",
-  "totalVideos": 15,
-  "totalChannels": 1
+  "lastUpdated": "2025-08-21T10:28:38.032706Z",
+  "totalVideos": 18,
+  "totalChannels": 2
 }

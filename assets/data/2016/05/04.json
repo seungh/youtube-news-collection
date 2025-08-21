@@ -112,6 +112,96 @@
       "channelId": "UCIMOytYIzaUpoAM2bpT4JZQ",
       "channelName": "KTV 국민방송",
       "collectedAt": "2025-08-20T11:40:17.277020Z"
+    },
+    "AbvrlGPe9yY": {
+      "videoId": "AbvrlGPe9yY",
+      "title": "터키 의회 '면책 특권 제한' 집단 난투극",
+      "description": "터키 의회에서 여당과 야당 의원 수십명이 뒤엉켜 집단 난투극이 벌어졌습니다. 국회의원 불체포 특권 폐지 법안 때문인데요. 엄청난 규모의 폭력사태는 그대로 TV에 생중계 됐습니다. \n\n\n[Ch.19] 세상에 없는 TV 이제 시작합니다. \n★홈페이지 : http://news.tvchosun.com/",
+      "publishedAt": "2016-05-04T00:52:57Z",
+      "duration": "PT1M38S",
+      "viewCount": 241,
+      "likeCount": 2,
+      "commentCount": 0,
+      "tags": [
+        "TV조선",
+        "티비조선",
+        "조선일보",
+        "종편",
+        "종합편성",
+        "티브이조선",
+        "방송사",
+        "TV조선뉴스",
+        "뉴스",
+        "뉴스프로그램"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "collectedAt": "2025-08-21T10:29:11.428090Z"
+    },
+    "EBmbK3XC75Q": {
+      "videoId": "EBmbK3XC75Q",
+      "title": "시신 토막 내고 화로에…獨 '악마적 살인'",
+      "description": "독일 한 40대 남성이 여성을 두명을 집에 가둔 채 장기간 학대 끝에 살해한 사건이 벌어졌습니다. 게다가 시신까지 훼손해 화로에 태운 정황까지 드러나면서 독일이 발칵 뒤집혔습니다. \n\n\n[Ch.19] 세상에 없는 TV 이제 시작합니다. \n★홈페이지 : http://news.tvchosun.com/",
+      "publishedAt": "2016-05-04T00:52:57Z",
+      "duration": "PT1M31S",
+      "viewCount": 157824,
+      "likeCount": 465,
+      "commentCount": 58,
+      "tags": [
+        "TV조선",
+        "티비조선",
+        "조선일보",
+        "종편",
+        "종합편성",
+        "티브이조선",
+        "방송사",
+        "TV조선뉴스",
+        "뉴스",
+        "뉴스프로그램"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "collectedAt": "2025-08-21T10:29:11.428090Z"
+    },
+    "9WNSFStC7hY": {
+      "videoId": "9WNSFStC7hY",
+      "title": "존슨앤존슨 파우더, 난소암 유발…美 법원 620억원 배상",
+      "description": "미 연방법원이 미국 존슨앤존슨 파우더 제품의 난소암 유발 가능성을 인정하고, 620억원을 배상하라 판결했습니다. 해당 파우더는 우리나라에서도 판매되고 있는 제품으로, 관련 유사소송이 잇따를 것으로 전망됩니다. \n\n[Ch.19] 세상에 없는 TV 이제 시작합니다. \n★홈페이지 : http://news.tvchosun.com/",
+      "publishedAt": "2016-05-04T00:52:57Z",
+      "duration": "PT1M48S",
+      "viewCount": 247,
+      "likeCount": 1,
+      "commentCount": 0,
+      "tags": [
+        "TV조선",
+        "티비조선",
+        "조선일보",
+        "종편",
+        "종합편성",
+        "티브이조선",
+        "방송사",
+        "TV조선뉴스",
+        "뉴스",
+        "뉴스프로그램"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "collectedAt": "2025-08-21T10:29:11.428090Z"
     }
   },
   "channels": {
@@ -141,9 +231,36 @@
       "viewCount": 496166667,
       "videoCount": 25206,
       "lastUpdated": "2025-08-20T11:40:17.276022Z"
+    },
+    "UCWlV3Lz_55UaX4JsMj-z__Q": {
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "channelUrl": "@tvchosunnews",
+      "channelDescription": "TV조선 뉴스 공식 YouTube 입니다.",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 2900000,
+      "viewCount": 4319423561,
+      "videoCount": 150855,
+      "lastUpdated": "2025-08-21T10:29:11.427557Z"
     }
   },
-  "lastUpdated": "2025-08-20T11:40:17.277020Z",
-  "totalVideos": 4,
-  "totalChannels": 1
+  "lastUpdated": "2025-08-21T10:29:11.428090Z",
+  "totalVideos": 7,
+  "totalChannels": 2
 }

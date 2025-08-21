@@ -283,6 +283,96 @@
       "channelId": "UCIMOytYIzaUpoAM2bpT4JZQ",
       "channelName": "KTV 국민방송",
       "collectedAt": "2025-08-20T11:38:50.729195Z"
+    },
+    "23ppP4Pyyr4": {
+      "videoId": "23ppP4Pyyr4",
+      "title": "'혼란의 쓰나미'…한진해운 직격탄 맞은 부산 '휘청' [판 포커스]",
+      "description": "조금 전 법원이 한진해운에 대한 법정관리 개시를 결정했습니다. 이 여파로 부산 경제가 휘청거리고 있습니다. 부산항에 한진해운 선박이 입항을 못하면서, 관련 업체가 직격탄을 맞았고, 대규모 실업 사태도 우려됩니다. \n\n\n[Ch.19] 세상에 없는 TV 이제 시작합니다. \n★홈페이지 : http://news.tvchosun.com/",
+      "publishedAt": "2016-09-02T02:03:51Z",
+      "duration": "PT2M4S",
+      "viewCount": 847,
+      "likeCount": 1,
+      "commentCount": 0,
+      "tags": [
+        "TV조선",
+        "티비조선",
+        "조선일보",
+        "종편",
+        "종합편성",
+        "티브이조선",
+        "방송사",
+        "TV조선뉴스",
+        "뉴스",
+        "뉴스프로그램"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "collectedAt": "2025-08-21T10:28:31.687333Z"
+    },
+    "AVmg3xBV2pY": {
+      "videoId": "AVmg3xBV2pY",
+      "title": "\"퇴비 냄새난다\"…이해찬 민원 논란",
+      "description": "무소속 이해찬 의원이 자신의 집근처 농민의 밭에서 퇴비 냄새가 난다며 민원을 제기하자 부시장까지 나서 퇴비를 몽땅 제거하면서 논란에 휩싸였습니다. \n\n[Ch.19] 세상에 없는 TV 이제 시작합니다. \n★홈페이지 : http://news.tvchosun.com/",
+      "publishedAt": "2016-09-02T06:38:23Z",
+      "duration": "PT1M27S",
+      "viewCount": 937,
+      "likeCount": 8,
+      "commentCount": 5,
+      "tags": [
+        "TV조선",
+        "티비조선",
+        "조선일보",
+        "종편",
+        "종합편성",
+        "티브이조선",
+        "방송사",
+        "TV조선뉴스",
+        "뉴스",
+        "뉴스프로그램"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": "ko",
+      "defaultAudioLanguage": "ko",
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "collectedAt": "2025-08-21T10:28:31.687333Z"
+    },
+    "g0KjNMw52WI": {
+      "videoId": "g0KjNMw52WI",
+      "title": "北 폭우에 5층 아파트 붕괴…北·中 접경도 물난리",
+      "description": "[앵커]\n북한에 태풍으로 물난리가 났습니다. 날림으로 공사한 아파트가 무너져 사상자 80여명이 났고, 시신은 속수무책 떠내려가고 있다고 전해집니다. \n\n[Ch.19] 세상에 없는 TV 이제 시작합니다. \n★홈페이지 : http://news.tvchosun.com/",
+      "publishedAt": "2016-09-01T23:26:24Z",
+      "duration": "PT1M29S",
+      "viewCount": 10298,
+      "likeCount": 29,
+      "commentCount": 2,
+      "tags": [
+        "TV조선",
+        "티비조선",
+        "조선일보",
+        "종편",
+        "종합편성",
+        "티브이조선",
+        "방송사",
+        "TV조선뉴스",
+        "뉴스",
+        "뉴스프로그램"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": "ko",
+      "defaultAudioLanguage": "ko",
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "collectedAt": "2025-08-21T10:28:31.687333Z"
     }
   },
   "channels": {
@@ -366,9 +456,36 @@
       "viewCount": 496166667,
       "videoCount": 25206,
       "lastUpdated": "2025-08-20T11:38:50.729195Z"
+    },
+    "UCWlV3Lz_55UaX4JsMj-z__Q": {
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "channelUrl": "@tvchosunnews",
+      "channelDescription": "TV조선 뉴스 공식 YouTube 입니다.",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 2900000,
+      "viewCount": 4319423561,
+      "videoCount": 150855,
+      "lastUpdated": "2025-08-21T10:28:31.685088Z"
     }
   },
-  "lastUpdated": "2025-08-20T11:38:50.729195Z",
-  "totalVideos": 10,
-  "totalChannels": 3
+  "lastUpdated": "2025-08-21T10:28:31.690601Z",
+  "totalVideos": 13,
+  "totalChannels": 4
 }

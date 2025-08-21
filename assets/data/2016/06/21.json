@@ -142,6 +142,36 @@
       "channelId": "UCIMOytYIzaUpoAM2bpT4JZQ",
       "channelName": "KTV 국민방송",
       "collectedAt": "2025-08-20T11:38:51.444491Z"
+    },
+    "TmcEhTKdCF8": {
+      "videoId": "TmcEhTKdCF8",
+      "title": "헤어 스프레이속 유해물질…흡입독성 우려 [판 포커스]",
+      "description": "머리를 손질하면서 헤어스프레이 많이 사용하시죠. 그런데, 헤어스프레이를 뿌린 뒤 측정을 해보니 발암물질인 폼알데하이드 등 유해물질들이 검출되는 것으로 나타났습니다. 헤어스프레이가 내뿜는 초미세입자는 폐에 침투해 심하면 폐암을 유발할 위험이 있습니다. \n\n[Ch.19] 세상에 없는 TV 이제 시작합니다. \n★홈페이지 : http://news.tvchosun.com/",
+      "publishedAt": "2016-06-21T12:52:27Z",
+      "duration": "PT1M51S",
+      "viewCount": 3264,
+      "likeCount": 25,
+      "commentCount": 3,
+      "tags": [
+        "TV조선",
+        "티비조선",
+        "조선일보",
+        "종편",
+        "종합편성",
+        "티브이조선",
+        "방송사",
+        "TV조선뉴스",
+        "뉴스",
+        "뉴스프로그램"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "collectedAt": "2025-08-21T10:28:32.008502Z"
     }
   },
   "channels": {
@@ -225,9 +255,36 @@
       "viewCount": 496166667,
       "videoCount": 25206,
       "lastUpdated": "2025-08-20T11:38:51.442202Z"
+    },
+    "UCWlV3Lz_55UaX4JsMj-z__Q": {
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "channelUrl": "@tvchosunnews",
+      "channelDescription": "TV조선 뉴스 공식 YouTube 입니다.",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 2900000,
+      "viewCount": 4319423561,
+      "videoCount": 150855,
+      "lastUpdated": "2025-08-21T10:28:31.942698Z"
     }
   },
-  "lastUpdated": "2025-08-20T11:38:51.444491Z",
-  "totalVideos": 5,
-  "totalChannels": 3
+  "lastUpdated": "2025-08-21T10:28:32.012503Z",
+  "totalVideos": 6,
+  "totalChannels": 4
 }

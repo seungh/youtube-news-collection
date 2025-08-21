@@ -257,6 +257,96 @@
       "channelId": "UCIMOytYIzaUpoAM2bpT4JZQ",
       "channelName": "KTV 국민방송",
       "collectedAt": "2025-08-20T11:40:07.284972Z"
+    },
+    "cj0FhUK7V6k": {
+      "videoId": "cj0FhUK7V6k",
+      "title": "\"최룡해 조카 '보이스피싱' 혐의로 구속\"",
+      "description": "최룡해 북한 노동당 비서의 조카가 한국에서 보이스피싱 사기 혐의로 구속된 것으로 알려졌습니다. 최근 북중 관계 악화로 사업에 어려움을 겪자 보이스피싱 사기를 저지른 것으로 알려졌습니다. \n\n\n[Ch.19] 세상에 없는 TV 이제 시작합니다. \n★홈페이지 : www.tvchosun.com \n기사 더 보기 ▶ http://news.tvchosun.com/site/data/html_dir/2015/07/08/2015070890009.html",
+      "publishedAt": "2015-07-08T05:31:33Z",
+      "duration": "PT1M29S",
+      "viewCount": 302,
+      "likeCount": 0,
+      "commentCount": 0,
+      "tags": [
+        "TV조선",
+        "티비조선",
+        "조선일보",
+        "종편",
+        "종합편성",
+        "티브이조선",
+        "방송사",
+        "TV조선뉴스",
+        "뉴스",
+        "뉴스프로그램"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "collectedAt": "2025-08-21T10:28:47.771549Z"
+    },
+    "lAMGGvyh1Cc": {
+      "videoId": "lAMGGvyh1Cc",
+      "title": "소녀시대 컴백…'걸그룹 파티' 시작됐다",
+      "description": "걸그룹 소녀시대가 돌아왔습니다. 명성답게 돌아오자마자, 음원 차트를 휩쓸고 있습니다.\n\n[Ch.19] 세상에 없는 TV 이제 시작합니다. \n★홈페이지 : www.tvchosun.com \n기사 더 보기 ▶ http://news.tvchosun.com/site/data/html_dir/2015/07/08/2015070890231.html",
+      "publishedAt": "2015-07-08T14:10:08Z",
+      "duration": "PT1M1S",
+      "viewCount": 1394,
+      "likeCount": 16,
+      "commentCount": 0,
+      "tags": [
+        "TV조선",
+        "티비조선",
+        "조선일보",
+        "종편",
+        "종합편성",
+        "티브이조선",
+        "방송사",
+        "TV조선뉴스",
+        "뉴스",
+        "뉴스프로그램"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "collectedAt": "2025-08-21T10:28:47.771549Z"
+    },
+    "gbH1cjHfr6o": {
+      "videoId": "gbH1cjHfr6o",
+      "title": "몸은 하나, 심장은 여러개…국산차 '다지선다' 수입차 맞불",
+      "description": "국내 자동차 업계가 하나의 차종에 여러 가지 엔진을 얹어 소비자 선택의 폭을 넓히고 있습니다. \"원하는 건 다 만들어 놓을테니, 다른 데 가지 말고 이 안에서 골라보라\"는 전략입니다. \n\n\n[Ch.19] 세상에 없는 TV 이제 시작합니다. \n★홈페이지 : www.tvchosun.com \n기사 더 보기 ▶http://news.tvchosun.com/site/data/html_dir/2015/07/08/2015070890062.html",
+      "publishedAt": "2015-07-08T05:31:33Z",
+      "duration": "PT1M40S",
+      "viewCount": 132,
+      "likeCount": 0,
+      "commentCount": 0,
+      "tags": [
+        "TV조선",
+        "티비조선",
+        "조선일보",
+        "종편",
+        "종합편성",
+        "티브이조선",
+        "방송사",
+        "TV조선뉴스",
+        "뉴스",
+        "뉴스프로그램"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "collectedAt": "2025-08-21T10:28:47.771549Z"
     }
   },
   "channels": {
@@ -313,9 +403,36 @@
       "viewCount": 496166667,
       "videoCount": 25206,
       "lastUpdated": "2025-08-20T11:40:07.283973Z"
+    },
+    "UCWlV3Lz_55UaX4JsMj-z__Q": {
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "channelUrl": "@tvchosunnews",
+      "channelDescription": "TV조선 뉴스 공식 YouTube 입니다.",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 2900000,
+      "viewCount": 4319423561,
+      "videoCount": 150855,
+      "lastUpdated": "2025-08-21T10:28:47.767545Z"
     }
   },
-  "lastUpdated": "2025-08-20T11:40:07.284972Z",
-  "totalVideos": 9,
-  "totalChannels": 2
+  "lastUpdated": "2025-08-21T10:28:47.771549Z",
+  "totalVideos": 12,
+  "totalChannels": 3
 }

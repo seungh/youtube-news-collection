@@ -274,6 +274,66 @@
       "channelId": "UCIMOytYIzaUpoAM2bpT4JZQ",
       "channelName": "KTV 국민방송",
       "collectedAt": "2025-08-20T11:40:09.410926Z"
+    },
+    "u2Yjf9ueRnw": {
+      "videoId": "u2Yjf9ueRnw",
+      "title": "보수 이념영화 또 시끌…다시 한 번 이변?",
+      "description": "이념적으로 보수 냄새가 나는 영화는 흥행에 참배한다 이런 영화계 불문율을, 얼마전에 '국제시장'이 산산조각냈는데. 이번엔 영화 '연평 해전'이 극장가에서 돌풍을 일으키면서, 영화계의 불문률을 또 깨고 있습니다. \n\n[Ch.19] 세상에 없는 TV 이제 시작합니다. \n★홈페이지 : www.tvchosun.com \n기사 더 보기 ▶ http://news.tvchosun.com/site/data/html_dir/2015/06/26/2015062690285.html",
+      "publishedAt": "2015-06-26T13:57:05Z",
+      "duration": "PT1M42S",
+      "viewCount": 1993,
+      "likeCount": 16,
+      "commentCount": 3,
+      "tags": [
+        "TV조선",
+        "티비조선",
+        "조선일보",
+        "종편",
+        "종합편성",
+        "티브이조선",
+        "방송사",
+        "TV조선뉴스",
+        "뉴스",
+        "뉴스프로그램"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "collectedAt": "2025-08-21T10:28:47.994546Z"
+    },
+    "9TQsXKebUpQ": {
+      "videoId": "9TQsXKebUpQ",
+      "title": "최진행·강수일·곽유화 '도핑 양성'…\"금지 약물 홍역\"",
+      "description": "[앵커]\n프로야구 한화 최진행이 도핑 테스트에서 양성 반응을 보여 중징계를 받았습니다. 앞서 프로축구 제주 유나이티드 강수일과, 여자 프로배구 흥국생명 곽유화가 금지약물이 검출돼 징계를 받는 등. 한국 프로스포츠가 금지약물로 홍역을 앓고 있습니다. \n\n[Ch.19] 세상에 없는 TV 이제 시작합니다. \n★홈페이지 : www.tvchosun.com \n기사 더 보기 ▶ http://news.tvchosun.com/site/data/html_dir/2015/06/26/2015062690049.html",
+      "publishedAt": "2015-06-25T22:44:46Z",
+      "duration": "PT1M50S",
+      "viewCount": 627,
+      "likeCount": 3,
+      "commentCount": 2,
+      "tags": [
+        "TV조선",
+        "티비조선",
+        "조선일보",
+        "종편",
+        "종합편성",
+        "티브이조선",
+        "방송사",
+        "TV조선뉴스",
+        "뉴스",
+        "뉴스프로그램"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "collectedAt": "2025-08-21T10:28:47.994546Z"
     }
   },
   "channels": {
@@ -330,9 +390,36 @@
       "viewCount": 496166667,
       "videoCount": 25206,
       "lastUpdated": "2025-08-20T11:40:09.409128Z"
+    },
+    "UCWlV3Lz_55UaX4JsMj-z__Q": {
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "channelUrl": "@tvchosunnews",
+      "channelDescription": "TV조선 뉴스 공식 YouTube 입니다.",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 2900000,
+      "viewCount": 4319423561,
+      "videoCount": 150855,
+      "lastUpdated": "2025-08-21T10:28:47.992040Z"
     }
   },
-  "lastUpdated": "2025-08-20T11:40:09.410926Z",
-  "totalVideos": 10,
-  "totalChannels": 2
+  "lastUpdated": "2025-08-21T10:28:47.994546Z",
+  "totalVideos": 12,
+  "totalChannels": 3
 }

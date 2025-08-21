@@ -208,6 +208,96 @@
       "channelId": "UCIMOytYIzaUpoAM2bpT4JZQ",
       "channelName": "KTV 국민방송",
       "collectedAt": "2025-08-20T11:40:09.624367Z"
+    },
+    "tIsau6gBvGs": {
+      "videoId": "tIsau6gBvGs",
+      "title": "가정의 달 연극 '아버지' 인기",
+      "description": "[앵커]\n어버이날, 우리 아버지들의 고민과 애환을 담은 연극 한편이 진한 감동을  주고 있습니다. 아서 밀러의 '세일즈맨의 죽음'을 각색한 연극 '아버지'가 2년만에 서울 무대에 다시 올랐습니다.\n\n[Ch.19] 세상에 없는 TV 이제 시작합니다. \n★홈페이지 : www.tvchosun.com \n기사 더 보기 ▶ http://news.tvchosun.com/site/data/html_dir/2015/05/08/2015050890288.html",
+      "publishedAt": "2015-05-08T14:15:33Z",
+      "duration": "PT1M35S",
+      "viewCount": 844,
+      "likeCount": 2,
+      "commentCount": 0,
+      "tags": [
+        "TV조선",
+        "티비조선",
+        "조선일보",
+        "종편",
+        "종합편성",
+        "티브이조선",
+        "방송사",
+        "TV조선뉴스",
+        "뉴스",
+        "뉴스프로그램"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "collectedAt": "2025-08-21T10:29:04.675532Z"
+    },
+    "jjDDBMzo8Bk": {
+      "videoId": "jjDDBMzo8Bk",
+      "title": "'효녀 가수' 현숙, 12번째 목욕차량 기증",
+      "description": "효녀가수 현숙씨가 어버이날을 맞아 4000만원이 넘는 목욕차량을 어르신들에게 기증했습니다. YG는 싸이와 갈등을 겪는 세입자에게 중재안을 건넸다고 합니다. \n\n\n[Ch.19] 세상에 없는 TV 이제 시작합니다. \n★홈페이지 : www.tvchosun.com \n기사 더 보기 ▶ http://news.tvchosun.com/site/data/html_dir/2015/05/08/2015050890132.html",
+      "publishedAt": "2015-05-08T05:59:41Z",
+      "duration": "PT1M33S",
+      "viewCount": 202,
+      "likeCount": 0,
+      "commentCount": 0,
+      "tags": [
+        "TV조선",
+        "티비조선",
+        "조선일보",
+        "종편",
+        "종합편성",
+        "티브이조선",
+        "방송사",
+        "TV조선뉴스",
+        "뉴스",
+        "뉴스프로그램"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "collectedAt": "2025-08-21T10:29:04.675828Z"
+    },
+    "Urx1JipL2Jc": {
+      "videoId": "Urx1JipL2Jc",
+      "title": "'삼성공장·美 기지 이전' 호재에 평택 부동산 '들썩",
+      "description": "평택 부동산 시장이 들썩이고 있습니다. 삼성전자 반도체 공장 착공에 이어 주한 미군기지 이전 등 개발 호재가 잇따라 겹친 탓입니다. \n\n[Ch.19] 세상에 없는 TV 이제 시작합니다. \n★홈페이지 : www.tvchosun.com \n기사 더 보기 ▶ http://news.tvchosun.com/site/data/html_dir/2015/05/08/2015050890124.html",
+      "publishedAt": "2015-05-08T05:59:41Z",
+      "duration": "PT1M20S",
+      "viewCount": 2444,
+      "likeCount": 0,
+      "commentCount": 0,
+      "tags": [
+        "TV조선",
+        "티비조선",
+        "조선일보",
+        "종편",
+        "종합편성",
+        "티브이조선",
+        "방송사",
+        "TV조선뉴스",
+        "뉴스",
+        "뉴스프로그램"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "collectedAt": "2025-08-21T10:29:04.675828Z"
     }
   },
   "channels": {
@@ -264,9 +354,36 @@
       "viewCount": 496166667,
       "videoCount": 25206,
       "lastUpdated": "2025-08-20T11:40:09.624367Z"
+    },
+    "UCWlV3Lz_55UaX4JsMj-z__Q": {
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "channelUrl": "@tvchosunnews",
+      "channelDescription": "TV조선 뉴스 공식 YouTube 입니다.",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 2900000,
+      "viewCount": 4319423561,
+      "videoCount": 150855,
+      "lastUpdated": "2025-08-21T10:29:04.674101Z"
     }
   },
-  "lastUpdated": "2025-08-20T11:40:09.624367Z",
-  "totalVideos": 7,
-  "totalChannels": 2
+  "lastUpdated": "2025-08-21T10:29:04.675828Z",
+  "totalVideos": 10,
+  "totalChannels": 3
 }

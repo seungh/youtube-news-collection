@@ -139,6 +139,96 @@
       "channelId": "UCNJM6dqu70Qr6VaseiW1Org",
       "channelName": "이재명",
       "collectedAt": "2025-08-20T11:40:06.221490Z"
+    },
+    "WNCkxUrBTUQ": {
+      "videoId": "WNCkxUrBTUQ",
+      "title": "박근혜 대통령 지지율 35%…집권 후 최저치",
+      "description": "박근혜 대통령의 지지율이 집권 이후 최저치로까지 떨어졌습니다. 정윤회 문건 파문부터 썩 만족스럽지 않았던 신년 기자 회견, 여기에 씁쓸함을 안겨준 김무성 대표 수첩 K·Y 해프닝까지, 이런 것들이 쌓인 결과물로 보여집니다.\n\n[Ch.19] 세상에 없는 TV 이제 시작합니다. \n★홈페이지 : www.tvchosun.com \n기사 더 보기 ▶ http://news.tvchosun.com/site/data/html_dir/2015/01/16/2015011690322.html",
+      "publishedAt": "2015-01-16T14:01:46Z",
+      "duration": "PT3M35S",
+      "viewCount": 191,
+      "likeCount": 2,
+      "commentCount": 0,
+      "tags": [
+        "TV조선",
+        "티비조선",
+        "조선일보",
+        "종편",
+        "종합편성",
+        "티브이조선",
+        "방송사",
+        "TV조선뉴스",
+        "뉴스",
+        "뉴스프로그램"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "collectedAt": "2025-08-21T10:28:52.433143Z"
+    },
+    "pTsv6a2-1b0": {
+      "videoId": "pTsv6a2-1b0",
+      "title": "싸이, 3년 연속 뮤직비디오 1위",
+      "description": "싸이의 뮤직 비디오 '행오버' 가 지난해 미국에서 가장 많이 본 K팝 뮤직 비디오로 선정됐습니다. '강남 스타일'에 이어 3년 연속 정상을 차지했습니다. \n\n[Ch.19] 세상에 없는 TV 이제 시작합니다. \n★홈페이지 : www.tvchosun.com \n기사 더 보기 ▶ http://news.tvchosun.com/site/data/html_dir/2015/01/16/2015011690358.html",
+      "publishedAt": "2015-01-16T14:01:46Z",
+      "duration": "PT1M23S",
+      "viewCount": 663,
+      "likeCount": 7,
+      "commentCount": 0,
+      "tags": [
+        "TV조선",
+        "티비조선",
+        "조선일보",
+        "종편",
+        "종합편성",
+        "티브이조선",
+        "방송사",
+        "TV조선뉴스",
+        "뉴스",
+        "뉴스프로그램"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "collectedAt": "2025-08-21T10:28:52.433143Z"
+    },
+    "ITkX4gurHjQ": {
+      "videoId": "ITkX4gurHjQ",
+      "title": "새해부터 시끄러운 연예계 '진실공방'",
+      "description": "새해 초부터 연예계가 시끌시끌합니다. 한류 스타들도 다수 포함되어 있어 팬들의 마음은 안타깝다고 하는데 진실 공방에 휩싸인 연예계, 김정재 기자입니다. \n\n[Ch.19] 세상에 없는 TV 이제 시작합니다. \n★홈페이지 : www.tvchosun.com \n기사 더 보기 ▶ http://news.tvchosun.com/site/data/html_dir/2015/01/16/2015011690356.html",
+      "publishedAt": "2015-01-16T14:01:46Z",
+      "duration": "PT1M40S",
+      "viewCount": 126,
+      "likeCount": 0,
+      "commentCount": 0,
+      "tags": [
+        "TV조선",
+        "티비조선",
+        "조선일보",
+        "종편",
+        "종합편성",
+        "티브이조선",
+        "방송사",
+        "TV조선뉴스",
+        "뉴스",
+        "뉴스프로그램"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "collectedAt": "2025-08-21T10:28:52.433143Z"
     }
   },
   "channels": {
@@ -195,9 +285,36 @@
       "viewCount": 336974518,
       "videoCount": 3965,
       "lastUpdated": "2025-08-20T11:40:06.221490Z"
+    },
+    "UCWlV3Lz_55UaX4JsMj-z__Q": {
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "channelUrl": "@tvchosunnews",
+      "channelDescription": "TV조선 뉴스 공식 YouTube 입니다.",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 2900000,
+      "viewCount": 4319423561,
+      "videoCount": 150855,
+      "lastUpdated": "2025-08-21T10:28:52.432618Z"
     }
   },
-  "lastUpdated": "2025-08-20T11:40:06.221490Z",
-  "totalVideos": 5,
-  "totalChannels": 2
+  "lastUpdated": "2025-08-21T10:28:52.437952Z",
+  "totalVideos": 8,
+  "totalChannels": 3
 }

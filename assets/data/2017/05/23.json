@@ -485,6 +485,96 @@
       "channelId": "UCIMOytYIzaUpoAM2bpT4JZQ",
       "channelName": "KTV 국민방송",
       "collectedAt": "2025-08-20T11:40:16.814107Z"
+    },
+    "-xF-hEmaQhA": {
+      "videoId": "-xF-hEmaQhA",
+      "title": "대통령에서 503번으로 [판 포커스]",
+      "description": "박근혜 전 대통령은 오늘 재직 시절 해외 순방 때 입은 검은 재킷 차림으로 법정에 섰습니다. 늘 고수하던 올림머리는 스스로 손질하고 나왔습니다. 박 전 대통령도 최순실도 1년새 달라진 처지만큼, 모습도 변했습니다. 판 포커스입니다.\n\n[Ch.19] 세상에 없는 TV 이제 시작합니다. \n★홈페이지 : http://news.tvchosun.com/\n\n* 뉴스제보 : 이메일(tvchosun@chosun.com), 카카오톡(tv조선제보), 전화(1661-0190)",
+      "publishedAt": "2017-05-23T13:34:11Z",
+      "duration": "PT2M48S",
+      "viewCount": 11407,
+      "likeCount": 50,
+      "commentCount": 8,
+      "tags": [
+        "TV조선",
+        "티비조선",
+        "조선일보",
+        "종편",
+        "종합편성",
+        "티브이조선",
+        "방송사",
+        "TV조선뉴스",
+        "뉴스",
+        "뉴스프로그램"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "collectedAt": "2025-08-21T10:28:28.242742Z"
+    },
+    "iixCXY0JfAc": {
+      "videoId": "iixCXY0JfAc",
+      "title": "문재인 대통령, 교황에게 남북정상회담 중재 요청",
+      "description": "문재인 대통령이 프란시스코 교황에게 남북정상회담 중재를 요청하는 친서를 보낸 것으로 알려졌습니다. 북핵 위기 해결을 위해 교황청의 적극적인 지원을 요청한 겁니다. \n\n[Ch.19] 세상에 없는 TV 이제 시작합니다. \n★홈페이지 : http://news.tvchosun.com/\n\n* 뉴스제보 : 이메일(tvchosun@chosun.com), 카카오톡(tv조선제보), 전화(1661-0190)",
+      "publishedAt": "2017-05-22T22:53:39Z",
+      "duration": "PT1M33S",
+      "viewCount": 852,
+      "likeCount": 6,
+      "commentCount": 8,
+      "tags": [
+        "TV조선",
+        "티비조선",
+        "조선일보",
+        "종편",
+        "종합편성",
+        "티브이조선",
+        "방송사",
+        "TV조선뉴스",
+        "뉴스",
+        "뉴스프로그램"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "collectedAt": "2025-08-21T10:28:28.242742Z"
+    },
+    "3wNILsLx7JU": {
+      "videoId": "3wNILsLx7JU",
+      "title": "오늘부터 커제 vs 알파고 '세기의 대결'",
+      "description": "지난해 이세돌 9단과의 대결로 화제를 모았던 인공지능 알파고가, 이번엔 세계 랭킹 1위 중국의 커제와 맞붙습니다. TV조선은 오늘부터 대결을 생중계 합니다. \n\n\n[Ch.19] 세상에 없는 TV 이제 시작합니다. \n★홈페이지 : http://news.tvchosun.com/\n\n* 뉴스제보 : 이메일(tvchosun@chosun.com), 카카오톡(tv조선제보), 전화(1661-0190)",
+      "publishedAt": "2017-05-22T22:53:39Z",
+      "duration": "PT1M43S",
+      "viewCount": 1732,
+      "likeCount": 3,
+      "commentCount": 0,
+      "tags": [
+        "TV조선",
+        "티비조선",
+        "조선일보",
+        "종편",
+        "종합편성",
+        "티브이조선",
+        "방송사",
+        "TV조선뉴스",
+        "뉴스",
+        "뉴스프로그램"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "collectedAt": "2025-08-21T10:28:28.242742Z"
     }
   },
   "channels": {
@@ -514,9 +604,36 @@
       "viewCount": 496166667,
       "videoCount": 25206,
       "lastUpdated": "2025-08-20T11:40:16.813110Z"
+    },
+    "UCWlV3Lz_55UaX4JsMj-z__Q": {
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "channelUrl": "@tvchosunnews",
+      "channelDescription": "TV조선 뉴스 공식 YouTube 입니다.",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 2900000,
+      "viewCount": 4319423561,
+      "videoCount": 150855,
+      "lastUpdated": "2025-08-21T10:28:28.242742Z"
     }
   },
-  "lastUpdated": "2025-08-20T11:40:16.814107Z",
-  "totalVideos": 17,
-  "totalChannels": 1
+  "lastUpdated": "2025-08-21T10:28:28.242742Z",
+  "totalVideos": 20,
+  "totalChannels": 2
 }

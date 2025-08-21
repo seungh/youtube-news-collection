@@ -117,6 +117,66 @@
       "channelId": "UCIMOytYIzaUpoAM2bpT4JZQ",
       "channelName": "KTV 국민방송",
       "collectedAt": "2025-08-20T11:40:09.495624Z"
+    },
+    "l8PwrjxFdEY": {
+      "videoId": "l8PwrjxFdEY",
+      "title": "수키 김, TED강연서 \"북한은 전체가 강제수용소 같아\"",
+      "description": "평양에서 대학생들을 가르친 경험으로 북한의 실상을 알리는 책을 펴냈던 한국계 재미 작가 수키 김씨가 세계적인 강연 프로그램에 출연했습니다. 북한을 국가를 가장한 강제 수용소라며 강도높게 비판했습니다. \n\n[Ch.19] 세상에 없는 TV 이제 시작합니다. \n★홈페이지 : www.tvchosun.com \n기사 더 보기 ▶ http://news.tvchosun.com/site/data/html_dir/2015/06/10/2015061090332.html",
+      "publishedAt": "2015-06-10T14:11:11Z",
+      "duration": "PT1M43S",
+      "viewCount": 719,
+      "likeCount": 3,
+      "commentCount": 0,
+      "tags": [
+        "TV조선",
+        "티비조선",
+        "조선일보",
+        "종편",
+        "종합편성",
+        "티브이조선",
+        "방송사",
+        "TV조선뉴스",
+        "뉴스",
+        "뉴스프로그램"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "collectedAt": "2025-08-21T10:28:48.173216Z"
+    },
+    "-OWLPa1xUxM": {
+      "videoId": "-OWLPa1xUxM",
+      "title": "朴 대통령 방미 연기…\"국민 안전 챙기겠다\"",
+      "description": "tv조선 뉴스특보 2부 이어갑니다. 박근혜 대통령이 다음주로 예정된 미국 방문 일정을 전격 연기했습니다. 지금은 메르스 확산 방지에 총력을 다할 때라는 설명입니다.\n\n[Ch.19] 세상에 없는 TV 이제 시작합니다. \n★홈페이지 : www.tvchosun.com \n기사 더 보기 ▶ http://news.tvchosun.com/site/data/html_dir/2015/06/10/2015061090159.html",
+      "publishedAt": "2015-06-10T05:29:17Z",
+      "duration": "PT2M23S",
+      "viewCount": 90,
+      "likeCount": 0,
+      "commentCount": 0,
+      "tags": [
+        "TV조선",
+        "티비조선",
+        "조선일보",
+        "종편",
+        "종합편성",
+        "티브이조선",
+        "방송사",
+        "TV조선뉴스",
+        "뉴스",
+        "뉴스프로그램"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "collectedAt": "2025-08-21T10:28:48.173216Z"
     }
   },
   "channels": {
@@ -173,9 +233,36 @@
       "viewCount": 496166667,
       "videoCount": 25206,
       "lastUpdated": "2025-08-20T11:40:09.495624Z"
+    },
+    "UCWlV3Lz_55UaX4JsMj-z__Q": {
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "channelUrl": "@tvchosunnews",
+      "channelDescription": "TV조선 뉴스 공식 YouTube 입니다.",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 2900000,
+      "viewCount": 4319423561,
+      "videoCount": 150855,
+      "lastUpdated": "2025-08-21T10:28:48.171611Z"
     }
   },
-  "lastUpdated": "2025-08-20T11:40:09.496621Z",
-  "totalVideos": 4,
-  "totalChannels": 2
+  "lastUpdated": "2025-08-21T10:28:48.174218Z",
+  "totalVideos": 6,
+  "totalChannels": 3
 }

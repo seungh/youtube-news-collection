@@ -80,6 +80,96 @@
       "channelId": "UCIMOytYIzaUpoAM2bpT4JZQ",
       "channelName": "KTV 국민방송",
       "collectedAt": "2025-08-20T11:40:18.143353Z"
+    },
+    "XTogvxEh2qg": {
+      "videoId": "XTogvxEh2qg",
+      "title": "탈북자 대다수 여성...왜?",
+      "description": "이번에 체포된 탈북자들도 대부분 여성인데 지금까지의 탈북자들을 봐도 여자가 남자보다 훨씬 많습니다. 탈북자중에 여자가 이렇게 많은 이유를, 김동현 기자가 알려드립니다. \n\n[Ch.19] 세상에 없는 TV 이제 시작합니다. \n★홈페이지 : www.tvchosun.com \n기사 더 보기 ▶ http://news.tvchosun.com/site/data/html_dir/2014/06/09/2014060990276.html",
+      "publishedAt": "2014-06-09T14:19:28Z",
+      "duration": "PT1M32S",
+      "viewCount": 3823,
+      "likeCount": 4,
+      "commentCount": 0,
+      "tags": [
+        "TV조선",
+        "티비조선",
+        "조선일보",
+        "종편",
+        "종합편성",
+        "티브이조선",
+        "방송사",
+        "TV조선뉴스",
+        "뉴스",
+        "뉴스프로그램"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "collectedAt": "2025-08-21T10:28:58.114554Z"
+    },
+    "jOLXPtjZ6n8": {
+      "videoId": "jOLXPtjZ6n8",
+      "title": "\"16강 힘들 듯\"...곳곳서 전망",
+      "description": "하지만 한국의 16강행, 쉬워보이지 않습니다. 해외 기관들이 잇따라 한국의 16강행에 대해 부정적인 예측을 내놓고 있는데, 히딩크 감독 역시 한국의 고전을 예상했습니다.\n\n[Ch.19] 세상에 없는 TV 이제 시작합니다. \n★홈페이지 : www.tvchosun.com \n기사 더 보기 ▶ http://news.tvchosun.com/site/data/html_dir/2014/06/09/2014060990348.html",
+      "publishedAt": "2014-06-09T14:22:13Z",
+      "duration": "PT1M22S",
+      "viewCount": 1058,
+      "likeCount": 0,
+      "commentCount": 3,
+      "tags": [
+        "TV조선",
+        "티비조선",
+        "조선일보",
+        "종편",
+        "종합편성",
+        "티브이조선",
+        "방송사",
+        "TV조선뉴스",
+        "뉴스",
+        "뉴스프로그램"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "collectedAt": "2025-08-21T10:28:58.114554Z"
+    },
+    "ntiDRxCcVZo": {
+      "videoId": "ntiDRxCcVZo",
+      "title": "싸이 '행오버' 드디어 공개",
+      "description": "기다리던 싸이의 신곡 뮤직 비디오 '행오버'가 공개됐습니다. 순식간에 유튜브 400만 뷰를 돌파하며 대박 조짐을 보이고 있습니다. '행오버', 숙취라는 뜻의 뮤직비디오는 우리에게는 익숙한 한국의 음주문화를 세계에 소개한 건데 반응은 엇갈립니다.\n\n[Ch.19] 세상에 없는 TV 이제 시작합니다. \n★홈페이지 : www.tvchosun.com \n기사 더 보기 ▶ http://news.tvchosun.com/site/data/html_dir/2014/06/09/2014060990306.html",
+      "publishedAt": "2014-06-09T14:20:58Z",
+      "duration": "PT2M15S",
+      "viewCount": 4841,
+      "likeCount": 6,
+      "commentCount": 3,
+      "tags": [
+        "TV조선",
+        "티비조선",
+        "조선일보",
+        "종편",
+        "종합편성",
+        "티브이조선",
+        "방송사",
+        "TV조선뉴스",
+        "뉴스",
+        "뉴스프로그램"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "collectedAt": "2025-08-21T10:28:58.114554Z"
     }
   },
   "channels": {
@@ -109,9 +199,36 @@
       "viewCount": 496166667,
       "videoCount": 25206,
       "lastUpdated": "2025-08-20T11:40:18.140359Z"
+    },
+    "UCWlV3Lz_55UaX4JsMj-z__Q": {
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "channelUrl": "@tvchosunnews",
+      "channelDescription": "TV조선 뉴스 공식 YouTube 입니다.",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 2900000,
+      "viewCount": 4319423561,
+      "videoCount": 150855,
+      "lastUpdated": "2025-08-21T10:28:58.113557Z"
     }
   },
-  "lastUpdated": "2025-08-20T11:40:18.143353Z",
-  "totalVideos": 3,
-  "totalChannels": 1
+  "lastUpdated": "2025-08-21T10:28:58.115553Z",
+  "totalVideos": 6,
+  "totalChannels": 2
 }

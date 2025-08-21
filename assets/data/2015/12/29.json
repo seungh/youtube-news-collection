@@ -74,6 +74,66 @@
       "channelId": "UCIMOytYIzaUpoAM2bpT4JZQ",
       "channelName": "KTV 국민방송",
       "collectedAt": "2025-08-20T11:40:08.590678Z"
+    },
+    "Qyl7_ZjFWyk": {
+      "videoId": "Qyl7_ZjFWyk",
+      "title": "재벌 총수 아들-대통령 딸, '세기의 결혼'부터 파경까지",
+      "description": "27년 전 두 사람의 결혼은 현직 대통령의 딸과 재벌가 황태자와의 만남으로 세간을 떠들썩하게 했습니다. \n\n[Ch.19] 세상에 없는 TV 이제 시작합니다. \n★홈페이지 : www.tvchosun.com \n기사 더 보기 ▶ http://news.tvchosun.com/site/data/html_dir/2015/12/29/2015122990172.html",
+      "publishedAt": "2015-12-29T13:12:35Z",
+      "duration": "PT1M42S",
+      "viewCount": 251922,
+      "likeCount": 648,
+      "commentCount": 76,
+      "tags": [
+        "TV조선",
+        "티비조선",
+        "조선일보",
+        "종편",
+        "종합편성",
+        "티브이조선",
+        "방송사",
+        "TV조선뉴스",
+        "뉴스",
+        "뉴스프로그램"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "collectedAt": "2025-08-21T10:29:12.621116Z"
+    },
+    "y8DdvlseqYQ": {
+      "videoId": "y8DdvlseqYQ",
+      "title": "'언제까지 갑질?'…롯데백화점, 판매수수료 최고",
+      "description": "[앵커]\n롯데백화점의 판매수수료율은 7개 백화점 가운데 가장 높습니다. 납품업체들은 울며 겨자먹기로 비싼 수수료를 낼 수밖에 없는데, 대기업이 외치는 상생이 헛구호에 그치고 있습니다.\n\n[Ch.19] 세상에 없는 TV 이제 시작합니다. \n★홈페이지 : www.tvchosun.com \n기사 더 보기 ▶http://news.tvchosun.com/site/data/html_dir/2015/12/29/2015122990019.html",
+      "publishedAt": "2015-12-29T00:55:28Z",
+      "duration": "PT1M37S",
+      "viewCount": 740,
+      "likeCount": 3,
+      "commentCount": 0,
+      "tags": [
+        "TV조선",
+        "티비조선",
+        "조선일보",
+        "종편",
+        "종합편성",
+        "티브이조선",
+        "방송사",
+        "TV조선뉴스",
+        "뉴스",
+        "뉴스프로그램"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "collectedAt": "2025-08-21T10:29:12.621116Z"
     }
   },
   "channels": {
@@ -130,9 +190,36 @@
       "viewCount": 496166667,
       "videoCount": 25206,
       "lastUpdated": "2025-08-20T11:40:08.590678Z"
+    },
+    "UCWlV3Lz_55UaX4JsMj-z__Q": {
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "channelUrl": "@tvchosunnews",
+      "channelDescription": "TV조선 뉴스 공식 YouTube 입니다.",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 2900000,
+      "viewCount": 4319423561,
+      "videoCount": 150855,
+      "lastUpdated": "2025-08-21T10:29:12.612535Z"
     }
   },
-  "lastUpdated": "2025-08-20T11:40:08.590678Z",
-  "totalVideos": 3,
-  "totalChannels": 2
+  "lastUpdated": "2025-08-21T10:29:12.626552Z",
+  "totalVideos": 5,
+  "totalChannels": 3
 }

@@ -87,6 +87,36 @@
       "channelId": "UCNJM6dqu70Qr6VaseiW1Org",
       "channelName": "이재명",
       "collectedAt": "2025-08-20T11:40:16.862400Z"
+    },
+    "mHRCXVX2H5o": {
+      "videoId": "mHRCXVX2H5o",
+      "title": "\"평양 ‘전쟁난다' 초긴장\"…김정은 의도적 위기감 조성 가능성",
+      "description": "지금 평양은 곧 전쟁이 일어날 수 있다는 이야기가 돌면서 초 긴장 상태라고 합니다. 김정남 암살과 경제 파탄 등으로 민심이 흉흉해 지자, 김정은이 한미연합훈련을 핑계로 위기론을 확산시켜 내부 결속을 꾀하려는 의도로 보입니다. \n\n[Ch.19] 세상에 없는 TV 이제 시작합니다. \n★홈페이지 : http://news.tvchosun.com/\n\n* 뉴스제보 : 이메일(tvchosun@chosun.com), 카카오톡(tv조선제보), 전화(1661-0190)",
+      "publishedAt": "2017-03-19T11:08:42Z",
+      "duration": "PT1M42S",
+      "viewCount": 132845,
+      "likeCount": 352,
+      "commentCount": 269,
+      "tags": [
+        "TV조선",
+        "티비조선",
+        "조선일보",
+        "종편",
+        "종합편성",
+        "티브이조선",
+        "방송사",
+        "TV조선뉴스",
+        "뉴스",
+        "뉴스프로그램"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "collectedAt": "2025-08-21T10:28:34.177433Z"
     }
   },
   "channels": {
@@ -143,9 +173,36 @@
       "viewCount": 336974518,
       "videoCount": 3965,
       "lastUpdated": "2025-08-20T11:40:16.861413Z"
+    },
+    "UCWlV3Lz_55UaX4JsMj-z__Q": {
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "channelUrl": "@tvchosunnews",
+      "channelDescription": "TV조선 뉴스 공식 YouTube 입니다.",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 2900000,
+      "viewCount": 4319423561,
+      "videoCount": 150855,
+      "lastUpdated": "2025-08-21T10:28:34.177433Z"
     }
   },
-  "lastUpdated": "2025-08-20T11:40:16.862400Z",
-  "totalVideos": 3,
-  "totalChannels": 2
+  "lastUpdated": "2025-08-21T10:28:34.177433Z",
+  "totalVideos": 4,
+  "totalChannels": 3
 }

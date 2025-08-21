@@ -29,6 +29,66 @@
       "channelId": "UCIMOytYIzaUpoAM2bpT4JZQ",
       "channelName": "KTV 국민방송",
       "collectedAt": "2025-08-20T11:40:18.627281Z"
+    },
+    "ff71eLv5jsg": {
+      "videoId": "ff71eLv5jsg",
+      "title": "[단독] 영훈중 행정실장 \"이사장이 '각서 쓰고, 공증하라'고 했다\"",
+      "description": "검찰의 수사망은 영훈 국제중학교에 이어 대원 국제중학교로도 향하고 있습니다. 서울에 있는 국제 중학교 2곳 모두, 검찰의 수사를 받게된것입니다. 학부모들에게 수천 만 원의 뒷돈을 받은 혐의로 영훈 국제 중학교 행정 실장에 대한 구속 영장이 발부됐는데, 임씨는 오늘 윗선의 지시가 있었음을 분명히 했습니다. 이번 수사는 수사가 진행될수록 파장이 커지면서 대한민국 교육 현장의 일그러진 모습이 지금까지 한두번이 아니였으니까 다시 한번 그대로 드러날 것으로 보입니다. \n\n[Ch.19] 세상에 없는 TV 이제 시작합니다. \n★홈페이지 : www.tvchosun.com \n기사 더 보기 ▶ http://news.tv.chosun.com/site/data/html_dir/2013/05/31/2013053190269.html",
+      "publishedAt": "2013-05-31T13:17:33Z",
+      "duration": "PT2M5S",
+      "viewCount": 483,
+      "likeCount": 0,
+      "commentCount": 1,
+      "tags": [
+        "TV조선",
+        "티비조선",
+        "조선일보",
+        "종편",
+        "종합편성",
+        "티브이조선",
+        "방송사",
+        "TV조선뉴스",
+        "뉴스",
+        "뉴스프로그램"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "collectedAt": "2025-08-21T10:29:10.974077Z"
+    },
+    "IuGyHLetYX8": {
+      "videoId": "IuGyHLetYX8",
+      "title": "[단독] 검찰, 이재현 새 차명계좌 발견...세금 포탈액 늘 듯",
+      "description": "검찰이 그동안 드러나지 않았던 이재현 회장의 차명 계좌를 새로 발견했습니다. 이 차명계좌로 또 다시 주식에 투자해 세금을 포탈한 것으로 보고 금융당국에 계좌 추적을 요청했습니다. \r\n\r\n[Ch.19] 세상에 없는 TV 이제 시작합니다. \r\n★홈페이지 : www.tvchosun.com \r\n기사 더 보기 ▶http://news.tv.chosun.com/site/data/html_dir/2013/05/31/2013053190086.html",
+      "publishedAt": "2013-05-31T02:42:44Z",
+      "duration": "PT2M9S",
+      "viewCount": 289,
+      "likeCount": 1,
+      "commentCount": 0,
+      "tags": [
+        "TV조선",
+        "티비조선",
+        "조선일보",
+        "종편",
+        "종합편성",
+        "티브이조선",
+        "방송사",
+        "TV조선뉴스",
+        "뉴스",
+        "뉴스프로그램"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "collectedAt": "2025-08-21T10:29:10.974077Z"
     }
   },
   "channels": {
@@ -58,9 +118,36 @@
       "viewCount": 496166667,
       "videoCount": 25206,
       "lastUpdated": "2025-08-20T11:40:18.627281Z"
+    },
+    "UCWlV3Lz_55UaX4JsMj-z__Q": {
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "channelUrl": "@tvchosunnews",
+      "channelDescription": "TV조선 뉴스 공식 YouTube 입니다.",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 2900000,
+      "viewCount": 4319423561,
+      "videoCount": 150855,
+      "lastUpdated": "2025-08-21T10:29:10.972375Z"
     }
   },
-  "lastUpdated": "2025-08-20T11:40:18.627281Z",
-  "totalVideos": 1,
-  "totalChannels": 1
+  "lastUpdated": "2025-08-21T10:29:10.974077Z",
+  "totalVideos": 3,
+  "totalChannels": 2
 }

@@ -325,6 +325,96 @@
       "channelId": "UCIMOytYIzaUpoAM2bpT4JZQ",
       "channelName": "KTV 국민방송",
       "collectedAt": "2025-08-20T11:40:13.844442Z"
+    },
+    "yZcgzUr2hFY": {
+      "videoId": "yZcgzUr2hFY",
+      "title": "[조갑제의 시선] \"미국의 핵우산은 찢어졌다\"",
+      "description": "북한에 맞서서 우리도 핵무장을 해야 한다는 주장도 점점 늘어나고 있는데요. 국가생존 차원의 자위적 핵무장론을 펴고 계시는 조갑제 닷컴의 조갑제 대표 모셨습니다.\n\n\n[Ch.19] 세상에 없는 TV 이제 시작합니다. \n★홈페이지 : www.tvchosun.com \n기사 더 보기 ▶ http://news.tvchosun.com/site/data/html_dir/2016/02/04/2016020490130.html",
+      "publishedAt": "2016-02-04T07:01:33Z",
+      "duration": "PT15M44S",
+      "viewCount": 45059,
+      "likeCount": 197,
+      "commentCount": 73,
+      "tags": [
+        "TV조선",
+        "티비조선",
+        "조선일보",
+        "종편",
+        "종합편성",
+        "티브이조선",
+        "방송사",
+        "TV조선뉴스",
+        "뉴스",
+        "뉴스프로그램"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": "ko",
+      "defaultAudioLanguage": "ko",
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "collectedAt": "2025-08-21T10:28:40.398926Z"
+    },
+    "85RwTGZxKsA": {
+      "videoId": "85RwTGZxKsA",
+      "title": "'무심코 먹는 영화관 팝콘'은 당·포화지방 덩어리",
+      "description": "극장에서 영화 볼 때 팝콘 한 봉지는 쉽게 다 먹죠. 이렇게 무심코 먹는 팝콘이 설탕과 지방 덩어리였습니다. \n\n[Ch.19] 세상에 없는 TV 이제 시작합니다. \n★홈페이지 : www.tvchosun.com \n기사 더 보기 ▶ http://news.tvchosun.com/site/data/html_dir/2016/02/04/2016020490212.html",
+      "publishedAt": "2016-02-04T13:14:35Z",
+      "duration": "PT1M29S",
+      "viewCount": 3104,
+      "likeCount": 8,
+      "commentCount": 2,
+      "tags": [
+        "TV조선",
+        "티비조선",
+        "조선일보",
+        "종편",
+        "종합편성",
+        "티브이조선",
+        "방송사",
+        "TV조선뉴스",
+        "뉴스",
+        "뉴스프로그램"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": "ko",
+      "defaultAudioLanguage": "ko",
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "collectedAt": "2025-08-21T10:28:40.398926Z"
+    },
+    "gQ3kFwGVxHw": {
+      "videoId": "gQ3kFwGVxHw",
+      "title": "설연휴 교통사고 2배…안전띠 안매면 사망률 5배",
+      "description": "승용차 뒷좌석에 따면 안전띠 매는 걸 깜빡 할 때가 종종 있죠. 실제로 우리나라 뒷좌석 안전띠 착용률이 25%밖에 안 됐는데요.\n\n[Ch.19] 세상에 없는 TV 이제 시작합니다. \n★홈페이지 : www.tvchosun.com \n기사 더 보기 ▶ http://news.tvchosun.com/site/data/html_dir/2016/02/04/2016020490190.html",
+      "publishedAt": "2016-02-04T13:14:35Z",
+      "duration": "PT1M38S",
+      "viewCount": 109,
+      "likeCount": 3,
+      "commentCount": 0,
+      "tags": [
+        "TV조선",
+        "티비조선",
+        "조선일보",
+        "종편",
+        "종합편성",
+        "티브이조선",
+        "방송사",
+        "TV조선뉴스",
+        "뉴스",
+        "뉴스프로그램"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "collectedAt": "2025-08-21T10:28:40.398926Z"
     }
   },
   "channels": {
@@ -354,9 +444,36 @@
       "viewCount": 496166667,
       "videoCount": 25206,
       "lastUpdated": "2025-08-20T11:40:13.843444Z"
+    },
+    "UCWlV3Lz_55UaX4JsMj-z__Q": {
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "channelUrl": "@tvchosunnews",
+      "channelDescription": "TV조선 뉴스 공식 YouTube 입니다.",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 2900000,
+      "viewCount": 4319423561,
+      "videoCount": 150855,
+      "lastUpdated": "2025-08-21T10:28:40.397929Z"
     }
   },
-  "lastUpdated": "2025-08-20T11:40:13.844442Z",
-  "totalVideos": 11,
-  "totalChannels": 1
+  "lastUpdated": "2025-08-21T10:28:40.402442Z",
+  "totalVideos": 14,
+  "totalChannels": 2
 }

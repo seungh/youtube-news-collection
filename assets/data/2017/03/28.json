@@ -1058,6 +1058,66 @@
       "channelId": "UCNJM6dqu70Qr6VaseiW1Org",
       "channelName": "이재명",
       "collectedAt": "2025-08-20T11:40:00.867669Z"
+    },
+    "e6ITBgcFKGo": {
+      "videoId": "e6ITBgcFKGo",
+      "title": "\"북한 6차 핵실험 31일 유력\"…ICBM 엔진 3차례 실험",
+      "description": "북한이 또 도발하려고 합니다. 우리 정보당국은 북한이 이르면 이번 주 금요일, 6차 핵실험을 저지를 것으로 파악하고 상황을 지켜보고 있습니다. 미국 CNN은 북한이 대륙간 탄도미사일 엔진 실험을 세 차례나 했다고 보도했습니다. \n\n[Ch.19] 세상에 없는 TV 이제 시작합니다. \n★홈페이지 : http://news.tvchosun.com/\n\n* 뉴스제보 : 이메일(tvchosun@chosun.com), 카카오톡(tv조선제보), 전화(1661-0190)",
+      "publishedAt": "2017-03-28T12:08:38Z",
+      "duration": "PT1M31S",
+      "viewCount": 1039,
+      "likeCount": 4,
+      "commentCount": 0,
+      "tags": [
+        "TV조선",
+        "티비조선",
+        "조선일보",
+        "종편",
+        "종합편성",
+        "티브이조선",
+        "방송사",
+        "TV조선뉴스",
+        "뉴스",
+        "뉴스프로그램"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": "ko",
+      "defaultAudioLanguage": "ko",
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "collectedAt": "2025-08-21T10:29:06.637282Z"
+    },
+    "Ux42affC1IQ": {
+      "videoId": "Ux42affC1IQ",
+      "title": "김종인, 다음주 출마선언 \"청산 아닌 결산\"…安 연정 모색",
+      "description": "김종인 전 대표가 다음주 대선 출마를 선언할 것으로 알려졌습니다. 문재인 전 대표의 '적폐 청산' 대신, '적폐 결산'을 강조하며 비문 연대 결집에 시동을 걸겠단 구상입니다. 안철수 전 대표와의 연정 가능성도 가시화되고 있습니다.\n\n[Ch.19] 세상에 없는 TV 이제 시작합니다. \n★홈페이지 : http://news.tvchosun.com/\n\n* 뉴스제보 : 이메일(tvchosun@chosun.com), 카카오톡(tv조선제보), 전화(1661-0190)",
+      "publishedAt": "2017-03-28T12:08:36Z",
+      "duration": "PT1M47S",
+      "viewCount": 483,
+      "likeCount": 4,
+      "commentCount": 2,
+      "tags": [
+        "TV조선",
+        "티비조선",
+        "조선일보",
+        "종편",
+        "종합편성",
+        "티브이조선",
+        "방송사",
+        "TV조선뉴스",
+        "뉴스",
+        "뉴스프로그램"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "collectedAt": "2025-08-21T10:29:06.637282Z"
     }
   },
   "channels": {
@@ -1141,9 +1201,36 @@
       "viewCount": 336974518,
       "videoCount": 3965,
       "lastUpdated": "2025-08-20T11:40:00.867669Z"
+    },
+    "UCWlV3Lz_55UaX4JsMj-z__Q": {
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "channelUrl": "@tvchosunnews",
+      "channelDescription": "TV조선 뉴스 공식 YouTube 입니다.",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 2900000,
+      "viewCount": 4319423561,
+      "videoCount": 150855,
+      "lastUpdated": "2025-08-21T10:29:06.634777Z"
     }
   },
-  "lastUpdated": "2025-08-20T11:40:00.867669Z",
-  "totalVideos": 38,
-  "totalChannels": 3
+  "lastUpdated": "2025-08-21T10:29:06.637282Z",
+  "totalVideos": 40,
+  "totalChannels": 4
 }

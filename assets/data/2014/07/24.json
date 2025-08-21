@@ -29,6 +29,66 @@
       "channelId": "UCIMOytYIzaUpoAM2bpT4JZQ",
       "channelName": "KTV 국민방송",
       "collectedAt": "2025-08-20T11:40:14.090321Z"
+    },
+    "vCpl9Ok8snU": {
+      "videoId": "vCpl9Ok8snU",
+      "title": "대량 유출된 개인정보로 짝퉁 밀수!",
+      "description": "[앵커]\r\n모든 건 진화한다고 짝퉁 명품 밀수도 진화하고 있습니다. 대량 유출된 개인 정보가 짝퉁 밀수에 이용되고 있습니다. 수백억원 대의 중국산 짝퉁 명품 밀수업자들이 붙잡혔는데, 유출된 개인 정보를 이용해 개인이 해외 인터넷 사이트를 통해 직접 물품을 주문한 것처럼 속여서 통관을 시켰습니다.\r\n\r\n\r\n[Ch.19] 세상에 없는 TV 이제 시작합니다. \r\n★홈페이지 : www.tvchosun.com \r\n기사 더 보기 ▶ http://news.tvchosun.com/site/data/html_dir/2014/07/24/2014072490339.html",
+      "publishedAt": "2014-07-24T14:18:52Z",
+      "duration": "PT1M40S",
+      "viewCount": 378,
+      "likeCount": 0,
+      "commentCount": 0,
+      "tags": [
+        "TV조선",
+        "티비조선",
+        "조선일보",
+        "종편",
+        "종합편성",
+        "티브이조선",
+        "방송사",
+        "TV조선뉴스",
+        "뉴스",
+        "뉴스프로그램"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "collectedAt": "2025-08-21T10:29:13.344058Z"
+    },
+    "ajjQ6rLH74E": {
+      "videoId": "ajjQ6rLH74E",
+      "title": "[스포츠 사이언스] 박태환이 여러 종목을 해낼 수 있는 이유는?",
+      "description": "[앵커]\r\n한국 수영의 희망 박태환, 최근 끝난 아시안게임 선발전에서 여전한 모습을 보여줬는데요, 그런데 단거리, 장거리 가릴 것 없이 너무 많은 종목에 나서는 것이 아닌가 하는 우려도 나오고 있습니다. 정말 문제가 없는 걸까요?\r\n\r\n\r\n[Ch.19] 세상에 없는 TV 이제 시작합니다. \r\n★홈페이지 : www.tvchosun.com \r\n기사 더 보기 ▶ http://news.tvchosun.com/site/data/html_dir/2014/07/24/2014072490371.html",
+      "publishedAt": "2014-07-24T14:32:46Z",
+      "duration": "PT2M19S",
+      "viewCount": 6591,
+      "likeCount": 23,
+      "commentCount": 4,
+      "tags": [
+        "TV조선",
+        "티비조선",
+        "조선일보",
+        "종편",
+        "종합편성",
+        "티브이조선",
+        "방송사",
+        "TV조선뉴스",
+        "뉴스",
+        "뉴스프로그램"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "collectedAt": "2025-08-21T10:29:13.344058Z"
     }
   },
   "channels": {
@@ -58,9 +118,36 @@
       "viewCount": 496166667,
       "videoCount": 25206,
       "lastUpdated": "2025-08-20T11:40:14.090321Z"
+    },
+    "UCWlV3Lz_55UaX4JsMj-z__Q": {
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "channelUrl": "@tvchosunnews",
+      "channelDescription": "TV조선 뉴스 공식 YouTube 입니다.",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 2900000,
+      "viewCount": 4319423561,
+      "videoCount": 150855,
+      "lastUpdated": "2025-08-21T10:29:13.343060Z"
     }
   },
-  "lastUpdated": "2025-08-20T11:40:14.090321Z",
-  "totalVideos": 1,
-  "totalChannels": 1
+  "lastUpdated": "2025-08-21T10:29:13.346053Z",
+  "totalVideos": 3,
+  "totalChannels": 2
 }

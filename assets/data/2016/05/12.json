@@ -283,6 +283,96 @@
       "channelId": "UCIMOytYIzaUpoAM2bpT4JZQ",
       "channelName": "KTV 국민방송",
       "collectedAt": "2025-08-20T11:38:51.655530Z"
+    },
+    "AVX7WP151gQ": {
+      "videoId": "AVX7WP151gQ",
+      "title": "주민은 피폐한데 걸그룹 '모란봉악단'은 핵 공연",
+      "description": "북한이 36년 만의 당 대회를 기념하기 위해 북한판 걸그룹인 모란봉악단을 동원한 공연을 펼쳤습니다. 온통 김일성 3부자 찬양과 핵 개발 야욕을 담은 무대였습니다. \n\n\n[Ch.19] 세상에 없는 TV 이제 시작합니다. \n★홈페이지 : http://news.tvchosun.com/",
+      "publishedAt": "2016-05-12T13:18:54Z",
+      "duration": "PT1M38S",
+      "viewCount": 1174,
+      "likeCount": 2,
+      "commentCount": 0,
+      "tags": [
+        "TV조선",
+        "티비조선",
+        "조선일보",
+        "종편",
+        "종합편성",
+        "티브이조선",
+        "방송사",
+        "TV조선뉴스",
+        "뉴스",
+        "뉴스프로그램"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "collectedAt": "2025-08-21T10:28:37.926511Z"
+    },
+    "QjCWqw97LZg": {
+      "videoId": "QjCWqw97LZg",
+      "title": "'서울-부산 16분'…시속 1천200㎞ 음속열차 첫 실험 성공",
+      "description": "두번째는 꿈의 열차입니다. 최대 시속 1200㎞에 이르는 음속 열차 주행 시험이 미국에서 처음으로 성공했습니다. 이 속도면 서울에서 부산까지 16분 만에 갈 수 있습니다. \n\n\n\n[Ch.19] 세상에 없는 TV 이제 시작합니다. \n★홈페이지 : http://news.tvchosun.com/",
+      "publishedAt": "2016-05-12T13:18:54Z",
+      "duration": "PT1M35S",
+      "viewCount": 5611,
+      "likeCount": 11,
+      "commentCount": 1,
+      "tags": [
+        "TV조선",
+        "티비조선",
+        "조선일보",
+        "종편",
+        "종합편성",
+        "티브이조선",
+        "방송사",
+        "TV조선뉴스",
+        "뉴스",
+        "뉴스프로그램"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "collectedAt": "2025-08-21T10:28:37.926511Z"
+    },
+    "8S4hHbdlF80": {
+      "videoId": "8S4hHbdlF80",
+      "title": "최고라는 한미동맹…오바마, 1만㎞ 날아와 180m 더 못 가나",
+      "description": "우리 정부는 한미관계가 최상이라고 수 차례 강조해왔는데 오바마 미국 대통령의 히로시마 방문은 결국 막지 못할 듯합니다. 차선책으로 오바마 대통령이 히로시마 평화공원을 방문할 때 같은 장소에 있는 한국인 원폭 피해자 위령비도 찾도록 해야 한다는 목소리가 높지만 확답을 받지 못하고 있습니다.\n\n\n[Ch.19] 세상에 없는 TV 이제 시작합니다. \n★홈페이지 : http://news.tvchosun.com/",
+      "publishedAt": "2016-05-12T13:18:54Z",
+      "duration": "PT1M50S",
+      "viewCount": 376,
+      "likeCount": 1,
+      "commentCount": 2,
+      "tags": [
+        "TV조선",
+        "티비조선",
+        "조선일보",
+        "종편",
+        "종합편성",
+        "티브이조선",
+        "방송사",
+        "TV조선뉴스",
+        "뉴스",
+        "뉴스프로그램"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "collectedAt": "2025-08-21T10:28:37.926511Z"
     }
   },
   "channels": {
@@ -366,9 +456,36 @@
       "viewCount": 496166667,
       "videoCount": 25206,
       "lastUpdated": "2025-08-20T11:38:51.655530Z"
+    },
+    "UCWlV3Lz_55UaX4JsMj-z__Q": {
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "channelUrl": "@tvchosunnews",
+      "channelDescription": "TV조선 뉴스 공식 YouTube 입니다.",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 2900000,
+      "viewCount": 4319423561,
+      "videoCount": 150855,
+      "lastUpdated": "2025-08-21T10:28:37.920835Z"
     }
   },
-  "lastUpdated": "2025-08-20T11:38:51.655530Z",
-  "totalVideos": 10,
-  "totalChannels": 3
+  "lastUpdated": "2025-08-21T10:28:37.927509Z",
+  "totalVideos": 13,
+  "totalChannels": 4
 }

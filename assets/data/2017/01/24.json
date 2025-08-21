@@ -57,6 +57,66 @@
       "channelId": "UCIMOytYIzaUpoAM2bpT4JZQ",
       "channelName": "KTV 국민방송",
       "collectedAt": "2025-08-20T11:40:05.418492Z"
+    },
+    "xbPNjGMj05o": {
+      "videoId": "xbPNjGMj05o",
+      "title": "대통령 45일만의 외출 [더하기 뉴스]",
+      "description": "오늘 하루 놓치면 아쉬운 뉴스 전해드리는 더하기 뉴스 시간입니다. 정치부 김미선 기자 함께합니다. 첫번째 주제 볼까요. 45일만의 외출? 오늘 박근혜 대통령이 현충원을 찾았죠? \n\n\n[Ch.19] 세상에 없는 TV 이제 시작합니다. \n★홈페이지 : http://news.tvchosun.com/\n\n* 뉴스제보 : 이메일(tvchosun@chosun.com), 카카오톡(tv조선제보), 전화(1661-0190)",
+      "publishedAt": "2017-01-24T02:23:45Z",
+      "duration": "PT5M21S",
+      "viewCount": 604,
+      "likeCount": 3,
+      "commentCount": 0,
+      "tags": [
+        "TV조선",
+        "티비조선",
+        "조선일보",
+        "종편",
+        "종합편성",
+        "티브이조선",
+        "방송사",
+        "TV조선뉴스",
+        "뉴스",
+        "뉴스프로그램"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "collectedAt": "2025-08-21T10:28:25.889487Z"
+    },
+    "bVYxnjsnkfs": {
+      "videoId": "bVYxnjsnkfs",
+      "title": "권한대행의 광폭 행보 [판 포커스]",
+      "description": "황교안 권한대행의 요즘 행보를 보는 두 가지 시각이 있습니다. 권한대행으로서 국정공백 없이, 적극적으로 민생현장을 챙기고 있다는 칭찬, 그리고 권한대행의 역할을 넘어 차기 대선주자처럼 돌아다닌다는 비판입니다. 여러분은 어떻게 생각하십니까. 판 포커스 대행의 행보입니다. \n\n \n\n\n[Ch.19] 세상에 없는 TV 이제 시작합니다. \n★홈페이지 : http://news.tvchosun.com/\n\n* 뉴스제보 : 이메일(tvchosun@chosun.com), 카카오톡(tv조선제보), 전화(1661-0190)",
+      "publishedAt": "2017-01-24T02:23:45Z",
+      "duration": "PT3M11S",
+      "viewCount": 557,
+      "likeCount": 3,
+      "commentCount": 6,
+      "tags": [
+        "TV조선",
+        "티비조선",
+        "조선일보",
+        "종편",
+        "종합편성",
+        "티브이조선",
+        "방송사",
+        "TV조선뉴스",
+        "뉴스",
+        "뉴스프로그램"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "collectedAt": "2025-08-21T10:28:25.889487Z"
     }
   },
   "channels": {
@@ -113,9 +173,36 @@
       "viewCount": 496166667,
       "videoCount": 25206,
       "lastUpdated": "2025-08-20T11:40:05.416420Z"
+    },
+    "UCWlV3Lz_55UaX4JsMj-z__Q": {
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "channelUrl": "@tvchosunnews",
+      "channelDescription": "TV조선 뉴스 공식 YouTube 입니다.",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 2900000,
+      "viewCount": 4319423561,
+      "videoCount": 150855,
+      "lastUpdated": "2025-08-21T10:28:25.888962Z"
     }
   },
-  "lastUpdated": "2025-08-20T11:40:05.418492Z",
-  "totalVideos": 2,
-  "totalChannels": 2
+  "lastUpdated": "2025-08-21T10:28:25.889487Z",
+  "totalVideos": 4,
+  "totalChannels": 3
 }

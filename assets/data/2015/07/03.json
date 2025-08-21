@@ -257,6 +257,66 @@
       "channelId": "UCIMOytYIzaUpoAM2bpT4JZQ",
       "channelName": "KTV 국민방송",
       "collectedAt": "2025-08-20T11:40:05.869460Z"
+    },
+    "DQHqp1Z2z4A": {
+      "videoId": "DQHqp1Z2z4A",
+      "title": "김정은 \"170㎝ 병사 60㎏까지 몸무게 끌어올려라\"…북한군 건강 심각",
+      "description": "북한군 사병들의 건강 상태가 정말 심각한가봅니다. 김정은이 60kg이라는 구체적인 목표 체중까지 제시하며 병사들의 체중을 늘리라고 지시 했다고 합니다. \n\n[Ch.19] 세상에 없는 TV 이제 시작합니다. \n★홈페이지 : www.tvchosun.com \n기사 더 보기 ▶ http://news.tvchosun.com/site/data/html_dir/2015/07/03/2015070390300.html",
+      "publishedAt": "2015-07-03T13:32:32Z",
+      "duration": "PT1M25S",
+      "viewCount": 11343,
+      "likeCount": 26,
+      "commentCount": 17,
+      "tags": [
+        "TV조선",
+        "티비조선",
+        "조선일보",
+        "종편",
+        "종합편성",
+        "티브이조선",
+        "방송사",
+        "TV조선뉴스",
+        "뉴스",
+        "뉴스프로그램"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "collectedAt": "2025-08-21T10:28:47.843307Z"
+    },
+    "E-8eJN1b27I": {
+      "videoId": "E-8eJN1b27I",
+      "title": "패션이 된 타투…'불법' 논란도",
+      "description": "문신, 인류 역사에서 가장 오래된 화장술이라고도 할수 있는데 우리나라에서는 어쩌다가 조폭의 상징처럼 돼있는게 사실입니다.  그런데, 문신에대한 인식이 달라지고 있습니다. 요즘에는 저도 예쁜걸 하나 해볼까 하는 생각이 들 정도로 일반인들도 많이 하는 패션처럼 변했습니다.  우리나라에서도 매년 10만명 정도가 한다는데, 문신시술이 현행 법상 불법인 경우가 대부분이지만 문신은 이미 우리 생활과 삶속에 너무 깊숙히 들어와있습니다. \n\n[Ch.19] 세상에 없는 TV 이제 시작합니다. \n★홈페이지 : www.tvchosun.com \n기사 더 보기 ▶ http://news.tvchosun.com/site/data/html_dir/2015/07/03/2015070390320.html",
+      "publishedAt": "2015-07-03T13:35:46Z",
+      "duration": "PT2M45S",
+      "viewCount": 45967,
+      "likeCount": 77,
+      "commentCount": 47,
+      "tags": [
+        "TV조선",
+        "티비조선",
+        "조선일보",
+        "종편",
+        "종합편성",
+        "티브이조선",
+        "방송사",
+        "TV조선뉴스",
+        "뉴스",
+        "뉴스프로그램"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "collectedAt": "2025-08-21T10:28:47.843307Z"
     }
   },
   "channels": {
@@ -313,9 +373,36 @@
       "viewCount": 496166667,
       "videoCount": 25206,
       "lastUpdated": "2025-08-20T11:40:05.869460Z"
+    },
+    "UCWlV3Lz_55UaX4JsMj-z__Q": {
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "channelUrl": "@tvchosunnews",
+      "channelDescription": "TV조선 뉴스 공식 YouTube 입니다.",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 2900000,
+      "viewCount": 4319423561,
+      "videoCount": 150855,
+      "lastUpdated": "2025-08-21T10:28:47.843307Z"
     }
   },
-  "lastUpdated": "2025-08-20T11:40:05.870457Z",
-  "totalVideos": 9,
-  "totalChannels": 2
+  "lastUpdated": "2025-08-21T10:28:47.843307Z",
+  "totalVideos": 11,
+  "totalChannels": 3
 }

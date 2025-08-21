@@ -146,6 +146,66 @@
       "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
       "channelName": "NATV 국회방송",
       "collectedAt": "2025-08-18T07:13:46.237070Z"
+    },
+    "VcJXitbz_vE": {
+      "videoId": "VcJXitbz_vE",
+      "title": "13월의 세금 폭탄에 민심 폭발…정부, 해명 궁색",
+      "description": "연말 정산이 13월의 폭탄이 되면서 직장인들이 불만이 커지고 있습니다. 정부는 세금을 적게 거둬 환급액이 적어졌고, 또 7천만원 이상 고소득자에 대해서만 세금을 더 거뒀다고 해명했지만, 다자녀 가정과 미혼직장인의 세금이 늘어난 데 대해선 뚜렷한 해명을 하지 못했습니다.\r\n\r\n[Ch.19] 세상에 없는 TV 이제 시작합니다. \r\n★홈페이지 : www.tvchosun.com \r\n기사 더 보기 ▶ http://news.tvchosun.com/site/data/html_dir/2015/01/19/2015011990276.html",
+      "publishedAt": "2015-01-19T14:34:56Z",
+      "duration": "PT1M44S",
+      "viewCount": 63,
+      "likeCount": 0,
+      "commentCount": 0,
+      "tags": [
+        "TV조선",
+        "티비조선",
+        "조선일보",
+        "종편",
+        "종합편성",
+        "티브이조선",
+        "방송사",
+        "TV조선뉴스",
+        "뉴스",
+        "뉴스프로그램"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "collectedAt": "2025-08-21T10:28:52.407441Z"
+    },
+    "vj6R3yvG_4U": {
+      "videoId": "vj6R3yvG_4U",
+      "title": "[단독] 2012년 대북전단 중단했더니…\"김정은 승리\" 선전",
+      "description": "논란이 된 대북전단을 정부가 처음으로 원천봉쇄했던게 지난 2012년 10월입니다. 그런데 당시 북한군은 \"김정은이 포탄 한 발 날리지 않고 큰 승리를 이룩했다\"며 선전을 한 비밀 문건을 TV조선이 입수했습니다. \r\n\r\n[Ch.19] 세상에 없는 TV 이제 시작합니다. \r\n★홈페이지 : www.tvchosun.com \r\n기사 더 보기 ▶ http://news.tvchosun.com/site/data/html_dir/2015/01/19/2015011990236.html",
+      "publishedAt": "2015-01-19T14:29:18Z",
+      "duration": "PT2M11S",
+      "viewCount": 167,
+      "likeCount": 1,
+      "commentCount": 0,
+      "tags": [
+        "TV조선",
+        "티비조선",
+        "조선일보",
+        "종편",
+        "종합편성",
+        "티브이조선",
+        "방송사",
+        "TV조선뉴스",
+        "뉴스",
+        "뉴스프로그램"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "collectedAt": "2025-08-21T10:28:52.407441Z"
     }
   },
   "channels": {
@@ -175,9 +235,36 @@
       "viewCount": 86009826,
       "videoCount": 16390,
       "lastUpdated": "2025-08-18T07:13:46.236072Z"
+    },
+    "UCWlV3Lz_55UaX4JsMj-z__Q": {
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "channelUrl": "@tvchosunnews",
+      "channelDescription": "TV조선 뉴스 공식 YouTube 입니다.",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 2900000,
+      "viewCount": 4319423561,
+      "videoCount": 150855,
+      "lastUpdated": "2025-08-21T10:28:52.399651Z"
     }
   },
-  "lastUpdated": "2025-08-20T11:40:07.971042Z",
-  "totalVideos": 6,
-  "totalChannels": 1
+  "lastUpdated": "2025-08-21T10:28:52.407441Z",
+  "totalVideos": 8,
+  "totalChannels": 2
 }

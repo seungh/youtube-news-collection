@@ -477,6 +477,96 @@
       "channelId": "UCNJM6dqu70Qr6VaseiW1Org",
       "channelName": "이재명",
       "collectedAt": "2025-08-20T11:38:48.239016Z"
+    },
+    "tSEOBEJ2Ubc": {
+      "videoId": "tSEOBEJ2Ubc",
+      "title": "손혜원 설화…\"계산된 자살\"? [더하기 뉴스]",
+      "description": "오늘 하루 놓치면 아쉬운 뉴스 전해드리는 더하기뉴스 시간입니다. \n\n[Ch.19] 세상에 없는 TV 이제 시작합니다. \n★홈페이지 : http://news.tvchosun.com/\n\n* 뉴스제보 : 이메일(tvchosun@chosun.com), 카카오톡(tv조선제보), 전화(1661-0190)",
+      "publishedAt": "2017-03-13T01:14:40Z",
+      "duration": "PT4M6S",
+      "viewCount": 7422,
+      "likeCount": 35,
+      "commentCount": 18,
+      "tags": [
+        "TV조선",
+        "티비조선",
+        "조선일보",
+        "종편",
+        "종합편성",
+        "티브이조선",
+        "방송사",
+        "TV조선뉴스",
+        "뉴스",
+        "뉴스프로그램"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "collectedAt": "2025-08-21T10:28:24.849040Z"
+    },
+    "tspNNf1rCGE": {
+      "videoId": "tspNNf1rCGE",
+      "title": "삼성동의 80시간 [판 포커스]",
+      "description": "박근혜 전 대통령이 파면된 게 금요일 오전 11시 21분이죠. 이제 3분 뒤면 딱 80시간이 됩니다. 그사이 박 전 대통령의 삼성동 사저 주변에선 많은 일이 벌어졌습니다. \n\n[Ch.19] 세상에 없는 TV 이제 시작합니다. \n★홈페이지 : http://news.tvchosun.com/\n\n* 뉴스제보 : 이메일(tvchosun@chosun.com), 카카오톡(tv조선제보), 전화(1661-0190)",
+      "publishedAt": "2017-03-13T12:09:48Z",
+      "duration": "PT4M35S",
+      "viewCount": 1047,
+      "likeCount": 2,
+      "commentCount": 0,
+      "tags": [
+        "TV조선",
+        "티비조선",
+        "조선일보",
+        "종편",
+        "종합편성",
+        "티브이조선",
+        "방송사",
+        "TV조선뉴스",
+        "뉴스",
+        "뉴스프로그램"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": "ko",
+      "defaultAudioLanguage": "ko",
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "collectedAt": "2025-08-21T10:28:24.849040Z"
+    },
+    "ELDKzb3k668": {
+      "videoId": "ELDKzb3k668",
+      "title": "국민의당, 문재인 '팽목항 방명록'  비판",
+      "description": "문재인 전 대표가 탄핵 후, 처음 찾아간 팽목항에서 방명록에 '고맙다'라는 문구를 남겼죠. 이에,, 국민의당이 \"뭐가 고맙다는 거냐\"며 비판했습니다. 문 전 대표는 어제에 이어 \"미국에 '예스'만 할 수는 없다\"며 \"꿀리지 않는 협상을 해야한다\"고 했습니다. \n\n[Ch.19] 세상에 없는 TV 이제 시작합니다. \n★홈페이지 : http://news.tvchosun.com/\n\n* 뉴스제보 : 이메일(tvchosun@chosun.com), 카카오톡(tv조선제보), 전화(1661-0190)",
+      "publishedAt": "2017-03-13T12:09:46Z",
+      "duration": "PT1M56S",
+      "viewCount": 50682,
+      "likeCount": 404,
+      "commentCount": 518,
+      "tags": [
+        "TV조선",
+        "티비조선",
+        "조선일보",
+        "종편",
+        "종합편성",
+        "티브이조선",
+        "방송사",
+        "TV조선뉴스",
+        "뉴스",
+        "뉴스프로그램"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "collectedAt": "2025-08-21T10:28:24.849040Z"
     }
   },
   "channels": {
@@ -587,9 +677,36 @@
       "viewCount": 336974518,
       "videoCount": 3965,
       "lastUpdated": "2025-08-20T11:38:48.239016Z"
+    },
+    "UCWlV3Lz_55UaX4JsMj-z__Q": {
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "channelUrl": "@tvchosunnews",
+      "channelDescription": "TV조선 뉴스 공식 YouTube 입니다.",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 2900000,
+      "viewCount": 4319423561,
+      "videoCount": 150855,
+      "lastUpdated": "2025-08-21T10:28:24.842160Z"
     }
   },
-  "lastUpdated": "2025-08-20T11:38:48.239016Z",
-  "totalVideos": 17,
-  "totalChannels": 4
+  "lastUpdated": "2025-08-21T10:28:24.851040Z",
+  "totalVideos": 20,
+  "totalChannels": 5
 }

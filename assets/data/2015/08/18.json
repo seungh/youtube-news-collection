@@ -196,6 +196,66 @@
       "channelId": "UCIMOytYIzaUpoAM2bpT4JZQ",
       "channelName": "KTV 국민방송",
       "collectedAt": "2025-08-20T11:40:09.171849Z"
+    },
+    "fRJxHFPGvaU": {
+      "videoId": "fRJxHFPGvaU",
+      "title": "지뢰 피해 장병에 11일 만에 전화한 朴 대통령",
+      "description": "박근혜 대통령이 북한의 지뢰 도발로 중상을 입은 장병들에게 지난 주말에 위로 전화를 한 사실이 뒤늦게 확인됐습니다. 하지만 좀 더 일찍, 그것도 직접 찾아갔으면 어땠을까요? 이번 북한의 지뢰 도발에 대한 우리 정부의 대응은 뭔가 조금씩 아쉽고 안타깝습니다. 마크 리퍼트 주한 미 대사가 부상을 입었을 때하고는 너무 다르다는 말까지 나오고 있는데, 이제라도 대통령이 병원에 가는 게 맞다고 봅니다.\n\n[Ch.19] 세상에 없는 TV 이제 시작합니다. \n★홈페이지 : www.tvchosun.com \n기사 더 보기 ▶ http://news.tvchosun.com/site/data/html_dir/2015/08/18/2015081890159.html",
+      "publishedAt": "2015-08-18T14:02:59Z",
+      "duration": "PT1M53S",
+      "viewCount": 393,
+      "likeCount": 0,
+      "commentCount": 1,
+      "tags": [
+        "TV조선",
+        "티비조선",
+        "조선일보",
+        "종편",
+        "종합편성",
+        "티브이조선",
+        "방송사",
+        "TV조선뉴스",
+        "뉴스",
+        "뉴스프로그램"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "collectedAt": "2025-08-21T10:28:46.057981Z"
+    },
+    "dgVxuo4yqRk": {
+      "videoId": "dgVxuo4yqRk",
+      "title": "故 신해철 '미완성곡', 서태지가 마무리",
+      "description": "가수 서태지씨가 고 신해철씨의 미완성곡을 마무리하는 데 힘을 보태고 있는 것으로 알려졌습니다. 10월에 발매되는 신해철씨 유작 앨범 곡들 가운데 하나인 것으로 전해집니다. \n\n[Ch.19] 세상에 없는 TV 이제 시작합니다. \n★홈페이지 : www.tvchosun.com \n기사 더 보기 ▶ http://news.tvchosun.com/site/data/html_dir/2015/08/18/2015081890081.html",
+      "publishedAt": "2015-08-18T01:14:26Z",
+      "duration": "PT1M8S",
+      "viewCount": 13055,
+      "likeCount": 52,
+      "commentCount": 3,
+      "tags": [
+        "TV조선",
+        "티비조선",
+        "조선일보",
+        "종편",
+        "종합편성",
+        "티브이조선",
+        "방송사",
+        "TV조선뉴스",
+        "뉴스",
+        "뉴스프로그램"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "collectedAt": "2025-08-21T10:28:46.057981Z"
     }
   },
   "channels": {
@@ -252,9 +312,36 @@
       "viewCount": 496166667,
       "videoCount": 25206,
       "lastUpdated": "2025-08-20T11:40:09.167292Z"
+    },
+    "UCWlV3Lz_55UaX4JsMj-z__Q": {
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "channelUrl": "@tvchosunnews",
+      "channelDescription": "TV조선 뉴스 공식 YouTube 입니다.",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 2900000,
+      "viewCount": 4319423561,
+      "videoCount": 150855,
+      "lastUpdated": "2025-08-21T10:28:46.057981Z"
     }
   },
-  "lastUpdated": "2025-08-20T11:40:09.176335Z",
-  "totalVideos": 7,
-  "totalChannels": 2
+  "lastUpdated": "2025-08-21T10:28:46.057981Z",
+  "totalVideos": 9,
+  "totalChannels": 3
 }

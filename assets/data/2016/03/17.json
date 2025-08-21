@@ -258,6 +258,96 @@
       "channelId": "UCIMOytYIzaUpoAM2bpT4JZQ",
       "channelName": "KTV 국민방송",
       "collectedAt": "2025-08-20T11:40:03.535274Z"
+    },
+    "T_c_nTO0Tb4": {
+      "videoId": "T_c_nTO0Tb4",
+      "title": "박근혜 규탄 백서까지 낸 北 \"3월말 야간도발 가능성\"",
+      "description": "북한이 '백서'까지 만들며 박근혜 대통령에 대한 원색적인 비난을 계속하고 있습니다. 북한이 한미 연합 훈련이 끝나는 이 달말 밤 시간에 도발할 가능성이 높다는 분석이 나왔습니다. \n\n[Ch.19] 세상에 없는 TV 이제 시작합니다. \n★홈페이지 : http://news.tvchosun.com/",
+      "publishedAt": "2016-03-17T13:11:26Z",
+      "duration": "PT1M30S",
+      "viewCount": 392,
+      "likeCount": 1,
+      "commentCount": 2,
+      "tags": [
+        "TV조선",
+        "티비조선",
+        "조선일보",
+        "종편",
+        "종합편성",
+        "티브이조선",
+        "방송사",
+        "TV조선뉴스",
+        "뉴스",
+        "뉴스프로그램"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "collectedAt": "2025-08-21T10:28:39.571518Z"
+    },
+    "oDRjrUFXDOM": {
+      "videoId": "oDRjrUFXDOM",
+      "title": "봅슬레이 원윤종·서영우 \"스승 영전에 금메달 바치겠다\"",
+      "description": "봅슬레이 세계랭킹 1위 원윤종과 서영우가, 어제 스포츠조선 제정 코카콜라 체육대상 최우수선수상을 받았습니다. 그런데 상을 받기에 앞서 눈물을 쏟았다고 합니다. \n\n[Ch.19] 세상에 없는 TV 이제 시작합니다. \n★홈페이지 : http://news.tvchosun.com/",
+      "publishedAt": "2016-03-16T23:47:39Z",
+      "duration": "PT1M47S",
+      "viewCount": 307,
+      "likeCount": 0,
+      "commentCount": 0,
+      "tags": [
+        "TV조선",
+        "티비조선",
+        "조선일보",
+        "종편",
+        "종합편성",
+        "티브이조선",
+        "방송사",
+        "TV조선뉴스",
+        "뉴스",
+        "뉴스프로그램"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "collectedAt": "2025-08-21T10:28:39.571518Z"
+    },
+    "ex0ULQ3CEYg": {
+      "videoId": "ex0ULQ3CEYg",
+      "title": "1조 빼내려던 간큰 해커…Fed 계좌서 1000억원 증발",
+      "description": "뉴욕 연방 준비 은행 계좌를 해킹해 1조원을 빼내려던 사건이 일어났습니다. 이미 천억원은 빠져나가 카지노에서 돈세탁까지 이뤄진 것 같습니다. 범인은 한달 넘게 오리무중입니다. \n\n[Ch.19] 세상에 없는 TV 이제 시작합니다. \n★홈페이지 : http://news.tvchosun.com/",
+      "publishedAt": "2016-03-17T13:11:26Z",
+      "duration": "PT1M40S",
+      "viewCount": 93213,
+      "likeCount": 98,
+      "commentCount": 44,
+      "tags": [
+        "TV조선",
+        "티비조선",
+        "조선일보",
+        "종편",
+        "종합편성",
+        "티브이조선",
+        "방송사",
+        "TV조선뉴스",
+        "뉴스",
+        "뉴스프로그램"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "collectedAt": "2025-08-21T10:28:39.571518Z"
     }
   },
   "channels": {
@@ -314,9 +404,36 @@
       "viewCount": 496166667,
       "videoCount": 25206,
       "lastUpdated": "2025-08-20T11:40:03.535274Z"
+    },
+    "UCWlV3Lz_55UaX4JsMj-z__Q": {
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "channelUrl": "@tvchosunnews",
+      "channelDescription": "TV조선 뉴스 공식 YouTube 입니다.",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 2900000,
+      "viewCount": 4319423561,
+      "videoCount": 150855,
+      "lastUpdated": "2025-08-21T10:28:39.571518Z"
     }
   },
-  "lastUpdated": "2025-08-20T11:40:03.535274Z",
-  "totalVideos": 10,
-  "totalChannels": 2
+  "lastUpdated": "2025-08-21T10:28:39.579732Z",
+  "totalVideos": 13,
+  "totalChannels": 3
 }

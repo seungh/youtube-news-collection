@@ -89,6 +89,96 @@
       "channelId": "UCIMOytYIzaUpoAM2bpT4JZQ",
       "channelName": "KTV 국민방송",
       "collectedAt": "2025-08-20T11:40:17.085392Z"
+    },
+    "IukF7x7XEaw": {
+      "videoId": "IukF7x7XEaw",
+      "title": "TV조선, 방송뉴스 이용점유율 KBS-MBC 이어 '3위'",
+      "description": "정부가 국내 언론 매체의 영향력을 조사한 결과, TV 조선이 방송 뉴스 분야 이용 점유율에서 3위를 차지했습니다. 종편 4사 가운데 가장 높고, SBS보다도 앞섰습니다.\n\n\n[Ch.19] 세상에 없는 TV 이제 시작합니다. \n★홈페이지 : www.tvchosun.com \n기사 더 보기 ▶ http://news.tvchosun.com/site/data/html_dir/2016/01/21/2016012190238.html",
+      "publishedAt": "2016-01-21T13:10:08Z",
+      "duration": "PT1M24S",
+      "viewCount": 399,
+      "likeCount": 4,
+      "commentCount": 1,
+      "tags": [
+        "TV조선",
+        "티비조선",
+        "조선일보",
+        "종편",
+        "종합편성",
+        "티브이조선",
+        "방송사",
+        "TV조선뉴스",
+        "뉴스",
+        "뉴스프로그램"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "collectedAt": "2025-08-21T10:29:03.062297Z"
+    },
+    "Y2GS85wsSks": {
+      "videoId": "Y2GS85wsSks",
+      "title": "박진영, 쯔위 사태 최초 언급…\"트와이스 응원한다\"",
+      "description": "[앵커]\nJYP 엔터테인먼트 박진영 대표가 '대만국기 논란'에 휩싸인 '트와이스' 멤버 쯔위에 대해 공식 언급했습니다. 한 가요시상식 수상소감에서였는데요. 그간 굳게 입을 다물었던 박진영 대표. 어떤 내용이었을까요? \n\n[Ch.19] 세상에 없는 TV 이제 시작합니다. \n★홈페이지 : www.tvchosun.com \n기사 더 보기 ▶ http://news.tvchosun.com/site/data/html_dir/2016/01/21/2016012190137.html",
+      "publishedAt": "2016-01-21T05:30:51Z",
+      "duration": "PT1M28S",
+      "viewCount": 49456,
+      "likeCount": 133,
+      "commentCount": 71,
+      "tags": [
+        "TV조선",
+        "티비조선",
+        "조선일보",
+        "종편",
+        "종합편성",
+        "티브이조선",
+        "방송사",
+        "TV조선뉴스",
+        "뉴스",
+        "뉴스프로그램"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "collectedAt": "2025-08-21T10:29:03.062297Z"
+    },
+    "QSExj5caEiY": {
+      "videoId": "QSExj5caEiY",
+      "title": "\"휴대전화 요금만 잘 내도 신용등급 오른다\"",
+      "description": "[앵커]\n통신요금이나 공공요금을 납부기한 내에 성실히 내면 신용등급이 올라 대출이자 비용을 절감할 수 있게 됩니다. 대학생이나 사회초년생 등 금융거래실적이 없는 이들의 혜택이 클 것으로 전망됩니다.\n[Ch.19] 세상에 없는 TV 이제 시작합니다. \n★홈페이지 : www.tvchosun.com \n기사 더 보기 ▶ http://news.tvchosun.com/site/data/html_dir/2016/01/21/2016012190093.html",
+      "publishedAt": "2016-01-21T01:09:29Z",
+      "duration": "PT1M36S",
+      "viewCount": 270,
+      "likeCount": 1,
+      "commentCount": 0,
+      "tags": [
+        "TV조선",
+        "티비조선",
+        "조선일보",
+        "종편",
+        "종합편성",
+        "티브이조선",
+        "방송사",
+        "TV조선뉴스",
+        "뉴스",
+        "뉴스프로그램"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "collectedAt": "2025-08-21T10:29:03.062297Z"
     }
   },
   "channels": {
@@ -118,9 +208,36 @@
       "viewCount": 496166667,
       "videoCount": 25206,
       "lastUpdated": "2025-08-20T11:40:17.084395Z"
+    },
+    "UCWlV3Lz_55UaX4JsMj-z__Q": {
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "channelUrl": "@tvchosunnews",
+      "channelDescription": "TV조선 뉴스 공식 YouTube 입니다.",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 2900000,
+      "viewCount": 4319423561,
+      "videoCount": 150855,
+      "lastUpdated": "2025-08-21T10:29:03.062297Z"
     }
   },
-  "lastUpdated": "2025-08-20T11:40:17.085392Z",
-  "totalVideos": 3,
-  "totalChannels": 1
+  "lastUpdated": "2025-08-21T10:29:03.062297Z",
+  "totalVideos": 6,
+  "totalChannels": 2
 }

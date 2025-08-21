@@ -24,6 +24,66 @@
       "channelId": "UCIMOytYIzaUpoAM2bpT4JZQ",
       "channelName": "KTV 국민방송",
       "collectedAt": "2025-08-20T11:40:17.301932Z"
+    },
+    "23pxEK_32yA": {
+      "videoId": "23pxEK_32yA",
+      "title": "'벌컥벌컥' 생수 전쟁...물 수입량·수입액 사상 최고",
+      "description": "외국에서 들여오는 물 수입량과 수입액이 역대 최고치를 기록했습니다. 벌써 더위가 시작됐는데 여름이 일찍 시작되고 더위도 심해질수록 생수 전쟁은 더욱 치열해질 것으로 보입니다.\r\n\r\n[Ch.19] 세상에 없는 TV 이제 시작합니다. \r\n★홈페이지 : www.tvchosun.com \r\n기사 더 보기 ▶ http://news.tvchosun.com/site/data/html_dir/2014/06/18/2014061890297.html",
+      "publishedAt": "2014-06-18T07:39:35Z",
+      "duration": "PT1M27S",
+      "viewCount": 396,
+      "likeCount": 1,
+      "commentCount": 1,
+      "tags": [
+        "TV조선",
+        "티비조선",
+        "조선일보",
+        "종편",
+        "종합편성",
+        "티브이조선",
+        "방송사",
+        "TV조선뉴스",
+        "뉴스",
+        "뉴스프로그램"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "collectedAt": "2025-08-21T10:29:13.481992Z"
+    },
+    "igAucn-DFJc": {
+      "videoId": "igAucn-DFJc",
+      "title": "삼성 '회의시간에 휴대전화 금지'...프랑스는 이미 시행",
+      "description": "[앵커]\r\n요즘 회의 시간 때, 스마트폰만 만지작거리는 모습 쉽게 볼 수 있는데요, 이런 습관이 회의 분위기를 망치기 일쑤입니다. 삼성그룹이 이런 문제 때문에 회의 땐 휴대전화를 소지할 수 없도록 먼저 캠페인을 시작했습니다.\r\n\r\n\r\n\r\n[Ch.19] 세상에 없는 TV 이제 시작합니다. \r\n★홈페이지 : www.tvchosun.com \r\n기사 더 보기 ▶http://news.tvchosun.com/site/data/html_dir/2014/06/18/2014061890069.html",
+      "publishedAt": "2014-06-18T06:10:08Z",
+      "duration": "PT1M21S",
+      "viewCount": 397,
+      "likeCount": 0,
+      "commentCount": 0,
+      "tags": [
+        "TV조선",
+        "티비조선",
+        "조선일보",
+        "종편",
+        "종합편성",
+        "티브이조선",
+        "방송사",
+        "TV조선뉴스",
+        "뉴스",
+        "뉴스프로그램"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "collectedAt": "2025-08-21T10:29:13.481992Z"
     }
   },
   "channels": {
@@ -53,9 +113,36 @@
       "viewCount": 496166667,
       "videoCount": 25206,
       "lastUpdated": "2025-08-20T11:40:17.301932Z"
+    },
+    "UCWlV3Lz_55UaX4JsMj-z__Q": {
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "channelUrl": "@tvchosunnews",
+      "channelDescription": "TV조선 뉴스 공식 YouTube 입니다.",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 2900000,
+      "viewCount": 4319423561,
+      "videoCount": 150855,
+      "lastUpdated": "2025-08-21T10:29:13.479965Z"
     }
   },
-  "lastUpdated": "2025-08-20T11:40:17.303928Z",
-  "totalVideos": 1,
-  "totalChannels": 1
+  "lastUpdated": "2025-08-21T10:29:13.482506Z",
+  "totalVideos": 3,
+  "totalChannels": 2
 }

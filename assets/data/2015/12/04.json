@@ -351,6 +351,66 @@
       "channelId": "UCNJM6dqu70Qr6VaseiW1Org",
       "channelName": "이재명",
       "collectedAt": "2025-08-20T11:40:04.322270Z"
+    },
+    "V7yYHw6MOyQ": {
+      "videoId": "V7yYHw6MOyQ",
+      "title": "'기강잡기' 나선 문재인, 문제 의원 속전속결 처리",
+      "description": "어제 정면 대결을 선택한 새정치민주연합 문재인 대표와 친노 진영이 반대파 진압 작전에 속도를 내고 있습니다. 새정치민주연합 당무 감사원이 당 대표 사퇴를 요구해 온 유성엽, 황주홍 의원의 징계를 요구했는데, 호남 물갈이을 시작한 것으로도 해석됩니다. \n\n[Ch.19] 세상에 없는 TV 이제 시작합니다. \n★홈페이지 : www.tvchosun.com \n기사 더 보기 ▶ http://news.tvchosun.com/site/data/html_dir/2015/12/04/2015120490154.html",
+      "publishedAt": "2015-12-04T12:32:17Z",
+      "duration": "PT1M38S",
+      "viewCount": 335,
+      "likeCount": 1,
+      "commentCount": 0,
+      "tags": [
+        "TV조선",
+        "티비조선",
+        "조선일보",
+        "종편",
+        "종합편성",
+        "티브이조선",
+        "방송사",
+        "TV조선뉴스",
+        "뉴스",
+        "뉴스프로그램"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "collectedAt": "2025-08-21T10:28:43.156532Z"
+    },
+    "vxvK38teL_M": {
+      "videoId": "vxvK38teL_M",
+      "title": "삼성 임원인사…승진자 금융위기 이후 '최소'",
+      "description": "삼성그룹이 임원 294명을 승진시키는 정기 임원 인사를 단행했습니다. 승진자 수는 글로벌 금융위기 직후인 2009년 247명 이후 최소 규모입니다. \n\n[Ch.19] 세상에 없는 TV 이제 시작합니다. \n★홈페이지 : www.tvchosun.com \n기사 더 보기 ▶ http://news.tvchosun.com/site/data/html_dir/2015/12/04/2015120490107.html",
+      "publishedAt": "2015-12-04T05:54:09Z",
+      "duration": "PT1M44S",
+      "viewCount": 180,
+      "likeCount": 0,
+      "commentCount": 0,
+      "tags": [
+        "TV조선",
+        "티비조선",
+        "조선일보",
+        "종편",
+        "종합편성",
+        "티브이조선",
+        "방송사",
+        "TV조선뉴스",
+        "뉴스",
+        "뉴스프로그램"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "collectedAt": "2025-08-21T10:28:43.156532Z"
     }
   },
   "channels": {
@@ -434,9 +494,36 @@
       "viewCount": 336974518,
       "videoCount": 3965,
       "lastUpdated": "2025-08-20T11:40:04.320557Z"
+    },
+    "UCWlV3Lz_55UaX4JsMj-z__Q": {
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "channelUrl": "@tvchosunnews",
+      "channelDescription": "TV조선 뉴스 공식 YouTube 입니다.",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 2900000,
+      "viewCount": 4319423561,
+      "videoCount": 150855,
+      "lastUpdated": "2025-08-21T10:28:43.156532Z"
     }
   },
-  "lastUpdated": "2025-08-20T11:40:04.324265Z",
-  "totalVideos": 12,
-  "totalChannels": 3
+  "lastUpdated": "2025-08-21T10:28:43.157528Z",
+  "totalVideos": 14,
+  "totalChannels": 4
 }

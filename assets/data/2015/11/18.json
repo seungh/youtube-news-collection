@@ -77,6 +77,66 @@
       "channelId": "UCIMOytYIzaUpoAM2bpT4JZQ",
       "channelName": "KTV 국민방송",
       "collectedAt": "2025-08-20T11:40:08.808529Z"
+    },
+    "piZZ2WmhG4I": {
+      "videoId": "piZZ2WmhG4I",
+      "title": "김무성 \"버스 위 의경에 눈물\" vs 문재인 \"착한 정부 돼라\"",
+      "description": "지난 주말 도심 폭력 시위들 두고 여야가 사흘째 대립하고 있습니다. 여당은 '공권력에 대한 테러'로 규정했고, 야당은 경찰의 '살인 진압'부터 사과하라는 입장입니다. 다른 나라는 IS와 전쟁을 하고 있는데, 우리는 안에서 우리끼리 돌을 던지고, 쇠파이프를 휘두르고, 물대포를 쏘면서 싸우고 있습니다.\n\n[Ch.19] 세상에 없는 TV 이제 시작합니다. \n★홈페이지 : www.tvchosun.com \n기사 더 보기 ▶ http://news.tvchosun.com/site/data/html_dir/2015/11/18/2015111890162.html",
+      "publishedAt": "2015-11-18T13:15:23Z",
+      "duration": "PT1M54S",
+      "viewCount": 1005,
+      "likeCount": 1,
+      "commentCount": 1,
+      "tags": [
+        "TV조선",
+        "티비조선",
+        "조선일보",
+        "종편",
+        "종합편성",
+        "티브이조선",
+        "방송사",
+        "TV조선뉴스",
+        "뉴스",
+        "뉴스프로그램"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "collectedAt": "2025-08-21T10:28:43.589113Z"
+    },
+    "wxsCrtLwn1M": {
+      "videoId": "wxsCrtLwn1M",
+      "title": "\"폭력 시위하면 오히려 불리\"…폴리스라인 넘으면 가차없이 처벌",
+      "description": "선진국의 시위 문화는 어떨까요. 시위대 스스로가 폭력 시위를 하면 자신들에게 불리하다는점을 인식하고 경계한다고 합니다. 경찰에게 시위 해산의 빌미를 제공할 뿐 아니라 여론이 등을 돌려 결국은 시위대한테 손해라는 판단 때문입니다.\n\n[Ch.19] 세상에 없는 TV 이제 시작합니다. \n★홈페이지 : www.tvchosun.com \n기사 더 보기 ▶ http://news.tvchosun.com/site/data/html_dir/2015/11/18/2015111890231.html",
+      "publishedAt": "2015-11-18T13:15:23Z",
+      "duration": "PT1M52S",
+      "viewCount": 791,
+      "likeCount": 3,
+      "commentCount": 3,
+      "tags": [
+        "TV조선",
+        "티비조선",
+        "조선일보",
+        "종편",
+        "종합편성",
+        "티브이조선",
+        "방송사",
+        "TV조선뉴스",
+        "뉴스",
+        "뉴스프로그램"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "collectedAt": "2025-08-21T10:28:43.589113Z"
     }
   },
   "channels": {
@@ -133,9 +193,36 @@
       "viewCount": 496166667,
       "videoCount": 25206,
       "lastUpdated": "2025-08-20T11:40:08.808447Z"
+    },
+    "UCWlV3Lz_55UaX4JsMj-z__Q": {
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "channelUrl": "@tvchosunnews",
+      "channelDescription": "TV조선 뉴스 공식 YouTube 입니다.",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 2900000,
+      "viewCount": 4319423561,
+      "videoCount": 150855,
+      "lastUpdated": "2025-08-21T10:28:43.588115Z"
     }
   },
-  "lastUpdated": "2025-08-20T11:40:08.808529Z",
-  "totalVideos": 3,
-  "totalChannels": 2
+  "lastUpdated": "2025-08-21T10:28:43.589113Z",
+  "totalVideos": 5,
+  "totalChannels": 3
 }

@@ -181,6 +181,66 @@
       "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
       "channelName": "NATV 국회방송",
       "collectedAt": "2025-08-18T07:13:42.501135Z"
+    },
+    "rO1mcNsW6M8": {
+      "videoId": "rO1mcNsW6M8",
+      "title": "文, 박원순-이재명과 '박 정부 복지 후퇴' 토크콘서트",
+      "description": "새정치민주연합 문재인 대표가 박원순 서울시장, 이재명 성남시장과 잠시뒤 10시부터 토크콘서트를 엽니다. 박근혜 정부의 복지정책 후퇴를 강하게 비판 할 것으로 보입니다. \n\n[Ch.19] 세상에 없는 TV 이제 시작합니다. \n★홈페이지 : www.tvchosun.com \n기사 더 보기 ▶ http://news.tvchosun.com/site/data/html_dir/2015/12/20/2015122090007.html",
+      "publishedAt": "2015-12-20T03:56:40Z",
+      "duration": "PT1M11S",
+      "viewCount": 445,
+      "likeCount": 4,
+      "commentCount": 1,
+      "tags": [
+        "TV조선",
+        "티비조선",
+        "조선일보",
+        "종편",
+        "종합편성",
+        "티브이조선",
+        "방송사",
+        "TV조선뉴스",
+        "뉴스",
+        "뉴스프로그램"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "collectedAt": "2025-08-21T10:28:42.200579Z"
+    },
+    "MURGHk3ZOnc": {
+      "videoId": "MURGHk3ZOnc",
+      "title": "이나영-원빈 부부 '득남'…\"결혼 7개월 만에\"",
+      "description": "지난 5월 비밀리에 결혼한 원빈·이나영 부부가 최근 득남 한 것으로 확인됐습니다. 결혼 7개월 만인데요. 산모와 아이 모두 건강한 것으로 전해집니다. \n\n[Ch.19] 세상에 없는 TV 이제 시작합니다. \n★홈페이지 : www.tvchosun.com \n기사 더 보기 ▶ http://news.tvchosun.com/site/data/html_dir/2015/12/20/2015122090031.html",
+      "publishedAt": "2015-12-20T04:14:07Z",
+      "duration": "PT1M29S",
+      "viewCount": 1971,
+      "likeCount": 2,
+      "commentCount": 0,
+      "tags": [
+        "TV조선",
+        "티비조선",
+        "조선일보",
+        "종편",
+        "종합편성",
+        "티브이조선",
+        "방송사",
+        "TV조선뉴스",
+        "뉴스",
+        "뉴스프로그램"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "collectedAt": "2025-08-21T10:28:42.200579Z"
     }
   },
   "channels": {
@@ -210,9 +270,36 @@
       "viewCount": 86009826,
       "videoCount": 16390,
       "lastUpdated": "2025-08-18T07:13:42.500615Z"
+    },
+    "UCWlV3Lz_55UaX4JsMj-z__Q": {
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "channelUrl": "@tvchosunnews",
+      "channelDescription": "TV조선 뉴스 공식 YouTube 입니다.",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 2900000,
+      "viewCount": 4319423561,
+      "videoCount": 150855,
+      "lastUpdated": "2025-08-21T10:28:42.191019Z"
     }
   },
-  "lastUpdated": "2025-08-20T11:40:12.429613Z",
-  "totalVideos": 8,
-  "totalChannels": 1
+  "lastUpdated": "2025-08-21T10:28:42.201579Z",
+  "totalVideos": 10,
+  "totalChannels": 2
 }

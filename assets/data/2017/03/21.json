@@ -879,6 +879,66 @@
       "channelId": "UCNJM6dqu70Qr6VaseiW1Org",
       "channelName": "이재명",
       "collectedAt": "2025-08-20T11:40:00.902500Z"
+    },
+    "ctMkaInCW8w": {
+      "videoId": "ctMkaInCW8w",
+      "title": "[판 포커스] 호남 올인, 운명을 건 주말",
+      "description": "[앵커]\n지금 호남이 뜨겁습니다. 더불어민주당과 국민의당 모두 첫 대통령후보 경선 투표를 이번 주말 호남에서 시작합니다. 호남은 과거, 노무현 대통령을 만든 출발점이었죠. 오늘의 판 포커스, 호남에 올인한 대선 후보들 이야기입니다. \n\n[Ch.19] 세상에 없는 TV 이제 시작합니다. \n★홈페이지 : http://news.tvchosun.com/\n\n* 뉴스제보 : 이메일(tvchosun@chosun.com), 카카오톡(tv조선제보), 전화(1661-0190)",
+      "publishedAt": "2017-03-21T12:35:28Z",
+      "duration": "PT4M10S",
+      "viewCount": 197,
+      "likeCount": 2,
+      "commentCount": 0,
+      "tags": [
+        "TV조선",
+        "티비조선",
+        "조선일보",
+        "종편",
+        "종합편성",
+        "티브이조선",
+        "방송사",
+        "TV조선뉴스",
+        "뉴스",
+        "뉴스프로그램"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "collectedAt": "2025-08-21T10:28:28.323857Z"
+    },
+    "PWMArPGwnJ0": {
+      "videoId": "PWMArPGwnJ0",
+      "title": "실탄 장전 권총 분실한 靑 경호실…뻥 뚫린 보안 [단독]",
+      "description": "[앵커]\n참 어처구니없는 일이 일어났습니다. 박근혜 전 대통령 자택을 지키는 대통령 경호실 소속 경호원이 가지고 있던 권총을 며칠전 잃어버렸습니다. 다행히 주민이 발견해 돌려줬는데 실탄이 들어있는 상태였습니다. 자칫 잘못했으면 강력범죄의 수단이 될 수도 있었는데 왜 이런 일이 일어난건지, 현장추적, 이상배 기자의 단독보도입니다.\n\n[Ch.19] 세상에 없는 TV 이제 시작합니다. \n★홈페이지 : http://news.tvchosun.com/\n\n* 뉴스제보 : 이메일(tvchosun@chosun.com), 카카오톡(tv조선제보), 전화(1661-0190)",
+      "publishedAt": "2017-03-21T12:23:01Z",
+      "duration": "PT2M46S",
+      "viewCount": 2010,
+      "likeCount": 5,
+      "commentCount": 3,
+      "tags": [
+        "TV조선",
+        "티비조선",
+        "조선일보",
+        "종편",
+        "종합편성",
+        "티브이조선",
+        "방송사",
+        "TV조선뉴스",
+        "뉴스",
+        "뉴스프로그램"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "collectedAt": "2025-08-21T10:28:28.323857Z"
     }
   },
   "channels": {
@@ -962,9 +1022,36 @@
       "viewCount": 336974518,
       "videoCount": 3965,
       "lastUpdated": "2025-08-20T11:40:00.901503Z"
+    },
+    "UCWlV3Lz_55UaX4JsMj-z__Q": {
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "channelUrl": "@tvchosunnews",
+      "channelDescription": "TV조선 뉴스 공식 YouTube 입니다.",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 2900000,
+      "viewCount": 4319423561,
+      "videoCount": 150855,
+      "lastUpdated": "2025-08-21T10:28:28.321334Z"
     }
   },
-  "lastUpdated": "2025-08-20T11:40:00.902500Z",
-  "totalVideos": 32,
-  "totalChannels": 3
+  "lastUpdated": "2025-08-21T10:28:28.323857Z",
+  "totalVideos": 34,
+  "totalChannels": 4
 }

@@ -200,6 +200,96 @@
       "channelId": "UCIMOytYIzaUpoAM2bpT4JZQ",
       "channelName": "KTV 국민방송",
       "collectedAt": "2025-08-20T11:38:48.324298Z"
+    },
+    "LGcf4COCoSg": {
+      "videoId": "LGcf4COCoSg",
+      "title": "\"北 미공개 우라늄 농축 의심 시설 나와\"",
+      "description": "북한의 비밀 핵시설로 의심되는 장소가 위성사진에 포착됐습니다. 취재기자 연결해 자세한 내용 알아보겠습니다.\n\n[Ch.19] 세상에 없는 TV 이제 시작합니다. \n★홈페이지 : http://news.tvchosun.com/",
+      "publishedAt": "2016-07-22T06:45:39Z",
+      "duration": "PT1M33S",
+      "viewCount": 85,
+      "likeCount": 1,
+      "commentCount": 1,
+      "tags": [
+        "TV조선",
+        "티비조선",
+        "조선일보",
+        "종편",
+        "종합편성",
+        "티브이조선",
+        "방송사",
+        "TV조선뉴스",
+        "뉴스",
+        "뉴스프로그램"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "collectedAt": "2025-08-21T10:28:36.730756Z"
+    },
+    "zuamW7j3TzE": {
+      "videoId": "zuamW7j3TzE",
+      "title": "北, NLL 사각지대 도발 가능성…軍, 지난달 비공개 훈련",
+      "description": "우리 군의 K-9 자주포가 미치지 못하는 섬과 바닷가에서  북한군이 해안포를 운용하고 있는 것으로 확인됐습니다. 국방부는 북한군이 이곳에서 도발할 가능성이 높다고 보고, 지난달 비공개 훈련을 실시했습니다. \n\n\n[Ch.19] 세상에 없는 TV 이제 시작합니다. \n★홈페이지 : http://news.tvchosun.com/",
+      "publishedAt": "2016-07-22T12:39:15Z",
+      "duration": "PT1M44S",
+      "viewCount": 245,
+      "likeCount": 0,
+      "commentCount": 0,
+      "tags": [
+        "TV조선",
+        "티비조선",
+        "조선일보",
+        "종편",
+        "종합편성",
+        "티브이조선",
+        "방송사",
+        "TV조선뉴스",
+        "뉴스",
+        "뉴스프로그램"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "collectedAt": "2025-08-21T10:28:36.730756Z"
+    },
+    "Dk-dYOTSajw": {
+      "videoId": "Dk-dYOTSajw",
+      "title": "우병우, 재산등록엔 0대…아파트엔 차량 5대 등록",
+      "description": "우병우 민정수석이 자신이 살고 있는 아파트에 차량을 5대나 등록한 사실이 TV조선 취재결과 확인됐습니다. 공직자 재산 등록 때는 보유한 차가 1대도 없다고 신고했습니다. 무엇때문에 5대가 필요한지 궁금합니다. \n\n\n[Ch.19] 세상에 없는 TV 이제 시작합니다. \n★홈페이지 : http://news.tvchosun.com/",
+      "publishedAt": "2016-07-22T12:39:15Z",
+      "duration": "PT1M58S",
+      "viewCount": 566,
+      "likeCount": 1,
+      "commentCount": 0,
+      "tags": [
+        "TV조선",
+        "티비조선",
+        "조선일보",
+        "종편",
+        "종합편성",
+        "티브이조선",
+        "방송사",
+        "TV조선뉴스",
+        "뉴스",
+        "뉴스프로그램"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "collectedAt": "2025-08-21T10:28:36.730756Z"
     }
   },
   "channels": {
@@ -283,9 +373,36 @@
       "viewCount": 496166667,
       "videoCount": 25206,
       "lastUpdated": "2025-08-20T11:38:48.323302Z"
+    },
+    "UCWlV3Lz_55UaX4JsMj-z__Q": {
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "channelUrl": "@tvchosunnews",
+      "channelDescription": "TV조선 뉴스 공식 YouTube 입니다.",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 2900000,
+      "viewCount": 4319423561,
+      "videoCount": 150855,
+      "lastUpdated": "2025-08-21T10:28:36.730756Z"
     }
   },
-  "lastUpdated": "2025-08-20T11:38:48.325095Z",
-  "totalVideos": 7,
-  "totalChannels": 3
+  "lastUpdated": "2025-08-21T10:28:36.731742Z",
+  "totalVideos": 10,
+  "totalChannels": 4
 }

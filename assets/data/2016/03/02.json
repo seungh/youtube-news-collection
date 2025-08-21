@@ -269,6 +269,66 @@
       "channelId": "UCIMOytYIzaUpoAM2bpT4JZQ",
       "channelName": "KTV 국민방송",
       "collectedAt": "2025-08-20T11:40:13.884281Z"
+    },
+    "3-FvyKunu-o": {
+      "videoId": "3-FvyKunu-o",
+      "title": "76세 노정객 김종인 '정국 주도'",
+      "description": "오늘도 그렇지만 요즘 정치권에서는 오랜만에 제 1 야당 대표다운 대표가 나왔다는 말까지 있을 정도로, 김종인 더불어 민주당 대표가 화제의 중심, 정국의 중심에 서 있습니다.\n\n[Ch.19] 세상에 없는 TV 이제 시작합니다. \n★홈페이지 : www.tvchosun.com \n기사 더 보기 ▶ http://news.tvchosun.com/site/data/html_dir/2016/03/02/2016030290157.html",
+      "publishedAt": "2016-03-02T13:17:10Z",
+      "duration": "PT1M42S",
+      "viewCount": 451,
+      "likeCount": 3,
+      "commentCount": 0,
+      "tags": [
+        "TV조선",
+        "티비조선",
+        "조선일보",
+        "종편",
+        "종합편성",
+        "티브이조선",
+        "방송사",
+        "TV조선뉴스",
+        "뉴스",
+        "뉴스프로그램"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": "ko",
+      "defaultAudioLanguage": "ko",
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "collectedAt": "2025-08-21T10:28:39.935694Z"
+    },
+    "xu2k-EiFU1I": {
+      "videoId": "xu2k-EiFU1I",
+      "title": "빌 게이츠, 3년 연속 세계 최고 부자…이건희 112위",
+      "description": "미국 마이크로소프트의 공동창업자인 빌 게이츠가 3년 연속 세계 최고 부자에 올랐습니다. 이건희 삼성전자 회장은 지난해보다 2계단 떨어진 112위에 올랐습니다.\n\n[Ch.19] 세상에 없는 TV 이제 시작합니다. \n★홈페이지 : www.tvchosun.com \n기사 더 보기 ▶ 링크넣어주세요",
+      "publishedAt": "2016-03-02T06:53:29Z",
+      "duration": "PT1M35S",
+      "viewCount": 250,
+      "likeCount": 0,
+      "commentCount": 0,
+      "tags": [
+        "TV조선",
+        "티비조선",
+        "조선일보",
+        "종편",
+        "종합편성",
+        "티브이조선",
+        "방송사",
+        "TV조선뉴스",
+        "뉴스",
+        "뉴스프로그램"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "collectedAt": "2025-08-21T10:28:39.935694Z"
     }
   },
   "channels": {
@@ -298,9 +358,36 @@
       "viewCount": 496166667,
       "videoCount": 25206,
       "lastUpdated": "2025-08-20T11:40:13.883284Z"
+    },
+    "UCWlV3Lz_55UaX4JsMj-z__Q": {
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "channelUrl": "@tvchosunnews",
+      "channelDescription": "TV조선 뉴스 공식 YouTube 입니다.",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 2900000,
+      "viewCount": 4319423561,
+      "videoCount": 150855,
+      "lastUpdated": "2025-08-21T10:28:39.935694Z"
     }
   },
-  "lastUpdated": "2025-08-20T11:40:13.885860Z",
-  "totalVideos": 9,
-  "totalChannels": 1
+  "lastUpdated": "2025-08-21T10:28:39.942903Z",
+  "totalVideos": 11,
+  "totalChannels": 2
 }

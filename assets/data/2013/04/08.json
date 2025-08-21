@@ -1,0 +1,74 @@
+{
+  "videos": {
+    "D7RPeH6Jd8s": {
+      "videoId": "D7RPeH6Jd8s",
+      "title": "[단독] 싸이 \"신곡도 강남 스타일처럼...\"",
+      "description": "[앵커]\r\n싸이가 비밀리에 서울 곳곳을 돌아다니며 뮤직비디오를 찍고 있습니다. 신곡도 '강남스타일'처럼 만들었다는데, 이루라 기자가 컴백을 앞둔 싸이를 단독으로 만났습니다. \r\n\r\n기사 더 보실 분 아래 클릭\r\nhttp://news.tv.chosun.com/site/data/html_dir/2013/04/08/2013040890331.html",
+      "publishedAt": "2013-04-08T14:13:31Z",
+      "duration": "PT1M27S",
+      "viewCount": 1731,
+      "likeCount": 6,
+      "commentCount": 0,
+      "tags": [],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "collectedAt": "2025-08-21T10:29:10.326322Z"
+    },
+    "WFs7iGHSYJs": {
+      "videoId": "WFs7iGHSYJs",
+      "title": "[단독] 싸이, 새 앨범 강남스타일과 비슷해",
+      "description": "싸이가 새 앨범 발표를 일주일 여 앞두고, 뮤직비디오 촬영에 들어갔습니다. 서울 시내 곳곳에서 촬영 중인 싸이를 이루라 기자가 단독으로 만났습니다. \n\n기사 더 보실 분 아래 클릭\nhttp://news.tv.chosun.com/site/data/html_dir/2013/04/08/2013040890038.html",
+      "publishedAt": "2013-04-08T08:29:14Z",
+      "duration": "PT1M43S",
+      "viewCount": 5759,
+      "likeCount": 11,
+      "commentCount": 0,
+      "tags": [],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "collectedAt": "2025-08-21T10:29:10.326322Z"
+    }
+  },
+  "channels": {
+    "UCWlV3Lz_55UaX4JsMj-z__Q": {
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "channelUrl": "@tvchosunnews",
+      "channelDescription": "TV조선 뉴스 공식 YouTube 입니다.",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 2900000,
+      "viewCount": 4319423561,
+      "videoCount": 150855,
+      "lastUpdated": "2025-08-21T10:29:10.323179Z"
+    }
+  },
+  "lastUpdated": "2025-08-21T10:29:10.326322Z",
+  "totalVideos": 2,
+  "totalChannels": 1
+}

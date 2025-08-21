@@ -148,6 +148,96 @@
       "channelId": "UCIMOytYIzaUpoAM2bpT4JZQ",
       "channelName": "KTV 국민방송",
       "collectedAt": "2025-08-20T11:40:16.594197Z"
+    },
+    "OJ1jPrBPeQM": {
+      "videoId": "OJ1jPrBPeQM",
+      "title": "文-시진핑 통화 \"얘기 잘됐다\"…사드 돌파구 열리나",
+      "description": "문재인 대통령이 어제 트럼프 미국 대통령을 시작으로 오늘 시진핑 중국 주석, 아베 일본 총리와 잇따라 통화했습니다. 특히 시 주석과는 사드문제를 집중 논의했지만, 분위기가 좋았던 모양입니다. 미국보다 앞서 정상회담을 할 가능성도 있다고 합니다.\n\n[Ch.19] 세상에 없는 TV 이제 시작합니다. \n★홈페이지 : http://news.tvchosun.com/\n\n* 뉴스제보 : 이메일(tvchosun@chosun.com), 카카오톡(tv조선제보), 전화(1661-0190)",
+      "publishedAt": "2017-05-11T12:34:09Z",
+      "duration": "PT1M46S",
+      "viewCount": 1237,
+      "likeCount": 3,
+      "commentCount": 1,
+      "tags": [
+        "TV조선",
+        "티비조선",
+        "조선일보",
+        "종편",
+        "종합편성",
+        "티브이조선",
+        "방송사",
+        "TV조선뉴스",
+        "뉴스",
+        "뉴스프로그램"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": "ko",
+      "defaultAudioLanguage": "ko",
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "collectedAt": "2025-08-21T10:28:33.609129Z"
+    },
+    "5SV44DWkbTs": {
+      "videoId": "5SV44DWkbTs",
+      "title": "靑 수석비서관 인선 발표…민정 조국, 홍보 윤영찬, 국무조정실장 홍남기",
+      "description": "청와대가 조금 전 수석급 인사를 발표했습니다. 어제 거론됐던 조국 교수가 결국 민정수석이 됐고, 홍보수석엔 윤영찬 전 네이버 부사장이 임명됐습니다.\n\n[Ch.19] 세상에 없는 TV 이제 시작합니다. \n★홈페이지 : http://news.tvchosun.com/\n\n* 뉴스제보 : 이메일(tvchosun@chosun.com), 카카오톡(tv조선제보), 전화(1661-0190)",
+      "publishedAt": "2017-05-11T04:20:30Z",
+      "duration": "PT2M21S",
+      "viewCount": 268,
+      "likeCount": 3,
+      "commentCount": 1,
+      "tags": [
+        "TV조선",
+        "티비조선",
+        "조선일보",
+        "종편",
+        "종합편성",
+        "티브이조선",
+        "방송사",
+        "TV조선뉴스",
+        "뉴스",
+        "뉴스프로그램"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "collectedAt": "2025-08-21T10:28:33.609129Z"
+    },
+    "N6TPpYaAB_o": {
+      "videoId": "N6TPpYaAB_o",
+      "title": "4월 실업률 17년 만에 최악…청년실업률도 고공행진",
+      "description": "4월 실업률이 17년 만에 최악으로 나타났습니다. 실업자 117만명에 구직포기자까지 더하면 160만 명이 생계 수단을 찾지 못하고 있습니다.\n\n[Ch.19] 세상에 없는 TV 이제 시작합니다. \n★홈페이지 : http://news.tvchosun.com/\n\n* 뉴스제보 : 이메일(tvchosun@chosun.com), 카카오톡(tv조선제보), 전화(1661-0190)",
+      "publishedAt": "2017-05-11T12:34:11Z",
+      "duration": "PT1M37S",
+      "viewCount": 213,
+      "likeCount": 0,
+      "commentCount": 1,
+      "tags": [
+        "TV조선",
+        "티비조선",
+        "조선일보",
+        "종편",
+        "종합편성",
+        "티브이조선",
+        "방송사",
+        "TV조선뉴스",
+        "뉴스",
+        "뉴스프로그램"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": "ko",
+      "defaultAudioLanguage": "ko",
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "collectedAt": "2025-08-21T10:28:33.609129Z"
     }
   },
   "channels": {
@@ -177,9 +267,36 @@
       "viewCount": 496166667,
       "videoCount": 25206,
       "lastUpdated": "2025-08-20T11:40:16.594197Z"
+    },
+    "UCWlV3Lz_55UaX4JsMj-z__Q": {
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "channelUrl": "@tvchosunnews",
+      "channelDescription": "TV조선 뉴스 공식 YouTube 입니다.",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 2900000,
+      "viewCount": 4319423561,
+      "videoCount": 150855,
+      "lastUpdated": "2025-08-21T10:28:33.609129Z"
     }
   },
-  "lastUpdated": "2025-08-20T11:40:16.594197Z",
-  "totalVideos": 5,
-  "totalChannels": 1
+  "lastUpdated": "2025-08-21T10:28:33.610112Z",
+  "totalVideos": 8,
+  "totalChannels": 2
 }

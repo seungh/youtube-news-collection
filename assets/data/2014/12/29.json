@@ -202,6 +202,66 @@
       "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
       "channelName": "NATV 국회방송",
       "collectedAt": "2025-08-20T11:40:07.001763Z"
+    },
+    "YZVm-tvCrC4": {
+      "videoId": "YZVm-tvCrC4",
+      "title": "'국제시장' 흥행 돌풍…가족애 영화 강세",
+      "description": "연말 극장가에서 '가족애'를 담은 영화들의 흥행 돌풍이 이어지고 있습니다. 특히, 굴곡의 현대사를 살아 온 우리 아버지들에 바치는 영화, '국제시장'이 400만 관객을 돌파하며 연말 흥행돌풍을 이어가고 있습니다.\n\n\n[Ch.19] 세상에 없는 TV 이제 시작합니다. \n★홈페이지 : www.tvchosun.com \n기사 더 보기 ▶ http://news.tvchosun.com/site/data/html_dir/2014/12/29/2014122990307.html",
+      "publishedAt": "2014-12-29T13:53:34Z",
+      "duration": "PT1M48S",
+      "viewCount": 374,
+      "likeCount": 2,
+      "commentCount": 0,
+      "tags": [
+        "TV조선",
+        "티비조선",
+        "조선일보",
+        "종편",
+        "종합편성",
+        "티브이조선",
+        "방송사",
+        "TV조선뉴스",
+        "뉴스",
+        "뉴스프로그램"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "collectedAt": "2025-08-21T10:29:04.988938Z"
+    },
+    "cMCjD8A192I": {
+      "videoId": "cMCjD8A192I",
+      "title": "영화 '언브로큰' 일본군 만행 담아",
+      "description": "요즘 이런저런 이유로 화제의 영화들이 많은데, 2차 세계 대전 당시 일본군에 붙잡혔다 돌아온 미국 육상 스타의 실화를 다룬 영화가 북미 시장에서 돌풍을 일으키고 있습니다. \n\n\n[Ch.19] 세상에 없는 TV 이제 시작합니다. \n★홈페이지 : www.tvchosun.com \n기사 더 보기 ▶ \nhttp://news.tvchosun.com/site/data/html_dir/2014/12/29/2014122990255.html",
+      "publishedAt": "2014-12-29T13:45:24Z",
+      "duration": "PT1M43S",
+      "viewCount": 982,
+      "likeCount": 6,
+      "commentCount": 1,
+      "tags": [
+        "TV조선",
+        "티비조선",
+        "조선일보",
+        "종편",
+        "종합편성",
+        "티브이조선",
+        "방송사",
+        "TV조선뉴스",
+        "뉴스",
+        "뉴스프로그램"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "collectedAt": "2025-08-21T10:29:04.988938Z"
     }
   },
   "channels": {
@@ -231,9 +291,36 @@
       "viewCount": 86009826,
       "videoCount": 16390,
       "lastUpdated": "2025-08-18T07:13:46.536483Z"
+    },
+    "UCWlV3Lz_55UaX4JsMj-z__Q": {
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "channelUrl": "@tvchosunnews",
+      "channelDescription": "TV조선 뉴스 공식 YouTube 입니다.",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 2900000,
+      "viewCount": 4319423561,
+      "videoCount": 150855,
+      "lastUpdated": "2025-08-21T10:29:04.987253Z"
     }
   },
-  "lastUpdated": "2025-08-20T11:40:07.004310Z",
-  "totalVideos": 9,
-  "totalChannels": 1
+  "lastUpdated": "2025-08-21T10:29:04.989467Z",
+  "totalVideos": 11,
+  "totalChannels": 2
 }

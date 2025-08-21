@@ -651,6 +651,96 @@
       "channelId": "UCIMOytYIzaUpoAM2bpT4JZQ",
       "channelName": "KTV 국민방송",
       "collectedAt": "2025-08-20T11:38:51.640717Z"
+    },
+    "Oh_Jze0VxQk": {
+      "videoId": "Oh_Jze0VxQk",
+      "title": "엄마가 놀이공원 간 사이에…혼자 엎드려 숨진 생후 2개월 아들",
+      "description": "생후 두 달된 아들를 엎드려 재운 20 대 초반의 여성이 8시간 동안 집을 비웠습니다. 친구와 놀이공원에 가기 위해서였는데, 평생을 후회하게 될 일이 벌어지고 말았습니다.\n\n[Ch.19] 세상에 없는 TV 이제 시작합니다. \n★홈페이지 : http://news.tvchosun.com/",
+      "publishedAt": "2016-05-20T13:18:02Z",
+      "duration": "PT1M26S",
+      "viewCount": 17228,
+      "likeCount": 60,
+      "commentCount": 24,
+      "tags": [
+        "TV조선",
+        "티비조선",
+        "조선일보",
+        "종편",
+        "종합편성",
+        "티브이조선",
+        "방송사",
+        "TV조선뉴스",
+        "뉴스",
+        "뉴스프로그램"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "collectedAt": "2025-08-21T10:29:09.127085Z"
+    },
+    "fM9ensNFDIA": {
+      "videoId": "fM9ensNFDIA",
+      "title": "조폐공사, '송송커플' 메달 중국에 수출한다",
+      "description": "최고의 주가를 올리고 있는 한류스타 송중기, 송혜교의 한정판 기념메달이 나옵니다. 한류 마케팅이 조폐 공사의 새로운 수익모델이 되고 있습니다.\n\n[Ch.19] 세상에 없는 TV 이제 시작합니다. \n★홈페이지 : http://news.tvchosun.com/",
+      "publishedAt": "2016-05-20T13:11:45Z",
+      "duration": "PT1M29S",
+      "viewCount": 559,
+      "likeCount": 3,
+      "commentCount": 0,
+      "tags": [
+        "TV조선",
+        "티비조선",
+        "조선일보",
+        "종편",
+        "종합편성",
+        "티브이조선",
+        "방송사",
+        "TV조선뉴스",
+        "뉴스",
+        "뉴스프로그램"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "collectedAt": "2025-08-21T10:29:09.127085Z"
+    },
+    "kDcctAGFmw8": {
+      "videoId": "kDcctAGFmw8",
+      "title": "[뉴스 인사이드] 서울에서 007 영화 같은 현금수송 작전 펼쳐진다!",
+      "description": "내년즘 서울 한복판에서 007 영화 같은 현금 수송 작전이 펼쳐집니다. 한국은행 본관이 개보수 공사를 위해 처음으로 이사를 하는데, 지하 금고에 보관돼 있는 10조 원이 넘는 돈뭉치들, 어디로 어떻게 옮길까요? \n\n\n[Ch.19] 세상에 없는 TV 이제 시작합니다. \n★홈페이지 : http://news.tvchosun.com/",
+      "publishedAt": "2016-05-20T13:09:36Z",
+      "duration": "PT1M48S",
+      "viewCount": 32324,
+      "likeCount": 55,
+      "commentCount": 25,
+      "tags": [
+        "TV조선",
+        "티비조선",
+        "조선일보",
+        "종편",
+        "종합편성",
+        "티브이조선",
+        "방송사",
+        "TV조선뉴스",
+        "뉴스",
+        "뉴스프로그램"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "collectedAt": "2025-08-21T10:29:09.127085Z"
     }
   },
   "channels": {
@@ -707,9 +797,36 @@
       "viewCount": 496166667,
       "videoCount": 25206,
       "lastUpdated": "2025-08-20T11:38:51.639724Z"
+    },
+    "UCWlV3Lz_55UaX4JsMj-z__Q": {
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "channelUrl": "@tvchosunnews",
+      "channelDescription": "TV조선 뉴스 공식 YouTube 입니다.",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 2900000,
+      "viewCount": 4319423561,
+      "videoCount": 150855,
+      "lastUpdated": "2025-08-21T10:29:09.127085Z"
     }
   },
-  "lastUpdated": "2025-08-20T11:38:51.640717Z",
-  "totalVideos": 22,
-  "totalChannels": 2
+  "lastUpdated": "2025-08-21T10:29:09.127085Z",
+  "totalVideos": 25,
+  "totalChannels": 3
 }

@@ -326,6 +326,96 @@
       "channelId": "UCIMOytYIzaUpoAM2bpT4JZQ",
       "channelName": "KTV 국민방송",
       "collectedAt": "2025-08-20T11:40:09.427976Z"
+    },
+    "lmSe6_xrwOQ": {
+      "videoId": "lmSe6_xrwOQ",
+      "title": "숙청됐다는 현영철, 북한 TV에는 계속 등장",
+      "description": "숙청된 북한 현영철이 북한 방송에 또 등장했습니다. 북한은 과거 숙청된 간부들의 모습을 모든 기록물에서 철저하게 삭제했었는데, 현영철은 이례적으로 지우지 않고 있습니다.\n\n[Ch.19] 세상에 없는 TV 이제 시작합니다. \n★홈페이지 : www.tvchosun.com \n기사 더 보기 ▶ http://news.tvchosun.com/site/data/html_dir/2015/06/17/2015061790151.html",
+      "publishedAt": "2015-06-17T05:46:34Z",
+      "duration": "PT1M13S",
+      "viewCount": 400,
+      "likeCount": 0,
+      "commentCount": 0,
+      "tags": [
+        "TV조선",
+        "티비조선",
+        "조선일보",
+        "종편",
+        "종합편성",
+        "티브이조선",
+        "방송사",
+        "TV조선뉴스",
+        "뉴스",
+        "뉴스프로그램"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": "ko",
+      "defaultAudioLanguage": "ko",
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "collectedAt": "2025-08-21T10:28:48.078302Z"
+    },
+    "WwNp94QmWAo": {
+      "videoId": "WwNp94QmWAo",
+      "title": "北, '억류' 우리 국민 2명 조기 송환…이례적",
+      "description": "북한이 오늘 우리나라 국민 2명을 판문점을 통해 송환했습니다. 억류 중인 우리 국민을 비교적 빠른 시일 내에 돌려보낸 건데 화해의 신호를 보내는 것 아니냐는 분석이 나옵니다.\n\n[Ch.19] 세상에 없는 TV 이제 시작합니다. \n★홈페이지 : www.tvchosun.com \n기사 더 보기 ▶ http://news.tvchosun.com/site/data/html_dir/2015/06/17/2015061790149.html",
+      "publishedAt": "2015-06-17T05:38:51Z",
+      "duration": "PT1M28S",
+      "viewCount": 318,
+      "likeCount": 0,
+      "commentCount": 0,
+      "tags": [
+        "TV조선",
+        "티비조선",
+        "조선일보",
+        "종편",
+        "종합편성",
+        "티브이조선",
+        "방송사",
+        "TV조선뉴스",
+        "뉴스",
+        "뉴스프로그램"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "collectedAt": "2025-08-21T10:28:48.078302Z"
+    },
+    "n1CYjgGwPqE": {
+      "videoId": "n1CYjgGwPqE",
+      "title": "신세계식 新 '쇼핑 천국'…승부수 통할까",
+      "description": "이마트가 초대형 쇼핑 타운을 공개했습니다. 최근의 성장 부진을 돌파하고, 지난해 국내에 진출한 스웨덴의 가구 공룡 이케아에 대응하기 위한 겁니다.\n\n[Ch.19] 세상에 없는 TV 이제 시작합니다. \n★홈페이지 : www.tvchosun.com \n기사 더 보기 ▶ http://news.tvchosun.com/site/data/html_dir/2015/06/17/2015061790295.html",
+      "publishedAt": "2015-06-17T13:47:13Z",
+      "duration": "PT1M37S",
+      "viewCount": 958,
+      "likeCount": 3,
+      "commentCount": 0,
+      "tags": [
+        "TV조선",
+        "티비조선",
+        "조선일보",
+        "종편",
+        "종합편성",
+        "티브이조선",
+        "방송사",
+        "TV조선뉴스",
+        "뉴스",
+        "뉴스프로그램"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "collectedAt": "2025-08-21T10:28:48.086578Z"
     }
   },
   "channels": {
@@ -382,9 +472,36 @@
       "viewCount": 496166667,
       "videoCount": 25206,
       "lastUpdated": "2025-08-20T11:40:09.426902Z"
+    },
+    "UCWlV3Lz_55UaX4JsMj-z__Q": {
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "channelUrl": "@tvchosunnews",
+      "channelDescription": "TV조선 뉴스 공식 YouTube 입니다.",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 2900000,
+      "viewCount": 4319423561,
+      "videoCount": 150855,
+      "lastUpdated": "2025-08-21T10:28:48.078302Z"
     }
   },
-  "lastUpdated": "2025-08-20T11:40:09.427976Z",
-  "totalVideos": 11,
-  "totalChannels": 2
+  "lastUpdated": "2025-08-21T10:28:48.091564Z",
+  "totalVideos": 14,
+  "totalChannels": 3
 }

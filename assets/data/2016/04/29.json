@@ -59,6 +59,96 @@
       "channelId": "UCNJM6dqu70Qr6VaseiW1Org",
       "channelName": "이재명",
       "collectedAt": "2025-08-20T11:40:03.481611Z"
+    },
+    "wxjsOCttczo": {
+      "videoId": "wxjsOCttczo",
+      "title": "北, 무수단으로 핵탄두 실험?",
+      "description": "북한이 어제 두번을 포함해 무수단 탄도 미사일 발사에 세번이나 실패하면서 다양한 원인 분석이 나오고 있습니다.\n\n\n[Ch.19] 세상에 없는 TV 이제 시작합니다. \n★홈페이지 : http://news.tvchosun.com/",
+      "publishedAt": "2016-04-29T13:08:00Z",
+      "duration": "PT1M31S",
+      "viewCount": 129,
+      "likeCount": 0,
+      "commentCount": 0,
+      "tags": [
+        "TV조선",
+        "티비조선",
+        "조선일보",
+        "종편",
+        "종합편성",
+        "티브이조선",
+        "방송사",
+        "TV조선뉴스",
+        "뉴스",
+        "뉴스프로그램"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "collectedAt": "2025-08-21T10:28:38.218758Z"
+    },
+    "jk-aBK8Q1Lk": {
+      "videoId": "jk-aBK8Q1Lk",
+      "title": "시진핑 \"대북 제재 전면 집행할 것\"",
+      "description": "중국과 러시아가 주도하는 국제회의에서 북핵과 미사일을 공식적으로 규탄하는 선언문이 채택됐습니다. 특히 시진핑 중국 국가주석이 이례적으로 직접 북한을 비판하면서 대북 제재를 전면적 집행하겠다고 선언했습니다. \n\n\n[Ch.19] 세상에 없는 TV 이제 시작합니다. \n★홈페이지 : http://news.tvchosun.com/",
+      "publishedAt": "2016-04-29T00:51:35Z",
+      "duration": "PT2M",
+      "viewCount": 418,
+      "likeCount": 2,
+      "commentCount": 0,
+      "tags": [
+        "TV조선",
+        "티비조선",
+        "조선일보",
+        "종편",
+        "종합편성",
+        "티브이조선",
+        "방송사",
+        "TV조선뉴스",
+        "뉴스",
+        "뉴스프로그램"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "collectedAt": "2025-08-21T10:28:38.219755Z"
+    },
+    "NF75x4idzO4": {
+      "videoId": "NF75x4idzO4",
+      "title": "이건희 회장 이태원 자택 177억원…12년 연속 가장 비싼집",
+      "description": "우리나라 단독주택 가운데 이건희 삼성전자 회장의 서울 이태원동 저택이 가장 비싼 것으로 조사됐습니다. 지난해 보다 공시가격이 20억원 이상 오르면서 12년 연속 가장 가격이 높은 주택으로 기록됐습니다.\n\n\n[Ch.19] 세상에 없는 TV 이제 시작합니다. \n★홈페이지 : http://news.tvchosun.com/",
+      "publishedAt": "2016-04-29T00:51:35Z",
+      "duration": "PT1M37S",
+      "viewCount": 25590,
+      "likeCount": 46,
+      "commentCount": 9,
+      "tags": [
+        "TV조선",
+        "티비조선",
+        "조선일보",
+        "종편",
+        "종합편성",
+        "티브이조선",
+        "방송사",
+        "TV조선뉴스",
+        "뉴스",
+        "뉴스프로그램"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "collectedAt": "2025-08-21T10:28:38.219755Z"
     }
   },
   "channels": {
@@ -115,9 +205,36 @@
       "viewCount": 336974518,
       "videoCount": 3965,
       "lastUpdated": "2025-08-20T11:40:03.481611Z"
+    },
+    "UCWlV3Lz_55UaX4JsMj-z__Q": {
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "channelUrl": "@tvchosunnews",
+      "channelDescription": "TV조선 뉴스 공식 YouTube 입니다.",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 2900000,
+      "viewCount": 4319423561,
+      "videoCount": 150855,
+      "lastUpdated": "2025-08-21T10:28:38.218758Z"
     }
   },
-  "lastUpdated": "2025-08-20T11:40:03.482610Z",
-  "totalVideos": 2,
-  "totalChannels": 2
+  "lastUpdated": "2025-08-21T10:28:38.219755Z",
+  "totalVideos": 5,
+  "totalChannels": 3
 }

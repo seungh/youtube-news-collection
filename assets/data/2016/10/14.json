@@ -440,6 +440,66 @@
       "channelId": "UCIMOytYIzaUpoAM2bpT4JZQ",
       "channelName": "KTV 국민방송",
       "collectedAt": "2025-08-20T11:38:50.438673Z"
+    },
+    "JphixRVORno": {
+      "videoId": "JphixRVORno",
+      "title": "UN해양법 협약 '추격권' 인정…외국도 불법 조업 땐 공해상 나포 [판 포커스]",
+      "description": "중국 정부는 중국 어선과 우리 해경이 충돌한 지점이 공해상이니 법 집행 근거가 없다며 억지 주장을 하고 있습니다. 하지만 유엔 해양법은 불법 조업 어선 '추적권'을 분명히 인정하고 있습니다. 다른 나라들도, 자국 영해 밖까지 추적해 나포합니다\n\n[Ch.19] 세상에 없는 TV 이제 시작합니다. \n★홈페이지 : http://news.tvchosun.com/",
+      "publishedAt": "2016-10-14T02:13:36Z",
+      "duration": "PT1M34S",
+      "viewCount": 4343,
+      "likeCount": 16,
+      "commentCount": 10,
+      "tags": [
+        "TV조선",
+        "티비조선",
+        "조선일보",
+        "종편",
+        "종합편성",
+        "티브이조선",
+        "방송사",
+        "TV조선뉴스",
+        "뉴스",
+        "뉴스프로그램"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "collectedAt": "2025-08-21T10:28:30.427946Z"
+    },
+    "vTbxG3hmGOk": {
+      "videoId": "vTbxG3hmGOk",
+      "title": "해경, 함포 사격 훈련…中 억지 주장 강력 비판 [판 포커스]",
+      "description": "사드 문제로 긴장상태인 한중관계가 불법 조업 문제로 더 악화되고 있습니다. 우리 정부 대응이 어느때보다 중요한 시점이죠. 해경이 불법 중국 어선 강경 대응을 밝힌 지 이틀만에 첫 함포사격 훈련을 했습니다. \n\n[Ch.19] 세상에 없는 TV 이제 시작합니다. \n★홈페이지 : http://news.tvchosun.com/",
+      "publishedAt": "2016-10-14T02:13:36Z",
+      "duration": "PT1M46S",
+      "viewCount": 93,
+      "likeCount": 0,
+      "commentCount": 0,
+      "tags": [
+        "TV조선",
+        "티비조선",
+        "조선일보",
+        "종편",
+        "종합편성",
+        "티브이조선",
+        "방송사",
+        "TV조선뉴스",
+        "뉴스",
+        "뉴스프로그램"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "collectedAt": "2025-08-21T10:28:30.427946Z"
     }
   },
   "channels": {
@@ -523,9 +583,36 @@
       "viewCount": 496166667,
       "videoCount": 25206,
       "lastUpdated": "2025-08-20T11:38:50.438673Z"
+    },
+    "UCWlV3Lz_55UaX4JsMj-z__Q": {
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "channelUrl": "@tvchosunnews",
+      "channelDescription": "TV조선 뉴스 공식 YouTube 입니다.",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 2900000,
+      "viewCount": 4319423561,
+      "videoCount": 150855,
+      "lastUpdated": "2025-08-21T10:28:30.427946Z"
     }
   },
-  "lastUpdated": "2025-08-20T11:38:50.438673Z",
-  "totalVideos": 15,
-  "totalChannels": 3
+  "lastUpdated": "2025-08-21T10:28:30.432368Z",
+  "totalVideos": 17,
+  "totalChannels": 4
 }

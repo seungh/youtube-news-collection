@@ -66,6 +66,66 @@
       "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
       "channelName": "NATV 국회방송",
       "collectedAt": "2025-08-20T11:40:08.327852Z"
+    },
+    "45geke6fnUc": {
+      "videoId": "45geke6fnUc",
+      "title": "문재인 \"통진당 해산 신중하게 판단해야\"",
+      "description": "새정치 민주 연합 문재인 의원이 통합 진보당의 입장을 옹호하는 취지의 말을 했습니다. 새정치 민주 연합 안에서도 적절치 않은 시기에 적절치 않은 발언이였다는 말이 나오나 봅니다. 지난 총선때 연대를 한 원죄같은게 있기는 하지만, 당 차원에서는 새정치 민주 연합은 통진당과 분명히 선 긋기를 한 상태입니다.\n\n[Ch.19] 세상에 없는 TV 이제 시작합니다. \n★홈페이지 : www.tvchosun.com \n기사 더 보기 ▶ http://news.tvchosun.com/site/data/html_dir/2014/11/25/2014112590265.html",
+      "publishedAt": "2014-11-25T13:29:27Z",
+      "duration": "PT1M56S",
+      "viewCount": 9578,
+      "likeCount": 39,
+      "commentCount": 46,
+      "tags": [
+        "TV조선",
+        "티비조선",
+        "조선일보",
+        "종편",
+        "종합편성",
+        "티브이조선",
+        "방송사",
+        "TV조선뉴스",
+        "뉴스",
+        "뉴스프로그램"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "collectedAt": "2025-08-21T10:28:53.875249Z"
+    },
+    "GXnWdKol8Uw": {
+      "videoId": "GXnWdKol8Uw",
+      "title": "김정은 \"미국은 식인종\"",
+      "description": "북한 김정은이 반미 세뇌박물관을 찾아 미국을 식인종, 살인마라며 원색적으로 비난했습니다. 이번 시찰엔 여동생 김여정도 함께 했는데 살이 더욱 찐 김정은과 달리 굉장히 마른 모습이어서 남매가 뚜렷하게 대비됐습니다.\n\n[Ch.19] 세상에 없는 TV 이제 시작합니다. \n★홈페이지 : www.tvchosun.com \n기사 더 보기 ▶ http://news.tvchosun.com/site/data/html_dir/2014/11/25/2014112590269.html",
+      "publishedAt": "2014-11-25T13:31:17Z",
+      "duration": "PT1M47S",
+      "viewCount": 1937,
+      "likeCount": 3,
+      "commentCount": 3,
+      "tags": [
+        "TV조선",
+        "티비조선",
+        "조선일보",
+        "종편",
+        "종합편성",
+        "티브이조선",
+        "방송사",
+        "TV조선뉴스",
+        "뉴스",
+        "뉴스프로그램"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "collectedAt": "2025-08-21T10:28:53.875249Z"
     }
   },
   "channels": {
@@ -95,9 +155,36 @@
       "viewCount": 86009826,
       "videoCount": 16390,
       "lastUpdated": "2025-08-18T07:13:47.333099Z"
+    },
+    "UCWlV3Lz_55UaX4JsMj-z__Q": {
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "channelUrl": "@tvchosunnews",
+      "channelDescription": "TV조선 뉴스 공식 YouTube 입니다.",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 2900000,
+      "viewCount": 4319423561,
+      "videoCount": 150855,
+      "lastUpdated": "2025-08-21T10:28:53.864091Z"
     }
   },
-  "lastUpdated": "2025-08-20T11:40:08.327852Z",
-  "totalVideos": 3,
-  "totalChannels": 1
+  "lastUpdated": "2025-08-21T10:28:53.877383Z",
+  "totalVideos": 5,
+  "totalChannels": 2
 }

@@ -238,6 +238,96 @@
       "channelId": "UCIMOytYIzaUpoAM2bpT4JZQ",
       "channelName": "KTV 국민방송",
       "collectedAt": "2025-08-20T11:40:05.683254Z"
+    },
+    "-IovMfocMQI": {
+      "videoId": "-IovMfocMQI",
+      "title": "[오늘의 판 북한] 남북은 지금 '김장철'…북, 김치로 외화벌이도",
+      "description": "오늘 홍용표 통일부 장관은 탈북민들을 위해 김치를 담갔는데, 북한에서도 김장철을 맞아 북한 김치 담그기가 한창입니다. 판 북한입니다.\n\n[Ch.19] 세상에 없는 TV 이제 시작합니다. \n★홈페이지 : www.tvchosun.com \n기사 더 보기 ▶ http://news.tvchosun.com/site/data/html_dir/2015/11/20/2015112090202.html",
+      "publishedAt": "2015-11-20T13:07:48Z",
+      "duration": "PT1M16S",
+      "viewCount": 1861,
+      "likeCount": 6,
+      "commentCount": 0,
+      "tags": [
+        "TV조선",
+        "티비조선",
+        "조선일보",
+        "종편",
+        "종합편성",
+        "티브이조선",
+        "방송사",
+        "TV조선뉴스",
+        "뉴스",
+        "뉴스프로그램"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "collectedAt": "2025-08-21T10:28:43.522382Z"
+    },
+    "906Qt1v8uTs": {
+      "videoId": "906Qt1v8uTs",
+      "title": "테러 위협에 중동 진출 기업 '비상'",
+      "description": "우리 건설 업체가 나가 있는 이라크 현지에 IS의 테러 계획 첩보가 입수됐다는 소식 어제 이시간에 단독으로 보도해드렸는데, 해외에 사업장을 두고 있는 우리 기업들이 직원들 신변 안전에 비상이 걸렸습니다. \n\n[Ch.19] 세상에 없는 TV 이제 시작합니다. \n★홈페이지 : www.tvchosun.com \n기사 더 보기 ▶ http://news.tvchosun.com/site/data/html_dir/2015/11/20/2015112090166.html",
+      "publishedAt": "2015-11-20T13:07:48Z",
+      "duration": "PT1M33S",
+      "viewCount": 175,
+      "likeCount": 0,
+      "commentCount": 0,
+      "tags": [
+        "TV조선",
+        "티비조선",
+        "조선일보",
+        "종편",
+        "종합편성",
+        "티브이조선",
+        "방송사",
+        "TV조선뉴스",
+        "뉴스",
+        "뉴스프로그램"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "collectedAt": "2025-08-21T10:28:43.522382Z"
+    },
+    "e9PppMuJsdg": {
+      "videoId": "e9PppMuJsdg",
+      "title": "출혈·염증까지…'셀프 성형기구' 주의보",
+      "description": "착용만 하면 얼굴이 작아지고 쌍꺼풀이 생긴다는 제품 광고 보신 적 있으실 겁니다. 도깨비 방망이 같은 이 '셀프 성형기구', 잘못 썼다가는 큰 부작용을 겪을 수 있습니다. \n\n\n[Ch.19] 세상에 없는 TV 이제 시작합니다. \n★홈페이지 : www.tvchosun.com \n기사 더 보기 ▶ http://news.tvchosun.com/site/data/html_dir/2015/11/20/2015112090018.html",
+      "publishedAt": "2015-11-20T00:58:56Z",
+      "duration": "PT1M22S",
+      "viewCount": 446,
+      "likeCount": 1,
+      "commentCount": 0,
+      "tags": [
+        "TV조선",
+        "티비조선",
+        "조선일보",
+        "종편",
+        "종합편성",
+        "티브이조선",
+        "방송사",
+        "TV조선뉴스",
+        "뉴스",
+        "뉴스프로그램"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "collectedAt": "2025-08-21T10:28:43.522382Z"
     }
   },
   "channels": {
@@ -294,9 +384,36 @@
       "viewCount": 496166667,
       "videoCount": 25206,
       "lastUpdated": "2025-08-20T11:40:05.682252Z"
+    },
+    "UCWlV3Lz_55UaX4JsMj-z__Q": {
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "channelUrl": "@tvchosunnews",
+      "channelDescription": "TV조선 뉴스 공식 YouTube 입니다.",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 2900000,
+      "viewCount": 4319423561,
+      "videoCount": 150855,
+      "lastUpdated": "2025-08-21T10:28:43.522382Z"
     }
   },
-  "lastUpdated": "2025-08-20T11:40:05.684245Z",
-  "totalVideos": 8,
-  "totalChannels": 2
+  "lastUpdated": "2025-08-21T10:28:43.522382Z",
+  "totalVideos": 11,
+  "totalChannels": 3
 }

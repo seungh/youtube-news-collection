@@ -89,6 +89,96 @@
       "channelId": "UCIMOytYIzaUpoAM2bpT4JZQ",
       "channelName": "KTV 국민방송",
       "collectedAt": "2025-08-20T11:40:16.806223Z"
+    },
+    "f5S4-zoPcPE": {
+      "videoId": "f5S4-zoPcPE",
+      "title": "선거벽보 훼손 '고양이는 되고 사람은 안 되고' [더하기 뉴스]",
+      "description": "놓치면 아쉬운 뉴스, 더하기 뉴스 시간입니다.\n\n[Ch.19] 세상에 없는 TV 이제 시작합니다. \n★홈페이지 : http://news.tvchosun.com/\n\n* 뉴스제보 : 이메일(tvchosun@chosun.com), 카카오톡(tv조선제보), 전화(1661-0190)",
+      "publishedAt": "2017-04-24T01:28:15Z",
+      "duration": "PT2M51S",
+      "viewCount": 379,
+      "likeCount": 0,
+      "commentCount": 1,
+      "tags": [
+        "TV조선",
+        "티비조선",
+        "조선일보",
+        "종편",
+        "종합편성",
+        "티브이조선",
+        "방송사",
+        "TV조선뉴스",
+        "뉴스",
+        "뉴스프로그램"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "collectedAt": "2025-08-21T10:28:23.619819Z"
+    },
+    "cE28_Tz2o0g": {
+      "videoId": "cE28_Tz2o0g",
+      "title": "[단독] 불안 고조시키는 일본…미쓰비시, 전쟁 시 대피 방안 설명",
+      "description": "일본 정부가 한반도 안보 불안을 고조시키는 가운데,  미쓰비시 등  일본 기업 간부들이 잇따라 한국을 찾았습니다. 전쟁이 나면 직원들이 어떻게 대피할지, 논의하고 설명한 것으로 전해집니다. 전쟁 위기설로 아베 내각 지지율은  계속 오르고 있습니다. \n\n[Ch.19] 세상에 없는 TV 이제 시작합니다. \n★홈페이지 : http://news.tvchosun.com/\n\n* 뉴스제보 : 이메일(tvchosun@chosun.com), 카카오톡(tv조선제보), 전화(1661-0190)",
+      "publishedAt": "2017-04-24T12:23:54Z",
+      "duration": "PT1M46S",
+      "viewCount": 483,
+      "likeCount": 0,
+      "commentCount": 0,
+      "tags": [
+        "TV조선",
+        "티비조선",
+        "조선일보",
+        "종편",
+        "종합편성",
+        "티브이조선",
+        "방송사",
+        "TV조선뉴스",
+        "뉴스",
+        "뉴스프로그램"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "collectedAt": "2025-08-21T10:28:23.619819Z"
+    },
+    "BKJ1ljFfUic": {
+      "videoId": "BKJ1ljFfUic",
+      "title": "편의점서도 현금보다 카드…동전 없는 사회 현실화되나",
+      "description": "편의점은 비교적 현금 결제 비중이 높은 유통채널인데요, 그런데 지난해 처음으로 카드 결제 비중이 현금을 앞지른 것으로 나타났습니다. 특히 동전 사용량이 줄어들었는데, 잔돈을 가상화폐로 지급하는 시범사업도 시작됐습니다. \n\n\n[Ch.19] 세상에 없는 TV 이제 시작합니다. \n★홈페이지 : http://news.tvchosun.com/\n\n* 뉴스제보 : 이메일(tvchosun@chosun.com), 카카오톡(tv조선제보), 전화(1661-0190)",
+      "publishedAt": "2017-04-23T22:55:02Z",
+      "duration": "PT1M43S",
+      "viewCount": 793,
+      "likeCount": 3,
+      "commentCount": 1,
+      "tags": [
+        "TV조선",
+        "티비조선",
+        "조선일보",
+        "종편",
+        "종합편성",
+        "티브이조선",
+        "방송사",
+        "TV조선뉴스",
+        "뉴스",
+        "뉴스프로그램"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "collectedAt": "2025-08-21T10:28:23.619819Z"
     }
   },
   "channels": {
@@ -118,9 +208,36 @@
       "viewCount": 496166667,
       "videoCount": 25206,
       "lastUpdated": "2025-08-20T11:40:16.802838Z"
+    },
+    "UCWlV3Lz_55UaX4JsMj-z__Q": {
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "channelUrl": "@tvchosunnews",
+      "channelDescription": "TV조선 뉴스 공식 YouTube 입니다.",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 2900000,
+      "viewCount": 4319423561,
+      "videoCount": 150855,
+      "lastUpdated": "2025-08-21T10:28:23.619819Z"
     }
   },
-  "lastUpdated": "2025-08-20T11:40:16.806223Z",
-  "totalVideos": 3,
-  "totalChannels": 1
+  "lastUpdated": "2025-08-21T10:28:23.619819Z",
+  "totalVideos": 6,
+  "totalChannels": 2
 }

@@ -72,6 +72,66 @@
       "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
       "channelName": "NATV 국회방송",
       "collectedAt": "2025-08-18T07:13:41.997987Z"
+    },
+    "lwiPLM9aEtk": {
+      "videoId": "lwiPLM9aEtk",
+      "title": "한국 수출 '스포츠가 미래다'",
+      "description": "올해로 16번째를 맞은 서울국제스포츠 레저산업전, 스포엑스(SPOEX)가 어제 삼성동 코엑스에서 개막했습니다. 이번 스포엑스에는 국내외 400개가 넘는 업체가 참가해 1억 2000만달러 이상의 수출 상담이 이뤄질 것으로 예상됩니다.\n\n[Ch.19] 세상에 없는 TV 이제 시작합니다. \n★홈페이지 : www.tvchosun.com \n기사 더 보기 ▶http://news.tvchosun.com/site/data/html_dir/2016/02/26/2016022690035.html",
+      "publishedAt": "2016-02-25T23:29:54Z",
+      "duration": "PT1M49S",
+      "viewCount": 306,
+      "likeCount": 0,
+      "commentCount": 0,
+      "tags": [
+        "TV조선",
+        "티비조선",
+        "조선일보",
+        "종편",
+        "종합편성",
+        "티브이조선",
+        "방송사",
+        "TV조선뉴스",
+        "뉴스",
+        "뉴스프로그램"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "collectedAt": "2025-08-21T10:29:02.803970Z"
+    },
+    "onCyhRXm7aY": {
+      "videoId": "onCyhRXm7aY",
+      "title": "계좌이동제 오늘 부터 시작…금융권 지각변동 오나",
+      "description": "계좌에 딸려 있는 자동이체 거래를 한 번에 다른 은행 계좌로 넘길 수 있는 본격적인 계좌이동서비스가 오늘부터 시행됩니다. 주거래 계좌를 쉽게 바꿀 수 있는 만큼, 대규모 자금 이동이 일어날지 주목됩니다.\n\n[Ch.19] 세상에 없는 TV 이제 시작합니다. \n★홈페이지 : www.tvchosun.com \n기사 더 보기 ▶ http://news.tvchosun.com/site/data/html_dir/2016/02/26/2016022690031.html",
+      "publishedAt": "2016-02-25T23:29:22Z",
+      "duration": "PT1M32S",
+      "viewCount": 186,
+      "likeCount": 0,
+      "commentCount": 0,
+      "tags": [
+        "TV조선",
+        "티비조선",
+        "조선일보",
+        "종편",
+        "종합편성",
+        "티브이조선",
+        "방송사",
+        "TV조선뉴스",
+        "뉴스",
+        "뉴스프로그램"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "collectedAt": "2025-08-21T10:29:02.803970Z"
     }
   },
   "channels": {
@@ -101,9 +161,36 @@
       "viewCount": 86009826,
       "videoCount": 16390,
       "lastUpdated": "2025-08-18T07:13:41.996983Z"
+    },
+    "UCWlV3Lz_55UaX4JsMj-z__Q": {
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "channelUrl": "@tvchosunnews",
+      "channelDescription": "TV조선 뉴스 공식 YouTube 입니다.",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 2900000,
+      "viewCount": 4319423561,
+      "videoCount": 150855,
+      "lastUpdated": "2025-08-21T10:29:02.802439Z"
     }
   },
-  "lastUpdated": "2025-08-20T11:40:04.201430Z",
-  "totalVideos": 3,
-  "totalChannels": 1
+  "lastUpdated": "2025-08-21T10:29:02.803970Z",
+  "totalVideos": 5,
+  "totalChannels": 2
 }

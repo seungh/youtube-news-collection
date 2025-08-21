@@ -299,6 +299,66 @@
       "channelId": "UCIMOytYIzaUpoAM2bpT4JZQ",
       "channelName": "KTV 국민방송",
       "collectedAt": "2025-08-20T11:40:09.579204Z"
+    },
+    "FlX2ljsejtY": {
+      "videoId": "FlX2ljsejtY",
+      "title": "유승준, 13년만에 사과…어떻게 생각하십니까?",
+      "description": "[앵커]\n어떻게 생각하십니까? 첫번째는 가수 유승준의 무릎 꿇고 한 사과입니다. 유승준씨는 지금 병역법 위반등으로 대한민국에 들어올 수 없습니다. 사실 사람은 누구나 잘못을 할수 있는데, 유승준씨의 13년 만에 사과, 시청자 여러분들은 어떻게 생각하십니까?\n\n\n[Ch.19] 세상에 없는 TV 이제 시작합니다. \n★홈페이지 : www.tvchosun.com \n기사 더 보기 ▶ http://news.tvchosun.com/site/data/html_dir/2015/05/20/2015052090282.html",
+      "publishedAt": "2015-05-20T13:20:49Z",
+      "duration": "PT2M11S",
+      "viewCount": 3187,
+      "likeCount": 6,
+      "commentCount": 9,
+      "tags": [
+        "TV조선",
+        "티비조선",
+        "조선일보",
+        "종편",
+        "종합편성",
+        "티브이조선",
+        "방송사",
+        "TV조선뉴스",
+        "뉴스",
+        "뉴스프로그램"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "collectedAt": "2025-08-21T10:29:04.640438Z"
+    },
+    "gve_93EZkbU": {
+      "videoId": "gve_93EZkbU",
+      "title": "약 성분이 화장품에 '코스메슈티컬'…제약사 나섰다",
+      "description": "[앵커]\n'메슈티컬'이라고 아십니까. 화장품과 의약품를 합한 신조어인데요, 제약회사가 만드는 화장품을 말합니다. 이미 이 시장은 해외 제약사들이 장악하고 있는데 최근 국내 제약사들이 도전장을 내밀고 있습니다.\n\n[Ch.19] 세상에 없는 TV 이제 시작합니다. \n★홈페이지 : www.tvchosun.com \n기사 더 보기 ▶ http://news.tvchosun.com/site/data/html_dir/2015/05/20/2015052090235.html",
+      "publishedAt": "2015-05-20T10:22:25Z",
+      "duration": "PT2M21S",
+      "viewCount": 776,
+      "likeCount": 3,
+      "commentCount": 0,
+      "tags": [
+        "TV조선",
+        "티비조선",
+        "조선일보",
+        "종편",
+        "종합편성",
+        "티브이조선",
+        "방송사",
+        "TV조선뉴스",
+        "뉴스",
+        "뉴스프로그램"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "collectedAt": "2025-08-21T10:29:04.640438Z"
     }
   },
   "channels": {
@@ -355,9 +415,36 @@
       "viewCount": 496166667,
       "videoCount": 25206,
       "lastUpdated": "2025-08-20T11:40:09.579204Z"
+    },
+    "UCWlV3Lz_55UaX4JsMj-z__Q": {
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "channelUrl": "@tvchosunnews",
+      "channelDescription": "TV조선 뉴스 공식 YouTube 입니다.",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 2900000,
+      "viewCount": 4319423561,
+      "videoCount": 150855,
+      "lastUpdated": "2025-08-21T10:29:04.637646Z"
     }
   },
-  "lastUpdated": "2025-08-20T11:40:09.584607Z",
-  "totalVideos": 10,
-  "totalChannels": 2
+  "lastUpdated": "2025-08-21T10:29:04.641435Z",
+  "totalVideos": 12,
+  "totalChannels": 3
 }

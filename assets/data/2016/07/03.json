@@ -158,6 +158,96 @@
       "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
       "channelName": "NATV 국회방송",
       "collectedAt": "2025-08-20T11:40:03.436437Z"
+    },
+    "4XS-gjHSaVw": {
+      "videoId": "4XS-gjHSaVw",
+      "title": "삼성 왕조의 동반 몰락, 왜? 야구도 축구도…'",
+      "description": "삼성 구단은 우리나라 프로 스포츠에서 전통적인 강팀이었습니다. 하지만 올 시즌 야구와 축구에서 부진한 성적으로 팬들을 실망시키고 있습니다. \n\n\n[Ch.19] 세상에 없는 TV 이제 시작합니다. \n★홈페이지 : http://news.tvchosun.com/",
+      "publishedAt": "2016-07-03T11:23:27Z",
+      "duration": "PT1M34S",
+      "viewCount": 7314,
+      "likeCount": 36,
+      "commentCount": 4,
+      "tags": [
+        "TV조선",
+        "티비조선",
+        "조선일보",
+        "종편",
+        "종합편성",
+        "티브이조선",
+        "방송사",
+        "TV조선뉴스",
+        "뉴스",
+        "뉴스프로그램"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "collectedAt": "2025-08-21T10:29:02.152702Z"
+    },
+    "tjGEatlrAbw": {
+      "videoId": "tjGEatlrAbw",
+      "title": "로스쿨 입학 '몰카범', 재학 중에 또 '몰카' 찍다 걸려 [TV조선 단독]",
+      "description": "여성 뒤를 따라다니며 이른바 '몰카'를 찍은 남성이 법조인이 된다면, 정말 끔찍한 일이겠죠. 그런데 몰카 범죄로 법원에서 유죄를 받고도 로스쿨에 입학한 30대 남성이 또다시 몰카를 찍다 붙잡혔습니다. \n\n[Ch.19] 세상에 없는 TV 이제 시작합니다. \n★홈페이지 : http://news.tvchosun.com/",
+      "publishedAt": "2016-07-03T12:00:41Z",
+      "duration": "PT1M45S",
+      "viewCount": 1149,
+      "likeCount": 3,
+      "commentCount": 0,
+      "tags": [
+        "TV조선",
+        "티비조선",
+        "조선일보",
+        "종편",
+        "종합편성",
+        "티브이조선",
+        "방송사",
+        "TV조선뉴스",
+        "뉴스",
+        "뉴스프로그램"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "collectedAt": "2025-08-21T10:29:02.152702Z"
+    },
+    "8tFwb3vpuZA": {
+      "videoId": "8tFwb3vpuZA",
+      "title": "보행 중 스마트폰 사용…횡단 속도 1.2초 느려",
+      "description": "스마트폰 보면서 걷지 마라, 이런 주의 아무리 해도 지나치지 않습니다. 스마트폰을 보면서 횡단보도를 건너면, 걷는 속도가 느려져 사고 위험이 높아지는 걸로 조사됐습니다. 작은 차이 같지만, 정말 위험합니다.\n\n\n[Ch.19] 세상에 없는 TV 이제 시작합니다. \n★홈페이지 : http://news.tvchosun.com/",
+      "publishedAt": "2016-07-03T11:23:26Z",
+      "duration": "PT1M37S",
+      "viewCount": 510,
+      "likeCount": 3,
+      "commentCount": 0,
+      "tags": [
+        "TV조선",
+        "티비조선",
+        "조선일보",
+        "종편",
+        "종합편성",
+        "티브이조선",
+        "방송사",
+        "TV조선뉴스",
+        "뉴스",
+        "뉴스프로그램"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "collectedAt": "2025-08-21T10:29:02.152702Z"
     }
   },
   "channels": {
@@ -187,9 +277,36 @@
       "viewCount": 86009826,
       "videoCount": 16390,
       "lastUpdated": "2025-08-18T07:13:40.780494Z"
+    },
+    "UCWlV3Lz_55UaX4JsMj-z__Q": {
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "channelUrl": "@tvchosunnews",
+      "channelDescription": "TV조선 뉴스 공식 YouTube 입니다.",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 2900000,
+      "viewCount": 4319423561,
+      "videoCount": 150855,
+      "lastUpdated": "2025-08-21T10:29:02.152702Z"
     }
   },
-  "lastUpdated": "2025-08-20T11:40:03.437434Z",
-  "totalVideos": 6,
-  "totalChannels": 1
+  "lastUpdated": "2025-08-21T10:29:02.152702Z",
+  "totalVideos": 9,
+  "totalChannels": 2
 }

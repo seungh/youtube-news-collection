@@ -357,6 +357,66 @@
       "channelId": "UCIMOytYIzaUpoAM2bpT4JZQ",
       "channelName": "KTV 국민방송",
       "collectedAt": "2025-08-20T11:38:51.388165Z"
+    },
+    "bhMltOfraPI": {
+      "videoId": "bhMltOfraPI",
+      "title": "총기 난사 후 자폭…터키 공항 최악의 테러",
+      "description": "터키 이스탄불 공항에서 동시 다발적인 자살 폭탄 테러로 180여 명의 사상자가 발생했습니다. 그동안 잠잠했던 무차별 테러가 다시 발생한 겁니다. 우리국민 피해자는 없는 것으로 일단 파악됐습니다. \n\n[Ch.19] 세상에 없는 TV 이제 시작합니다. \n★홈페이지 : http://news.tvchosun.com/",
+      "publishedAt": "2016-06-29T12:34:44Z",
+      "duration": "PT1M48S",
+      "viewCount": 3105,
+      "likeCount": 12,
+      "commentCount": 0,
+      "tags": [
+        "TV조선",
+        "티비조선",
+        "조선일보",
+        "종편",
+        "종합편성",
+        "티브이조선",
+        "방송사",
+        "TV조선뉴스",
+        "뉴스",
+        "뉴스프로그램"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "collectedAt": "2025-08-21T10:29:11.246277Z"
+    },
+    "me7zZp_9xRA": {
+      "videoId": "me7zZp_9xRA",
+      "title": "빅데이터가 만든 '빅브라더'…구글·페북은 모든 걸 알고 있다",
+      "description": "나의 일상정보들이 새 나가고 있습니다. 여기서 그치지 않고, 이런 정보를 토대로 구글과 페이스북 같은 IT 기업들은 나의 건강상태, 성향, 생각까지도 꿰뚫고 있습니다. 소름돋을 정도죠, 무방비로 노출된 개인정보, TV조선이 취재했습니다. \n\n\n[Ch.19] 세상에 없는 TV 이제 시작합니다. \n★홈페이지 : http://news.tvchosun.com/",
+      "publishedAt": "2016-06-29T12:38:05Z",
+      "duration": "PT2M24S",
+      "viewCount": 7519,
+      "likeCount": 28,
+      "commentCount": 5,
+      "tags": [
+        "TV조선",
+        "티비조선",
+        "조선일보",
+        "종편",
+        "종합편성",
+        "티브이조선",
+        "방송사",
+        "TV조선뉴스",
+        "뉴스",
+        "뉴스프로그램"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "collectedAt": "2025-08-21T10:29:11.246277Z"
     }
   },
   "channels": {
@@ -413,9 +473,36 @@
       "viewCount": 496166667,
       "videoCount": 25206,
       "lastUpdated": "2025-08-20T11:38:51.387126Z"
+    },
+    "UCWlV3Lz_55UaX4JsMj-z__Q": {
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "channelUrl": "@tvchosunnews",
+      "channelDescription": "TV조선 뉴스 공식 YouTube 입니다.",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 2900000,
+      "viewCount": 4319423561,
+      "videoCount": 150855,
+      "lastUpdated": "2025-08-21T10:29:11.246277Z"
     }
   },
-  "lastUpdated": "2025-08-20T11:38:51.388165Z",
-  "totalVideos": 12,
-  "totalChannels": 2
+  "lastUpdated": "2025-08-21T10:29:11.246277Z",
+  "totalVideos": 14,
+  "totalChannels": 3
 }

@@ -304,6 +304,96 @@
       "channelId": "UCIMOytYIzaUpoAM2bpT4JZQ",
       "channelName": "KTV 국민방송",
       "collectedAt": "2025-08-20T11:40:07.271765Z"
+    },
+    "W98J9NM2JxU": {
+      "videoId": "W98J9NM2JxU",
+      "title": "[단독] 北 최신 스마트폰, 겉은 아이폰인데…",
+      "description": "북한이 지난해 출시한 최신 스마트폰을 국내 언론사상 처음으로 TV 조선이 입수했습니다. 겉모양은 애플의 아이폰과 비슷해 보이는데 기능은 많이 떨어진다고 합니다.북한에는 핸드폰이 이미 3백만대 이상 보급돼 있다고 합니다.\n\n[Ch.19] 세상에 없는 TV 이제 시작합니다. \n★홈페이지 : www.tvchosun.com \n기사 더 보기 ▶ http://news.tvchosun.com/site/data/html_dir/2015/07/15/2015071590190.html",
+      "publishedAt": "2015-07-15T13:58:04Z",
+      "duration": "PT1M58S",
+      "viewCount": 58492,
+      "likeCount": 122,
+      "commentCount": 74,
+      "tags": [
+        "TV조선",
+        "티비조선",
+        "조선일보",
+        "종편",
+        "종합편성",
+        "티브이조선",
+        "방송사",
+        "TV조선뉴스",
+        "뉴스",
+        "뉴스프로그램"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "collectedAt": "2025-08-21T10:28:47.592542Z"
+    },
+    "y-4SEZNU8PM": {
+      "videoId": "y-4SEZNU8PM",
+      "title": "'양쯔강 유람선 인양' 中 업체가 세월호 인양",
+      "description": "세월호를 상하이 살비지라는 중국 회사가 주도하는 컨소시엄이 인양하게 될 것 같습니다. 인양 비용으로 851억원을 요구했는데, 어떤 방법으로 세월호를 인양하겠다는건지, 윤창기 기자입니다. \n\n[Ch.19] 세상에 없는 TV 이제 시작합니다. \n★홈페이지 : www.tvchosun.com \n기사 더 보기 ▶ http://news.tvchosun.com/site/data/html_dir/2015/07/15/2015071590210.html",
+      "publishedAt": "2015-07-15T13:56:08Z",
+      "duration": "PT1M43S",
+      "viewCount": 298,
+      "likeCount": 0,
+      "commentCount": 0,
+      "tags": [
+        "TV조선",
+        "티비조선",
+        "조선일보",
+        "종편",
+        "종합편성",
+        "티브이조선",
+        "방송사",
+        "TV조선뉴스",
+        "뉴스",
+        "뉴스프로그램"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "collectedAt": "2025-08-21T10:28:47.592542Z"
+    },
+    "aRzSnmaEsD8": {
+      "videoId": "aRzSnmaEsD8",
+      "title": "주주총회 D-2…삼성, 소액주주 표 10% 확보",
+      "description": "이제 이틀 뒤면 삼성물산과 제일모직 합병을 결정할 주주총회가 열립니다. 삼성과 엘리엇, 둘다 우군 확보를 위한 총공세에 나선 가운데 소액주주와 국내외 기관들이 어느 편 손을 들지 조금씩 윤곽이 드러나고 있습니다.\n\n\n[Ch.19] 세상에 없는 TV 이제 시작합니다. \n★홈페이지 : www.tvchosun.com \nhttp://news.tvchosun.com/site/data/html_dir/2015/07/15/2015071590140.html링",
+      "publishedAt": "2015-07-15T07:28:48Z",
+      "duration": "PT1M55S",
+      "viewCount": 354,
+      "likeCount": 0,
+      "commentCount": 0,
+      "tags": [
+        "TV조선",
+        "티비조선",
+        "조선일보",
+        "종편",
+        "종합편성",
+        "티브이조선",
+        "방송사",
+        "TV조선뉴스",
+        "뉴스",
+        "뉴스프로그램"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "collectedAt": "2025-08-21T10:28:47.592542Z"
     }
   },
   "channels": {
@@ -360,9 +450,36 @@
       "viewCount": 496166667,
       "videoCount": 25206,
       "lastUpdated": "2025-08-20T11:40:07.271765Z"
+    },
+    "UCWlV3Lz_55UaX4JsMj-z__Q": {
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "channelUrl": "@tvchosunnews",
+      "channelDescription": "TV조선 뉴스 공식 YouTube 입니다.",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 2900000,
+      "viewCount": 4319423561,
+      "videoCount": 150855,
+      "lastUpdated": "2025-08-21T10:28:47.592542Z"
     }
   },
-  "lastUpdated": "2025-08-20T11:40:07.271765Z",
-  "totalVideos": 11,
-  "totalChannels": 2
+  "lastUpdated": "2025-08-21T10:28:47.592542Z",
+  "totalVideos": 14,
+  "totalChannels": 3
 }

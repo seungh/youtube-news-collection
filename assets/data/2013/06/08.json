@@ -1,0 +1,66 @@
+{
+  "videos": {
+    "xa-axJhblMQ": {
+      "videoId": "xa-axJhblMQ",
+      "title": "[TV조선 단독] 탈북자 돕던 북한 경찰 체포",
+      "description": "북한이 체제 선전에 적극적인데, 내부를 들여다 보면 이미 무너지고 있습니다. 이제는 현직 경찰까지 탈북을 시도하다 체포된 겁니다. 신은서 기자의 단독 보도입니다.\r\n\r\n기사 더 보기 ▶http://news.tv.chosun.com/site/data/html_dir/2013/06/08/2013060890171.html",
+      "publishedAt": "2013-06-08T12:03:15Z",
+      "duration": "PT2M8S",
+      "viewCount": 67720,
+      "likeCount": 57,
+      "commentCount": 4,
+      "tags": [
+        "TV조선",
+        "티비조선",
+        "조선일보",
+        "종편",
+        "종합편성",
+        "티브이조선",
+        "방송사",
+        "TV조선뉴스",
+        "뉴스",
+        "뉴스프로그램"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "collectedAt": "2025-08-21T10:29:10.925687Z"
+    }
+  },
+  "channels": {
+    "UCWlV3Lz_55UaX4JsMj-z__Q": {
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "channelUrl": "@tvchosunnews",
+      "channelDescription": "TV조선 뉴스 공식 YouTube 입니다.",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 2900000,
+      "viewCount": 4319423561,
+      "videoCount": 150855,
+      "lastUpdated": "2025-08-21T10:29:10.924244Z"
+    }
+  },
+  "lastUpdated": "2025-08-21T10:29:10.926217Z",
+  "totalVideos": 1,
+  "totalChannels": 1
+}

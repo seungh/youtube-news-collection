@@ -107,6 +107,96 @@
       "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
       "channelName": "NATV 국회방송",
       "collectedAt": "2025-08-20T11:40:07.047628Z"
+    },
+    "kUmxq3vx-vc": {
+      "videoId": "kUmxq3vx-vc",
+      "title": "일정 비운 박근혜 대통령…대응책 고심?",
+      "description": "박근혜 대통령과 청와대의 분위기는 좋을리가 없습니다. 박근혜 대통령은 오늘 하루 종일 일정을 모두 비웠습니다. 다음주에 부산에서 열리는 한-아세안 특별 정상 회의 준비를 위해서라고 하지만 꼭 그것만은 아닌 것 같습니다. 김기춘 비서실장은 흔들림 없이 국정을 챙겨야 한다고 강조하고 있습니다. \n\n[Ch.19] 세상에 없는 TV 이제 시작합니다. \n★홈페이지 : www.tvchosun.com \n기사 더 보기 ▶ http://news.tvchosun.com/site/data/html_dir/2014/12/04/2014120490301.html",
+      "publishedAt": "2014-12-04T13:57:27Z",
+      "duration": "PT1M38S",
+      "viewCount": 353,
+      "likeCount": 0,
+      "commentCount": 0,
+      "tags": [
+        "TV조선",
+        "티비조선",
+        "조선일보",
+        "종편",
+        "종합편성",
+        "티브이조선",
+        "방송사",
+        "TV조선뉴스",
+        "뉴스",
+        "뉴스프로그램"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "collectedAt": "2025-08-21T10:28:53.443510Z"
+    },
+    "bDBbvtDSJak": {
+      "videoId": "bDBbvtDSJak",
+      "title": "[TV조선 단독] 측근들이 말하는 정윤회 스타일은?",
+      "description": "'정윤회 문건' 파문이 불거지면서 그동안 베일에 쌓여있던 정윤회씨 스타일이 조금씩 알려지고 있는데, 정씨는 기본적으로 조용하고 치밀한 성격이라고 합니다. 박지만 EG회장과도 한 때는 사이가 좋았다고도 합니다.\n\n[Ch.19] 세상에 없는 TV 이제 시작합니다. \n★홈페이지 : www.tvchosun.com \n기사 더 보기 ▶ http://news.tvchosun.com/site/data/html_dir/2014/12/04/2014120490297.html",
+      "publishedAt": "2014-12-04T13:56:31Z",
+      "duration": "PT1M48S",
+      "viewCount": 966,
+      "likeCount": 2,
+      "commentCount": 0,
+      "tags": [
+        "TV조선",
+        "티비조선",
+        "조선일보",
+        "종편",
+        "종합편성",
+        "티브이조선",
+        "방송사",
+        "TV조선뉴스",
+        "뉴스",
+        "뉴스프로그램"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "collectedAt": "2025-08-21T10:28:53.443510Z"
+    },
+    "TSmlqbRix14": {
+      "videoId": "TSmlqbRix14",
+      "title": "뱃살과 허릿살을 빼는 운동법은?",
+      "description": "[튼튼모닝 트레이닝]\n\n[Ch.19] 세상에 없는 TV 이제 시작합니다. \n★홈페이지 : www.tvchosun.com \n기사 더 보기 ▶ http://news.tvchosun.com/site/data/html_dir/2014/12/04/2014120490063.html",
+      "publishedAt": "2014-12-04T01:06:39Z",
+      "duration": "PT3M34S",
+      "viewCount": 6370,
+      "likeCount": 19,
+      "commentCount": 0,
+      "tags": [
+        "TV조선",
+        "티비조선",
+        "조선일보",
+        "종편",
+        "종합편성",
+        "티브이조선",
+        "방송사",
+        "TV조선뉴스",
+        "뉴스",
+        "뉴스프로그램"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": "ko",
+      "defaultAudioLanguage": "ko",
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "collectedAt": "2025-08-21T10:28:53.443510Z"
     }
   },
   "channels": {
@@ -136,9 +226,36 @@
       "viewCount": 86009826,
       "videoCount": 16390,
       "lastUpdated": "2025-08-18T07:13:46.986555Z"
+    },
+    "UCWlV3Lz_55UaX4JsMj-z__Q": {
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "channelUrl": "@tvchosunnews",
+      "channelDescription": "TV조선 뉴스 공식 YouTube 입니다.",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 2900000,
+      "viewCount": 4319423561,
+      "videoCount": 150855,
+      "lastUpdated": "2025-08-21T10:28:53.443510Z"
     }
   },
-  "lastUpdated": "2025-08-20T11:40:07.048225Z",
-  "totalVideos": 4,
-  "totalChannels": 1
+  "lastUpdated": "2025-08-21T10:28:53.444509Z",
+  "totalVideos": 7,
+  "totalChannels": 2
 }

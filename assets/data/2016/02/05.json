@@ -142,6 +142,96 @@
       "channelId": "UCNJM6dqu70Qr6VaseiW1Org",
       "channelName": "이재명",
       "collectedAt": "2025-08-20T11:40:08.186068Z"
+    },
+    "20Wq-dllgIc": {
+      "videoId": "20Wq-dllgIc",
+      "title": "北, 미사일 발사장에 김정은 참관대 세워",
+      "description": "[앵커]\n북한이 미사일 발사장에 김정은이 직접 참관할 수 있는 참관대를 세운 것으로 알려졌습니다. 장거리 미사일 발사를 예고한 김정은이 발사장에 모습을 드러낼지 관심이 모아집니다. \n\n[Ch.19] 세상에 없는 TV 이제 시작합니다. \n★홈페이지 : www.tvchosun.com \n기사 더 보기 ▶ http://news.tvchosun.com/site/data/html_dir/2016/02/05/2016020590003.html",
+      "publishedAt": "2016-02-04T23:06:16Z",
+      "duration": "PT1M35S",
+      "viewCount": 241,
+      "likeCount": 1,
+      "commentCount": 0,
+      "tags": [
+        "TV조선",
+        "티비조선",
+        "조선일보",
+        "종편",
+        "종합편성",
+        "티브이조선",
+        "방송사",
+        "TV조선뉴스",
+        "뉴스",
+        "뉴스프로그램"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "collectedAt": "2025-08-21T10:28:40.356341Z"
+    },
+    "gBREqptbJfk": {
+      "videoId": "gBREqptbJfk",
+      "title": "로봇과 동반 라운딩?",
+      "description": "로봇과 골프 라운딩을 즐기고 바둑도 겨루고 영화에서나 볼 것 같은데 벌써 홀인원을 맛본 로봇도 있습니다. \n\n[Ch.19] 세상에 없는 TV 이제 시작합니다. \n★홈페이지 : www.tvchosun.com \n기사 더 보기 ▶ http://news.tvchosun.com/site/data/html_dir/2016/02/05/2016020590222.html",
+      "publishedAt": "2016-02-05T13:19:09Z",
+      "duration": "PT1M33S",
+      "viewCount": 303,
+      "likeCount": 0,
+      "commentCount": 0,
+      "tags": [
+        "TV조선",
+        "티비조선",
+        "조선일보",
+        "종편",
+        "종합편성",
+        "티브이조선",
+        "방송사",
+        "TV조선뉴스",
+        "뉴스",
+        "뉴스프로그램"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "collectedAt": "2025-08-21T10:28:40.356341Z"
+    },
+    "0ixs6ApCApo": {
+      "videoId": "0ixs6ApCApo",
+      "title": "[TV조선 단독] '사라진 2시간' 밀입국 넋 놓은 법무부",
+      "description": "석달 전 김해 공항에서도 중국 사람이 밀입국한 일이 있었는데 당시 항공사측은 중국인이 탑승하지 않자 곧바로 신고했지만, 법무부 김해 출입국 관리 사무소는 2시간 동안이나 아무런 대응도 하지 않았던 것으로 확인됐습니다. 이 밀입국자는 현재 석달째 감감무소식입니다. \n\n[Ch.19] 세상에 없는 TV 이제 시작합니다. \n★홈페이지 : www.tvchosun.com \n기사 더 보기 ▶ http://news.tvchosun.com/site/data/html_dir/2016/02/05/2016020590196.html",
+      "publishedAt": "2016-02-05T13:19:09Z",
+      "duration": "PT2M8S",
+      "viewCount": 603,
+      "likeCount": 2,
+      "commentCount": 0,
+      "tags": [
+        "TV조선",
+        "티비조선",
+        "조선일보",
+        "종편",
+        "종합편성",
+        "티브이조선",
+        "방송사",
+        "TV조선뉴스",
+        "뉴스",
+        "뉴스프로그램"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "collectedAt": "2025-08-21T10:28:40.356341Z"
     }
   },
   "channels": {
@@ -225,9 +315,36 @@
       "viewCount": 336974518,
       "videoCount": 3965,
       "lastUpdated": "2025-08-20T11:40:08.185069Z"
+    },
+    "UCWlV3Lz_55UaX4JsMj-z__Q": {
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "channelUrl": "@tvchosunnews",
+      "channelDescription": "TV조선 뉴스 공식 YouTube 입니다.",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 2900000,
+      "viewCount": 4319423561,
+      "videoCount": 150855,
+      "lastUpdated": "2025-08-21T10:28:40.355147Z"
     }
   },
-  "lastUpdated": "2025-08-20T11:40:08.186068Z",
-  "totalVideos": 5,
-  "totalChannels": 3
+  "lastUpdated": "2025-08-21T10:28:40.363121Z",
+  "totalVideos": 8,
+  "totalChannels": 4
 }

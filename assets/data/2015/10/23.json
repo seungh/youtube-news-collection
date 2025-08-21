@@ -233,6 +233,96 @@
       "channelId": "UCNJM6dqu70Qr6VaseiW1Org",
       "channelName": "이재명",
       "collectedAt": "2025-08-20T11:40:04.435438Z"
+    },
+    "NOYC1hDc_54": {
+      "videoId": "NOYC1hDc_54",
+      "title": "박근혜 대통령 \"그 때 욕은 왜\"…이종걸 '그년' 논란 언급",
+      "description": "어제 박근혜 대통령과 여야 대표, 원내 대표간 5자 회동의 뒷 얘기들이 흘러나오고 있는데 씁쓸한 대목들이 많습니다. 정국은 더 꼬이고 있는듯한 분위기입니다. \n\n[Ch.19] 세상에 없는 TV 이제 시작합니다. \n★홈페이지 : www.tvchosun.com \n기사 더 보기 ▶ http://news.tvchosun.com/site/data/html_dir/2015/10/23/2015102390163.html",
+      "publishedAt": "2015-10-23T12:40:47Z",
+      "duration": "PT1M52S",
+      "viewCount": 782325,
+      "likeCount": 6613,
+      "commentCount": 944,
+      "tags": [
+        "TV조선",
+        "티비조선",
+        "조선일보",
+        "종편",
+        "종합편성",
+        "티브이조선",
+        "방송사",
+        "TV조선뉴스",
+        "뉴스",
+        "뉴스프로그램"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "collectedAt": "2025-08-21T10:28:44.175343Z"
+    },
+    "oK2obSqWCh8": {
+      "videoId": "oK2obSqWCh8",
+      "title": "[뉴스 인사이드] \"영화관 강제 광고 부당\"…시민단체 소송",
+      "description": "영화관이 관객 동의 없이 무단 광고로 연간 8백억원의 수익을 얻고 있다면서 시민단체들이 소송을 냈습니다.\n\n[Ch.19] 세상에 없는 TV 이제 시작합니다. \n★홈페이지 : www.tvchosun.com \n기사 더 보기 ▶ http://news.tvchosun.com/site/data/html_dir/2015/10/23/2015102390187.html",
+      "publishedAt": "2015-10-23T12:48:42Z",
+      "duration": "PT2M",
+      "viewCount": 124,
+      "likeCount": 0,
+      "commentCount": 0,
+      "tags": [
+        "TV조선",
+        "티비조선",
+        "조선일보",
+        "종편",
+        "종합편성",
+        "티브이조선",
+        "방송사",
+        "TV조선뉴스",
+        "뉴스",
+        "뉴스프로그램"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": "ko",
+      "defaultAudioLanguage": "ko",
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "collectedAt": "2025-08-21T10:28:44.175343Z"
+    },
+    "EVINvS9TGcI": {
+      "videoId": "EVINvS9TGcI",
+      "title": "로즈골드, 블랙사파이어…삼성-애플, 色다른 전쟁!",
+      "description": "이제 흰색, 검정색 휴대 전화 시대는 지난 것 같습니다. 삼성 전자와 애플, LG 전자같은 휴대 전화 제조사들이 다양한 색상의 제품들을 내놓고 있습니다. 더 이상 기능에서는 큰 차이가 나지 않기 때문에, 색을 차별화 전략으로 잡은 것입니다. \n\n[Ch.19] 세상에 없는 TV 이제 시작합니다. \n★홈페이지 : www.tvchosun.com \n기사 더 보기 ▶ http://news.tvchosun.com/site/data/html_dir/2015/10/23/2015102390191.html",
+      "publishedAt": "2015-10-23T12:59:26Z",
+      "duration": "PT2M9S",
+      "viewCount": 637,
+      "likeCount": 0,
+      "commentCount": 0,
+      "tags": [
+        "TV조선",
+        "티비조선",
+        "조선일보",
+        "종편",
+        "종합편성",
+        "티브이조선",
+        "방송사",
+        "TV조선뉴스",
+        "뉴스",
+        "뉴스프로그램"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "collectedAt": "2025-08-21T10:28:44.175343Z"
     }
   },
   "channels": {
@@ -316,9 +406,36 @@
       "viewCount": 336974518,
       "videoCount": 3965,
       "lastUpdated": "2025-08-20T11:40:04.435438Z"
+    },
+    "UCWlV3Lz_55UaX4JsMj-z__Q": {
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "channelUrl": "@tvchosunnews",
+      "channelDescription": "TV조선 뉴스 공식 YouTube 입니다.",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 2900000,
+      "viewCount": 4319423561,
+      "videoCount": 150855,
+      "lastUpdated": "2025-08-21T10:28:44.174345Z"
     }
   },
-  "lastUpdated": "2025-08-20T11:40:04.435438Z",
-  "totalVideos": 8,
-  "totalChannels": 3
+  "lastUpdated": "2025-08-21T10:28:44.218421Z",
+  "totalVideos": 11,
+  "totalChannels": 4
 }

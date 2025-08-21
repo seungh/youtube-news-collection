@@ -29,6 +29,35 @@
       "channelId": "UCIMOytYIzaUpoAM2bpT4JZQ",
       "channelName": "KTV 국민방송",
       "collectedAt": "2025-08-20T11:40:18.661087Z"
+    },
+    "Hf8-xmJMmS0": {
+      "videoId": "Hf8-xmJMmS0",
+      "title": "[단독] 친부 논란, 낸시랭 입을 열다",
+      "description": "이외수 혼외 아들에 이어 이번에는 낸시랭의 친부논란입니다. 소셜테이너들의 도덕성 검증이 일고 있는 가운데, 낸시랭이 입장을 밝혔습니다.\r\n\r\n기사 더 보실 분 아래 클릭\r\nhttp://news.tv.chosun.com/site/data/html_dir/2013/04/18/2013041890340.html",
+      "publishedAt": "2013-04-18T15:31:05Z",
+      "duration": "PT2M3S",
+      "viewCount": 114694,
+      "likeCount": 311,
+      "commentCount": 69,
+      "tags": [
+        "낸시랭",
+        "변희재",
+        "낸시랭 변희재",
+        "낸시랭 아버지",
+        "낸시랭 박상록",
+        "낸시랭 친부논란",
+        "[단독] 친부 논란",
+        "낸시랭 입을 열다",
+        "단독"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "collectedAt": "2025-08-21T10:29:10.245578Z"
     }
   },
   "channels": {
@@ -58,9 +87,36 @@
       "viewCount": 496166667,
       "videoCount": 25206,
       "lastUpdated": "2025-08-20T11:40:18.661087Z"
+    },
+    "UCWlV3Lz_55UaX4JsMj-z__Q": {
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "channelUrl": "@tvchosunnews",
+      "channelDescription": "TV조선 뉴스 공식 YouTube 입니다.",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 2900000,
+      "viewCount": 4319423561,
+      "videoCount": 150855,
+      "lastUpdated": "2025-08-21T10:29:10.245578Z"
     }
   },
-  "lastUpdated": "2025-08-20T11:40:18.661087Z",
-  "totalVideos": 1,
-  "totalChannels": 1
+  "lastUpdated": "2025-08-21T10:29:10.245578Z",
+  "totalVideos": 2,
+  "totalChannels": 2
 }

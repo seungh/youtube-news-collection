@@ -379,6 +379,66 @@
       "channelId": "UCIMOytYIzaUpoAM2bpT4JZQ",
       "channelName": "KTV 국민방송",
       "collectedAt": "2025-08-20T11:38:51.576721Z"
+    },
+    "w9lWeSuAEkQ": {
+      "videoId": "w9lWeSuAEkQ",
+      "title": "가정내 초미세먼지 '주의보'",
+      "description": "집 안에서 고기를 구울 때, 미세먼지가 나온다는 뉴스 얼마전 전해드렸죠. 얼마나 심각한지 저희 취재진이 직접 측정해보니 고기를 구울 때뿐 아니라, 집 안 곳곳에서 초미세먼지가 발생했습니다. 또 이런 미세먼지가 고혈압 발생률을 높인다는 연구 결과도 발표됐는데요, 건강까지 위협하는 실내 먼지, 첫번째 판 포커스에서 집중 해부했습니다. \n\n[Ch.19] 세상에 없는 TV 이제 시작합니다. \n★홈페이지 : http://news.tvchosun.com/",
+      "publishedAt": "2016-05-30T13:21:26Z",
+      "duration": "PT2M10S",
+      "viewCount": 610,
+      "likeCount": 2,
+      "commentCount": 2,
+      "tags": [
+        "TV조선",
+        "티비조선",
+        "조선일보",
+        "종편",
+        "종합편성",
+        "티브이조선",
+        "방송사",
+        "TV조선뉴스",
+        "뉴스",
+        "뉴스프로그램"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": "ko",
+      "defaultAudioLanguage": "ko",
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "collectedAt": "2025-08-21T10:28:32.193897Z"
+    },
+    "lT_K-s2aI8U": {
+      "videoId": "lT_K-s2aI8U",
+      "title": "7살 남아 실종사건에 日 '발칵', \"혼내려 곰 서식지에 방치\"…",
+      "description": "일본에서 부모가 7살짜리 아들을 야생곰이 출몰하는 지역에 방치했다가 실종됐습니다. 아들이 말을 듣지 않아 훈육 차원에서 그랬다는데요. \n\n[Ch.19] 세상에 없는 TV 이제 시작합니다. \n★홈페이지 : http://news.tvchosun.com/",
+      "publishedAt": "2016-05-30T13:28:21Z",
+      "duration": "PT1M21S",
+      "viewCount": 2656,
+      "likeCount": 4,
+      "commentCount": 2,
+      "tags": [
+        "TV조선",
+        "티비조선",
+        "조선일보",
+        "종편",
+        "종합편성",
+        "티브이조선",
+        "방송사",
+        "TV조선뉴스",
+        "뉴스",
+        "뉴스프로그램"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "collectedAt": "2025-08-21T10:28:32.193897Z"
     }
   },
   "channels": {
@@ -435,9 +495,36 @@
       "viewCount": 496166667,
       "videoCount": 25206,
       "lastUpdated": "2025-08-20T11:38:51.576721Z"
+    },
+    "UCWlV3Lz_55UaX4JsMj-z__Q": {
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "channelUrl": "@tvchosunnews",
+      "channelDescription": "TV조선 뉴스 공식 YouTube 입니다.",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 2900000,
+      "viewCount": 4319423561,
+      "videoCount": 150855,
+      "lastUpdated": "2025-08-21T10:28:32.193897Z"
     }
   },
-  "lastUpdated": "2025-08-20T11:38:51.577717Z",
-  "totalVideos": 13,
-  "totalChannels": 2
+  "lastUpdated": "2025-08-21T10:28:32.193897Z",
+  "totalVideos": 15,
+  "totalChannels": 3
 }

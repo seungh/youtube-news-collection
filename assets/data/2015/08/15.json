@@ -148,6 +148,96 @@
       "channelId": "UCIMOytYIzaUpoAM2bpT4JZQ",
       "channelName": "KTV 국민방송",
       "collectedAt": "2025-08-20T11:40:04.753498Z"
+    },
+    "Far0Hgdf4Qo": {
+      "videoId": "Far0Hgdf4Qo",
+      "title": "영화 '암살' 70번째 광복절에 천만 관객 돌파",
+      "description": "[앵커]\n독립 운동가들의 이야기를 다룬 영화, 암살이 광복 70주년인 오늘, 천만 관객을 돌파했습니다. \n\n[Ch.19] 세상에 없는 TV 이제 시작합니다. \n★홈페이지 : www.tvchosun.com \n기사 더 보기 ▶ http://news.tvchosun.com/site/data/html_dir/2015/08/15/2015081590168.html",
+      "publishedAt": "2015-08-15T11:05:52Z",
+      "duration": "PT1M32S",
+      "viewCount": 332,
+      "likeCount": 0,
+      "commentCount": 0,
+      "tags": [
+        "TV조선",
+        "티비조선",
+        "조선일보",
+        "종편",
+        "종합편성",
+        "티브이조선",
+        "방송사",
+        "TV조선뉴스",
+        "뉴스",
+        "뉴스프로그램"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "collectedAt": "2025-08-21T10:29:03.955485Z"
+    },
+    "pZ7nOKnAD6o": {
+      "videoId": "pZ7nOKnAD6o",
+      "title": "광복 70주년…보릿고개 넘던 한국, 이제는 웰빙",
+      "description": "[앵커]\n우리 먹거리에도 큰 변화가 있었습니다. 잊혀져가는 '보릿고개' 시절부터 웰빙까지 70년 변화를 황민지 기자가 돌아봤습니다.\n\n[Ch.19] 세상에 없는 TV 이제 시작합니다. \n★홈페이지 : www.tvchosun.com \n기사 더 보기 ▶ http://news.tvchosun.com/site/data/html_dir/2015/08/15/2015081590094.html",
+      "publishedAt": "2015-08-15T08:21:11Z",
+      "duration": "PT1M26S",
+      "viewCount": 1076,
+      "likeCount": 4,
+      "commentCount": 0,
+      "tags": [
+        "TV조선",
+        "티비조선",
+        "조선일보",
+        "종편",
+        "종합편성",
+        "티브이조선",
+        "방송사",
+        "TV조선뉴스",
+        "뉴스",
+        "뉴스프로그램"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "collectedAt": "2025-08-21T10:29:03.955485Z"
+    },
+    "zH6bOnXLa48": {
+      "videoId": "zH6bOnXLa48",
+      "title": "연양갱·소나타…꾸준히 사랑 받은 장수제품들",
+      "description": "[앵커]\n이 엄청난 변화 속에서도 우리 국민들이 변치않고 사랑한 장수 제품들이 있습니다. \n\n[Ch.19] 세상에 없는 TV 이제 시작합니다. \n★홈페이지 : www.tvchosun.com \n기사 더 보기 ▶http://news.tvchosun.com/site/data/html_dir/2015/08/15/2015081590096.html",
+      "publishedAt": "2015-08-15T08:30:58Z",
+      "duration": "PT1M55S",
+      "viewCount": 1106,
+      "likeCount": 3,
+      "commentCount": 0,
+      "tags": [
+        "TV조선",
+        "티비조선",
+        "조선일보",
+        "종편",
+        "종합편성",
+        "티브이조선",
+        "방송사",
+        "TV조선뉴스",
+        "뉴스",
+        "뉴스프로그램"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "collectedAt": "2025-08-21T10:29:03.955485Z"
     }
   },
   "channels": {
@@ -204,9 +294,36 @@
       "viewCount": 496166667,
       "videoCount": 25206,
       "lastUpdated": "2025-08-20T11:40:04.701846Z"
+    },
+    "UCWlV3Lz_55UaX4JsMj-z__Q": {
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "channelUrl": "@tvchosunnews",
+      "channelDescription": "TV조선 뉴스 공식 YouTube 입니다.",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 2900000,
+      "viewCount": 4319423561,
+      "videoCount": 150855,
+      "lastUpdated": "2025-08-21T10:29:03.952339Z"
     }
   },
-  "lastUpdated": "2025-08-20T11:40:04.799811Z",
-  "totalVideos": 6,
-  "totalChannels": 2
+  "lastUpdated": "2025-08-21T10:29:03.955485Z",
+  "totalVideos": 9,
+  "totalChannels": 3
 }

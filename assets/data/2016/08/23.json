@@ -308,6 +308,96 @@
       "channelId": "UCIMOytYIzaUpoAM2bpT4JZQ",
       "channelName": "KTV 국민방송",
       "collectedAt": "2025-08-20T11:38:48.566063Z"
+    },
+    "m6gZWobrHp8": {
+      "videoId": "m6gZWobrHp8",
+      "title": "박근혜 대통령-박근령 '애증 관계'",
+      "description": "특별감찰관 1호 고발 대상이 된 박근령씨는 여러 차례 구설수에 올랐습니다. 언니인 박근혜 대통령과 육영재단 문제를 놓고 갈등을 빚어 서로 얼굴을 보지 않고 지낸 지 오래됐습니다. 남편 신동욱씨는 박 대통령을 비방했다가 처벌받기도 했습니다. \n\n[Ch.19] 세상에 없는 TV 이제 시작합니다. \n★홈페이지 : http://news.tvchosun.com/",
+      "publishedAt": "2016-08-23T11:45:08Z",
+      "duration": "PT1M56S",
+      "viewCount": 29714,
+      "likeCount": 91,
+      "commentCount": 8,
+      "tags": [
+        "TV조선",
+        "티비조선",
+        "조선일보",
+        "종편",
+        "종합편성",
+        "티브이조선",
+        "방송사",
+        "TV조선뉴스",
+        "뉴스",
+        "뉴스프로그램"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "collectedAt": "2025-08-21T10:28:36.228711Z"
+    },
+    "KtVYz92sAao": {
+      "videoId": "KtVYz92sAao",
+      "title": "\"태영호 귀순 계기는 자녀 소환령\"",
+      "description": "국가정보원은 태영호 주영국 북한대사관 공사가 해외 주재 외교관의 25세 이상 자녀에 대해 본국 소환령이 내려지자 귀순을 결심한 걸로 보고 있습니다. 특히 태 공사의 첫째 아들은 한국나이 27세로 꼼짝없이 본국으로 돌아가야 할 처지였습니다. \n\n\n[Ch.19] 세상에 없는 TV 이제 시작합니다. \n★홈페이지 : http://news.tvchosun.com/",
+      "publishedAt": "2016-08-22T22:48:54Z",
+      "duration": "PT1M28S",
+      "viewCount": 31082,
+      "likeCount": 446,
+      "commentCount": 11,
+      "tags": [
+        "TV조선",
+        "티비조선",
+        "조선일보",
+        "종편",
+        "종합편성",
+        "티브이조선",
+        "방송사",
+        "TV조선뉴스",
+        "뉴스",
+        "뉴스프로그램"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "collectedAt": "2025-08-21T10:28:36.228711Z"
+    },
+    "tmXiB11LYHk": {
+      "videoId": "tmXiB11LYHk",
+      "title": "배우 엄태웅, 성폭행 혐의로 피소",
+      "description": "연예계 성추문이 끊이질 않고 있습니다. 박유천, 이진욱에 이어, 이번엔 배우 엄태웅씨가 성폭행 혐의로 고소 당했습니다.\n\n[Ch.19] 세상에 없는 TV 이제 시작합니다. \n★홈페이지 : http://news.tvchosun.com/",
+      "publishedAt": "2016-08-23T11:58:45Z",
+      "duration": "PT1M31S",
+      "viewCount": 1656,
+      "likeCount": 4,
+      "commentCount": 2,
+      "tags": [
+        "TV조선",
+        "티비조선",
+        "조선일보",
+        "종편",
+        "종합편성",
+        "티브이조선",
+        "방송사",
+        "TV조선뉴스",
+        "뉴스",
+        "뉴스프로그램"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "collectedAt": "2025-08-21T10:28:36.228711Z"
     }
   },
   "channels": {
@@ -391,9 +481,36 @@
       "viewCount": 496166667,
       "videoCount": 25206,
       "lastUpdated": "2025-08-20T11:38:48.566063Z"
+    },
+    "UCWlV3Lz_55UaX4JsMj-z__Q": {
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "channelUrl": "@tvchosunnews",
+      "channelDescription": "TV조선 뉴스 공식 YouTube 입니다.",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 2900000,
+      "viewCount": 4319423561,
+      "videoCount": 150855,
+      "lastUpdated": "2025-08-21T10:28:36.224877Z"
     }
   },
-  "lastUpdated": "2025-08-20T11:38:48.566063Z",
-  "totalVideos": 11,
-  "totalChannels": 3
+  "lastUpdated": "2025-08-21T10:28:36.229708Z",
+  "totalVideos": 14,
+  "totalChannels": 4
 }

@@ -95,6 +95,66 @@
       "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
       "channelName": "NATV 국회방송",
       "collectedAt": "2025-08-18T07:13:40.429420Z"
+    },
+    "vw5KC9FDvF4": {
+      "videoId": "vw5KC9FDvF4",
+      "title": "권역외상센터 수술기피로 다리 절단",
+      "description": "중증외상 응급환자는 제 때 수술을 받지 못하면, 사망하거나 생존하더라도 큰 후유증을 겪기 쉽습니다. 그래서 정부는 수천억원을 들여 권역별 외상센터를 마련해 왔습니다. 이 외상센터가 응급환자의 수술을 기피하는 바람에 다리를 절단해야 하는 어처구니 없는 일이 발생했습니다. \n\n[Ch.19] 세상에 없는 TV 이제 시작합니다. \n★홈페이지 : http://news.tvchosun.com/",
+      "publishedAt": "2016-07-10T11:28:24Z",
+      "duration": "PT2M20S",
+      "viewCount": 146155,
+      "likeCount": 341,
+      "commentCount": 197,
+      "tags": [
+        "TV조선",
+        "티비조선",
+        "조선일보",
+        "종편",
+        "종합편성",
+        "티브이조선",
+        "방송사",
+        "TV조선뉴스",
+        "뉴스",
+        "뉴스프로그램"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "collectedAt": "2025-08-21T10:29:08.661672Z"
+    },
+    "y-cGG6ONKlA": {
+      "videoId": "y-cGG6ONKlA",
+      "title": "일본 참의원 선거…아베 정권 압승 점쳐져",
+      "description": "일본은 오늘 참의원 선거 날입니다. 일본 언론들은 아베 정권의 압승을 예상하는데요. 전쟁을 금지하는 평화헌법을 폐지하겠다는 아베 총리의 숙원이 정말 실현되는 걸까요?\n\n[Ch.19] 세상에 없는 TV 이제 시작합니다. \n★홈페이지 : http://news.tvchosun.com/",
+      "publishedAt": "2016-07-10T03:13:03Z",
+      "duration": "PT1M43S",
+      "viewCount": 242,
+      "likeCount": 1,
+      "commentCount": 0,
+      "tags": [
+        "TV조선",
+        "티비조선",
+        "조선일보",
+        "종편",
+        "종합편성",
+        "티브이조선",
+        "방송사",
+        "TV조선뉴스",
+        "뉴스",
+        "뉴스프로그램"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "collectedAt": "2025-08-21T10:29:08.661672Z"
     }
   },
   "channels": {
@@ -124,9 +184,36 @@
       "viewCount": 86009826,
       "videoCount": 16390,
       "lastUpdated": "2025-08-18T07:13:40.429420Z"
+    },
+    "UCWlV3Lz_55UaX4JsMj-z__Q": {
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "channelUrl": "@tvchosunnews",
+      "channelDescription": "TV조선 뉴스 공식 YouTube 입니다.",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 2900000,
+      "viewCount": 4319423561,
+      "videoCount": 150855,
+      "lastUpdated": "2025-08-21T10:29:08.657662Z"
     }
   },
-  "lastUpdated": "2025-08-20T11:40:03.398155Z",
-  "totalVideos": 4,
-  "totalChannels": 1
+  "lastUpdated": "2025-08-21T10:29:08.661672Z",
+  "totalVideos": 6,
+  "totalChannels": 2
 }

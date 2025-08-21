@@ -29,6 +29,66 @@
       "channelId": "UCIMOytYIzaUpoAM2bpT4JZQ",
       "channelName": "KTV 국민방송",
       "collectedAt": "2025-08-20T11:40:18.967915Z"
+    },
+    "devzVTKUMS4": {
+      "videoId": "devzVTKUMS4",
+      "title": "文 대통령, 강경화 외교부 장관 임명…'외교부 개혁' 주문",
+      "description": "문재인 대통령이 후보 지명 28일 만에 강경화 외교부 장관을 임명했습니다. 김상조 공정거래위원장에 이어 국회의 청문보고서 채택 없이 임명한 두번째 사례입니다. 문 대통령은 외교부의 4강 편중 외교와 외무고시 중심의 폐쇄적 구조를 비판하며 내부 개혁을 주문했습니다. \n\n[Ch.19] 세상에 없는 TV 이제 시작합니다. \n★홈페이지 : http://news.tvchosun.com/\n\n* 뉴스제보 : 이메일(tvchosun@chosun.com), 카카오톡(tv조선제보), 전화(1661-0190)",
+      "publishedAt": "2017-06-18T11:15:35Z",
+      "duration": "PT2M8S",
+      "viewCount": 2674,
+      "likeCount": 16,
+      "commentCount": 4,
+      "tags": [
+        "TV조선",
+        "티비조선",
+        "조선일보",
+        "종편",
+        "종합편성",
+        "티브이조선",
+        "방송사",
+        "TV조선뉴스",
+        "뉴스",
+        "뉴스프로그램"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "collectedAt": "2025-08-21T10:28:33.378449Z"
+    },
+    "FwqgRFBGgE8": {
+      "videoId": "FwqgRFBGgE8",
+      "title": "[단독] 문자로 드러난 조대엽의 거짓말…위법도 사실상 인정",
+      "description": "조대엽 고용노동부 장관 후보자는 최근 임금체불 문제로 노동부 조사를 받고 있는 한국 여론방송의 대주주이자 사외이사로 있었다는 의혹을 받고 있습니다. 이에 대해 조 후보자는 \"주식을 갖지 않았고 사외이사도 이번에 알았다\"고 해명했습니다. 하지만, TV조선이 입수한 조 후보자와 한국여론방송 전 직원 간 문자 메시지를 보면, 조 후보자는 설립 때부터 회사 운영에 관여한 것으로 보입니다. \n\n\n[Ch.19] 세상에 없는 TV 이제 시작합니다. \n★홈페이지 : http://news.tvchosun.com/\n\n* 뉴스제보 : 이메일(tvchosun@chosun.com), 카카오톡(tv조선제보), 전화(1661-0190)",
+      "publishedAt": "2017-06-18T11:15:35Z",
+      "duration": "PT1M52S",
+      "viewCount": 467,
+      "likeCount": 1,
+      "commentCount": 3,
+      "tags": [
+        "TV조선",
+        "티비조선",
+        "조선일보",
+        "종편",
+        "종합편성",
+        "티브이조선",
+        "방송사",
+        "TV조선뉴스",
+        "뉴스",
+        "뉴스프로그램"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "collectedAt": "2025-08-21T10:28:33.378449Z"
     }
   },
   "channels": {
@@ -58,9 +118,36 @@
       "viewCount": 496166667,
       "videoCount": 25206,
       "lastUpdated": "2025-08-20T11:40:18.966912Z"
+    },
+    "UCWlV3Lz_55UaX4JsMj-z__Q": {
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "channelUrl": "@tvchosunnews",
+      "channelDescription": "TV조선 뉴스 공식 YouTube 입니다.",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 2900000,
+      "viewCount": 4319423561,
+      "videoCount": 150855,
+      "lastUpdated": "2025-08-21T10:28:33.375670Z"
     }
   },
-  "lastUpdated": "2025-08-20T11:40:18.967915Z",
-  "totalVideos": 1,
-  "totalChannels": 1
+  "lastUpdated": "2025-08-21T10:28:33.378449Z",
+  "totalVideos": 3,
+  "totalChannels": 2
 }

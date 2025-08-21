@@ -236,6 +236,66 @@
       "channelId": "UCIMOytYIzaUpoAM2bpT4JZQ",
       "channelName": "KTV 국민방송",
       "collectedAt": "2025-08-20T11:40:09.870313Z"
+    },
+    "6-eHaKDZJRc": {
+      "videoId": "6-eHaKDZJRc",
+      "title": "'1·21 생존자' 박재경…北서 승승장구",
+      "description": "[앵커]\n1·21 사태 당시 북한 무장공비 중 유일한 생존자로 알려진 박재경은 북한으로 돌아가 군 대장 직책까지 맡는 등 출세가도에 올랐습니다.\n\n[Ch.19] 세상에 없는 TV 이제 시작합니다. \n★홈페이지 : www.tvchosun.com \n기사 더 보기 ▶ http://news.tvchosun.com/site/data/html_dir/2015/01/21/2015012190141.html",
+      "publishedAt": "2015-01-21T04:46:07Z",
+      "duration": "PT1M10S",
+      "viewCount": 12652,
+      "likeCount": 34,
+      "commentCount": 10,
+      "tags": [
+        "TV조선",
+        "티비조선",
+        "조선일보",
+        "종편",
+        "종합편성",
+        "티브이조선",
+        "방송사",
+        "TV조선뉴스",
+        "뉴스",
+        "뉴스프로그램"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": "ko",
+      "defaultAudioLanguage": "ko",
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "collectedAt": "2025-08-21T10:28:52.331046Z"
+    },
+    "YFn7tJ_a2Z8": {
+      "videoId": "YFn7tJ_a2Z8",
+      "title": "김정일 이복동생 김평일, 체코 대사로 이동",
+      "description": "[앵커]\n북한 김정일 국방위원장의 이복동생 김평일 대사가 17년 만에, 폴란드에서 체코로 부임지를 바꾼 것으로 알려졌습니다. 김일성을 꼭 닮은 김평일은 김정일의 미움을 사, 사실상 유럽을 돌며 유배 생활을 하고 있습니다. \n\n\n[Ch.19] 세상에 없는 TV 이제 시작합니다. \n★홈페이지 : www.tvchosun.com \n기사 더 보기 ▶ http://news.tvchosun.com/site/data/html_dir/2015/01/21/2015012190137.html",
+      "publishedAt": "2015-01-21T04:17:48Z",
+      "duration": "PT1M34S",
+      "viewCount": 3958,
+      "likeCount": 13,
+      "commentCount": 1,
+      "tags": [
+        "TV조선",
+        "티비조선",
+        "조선일보",
+        "종편",
+        "종합편성",
+        "티브이조선",
+        "방송사",
+        "TV조선뉴스",
+        "뉴스",
+        "뉴스프로그램"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "collectedAt": "2025-08-21T10:28:52.331046Z"
     }
   },
   "channels": {
@@ -292,9 +352,36 @@
       "viewCount": 496166667,
       "videoCount": 25206,
       "lastUpdated": "2025-08-20T11:40:09.869310Z"
+    },
+    "UCWlV3Lz_55UaX4JsMj-z__Q": {
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "channelUrl": "@tvchosunnews",
+      "channelDescription": "TV조선 뉴스 공식 YouTube 입니다.",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 2900000,
+      "viewCount": 4319423561,
+      "videoCount": 150855,
+      "lastUpdated": "2025-08-21T10:28:52.330516Z"
     }
   },
-  "lastUpdated": "2025-08-20T11:40:09.870313Z",
-  "totalVideos": 8,
-  "totalChannels": 2
+  "lastUpdated": "2025-08-21T10:28:52.332224Z",
+  "totalVideos": 10,
+  "totalChannels": 3
 }

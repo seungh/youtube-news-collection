@@ -206,6 +206,66 @@
       "channelId": "UCIMOytYIzaUpoAM2bpT4JZQ",
       "channelName": "KTV 국민방송",
       "collectedAt": "2025-08-20T11:40:13.664614Z"
+    },
+    "OLRd2tKA-ko": {
+      "videoId": "OLRd2tKA-ko",
+      "title": "北, 김일성 생일 맞아 대남 비방",
+      "description": "4월 15일 오늘은 103년전 김일성이 태어난 날입니다. 당연히 북한의 최대 명절입니다. 북한은 대대적인 축제 분위기 속에서도 대남 비난 공세를 이어갔습니다. \n\n[Ch.19] 세상에 없는 TV 이제 시작합니다. \n★홈페이지 : www.tvchosun.com \n기사 더 보기 ▶ http://news.tvchosun.com/site/data/html_dir/2015/04/15/2015041590319.html",
+      "publishedAt": "2015-04-15T14:21:06Z",
+      "duration": "PT1M32S",
+      "viewCount": 378,
+      "likeCount": 0,
+      "commentCount": 0,
+      "tags": [
+        "TV조선",
+        "티비조선",
+        "조선일보",
+        "종편",
+        "종합편성",
+        "티브이조선",
+        "방송사",
+        "TV조선뉴스",
+        "뉴스",
+        "뉴스프로그램"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "collectedAt": "2025-08-21T10:28:49.979909Z"
+    },
+    "UJ6mFD8-YHk": {
+      "videoId": "UJ6mFD8-YHk",
+      "title": "‘부패척결’ 대국민 담화, 황 법무장관도 내용 몰랐다",
+      "description": "이완구 국무총리가 지난달 부패와의 전쟁, 대규모 사정을 예고하는 대국민 담화 당시 황교안 법무부 장관과 정종섭 행정 자치부 장관이 배석했는데 두 장관 모두 관련 내용에 대한 사전 설명을 듣지 못한 채 배석했던 것으로 TV 조선 취재 결과 확인됐습니다. \n\n\n[Ch.19] 세상에 없는 TV 이제 시작합니다. \n★홈페이지 : www.tvchosun.com \n기사 더 보기 ▶ http://news.tvchosun.com/site/data/html_dir/2015/04/15/2015041590287.html",
+      "publishedAt": "2015-04-15T14:17:32Z",
+      "duration": "PT1M49S",
+      "viewCount": 142,
+      "likeCount": 0,
+      "commentCount": 0,
+      "tags": [
+        "TV조선",
+        "티비조선",
+        "조선일보",
+        "종편",
+        "종합편성",
+        "티브이조선",
+        "방송사",
+        "TV조선뉴스",
+        "뉴스",
+        "뉴스프로그램"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "collectedAt": "2025-08-21T10:28:49.979909Z"
     }
   },
   "channels": {
@@ -235,9 +295,36 @@
       "viewCount": 496166667,
       "videoCount": 25206,
       "lastUpdated": "2025-08-20T11:40:13.664614Z"
+    },
+    "UCWlV3Lz_55UaX4JsMj-z__Q": {
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "channelUrl": "@tvchosunnews",
+      "channelDescription": "TV조선 뉴스 공식 YouTube 입니다.",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 2900000,
+      "viewCount": 4319423561,
+      "videoCount": 150855,
+      "lastUpdated": "2025-08-21T10:28:49.978912Z"
     }
   },
-  "lastUpdated": "2025-08-20T11:40:13.665560Z",
-  "totalVideos": 7,
-  "totalChannels": 1
+  "lastUpdated": "2025-08-21T10:28:49.979909Z",
+  "totalVideos": 9,
+  "totalChannels": 2
 }

@@ -141,6 +141,96 @@
       "channelId": "UCNJM6dqu70Qr6VaseiW1Org",
       "channelName": "이재명",
       "collectedAt": "2025-08-20T11:40:06.465538Z"
+    },
+    "tTYQm1mCAi8": {
+      "videoId": "tTYQm1mCAi8",
+      "title": "김보경·윤석영 현지 인터뷰…\"손흥민·김진수와 주전 경쟁\"",
+      "description": "[앵커]\n올해는 박지성과 이영표가 영국 프리미어리그에 진출한 지 꼭 10년이 되는 해죠, 때를 맞춘 듯 제2의 박지성, 제2의 이영표로 불리던 김보경과 윤석영이 그동안의 부진과 부상을 씻고 나란히 부활의 신호탄을 쏘아올렸습니다. \n\n[Ch.19] 세상에 없는 TV 이제 시작합니다. \n★홈페이지 : www.tvchosun.com \n기사 더 보기 ▶ http://news.tvchosun.com/site/data/html_dir/2015/02/17/2015021790307.html",
+      "publishedAt": "2015-02-17T14:11:08Z",
+      "duration": "PT2M9S",
+      "viewCount": 3575,
+      "likeCount": 5,
+      "commentCount": 4,
+      "tags": [
+        "TV조선",
+        "티비조선",
+        "조선일보",
+        "종편",
+        "종합편성",
+        "티브이조선",
+        "방송사",
+        "TV조선뉴스",
+        "뉴스",
+        "뉴스프로그램"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "collectedAt": "2025-08-21T10:29:04.900528Z"
+    },
+    "H6wXScxURGY": {
+      "videoId": "H6wXScxURGY",
+      "title": "'갑부' 만수르, K리그 투자한다",
+      "description": "자산 규모 34조 원의 세계적인 재벌 만수르가 K리그에 투자를 추진 중인 것으로 확인됐습니다.\n\n\n[Ch.19] 세상에 없는 TV 이제 시작합니다. \n★홈페이지 : www.tvchosun.com \n기사 더 보기 ▶ http://news.tvchosun.com/site/data/html_dir/2015/02/17/2015021790105.html",
+      "publishedAt": "2015-02-17T02:18:25Z",
+      "duration": "PT1M31S",
+      "viewCount": 7114,
+      "likeCount": 16,
+      "commentCount": 6,
+      "tags": [
+        "TV조선",
+        "티비조선",
+        "조선일보",
+        "종편",
+        "종합편성",
+        "티브이조선",
+        "방송사",
+        "TV조선뉴스",
+        "뉴스",
+        "뉴스프로그램"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "collectedAt": "2025-08-21T10:29:04.900528Z"
+    },
+    "skffTsQcgBc": {
+      "videoId": "skffTsQcgBc",
+      "title": "세탁기 파손 동영상 공개…삼성-LG 2라운드",
+      "description": "삼성전자 세탁기 파손 혐의로 불구속 기소된 조성진 LG전자 사장이 억울하다면서,, 사건 당시의 동영상을 유튜브에 공개했습니다. 삼성은 즉각 반발했습니다. 양측의 진실공방이 더 가열되고 있습니다. \n\n[Ch.19] 세상에 없는 TV 이제 시작합니다. \n★홈페이지 : www.tvchosun.com \n기사 더 보기 ▶ http://news.tvchosun.com/site/data/html_dir/2015/02/17/2015021790107.html",
+      "publishedAt": "2015-02-17T02:20:12Z",
+      "duration": "PT1M27S",
+      "viewCount": 5843,
+      "likeCount": 8,
+      "commentCount": 0,
+      "tags": [
+        "TV조선",
+        "티비조선",
+        "조선일보",
+        "종편",
+        "종합편성",
+        "티브이조선",
+        "방송사",
+        "TV조선뉴스",
+        "뉴스",
+        "뉴스프로그램"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "collectedAt": "2025-08-21T10:29:04.900528Z"
     }
   },
   "channels": {
@@ -224,9 +314,36 @@
       "viewCount": 336974518,
       "videoCount": 3965,
       "lastUpdated": "2025-08-20T11:40:06.463539Z"
+    },
+    "UCWlV3Lz_55UaX4JsMj-z__Q": {
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "channelUrl": "@tvchosunnews",
+      "channelDescription": "TV조선 뉴스 공식 YouTube 입니다.",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 2900000,
+      "viewCount": 4319423561,
+      "videoCount": 150855,
+      "lastUpdated": "2025-08-21T10:29:04.900528Z"
     }
   },
-  "lastUpdated": "2025-08-20T11:40:06.466533Z",
-  "totalVideos": 5,
-  "totalChannels": 3
+  "lastUpdated": "2025-08-21T10:29:04.902547Z",
+  "totalVideos": 8,
+  "totalChannels": 4
 }

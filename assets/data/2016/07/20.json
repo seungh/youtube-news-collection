@@ -502,6 +502,66 @@
       "channelId": "UCIMOytYIzaUpoAM2bpT4JZQ",
       "channelName": "KTV 국민방송",
       "collectedAt": "2025-08-20T11:38:48.622186Z"
+    },
+    "33uTFlffY4Q": {
+      "videoId": "33uTFlffY4Q",
+      "title": "청화대, 최경환·홍문종 불출마 권유…홍문종 내일 출사표 [TV조선 단독]",
+      "description": "청와대가 친박계 최경환 의원과 홍문종 의원 측에 전당대회 불출마를 권유한 것으로 확인됐습니다. 이에 따라 최 의원은 불출마 선언을 했는데, 홍문종 의원은 출마를 준비 중입니다. \n\n[Ch.19] 세상에 없는 TV 이제 시작합니다. \n★홈페이지 : http://news.tvchosun.com/",
+      "publishedAt": "2016-07-20T12:36:15Z",
+      "duration": "PT1M26S",
+      "viewCount": 366,
+      "likeCount": 1,
+      "commentCount": 1,
+      "tags": [
+        "TV조선",
+        "티비조선",
+        "조선일보",
+        "종편",
+        "종합편성",
+        "티브이조선",
+        "방송사",
+        "TV조선뉴스",
+        "뉴스",
+        "뉴스프로그램"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "collectedAt": "2025-08-21T10:29:08.622744Z"
+    },
+    "gm7iz9mwKAY": {
+      "videoId": "gm7iz9mwKAY",
+      "title": "민정수석 부인 자매…농사 안지으면서 농지 매입 [TV조선 단독]",
+      "description": "우병우 청와대 민정수석과 관련된 또 다른 의혹이 제기됐습니다. 우 수석의 부인을 포함한 자매 세명이, 농지 1500평을 매입한 후, 농사를 짓지 않은 것으로 드러났습니다. 땅 주인이 농사 짓지 않으면 명백한 농지법 위반입니다. \n\n[Ch.19] 세상에 없는 TV 이제 시작합니다. \n★홈페이지 : http://news.tvchosun.com/",
+      "publishedAt": "2016-07-20T12:33:11Z",
+      "duration": "PT1M58S",
+      "viewCount": 539,
+      "likeCount": 0,
+      "commentCount": 0,
+      "tags": [
+        "TV조선",
+        "티비조선",
+        "조선일보",
+        "종편",
+        "종합편성",
+        "티브이조선",
+        "방송사",
+        "TV조선뉴스",
+        "뉴스",
+        "뉴스프로그램"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "collectedAt": "2025-08-21T10:29:08.622744Z"
     }
   },
   "channels": {
@@ -585,9 +645,36 @@
       "viewCount": 496166667,
       "videoCount": 25206,
       "lastUpdated": "2025-08-20T11:38:48.621147Z"
+    },
+    "UCWlV3Lz_55UaX4JsMj-z__Q": {
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "channelUrl": "@tvchosunnews",
+      "channelDescription": "TV조선 뉴스 공식 YouTube 입니다.",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 2900000,
+      "viewCount": 4319423561,
+      "videoCount": 150855,
+      "lastUpdated": "2025-08-21T10:29:08.622744Z"
     }
   },
-  "lastUpdated": "2025-08-20T11:38:48.622186Z",
-  "totalVideos": 18,
-  "totalChannels": 3
+  "lastUpdated": "2025-08-21T10:29:08.622744Z",
+  "totalVideos": 20,
+  "totalChannels": 4
 }

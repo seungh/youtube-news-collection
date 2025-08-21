@@ -295,6 +295,66 @@
       "channelId": "UCIMOytYIzaUpoAM2bpT4JZQ",
       "channelName": "KTV 국민방송",
       "collectedAt": "2025-08-20T11:40:06.708856Z"
+    },
+    "Eb1SCXrDSt0": {
+      "videoId": "Eb1SCXrDSt0",
+      "title": "성완종 마당발 인맥…반기문부터 MB까지",
+      "description": "성완종 전 회장은 초등학교 4학년 중퇴 학력으로 경남 기업 회장과 국회 의원이 된 그야말로 입지전적인 인물입니다. 성완종 전회장 하면 또하나 유명한게 마당발 인맥입니다. \n\n[Ch.19] 세상에 없는 TV 이제 시작합니다. \n★홈페이지 : www.tvchosun.com \n기사 더 보기 ▶ http://news.tvchosun.com/site/data/html_dir/2015/04/09/2015040990340.html",
+      "publishedAt": "2015-04-09T14:02:30Z",
+      "duration": "PT1M56S",
+      "viewCount": 478,
+      "likeCount": 0,
+      "commentCount": 0,
+      "tags": [
+        "TV조선",
+        "티비조선",
+        "조선일보",
+        "종편",
+        "종합편성",
+        "티브이조선",
+        "방송사",
+        "TV조선뉴스",
+        "뉴스",
+        "뉴스프로그램"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "collectedAt": "2025-08-21T10:28:50.142267Z"
+    },
+    "nPLC9rlht-Y": {
+      "videoId": "nPLC9rlht-Y",
+      "title": "\"없어서 못판다\" 갤럭시S6 흥행 돌풍…막 오른 스마트폰 4월 대전!",
+      "description": "내일부터 판매되는 갤럭시 S6가 역대 예약 판매 최고 기록을 갈아치웠습니다. 국내 예약 30만대, 글로벌 예약 2천5백만대를 넘어섰습니다. 아이폰과의 대격돌이 예상됩니다. \n\n\n\n[Ch.19] 세상에 없는 TV 이제 시작합니다. \n★홈페이지 : www.tvchosun.com \n기사 더 보기 ▶http://news.tvchosun.com/site/data/html_dir/2015/04/09/2015040990378.html",
+      "publishedAt": "2015-04-09T14:00:20Z",
+      "duration": "PT1M18S",
+      "viewCount": 1120,
+      "likeCount": 6,
+      "commentCount": 0,
+      "tags": [
+        "TV조선",
+        "티비조선",
+        "조선일보",
+        "종편",
+        "종합편성",
+        "티브이조선",
+        "방송사",
+        "TV조선뉴스",
+        "뉴스",
+        "뉴스프로그램"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "collectedAt": "2025-08-21T10:28:50.142267Z"
     }
   },
   "channels": {
@@ -351,9 +411,36 @@
       "viewCount": 496166667,
       "videoCount": 25206,
       "lastUpdated": "2025-08-20T11:40:06.708856Z"
+    },
+    "UCWlV3Lz_55UaX4JsMj-z__Q": {
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "channelUrl": "@tvchosunnews",
+      "channelDescription": "TV조선 뉴스 공식 YouTube 입니다.",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 2900000,
+      "viewCount": 4319423561,
+      "videoCount": 150855,
+      "lastUpdated": "2025-08-21T10:28:50.142267Z"
     }
   },
-  "lastUpdated": "2025-08-20T11:40:06.709854Z",
-  "totalVideos": 10,
-  "totalChannels": 2
+  "lastUpdated": "2025-08-21T10:28:50.143263Z",
+  "totalVideos": 12,
+  "totalChannels": 3
 }

@@ -51,6 +51,66 @@
       "channelId": "UCNJM6dqu70Qr6VaseiW1Org",
       "channelName": "이재명",
       "collectedAt": "2025-08-20T11:40:19.274286Z"
+    },
+    "tvyCyjRmKgM": {
+      "videoId": "tvyCyjRmKgM",
+      "title": "문재인도 목소리 변했다…굵어지고 강해져",
+      "description": "문재인 전 대표가 민주당 경선에서 3연승을 거뒀는데 요즘 보면 연설 방식과 어투가 눈에 띄게 달라졌습니다. 굵어진 목소리. 강한 어투. 모두 자신감을 표출하는 것으로 느껴집니다. 문 전 대표는 3일 수도권 경선에서 승부를 결정 짖고 본선에 직행한다는 계획입니다. \n\n[Ch.19] 세상에 없는 TV 이제 시작합니다. \n★홈페이지 : http://news.tvchosun.com/\n\n* 뉴스제보 : 이메일(tvchosun@chosun.com), 카카오톡(tv조선제보), 전화(1661-0190)",
+      "publishedAt": "2017-04-01T11:06:23Z",
+      "duration": "PT1M51S",
+      "viewCount": 25915,
+      "likeCount": 96,
+      "commentCount": 25,
+      "tags": [
+        "TV조선",
+        "티비조선",
+        "조선일보",
+        "종편",
+        "종합편성",
+        "티브이조선",
+        "방송사",
+        "TV조선뉴스",
+        "뉴스",
+        "뉴스프로그램"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "collectedAt": "2025-08-21T10:28:33.976846Z"
+    },
+    "9VLAd1g1vk0": {
+      "videoId": "9VLAd1g1vk0",
+      "title": "롯데월드타워, 600m 높이에서 40억원짜리 '불꽃 쇼'",
+      "description": "내일 저녁 국내 최고층 빌딩, 롯데월드타워에서 불꽃 쇼가 펼쳐집니다. 11분동안 폭죽 3만 개를 터트리는데 비용만 모두 40억원에 이릅니다. 종종 해외 최고층 빌딩에서 봤던 그 장면 우리나라에서도 펼쳐지게 됩니다. \n\n[Ch.19] 세상에 없는 TV 이제 시작합니다. \n★홈페이지 : http://news.tvchosun.com/\n\n* 뉴스제보 : 이메일(tvchosun@chosun.com), 카카오톡(tv조선제보), 전화(1661-0190)",
+      "publishedAt": "2017-04-01T11:06:25Z",
+      "duration": "PT1M44S",
+      "viewCount": 24286,
+      "likeCount": 40,
+      "commentCount": 15,
+      "tags": [
+        "TV조선",
+        "티비조선",
+        "조선일보",
+        "종편",
+        "종합편성",
+        "티브이조선",
+        "방송사",
+        "TV조선뉴스",
+        "뉴스",
+        "뉴스프로그램"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "collectedAt": "2025-08-21T10:28:33.977111Z"
     }
   },
   "channels": {
@@ -80,9 +140,36 @@
       "viewCount": 336974518,
       "videoCount": 3965,
       "lastUpdated": "2025-08-20T11:40:19.273824Z"
+    },
+    "UCWlV3Lz_55UaX4JsMj-z__Q": {
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "channelUrl": "@tvchosunnews",
+      "channelDescription": "TV조선 뉴스 공식 YouTube 입니다.",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 2900000,
+      "viewCount": 4319423561,
+      "videoCount": 150855,
+      "lastUpdated": "2025-08-21T10:28:33.973804Z"
     }
   },
-  "lastUpdated": "2025-08-20T11:40:19.275285Z",
-  "totalVideos": 2,
-  "totalChannels": 1
+  "lastUpdated": "2025-08-21T10:28:33.977111Z",
+  "totalVideos": 4,
+  "totalChannels": 2
 }

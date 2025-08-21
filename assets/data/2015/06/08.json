@@ -260,6 +260,66 @@
       "channelId": "UCIMOytYIzaUpoAM2bpT4JZQ",
       "channelName": "KTV 국민방송",
       "collectedAt": "2025-08-20T11:40:07.436875Z"
+    },
+    "njg_xRpvTug": {
+      "videoId": "njg_xRpvTug",
+      "title": "北 2인자 황병서, 김정은 앞서 걷다 '화들짝'",
+      "description": "올해 초 우리나라를 깜짝 방문했던 북한 실세 3인방 중의 한 사람, 황병서 군 총정치국장이 김정은 노동당 제1비서보다 한 걸음 앞서게 됐다 깜짝 놀라는 모습이 북한 TV에 방영됐습니다 북한은 또 김정은이 20대 초반부터 현지시찰을 다닌 기록을 공개했습니다.\n\n[Ch.19] 세상에 없는 TV 이제 시작합니다. \n★홈페이지 : www.tvchosun.com \n기사 더 보기 ▶ http://news.tvchosun.com/site/data/html_dir/2015/06/08/2015060890096.html",
+      "publishedAt": "2015-06-08T00:43:03Z",
+      "duration": "PT1M41S",
+      "viewCount": 825728,
+      "likeCount": 905,
+      "commentCount": 240,
+      "tags": [
+        "TV조선",
+        "티비조선",
+        "조선일보",
+        "종편",
+        "종합편성",
+        "티브이조선",
+        "방송사",
+        "TV조선뉴스",
+        "뉴스",
+        "뉴스프로그램"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "collectedAt": "2025-08-21T10:28:48.274134Z"
+    },
+    "nBgfy0hqYy8": {
+      "videoId": "nBgfy0hqYy8",
+      "title": "원정 성매매 여성들 \"메르스 때문에…\"",
+      "description": "가뜩이나 메르스 초기대응과 방역실패로 국제적인 망신살이 뻗쳤는데, 타이완에선 또 한국인 성매매 여성들이 줄줄이 검거돼 눈살을 찌푸리게 하고 있습니다.\n\n[Ch.19] 세상에 없는 TV 이제 시작합니다. \n★홈페이지 : www.tvchosun.com \n기사 더 보기 ▶ http://news.tvchosun.com/site/data/html_dir/2015/06/08/2015060890315.html",
+      "publishedAt": "2015-06-08T14:21:20Z",
+      "duration": "PT1M25S",
+      "viewCount": 10838,
+      "likeCount": 18,
+      "commentCount": 4,
+      "tags": [
+        "TV조선",
+        "티비조선",
+        "조선일보",
+        "종편",
+        "종합편성",
+        "티브이조선",
+        "방송사",
+        "TV조선뉴스",
+        "뉴스",
+        "뉴스프로그램"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "collectedAt": "2025-08-21T10:28:48.274134Z"
     }
   },
   "channels": {
@@ -316,9 +376,36 @@
       "viewCount": 496166667,
       "videoCount": 25206,
       "lastUpdated": "2025-08-20T11:40:07.436875Z"
+    },
+    "UCWlV3Lz_55UaX4JsMj-z__Q": {
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "channelUrl": "@tvchosunnews",
+      "channelDescription": "TV조선 뉴스 공식 YouTube 입니다.",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 2900000,
+      "viewCount": 4319423561,
+      "videoCount": 150855,
+      "lastUpdated": "2025-08-21T10:28:48.272602Z"
     }
   },
-  "lastUpdated": "2025-08-20T11:40:07.436875Z",
-  "totalVideos": 9,
-  "totalChannels": 2
+  "lastUpdated": "2025-08-21T10:28:48.274134Z",
+  "totalVideos": 11,
+  "totalChannels": 3
 }

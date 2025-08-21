@@ -275,6 +275,66 @@
       "channelId": "UCIMOytYIzaUpoAM2bpT4JZQ",
       "channelName": "KTV 국민방송",
       "collectedAt": "2025-08-20T11:38:48.088913Z"
+    },
+    "sm7LsCJkyK0": {
+      "videoId": "sm7LsCJkyK0",
+      "title": "코웨이, 대장균 검출 정수기 버젓이 팔았다 [TV조선 단독]",
+      "description": "얼음정수기에서 니켈이 나와 파문을 일으킨, 1위 정수기업체 코웨이. 냉온 정수기는 괜찮다고 말해왔는데, TV조선 단독 취재 결과 미국 연구소에서 코웨이의 냉온정수기 2종에 대해 부적합 판정을 내렸던 것으로 확인됐습니다.\n\n\n[Ch.19] 세상에 없는 TV 이제 시작합니다. \n★홈페이지 : http://news.tvchosun.com/",
+      "publishedAt": "2016-07-08T12:28:46Z",
+      "duration": "PT1M48S",
+      "viewCount": 28391,
+      "likeCount": 40,
+      "commentCount": 18,
+      "tags": [
+        "TV조선",
+        "티비조선",
+        "조선일보",
+        "종편",
+        "종합편성",
+        "티브이조선",
+        "방송사",
+        "TV조선뉴스",
+        "뉴스",
+        "뉴스프로그램"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "collectedAt": "2025-08-21T10:29:08.702638Z"
+    },
+    "TDUC04e36K0": {
+      "videoId": "TDUC04e36K0",
+      "title": "사드배치 발표에 중국 \"강력 반대\"…일본 \"대환영\"",
+      "description": "한미 양국이 사드의 주한미군 배치를 공식 결정하자, 중국 당국은 \"강렬한 불만과 단호한 반대\"라는 입장을 바로 표명했습니다. 반면 일본은 즉각 환영의 뜻을 밝혔습니다. \n\n[Ch.19] 세상에 없는 TV 이제 시작합니다. \n★홈페이지 : http://news.tvchosun.com/",
+      "publishedAt": "2016-07-08T06:08:28Z",
+      "duration": "PT1M24S",
+      "viewCount": 4856,
+      "likeCount": 13,
+      "commentCount": 19,
+      "tags": [
+        "TV조선",
+        "티비조선",
+        "조선일보",
+        "종편",
+        "종합편성",
+        "티브이조선",
+        "방송사",
+        "TV조선뉴스",
+        "뉴스",
+        "뉴스프로그램"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "collectedAt": "2025-08-21T10:29:08.702638Z"
     }
   },
   "channels": {
@@ -358,9 +418,36 @@
       "viewCount": 496166667,
       "videoCount": 25206,
       "lastUpdated": "2025-08-20T11:38:48.087917Z"
+    },
+    "UCWlV3Lz_55UaX4JsMj-z__Q": {
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "channelUrl": "@tvchosunnews",
+      "channelDescription": "TV조선 뉴스 공식 YouTube 입니다.",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 2900000,
+      "viewCount": 4319423561,
+      "videoCount": 150855,
+      "lastUpdated": "2025-08-21T10:29:08.699682Z"
     }
   },
-  "lastUpdated": "2025-08-20T11:38:48.088913Z",
-  "totalVideos": 10,
-  "totalChannels": 3
+  "lastUpdated": "2025-08-21T10:29:08.707672Z",
+  "totalVideos": 12,
+  "totalChannels": 4
 }

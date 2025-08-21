@@ -86,6 +86,66 @@
       "channelId": "UCIMOytYIzaUpoAM2bpT4JZQ",
       "channelName": "KTV 국민방송",
       "collectedAt": "2025-08-20T11:40:08.167587Z"
+    },
+    "gx6WvhYcALc": {
+      "videoId": "gx6WvhYcALc",
+      "title": "윤상현 \"김무성 죽여버려\" 욕설 파문",
+      "description": "친박계 핵심으로 꼽히는 윤상현 새누리당 의원이 김무성 대표를 겨냥해 막말 욕설 비난을 한 사실이 공개돼 논란이 확산되고 있습니다. 윤 의원은 일단 사과했는데, 김 대표 측이 징계를 촉구하면서 공천갈등이 더욱 격화되는 분위기입니다.\n\n\n[Ch.19] 세상에 없는 TV 이제 시작합니다. \n★홈페이지 : http://news.tvchosun.com/index.html",
+      "publishedAt": "2016-03-09T00:34:10Z",
+      "duration": "PT1M29S",
+      "viewCount": 9597,
+      "likeCount": 39,
+      "commentCount": 7,
+      "tags": [
+        "TV조선",
+        "티비조선",
+        "조선일보",
+        "종편",
+        "종합편성",
+        "티브이조선",
+        "방송사",
+        "TV조선뉴스",
+        "뉴스",
+        "뉴스프로그램"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": "ko",
+      "defaultAudioLanguage": "ko",
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "collectedAt": "2025-08-21T10:28:39.781591Z"
+    },
+    "DjXlBwL2YWs": {
+      "videoId": "DjXlBwL2YWs",
+      "title": "'고수' 이세돌은 왜 알파고에 졌나?",
+      "description": "프로바둑 최고수로 꼽히는 이세돌 9단이 알파고와의 첫 대국에서 패할 것이라고 예상한 사람은 많지 않았습니다. 이세돌 9단이 왜 졌는지 분석했습니다.\n\n[Ch.19] 세상에 없는 TV 이제 시작합니다. \n★홈페이지 : http://news.tvchosun.com/",
+      "publishedAt": "2016-03-09T12:21:22Z",
+      "duration": "PT1M35S",
+      "viewCount": 21750,
+      "likeCount": 26,
+      "commentCount": 1,
+      "tags": [
+        "TV조선",
+        "티비조선",
+        "조선일보",
+        "종편",
+        "종합편성",
+        "티브이조선",
+        "방송사",
+        "TV조선뉴스",
+        "뉴스",
+        "뉴스프로그램"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "collectedAt": "2025-08-21T10:28:39.781591Z"
     }
   },
   "channels": {
@@ -142,9 +202,36 @@
       "viewCount": 496166667,
       "videoCount": 25206,
       "lastUpdated": "2025-08-20T11:40:08.166552Z"
+    },
+    "UCWlV3Lz_55UaX4JsMj-z__Q": {
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "channelUrl": "@tvchosunnews",
+      "channelDescription": "TV조선 뉴스 공식 YouTube 입니다.",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 2900000,
+      "viewCount": 4319423561,
+      "videoCount": 150855,
+      "lastUpdated": "2025-08-21T10:28:39.772577Z"
     }
   },
-  "lastUpdated": "2025-08-20T11:40:08.167587Z",
-  "totalVideos": 4,
-  "totalChannels": 2
+  "lastUpdated": "2025-08-21T10:28:39.784104Z",
+  "totalVideos": 6,
+  "totalChannels": 3
 }

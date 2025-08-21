@@ -308,6 +308,66 @@
       "channelId": "UCNJM6dqu70Qr6VaseiW1Org",
       "channelName": "이재명",
       "collectedAt": "2025-08-20T11:40:06.318631Z"
+    },
+    "0VRqnPxuyP4": {
+      "videoId": "0VRqnPxuyP4",
+      "title": "박진영·양현석도…연예계 '스타트업 투자' 바람",
+      "description": "[앵커]\n연예계에 벤처 기업 투자 바람이 불고 있습니다. 신생 벤처 기업을 뜻하는 스타트 업이 미래 성장 동력으로 떠오르자, 잘나가는 연예인들이 스타트업 투자에 큰 손으로 나섰습니다. \n\n\n[Ch.19] 세상에 없는 TV 이제 시작합니다. \n★홈페이지 : www.tvchosun.com \n기사 더 보기 ▶ http://news.tvchosun.com/site/data/html_dir/2014/12/24/2014122490306.html",
+      "publishedAt": "2014-12-24T13:46:37Z",
+      "duration": "PT1M24S",
+      "viewCount": 446,
+      "likeCount": 2,
+      "commentCount": 0,
+      "tags": [
+        "TV조선",
+        "티비조선",
+        "조선일보",
+        "종편",
+        "종합편성",
+        "티브이조선",
+        "방송사",
+        "TV조선뉴스",
+        "뉴스",
+        "뉴스프로그램"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "collectedAt": "2025-08-21T10:29:13.147370Z"
+    },
+    "0Djn06jeZ-M": {
+      "videoId": "0Djn06jeZ-M",
+      "title": "토마토 가루 뿌린 김 맛보세요!",
+      "description": "[앵커]\nFTA 확대로 글로벌 시장이 넓어지고 있는데, 엎친데 덮친겪으로 최근 국제 곡물 가격까지 떨어지면서 우리 농가 많이 힘듭니다. 새로운 제품을 개발해 위기를 극복하려는 농가가 돋보이는 때입니다.\n\n[Ch.19] 세상에 없는 TV 이제 시작합니다. \n★홈페이지 : www.tvchosun.com \n기사 더 보기 ▶ http://news.tvchosun.com/site/data/html_dir/2014/12/24/2014122490220.html",
+      "publishedAt": "2014-12-24T07:47:07Z",
+      "duration": "PT1M22S",
+      "viewCount": 350,
+      "likeCount": 3,
+      "commentCount": 2,
+      "tags": [
+        "TV조선",
+        "티비조선",
+        "조선일보",
+        "종편",
+        "종합편성",
+        "티브이조선",
+        "방송사",
+        "TV조선뉴스",
+        "뉴스",
+        "뉴스프로그램"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "collectedAt": "2025-08-21T10:29:13.147370Z"
     }
   },
   "channels": {
@@ -391,9 +451,36 @@
       "viewCount": 336974518,
       "videoCount": 3965,
       "lastUpdated": "2025-08-20T11:40:06.317643Z"
+    },
+    "UCWlV3Lz_55UaX4JsMj-z__Q": {
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "channelUrl": "@tvchosunnews",
+      "channelDescription": "TV조선 뉴스 공식 YouTube 입니다.",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 2900000,
+      "viewCount": 4319423561,
+      "videoCount": 150855,
+      "lastUpdated": "2025-08-21T10:29:13.146373Z"
     }
   },
-  "lastUpdated": "2025-08-20T11:40:06.318631Z",
-  "totalVideos": 11,
-  "totalChannels": 3
+  "lastUpdated": "2025-08-21T10:29:13.147370Z",
+  "totalVideos": 13,
+  "totalChannels": 4
 }

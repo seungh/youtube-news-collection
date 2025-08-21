@@ -87,6 +87,96 @@
       "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
       "channelName": "NATV 국회방송",
       "collectedAt": "2025-08-20T11:40:05.940448Z"
+    },
+    "sMabKlpS79o": {
+      "videoId": "sMabKlpS79o",
+      "title": "위민크로스DMZ, 판문점 통과 계획 철회",
+      "description": "세계 여성인권운동가와 재미교포 여성 등이 한반도 평화를 주제로 비무장지대를 걸어서 통과하는 행사인 위민크로스DMZ가 당초 계획을 바꿔 판문점에서 경의선 육로를 이용해 우리나라에 들어오기로 했습니다.\n\n[Ch.19] 세상에 없는 TV 이제 시작합니다. \n★홈페이지 : www.tvchosun.com \n기사 더 보기 ▶ http://news.tvchosun.com/site/data/html_dir/2015/05/22/2015052290131.html",
+      "publishedAt": "2015-05-22T06:17:57Z",
+      "duration": "PT1M28S",
+      "viewCount": 266,
+      "likeCount": 1,
+      "commentCount": 2,
+      "tags": [
+        "TV조선",
+        "티비조선",
+        "조선일보",
+        "종편",
+        "종합편성",
+        "티브이조선",
+        "방송사",
+        "TV조선뉴스",
+        "뉴스",
+        "뉴스프로그램"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "collectedAt": "2025-08-21T10:28:48.774070Z"
+    },
+    "agHmcUU2HDk": {
+      "videoId": "agHmcUU2HDk",
+      "title": "'최장 총리 공백 사태' 불가피?",
+      "description": "어제 황교안 법무부 장관을 새 총리 후보로 지명했지만 박근혜 정부들어 벌써 24일째 총리공백 사태가 이어지고 있습니다. 총리 인준절차까지 걸리는 시간을 포함하면, 총리서리제가 없어진 이후 최장기간 총리 공백 사태란 오명을 피하기 어려워 보입니다. \n\n[Ch.19] 세상에 없는 TV 이제 시작합니다. \n★홈페이지 : www.tvchosun.com \n기사 더 보기 ▶ http://news.tvchosun.com/site/data/html_dir/2015/05/22/2015052290139.html",
+      "publishedAt": "2015-05-22T06:16:50Z",
+      "duration": "PT1M49S",
+      "viewCount": 46,
+      "likeCount": 0,
+      "commentCount": 0,
+      "tags": [
+        "TV조선",
+        "티비조선",
+        "조선일보",
+        "종편",
+        "종합편성",
+        "티브이조선",
+        "방송사",
+        "TV조선뉴스",
+        "뉴스",
+        "뉴스프로그램"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "collectedAt": "2025-08-21T10:28:48.774070Z"
+    },
+    "jjxuSeNjuF4": {
+      "videoId": "jjxuSeNjuF4",
+      "title": "'펀치당 11억원' 메이웨더, 4년 연속 스포츠 갑부 1위",
+      "description": "'세기의 대결'로 화제를 모았던 프로복서 메이웨더가 4년 연속 세계에서 가장 많은 소득을 벌어들인 스포츠스타 1위에 올랐습니다. 북미아이스하키리그에서는 헤딩슛이 나와 화제가 됐습니다. \n\n[Ch.19] 세상에 없는 TV 이제 시작합니다. \n★홈페이지 : www.tvchosun.com \n기사 더 보기 ▶ http://news.tvchosun.com/site/data/html_dir/2015/05/22/2015052290167.html",
+      "publishedAt": "2015-05-22T06:16:47Z",
+      "duration": "PT1M46S",
+      "viewCount": 412,
+      "likeCount": 0,
+      "commentCount": 0,
+      "tags": [
+        "TV조선",
+        "티비조선",
+        "조선일보",
+        "종편",
+        "종합편성",
+        "티브이조선",
+        "방송사",
+        "TV조선뉴스",
+        "뉴스",
+        "뉴스프로그램"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "collectedAt": "2025-08-21T10:28:48.774070Z"
     }
   },
   "channels": {
@@ -116,9 +206,36 @@
       "viewCount": 86009826,
       "videoCount": 16390,
       "lastUpdated": "2025-08-18T07:13:44.951718Z"
+    },
+    "UCWlV3Lz_55UaX4JsMj-z__Q": {
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "channelUrl": "@tvchosunnews",
+      "channelDescription": "TV조선 뉴스 공식 YouTube 입니다.",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 2900000,
+      "viewCount": 4319423561,
+      "videoCount": 150855,
+      "lastUpdated": "2025-08-21T10:28:48.745602Z"
     }
   },
-  "lastUpdated": "2025-08-20T11:40:05.940448Z",
-  "totalVideos": 3,
-  "totalChannels": 1
+  "lastUpdated": "2025-08-21T10:28:48.786288Z",
+  "totalVideos": 6,
+  "totalChannels": 2
 }

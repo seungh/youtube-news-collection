@@ -374,6 +374,96 @@
       "channelId": "UCIMOytYIzaUpoAM2bpT4JZQ",
       "channelName": "KTV 국민방송",
       "collectedAt": "2025-08-20T11:40:07.855630Z"
+    },
+    "lIHmOLKwCA0": {
+      "videoId": "lIHmOLKwCA0",
+      "title": "JP의 '맞춤형 조언', 정치 메시지",
+      "description": "올해 여든 아홉의 '정치 9단', 김종필 전 국무총리는 부인 박영옥 여사의 빈소에서 현직 정치인들을 만났습니다. 김 전 총리는 정치인마다 상황에 맞는 말을 전하며 이른바 '맞춤형 조언'을 했습니다.\n\n\n[Ch.19] 세상에 없는 TV 이제 시작합니다. \n★홈페이지 : www.tvchosun.com \n기사 더 보기 ▶http://news.tvchosun.com/site/data/html_dir/2015/02/23/2015022390129.html",
+      "publishedAt": "2015-02-23T06:18:48Z",
+      "duration": "PT1M52S",
+      "viewCount": 16935,
+      "likeCount": 52,
+      "commentCount": 9,
+      "tags": [
+        "TV조선",
+        "티비조선",
+        "조선일보",
+        "종편",
+        "종합편성",
+        "티브이조선",
+        "방송사",
+        "TV조선뉴스",
+        "뉴스",
+        "뉴스프로그램"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "collectedAt": "2025-08-21T10:28:51.660973Z"
+    },
+    "LLOppCNTOdc": {
+      "videoId": "LLOppCNTOdc",
+      "title": "朴대통령 올해 첫 해외순방은 중동4개국",
+      "description": "박근혜 대통령이 올해 첫 해외순방 일정으로 중동 4개국을 택했습니다. 청와대는 다음달 1일부터 시작되는 이 순방이 \"'제2의 중동붐'을 신성장동력으로 활용하는 계기가 될 것\"이라고 밝혔습니다.\n\n\n\n[Ch.19] 세상에 없는 TV 이제 시작합니다. \n★홈페이지 : www.tvchosun.com \n기사 더 보기 ▶ http://news.tvchosun.com/site/data/html_dir/2015/02/23/2015022390119.html",
+      "publishedAt": "2015-02-23T06:14:24Z",
+      "duration": "PT1M23S",
+      "viewCount": 69,
+      "likeCount": 0,
+      "commentCount": 0,
+      "tags": [
+        "TV조선",
+        "티비조선",
+        "조선일보",
+        "종편",
+        "종합편성",
+        "티브이조선",
+        "방송사",
+        "TV조선뉴스",
+        "뉴스",
+        "뉴스프로그램"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "collectedAt": "2025-08-21T10:28:51.660973Z"
+    },
+    "u_tNkAhaIDA": {
+      "videoId": "u_tNkAhaIDA",
+      "title": "[테마 인터뷰] 윤덕여 여자축구 감독 \"자존심 생각해 칭찬하려고 해요\"",
+      "description": "요즘 윤덕여 감독은 '믿·는·다'라는 말을 달고 삽니다. 12년 만의 월드컵 본선 무대에서 사상 첫 승, 나아가 16강 진출이라는 선물을 가져올 것이라는 믿음, 선수들을 춤추게 하는 비결입니다.\n\n[Ch.19] 세상에 없는 TV 이제 시작합니다. \n★홈페이지 : www.tvchosun.com \n기사 더 보기 ▶ http://news.tvchosun.com/site/data/html_dir/2015/02/23/2015022390316.html",
+      "publishedAt": "2015-02-23T14:28:06Z",
+      "duration": "PT2M18S",
+      "viewCount": 774,
+      "likeCount": 4,
+      "commentCount": 0,
+      "tags": [
+        "TV조선",
+        "티비조선",
+        "조선일보",
+        "종편",
+        "종합편성",
+        "티브이조선",
+        "방송사",
+        "TV조선뉴스",
+        "뉴스",
+        "뉴스프로그램"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "collectedAt": "2025-08-21T10:28:51.660973Z"
     }
   },
   "channels": {
@@ -430,9 +520,36 @@
       "viewCount": 496166667,
       "videoCount": 25206,
       "lastUpdated": "2025-08-20T11:40:07.854601Z"
+    },
+    "UCWlV3Lz_55UaX4JsMj-z__Q": {
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "channelUrl": "@tvchosunnews",
+      "channelDescription": "TV조선 뉴스 공식 YouTube 입니다.",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 2900000,
+      "viewCount": 4319423561,
+      "videoCount": 150855,
+      "lastUpdated": "2025-08-21T10:28:51.655864Z"
     }
   },
-  "lastUpdated": "2025-08-20T11:40:07.855630Z",
-  "totalVideos": 14,
-  "totalChannels": 2
+  "lastUpdated": "2025-08-21T10:28:51.660973Z",
+  "totalVideos": 17,
+  "totalChannels": 3
 }

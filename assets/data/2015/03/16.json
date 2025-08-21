@@ -85,6 +85,66 @@
       "channelId": "UCIMOytYIzaUpoAM2bpT4JZQ",
       "channelName": "KTV 국민방송",
       "collectedAt": "2025-08-20T11:40:09.758137Z"
+    },
+    "HJF6urzq0oM": {
+      "videoId": "HJF6urzq0oM",
+      "title": "광물공사, 볼리비아 '꼬로꼬로' 사업 퇴출",
+      "description": "꼬로꼬로 사업이라고 들어보셨습니까? 광물 자원 공사의 볼리비아 동광 개발 사업 인데, 여기에 투자한 110억원을 날릴 위기에 처했습니다. 이 사업은 이명박 전 대통령의 형인 이상득 전 의원이 심혈을 기울인 사업입니다. 아시는대로 얼마전 이완구 총리는 자원 개발 비리도 부정 부패 척결 차원에서 철저히 조사하겠다고 밝혔습니다. \n\n[Ch.19] 세상에 없는 TV 이제 시작합니다. \n★홈페이지 : www.tvchosun.com \n기사 더 보기 ▶ http://news.tvchosun.com/site/data/html_dir/2015/03/16/2015031690210.html",
+      "publishedAt": "2015-03-16T13:35:35Z",
+      "duration": "PT1M41S",
+      "viewCount": 233,
+      "likeCount": 1,
+      "commentCount": 0,
+      "tags": [
+        "TV조선",
+        "티비조선",
+        "조선일보",
+        "종편",
+        "종합편성",
+        "티브이조선",
+        "방송사",
+        "TV조선뉴스",
+        "뉴스",
+        "뉴스프로그램"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "collectedAt": "2025-08-21T10:28:50.787273Z"
+    },
+    "MjOmDj5wx0w": {
+      "videoId": "MjOmDj5wx0w",
+      "title": "줄이고 없애고…혜택 줬다 뺐는 카드사들",
+      "description": "카드사들이 고객을 모집할 때는 화려한 혜택들을 내놓았다가 시간이 지나면 슬그머니 없애고 있습니다 혜택이 살아있는지 꼼꼼히 살피시고, 없어졌다면 갈아타셔야 겠습니다. \n\n[Ch.19] 세상에 없는 TV 이제 시작합니다. \n★홈페이지 : www.tvchosun.com \n기사 더 보기 ▶ http://news.tvchosun.com/site/data/html_dir/2015/03/16/2015031690246.html",
+      "publishedAt": "2015-03-16T13:35:35Z",
+      "duration": "PT1M36S",
+      "viewCount": 49,
+      "likeCount": 0,
+      "commentCount": 0,
+      "tags": [
+        "TV조선",
+        "티비조선",
+        "조선일보",
+        "종편",
+        "종합편성",
+        "티브이조선",
+        "방송사",
+        "TV조선뉴스",
+        "뉴스",
+        "뉴스프로그램"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "collectedAt": "2025-08-21T10:28:50.787273Z"
     }
   },
   "channels": {
@@ -141,9 +201,36 @@
       "viewCount": 496166667,
       "videoCount": 25206,
       "lastUpdated": "2025-08-20T11:40:09.758137Z"
+    },
+    "UCWlV3Lz_55UaX4JsMj-z__Q": {
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "channelUrl": "@tvchosunnews",
+      "channelDescription": "TV조선 뉴스 공식 YouTube 입니다.",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 2900000,
+      "viewCount": 4319423561,
+      "videoCount": 150855,
+      "lastUpdated": "2025-08-21T10:28:50.787273Z"
     }
   },
-  "lastUpdated": "2025-08-20T11:40:09.758137Z",
-  "totalVideos": 3,
-  "totalChannels": 2
+  "lastUpdated": "2025-08-21T10:28:50.790576Z",
+  "totalVideos": 5,
+  "totalChannels": 3
 }

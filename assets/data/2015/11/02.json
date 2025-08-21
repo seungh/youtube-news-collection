@@ -58,6 +58,96 @@
       "channelId": "UCIMOytYIzaUpoAM2bpT4JZQ",
       "channelName": "KTV 국민방송",
       "collectedAt": "2025-08-20T11:40:08.987027Z"
+    },
+    "RJAjbFS66MI": {
+      "videoId": "RJAjbFS66MI",
+      "title": "내일 국정화 확정고시…찬반 격화",
+      "description": "오늘로 한국사 교과서 국정 전환 행정 예고 기간이 끝납니다. 교육부는 일정을 앞당겨 내일 곧바로 한국사 교과서 국정 전환 확정 고시를 발표합니다.\n\n[Ch.19] 세상에 없는 TV 이제 시작합니다. \n★홈페이지 : www.tvchosun.com \n기사 더 보기 ▶ http://news.tvchosun.com/site/data/html_dir/2015/11/02/2015110290172.html",
+      "publishedAt": "2015-11-02T13:30:32Z",
+      "duration": "PT1M45S",
+      "viewCount": 75,
+      "likeCount": 0,
+      "commentCount": 0,
+      "tags": [
+        "TV조선",
+        "티비조선",
+        "조선일보",
+        "종편",
+        "종합편성",
+        "티브이조선",
+        "방송사",
+        "TV조선뉴스",
+        "뉴스",
+        "뉴스프로그램"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "collectedAt": "2025-08-21T10:28:43.933706Z"
+    },
+    "99TpKeWD4iY": {
+      "videoId": "99TpKeWD4iY",
+      "title": "천재의 실수? 윤디리 파문",
+      "description": "중국의 천재 피아니스트인 윤디 리가, 최근 서울 공연에서 어쩌구니 없는 실수를 했습니다. 원숭이가 나무에서 떨어지는것보다 더 어려운, 더 큰 실수라고 할수 있습니다. \n\n[Ch.19] 세상에 없는 TV 이제 시작합니다. \n★홈페이지 : www.tvchosun.com \n기사 더 보기 ▶ http://news.tvchosun.com/site/data/html_dir/2015/11/02/2015110290198.html",
+      "publishedAt": "2015-11-02T13:30:32Z",
+      "duration": "PT1M56S",
+      "viewCount": 49795,
+      "likeCount": 108,
+      "commentCount": 37,
+      "tags": [
+        "TV조선",
+        "티비조선",
+        "조선일보",
+        "종편",
+        "종합편성",
+        "티브이조선",
+        "방송사",
+        "TV조선뉴스",
+        "뉴스",
+        "뉴스프로그램"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "collectedAt": "2025-08-21T10:28:43.934723Z"
+    },
+    "bmXLNTkbQJY": {
+      "videoId": "bmXLNTkbQJY",
+      "title": "[TV조선 단독] 칠성파 결혼식에 유명 연예인이 사회·축가까지…",
+      "description": "서울의 한 특급호텔에서 폭력조직 칠성파의 행동대장이 결혼식을 올렸습니다. 유명 연예인들이 사회와 축가까지 맡았는데요. \n\n[Ch.19] 세상에 없는 TV 이제 시작합니다. \n★홈페이지 : www.tvchosun.com \n기사 더 보기 ▶ http://news.tvchosun.com/site/data/html_dir/2015/11/02/2015110290180.html",
+      "publishedAt": "2015-11-02T13:30:32Z",
+      "duration": "PT1M51S",
+      "viewCount": 776910,
+      "likeCount": 802,
+      "commentCount": 285,
+      "tags": [
+        "TV조선",
+        "티비조선",
+        "조선일보",
+        "종편",
+        "종합편성",
+        "티브이조선",
+        "방송사",
+        "TV조선뉴스",
+        "뉴스",
+        "뉴스프로그램"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "collectedAt": "2025-08-21T10:28:43.934723Z"
     }
   },
   "channels": {
@@ -114,9 +204,36 @@
       "viewCount": 496166667,
       "videoCount": 25206,
       "lastUpdated": "2025-08-20T11:40:08.984309Z"
+    },
+    "UCWlV3Lz_55UaX4JsMj-z__Q": {
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "channelUrl": "@tvchosunnews",
+      "channelDescription": "TV조선 뉴스 공식 YouTube 입니다.",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 2900000,
+      "viewCount": 4319423561,
+      "videoCount": 150855,
+      "lastUpdated": "2025-08-21T10:28:43.933706Z"
     }
   },
-  "lastUpdated": "2025-08-20T11:40:08.987027Z",
-  "totalVideos": 2,
-  "totalChannels": 2
+  "lastUpdated": "2025-08-21T10:28:43.934723Z",
+  "totalVideos": 5,
+  "totalChannels": 3
 }

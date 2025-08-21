@@ -117,6 +117,96 @@
       "channelId": "UCIMOytYIzaUpoAM2bpT4JZQ",
       "channelName": "KTV 국민방송",
       "collectedAt": "2025-08-20T11:40:07.822791Z"
+    },
+    "drhEf2VS5Fk": {
+      "videoId": "drhEf2VS5Fk",
+      "title": "북한, 간통죄 엄벌…김 씨 부자만 '자유 불륜'",
+      "description": "북한에서 간통을 하면 어떻게 될까요? 처벌이 상당히 무겁습니다. 단, 예외도 있습니다. \n\n[Ch.19] 세상에 없는 TV 이제 시작합니다. \n★홈페이지 : www.tvchosun.com \n기사 더 보기 ▶ http://news.tvchosun.com/site/data/html_dir/2015/02/27/2015022790268.html",
+      "publishedAt": "2015-02-27T13:43:44Z",
+      "duration": "PT1M35S",
+      "viewCount": 728,
+      "likeCount": 0,
+      "commentCount": 1,
+      "tags": [
+        "TV조선",
+        "티비조선",
+        "조선일보",
+        "종편",
+        "종합편성",
+        "티브이조선",
+        "방송사",
+        "TV조선뉴스",
+        "뉴스",
+        "뉴스프로그램"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "collectedAt": "2025-08-21T10:28:51.560878Z"
+    },
+    "qoW1AlI-_10": {
+      "videoId": "qoW1AlI-_10",
+      "title": "'왕실장'에서 '비서실장'으로",
+      "description": "박근혜 대통령은 이병기 국정원장을 비서실장으로 선택했습니다. 그동안 '왕실장'으로 불린 비서실장의 역할을 말 그대로 '비서실장'에 맞게 조정하겠다는 뜻도 담겨 있습니다.\n\n[Ch.19] 세상에 없는 TV 이제 시작합니다. \n★홈페이지 : www.tvchosun.com \n기사 더 보기 ▶ http://news.tvchosun.com/site/data/html_dir/2015/02/27/2015022790242.html",
+      "publishedAt": "2015-02-27T13:14:57Z",
+      "duration": "PT2M27S",
+      "viewCount": 169,
+      "likeCount": 0,
+      "commentCount": 0,
+      "tags": [
+        "TV조선",
+        "티비조선",
+        "조선일보",
+        "종편",
+        "종합편성",
+        "티브이조선",
+        "방송사",
+        "TV조선뉴스",
+        "뉴스",
+        "뉴스프로그램"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "collectedAt": "2025-08-21T10:28:51.560878Z"
+    },
+    "NuDD-khBU64": {
+      "videoId": "NuDD-khBU64",
+      "title": "[단독] 현역 중사가 성폭행 하려다 덜미",
+      "description": "현역 군인 부사관이 가정집에 침입해 13살짜리 여중생을 성폭행하려다 붙잡혔습니다. 만취 상태였는데, 마침 근처에 있던 순찰차가 40초 만에 출동하면서 여학생은 화를 면했습니다.\n\n[Ch.19] 세상에 없는 TV 이제 시작합니다. \n★홈페이지 : www.tvchosun.com \n기사 더 보기 ▶ http://news.tvchosun.com/site/data/html_dir/2015/02/27/2015022790272.html",
+      "publishedAt": "2015-02-27T13:39:11Z",
+      "duration": "PT1M32S",
+      "viewCount": 3895,
+      "likeCount": 16,
+      "commentCount": 1,
+      "tags": [
+        "TV조선",
+        "티비조선",
+        "조선일보",
+        "종편",
+        "종합편성",
+        "티브이조선",
+        "방송사",
+        "TV조선뉴스",
+        "뉴스",
+        "뉴스프로그램"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "collectedAt": "2025-08-21T10:28:51.560878Z"
     }
   },
   "channels": {
@@ -173,9 +263,36 @@
       "viewCount": 496166667,
       "videoCount": 25206,
       "lastUpdated": "2025-08-20T11:40:07.822791Z"
+    },
+    "UCWlV3Lz_55UaX4JsMj-z__Q": {
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "channelUrl": "@tvchosunnews",
+      "channelDescription": "TV조선 뉴스 공식 YouTube 입니다.",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 2900000,
+      "viewCount": 4319423561,
+      "videoCount": 150855,
+      "lastUpdated": "2025-08-21T10:28:51.559884Z"
     }
   },
-  "lastUpdated": "2025-08-20T11:40:07.823787Z",
-  "totalVideos": 4,
-  "totalChannels": 2
+  "lastUpdated": "2025-08-21T10:28:51.560878Z",
+  "totalVideos": 7,
+  "totalChannels": 3
 }

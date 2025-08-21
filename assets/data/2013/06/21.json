@@ -18,6 +18,36 @@
       "channelId": "UCIMOytYIzaUpoAM2bpT4JZQ",
       "channelName": "KTV 국민방송",
       "collectedAt": "2025-08-20T11:40:18.601695Z"
+    },
+    "9oHAN2YMMi0": {
+      "videoId": "9oHAN2YMMi0",
+      "title": "[단독] 국정원 \"NLL 대화록 일반문서로 해제해 공개\"",
+      "description": "날씨만 추웠으면, 마치 지난 대선 때 같은 분위깁니다. 노무현 전 대통령의 NLL 발언을 놓고 여야가 그런 말을 했니 안했니, 격돌하고 있습니다. 이런 상황에서, 남재준 국정원장이 'NLL 대화록'을 일반 문서로 해제해 국민들에게 공개할 방침을 세운 것으로 확인됐습니다. 정상 회담 대화록은 현재 공개가 금지된 비밀 기록물로 분류돼 있습니다. 국회의 요청이 오면 바로 해제해 공개할 계획인데, 여야 모두 전면 공개하자는 입장이라 대화록 공개가 사실상 초읽기에 들어갔습니다. \n\n[Ch.19] 세상에 없는 TV 이제 시작합니다. \n★홈페이지 : www.tvchosun.com \n기사 더 보기 ▶ http://news.tv.chosun.com/site/data/html_dir/2013/06/21/2013062190267.html",
+      "publishedAt": "2013-06-21T14:07:15Z",
+      "duration": "PT2M28S",
+      "viewCount": 857,
+      "likeCount": 0,
+      "commentCount": 0,
+      "tags": [
+        "TV조선",
+        "티비조선",
+        "조선일보",
+        "종편",
+        "종합편성",
+        "티브이조선",
+        "방송사",
+        "TV조선뉴스",
+        "뉴스",
+        "뉴스프로그램"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "collectedAt": "2025-08-21T10:29:10.862656Z"
     }
   },
   "channels": {
@@ -47,9 +77,36 @@
       "viewCount": 496166667,
       "videoCount": 25206,
       "lastUpdated": "2025-08-20T11:40:18.601176Z"
+    },
+    "UCWlV3Lz_55UaX4JsMj-z__Q": {
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "channelUrl": "@tvchosunnews",
+      "channelDescription": "TV조선 뉴스 공식 YouTube 입니다.",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 2900000,
+      "viewCount": 4319423561,
+      "videoCount": 150855,
+      "lastUpdated": "2025-08-21T10:29:10.862656Z"
     }
   },
-  "lastUpdated": "2025-08-20T11:40:18.601695Z",
-  "totalVideos": 1,
-  "totalChannels": 1
+  "lastUpdated": "2025-08-21T10:29:10.862656Z",
+  "totalVideos": 2,
+  "totalChannels": 2
 }

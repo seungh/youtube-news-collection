@@ -343,6 +343,96 @@
       "channelId": "UCIMOytYIzaUpoAM2bpT4JZQ",
       "channelName": "KTV 국민방송",
       "collectedAt": "2025-08-20T11:38:51.189088Z"
+    },
+    "gc5Hi4fOciw": {
+      "videoId": "gc5Hi4fOciw",
+      "title": "리우 최대 빈민촌 호시냐 \"여기도 사람 사는 곳\"",
+      "description": "이틀 뒤 개막하는 리우 올림픽에서 가장 큰 걱정은 치안입니다. 그 중에서도 무법지대로 악명 높은 지역이 바로 파벨라로 불리는 빈민촌입니다. \n\n\n[Ch.19] 세상에 없는 TV 이제 시작합니다. \n★홈페이지 : http://news.tvchosun.com/",
+      "publishedAt": "2016-08-04T12:33:34Z",
+      "duration": "PT1M57S",
+      "viewCount": 7731,
+      "likeCount": 15,
+      "commentCount": 1,
+      "tags": [
+        "TV조선",
+        "티비조선",
+        "조선일보",
+        "종편",
+        "종합편성",
+        "티브이조선",
+        "방송사",
+        "TV조선뉴스",
+        "뉴스",
+        "뉴스프로그램"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "collectedAt": "2025-08-21T10:29:01.773161Z"
+    },
+    "anqU07yyfnY": {
+      "videoId": "anqU07yyfnY",
+      "title": "케이스포츠, 대통령 순방행사 참여 [TV조선 단독]",
+      "description": "재단법인 미르나 케이스포츠는 설립 된지 몇 달 안돼 박근혜 대통령의 해외 순방 행사에 참여했습니다. 특히 케이스포츠는 국기원을 배제하고, 박근혜 대통령의 이란 순방 때 공식 태권도 시범까지 보입니다. 여러가지가 의혹투성인데요.\n\n\n[Ch.19] 세상에 없는 TV 이제 시작합니다. \n★홈페이지 : http://news.tvchosun.com/",
+      "publishedAt": "2016-08-04T12:25:01Z",
+      "duration": "PT2M10S",
+      "viewCount": 428,
+      "likeCount": 0,
+      "commentCount": 0,
+      "tags": [
+        "TV조선",
+        "티비조선",
+        "조선일보",
+        "종편",
+        "종합편성",
+        "티브이조선",
+        "방송사",
+        "TV조선뉴스",
+        "뉴스",
+        "뉴스프로그램"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "collectedAt": "2025-08-21T10:29:01.773161Z"
+    },
+    "CM7dlQLwp60": {
+      "videoId": "CM7dlQLwp60",
+      "title": "LPG 적극 권하는 미국·유럽…우리나라만 '손발 꽁꽁'",
+      "description": "미국 스쿨버스, LPG 전용 차량입니다. 미국 정부는 어린이 천식예방을 위해, 경유차를 LPG차로 개조하면 보조금을 줍니다. \n\n[Ch.19] 세상에 없는 TV 이제 시작합니다. \n★홈페이지 : http://news.tvchosun.com/",
+      "publishedAt": "2016-08-04T12:33:34Z",
+      "duration": "PT1M21S",
+      "viewCount": 732,
+      "likeCount": 2,
+      "commentCount": 2,
+      "tags": [
+        "TV조선",
+        "티비조선",
+        "조선일보",
+        "종편",
+        "종합편성",
+        "티브이조선",
+        "방송사",
+        "TV조선뉴스",
+        "뉴스",
+        "뉴스프로그램"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "collectedAt": "2025-08-21T10:29:01.773161Z"
     }
   },
   "channels": {
@@ -426,9 +516,36 @@
       "viewCount": 496166667,
       "videoCount": 25206,
       "lastUpdated": "2025-08-20T11:38:51.189088Z"
+    },
+    "UCWlV3Lz_55UaX4JsMj-z__Q": {
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "channelUrl": "@tvchosunnews",
+      "channelDescription": "TV조선 뉴스 공식 YouTube 입니다.",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 2900000,
+      "viewCount": 4319423561,
+      "videoCount": 150855,
+      "lastUpdated": "2025-08-21T10:29:01.771613Z"
     }
   },
-  "lastUpdated": "2025-08-20T11:38:51.190083Z",
-  "totalVideos": 12,
-  "totalChannels": 3
+  "lastUpdated": "2025-08-21T10:29:01.773161Z",
+  "totalVideos": 15,
+  "totalChannels": 4
 }

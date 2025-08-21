@@ -28,6 +28,66 @@
       "channelId": "UCIMOytYIzaUpoAM2bpT4JZQ",
       "channelName": "KTV 국민방송",
       "collectedAt": "2025-08-20T11:40:16.866814Z"
+    },
+    "zGGSpKsO548": {
+      "videoId": "zGGSpKsO548",
+      "title": "박 전 대통령 \"진실 반드시 밝혀질 것으로 믿는다\"",
+      "description": "[속보] 민경욱 의원, 박 전 대통령 입장 발표\n\n[입장 발표 전문]\n\"제게 주어졌던 대통령으로서의 소명을 끝까지 마무리하지 못해 죄송스럽게 생각합니다. 저를 믿고 성원해주신 국민 여러분께 감사드립니다. 이 모든 결과에 대해서는 제가 안고 가겠습니다. 시간은 걸리겠지만, 진실은 반드시 밝혀진다고 믿고 있습니다.\"\n\n[Ch.19] 세상에 없는 TV 이제 시작합니다. \n★홈페이지 : http://news.tvchosun.com/\n\n* 뉴스제보 : 이메일(tvchosun@chosun.com), 카카오톡(tv조선제보), 전화(1661-0190)",
+      "publishedAt": "2017-03-12T12:05:54Z",
+      "duration": "PT1M30S",
+      "viewCount": 440,
+      "likeCount": 7,
+      "commentCount": 4,
+      "tags": [
+        "TV조선",
+        "티비조선",
+        "조선일보",
+        "종편",
+        "종합편성",
+        "티브이조선",
+        "방송사",
+        "TV조선뉴스",
+        "뉴스",
+        "뉴스프로그램"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "collectedAt": "2025-08-21T10:28:34.209350Z"
+    },
+    "iJ_44h0uk_4": {
+      "videoId": "iJ_44h0uk_4",
+      "title": "김종인, 인명진에 \"대선후보 내지마라\" 조언 [단독]",
+      "description": "김종인 전 민주당 대표가 인명진 한국당 비대위원장에게 \"대선 후보를 내지 말라\"고 했습니다. 불임 정당을 자처하도록 조언한 건데, 인 위원장도 당시엔 \"알겠다\"며 수긍했습니다. 하지만 결국. 이달 말 대선 후보를 선출하기로 마음을 바꿨습니다. \n\n[Ch.19] 세상에 없는 TV 이제 시작합니다. \n★홈페이지 : http://news.tvchosun.com/\n\n* 뉴스제보 : 이메일(tvchosun@chosun.com), 카카오톡(tv조선제보), 전화(1661-0190)",
+      "publishedAt": "2017-03-12T12:05:57Z",
+      "duration": "PT1M52S",
+      "viewCount": 9009,
+      "likeCount": 38,
+      "commentCount": 21,
+      "tags": [
+        "TV조선",
+        "티비조선",
+        "조선일보",
+        "종편",
+        "종합편성",
+        "티브이조선",
+        "방송사",
+        "TV조선뉴스",
+        "뉴스",
+        "뉴스프로그램"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "collectedAt": "2025-08-21T10:28:34.209350Z"
     }
   },
   "channels": {
@@ -57,9 +117,36 @@
       "viewCount": 496166667,
       "videoCount": 25206,
       "lastUpdated": "2025-08-20T11:40:16.866671Z"
+    },
+    "UCWlV3Lz_55UaX4JsMj-z__Q": {
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "channelUrl": "@tvchosunnews",
+      "channelDescription": "TV조선 뉴스 공식 YouTube 입니다.",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 2900000,
+      "viewCount": 4319423561,
+      "videoCount": 150855,
+      "lastUpdated": "2025-08-21T10:28:34.208368Z"
     }
   },
-  "lastUpdated": "2025-08-20T11:40:16.866814Z",
-  "totalVideos": 1,
-  "totalChannels": 1
+  "lastUpdated": "2025-08-21T10:28:34.209350Z",
+  "totalVideos": 3,
+  "totalChannels": 2
 }

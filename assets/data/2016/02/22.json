@@ -84,6 +84,96 @@
       "channelId": "UCIMOytYIzaUpoAM2bpT4JZQ",
       "channelName": "KTV 국민방송",
       "collectedAt": "2025-08-20T11:40:05.542282Z"
+    },
+    "X4g7g_JMckA": {
+      "videoId": "X4g7g_JMckA",
+      "title": "박 대통령, '김정은' 호칭 \"비상한 각오\"…방점은 경제에",
+      "description": "박근혜 대통령은 북한 김정은의 이름을 호칭 없이 언급하며 \"북의 도발에 비상한 각오로 대처하고 있다\"고 말했습니다.\n\n[Ch.19] 세상에 없는 TV 이제 시작합니다. \n★홈페이지 : www.tvchosun.com \n기사 더 보기 ▶ http://news.tvchosun.com/site/data/html_dir/2016/02/22/2016022290140.html",
+      "publishedAt": "2016-02-22T13:37:30Z",
+      "duration": "PT1M36S",
+      "viewCount": 447,
+      "likeCount": 8,
+      "commentCount": 1,
+      "tags": [
+        "TV조선",
+        "티비조선",
+        "조선일보",
+        "종편",
+        "종합편성",
+        "티브이조선",
+        "방송사",
+        "TV조선뉴스",
+        "뉴스",
+        "뉴스프로그램"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "collectedAt": "2025-08-21T10:28:40.152033Z"
+    },
+    "dqP_4Xab38Q": {
+      "videoId": "dqP_4Xab38Q",
+      "title": "이세돌 출사표…\"컴퓨터에 한 판도 내줄수 없다\"",
+      "description": "인간과 컴퓨터의 바둑 맞대결이 2주 앞으로 다가왔습니다. 인간계 최강 이세돌 9단은 한판도 내줄 수 없다며 필승을 다짐했습니다. \n\n\n[Ch.19] 세상에 없는 TV 이제 시작합니다. \n★홈페이지 : www.tvchosun.com \n기사 더 보기 ▶http://news.tvchosun.com/site/data/html_dir/2016/02/22/2016022290176.html",
+      "publishedAt": "2016-02-22T13:37:30Z",
+      "duration": "PT1M48S",
+      "viewCount": 172,
+      "likeCount": 0,
+      "commentCount": 0,
+      "tags": [
+        "TV조선",
+        "티비조선",
+        "조선일보",
+        "종편",
+        "종합편성",
+        "티브이조선",
+        "방송사",
+        "TV조선뉴스",
+        "뉴스",
+        "뉴스프로그램"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "collectedAt": "2025-08-21T10:28:40.152033Z"
+    },
+    "ianfapmJybE": {
+      "videoId": "ianfapmJybE",
+      "title": "갤럭시S7-G5 공개, 삼성-LG VR전쟁 불붙다!",
+      "description": "세계 모바일 올림픽이라 불리는 월드 모바일 콩그레스가 스페인에서 개막했습니다. 삼성 전자와 LG전자가 일제히 최신 스마트폰을 선보였습니다. 마크 저커버그가 등장했고,, VR, 가상 현실 기기가 최대 화두입니다. \n\n\n\n[Ch.19] 세상에 없는 TV 이제 시작합니다. \n★홈페이지 : www.tvchosun.com \n기사 더 보기 ▶ http://news.tvchosun.com/site/data/html_dir/2016/02/22/2016022290192.html",
+      "publishedAt": "2016-02-22T13:37:30Z",
+      "duration": "PT1M54S",
+      "viewCount": 1790,
+      "likeCount": 2,
+      "commentCount": 0,
+      "tags": [
+        "TV조선",
+        "티비조선",
+        "조선일보",
+        "종편",
+        "종합편성",
+        "티브이조선",
+        "방송사",
+        "TV조선뉴스",
+        "뉴스",
+        "뉴스프로그램"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "collectedAt": "2025-08-21T10:28:40.152033Z"
     }
   },
   "channels": {
@@ -140,9 +230,36 @@
       "viewCount": 496166667,
       "videoCount": 25206,
       "lastUpdated": "2025-08-20T11:40:05.542146Z"
+    },
+    "UCWlV3Lz_55UaX4JsMj-z__Q": {
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "channelUrl": "@tvchosunnews",
+      "channelDescription": "TV조선 뉴스 공식 YouTube 입니다.",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 2900000,
+      "viewCount": 4319423561,
+      "videoCount": 150855,
+      "lastUpdated": "2025-08-21T10:28:40.152033Z"
     }
   },
-  "lastUpdated": "2025-08-20T11:40:05.542282Z",
-  "totalVideos": 3,
-  "totalChannels": 2
+  "lastUpdated": "2025-08-21T10:28:40.164299Z",
+  "totalVideos": 6,
+  "totalChannels": 3
 }

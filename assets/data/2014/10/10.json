@@ -147,6 +147,96 @@
       "channelId": "UCIMOytYIzaUpoAM2bpT4JZQ",
       "channelName": "KTV 국민방송",
       "collectedAt": "2025-08-20T11:40:17.917374Z"
+    },
+    "O4bIyv7eGS0": {
+      "videoId": "O4bIyv7eGS0",
+      "title": "北, 연천서 대북전단 향해 고사총탄 발사…軍, 대응사격",
+      "description": "남북이 오늘 휴전선을 사이에 두고 수십발의 총탄을 주고 받았습니다. 상황은 경기도 연천 지역에서 발생했습니다. \n\n[Ch.19] 세상에 없는 TV 이제 시작합니다. \n★홈페이지 : www.tvchosun.com \n기사 더 보기 ▶ http://news.tvchosun.com/site/data/html_dir/2014/10/10/2014101090262.html",
+      "publishedAt": "2014-10-10T14:02:48Z",
+      "duration": "PT2M13S",
+      "viewCount": 1596,
+      "likeCount": 4,
+      "commentCount": 1,
+      "tags": [
+        "TV조선",
+        "티비조선",
+        "조선일보",
+        "종편",
+        "종합편성",
+        "티브이조선",
+        "방송사",
+        "TV조선뉴스",
+        "뉴스",
+        "뉴스프로그램"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "collectedAt": "2025-08-21T10:28:55.028196Z"
+    },
+    "2XLWV2lZS1g": {
+      "videoId": "2XLWV2lZS1g",
+      "title": "靑, 공무원연금 개혁에 정권의 명운 건다",
+      "description": "박근혜 대통령이 공무원 연금 개혁 방식에 대해 입을 열었습니다. 새누리당이 연금 학회를 통해 발표한대로, 독일과 오스트리아식, 초강경 개혁을 시사했습니다. \n\n[Ch.19] 세상에 없는 TV 이제 시작합니다. \n★홈페이지 : www.tvchosun.com \n기사 더 보기 ▶ http://news.tvchosun.com/site/data/html_dir/2014/10/10/2014101090306.html",
+      "publishedAt": "2014-10-10T14:02:49Z",
+      "duration": "PT1M40S",
+      "viewCount": 494,
+      "likeCount": 4,
+      "commentCount": 0,
+      "tags": [
+        "TV조선",
+        "티비조선",
+        "조선일보",
+        "종편",
+        "종합편성",
+        "티브이조선",
+        "방송사",
+        "TV조선뉴스",
+        "뉴스",
+        "뉴스프로그램"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": "ko",
+      "defaultAudioLanguage": "ko",
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "collectedAt": "2025-08-21T10:28:55.028196Z"
+    },
+    "wF7u7OtB8UQ": {
+      "videoId": "wF7u7OtB8UQ",
+      "title": "김정은 37일째 잠적…'당 창건일'에도 자취 감춰",
+      "description": "북한 김정은이 사라진 지 오늘로 37일째입니다. 오늘은 '당 창건일'인데, 자정에 '금수산 태양 궁전'에 참배도 하지 않은것으로 보입니다. \n\n[Ch.19] 세상에 없는 TV 이제 시작합니다. \n★홈페이지 : www.tvchosun.com \n기사 더 보기 ▶ http://news.tvchosun.com/site/data/html_dir/2014/10/10/2014101090276.html",
+      "publishedAt": "2014-10-10T14:02:48Z",
+      "duration": "PT1M49S",
+      "viewCount": 535,
+      "likeCount": 1,
+      "commentCount": 0,
+      "tags": [
+        "TV조선",
+        "티비조선",
+        "조선일보",
+        "종편",
+        "종합편성",
+        "티브이조선",
+        "방송사",
+        "TV조선뉴스",
+        "뉴스",
+        "뉴스프로그램"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "collectedAt": "2025-08-21T10:28:55.028196Z"
     }
   },
   "channels": {
@@ -176,9 +266,36 @@
       "viewCount": 496166667,
       "videoCount": 25206,
       "lastUpdated": "2025-08-20T11:40:17.917374Z"
+    },
+    "UCWlV3Lz_55UaX4JsMj-z__Q": {
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "channelUrl": "@tvchosunnews",
+      "channelDescription": "TV조선 뉴스 공식 YouTube 입니다.",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 2900000,
+      "viewCount": 4319423561,
+      "videoCount": 150855,
+      "lastUpdated": "2025-08-21T10:28:55.028196Z"
     }
   },
-  "lastUpdated": "2025-08-20T11:40:17.917374Z",
-  "totalVideos": 5,
-  "totalChannels": 1
+  "lastUpdated": "2025-08-21T10:28:55.036262Z",
+  "totalVideos": 8,
+  "totalChannels": 2
 }

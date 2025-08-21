@@ -278,6 +278,66 @@
       "channelId": "UCIMOytYIzaUpoAM2bpT4JZQ",
       "channelName": "KTV 국민방송",
       "collectedAt": "2025-08-20T11:40:06.886610Z"
+    },
+    "IPWYwgh2E1s": {
+      "videoId": "IPWYwgh2E1s",
+      "title": "기성용 \"서른, 나의 월드컵 잔치는 끝난다\"",
+      "description": "[앵커]\n차두리 선수도 태극마크를 내려놓으면서 이제 축구대표팀의 중심은 '쌍용', 기성용과 이청용 두 선수에게 넘어가는 모양새입니다. 앞으로 두 선수가 이끌 대표팀에 대한 기대가 큰데요, 이 모습을 오래 보고 싶은 팬들은 깜짝 놀라실 것 같습니다. 기성용 선수의 돌출 발언, 이정찬 기자가 스완지 현지에서 들어봤습니다. \n\n[Ch.19] 세상에 없는 TV 이제 시작합니다. \n★홈페이지 : www.tvchosun.com \n기사 더 보기 ▶ http://news.tvchosun.com/site/data/html_dir/2015/02/16/2015021690331.html",
+      "publishedAt": "2015-02-16T13:58:06Z",
+      "duration": "PT2M53S",
+      "viewCount": 43522,
+      "likeCount": 155,
+      "commentCount": 53,
+      "tags": [
+        "TV조선",
+        "티비조선",
+        "조선일보",
+        "종편",
+        "종합편성",
+        "티브이조선",
+        "방송사",
+        "TV조선뉴스",
+        "뉴스",
+        "뉴스프로그램"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "collectedAt": "2025-08-21T10:29:04.953951Z"
+    },
+    "ybh0qjToAXg": {
+      "videoId": "ybh0qjToAXg",
+      "title": "나영길 감독 작품 '호산나' 베를린영화제 단편 황금곰상",
+      "description": "제65회 독일 베를린 국제영화제에서 32살의 나영길 감독이 단편 국제경쟁 부문의 작품상인 금곰상을 받았습니다. 한국 영화가 베를린 영화제에서 단편 금곰상을 수상한 것은 박찬욱 감독 형제에 이어 두번째입니다. \n\n\n[Ch.19] 세상에 없는 TV 이제 시작합니다. \n★홈페이지 : www.tvchosun.com \n기사 더 보기 ▶ http://news.tvchosun.com/site/data/html_dir/2015/02/16/2015021690143.html",
+      "publishedAt": "2015-02-16T02:50:20Z",
+      "duration": "PT1M31S",
+      "viewCount": 879,
+      "likeCount": 2,
+      "commentCount": 0,
+      "tags": [
+        "TV조선",
+        "티비조선",
+        "조선일보",
+        "종편",
+        "종합편성",
+        "티브이조선",
+        "방송사",
+        "TV조선뉴스",
+        "뉴스",
+        "뉴스프로그램"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "collectedAt": "2025-08-21T10:29:04.953951Z"
     }
   },
   "channels": {
@@ -334,9 +394,36 @@
       "viewCount": 496166667,
       "videoCount": 25206,
       "lastUpdated": "2025-08-20T11:40:06.886610Z"
+    },
+    "UCWlV3Lz_55UaX4JsMj-z__Q": {
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "channelUrl": "@tvchosunnews",
+      "channelDescription": "TV조선 뉴스 공식 YouTube 입니다.",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 2900000,
+      "viewCount": 4319423561,
+      "videoCount": 150855,
+      "lastUpdated": "2025-08-21T10:29:04.942538Z"
     }
   },
-  "lastUpdated": "2025-08-20T11:40:06.886610Z",
-  "totalVideos": 10,
-  "totalChannels": 2
+  "lastUpdated": "2025-08-21T10:29:04.954946Z",
+  "totalVideos": 12,
+  "totalChannels": 3
 }

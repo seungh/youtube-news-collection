@@ -269,6 +269,96 @@
       "channelId": "UCIMOytYIzaUpoAM2bpT4JZQ",
       "channelName": "KTV 국민방송",
       "collectedAt": "2025-08-20T11:40:08.765638Z"
+    },
+    "e22HgnHu-7U": {
+      "videoId": "e22HgnHu-7U",
+      "title": "아들 때문에…갑질 망신살 의원들",
+      "description": "아들의 로스쿨 졸업시험 압력 행사 의혹에 휘말린 신기남 의원은 지역구 일정을 이유로 하루종일 사무실을 비웠습니다. 억울하다는 입장만 보좌진을 통해 전했습니다. \n\n[Ch.19] 세상에 없는 TV 이제 시작합니다. \n★홈페이지 : www.tvchosun.com \n기사 더 보기 ▶ http://news.tvchosun.com/site/data/html_dir/2015/11/27/2015112790165.html",
+      "publishedAt": "2015-11-27T12:32:20Z",
+      "duration": "PT1M9S",
+      "viewCount": 434,
+      "likeCount": 0,
+      "commentCount": 0,
+      "tags": [
+        "TV조선",
+        "티비조선",
+        "조선일보",
+        "종편",
+        "종합편성",
+        "티브이조선",
+        "방송사",
+        "TV조선뉴스",
+        "뉴스",
+        "뉴스프로그램"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "collectedAt": "2025-08-21T10:28:43.267420Z"
+    },
+    "Kwnq-LzyFEM": {
+      "videoId": "Kwnq-LzyFEM",
+      "title": "YS 재평가 움직임…국민 74% \"정치발전에 공헌\"",
+      "description": "김영삼 전 대통령 서거 이후,, 김 전 대통령에 대한 국민 호감도가 껑충 뛰었습니다. 공은 공대로, 과는 과대로 재평가해야 한다는 움직임이 일고 있습니다. \n\n[Ch.19] 세상에 없는 TV 이제 시작합니다. \n★홈페이지 : www.tvchosun.com \n기사 더 보기 ▶ http://news.tvchosun.com/site/data/html_dir/2015/11/27/2015112790159.html",
+      "publishedAt": "2015-11-27T12:28:27Z",
+      "duration": "PT1M34S",
+      "viewCount": 260,
+      "likeCount": 4,
+      "commentCount": 0,
+      "tags": [
+        "TV조선",
+        "티비조선",
+        "조선일보",
+        "종편",
+        "종합편성",
+        "티브이조선",
+        "방송사",
+        "TV조선뉴스",
+        "뉴스",
+        "뉴스프로그램"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "collectedAt": "2025-08-21T10:28:43.267420Z"
+    },
+    "TIfjA4Eq1UI": {
+      "videoId": "TIfjA4Eq1UI",
+      "title": "버스도 안전띠 안 매면 \"깜빡깜빡\"…생명띠 안 매면 상해 18배↑",
+      "description": "광역버스나 고속버스를 타면 안전띠 매라는 안내방송이 나오지만 실제 착용하는 분들은 많지 않습니다. 그래서 안전띠를 매지않으면 경고하는 장치를 장착하기로 했습니다.\n\n[Ch.19] 세상에 없는 TV 이제 시작합니다. \n★홈페이지 : www.tvchosun.com \n기사 더 보기 ▶ http://news.tvchosun.com/site/data/html_dir/2015/11/27/2015112790185.html",
+      "publishedAt": "2015-11-27T12:52:49Z",
+      "duration": "PT1M38S",
+      "viewCount": 4214,
+      "likeCount": 15,
+      "commentCount": 2,
+      "tags": [
+        "TV조선",
+        "티비조선",
+        "조선일보",
+        "종편",
+        "종합편성",
+        "티브이조선",
+        "방송사",
+        "TV조선뉴스",
+        "뉴스",
+        "뉴스프로그램"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "collectedAt": "2025-08-21T10:28:43.267420Z"
     }
   },
   "channels": {
@@ -325,9 +415,36 @@
       "viewCount": 496166667,
       "videoCount": 25206,
       "lastUpdated": "2025-08-20T11:40:08.763375Z"
+    },
+    "UCWlV3Lz_55UaX4JsMj-z__Q": {
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "channelUrl": "@tvchosunnews",
+      "channelDescription": "TV조선 뉴스 공식 YouTube 입니다.",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 2900000,
+      "viewCount": 4319423561,
+      "videoCount": 150855,
+      "lastUpdated": "2025-08-21T10:28:43.266854Z"
     }
   },
-  "lastUpdated": "2025-08-20T11:40:08.766637Z",
-  "totalVideos": 9,
-  "totalChannels": 2
+  "lastUpdated": "2025-08-21T10:28:43.268361Z",
+  "totalVideos": 12,
+  "totalChannels": 3
 }

@@ -87,6 +87,66 @@
       "channelId": "UCIMOytYIzaUpoAM2bpT4JZQ",
       "channelName": "KTV 국민방송",
       "collectedAt": "2025-08-20T11:40:04.003189Z"
+    },
+    "CNEAFnmuCz8": {
+      "videoId": "CNEAFnmuCz8",
+      "title": "박 대통령 '완판' 기록 경신…'맛없는 밥 바꾸라' 지시도",
+      "description": "마치 마이다스의 손같은 박근혜 대통령의 완판 행진이 계속되고 있습니다. 최근 대구 서문시장은 곳곳에서 즐거운 비명이 터져나옵니다. 박근혜 대통령이 방문한 오뎅, 과자, 옷 가게는 일 매출이 3배 올랐고, 박 대통령이 구입한 구두는 1주일 만에 60켤레가 다 팔렸습니다. \n\n[Ch.19] 세상에 없는 TV 이제 시작합니다. \n★홈페이지 : www.tvchosun.com \n기사 더 보기 ▶ http://news.tvchosun.com/site/data/html_dir/2015/09/21/2015092190187.html",
+      "publishedAt": "2015-09-21T12:47:37Z",
+      "duration": "PT1M47S",
+      "viewCount": 450698,
+      "likeCount": 2731,
+      "commentCount": 165,
+      "tags": [
+        "TV조선",
+        "티비조선",
+        "조선일보",
+        "종편",
+        "종합편성",
+        "티브이조선",
+        "방송사",
+        "TV조선뉴스",
+        "뉴스",
+        "뉴스프로그램"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "collectedAt": "2025-08-21T10:28:45.033963Z"
+    },
+    "S2jtSBgGiMU": {
+      "videoId": "S2jtSBgGiMU",
+      "title": "이건희 회장 입원 500일째…'심장 전담팀' 새로 발족",
+      "description": "이건희 삼성 회장이 급성 심근 경색으로 쓰러져 병원에 입원한지 500일째입니다. 최근 삼성 서울 병원은 이건희 회장을 전담하는 심장 전문의 자리를 새로 만들었다고 합니다. \n\n[Ch.19] 세상에 없는 TV 이제 시작합니다. \n★홈페이지 : www.tvchosun.com \n기사 더 보기 ▶ http://news.tvchosun.com/site/data/html_dir/2015/09/21/2015092190147.html",
+      "publishedAt": "2015-09-21T12:05:54Z",
+      "duration": "PT1M37S",
+      "viewCount": 1411,
+      "likeCount": 2,
+      "commentCount": 0,
+      "tags": [
+        "TV조선",
+        "티비조선",
+        "조선일보",
+        "종편",
+        "종합편성",
+        "티브이조선",
+        "방송사",
+        "TV조선뉴스",
+        "뉴스",
+        "뉴스프로그램"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": "ko",
+      "defaultAudioLanguage": "ko",
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "collectedAt": "2025-08-21T10:28:45.033963Z"
     }
   },
   "channels": {
@@ -143,9 +203,36 @@
       "viewCount": 496166667,
       "videoCount": 25206,
       "lastUpdated": "2025-08-20T11:40:04.003189Z"
+    },
+    "UCWlV3Lz_55UaX4JsMj-z__Q": {
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "channelUrl": "@tvchosunnews",
+      "channelDescription": "TV조선 뉴스 공식 YouTube 입니다.",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 2900000,
+      "viewCount": 4319423561,
+      "videoCount": 150855,
+      "lastUpdated": "2025-08-21T10:28:45.023244Z"
     }
   },
-  "lastUpdated": "2025-08-20T11:40:04.003189Z",
-  "totalVideos": 3,
-  "totalChannels": 2
+  "lastUpdated": "2025-08-21T10:28:45.033963Z",
+  "totalVideos": 5,
+  "totalChannels": 3
 }

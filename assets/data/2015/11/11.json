@@ -443,6 +443,96 @@
       "channelId": "UCNJM6dqu70Qr6VaseiW1Org",
       "channelName": "이재명",
       "collectedAt": "2025-08-20T11:40:04.602405Z"
+    },
+    "veOI8pWjOGU": {
+      "videoId": "veOI8pWjOGU",
+      "title": "朴 대통령 \"은혜를 잊지 않는 것이 바로 은혜 갚는 것\"",
+      "description": "[앵커]\n박근혜 대통령이 어제 진실한 사람을 뽑아달라는 발언에 이어, 오늘은 은혜를 잊지 않는 것이 바로 은혜를 갚은 것이라고 말했습니다. 이틀 연속 선거에 영향을 줄 수도 있는 발언을 하면서 야당도 탄핵이라는 단어까지 쓰면서 반발을 수위를 높였습니다.\n\n\n[Ch.19] 세상에 없는 TV 이제 시작합니다. \n★홈페이지 : www.tvchosun.com \n기사 더 보기 ▶ http://news.tvchosun.com/site/data/html_dir/2015/11/11/2015111190175.html",
+      "publishedAt": "2015-11-11T13:55:09Z",
+      "duration": "PT1M47S",
+      "viewCount": 152,
+      "likeCount": 1,
+      "commentCount": 0,
+      "tags": [
+        "TV조선",
+        "티비조선",
+        "조선일보",
+        "종편",
+        "종합편성",
+        "티브이조선",
+        "방송사",
+        "TV조선뉴스",
+        "뉴스",
+        "뉴스프로그램"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "collectedAt": "2025-08-21T10:28:43.720916Z"
+    },
+    "nDFvC8blbKo": {
+      "videoId": "nDFvC8blbKo",
+      "title": "11월 11일 장성민의 탱크정론",
+      "description": "대한민국은 지금 과거에 이룩해 놓은 경제발전과 민주주의가 후퇴하고 있고, 과거에 발목이 잡혀 오늘과 내일을 잃고 있습니다.\n\n[Ch.19] 세상에 없는 TV 이제 시작합니다. \n★홈페이지 : www.tvchosun.com \n기사 더 보기 ▶ http://www.tvchosun.com/sisa/sisatank/sub/menu_4.html",
+      "publishedAt": "2015-11-11T07:44:19Z",
+      "duration": "PT4M13S",
+      "viewCount": 153,
+      "likeCount": 3,
+      "commentCount": 1,
+      "tags": [
+        "TV조선",
+        "티비조선",
+        "조선일보",
+        "종편",
+        "종합편성",
+        "티브이조선",
+        "방송사",
+        "TV조선뉴스",
+        "뉴스",
+        "뉴스프로그램"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "collectedAt": "2025-08-21T10:28:43.720916Z"
+    },
+    "GNENwW3IXG4": {
+      "videoId": "GNENwW3IXG4",
+      "title": "이제는 셀카봉 대신 셀카렌즈가 대세!",
+      "description": "이제 셀카봉의 시대가 가고, 셀카 렌즈가 뜨고 있습니다.\n\n[Ch.19] 세상에 없는 TV 이제 시작합니다. \n★홈페이지 : www.tvchosun.com \n기사 더 보기 ▶ http://news.tvchosun.com/site/data/html_dir/2015/11/11/2015111190165.html",
+      "publishedAt": "2015-11-11T13:55:09Z",
+      "duration": "PT1M43S",
+      "viewCount": 2959,
+      "likeCount": 10,
+      "commentCount": 0,
+      "tags": [
+        "TV조선",
+        "티비조선",
+        "조선일보",
+        "종편",
+        "종합편성",
+        "티브이조선",
+        "방송사",
+        "TV조선뉴스",
+        "뉴스",
+        "뉴스프로그램"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "collectedAt": "2025-08-21T10:28:43.720916Z"
     }
   },
   "channels": {
@@ -526,9 +616,36 @@
       "viewCount": 336974518,
       "videoCount": 3965,
       "lastUpdated": "2025-08-20T11:40:04.600901Z"
+    },
+    "UCWlV3Lz_55UaX4JsMj-z__Q": {
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "channelUrl": "@tvchosunnews",
+      "channelDescription": "TV조선 뉴스 공식 YouTube 입니다.",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 2900000,
+      "viewCount": 4319423561,
+      "videoCount": 150855,
+      "lastUpdated": "2025-08-21T10:28:43.720916Z"
     }
   },
-  "lastUpdated": "2025-08-20T11:40:04.602945Z",
-  "totalVideos": 16,
-  "totalChannels": 3
+  "lastUpdated": "2025-08-21T10:28:43.720916Z",
+  "totalVideos": 19,
+  "totalChannels": 4
 }

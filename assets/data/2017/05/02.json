@@ -473,6 +473,96 @@
       "channelId": "UCIMOytYIzaUpoAM2bpT4JZQ",
       "channelName": "KTV 국민방송",
       "collectedAt": "2025-08-20T11:40:13.892743Z"
+    },
+    "t5ApT0toC0M": {
+      "videoId": "t5ApT0toC0M",
+      "title": "'패러디 정책영상' 홍보전 치열 [더하기 뉴스]",
+      "description": "오늘 하루 놓치면 아쉬운 더하기뉴스 시간입니다.\n\n[Ch.19] 세상에 없는 TV 이제 시작합니다. \n★홈페이지 : http://news.tvchosun.com/\n\n* 뉴스제보 : 이메일(tvchosun@chosun.com), 카카오톡(tv조선제보), 전화(1661-0190)",
+      "publishedAt": "2017-05-02T06:21:49Z",
+      "duration": "PT3M29S",
+      "viewCount": 174,
+      "likeCount": 0,
+      "commentCount": 0,
+      "tags": [
+        "TV조선",
+        "티비조선",
+        "조선일보",
+        "종편",
+        "종합편성",
+        "티브이조선",
+        "방송사",
+        "TV조선뉴스",
+        "뉴스",
+        "뉴스프로그램"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "collectedAt": "2025-08-21T10:28:23.228836Z"
+    },
+    "EAHqGFVDnzY": {
+      "videoId": "EAHqGFVDnzY",
+      "title": "맘 졸이는 운동회, 동심까지 침투한 미세먼지 [판 포커스]",
+      "description": "초등학교 운동회날, 비가 올까 걱정했던 건 이제 옛말입니다. 요즘엔, 미세먼지가 걱정이라고 합니다. 미세먼지 예보에 따라 하루 전날 운동회가 취소 되기도 하고, 실내 운동회, 마스크로 무장한 운동회가 등장하기도 합니다.\n\n[Ch.19] 세상에 없는 TV 이제 시작합니다. \n★홈페이지 : http://news.tvchosun.com/\n\n* 뉴스제보 : 이메일(tvchosun@chosun.com), 카카오톡(tv조선제보), 전화(1661-0190)",
+      "publishedAt": "2017-05-02T11:23:28Z",
+      "duration": "PT3M44S",
+      "viewCount": 3320,
+      "likeCount": 25,
+      "commentCount": 37,
+      "tags": [
+        "TV조선",
+        "티비조선",
+        "조선일보",
+        "종편",
+        "종합편성",
+        "티브이조선",
+        "방송사",
+        "TV조선뉴스",
+        "뉴스",
+        "뉴스프로그램"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": "ko",
+      "defaultAudioLanguage": "ko",
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "collectedAt": "2025-08-21T10:28:23.228836Z"
+    },
+    "Dpv9ssjGDX4": {
+      "videoId": "Dpv9ssjGDX4",
+      "title": "탈북민 400명 문재인 지지…文 \"한국당과도 협치 [단독]",
+      "description": "더불어민주당 문재인 후보가 \"대통령이 되면 자유한국당과도 협치하겠다\"고 했습니다. 그런데 문 후보측은 원론적 언급이라고 의미를 축소하면서, 바른정당 탈당파를 '정치 적폐'로 규정했습니다. 이런 가운데 탈북민 400여 명이 진보성향의 문 후보 지지를 공식 선언할 예정입니다.\n\n[Ch.19] 세상에 없는 TV 이제 시작합니다. \n★홈페이지 : http://news.tvchosun.com/\n\n* 뉴스제보 : 이메일(tvchosun@chosun.com), 카카오톡(tv조선제보), 전화(1661-0190)",
+      "publishedAt": "2017-05-02T11:23:27Z",
+      "duration": "PT1M45S",
+      "viewCount": 18331,
+      "likeCount": 40,
+      "commentCount": 77,
+      "tags": [
+        "TV조선",
+        "티비조선",
+        "조선일보",
+        "종편",
+        "종합편성",
+        "티브이조선",
+        "방송사",
+        "TV조선뉴스",
+        "뉴스",
+        "뉴스프로그램"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "collectedAt": "2025-08-21T10:28:23.228836Z"
     }
   },
   "channels": {
@@ -502,9 +592,36 @@
       "viewCount": 496166667,
       "videoCount": 25206,
       "lastUpdated": "2025-08-20T11:40:13.891742Z"
+    },
+    "UCWlV3Lz_55UaX4JsMj-z__Q": {
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "channelUrl": "@tvchosunnews",
+      "channelDescription": "TV조선 뉴스 공식 YouTube 입니다.",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 2900000,
+      "viewCount": 4319423561,
+      "videoCount": 150855,
+      "lastUpdated": "2025-08-21T10:28:23.224733Z"
     }
   },
-  "lastUpdated": "2025-08-20T11:40:13.892743Z",
-  "totalVideos": 17,
-  "totalChannels": 1
+  "lastUpdated": "2025-08-21T10:28:23.232562Z",
+  "totalVideos": 20,
+  "totalChannels": 2
 }

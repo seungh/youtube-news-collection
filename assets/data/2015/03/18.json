@@ -545,6 +545,96 @@
       "channelId": "UCIMOytYIzaUpoAM2bpT4JZQ",
       "channelName": "KTV 국민방송",
       "collectedAt": "2025-08-20T11:40:07.732273Z"
+    },
+    "ctMNzJHwipc": {
+      "videoId": "ctMNzJHwipc",
+      "title": "김정은 들어 두번째 개성공단 위기…왜?",
+      "description": "[앵커]\n개성공단이 이렇게 위기를 맞은 것은 김정은 체제들어 벌써 두번째입니다. 아시는대로 2013년에도 개성 공단이 마비됐었습니다.\n\n[Ch.19] 세상에 없는 TV 이제 시작합니다. \n★홈페이지 : www.tvchosun.com \n기사 더 보기 ▶ http://news.tvchosun.com/site/data/html_dir/2015/03/18/2015031890257.html",
+      "publishedAt": "2015-03-18T12:58:45Z",
+      "duration": "PT1M46S",
+      "viewCount": 1069,
+      "likeCount": 1,
+      "commentCount": 2,
+      "tags": [
+        "TV조선",
+        "티비조선",
+        "조선일보",
+        "종편",
+        "종합편성",
+        "티브이조선",
+        "방송사",
+        "TV조선뉴스",
+        "뉴스",
+        "뉴스프로그램"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "collectedAt": "2025-08-21T10:28:50.677573Z"
+    },
+    "5-nOVjNSebE": {
+      "videoId": "5-nOVjNSebE",
+      "title": "북한산 마스카라…\"하품 한번에 너구리 눈\"",
+      "description": "북한 김정은 국방위원회 제 1위원장, 유머도 구사할 줄 아는 것 같습니다. 평양의 화장품 공장을 방문해서 북한산 색조 화장품의 낮은 품질을 질타했습니다. 이 자리에서 여성의 눈 화장품인 마스카라 제품의 문제점을 지적했는데 이렇게 말을 했다고 합니다. \n\n[Ch.19] 세상에 없는 TV 이제 시작합니다. \n★홈페이지 : www.tvchosun.com \n기사 더 보기 ▶http://news.tvchosun.com/site/data/html_dir/2015/03/18/2015031890102.html",
+      "publishedAt": "2015-03-18T01:06:11Z",
+      "duration": "PT1M49S",
+      "viewCount": 452,
+      "likeCount": 2,
+      "commentCount": 3,
+      "tags": [
+        "TV조선",
+        "티비조선",
+        "조선일보",
+        "종편",
+        "종합편성",
+        "티브이조선",
+        "방송사",
+        "TV조선뉴스",
+        "뉴스",
+        "뉴스프로그램"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "collectedAt": "2025-08-21T10:28:50.677573Z"
+    },
+    "xkgFzJA1GOk": {
+      "videoId": "xkgFzJA1GOk",
+      "title": "[스포츠가 돈이다!] 만수르가 바꾼 축구 종주국",
+      "description": "맨체스터하면 무엇이 떠오르시나요? 영국 산업화의 중심이었던 맨체스터가 지금 글로벌 스포츠 도시로 변모하고 있습니다. 스포츠의 또 다른 힘을 보여주고 있는 현장에, 이정찬 기자가 다녀왔습니다. \n\n[Ch.19] 세상에 없는 TV 이제 시작합니다. \n★홈페이지 : www.tvchosun.com \n기사 더 보기 ▶ http://news.tvchosun.com/site/data/html_dir/2015/03/18/2015031890120.html",
+      "publishedAt": "2015-03-18T01:10:22Z",
+      "duration": "PT2M18S",
+      "viewCount": 1579,
+      "likeCount": 3,
+      "commentCount": 1,
+      "tags": [
+        "TV조선",
+        "티비조선",
+        "조선일보",
+        "종편",
+        "종합편성",
+        "티브이조선",
+        "방송사",
+        "TV조선뉴스",
+        "뉴스",
+        "뉴스프로그램"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "collectedAt": "2025-08-21T10:28:50.677573Z"
     }
   },
   "channels": {
@@ -601,9 +691,36 @@
       "viewCount": 496166667,
       "videoCount": 25206,
       "lastUpdated": "2025-08-20T11:40:07.732273Z"
+    },
+    "UCWlV3Lz_55UaX4JsMj-z__Q": {
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "channelUrl": "@tvchosunnews",
+      "channelDescription": "TV조선 뉴스 공식 YouTube 입니다.",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 2900000,
+      "viewCount": 4319423561,
+      "videoCount": 150855,
+      "lastUpdated": "2025-08-21T10:28:50.677573Z"
     }
   },
-  "lastUpdated": "2025-08-20T11:40:07.733264Z",
-  "totalVideos": 22,
-  "totalChannels": 2
+  "lastUpdated": "2025-08-21T10:28:50.677573Z",
+  "totalVideos": 25,
+  "totalChannels": 3
 }

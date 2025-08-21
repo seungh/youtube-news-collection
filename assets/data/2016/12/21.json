@@ -89,6 +89,66 @@
       "channelId": "UCIMOytYIzaUpoAM2bpT4JZQ",
       "channelName": "KTV 국민방송",
       "collectedAt": "2025-08-20T11:40:17.027462Z"
+    },
+    "Nxznacfl9vM": {
+      "videoId": "Nxznacfl9vM",
+      "title": "김영재 의원 '프로포폴 장사' 의혹…고령 장모에 64㎖ 처방?",
+      "description": "김영재 성형의원은 3년여 동안 프로포폴 4000 병을 사용했습니다. 성형-미용 목적 외에 프로포폴로 장사를 해온 것이 아니냐는 의혹이 나옵니다. 특히, 77세 장모에게도 프로포폴 64ml를 처방한 정황이 드러났는데, 의료계에선 장부 조작 의혹을 제기합니다. \n\n\n[Ch.19] 세상에 없는 TV 이제 시작합니다. \n★홈페이지 : http://news.tvchosun.com/\n\n* 뉴스제보 : 이메일(tvchosun@chosun.com), 카카오톡(tv조선제보), 전화(1661-0190)",
+      "publishedAt": "2016-12-21T12:17:04Z",
+      "duration": "PT2M8S",
+      "viewCount": 215,
+      "likeCount": 0,
+      "commentCount": 0,
+      "tags": [
+        "TV조선",
+        "티비조선",
+        "조선일보",
+        "종편",
+        "종합편성",
+        "티브이조선",
+        "방송사",
+        "TV조선뉴스",
+        "뉴스",
+        "뉴스프로그램"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "collectedAt": "2025-08-21T10:29:07.188116Z"
+    },
+    "8Ep5imVouXw": {
+      "videoId": "8Ep5imVouXw",
+      "title": "리처드 막스, 대한항공 기내 난동 제지",
+      "description": "대한항공 기내에서 중소기업 사장 아들이 술에 잔뜩 취해 승무원에게 침을 뱉고 배를 차는 난동을 부렸습니다. 이 승객의 제압을 미국의 유명 팝가수 리처드 막스가 도왔는데.. 리처드 막스는 SNS에  승무원들이 하이힐을 신고 어떻게 기내 난동을 제압하겠냐며 일침을 가했습니다.\n\n\n[Ch.19] 세상에 없는 TV 이제 시작합니다. \n★홈페이지 : http://news.tvchosun.com/\n\n* 뉴스제보 : 이메일(tvchosun@chosun.com), 카카오톡(tv조선제보), 전화(1661-0190)",
+      "publishedAt": "2016-12-21T12:17:04Z",
+      "duration": "PT1M49S",
+      "viewCount": 1163,
+      "likeCount": 2,
+      "commentCount": 6,
+      "tags": [
+        "TV조선",
+        "티비조선",
+        "조선일보",
+        "종편",
+        "종합편성",
+        "티브이조선",
+        "방송사",
+        "TV조선뉴스",
+        "뉴스",
+        "뉴스프로그램"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "collectedAt": "2025-08-21T10:29:07.188116Z"
     }
   },
   "channels": {
@@ -118,9 +178,36 @@
       "viewCount": 496166667,
       "videoCount": 25206,
       "lastUpdated": "2025-08-20T11:40:17.026464Z"
+    },
+    "UCWlV3Lz_55UaX4JsMj-z__Q": {
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "channelUrl": "@tvchosunnews",
+      "channelDescription": "TV조선 뉴스 공식 YouTube 입니다.",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 2900000,
+      "viewCount": 4319423561,
+      "videoCount": 150855,
+      "lastUpdated": "2025-08-21T10:29:07.188116Z"
     }
   },
-  "lastUpdated": "2025-08-20T11:40:17.027462Z",
-  "totalVideos": 3,
-  "totalChannels": 1
+  "lastUpdated": "2025-08-21T10:29:07.188116Z",
+  "totalVideos": 5,
+  "totalChannels": 2
 }

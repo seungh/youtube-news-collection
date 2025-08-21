@@ -359,6 +359,96 @@
       "channelId": "UCIMOytYIzaUpoAM2bpT4JZQ",
       "channelName": "KTV 국민방송",
       "collectedAt": "2025-08-20T11:40:17.061326Z"
+    },
+    "3DW7_yE6I0g": {
+      "videoId": "3DW7_yE6I0g",
+      "title": "\"찍히면 죽는다\"…친이계·유승민계 대거 탈락",
+      "description": "이번 새누리당 공천 과정에서 탈락한 인사들의 면면을 보면 박근혜 대통령 또는 친박계와 대척점에 서 있었던 사람들이 대부분입니다. \"찍히면 죽는다\"는 것을 여실히 보여준 공천이란 뒷말이 많습니다. \n\n[Ch.19] 세상에 없는 TV 이제 시작합니다. \n★홈페이지 : http://news.tvchosun.com/",
+      "publishedAt": "2016-03-16T13:21:46Z",
+      "duration": "PT1M46S",
+      "viewCount": 953,
+      "likeCount": 1,
+      "commentCount": 1,
+      "tags": [
+        "TV조선",
+        "티비조선",
+        "조선일보",
+        "종편",
+        "종합편성",
+        "티브이조선",
+        "방송사",
+        "TV조선뉴스",
+        "뉴스",
+        "뉴스프로그램"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "collectedAt": "2025-08-21T10:28:39.614802Z"
+    },
+    "tniFGLC6EQg": {
+      "videoId": "tniFGLC6EQg",
+      "title": "[TV조선 단독] 대담한 휴대전화 절도범…시민들이 잡았다",
+      "description": "도심 한복판에서 휴대전화를 훔쳐 달아나던 20대가 경찰에 붙잡혔습니다. 쫓던 경찰도 놓칠 뻔 했는데 시민들이 힘을 합쳐 제압했습니다. \n\n[Ch.19] 세상에 없는 TV 이제 시작합니다. \n★홈페이지 : http://news.tvchosun.com/",
+      "publishedAt": "2016-03-16T13:23:23Z",
+      "duration": "PT1M37S",
+      "viewCount": 661,
+      "likeCount": 3,
+      "commentCount": 0,
+      "tags": [
+        "TV조선",
+        "티비조선",
+        "조선일보",
+        "종편",
+        "종합편성",
+        "티브이조선",
+        "방송사",
+        "TV조선뉴스",
+        "뉴스",
+        "뉴스프로그램"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "collectedAt": "2025-08-21T10:28:39.614802Z"
+    },
+    "5YLRqGKwhMY": {
+      "videoId": "5YLRqGKwhMY",
+      "title": "해커 단체 어나니머스, 트럼프에 전면전 선언…\"4월1일 공격\"",
+      "description": "해커 단체 어나니머스가 미 공화당 대선 주자인 도널드 트럼프에게 전면전을 선포했습니다. 어나니머스는 트럼프가 증오 선거 유세로 전 세계에 충격을 줬다며 다음달 1일 사이버 공격을 가하겠다고 밝혔습니다. \n\n[Ch.19] 세상에 없는 TV 이제 시작합니다. \n★홈페이지 : http://news.tvchosun.com/",
+      "publishedAt": "2016-03-16T06:14:16Z",
+      "duration": "PT1M47S",
+      "viewCount": 1528,
+      "likeCount": 6,
+      "commentCount": 2,
+      "tags": [
+        "TV조선",
+        "티비조선",
+        "조선일보",
+        "종편",
+        "종합편성",
+        "티브이조선",
+        "방송사",
+        "TV조선뉴스",
+        "뉴스",
+        "뉴스프로그램"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": "ko",
+      "defaultAudioLanguage": "ko",
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "collectedAt": "2025-08-21T10:28:39.614802Z"
     }
   },
   "channels": {
@@ -388,9 +478,36 @@
       "viewCount": 496166667,
       "videoCount": 25206,
       "lastUpdated": "2025-08-20T11:40:17.060329Z"
+    },
+    "UCWlV3Lz_55UaX4JsMj-z__Q": {
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "channelUrl": "@tvchosunnews",
+      "channelDescription": "TV조선 뉴스 공식 YouTube 입니다.",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 2900000,
+      "viewCount": 4319423561,
+      "videoCount": 150855,
+      "lastUpdated": "2025-08-21T10:28:39.614802Z"
     }
   },
-  "lastUpdated": "2025-08-20T11:40:17.061326Z",
-  "totalVideos": 12,
-  "totalChannels": 1
+  "lastUpdated": "2025-08-21T10:28:39.617307Z",
+  "totalVideos": 15,
+  "totalChannels": 2
 }

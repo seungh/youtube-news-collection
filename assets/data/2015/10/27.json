@@ -175,6 +175,66 @@
       "channelId": "UCIMOytYIzaUpoAM2bpT4JZQ",
       "channelName": "KTV 국민방송",
       "collectedAt": "2025-08-20T11:40:03.973615Z"
+    },
+    "2z-a_YdtcHI": {
+      "videoId": "2z-a_YdtcHI",
+      "title": "김무성 부친 공과 논란…\"애국자\" 대 \"친일\"",
+      "description": "김무성 새누리당 대표의 일제시대 때 행적을 두고, 여야 대립이 극단으로 치닫고 있습니다. 1941년을 전후로 공과가 갈린다는 해석도 나옵니다.\n\n[Ch.19] 세상에 없는 TV 이제 시작합니다. \n★홈페이지 : www.tvchosun.com \n기사 더 보기 ▶ http://news.tvchosun.com/site/data/html_dir/2015/10/27/2015102790059.html",
+      "publishedAt": "2015-10-27T00:50:54Z",
+      "duration": "PT1M48S",
+      "viewCount": 383,
+      "likeCount": 2,
+      "commentCount": 0,
+      "tags": [
+        "TV조선",
+        "티비조선",
+        "조선일보",
+        "종편",
+        "종합편성",
+        "티브이조선",
+        "방송사",
+        "TV조선뉴스",
+        "뉴스",
+        "뉴스프로그램"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "collectedAt": "2025-08-21T10:28:44.052550Z"
+    },
+    "dRAfJrGzfwk": {
+      "videoId": "dRAfJrGzfwk",
+      "title": "볼보·포드 등 7개사 1만여 대 일제 리콜",
+      "description": "폭스바겐 등에 이어, 이번엔 국토부가 볼보와 포드등 수입차 1만여 대를 또 리콜했습니다. 엔진 룸에 화재가 날 수 있는 치명적인 결함이 발견됐다고 합니다. 수입차 신뢰도가 한꺼번에 무너져 내리고 있습니다.\n\n[Ch.19] 세상에 없는 TV 이제 시작합니다. \n★홈페이지 : www.tvchosun.com \n기사 더 보기 ▶ http://news.tvchosun.com/site/data/html_dir/2015/10/27/2015102790079.html",
+      "publishedAt": "2015-10-27T00:51:51Z",
+      "duration": "PT1M28S",
+      "viewCount": 299,
+      "likeCount": 0,
+      "commentCount": 0,
+      "tags": [
+        "TV조선",
+        "티비조선",
+        "조선일보",
+        "종편",
+        "종합편성",
+        "티브이조선",
+        "방송사",
+        "TV조선뉴스",
+        "뉴스",
+        "뉴스프로그램"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "collectedAt": "2025-08-21T10:28:44.052550Z"
     }
   },
   "channels": {
@@ -231,9 +291,36 @@
       "viewCount": 496166667,
       "videoCount": 25206,
       "lastUpdated": "2025-08-20T11:40:03.973615Z"
+    },
+    "UCWlV3Lz_55UaX4JsMj-z__Q": {
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "channelUrl": "@tvchosunnews",
+      "channelDescription": "TV조선 뉴스 공식 YouTube 입니다.",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 2900000,
+      "viewCount": 4319423561,
+      "videoCount": 150855,
+      "lastUpdated": "2025-08-21T10:28:44.050487Z"
     }
   },
-  "lastUpdated": "2025-08-20T11:40:03.974609Z",
-  "totalVideos": 6,
-  "totalChannels": 2
+  "lastUpdated": "2025-08-21T10:28:44.052550Z",
+  "totalVideos": 8,
+  "totalChannels": 3
 }

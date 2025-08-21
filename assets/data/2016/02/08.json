@@ -201,6 +201,66 @@
       "channelId": "UCIMOytYIzaUpoAM2bpT4JZQ",
       "channelName": "KTV 국민방송",
       "collectedAt": "2025-08-20T11:40:18.017481Z"
+    },
+    "m3pDEsswBlo": {
+      "videoId": "m3pDEsswBlo",
+      "title": "'전설 vs 샛별'…美 슈퍼볼 주인공은?",
+      "description": "미국에서만 1억명 이상이 시청하고, 광고 1초당 2억원에 달하는 미국 최대의 스포츠이벤트, 슈퍼볼의 주인공이 가려졌습니다. \n\n\n[Ch.19] 세상에 없는 TV 이제 시작합니다. \n★홈페이지 : www.tvchosun.com \nhttp://news.tvchosun.com/site/data/html_dir/2016/02/08/2016020890140.html",
+      "publishedAt": "2016-02-08T12:51:23Z",
+      "duration": "PT1M30S",
+      "viewCount": 294,
+      "likeCount": 1,
+      "commentCount": 0,
+      "tags": [
+        "TV조선",
+        "티비조선",
+        "조선일보",
+        "종편",
+        "종합편성",
+        "티브이조선",
+        "방송사",
+        "TV조선뉴스",
+        "뉴스",
+        "뉴스프로그램"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "collectedAt": "2025-08-21T10:29:02.889654Z"
+    },
+    "oFnMczNeigU": {
+      "videoId": "oFnMczNeigU",
+      "title": "말도 마사지 받습니다…국내 1호 말 마사지사",
+      "description": "숨은 명인, 오늘은 말 마사지사입니다. 경마장 트랙을 달리는 경주마들을 마사지 해주는 사람인데,, 해외에서는 이 말 마사지사가 인기 직종입니다. 국내에서도 1호 말 마사지사가 나왔습니다.\n\n\n[Ch.19] 세상에 없는 TV 이제 시작합니다. \n★홈페이지 : www.tvchosun.com \n기사 더 보기 ▶ http://news.tvchosun.com/site/data/html_dir/2016/02/08/2016020890138.html",
+      "publishedAt": "2016-02-08T12:51:23Z",
+      "duration": "PT1M41S",
+      "viewCount": 1176,
+      "likeCount": 4,
+      "commentCount": 0,
+      "tags": [
+        "TV조선",
+        "티비조선",
+        "조선일보",
+        "종편",
+        "종합편성",
+        "티브이조선",
+        "방송사",
+        "TV조선뉴스",
+        "뉴스",
+        "뉴스프로그램"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": "ko",
+      "defaultAudioLanguage": "ko",
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "collectedAt": "2025-08-21T10:29:02.889654Z"
     }
   },
   "channels": {
@@ -230,9 +290,36 @@
       "viewCount": 496166667,
       "videoCount": 25206,
       "lastUpdated": "2025-08-20T11:40:18.016483Z"
+    },
+    "UCWlV3Lz_55UaX4JsMj-z__Q": {
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "channelUrl": "@tvchosunnews",
+      "channelDescription": "TV조선 뉴스 공식 YouTube 입니다.",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 2900000,
+      "viewCount": 4319423561,
+      "videoCount": 150855,
+      "lastUpdated": "2025-08-21T10:29:02.888657Z"
     }
   },
-  "lastUpdated": "2025-08-20T11:40:18.017481Z",
-  "totalVideos": 7,
-  "totalChannels": 1
+  "lastUpdated": "2025-08-21T10:29:02.889654Z",
+  "totalVideos": 9,
+  "totalChannels": 2
 }

@@ -329,6 +329,96 @@
       "channelId": "UCNJM6dqu70Qr6VaseiW1Org",
       "channelName": "이재명",
       "collectedAt": "2025-08-20T11:38:51.555196Z"
+    },
+    "67lTCpqrMCo": {
+      "videoId": "67lTCpqrMCo",
+      "title": "황당한 서울메트로 벌점규정…\"지하철보다 못한 목숨\" [TV조선 단독]",
+      "description": "서울 메트로가 지하철 안전 관리 하청 업체를 대상으로 만든 벌점 규정을 TV조선이 입수했습니다. 그런데 규정이 이상합니다. 이해할 수가 없습니다. 사망 사고를 일으켰을 때 받는 벌점보다, 지하철을 10분 지연시켰을 때 받는 벌점이 2배나 높습니다. 지하철이 사람 목숨보다 중요하다는 걸까요?\n\n[Ch.19] 세상에 없는 TV 이제 시작합니다. \n★홈페이지 : http://news.tvchosun.com/",
+      "publishedAt": "2016-06-01T13:12:19Z",
+      "duration": "PT1M42S",
+      "viewCount": 613,
+      "likeCount": 3,
+      "commentCount": 0,
+      "tags": [
+        "TV조선",
+        "티비조선",
+        "조선일보",
+        "종편",
+        "종합편성",
+        "티브이조선",
+        "방송사",
+        "TV조선뉴스",
+        "뉴스",
+        "뉴스프로그램"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "collectedAt": "2025-08-21T10:29:08.992376Z"
+    },
+    "wjgc-GJRqK0": {
+      "videoId": "wjgc-GJRqK0",
+      "title": "미세먼지 원인도 모르는 정부, 국민 세금 만지작?",
+      "description": "미세먼지로 국민 고통은 커지는데 정작 정부는 원인도 제대로 파악하지 못하고 있습니다. 대책을 마련한다며 검토중인게 경유값 인상입니다. 결국 정부의 책임을 국민들에게 떠넘기고 있다는 비판이 커지고 있습니다.\n\n[Ch.19] 세상에 없는 TV 이제 시작합니다. \n★홈페이지 : http://news.tvchosun.com/",
+      "publishedAt": "2016-06-01T13:13:35Z",
+      "duration": "PT1M54S",
+      "viewCount": 286,
+      "likeCount": 0,
+      "commentCount": 0,
+      "tags": [
+        "TV조선",
+        "티비조선",
+        "조선일보",
+        "종편",
+        "종합편성",
+        "티브이조선",
+        "방송사",
+        "TV조선뉴스",
+        "뉴스",
+        "뉴스프로그램"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "collectedAt": "2025-08-21T10:29:08.992376Z"
+    },
+    "z1kS9u1UlkU": {
+      "videoId": "z1kS9u1UlkU",
+      "title": "10년 월세 안오르는 신혼부부 주택 나온다",
+      "description": "정부가 서민 주거안정을 위한 임대주택 개선책을 발표했습니다. 외제차를 타면서 임대주택에 사는 부적합 거주자를 몰아내고, 신혼부부에게는 10년 동안 월세가 거의 오르지 않는 주택을 공급합니다. \n\n\n[Ch.19] 세상에 없는 TV 이제 시작합니다. \n★홈페이지 : http://news.tvchosun.com/",
+      "publishedAt": "2016-06-01T02:03:28Z",
+      "duration": "PT1M34S",
+      "viewCount": 227,
+      "likeCount": 0,
+      "commentCount": 0,
+      "tags": [
+        "TV조선",
+        "티비조선",
+        "조선일보",
+        "종편",
+        "종합편성",
+        "티브이조선",
+        "방송사",
+        "TV조선뉴스",
+        "뉴스",
+        "뉴스프로그램"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "collectedAt": "2025-08-21T10:29:08.992376Z"
     }
   },
   "channels": {
@@ -412,9 +502,36 @@
       "viewCount": 336974518,
       "videoCount": 3965,
       "lastUpdated": "2025-08-20T11:38:51.555196Z"
+    },
+    "UCWlV3Lz_55UaX4JsMj-z__Q": {
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "channelUrl": "@tvchosunnews",
+      "channelDescription": "TV조선 뉴스 공식 YouTube 입니다.",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 2900000,
+      "viewCount": 4319423561,
+      "videoCount": 150855,
+      "lastUpdated": "2025-08-21T10:29:08.987709Z"
     }
   },
-  "lastUpdated": "2025-08-20T11:38:51.555196Z",
-  "totalVideos": 11,
-  "totalChannels": 3
+  "lastUpdated": "2025-08-21T10:29:08.992376Z",
+  "totalVideos": 14,
+  "totalChannels": 4
 }

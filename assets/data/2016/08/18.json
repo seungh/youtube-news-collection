@@ -252,6 +252,96 @@
       "channelId": "UCIMOytYIzaUpoAM2bpT4JZQ",
       "channelName": "KTV 국민방송",
       "collectedAt": "2025-08-20T11:40:12.313076Z"
+    },
+    "sTj2-kDFikY": {
+      "videoId": "sTj2-kDFikY",
+      "title": "현대기아차 협력사 지원자 이력서 대거 유출 [TV조선 단독]",
+      "description": "현대 기아차 협력사의 2500명 입사지원자 개인정보가 유출된 것으로 확인됐습니다. 이름과 나이, 전화번호는 물론 대학교 학점까지 모두 열람할 수 있게 3개월 동안 방치돼 있었습니다. 어처구니가 없습니다. \n\n\n[Ch.19] 세상에 없는 TV 이제 시작합니다. \n★홈페이지 : http://news.tvchosun.com/",
+      "publishedAt": "2016-08-18T12:42:34Z",
+      "duration": "PT1M41S",
+      "viewCount": 127,
+      "likeCount": 0,
+      "commentCount": 0,
+      "tags": [
+        "TV조선",
+        "티비조선",
+        "조선일보",
+        "종편",
+        "종합편성",
+        "티브이조선",
+        "방송사",
+        "TV조선뉴스",
+        "뉴스",
+        "뉴스프로그램"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "collectedAt": "2025-08-21T10:29:08.367385Z"
+    },
+    "qGnwiZmCetc": {
+      "videoId": "qGnwiZmCetc",
+      "title": "러시아서 '실종'된 北 외교관 김철성도 국내 입국 [TV조선 단독]",
+      "description": "태영호 주영공사에 이어 또 다른 북한 외교관이 최근 망명해 입국한 것으로 확인습니다. 지난 7월 러시아에서 사라졌던 북한 대사관의 3등 서기관이 가족과 함께 한국에 들어왔습니다. 외교관들을 중심으로 탈북과 망명 도미노 현상이 가속화하고 있습니다.\n\n[Ch.19] 세상에 없는 TV 이제 시작합니다. \n★홈페이지 : http://news.tvchosun.com/",
+      "publishedAt": "2016-08-18T12:40:54Z",
+      "duration": "PT1M40S",
+      "viewCount": 10258,
+      "likeCount": 109,
+      "commentCount": 4,
+      "tags": [
+        "TV조선",
+        "티비조선",
+        "조선일보",
+        "종편",
+        "종합편성",
+        "티브이조선",
+        "방송사",
+        "TV조선뉴스",
+        "뉴스",
+        "뉴스프로그램"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "collectedAt": "2025-08-21T10:29:08.367385Z"
+    },
+    "jwmPtiuLz1Q": {
+      "videoId": "jwmPtiuLz1Q",
+      "title": "거물급 IOC 위원, 리우 올림픽 암표 판 혐의 '체포'",
+      "description": "브라질 리우에서 IOC 위원이, 암표를 판 혐의로 브라질 당국에 체포됐습니다. IOC 에서도 거물급 인사여서 파장이 예상됩니다. \n\n[Ch.19] 세상에 없는 TV 이제 시작합니다. \n★홈페이지 : http://news.tvchosun.com/",
+      "publishedAt": "2016-08-18T12:40:51Z",
+      "duration": "PT1M42S",
+      "viewCount": 111,
+      "likeCount": 0,
+      "commentCount": 0,
+      "tags": [
+        "TV조선",
+        "티비조선",
+        "조선일보",
+        "종편",
+        "종합편성",
+        "티브이조선",
+        "방송사",
+        "TV조선뉴스",
+        "뉴스",
+        "뉴스프로그램"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "collectedAt": "2025-08-21T10:29:08.367385Z"
     }
   },
   "channels": {
@@ -308,9 +398,36 @@
       "viewCount": 496166667,
       "videoCount": 25206,
       "lastUpdated": "2025-08-20T11:40:12.313076Z"
+    },
+    "UCWlV3Lz_55UaX4JsMj-z__Q": {
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "channelUrl": "@tvchosunnews",
+      "channelDescription": "TV조선 뉴스 공식 YouTube 입니다.",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 2900000,
+      "viewCount": 4319423561,
+      "videoCount": 150855,
+      "lastUpdated": "2025-08-21T10:29:08.357236Z"
     }
   },
-  "lastUpdated": "2025-08-20T11:40:12.314075Z",
-  "totalVideos": 9,
-  "totalChannels": 2
+  "lastUpdated": "2025-08-21T10:29:08.392394Z",
+  "totalVideos": 12,
+  "totalChannels": 3
 }

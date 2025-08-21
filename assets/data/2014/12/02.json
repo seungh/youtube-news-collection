@@ -242,6 +242,66 @@
       "channelId": "UCIMOytYIzaUpoAM2bpT4JZQ",
       "channelName": "KTV 국민방송",
       "collectedAt": "2025-08-20T11:40:06.621966Z"
+    },
+    "WvS1TO2oI_k": {
+      "videoId": "WvS1TO2oI_k",
+      "title": "\"정윤회, 지난 4월 이재만과 연락했다\"",
+      "description": "'비선 실세'로 지목된 정윤회 씨, 문서 유출건이나 박지만 씨 미행 사건도  모두 민정수석실이 조작했다고 밝혔는데, 언론에 등장한 정윤회씨의 주장 먼저 들어봅니다. \r\n\r\n[Ch.19] 세상에 없는 TV 이제 시작합니다. \r\n★홈페이지 : www.tvchosun.com \r\n기사 더 보기 ▶ http://news.tvchosun.com/site/data/html_dir/2014/12/02/2014120290075.html",
+      "publishedAt": "2014-12-02T00:55:52Z",
+      "duration": "PT1M26S",
+      "viewCount": 108,
+      "likeCount": 0,
+      "commentCount": 0,
+      "tags": [
+        "TV조선",
+        "티비조선",
+        "조선일보",
+        "종편",
+        "종합편성",
+        "티브이조선",
+        "방송사",
+        "TV조선뉴스",
+        "뉴스",
+        "뉴스프로그램"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "collectedAt": "2025-08-21T10:28:53.528874Z"
+    },
+    "xkWZahP8h-s": {
+      "videoId": "xkWZahP8h-s",
+      "title": "막말 파문 서울시향 박현정 대표",
+      "description": "[앵커]\r\n서울시립교향악단 박현정 대표가 막말, 성희롱 파문에 휩싸였습니다. 사무국 직원들이 여성인 박 대표의 폭언과 성추행에 시달렸다며 서울시에 파면을 요구했습니다.\r\n[Ch.19] 세상에 없는 TV 이제 시작합니다. \r\n★홈페이지 : www.tvchosun.com \r\n기사 더 보기 ▶ http://news.tvchosun.com/site/data/html_dir/2014/12/02/2014120290291.html",
+      "publishedAt": "2014-12-02T13:42:23Z",
+      "duration": "PT1M43S",
+      "viewCount": 2873,
+      "likeCount": 5,
+      "commentCount": 5,
+      "tags": [
+        "TV조선",
+        "티비조선",
+        "조선일보",
+        "종편",
+        "종합편성",
+        "티브이조선",
+        "방송사",
+        "TV조선뉴스",
+        "뉴스",
+        "뉴스프로그램"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "collectedAt": "2025-08-21T10:28:53.529872Z"
     }
   },
   "channels": {
@@ -298,9 +358,36 @@
       "viewCount": 496166667,
       "videoCount": 25206,
       "lastUpdated": "2025-08-20T11:40:06.621966Z"
+    },
+    "UCWlV3Lz_55UaX4JsMj-z__Q": {
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "channelUrl": "@tvchosunnews",
+      "channelDescription": "TV조선 뉴스 공식 YouTube 입니다.",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 2900000,
+      "viewCount": 4319423561,
+      "videoCount": 150855,
+      "lastUpdated": "2025-08-21T10:28:53.527876Z"
     }
   },
-  "lastUpdated": "2025-08-20T11:40:06.621966Z",
-  "totalVideos": 11,
-  "totalChannels": 2
+  "lastUpdated": "2025-08-21T10:28:53.529872Z",
+  "totalVideos": 13,
+  "totalChannels": 3
 }

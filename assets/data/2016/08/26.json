@@ -110,6 +110,66 @@
       "channelId": "UCiFVWb1D5nJ6Cv8Jc0krAjw",
       "channelName": "글로벌 인사이트",
       "collectedAt": "2025-08-20T11:38:50.774379Z"
+    },
+    "mpNzAK1bn-M": {
+      "videoId": "mpNzAK1bn-M",
+      "title": "\"태영호 따라 탈북하라우\"…北 대사관에 장난전화 [TV조선 단독]",
+      "description": "해외 북한 대사관에 장난 전화를 하는 영상이 인터넷에 번지고 있습니다. 웃으면서 북한 체제를 비판하고 탈북하라고도 하는데요 이런 장난, 잘못했다가는 처벌 받을 수도 있습니다.\n\n[Ch.19] 세상에 없는 TV 이제 시작합니다. \n★홈페이지 : http://news.tvchosun.com/",
+      "publishedAt": "2016-08-26T12:13:52Z",
+      "duration": "PT1M42S",
+      "viewCount": 873346,
+      "likeCount": 6332,
+      "commentCount": 1512,
+      "tags": [
+        "TV조선",
+        "티비조선",
+        "조선일보",
+        "종편",
+        "종합편성",
+        "티브이조선",
+        "방송사",
+        "TV조선뉴스",
+        "뉴스",
+        "뉴스프로그램"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": "ko",
+      "defaultAudioLanguage": "ko",
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "collectedAt": "2025-08-21T10:29:08.292843Z"
+    },
+    "ASbGfELzLaM": {
+      "videoId": "ASbGfELzLaM",
+      "title": "롯데 2인자 이인원은 누구? 롯데그룹 \"경위 파악 중\"",
+      "description": "롯데그룹 2인자로 불리는 이인원 부회장이 검찰 출석을 앞두고 숨진 채 발견됐습니다. 수사 부담을 느끼고 스스로 목숨을 끊은 걸로 추정됩니다.\n\n[Ch.19] 세상에 없는 TV 이제 시작합니다. \n★홈페이지 : http://news.tvchosun.com/",
+      "publishedAt": "2016-08-26T01:28:42Z",
+      "duration": "PT1M34S",
+      "viewCount": 114,
+      "likeCount": 1,
+      "commentCount": 0,
+      "tags": [
+        "TV조선",
+        "티비조선",
+        "조선일보",
+        "종편",
+        "종합편성",
+        "티브이조선",
+        "방송사",
+        "TV조선뉴스",
+        "뉴스",
+        "뉴스프로그램"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "collectedAt": "2025-08-21T10:29:08.292843Z"
     }
   },
   "channels": {
@@ -166,9 +226,36 @@
       "viewCount": 42463364,
       "videoCount": 1939,
       "lastUpdated": "2025-08-20T11:38:50.773603Z"
+    },
+    "UCWlV3Lz_55UaX4JsMj-z__Q": {
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "channelUrl": "@tvchosunnews",
+      "channelDescription": "TV조선 뉴스 공식 YouTube 입니다.",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 2900000,
+      "viewCount": 4319423561,
+      "videoCount": 150855,
+      "lastUpdated": "2025-08-21T10:29:08.292843Z"
     }
   },
-  "lastUpdated": "2025-08-20T11:38:50.774637Z",
-  "totalVideos": 4,
-  "totalChannels": 2
+  "lastUpdated": "2025-08-21T10:29:08.292843Z",
+  "totalVideos": 6,
+  "totalChannels": 3
 }

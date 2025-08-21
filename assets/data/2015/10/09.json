@@ -54,6 +54,96 @@
       "channelId": "UCIMOytYIzaUpoAM2bpT4JZQ",
       "channelName": "KTV 국민방송",
       "collectedAt": "2025-08-20T11:40:12.476045Z"
+    },
+    "wzJEj1ho5hc": {
+      "videoId": "wzJEj1ho5hc",
+      "title": "1조 6천억원짜리 '김정은식 쇼'",
+      "description": "[앵커]\n내일 아침에 김정은과 북한이 야심차게 준비한 북한 노동당 창건 70주년 행사가 펼쳐집니다. 오늘은 주민들을 동원한 리허설 모습이 공개됐습니다. 북한은 이번 행사에 1조 6천억원을 쓰는 것으로 추산됩니다.\n\n[Ch.19] 세상에 없는 TV 이제 시작합니다. \n★홈페이지 : www.tvchosun.com \n기사 더 보기 ▶http://news.tvchosun.com/site/data/html_dir/2015/10/09/2015100990108.html",
+      "publishedAt": "2015-10-09T12:28:18Z",
+      "duration": "PT1M41S",
+      "viewCount": 734,
+      "likeCount": 0,
+      "commentCount": 0,
+      "tags": [
+        "TV조선",
+        "티비조선",
+        "조선일보",
+        "종편",
+        "종합편성",
+        "티브이조선",
+        "방송사",
+        "TV조선뉴스",
+        "뉴스",
+        "뉴스프로그램"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "collectedAt": "2025-08-21T10:28:44.567911Z"
+    },
+    "MX-BrLEg1WY": {
+      "videoId": "MX-BrLEg1WY",
+      "title": "[연예가 핫이슈] 양현석, 사옥 무단 증축 혐의 불구속 입건",
+      "description": "YG 아티스트 싸이에 이어 수장인 양현석씨 까지 건물로 곤혹을 치르고 있습니다.\n\n\n[Ch.19] 세상에 없는 TV 이제 시작합니다. \n★홈페이지 : www.tvchosun.com \n기사 더 보기 ▶ http://news.tvchosun.com/site/data/html_dir/2015/10/09/2015100990067.html",
+      "publishedAt": "2015-10-09T05:34:52Z",
+      "duration": "PT2M12S",
+      "viewCount": 657,
+      "likeCount": 0,
+      "commentCount": 0,
+      "tags": [
+        "TV조선",
+        "티비조선",
+        "조선일보",
+        "종편",
+        "종합편성",
+        "티브이조선",
+        "방송사",
+        "TV조선뉴스",
+        "뉴스",
+        "뉴스프로그램"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "collectedAt": "2025-08-21T10:28:44.567911Z"
+    },
+    "nnEcyV1LfKY": {
+      "videoId": "nnEcyV1LfKY",
+      "title": "한미 전직 대통령 골프회동…이재용 부회장도 참석",
+      "description": "이명박 전 대통령과 조지 W 부시 전 미국 대통령이 어제 인천의 한 골프장에서 만나 골프회동을 가졌습니다. 그런데, 이 자리에 이재용 삼성전자 부회장이 참석해 관심을 모았습니다. \n\n\n[Ch.19] 세상에 없는 TV 이제 시작합니다. \n★홈페이지 : www.tvchosun.com \n기사 더 보기 ▶ http://news.tvchosun.com/site/data/html_dir/2015/10/09/2015100990088.html",
+      "publishedAt": "2015-10-09T05:33:24Z",
+      "duration": "PT1M37S",
+      "viewCount": 29459,
+      "likeCount": 82,
+      "commentCount": 5,
+      "tags": [
+        "TV조선",
+        "티비조선",
+        "조선일보",
+        "종편",
+        "종합편성",
+        "티브이조선",
+        "방송사",
+        "TV조선뉴스",
+        "뉴스",
+        "뉴스프로그램"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "collectedAt": "2025-08-21T10:28:44.567911Z"
     }
   },
   "channels": {
@@ -110,9 +200,36 @@
       "viewCount": 496166667,
       "videoCount": 25206,
       "lastUpdated": "2025-08-20T11:40:12.476045Z"
+    },
+    "UCWlV3Lz_55UaX4JsMj-z__Q": {
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "channelUrl": "@tvchosunnews",
+      "channelDescription": "TV조선 뉴스 공식 YouTube 입니다.",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 2900000,
+      "viewCount": 4319423561,
+      "videoCount": 150855,
+      "lastUpdated": "2025-08-21T10:28:44.567911Z"
     }
   },
-  "lastUpdated": "2025-08-20T11:40:12.477042Z",
-  "totalVideos": 2,
-  "totalChannels": 2
+  "lastUpdated": "2025-08-21T10:28:44.567911Z",
+  "totalVideos": 5,
+  "totalChannels": 3
 }

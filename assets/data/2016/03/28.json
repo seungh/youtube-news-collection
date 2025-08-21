@@ -97,6 +97,96 @@
       "channelId": "UCIMOytYIzaUpoAM2bpT4JZQ",
       "channelName": "KTV 국민방송",
       "collectedAt": "2025-08-20T11:40:03.509417Z"
+    },
+    "Gax4NEpZVAU": {
+      "videoId": "Gax4NEpZVAU",
+      "title": "노래하고 춤추고 방송하고…이색 선거전",
+      "description": "이색 선거 운동도 한창입니다. 노래는 기본이고 춤추고, 연기하고 또 1인 방송까지 하는 후보도 있습니다.\n\n[Ch.19] 세상에 없는 TV 이제 시작합니다. \n★홈페이지 : http://news.tvchosun.com/",
+      "publishedAt": "2016-03-28T12:33:20Z",
+      "duration": "PT1M38S",
+      "viewCount": 239,
+      "likeCount": 0,
+      "commentCount": 0,
+      "tags": [
+        "TV조선",
+        "티비조선",
+        "조선일보",
+        "종편",
+        "종합편성",
+        "티브이조선",
+        "방송사",
+        "TV조선뉴스",
+        "뉴스",
+        "뉴스프로그램"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "collectedAt": "2025-08-21T10:28:39.214030Z"
+    },
+    "KRsBHp3VLWs": {
+      "videoId": "KRsBHp3VLWs",
+      "title": "부활절 기독교 겨냥 파키스탄 자폭 테러…최소 65명 사망",
+      "description": "파키스탄에서 부활절을 맞아 모인 기독교도를 겨냥한 자폭 테러가 발생해 65명이 숨지고 300여명이 다쳤습니다. 사망자 대부분은 어린이와 여성으로, 테러 직후 압사 사고까지 이어져 피해가 커졌습니다. \n\n[Ch.19] 세상에 없는 TV 이제 시작합니다. \n★홈페이지 : http://news.tvchosun.com/",
+      "publishedAt": "2016-03-28T01:08:07Z",
+      "duration": "PT1M38S",
+      "viewCount": 308,
+      "likeCount": 0,
+      "commentCount": 0,
+      "tags": [
+        "TV조선",
+        "티비조선",
+        "조선일보",
+        "종편",
+        "종합편성",
+        "티브이조선",
+        "방송사",
+        "TV조선뉴스",
+        "뉴스",
+        "뉴스프로그램"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "collectedAt": "2025-08-21T10:28:39.214030Z"
+    },
+    "uncAbsCUpGQ": {
+      "videoId": "uncAbsCUpGQ",
+      "title": "한 끼보다 비싼 프리미엄 생수 폭풍성장",
+      "description": "물을 사먹는 게 자연스러운 일이 되면서 우리나라 생수 시장은 매년 10%씩 커지고 있습니다. 요즘에는 유아를 위한 물, 탄산이 든 물, 수소가 들어있는 물 등 기능성 생수가 인기를 얻고 있는데, 한 병 가격이 밥보다 비쌉니다. 그만큼 좋을까요? \n\n[Ch.19] 세상에 없는 TV 이제 시작합니다. \n★홈페이지 : http://news.tvchosun.com/",
+      "publishedAt": "2016-03-28T12:43:57Z",
+      "duration": "PT2M35S",
+      "viewCount": 2977,
+      "likeCount": 5,
+      "commentCount": 1,
+      "tags": [
+        "TV조선",
+        "티비조선",
+        "조선일보",
+        "종편",
+        "종합편성",
+        "티브이조선",
+        "방송사",
+        "TV조선뉴스",
+        "뉴스",
+        "뉴스프로그램"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "collectedAt": "2025-08-21T10:28:39.214030Z"
     }
   },
   "channels": {
@@ -153,9 +243,36 @@
       "viewCount": 496166667,
       "videoCount": 25206,
       "lastUpdated": "2025-08-20T11:40:03.507421Z"
+    },
+    "UCWlV3Lz_55UaX4JsMj-z__Q": {
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "channelUrl": "@tvchosunnews",
+      "channelDescription": "TV조선 뉴스 공식 YouTube 입니다.",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 2900000,
+      "viewCount": 4319423561,
+      "videoCount": 150855,
+      "lastUpdated": "2025-08-21T10:28:39.212116Z"
     }
   },
-  "lastUpdated": "2025-08-20T11:40:03.512044Z",
-  "totalVideos": 4,
-  "totalChannels": 2
+  "lastUpdated": "2025-08-21T10:28:39.215008Z",
+  "totalVideos": 7,
+  "totalChannels": 3
 }

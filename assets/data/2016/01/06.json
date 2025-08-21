@@ -370,6 +370,66 @@
       "channelId": "UCIMOytYIzaUpoAM2bpT4JZQ",
       "channelName": "KTV 국민방송",
       "collectedAt": "2025-08-20T11:40:03.933883Z"
+    },
+    "nDQpeD7nmcE": {
+      "videoId": "nDQpeD7nmcE",
+      "title": "케냐 마라토너 귀화, 찬반 팽팽 \"어떻게 생각하십니까?\"",
+      "description": "이 흑인은 케냐에서 온 마라토너, 에루페 한국 이름은 오주한입니다. 귀화해 대한민국 국가대표로 뛰고 싶다는데, 찬반 의견이 팽팽히 맞서고 있습니다. 시청자 여러분들은 어떻게 생각하십니까? \n\n[Ch.19] 세상에 없는 TV 이제 시작합니다. \n★홈페이지 : www.tvchosun.com \n기사 더 보기 ▶ http://news.tvchosun.com/site/data/html_dir/2016/01/06/2016010690255.html",
+      "publishedAt": "2016-01-06T12:58:16Z",
+      "duration": "PT2M2S",
+      "viewCount": 723,
+      "likeCount": 2,
+      "commentCount": 0,
+      "tags": [
+        "TV조선",
+        "티비조선",
+        "조선일보",
+        "종편",
+        "종합편성",
+        "티브이조선",
+        "방송사",
+        "TV조선뉴스",
+        "뉴스",
+        "뉴스프로그램"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "collectedAt": "2025-08-21T10:29:03.196265Z"
+    },
+    "m6lZC69r9Ao": {
+      "videoId": "m6lZC69r9Ao",
+      "title": "저가항공 잇따른 사고…미숙한 조종사 탓?",
+      "description": "저렴한 항공권을 무기로 급성장한 저가항공사들 그런데 요즘 사고가 잇따르다보니 타기 무섭다는 말까지 나옵니다. 경력이 짧은 미숙한 조종사들에게 업무까지 과도하게 쌓이는 탓이라는데 저가항공사들의 문제점을 짚어봤습니다.\n\n[Ch.19] 세상에 없는 TV 이제 시작합니다. \n★홈페이지 : www.tvchosun.com \n기사 더 보기 ▶ http://news.tvchosun.com/site/data/html_dir/2016/01/06/2016010690241.html",
+      "publishedAt": "2016-01-06T12:58:16Z",
+      "duration": "PT1M52S",
+      "viewCount": 4749,
+      "likeCount": 18,
+      "commentCount": 1,
+      "tags": [
+        "TV조선",
+        "티비조선",
+        "조선일보",
+        "종편",
+        "종합편성",
+        "티브이조선",
+        "방송사",
+        "TV조선뉴스",
+        "뉴스",
+        "뉴스프로그램"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "collectedAt": "2025-08-21T10:29:03.196265Z"
     }
   },
   "channels": {
@@ -426,9 +486,36 @@
       "viewCount": 496166667,
       "videoCount": 25206,
       "lastUpdated": "2025-08-20T11:40:03.932885Z"
+    },
+    "UCWlV3Lz_55UaX4JsMj-z__Q": {
+      "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+      "channelName": "뉴스TVCHOSUN",
+      "channelUrl": "@tvchosunnews",
+      "channelDescription": "TV조선 뉴스 공식 YouTube 입니다.",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/AtOfk6Ivk4KYoHNxFu4VOUez9H8d5uN4tNWO95wruz1_cfXWKn_FuEHmXjOl7kaE9MUzieaDuw=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 2900000,
+      "viewCount": 4319423561,
+      "videoCount": 150855,
+      "lastUpdated": "2025-08-21T10:29:03.196265Z"
     }
   },
-  "lastUpdated": "2025-08-20T11:40:03.933883Z",
-  "totalVideos": 14,
-  "totalChannels": 2
+  "lastUpdated": "2025-08-21T10:29:03.196265Z",
+  "totalVideos": 16,
+  "totalChannels": 3
 }
