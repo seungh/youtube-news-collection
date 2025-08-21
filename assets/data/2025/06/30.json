@@ -26558,6 +26558,25 @@
       "channelId": "UCNJM6dqu70Qr6VaseiW1Org",
       "channelName": "이재명",
       "collectedAt": "2025-08-20T11:38:22.677811Z"
+    },
+    "dYKU-8AtpS4": {
+      "videoId": "dYKU-8AtpS4",
+      "title": "시진핑 최측근 또 숙청, 중국에 도대체 무슨 일이 일어났나? (박종훈의 지식한방)",
+      "description": "시진핑 최측근이 또 숙청된 것으로 드러나면서 시진핑이 실각했거나 축출됐을 것이라는 주장이 나오고 있습니다. 과연 어떤 일이 벌어졌는지 살펴봤습니다.\n\n✉️ 강연 및 협업 문의\neconopunch@gmail.com",
+      "publishedAt": "2025-06-30T11:32:00Z",
+      "duration": "PT21M56S",
+      "viewCount": 960841,
+      "likeCount": 25673,
+      "commentCount": 1482,
+      "tags": [],
+      "categoryId": "25",
+      "defaultLanguage": "ko",
+      "defaultAudioLanguage": "ko",
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCOB62fKRT7b73X7tRxMuN2g",
+      "channelName": "박종훈의 지식한방",
+      "collectedAt": "2025-08-21T18:08:43.599687Z"
     }
   },
   "channels": {
@@ -26857,9 +26876,36 @@
       "viewCount": 336974518,
       "videoCount": 3965,
       "lastUpdated": "2025-08-20T11:38:22.677811Z"
+    },
+    "UCOB62fKRT7b73X7tRxMuN2g": {
+      "channelId": "UCOB62fKRT7b73X7tRxMuN2g",
+      "channelName": "박종훈의 지식한방",
+      "channelUrl": "@kpunch",
+      "channelDescription": "박종훈의 지식한방은 급변하는 국제질서와 빨라진 혁신 속도를 따라잡기 위해 세계경제와 지정학적인 변화를 추적하고 이를 통해 우리의 미래를 조망하고 대처할 수 있는 길을 모색하는 채널입니다.\n\n강연 및 협업문의\n✉️ econopunch@gmail.com\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/zsC1hpzdAouTryoT06lSKsSaaU8jlggb9GKrQBHn5nexO-2Dw-UC_CmNBEjdjbd1KztCUySTUA=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/zsC1hpzdAouTryoT06lSKsSaaU8jlggb9GKrQBHn5nexO-2Dw-UC_CmNBEjdjbd1KztCUySTUA=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/zsC1hpzdAouTryoT06lSKsSaaU8jlggb9GKrQBHn5nexO-2Dw-UC_CmNBEjdjbd1KztCUySTUA=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 777000,
+      "viewCount": 111207589,
+      "videoCount": 274,
+      "lastUpdated": "2025-08-21T18:08:43.599609Z"
     }
   },
-  "lastUpdated": "2025-08-21T10:42:55.865181Z",
-  "totalVideos": 919,
-  "totalChannels": 11
+  "lastUpdated": "2025-08-21T18:08:43.599745Z",
+  "totalVideos": 920,
+  "totalChannels": 12
 }

@@ -21306,6 +21306,44 @@
       "channelId": "UCNJM6dqu70Qr6VaseiW1Org",
       "channelName": "이재명",
       "collectedAt": "2025-08-20T11:38:40.894161Z"
+    },
+    "mrijRFaazEE": {
+      "videoId": "mrijRFaazEE",
+      "title": "이란이 호르무즈 해협을 봉쇄할 수 없는 치명적 약점 (박종훈의 지식한방)",
+      "description": "이스라엘 이란 전쟁이 중동전쟁으로 확전되고 있는 가운데 호르무즈 해협 봉쇄가 가장 중요한 문제로 떠올랐습니다.\n\n✉️ 강연 및 협업 문의\neconopunch@gmail.com",
+      "publishedAt": "2025-06-23T11:45:10Z",
+      "duration": "PT18M59S",
+      "viewCount": 275140,
+      "likeCount": 12447,
+      "commentCount": 640,
+      "tags": [],
+      "categoryId": "25",
+      "defaultLanguage": "ko",
+      "defaultAudioLanguage": "ko",
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCOB62fKRT7b73X7tRxMuN2g",
+      "channelName": "박종훈의 지식한방",
+      "collectedAt": "2025-08-21T18:08:43.733956Z"
+    },
+    "sc98K_IoCX4": {
+      "videoId": "sc98K_IoCX4",
+      "title": "이란에 몰래 무기 팔았던 이스라엘 (박종훈의 지식한방)",
+      "description": "중동전쟁으로 확산되면서 호르무즈 해협 봉쇄 위협도 커지고 있습니다. 이런 상황에서 이스라엘에 무기를 팔았던 과거 역사를 재조명해봤습니다.\n\n✉️ 강연 및 협업 문의\neconopunch@gmail.com",
+      "publishedAt": "2025-06-23T07:15:05Z",
+      "duration": "PT12M19S",
+      "viewCount": 201460,
+      "likeCount": 8776,
+      "commentCount": 420,
+      "tags": [],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCOB62fKRT7b73X7tRxMuN2g",
+      "channelName": "박종훈의 지식한방",
+      "collectedAt": "2025-08-21T18:08:43.733967Z"
     }
   },
   "channels": {
@@ -21578,9 +21616,36 @@
       "viewCount": 336974518,
       "videoCount": 3965,
       "lastUpdated": "2025-08-20T11:38:40.893168Z"
+    },
+    "UCOB62fKRT7b73X7tRxMuN2g": {
+      "channelId": "UCOB62fKRT7b73X7tRxMuN2g",
+      "channelName": "박종훈의 지식한방",
+      "channelUrl": "@kpunch",
+      "channelDescription": "박종훈의 지식한방은 급변하는 국제질서와 빨라진 혁신 속도를 따라잡기 위해 세계경제와 지정학적인 변화를 추적하고 이를 통해 우리의 미래를 조망하고 대처할 수 있는 길을 모색하는 채널입니다.\n\n강연 및 협업문의\n✉️ econopunch@gmail.com\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/zsC1hpzdAouTryoT06lSKsSaaU8jlggb9GKrQBHn5nexO-2Dw-UC_CmNBEjdjbd1KztCUySTUA=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/zsC1hpzdAouTryoT06lSKsSaaU8jlggb9GKrQBHn5nexO-2Dw-UC_CmNBEjdjbd1KztCUySTUA=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/zsC1hpzdAouTryoT06lSKsSaaU8jlggb9GKrQBHn5nexO-2Dw-UC_CmNBEjdjbd1KztCUySTUA=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 777000,
+      "viewCount": 111207589,
+      "videoCount": 274,
+      "lastUpdated": "2025-08-21T18:08:43.733875Z"
     }
   },
-  "lastUpdated": "2025-08-21T10:42:57.246818Z",
-  "totalVideos": 746,
-  "totalChannels": 10
+  "lastUpdated": "2025-08-21T18:08:43.734022Z",
+  "totalVideos": 748,
+  "totalChannels": 11
 }

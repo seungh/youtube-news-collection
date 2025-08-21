@@ -20516,6 +20516,44 @@
       "channelId": "UCNJM6dqu70Qr6VaseiW1Org",
       "channelName": "이재명",
       "collectedAt": "2025-08-20T11:38:34.661538Z"
+    },
+    "GSwMlNg7eac": {
+      "videoId": "GSwMlNg7eac",
+      "title": "트럼프의 치밀한 전략, 네타냐후가 한 방 먹었나? (박종훈의 지식한방)",
+      "description": "✉️ 강연 및 협업 문의\neconopunch@gmail.com",
+      "publishedAt": "2025-06-26T12:15:04Z",
+      "duration": "PT19M58S",
+      "viewCount": 289288,
+      "likeCount": 11829,
+      "commentCount": 493,
+      "tags": [],
+      "categoryId": "25",
+      "defaultLanguage": "ko",
+      "defaultAudioLanguage": "ko",
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCOB62fKRT7b73X7tRxMuN2g",
+      "channelName": "박종훈의 지식한방",
+      "collectedAt": "2025-08-21T18:08:43.702361Z"
+    },
+    "_B74We3F5vg": {
+      "videoId": "_B74We3F5vg",
+      "title": "패권전쟁에서 중국이 미국을 이길 수 없는 결정적 약점 드러났다 (박종훈의 지식한방)",
+      "description": "✉️ 강연 및 협업 문의\neconopunch@gmail.com",
+      "publishedAt": "2025-06-26T07:30:29Z",
+      "duration": "PT22M31S",
+      "viewCount": 377789,
+      "likeCount": 15745,
+      "commentCount": 1486,
+      "tags": [],
+      "categoryId": "25",
+      "defaultLanguage": "ko",
+      "defaultAudioLanguage": "ko",
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCOB62fKRT7b73X7tRxMuN2g",
+      "channelName": "박종훈의 지식한방",
+      "collectedAt": "2025-08-21T18:08:43.702371Z"
     }
   },
   "channels": {
@@ -20815,9 +20853,36 @@
       "viewCount": 336974518,
       "videoCount": 3965,
       "lastUpdated": "2025-08-20T11:38:34.661538Z"
+    },
+    "UCOB62fKRT7b73X7tRxMuN2g": {
+      "channelId": "UCOB62fKRT7b73X7tRxMuN2g",
+      "channelName": "박종훈의 지식한방",
+      "channelUrl": "@kpunch",
+      "channelDescription": "박종훈의 지식한방은 급변하는 국제질서와 빨라진 혁신 속도를 따라잡기 위해 세계경제와 지정학적인 변화를 추적하고 이를 통해 우리의 미래를 조망하고 대처할 수 있는 길을 모색하는 채널입니다.\n\n강연 및 협업문의\n✉️ econopunch@gmail.com\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/zsC1hpzdAouTryoT06lSKsSaaU8jlggb9GKrQBHn5nexO-2Dw-UC_CmNBEjdjbd1KztCUySTUA=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/zsC1hpzdAouTryoT06lSKsSaaU8jlggb9GKrQBHn5nexO-2Dw-UC_CmNBEjdjbd1KztCUySTUA=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/zsC1hpzdAouTryoT06lSKsSaaU8jlggb9GKrQBHn5nexO-2Dw-UC_CmNBEjdjbd1KztCUySTUA=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 777000,
+      "viewCount": 111207589,
+      "videoCount": 274,
+      "lastUpdated": "2025-08-21T18:08:43.702261Z"
     }
   },
-  "lastUpdated": "2025-08-21T10:42:56.261008Z",
-  "totalVideos": 718,
-  "totalChannels": 11
+  "lastUpdated": "2025-08-21T18:08:43.702440Z",
+  "totalVideos": 720,
+  "totalChannels": 12
 }

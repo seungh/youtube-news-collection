@@ -11124,6 +11124,25 @@
       "channelId": "UCn8WFi6pE4cJZP8MiUNGFxg",
       "channelName": "KTV NEWS",
       "collectedAt": "2025-08-18T02:22:17.140237Z"
+    },
+    "NzP3gxhrDHw": {
+      "videoId": "NzP3gxhrDHw",
+      "title": "집값을 7배 폭등시켰다가 결국 경제가 붕괴된 나라 (박종훈의 지식한방)",
+      "description": "튀르키예 부동산 문제를 파헤쳐 봤습니다.\n\n✉️ 강연 및 협업 문의\neconopunch@gmail.com",
+      "publishedAt": "2025-06-28T07:30:10Z",
+      "duration": "PT15M31S",
+      "viewCount": 565159,
+      "likeCount": 18810,
+      "commentCount": 2751,
+      "tags": [],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCOB62fKRT7b73X7tRxMuN2g",
+      "channelName": "박종훈의 지식한방",
+      "collectedAt": "2025-08-21T18:08:43.645839Z"
     }
   },
   "channels": {
@@ -11288,9 +11307,36 @@
       "viewCount": 87225174,
       "videoCount": 19299,
       "lastUpdated": "2025-08-18T02:22:17.140237Z"
+    },
+    "UCOB62fKRT7b73X7tRxMuN2g": {
+      "channelId": "UCOB62fKRT7b73X7tRxMuN2g",
+      "channelName": "박종훈의 지식한방",
+      "channelUrl": "@kpunch",
+      "channelDescription": "박종훈의 지식한방은 급변하는 국제질서와 빨라진 혁신 속도를 따라잡기 위해 세계경제와 지정학적인 변화를 추적하고 이를 통해 우리의 미래를 조망하고 대처할 수 있는 길을 모색하는 채널입니다.\n\n강연 및 협업문의\n✉️ econopunch@gmail.com\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/zsC1hpzdAouTryoT06lSKsSaaU8jlggb9GKrQBHn5nexO-2Dw-UC_CmNBEjdjbd1KztCUySTUA=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/zsC1hpzdAouTryoT06lSKsSaaU8jlggb9GKrQBHn5nexO-2Dw-UC_CmNBEjdjbd1KztCUySTUA=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/zsC1hpzdAouTryoT06lSKsSaaU8jlggb9GKrQBHn5nexO-2Dw-UC_CmNBEjdjbd1KztCUySTUA=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 777000,
+      "viewCount": 111207589,
+      "videoCount": 274,
+      "lastUpdated": "2025-08-21T18:08:43.645758Z"
     }
   },
-  "lastUpdated": "2025-08-21T10:43:50.241817Z",
-  "totalVideos": 374,
-  "totalChannels": 6
+  "lastUpdated": "2025-08-21T18:08:43.645900Z",
+  "totalVideos": 375,
+  "totalChannels": 7
 }

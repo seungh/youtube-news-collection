@@ -42423,6 +42423,25 @@
       "channelId": "UCNJM6dqu70Qr6VaseiW1Org",
       "channelName": "이재명",
       "collectedAt": "2025-08-20T11:38:22.097001Z"
+    },
+    "ACpRowx9cng": {
+      "videoId": "ACpRowx9cng",
+      "title": "종이 돈이 무너진다. 달러와 원화도 위험할까? (박종훈의 지식한방)",
+      "description": "스테이블 코인은 전 세계 통화정책을 무력화시키고 돈을 빨아들이는 블랙홀이 될 가능성이 있습니다. 과연 우리 원화도 위험할까요?\n\n\n✉️ 강연 및 협업 문의\neconopunch@gmail.com",
+      "publishedAt": "2025-07-09T10:15:00Z",
+      "duration": "PT17M55S",
+      "viewCount": 550215,
+      "likeCount": 17531,
+      "commentCount": 1319,
+      "tags": [],
+      "categoryId": "25",
+      "defaultLanguage": null,
+      "defaultAudioLanguage": null,
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "channelId": "UCOB62fKRT7b73X7tRxMuN2g",
+      "channelName": "박종훈의 지식한방",
+      "collectedAt": "2025-08-21T18:08:43.376893Z"
     }
   },
   "channels": {
@@ -42776,9 +42795,36 @@
       "viewCount": 336974518,
       "videoCount": 3965,
       "lastUpdated": "2025-08-20T11:38:22.096006Z"
+    },
+    "UCOB62fKRT7b73X7tRxMuN2g": {
+      "channelId": "UCOB62fKRT7b73X7tRxMuN2g",
+      "channelName": "박종훈의 지식한방",
+      "channelUrl": "@kpunch",
+      "channelDescription": "박종훈의 지식한방은 급변하는 국제질서와 빨라진 혁신 속도를 따라잡기 위해 세계경제와 지정학적인 변화를 추적하고 이를 통해 우리의 미래를 조망하고 대처할 수 있는 길을 모색하는 채널입니다.\n\n강연 및 협업문의\n✉️ econopunch@gmail.com\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/zsC1hpzdAouTryoT06lSKsSaaU8jlggb9GKrQBHn5nexO-2Dw-UC_CmNBEjdjbd1KztCUySTUA=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/zsC1hpzdAouTryoT06lSKsSaaU8jlggb9GKrQBHn5nexO-2Dw-UC_CmNBEjdjbd1KztCUySTUA=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/zsC1hpzdAouTryoT06lSKsSaaU8jlggb9GKrQBHn5nexO-2Dw-UC_CmNBEjdjbd1KztCUySTUA=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 777000,
+      "viewCount": 111207589,
+      "videoCount": 274,
+      "lastUpdated": "2025-08-21T18:08:43.376812Z"
     }
   },
-  "lastUpdated": "2025-08-21T10:42:54.291120Z",
-  "totalVideos": 1447,
-  "totalChannels": 13
+  "lastUpdated": "2025-08-21T18:08:43.376954Z",
+  "totalVideos": 1448,
+  "totalChannels": 14
 }
