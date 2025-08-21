@@ -99,6 +99,97 @@
       "description": ""
     },
     {
+      "name": "MBC radio sisa",
+      "channelId": "UCTTmtS2ljy1vyl_s-d_LEHQ",
+      "enabled": true,
+      "maxVideos": 100,
+      "description": ""
+    },
+    {
+      "name": "SBS radio sisa",
+      "channelId": "UCLv3v82YNNsa8EsxrcPMjGQ",
+      "enabled": true,
+      "maxVideos": 100,
+      "description": ""
+    },
+    {
+      "name": "KBS1 radio",
+      "channelId": "UCMLJc_D3jgFcS_48G7i4V0A",
+      "enabled": true,
+      "maxVideos": 100,
+      "description": ""
+    },
+    {
+      "name": "CBS newsshow",
+      "channelId": "UC4Aa3OPkMenwTANpf0oWVRQ",
+      "enabled": true,
+      "maxVideos": 50,
+      "description": ""
+    },
+    {
+      "name": "CBS hanpan",
+      "channelId": "UCV9gIwasozKlwz5U2Sa2q6g",
+      "enabled": true,
+      "maxVideos": 50,
+      "description": ""
+    },
+    {
+      "name": "Sisain",
+      "channelId": "UCaVuYo_tiiNzTSmlnM-A2kQ",
+      "enabled": true,
+      "maxVideos": 50,
+      "description": ""
+    },
+    {
+      "name": "JTBC show",
+      "channelId": "UCsqWTNmoaNPvsfeCgaD7BpQ",
+      "enabled": true,
+      "maxVideos": 50,
+      "description": ""
+    },
+    {
+      "name": "kpunch",
+      "channelId": "UCOB62fKRT7b73X7tRxMuN2g",
+      "enabled": true,
+      "maxVideos": 50,
+      "description": ""
+    },
+    {
+      "name": "3protv",
+      "channelId": "UChlv4GSd7OQl3js-jkLOnFA",
+      "enabled": true,
+      "maxVideos": 50,
+      "description": ""
+    },
+    {
+      "name": "understanding",
+      "channelId": "UCIUni4ScRp4mqPXsxy62L5w",
+      "enabled": true,
+      "maxVideos": 50,
+      "description": ""
+    },
+    {
+      "name": "손경제",
+      "channelId": "UCiYbaVEODktcsh09454Grow",
+      "enabled": true,
+      "maxVideos": 50,
+      "description": ""
+    },
+    {
+      "name": "dhleetv",
+      "channelId": "UCd4BxCKyMHG2J0X1SerTPaQ",
+      "enabled": true,
+      "maxVideos": 50,
+      "description": ""
+    },
+    {
+      "name": "jhashtv",
+      "channelId": "UCt77qfhriWeDMbSNft8bdHQ",
+      "enabled": true,
+      "maxVideos": 50,
+      "description": ""
+    },
+    {
       "name": "문재인정부 청와대",
       "channelId": "UC7WMB_czX5jF__5kqT4d9Ww",
       "enabled": false,
