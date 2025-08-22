@@ -110,7 +110,7 @@ class YouTubeAPI:
             raise
             # return None
 
-    def get_playlist_videos(self, playlist_id: str, max_results: int = 50) -> List[str]:
+    def get_playlist_videos(self, playlist_id: str, channel_id: str, max_results: int = 50) -> List[str]:
         """
         Get video IDs from a playlist.
         """
@@ -129,6 +129,8 @@ class YouTubeAPI:
                 response = self._make_request("playlistItems", params)
                 
                 for item in response.get("items", []):
+                    if item["snippet"]["channelId"] != channel_id:
+                        continue
                     video_ids.append(item["snippet"]["resourceId"]["videoId"])
                 
                 next_page_token = response.get("nextPageToken")
@@ -224,7 +226,7 @@ class YouTubeAPI:
         uploads_playlist_id = channel_info["contentDetails"]["relatedPlaylists"]["uploads"]
         
         # 3. Get video IDs list
-        video_ids = self.get_playlist_videos(uploads_playlist_id, max_results)
+        video_ids = self.get_playlist_videos(uploads_playlist_id, channel_id, max_results)
         if not video_ids:
             logger.warning(f"No videos found for channel {channel_id}")
         
@@ -283,7 +285,7 @@ class YouTubeAPI:
             if pl in saved_works["processed_pl"]:
                 continue
             
-            vids = self.get_playlist_videos(pl, 50000)
+            vids = self.get_playlist_videos(pl, channel_id, 50000)
             logger.info(f"Playlist processed: {pl}")
             saved_works["processed_pl"].append(pl)
             for vid in vids:
