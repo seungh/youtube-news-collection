@@ -727,6 +727,37 @@
       "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
       "channelName": "뉴스TVCHOSUN",
       "collectedAt": "2025-08-21T10:45:13Z"
+    },
+    "RPA1u3SjK3U": {
+      "videoId": "RPA1u3SjK3U",
+      "title": "[오프더리포트_취재뒷담화]EP3.이주여성의 비극(ft.김동인·김영화 기자)",
+      "description": "오프 더 레코드가 아닌, 오프 더 리포트!  매주 지면에서 확인하실 수 있는 '취재 뒷담화'가 세 번째 시간으로 돌아왔습니다. \n\n고제규 편집국장이 기자들과 함께 이전에는 몰랐던 취재 뒷이야기를 나눕니다.  세번째 회는 시사IN 620호 커버를 장식했던 '이주여성의 비극'을 다룹니다.  김동인, 김영화 기자가 출연했습니다. 국제결혼의 시작부터 한국에서의 삶까지, 그 비하인드 스토리를 지금 만나보시죠!\n\n*출연: 고제규, 김동인, 김영화\n*촬영: 강보배, 김나래\n*자막 및 편집: 김나래 \n*도움: 강보배, 김솔아\n\n*시사IN 구독 및 후원은 아래에서 가능합니다. 더 좋은 콘텐츠로 보답하겠습니다. 항상 감사합니다 :)\n- support.sisain.co.kr\n- 하나은행 1099-100178-3704 (주)참언론\n- paypal 후원 : http://paypal.me/sisain",
+      "publishedAt": "2019-08-10T04:10:30Z",
+      "duration": "PT11M32S",
+      "viewCount": 692,
+      "likeCount": 109,
+      "commentCount": 4,
+      "tags": [
+        "시사인",
+        "시사IN",
+        "오프더리포트",
+        "시사IN_오프더리포트",
+        "고제규",
+        "고제규국장",
+        "고제규편집국장",
+        "김동인",
+        "김동인기자",
+        "김영화",
+        "김영화기자",
+        "이주여성",
+        "결혼이주여성"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2019-08-10T04:10:30Z",
+      "channelId": "UCaVuYo_tiiNzTSmlnM-A2kQ",
+      "channelName": "시사IN(시사인)",
+      "collectedAt": "2025-08-22T13:36:18Z"
     }
   },
   "channels": {
@@ -837,9 +868,36 @@
       "viewCount": 4319423561,
       "videoCount": 150855,
       "lastUpdated": "2025-08-21T10:27:38.828075Z"
+    },
+    "UCaVuYo_tiiNzTSmlnM-A2kQ": {
+      "channelId": "UCaVuYo_tiiNzTSmlnM-A2kQ",
+      "channelName": "시사IN(시사인)",
+      "channelUrl": "@sisaineditor",
+      "channelDescription": "더 나은 세상을 만드는 저널리즘, \n시사IN이 만든 라이브 방송 \n시사IN 유튜브 편성 안내\n\n🔴 [월~목 오후 5시] 김은지의 뉴스IN \n김은지 정치팀장이 정치 현안을 샅샅이 훑어드리겠습니다. \n\n●시사IN 홈페이지 https://www.sisain.co.kr/\n○시사IN 구독 https://subscribe.sisain.co.kr/\n○시사IN 후원 https://support.sisain.co.kr\n○시사IN 후원 계좌 하나은행 109-910017-83704 ㈜참언론\n○시사IN paypal http://paypal.me/sisain\n● 광고 문의 webmaster@sisain.co.kr\n\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/trmysMk0KktWKxHZLJFrZ_NjpqiYyQUmTG5wOHNjO6ap-lYLBj8hYxSv9uy9qVO0-w2CQYCEKg=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/trmysMk0KktWKxHZLJFrZ_NjpqiYyQUmTG5wOHNjO6ap-lYLBj8hYxSv9uy9qVO0-w2CQYCEKg=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/trmysMk0KktWKxHZLJFrZ_NjpqiYyQUmTG5wOHNjO6ap-lYLBj8hYxSv9uy9qVO0-w2CQYCEKg=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 666000,
+      "viewCount": 191324441,
+      "videoCount": 3184,
+      "lastUpdated": "2025-08-22T13:36:18.328940Z"
     }
   },
-  "lastUpdated": "2025-08-21T10:45:13.473904Z",
-  "totalVideos": 27,
-  "totalChannels": 4
+  "lastUpdated": "2025-08-22T13:36:18.328940Z",
+  "totalVideos": 28,
+  "totalChannels": 5
 }

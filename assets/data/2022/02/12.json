@@ -1364,6 +1364,23 @@
       "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
       "channelName": "뉴스TVCHOSUN",
       "collectedAt": "2025-08-21T10:44:33Z"
+    },
+    "rGMHARcIU6I": {
+      "videoId": "rGMHARcIU6I",
+      "title": "언론에 ‘파산’ 경고한 윤석열",
+      "description": "윤석열 국민의힘 대선 후보가 2월12일 호남 순회 중 언론의 공정성 문제를 제기하며 ‘언론사 파산’을 언급했습니다. \n윤 후보는 이날 오후 전라남도 순천에서 여수로 이동하는 열차에서 기자회견을 열고 “진실 왜곡한 기사 하나가 언론사 하나를 파산하게 할 수 있는 강력한 시스템이 우리의 언론 인프라로 자리를 잡았다면, (언론의) 공정성이니 이런 문제는 전혀 문제 없다고 본다”라고 말했습니다. \n이날 윤 후보의 발언에 대해 이준석 대표는 “후보의 말은 법적 절차에 의지할 수밖에 없는 상황이 되었을 때에 대한 원칙론적인 말이다. 언론의 자유를 탄압하거나 제약하기 위한 조치에 대해 동의한 건 아니다”라고 해명했습니다.",
+      "publishedAt": "2022-02-12T10:13:33Z",
+      "duration": "PT4M3S",
+      "viewCount": 3775,
+      "likeCount": 235,
+      "commentCount": 87,
+      "tags": [],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2022-02-12T10:13:33Z",
+      "channelId": "UCaVuYo_tiiNzTSmlnM-A2kQ",
+      "channelName": "시사IN(시사인)",
+      "collectedAt": "2025-08-22T13:36:10Z"
     }
   },
   "channels": {
@@ -1555,9 +1572,36 @@
       "viewCount": 4319423561,
       "videoCount": 150855,
       "lastUpdated": "2025-08-21T10:26:48.476188Z"
+    },
+    "UCaVuYo_tiiNzTSmlnM-A2kQ": {
+      "channelId": "UCaVuYo_tiiNzTSmlnM-A2kQ",
+      "channelName": "시사IN(시사인)",
+      "channelUrl": "@sisaineditor",
+      "channelDescription": "더 나은 세상을 만드는 저널리즘, \n시사IN이 만든 라이브 방송 \n시사IN 유튜브 편성 안내\n\n🔴 [월~목 오후 5시] 김은지의 뉴스IN \n김은지 정치팀장이 정치 현안을 샅샅이 훑어드리겠습니다. \n\n●시사IN 홈페이지 https://www.sisain.co.kr/\n○시사IN 구독 https://subscribe.sisain.co.kr/\n○시사IN 후원 https://support.sisain.co.kr\n○시사IN 후원 계좌 하나은행 109-910017-83704 ㈜참언론\n○시사IN paypal http://paypal.me/sisain\n● 광고 문의 webmaster@sisain.co.kr\n\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/trmysMk0KktWKxHZLJFrZ_NjpqiYyQUmTG5wOHNjO6ap-lYLBj8hYxSv9uy9qVO0-w2CQYCEKg=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/trmysMk0KktWKxHZLJFrZ_NjpqiYyQUmTG5wOHNjO6ap-lYLBj8hYxSv9uy9qVO0-w2CQYCEKg=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/trmysMk0KktWKxHZLJFrZ_NjpqiYyQUmTG5wOHNjO6ap-lYLBj8hYxSv9uy9qVO0-w2CQYCEKg=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 666000,
+      "viewCount": 191324441,
+      "videoCount": 3184,
+      "lastUpdated": "2025-08-22T13:36:10.090275Z"
     }
   },
-  "lastUpdated": "2025-08-21T10:44:33.970103Z",
-  "totalVideos": 57,
-  "totalChannels": 7
+  "lastUpdated": "2025-08-22T13:36:10.090275Z",
+  "totalVideos": 58,
+  "totalChannels": 8
 }

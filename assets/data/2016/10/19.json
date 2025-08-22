@@ -631,6 +631,65 @@
       "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
       "channelName": "뉴스TVCHOSUN",
       "collectedAt": "2025-08-21T10:45:55Z"
+    },
+    "CQY3po1UE2I": {
+      "videoId": "CQY3po1UE2I",
+      "title": "송지혜 기자의 색깔 있는 신간 소개 - 475호",
+      "description": "[입사 거부서] 쥘리앵 프레비외 지음 정흥섭옮김,클 펴냄\n[살아 있는 것의 경제학] 우석훈 지음, 새로운현재 펴냄\n[빙하는 움직인다] 송민순 지음, 창비 펴냄\n[보이지 않는 건축 움직이는 도시] 승효상 지음, 돌베개 펴냄\n[니나 내나] 이동은·정이용 지음 애니북스 펴냄\n[크로스 토크] 코니 윌리스 지음, 최세진 옮김 아작 펴냄",
+      "publishedAt": "2016-10-19T13:12:12Z",
+      "duration": "PT12M31S",
+      "viewCount": 689,
+      "likeCount": 5,
+      "commentCount": 0,
+      "tags": [
+        "입사 거부서",
+        "살아 있는 것의 경제학",
+        "빙하는 움직인다",
+        "보이지 않는 건축 움직이는 도시",
+        "니나 내나",
+        "크로스 토크",
+        "시사인",
+        "시사IN",
+        "송지혜",
+        "신간"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2016-10-19T13:12:12Z",
+      "channelId": "UCaVuYo_tiiNzTSmlnM-A2kQ",
+      "channelName": "시사IN(시사인)",
+      "collectedAt": "2025-08-22T13:36:34Z"
+    },
+    "X2g2kI8Yhik": {
+      "videoId": "X2g2kI8Yhik",
+      "title": "김영미의 눈높이 국제뉴스 2016년 10월 18일",
+      "description": "김영미의 눈높이 국제뉴스 2016년 10월 18일",
+      "publishedAt": "2016-10-19T01:06:40Z",
+      "duration": "PT37M21S",
+      "viewCount": 209,
+      "likeCount": 0,
+      "commentCount": 0,
+      "tags": [
+        "김영미",
+        "시사IN",
+        "시사인",
+        "국제뉴스",
+        "마린 뷔소니에",
+        "국경없는의사회",
+        "시리아",
+        "barrel bombs",
+        "MSF",
+        "보코하람",
+        "알레포",
+        "병원 폭격",
+        "통폭탄"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2016-10-19T01:06:40Z",
+      "channelId": "UCaVuYo_tiiNzTSmlnM-A2kQ",
+      "channelName": "시사IN(시사인)",
+      "collectedAt": "2025-08-22T13:36:34Z"
     }
   },
   "channels": {
@@ -741,9 +800,36 @@
       "viewCount": 4319423561,
       "videoCount": 150855,
       "lastUpdated": "2025-08-21T10:28:30.273241Z"
+    },
+    "UCaVuYo_tiiNzTSmlnM-A2kQ": {
+      "channelId": "UCaVuYo_tiiNzTSmlnM-A2kQ",
+      "channelName": "시사IN(시사인)",
+      "channelUrl": "@sisaineditor",
+      "channelDescription": "더 나은 세상을 만드는 저널리즘, \n시사IN이 만든 라이브 방송 \n시사IN 유튜브 편성 안내\n\n🔴 [월~목 오후 5시] 김은지의 뉴스IN \n김은지 정치팀장이 정치 현안을 샅샅이 훑어드리겠습니다. \n\n●시사IN 홈페이지 https://www.sisain.co.kr/\n○시사IN 구독 https://subscribe.sisain.co.kr/\n○시사IN 후원 https://support.sisain.co.kr\n○시사IN 후원 계좌 하나은행 109-910017-83704 ㈜참언론\n○시사IN paypal http://paypal.me/sisain\n● 광고 문의 webmaster@sisain.co.kr\n\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/trmysMk0KktWKxHZLJFrZ_NjpqiYyQUmTG5wOHNjO6ap-lYLBj8hYxSv9uy9qVO0-w2CQYCEKg=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/trmysMk0KktWKxHZLJFrZ_NjpqiYyQUmTG5wOHNjO6ap-lYLBj8hYxSv9uy9qVO0-w2CQYCEKg=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/trmysMk0KktWKxHZLJFrZ_NjpqiYyQUmTG5wOHNjO6ap-lYLBj8hYxSv9uy9qVO0-w2CQYCEKg=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 666000,
+      "viewCount": 191324441,
+      "videoCount": 3184,
+      "lastUpdated": "2025-08-22T13:36:34.088186Z"
     }
   },
-  "lastUpdated": "2025-08-21T10:45:55.340912Z",
-  "totalVideos": 23,
-  "totalChannels": 4
+  "lastUpdated": "2025-08-22T13:36:34.090238Z",
+  "totalVideos": 25,
+  "totalChannels": 5
 }

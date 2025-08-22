@@ -1488,15 +1488,15 @@
       "publishedAt": "2024-12-08T03:00:29Z",
       "duration": "PT15M51S",
       "viewCount": 399432,
-      "likeCount": 24242,
+      "likeCount": 24241,
       "commentCount": 4635,
       "tags": [],
       "liveBroadcastContent": "none",
       "liveStreamingDetails": null,
-      "actualPubAt": null,
+      "actualPubAt": "2024-12-08T03:00:29Z",
       "channelId": "UCOB62fKRT7b73X7tRxMuN2g",
       "channelName": "박종훈의 지식한방",
-      "collectedAt": "2025-08-22T09:49:35Z"
+      "collectedAt": "2025-08-22T13:35:05Z"
     },
     "22m6ExpfgnA": {
       "videoId": "22m6ExpfgnA",
@@ -1584,6 +1584,27 @@
       "channelId": "UCsqWTNmoaNPvsfeCgaD7BpQ",
       "channelName": "장르만 여의도",
       "collectedAt": "2025-08-22T13:25:38Z"
+    },
+    "8CP_TTWPQ1g": {
+      "videoId": "8CP_TTWPQ1g",
+      "title": "[공개방송] 윤석열 탄핵 무산, 성난 사람들 모여라! (김준일, 김종대, 김민하, 신인규, 장성철, 박성태, 주진우, 함세웅)｜[김은지의 뉴스IN] #윤석열 #김건희 #한동훈",
+      "description": "윤석열 탄핵 무산! 2024 비상시국 라이브!\n\n제작진\n프로듀서: 최한솔·김세욱·이한울 PD\n진행: 김영화 기자\n출연: 김은지 기자, 주진우 기자, 함세웅 신부, 김준일 시사평론가, 김민하 시사평론가, 김종대 전 의원, 신인규 변호사,  박성태 사람과사회연구소 연구실장, 장성철 공론센터 소장\n\n💥시사IN 유튜브 멤버십에 함께해주세요 :)\nhttps://www.youtube.com/channel/UCaVuYo_tiiNzTSmlnM-A2kQ/join\n\n●시사IN 홈페이지 https://www.sisain.co.kr/\n○시사IN 구독 https://subscribe.sisain.co.kr/\n○시사IN 후원 https://support.sisain.co.kr\n○시사IN 후원 계좌 하나은행 109-910017-83704 ㈜참언론\n○시사IN paypal http://paypal.me/sisain\n●광고 문의 webmaster@sisain.co.kr",
+      "publishedAt": "2024-12-08T08:19:05Z",
+      "duration": "PT3H12M45S",
+      "viewCount": 292701,
+      "likeCount": 11303,
+      "commentCount": 400,
+      "tags": [],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": {
+        "actualStartTime": "2024-12-08T04:56:16Z",
+        "actualEndTime": "2024-12-08T08:08:48Z",
+        "scheduledStartTime": "2024-12-08T05:00:00Z"
+      },
+      "actualPubAt": "2024-12-08T04:56:16Z",
+      "channelId": "UCaVuYo_tiiNzTSmlnM-A2kQ",
+      "channelName": "시사IN(시사인)",
+      "collectedAt": "2025-08-22T13:35:05Z"
     }
   },
   "channels": {
@@ -1744,10 +1765,10 @@
           "height": 800
         }
       },
-      "subscriberCount": 777000,
-      "viewCount": 111320909,
+      "subscriberCount": 778000,
+      "viewCount": 111367955,
       "videoCount": 275,
-      "lastUpdated": "2025-08-22T09:49:35.630468Z"
+      "lastUpdated": "2025-08-22T13:35:05.638675Z"
     },
     "UCsqWTNmoaNPvsfeCgaD7BpQ": {
       "channelId": "UCsqWTNmoaNPvsfeCgaD7BpQ",
@@ -1775,9 +1796,36 @@
       "viewCount": 201874279,
       "videoCount": 3038,
       "lastUpdated": "2025-08-22T13:25:38.496205Z"
+    },
+    "UCaVuYo_tiiNzTSmlnM-A2kQ": {
+      "channelId": "UCaVuYo_tiiNzTSmlnM-A2kQ",
+      "channelName": "시사IN(시사인)",
+      "channelUrl": "@sisaineditor",
+      "channelDescription": "더 나은 세상을 만드는 저널리즘, \n시사IN이 만든 라이브 방송 \n시사IN 유튜브 편성 안내\n\n🔴 [월~목 오후 5시] 김은지의 뉴스IN \n김은지 정치팀장이 정치 현안을 샅샅이 훑어드리겠습니다. \n\n●시사IN 홈페이지 https://www.sisain.co.kr/\n○시사IN 구독 https://subscribe.sisain.co.kr/\n○시사IN 후원 https://support.sisain.co.kr\n○시사IN 후원 계좌 하나은행 109-910017-83704 ㈜참언론\n○시사IN paypal http://paypal.me/sisain\n● 광고 문의 webmaster@sisain.co.kr\n\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/trmysMk0KktWKxHZLJFrZ_NjpqiYyQUmTG5wOHNjO6ap-lYLBj8hYxSv9uy9qVO0-w2CQYCEKg=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/trmysMk0KktWKxHZLJFrZ_NjpqiYyQUmTG5wOHNjO6ap-lYLBj8hYxSv9uy9qVO0-w2CQYCEKg=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/trmysMk0KktWKxHZLJFrZ_NjpqiYyQUmTG5wOHNjO6ap-lYLBj8hYxSv9uy9qVO0-w2CQYCEKg=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 666000,
+      "viewCount": 191324441,
+      "videoCount": 3184,
+      "lastUpdated": "2025-08-22T13:35:05.638675Z"
     }
   },
-  "lastUpdated": "2025-08-22T13:25:38.496205Z",
-  "totalVideos": 57,
-  "totalChannels": 7
+  "lastUpdated": "2025-08-22T13:35:05.646762Z",
+  "totalVideos": 58,
+  "totalChannels": 8
 }

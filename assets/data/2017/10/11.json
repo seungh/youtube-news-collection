@@ -1039,6 +1039,34 @@
       "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
       "channelName": "뉴스TVCHOSUN",
       "collectedAt": "2025-08-21T10:45:45Z"
+    },
+    "Q42UKlKWc_4": {
+      "videoId": "Q42UKlKWc_4",
+      "title": "시사IN 창간 10주년 축하 메시지 - 배춘환 독자",
+      "description": "노란봉투 캠페인, 4만7000원의 기적 기억 하시나요? 시사IN 독자였던 배춘환씨가 편집국에 아이 태권도비를 아껴 보낸 편지에서 시작되었습니다. 시사IN 독자이자 노란봉투 캠페인 제안자인 배춘환씨의 창간 10주년 축하 메시지입니다.\n\n▶창간 10주년  http://10th.sisain.co.kr/\n▶시사IN 응원하기 pay.sisainlive.com",
+      "publishedAt": "2017-10-11T01:01:52Z",
+      "duration": "PT2M30S",
+      "viewCount": 172,
+      "likeCount": 4,
+      "commentCount": 1,
+      "tags": [
+        "시사인",
+        "시사IN",
+        "배춘환",
+        "노란봉투",
+        "4만7천원",
+        "47000",
+        "창간",
+        "창간10주년",
+        "10주년",
+        "4만7000원"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2017-10-11T01:01:52Z",
+      "channelId": "UCaVuYo_tiiNzTSmlnM-A2kQ",
+      "channelName": "시사IN(시사인)",
+      "collectedAt": "2025-08-22T13:36:33Z"
     }
   },
   "channels": {
@@ -1095,9 +1123,36 @@
       "viewCount": 4319423561,
       "videoCount": 150855,
       "lastUpdated": "2025-08-21T10:28:17.598049Z"
+    },
+    "UCaVuYo_tiiNzTSmlnM-A2kQ": {
+      "channelId": "UCaVuYo_tiiNzTSmlnM-A2kQ",
+      "channelName": "시사IN(시사인)",
+      "channelUrl": "@sisaineditor",
+      "channelDescription": "더 나은 세상을 만드는 저널리즘, \n시사IN이 만든 라이브 방송 \n시사IN 유튜브 편성 안내\n\n🔴 [월~목 오후 5시] 김은지의 뉴스IN \n김은지 정치팀장이 정치 현안을 샅샅이 훑어드리겠습니다. \n\n●시사IN 홈페이지 https://www.sisain.co.kr/\n○시사IN 구독 https://subscribe.sisain.co.kr/\n○시사IN 후원 https://support.sisain.co.kr\n○시사IN 후원 계좌 하나은행 109-910017-83704 ㈜참언론\n○시사IN paypal http://paypal.me/sisain\n● 광고 문의 webmaster@sisain.co.kr\n\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/trmysMk0KktWKxHZLJFrZ_NjpqiYyQUmTG5wOHNjO6ap-lYLBj8hYxSv9uy9qVO0-w2CQYCEKg=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/trmysMk0KktWKxHZLJFrZ_NjpqiYyQUmTG5wOHNjO6ap-lYLBj8hYxSv9uy9qVO0-w2CQYCEKg=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/trmysMk0KktWKxHZLJFrZ_NjpqiYyQUmTG5wOHNjO6ap-lYLBj8hYxSv9uy9qVO0-w2CQYCEKg=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 666000,
+      "viewCount": 191324441,
+      "videoCount": 3184,
+      "lastUpdated": "2025-08-22T13:36:33.321595Z"
     }
   },
-  "lastUpdated": "2025-08-21T10:45:45.852152Z",
-  "totalVideos": 38,
-  "totalChannels": 2
+  "lastUpdated": "2025-08-22T13:36:33.321595Z",
+  "totalVideos": 39,
+  "totalChannels": 3
 }

@@ -2719,6 +2719,29 @@
       "channelId": "UCsqWTNmoaNPvsfeCgaD7BpQ",
       "channelName": "장르만 여의도",
       "collectedAt": "2025-08-22T13:25:11Z"
+    },
+    "NpeuivtngLs": {
+      "videoId": "NpeuivtngLs",
+      "title": "외국인 선원 수기안토 씨 \"귀 잘 안들리는 할매들 업고 산불 피했다\" \"장기거주 비자 검토? 대한민국 너무 감사해\" [한판승부]",
+      "description": "[한판승부]외국인 선원 수기안토 씨 \"귀 잘 안들리는 할매들 업고 산불 피했다\" \"장기거주 비자 검토? 대한민국 너무 감사해\"\n산불 속 할머니들 업고 뛴 외국인, 수기안토 씨(전화인터뷰)\n\n#수기안토 #인도네시아 #영덕산불 #미담 #박재홍의한판승부\n\n◎ 평일(월~금) 오후 6시~7시 30분\n◎ 유튜브 실시간 방송 \n-https://www.youtube.com/channel/UCV9gIwasozKlwz5U2Sa2q6g\n◎ 라디오 : 표준FM 98.1 \n◎ 모바일 듣기 : 레인보우 어플",
+      "publishedAt": "2025-04-04T21:00:17Z",
+      "duration": "PT6M31S",
+      "viewCount": 4163,
+      "likeCount": 119,
+      "commentCount": 11,
+      "tags": [
+        "박재홍의한판승부",
+        "박재홍",
+        "CBS",
+        "수기안토",
+        "영덕산불"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2025-04-04T21:00:17Z",
+      "channelId": "UCV9gIwasozKlwz5U2Sa2q6g",
+      "channelName": "박재홍의 한판승부",
+      "collectedAt": "2025-08-22T13:37:07Z"
     }
   },
   "channels": {
@@ -2856,9 +2879,36 @@
       "viewCount": 201874279,
       "videoCount": 3038,
       "lastUpdated": "2025-08-22T13:25:11.253758Z"
+    },
+    "UCV9gIwasozKlwz5U2Sa2q6g": {
+      "channelId": "UCV9gIwasozKlwz5U2Sa2q6g",
+      "channelName": "박재홍의 한판승부",
+      "channelUrl": "@cbs_hanpan",
+      "channelDescription": "CBS 라디오 '박재홍의 한판승부' 공식채널입니다.\n(월~금 저녁 6:00-7:30 - 본방송 / 화,목 저녁 7:30~8:15 - 더 라커룸 / 98.1MHz, 레인보우앱, 유튜브)\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/guZNvXSgAM9HUoqEmZFqv3cGB5tY2kJA3-2MA4M8T6tx8w-8-oI7XYj1uhu60LcUvUf7jPDS=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/guZNvXSgAM9HUoqEmZFqv3cGB5tY2kJA3-2MA4M8T6tx8w-8-oI7XYj1uhu60LcUvUf7jPDS=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/guZNvXSgAM9HUoqEmZFqv3cGB5tY2kJA3-2MA4M8T6tx8w-8-oI7XYj1uhu60LcUvUf7jPDS=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 904000,
+      "viewCount": 662049830,
+      "videoCount": 14573,
+      "lastUpdated": "2025-08-22T13:37:07.265330Z"
     }
   },
-  "lastUpdated": "2025-08-22T13:25:11.253758Z",
-  "totalVideos": 104,
-  "totalChannels": 5
+  "lastUpdated": "2025-08-22T13:37:07.267325Z",
+  "totalVideos": 105,
+  "totalChannels": 6
 }

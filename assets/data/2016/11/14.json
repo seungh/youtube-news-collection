@@ -265,6 +265,56 @@
       "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
       "channelName": "뉴스TVCHOSUN",
       "collectedAt": "2025-08-21T10:46:31Z"
+    },
+    "Gd6HtTMa9cc": {
+      "videoId": "Gd6HtTMa9cc",
+      "title": "김제동의 헌법강의",
+      "description": "시사IN 인터뷰쇼 김제동 편\n김제동의 헌법 강의",
+      "publishedAt": "2016-11-14T01:54:22Z",
+      "duration": "PT10M19S",
+      "viewCount": 123953,
+      "likeCount": 278,
+      "commentCount": 0,
+      "tags": [
+        "시사IN",
+        "시사인",
+        "김제동",
+        "주진우"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2016-11-14T01:54:22Z",
+      "channelId": "UCaVuYo_tiiNzTSmlnM-A2kQ",
+      "channelName": "시사IN(시사인)",
+      "collectedAt": "2025-08-22T13:36:33Z"
+    },
+    "6EQFO3rOSZ8": {
+      "videoId": "6EQFO3rOSZ8",
+      "title": "시사IN 479호 미리보기",
+      "description": "[커버스토리]웰컴 투 트럼프 월드\n미국이 지금껏 가보지 않았던 세계로 향했다. 가장 기괴했던 대선 후보 도널드 트럼프가 이제 미합중국 45대 대통령이다. 이 놀라운 선거를 이해하는 방법을 다섯 가지 키워드로 들여다봤다.\n\n[특집/최순실의 ‘꼼꼼한 수금’]\n회장이라는 여자, 안선생이라는 남자\n시사IN은 K스포츠재단 내부 문건을 다수 입수했다. 관계자들의 증언도 확보했다. 이는 최순실씨가 K스포츠재단의 실질적 주인이었음을 말한다. 그럼에도 최씨는 여전히 모든 관련 혐의를 부인한다.",
+      "publishedAt": "2016-11-14T10:03:25Z",
+      "duration": "PT20M48S",
+      "viewCount": 262,
+      "likeCount": 7,
+      "commentCount": 0,
+      "tags": [
+        "시사인",
+        "시사IN",
+        "최순실",
+        "트럼프",
+        "K스포츠재단",
+        "고제규",
+        "김동인",
+        "문건",
+        "내부 문건",
+        "45대 대통령"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2016-11-14T10:03:25Z",
+      "channelId": "UCaVuYo_tiiNzTSmlnM-A2kQ",
+      "channelName": "시사IN(시사인)",
+      "collectedAt": "2025-08-22T13:36:33Z"
     }
   },
   "channels": {
@@ -375,9 +425,36 @@
       "viewCount": 4319423561,
       "videoCount": 150855,
       "lastUpdated": "2025-08-21T10:29:07.274188Z"
+    },
+    "UCaVuYo_tiiNzTSmlnM-A2kQ": {
+      "channelId": "UCaVuYo_tiiNzTSmlnM-A2kQ",
+      "channelName": "시사IN(시사인)",
+      "channelUrl": "@sisaineditor",
+      "channelDescription": "더 나은 세상을 만드는 저널리즘, \n시사IN이 만든 라이브 방송 \n시사IN 유튜브 편성 안내\n\n🔴 [월~목 오후 5시] 김은지의 뉴스IN \n김은지 정치팀장이 정치 현안을 샅샅이 훑어드리겠습니다. \n\n●시사IN 홈페이지 https://www.sisain.co.kr/\n○시사IN 구독 https://subscribe.sisain.co.kr/\n○시사IN 후원 https://support.sisain.co.kr\n○시사IN 후원 계좌 하나은행 109-910017-83704 ㈜참언론\n○시사IN paypal http://paypal.me/sisain\n● 광고 문의 webmaster@sisain.co.kr\n\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/trmysMk0KktWKxHZLJFrZ_NjpqiYyQUmTG5wOHNjO6ap-lYLBj8hYxSv9uy9qVO0-w2CQYCEKg=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/trmysMk0KktWKxHZLJFrZ_NjpqiYyQUmTG5wOHNjO6ap-lYLBj8hYxSv9uy9qVO0-w2CQYCEKg=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/trmysMk0KktWKxHZLJFrZ_NjpqiYyQUmTG5wOHNjO6ap-lYLBj8hYxSv9uy9qVO0-w2CQYCEKg=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 666000,
+      "viewCount": 191324441,
+      "videoCount": 3184,
+      "lastUpdated": "2025-08-22T13:36:33.560237Z"
     }
   },
-  "lastUpdated": "2025-08-21T10:46:31.322738Z",
-  "totalVideos": 10,
-  "totalChannels": 4
+  "lastUpdated": "2025-08-22T13:36:33.568540Z",
+  "totalVideos": 12,
+  "totalChannels": 5
 }

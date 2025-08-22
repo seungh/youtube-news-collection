@@ -640,6 +640,31 @@
       "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
       "channelName": "뉴스TVCHOSUN",
       "collectedAt": "2025-08-21T10:45:20Z"
+    },
+    "We5jTJat9c8": {
+      "videoId": "We5jTJat9c8",
+      "title": "대림동에 CCTV가 많은 이유",
+      "description": "[시사IN 기자가 들려주는 대림동 Q&A]\n김동인 기자는 2018년 12월2일부터 2019년 1월2일까지 한 달간 대림동에 거주하며 ʻ동네 주민’의 시선으로 주민들의 삶을 들여다보았습니다. 김동인 기자가 취재하며 가장 어려웠던 점은 무엇이었을까요? 취재 기자가 직접 카메라를 들고 대림동 구석구석을 살펴봤습니다. 더 자세한 이야기는 '대림동 한 달 살기' 특별페이지(https://daerim.sisain.co.kr)에서 살펴보실 수 있습니다.\n\n기사 읽기 : https://daerim.sisain.co.kr\n\n* 촬영 : 이준용, 신선영, 김동인\n* 연출 : 이준용(https://vimeo.com/jyleeworks)",
+      "publishedAt": "2019-02-02T10:39:36Z",
+      "duration": "PT3M1S",
+      "viewCount": 1769,
+      "likeCount": 52,
+      "commentCount": 5,
+      "tags": [
+        "시사인",
+        "시사IN",
+        "대림동",
+        "재한조선족",
+        "중국동포",
+        "대림동맛집",
+        "대림동한달살기"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2019-02-02T10:39:36Z",
+      "channelId": "UCaVuYo_tiiNzTSmlnM-A2kQ",
+      "channelName": "시사IN(시사인)",
+      "collectedAt": "2025-08-22T13:36:33Z"
     }
   },
   "channels": {
@@ -777,9 +802,36 @@
       "viewCount": 4319423561,
       "videoCount": 150855,
       "lastUpdated": "2025-08-21T10:27:47.103732Z"
+    },
+    "UCaVuYo_tiiNzTSmlnM-A2kQ": {
+      "channelId": "UCaVuYo_tiiNzTSmlnM-A2kQ",
+      "channelName": "시사IN(시사인)",
+      "channelUrl": "@sisaineditor",
+      "channelDescription": "더 나은 세상을 만드는 저널리즘, \n시사IN이 만든 라이브 방송 \n시사IN 유튜브 편성 안내\n\n🔴 [월~목 오후 5시] 김은지의 뉴스IN \n김은지 정치팀장이 정치 현안을 샅샅이 훑어드리겠습니다. \n\n●시사IN 홈페이지 https://www.sisain.co.kr/\n○시사IN 구독 https://subscribe.sisain.co.kr/\n○시사IN 후원 https://support.sisain.co.kr\n○시사IN 후원 계좌 하나은행 109-910017-83704 ㈜참언론\n○시사IN paypal http://paypal.me/sisain\n● 광고 문의 webmaster@sisain.co.kr\n\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/trmysMk0KktWKxHZLJFrZ_NjpqiYyQUmTG5wOHNjO6ap-lYLBj8hYxSv9uy9qVO0-w2CQYCEKg=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/trmysMk0KktWKxHZLJFrZ_NjpqiYyQUmTG5wOHNjO6ap-lYLBj8hYxSv9uy9qVO0-w2CQYCEKg=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/trmysMk0KktWKxHZLJFrZ_NjpqiYyQUmTG5wOHNjO6ap-lYLBj8hYxSv9uy9qVO0-w2CQYCEKg=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 666000,
+      "viewCount": 191324441,
+      "videoCount": 3184,
+      "lastUpdated": "2025-08-22T13:36:33.043316Z"
     }
   },
-  "lastUpdated": "2025-08-21T10:45:20.080974Z",
-  "totalVideos": 23,
-  "totalChannels": 5
+  "lastUpdated": "2025-08-22T13:36:33.044371Z",
+  "totalVideos": 24,
+  "totalChannels": 6
 }

@@ -403,6 +403,55 @@
       "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
       "channelName": "뉴스TVCHOSUN",
       "collectedAt": "2025-08-21T10:46:24Z"
+    },
+    "0Km5m9GOiZk": {
+      "videoId": "0Km5m9GOiZk",
+      "title": "아무도 그렇게 죽지 않았으면",
+      "description": "이랑씨가 4년 만에 발표한 두 번째 정규 앨범 '신의 놀이'는 CD가 아닌 책의 형태로 발매됐다. 죽음을 주로 다룬 일종의 ‘자살 방지 앨범’이다.",
+      "publishedAt": "2016-08-04T08:49:32Z",
+      "duration": "PT1M53S",
+      "viewCount": 5674,
+      "likeCount": 129,
+      "commentCount": 3,
+      "tags": [
+        "시사인",
+        "시사IN",
+        "이랑",
+        "인터뷰",
+        "신의놀이",
+        "신의 놀이"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2016-08-04T08:49:32Z",
+      "channelId": "UCaVuYo_tiiNzTSmlnM-A2kQ",
+      "channelName": "시사IN(시사인)",
+      "collectedAt": "2025-08-22T13:36:39Z"
+    },
+    "sotctSex76A": {
+      "videoId": "sotctSex76A",
+      "title": "'아이돌 연감 2015' 편찬 작업을 한 웹진 ‘아이돌로지’의 미묘 편집장.",
+      "description": "'아이돌 연감 2015' 편찬 작업을 한 웹진 ‘아이돌로지’의 미묘 편집장.",
+      "publishedAt": "2016-08-04T06:09:35Z",
+      "duration": "PT1M10S",
+      "viewCount": 192,
+      "likeCount": 3,
+      "commentCount": 0,
+      "tags": [
+        "시사인",
+        "시사IN",
+        "미묘",
+        "아이돌",
+        "연감",
+        "아이돌 연감",
+        "2015"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2016-08-04T06:09:35Z",
+      "channelId": "UCaVuYo_tiiNzTSmlnM-A2kQ",
+      "channelName": "시사IN(시사인)",
+      "collectedAt": "2025-08-22T13:36:39Z"
     }
   },
   "channels": {
@@ -513,9 +562,36 @@
       "viewCount": 4319423561,
       "videoCount": 150855,
       "lastUpdated": "2025-08-21T10:29:01.771613Z"
+    },
+    "UCaVuYo_tiiNzTSmlnM-A2kQ": {
+      "channelId": "UCaVuYo_tiiNzTSmlnM-A2kQ",
+      "channelName": "시사IN(시사인)",
+      "channelUrl": "@sisaineditor",
+      "channelDescription": "더 나은 세상을 만드는 저널리즘, \n시사IN이 만든 라이브 방송 \n시사IN 유튜브 편성 안내\n\n🔴 [월~목 오후 5시] 김은지의 뉴스IN \n김은지 정치팀장이 정치 현안을 샅샅이 훑어드리겠습니다. \n\n●시사IN 홈페이지 https://www.sisain.co.kr/\n○시사IN 구독 https://subscribe.sisain.co.kr/\n○시사IN 후원 https://support.sisain.co.kr\n○시사IN 후원 계좌 하나은행 109-910017-83704 ㈜참언론\n○시사IN paypal http://paypal.me/sisain\n● 광고 문의 webmaster@sisain.co.kr\n\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/trmysMk0KktWKxHZLJFrZ_NjpqiYyQUmTG5wOHNjO6ap-lYLBj8hYxSv9uy9qVO0-w2CQYCEKg=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/trmysMk0KktWKxHZLJFrZ_NjpqiYyQUmTG5wOHNjO6ap-lYLBj8hYxSv9uy9qVO0-w2CQYCEKg=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/trmysMk0KktWKxHZLJFrZ_NjpqiYyQUmTG5wOHNjO6ap-lYLBj8hYxSv9uy9qVO0-w2CQYCEKg=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 666000,
+      "viewCount": 191324441,
+      "videoCount": 3184,
+      "lastUpdated": "2025-08-22T13:36:39.042749Z"
     }
   },
-  "lastUpdated": "2025-08-21T10:46:24.225148Z",
-  "totalVideos": 15,
-  "totalChannels": 4
+  "lastUpdated": "2025-08-22T13:36:39.050045Z",
+  "totalVideos": 17,
+  "totalChannels": 5
 }

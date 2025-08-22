@@ -837,6 +837,56 @@
       "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
       "channelName": "뉴스TVCHOSUN",
       "collectedAt": "2025-08-21T10:44:15Z"
+    },
+    "3KW47LZ24JY": {
+      "videoId": "3KW47LZ24JY",
+      "title": "이준석 가처분 판사가 좌파? 주호영 그 입 다물라 #이준석 #주호영 #황정수 #shorts",
+      "description": "풀영상 링크 : https://www.youtube.com/watch?v=cx_7fUzfNQY\n이준석 가처분 판사가 좌파? 주호영 그 입 다물라 #이준석 #주호영 #황정수 #shorts[한판승부]\n\n◎ 평일(월~금) 오후 6시 25분~8시\n◎ 유튜브 실시간 방송 \n-https://www.youtube.com/channel/UCV9gIwasozKlwz5U2Sa2q6g\n◎ 라디오 : 표준FM 98.1 \n◎모바일 듣기 : 레인보우 어플",
+      "publishedAt": "2022-08-27T08:30:00Z",
+      "duration": "PT56S",
+      "viewCount": 13706,
+      "likeCount": 0,
+      "commentCount": 23,
+      "tags": [
+        "CBS",
+        "CBS 라디오",
+        "FM98.1",
+        "한판승부",
+        "진중권",
+        "김성회",
+        "박재홍"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2022-08-27T08:30:00Z",
+      "channelId": "UCV9gIwasozKlwz5U2Sa2q6g",
+      "channelName": "박재홍의 한판승부",
+      "collectedAt": "2025-08-22T13:37:16Z"
+    },
+    "vdXgVmLOPoc": {
+      "videoId": "vdXgVmLOPoc",
+      "title": "윤석열의 리스크 네가지, 줄여서 샤샤샤? #윤석열 #김건희 #이재명 #shorts",
+      "description": "풀영상 링크 : https://youtu.be/Xb_LuwpshG8 \n\n윤석열의 리스크 네가지, 줄여서 샤샤샤? #윤석열 #김건희 #이재명 #shorts [한판승부] \n◎ 평일(월~금) 오후 6시 25분~8시\n◎ 유튜브 실시간 방송 \n-https://www.youtube.com/channel/UCV9gIwasozKlwz5U2Sa2q6g\n◎ 라디오 : 표준FM 98.1 \n◎모바일 듣기 : 레인보우 어플",
+      "publishedAt": "2022-08-27T04:17:16Z",
+      "duration": "PT39S",
+      "viewCount": 520352,
+      "likeCount": 0,
+      "commentCount": 199,
+      "tags": [
+        "CBS",
+        "CBS 라디오",
+        "FM98.1",
+        "한판승부",
+        "진중권",
+        "김성회",
+        "박재홍"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2022-08-27T04:17:16Z",
+      "channelId": "UCV9gIwasozKlwz5U2Sa2q6g",
+      "channelName": "박재홍의 한판승부",
+      "collectedAt": "2025-08-22T13:37:16Z"
     }
   },
   "channels": {
@@ -1001,9 +1051,36 @@
       "viewCount": 4319423561,
       "videoCount": 150855,
       "lastUpdated": "2025-08-21T10:26:25.908480Z"
+    },
+    "UCV9gIwasozKlwz5U2Sa2q6g": {
+      "channelId": "UCV9gIwasozKlwz5U2Sa2q6g",
+      "channelName": "박재홍의 한판승부",
+      "channelUrl": "@cbs_hanpan",
+      "channelDescription": "CBS 라디오 '박재홍의 한판승부' 공식채널입니다.\n(월~금 저녁 6:00-7:30 - 본방송 / 화,목 저녁 7:30~8:15 - 더 라커룸 / 98.1MHz, 레인보우앱, 유튜브)\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/guZNvXSgAM9HUoqEmZFqv3cGB5tY2kJA3-2MA4M8T6tx8w-8-oI7XYj1uhu60LcUvUf7jPDS=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/guZNvXSgAM9HUoqEmZFqv3cGB5tY2kJA3-2MA4M8T6tx8w-8-oI7XYj1uhu60LcUvUf7jPDS=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/guZNvXSgAM9HUoqEmZFqv3cGB5tY2kJA3-2MA4M8T6tx8w-8-oI7XYj1uhu60LcUvUf7jPDS=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 904000,
+      "viewCount": 662049830,
+      "videoCount": 14573,
+      "lastUpdated": "2025-08-22T13:37:16.333308Z"
     }
   },
-  "lastUpdated": "2025-08-21T10:44:15.872603Z",
-  "totalVideos": 31,
-  "totalChannels": 6
+  "lastUpdated": "2025-08-22T13:37:16.340287Z",
+  "totalVideos": 33,
+  "totalChannels": 7
 }

@@ -266,6 +266,53 @@
       "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
       "channelName": "뉴스TVCHOSUN",
       "collectedAt": "2025-08-21T10:46:12Z"
+    },
+    "2cJCq0PLZ1c": {
+      "videoId": "2cJCq0PLZ1c",
+      "title": "2015 시사IN 신년강좌  - 정태인",
+      "description": "정태인\n경제학자.\n참여정부에서 국민경제 비서관과 대통령 직속 동북아경제중심 추진위원회 기조실장을 지냈으며, 참여정부를 나와서는 한미FTA 저지 범국민운동본부 본부장을 역임했다. 새로운사회를여는연구원장으로 일하다 최근에는 칼 폴라니 연구소 창립을 준비 중이다. 저서로 [협동의 경제학] 등이 있다.",
+      "publishedAt": "2015-02-11T03:23:50Z",
+      "duration": "PT3M38S",
+      "viewCount": 1138,
+      "likeCount": 5,
+      "commentCount": 0,
+      "tags": [
+        "시사IN",
+        "시사인",
+        "신년강좌",
+        "정태인",
+        "경제",
+        "전자책",
+        "강좌"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2015-02-11T03:23:50Z",
+      "channelId": "UCaVuYo_tiiNzTSmlnM-A2kQ",
+      "channelName": "시사IN(시사인)",
+      "collectedAt": "2025-08-22T13:36:39Z"
+    },
+    "GWP7UgisaHw": {
+      "videoId": "GWP7UgisaHw",
+      "title": "2015 시사IN 신년강좌 - 서천석",
+      "description": "서천석\n소아정신과 전문의.\n서울신경정신과 원장과 행복한아이연구소장을 맡고 있다. [서천석의 마음연구소]라는 라디오 프로그램을 진행하면서 마음의 병을 어루만지는 세심한 처방과 대안으로 대중적인 호감과 신뢰를 쌓았다. 저서로 [아이와 함께 자라는 부모] 등이 있다.",
+      "publishedAt": "2015-02-11T03:24:21Z",
+      "duration": "PT3M46S",
+      "viewCount": 1640,
+      "likeCount": 6,
+      "commentCount": 0,
+      "tags": [
+        "서천석",
+        "시사인",
+        "시사IN",
+        "신년강좌"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2015-02-11T03:24:21Z",
+      "channelId": "UCaVuYo_tiiNzTSmlnM-A2kQ",
+      "channelName": "시사IN(시사인)",
+      "collectedAt": "2025-08-22T13:36:39Z"
     }
   },
   "channels": {
@@ -349,9 +396,36 @@
       "viewCount": 4319423561,
       "videoCount": 150855,
       "lastUpdated": "2025-08-21T10:28:51.821324Z"
+    },
+    "UCaVuYo_tiiNzTSmlnM-A2kQ": {
+      "channelId": "UCaVuYo_tiiNzTSmlnM-A2kQ",
+      "channelName": "시사IN(시사인)",
+      "channelUrl": "@sisaineditor",
+      "channelDescription": "더 나은 세상을 만드는 저널리즘, \n시사IN이 만든 라이브 방송 \n시사IN 유튜브 편성 안내\n\n🔴 [월~목 오후 5시] 김은지의 뉴스IN \n김은지 정치팀장이 정치 현안을 샅샅이 훑어드리겠습니다. \n\n●시사IN 홈페이지 https://www.sisain.co.kr/\n○시사IN 구독 https://subscribe.sisain.co.kr/\n○시사IN 후원 https://support.sisain.co.kr\n○시사IN 후원 계좌 하나은행 109-910017-83704 ㈜참언론\n○시사IN paypal http://paypal.me/sisain\n● 광고 문의 webmaster@sisain.co.kr\n\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/trmysMk0KktWKxHZLJFrZ_NjpqiYyQUmTG5wOHNjO6ap-lYLBj8hYxSv9uy9qVO0-w2CQYCEKg=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/trmysMk0KktWKxHZLJFrZ_NjpqiYyQUmTG5wOHNjO6ap-lYLBj8hYxSv9uy9qVO0-w2CQYCEKg=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/trmysMk0KktWKxHZLJFrZ_NjpqiYyQUmTG5wOHNjO6ap-lYLBj8hYxSv9uy9qVO0-w2CQYCEKg=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 666000,
+      "viewCount": 191324441,
+      "videoCount": 3184,
+      "lastUpdated": "2025-08-22T13:36:39.430486Z"
     }
   },
-  "lastUpdated": "2025-08-21T10:46:12.991575Z",
-  "totalVideos": 10,
-  "totalChannels": 3
+  "lastUpdated": "2025-08-22T13:36:39.431470Z",
+  "totalVideos": 12,
+  "totalChannels": 4
 }

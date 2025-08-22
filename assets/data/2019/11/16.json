@@ -855,6 +855,43 @@
       "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
       "channelName": "뉴스TVCHOSUN",
       "collectedAt": "2025-08-21T10:45:07Z"
+    },
+    "t18VYe2dKoY": {
+      "videoId": "t18VYe2dKoY",
+      "title": "[대입it-②] 회사에서 김밥을 싼다고? 김밥으로 대입 전형 설명하기",
+      "description": "교과, 학종, 수시, 정시... 들어보긴 했는데 잘 모르시겠다고요?\n\n낯선 대입제도, 친숙한 김밥으로 알아보면 어떨까요?\n\n[대입it] 시리즈는 총 4편으로, 화요일과 토요일에 업로드 될 예정입니다. 다음 영상은 입시 제도에 관한 영상이니 많은 기대 부탁드립니다!\n\n*기획/자막/편집: 권시아, 이예진, 정효진(시사IN 디지털 콘텐츠팀 인턴)",
+      "publishedAt": "2019-11-15T23:00:18Z",
+      "duration": "PT3M54S",
+      "viewCount": 479,
+      "likeCount": 76,
+      "commentCount": 3,
+      "tags": [
+        "시사인",
+        "시사IN",
+        "정시",
+        "수시",
+        "수능",
+        "2020수능",
+        "대입",
+        "대학입학",
+        "교육",
+        "대입전형",
+        "김밥",
+        "학종",
+        "학생부종합전형",
+        "교과",
+        "비교과",
+        "자동봉진",
+        "논술",
+        "면접",
+        "자소서"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2019-11-15T23:00:18Z",
+      "channelId": "UCaVuYo_tiiNzTSmlnM-A2kQ",
+      "channelName": "시사IN(시사인)",
+      "collectedAt": "2025-08-22T13:36:37Z"
     }
   },
   "channels": {
@@ -965,9 +1002,36 @@
       "viewCount": 4319423561,
       "videoCount": 150855,
       "lastUpdated": "2025-08-21T10:27:31.493478Z"
+    },
+    "UCaVuYo_tiiNzTSmlnM-A2kQ": {
+      "channelId": "UCaVuYo_tiiNzTSmlnM-A2kQ",
+      "channelName": "시사IN(시사인)",
+      "channelUrl": "@sisaineditor",
+      "channelDescription": "더 나은 세상을 만드는 저널리즘, \n시사IN이 만든 라이브 방송 \n시사IN 유튜브 편성 안내\n\n🔴 [월~목 오후 5시] 김은지의 뉴스IN \n김은지 정치팀장이 정치 현안을 샅샅이 훑어드리겠습니다. \n\n●시사IN 홈페이지 https://www.sisain.co.kr/\n○시사IN 구독 https://subscribe.sisain.co.kr/\n○시사IN 후원 https://support.sisain.co.kr\n○시사IN 후원 계좌 하나은행 109-910017-83704 ㈜참언론\n○시사IN paypal http://paypal.me/sisain\n● 광고 문의 webmaster@sisain.co.kr\n\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/trmysMk0KktWKxHZLJFrZ_NjpqiYyQUmTG5wOHNjO6ap-lYLBj8hYxSv9uy9qVO0-w2CQYCEKg=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/trmysMk0KktWKxHZLJFrZ_NjpqiYyQUmTG5wOHNjO6ap-lYLBj8hYxSv9uy9qVO0-w2CQYCEKg=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/trmysMk0KktWKxHZLJFrZ_NjpqiYyQUmTG5wOHNjO6ap-lYLBj8hYxSv9uy9qVO0-w2CQYCEKg=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 666000,
+      "viewCount": 191324441,
+      "videoCount": 3184,
+      "lastUpdated": "2025-08-22T13:36:37.410493Z"
     }
   },
-  "lastUpdated": "2025-08-21T10:45:07.969646Z",
-  "totalVideos": 31,
-  "totalChannels": 4
+  "lastUpdated": "2025-08-22T13:36:37.415864Z",
+  "totalVideos": 32,
+  "totalChannels": 5
 }

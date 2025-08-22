@@ -492,6 +492,54 @@
       "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
       "channelName": "뉴스TVCHOSUN",
       "collectedAt": "2025-08-21T10:45:51Z"
+    },
+    "bRUQ-qBYWuA": {
+      "videoId": "bRUQ-qBYWuA",
+      "title": "김영미의 눈높이 국제뉴스 2017년 3월 7일",
+      "description": "김영미의 눈높이 국제뉴스\n오늘은 '키르기스스탄'의 수도 '비슈케크'에서 진행합니다.",
+      "publishedAt": "2017-03-07T09:44:27Z",
+      "duration": "PT7M42S",
+      "viewCount": 484,
+      "likeCount": 18,
+      "commentCount": 1,
+      "tags": [
+        "시사인",
+        "시사IN",
+        "김영미",
+        "국제뉴스",
+        "키르기스스",
+        "비슈케크",
+        "국경없는의사회"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2017-03-07T09:44:27Z",
+      "channelId": "UCaVuYo_tiiNzTSmlnM-A2kQ",
+      "channelName": "시사IN(시사인)",
+      "collectedAt": "2025-08-22T13:36:34Z"
+    },
+    "P8wkajSGy78": {
+      "videoId": "P8wkajSGy78",
+      "title": "편집국장과 함께하는 시사IN 495호 미리보기",
+      "description": "",
+      "publishedAt": "2017-03-07T06:28:04Z",
+      "duration": "PT15M59S",
+      "viewCount": 104,
+      "likeCount": 6,
+      "commentCount": 1,
+      "tags": [
+        "고제규",
+        "시사인",
+        "시사IN",
+        "전혜원",
+        "미리보기"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2017-03-07T06:28:04Z",
+      "channelId": "UCaVuYo_tiiNzTSmlnM-A2kQ",
+      "channelName": "시사IN(시사인)",
+      "collectedAt": "2025-08-22T13:36:34Z"
     }
   },
   "channels": {
@@ -602,9 +650,36 @@
       "viewCount": 4319423561,
       "videoCount": 150855,
       "lastUpdated": "2025-08-21T10:28:24.908723Z"
+    },
+    "UCaVuYo_tiiNzTSmlnM-A2kQ": {
+      "channelId": "UCaVuYo_tiiNzTSmlnM-A2kQ",
+      "channelName": "시사IN(시사인)",
+      "channelUrl": "@sisaineditor",
+      "channelDescription": "더 나은 세상을 만드는 저널리즘, \n시사IN이 만든 라이브 방송 \n시사IN 유튜브 편성 안내\n\n🔴 [월~목 오후 5시] 김은지의 뉴스IN \n김은지 정치팀장이 정치 현안을 샅샅이 훑어드리겠습니다. \n\n●시사IN 홈페이지 https://www.sisain.co.kr/\n○시사IN 구독 https://subscribe.sisain.co.kr/\n○시사IN 후원 https://support.sisain.co.kr\n○시사IN 후원 계좌 하나은행 109-910017-83704 ㈜참언론\n○시사IN paypal http://paypal.me/sisain\n● 광고 문의 webmaster@sisain.co.kr\n\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/trmysMk0KktWKxHZLJFrZ_NjpqiYyQUmTG5wOHNjO6ap-lYLBj8hYxSv9uy9qVO0-w2CQYCEKg=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/trmysMk0KktWKxHZLJFrZ_NjpqiYyQUmTG5wOHNjO6ap-lYLBj8hYxSv9uy9qVO0-w2CQYCEKg=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/trmysMk0KktWKxHZLJFrZ_NjpqiYyQUmTG5wOHNjO6ap-lYLBj8hYxSv9uy9qVO0-w2CQYCEKg=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 666000,
+      "viewCount": 191324441,
+      "videoCount": 3184,
+      "lastUpdated": "2025-08-22T13:36:34.575091Z"
     }
   },
-  "lastUpdated": "2025-08-21T10:45:51.519522Z",
-  "totalVideos": 18,
-  "totalChannels": 4
+  "lastUpdated": "2025-08-22T13:36:34.575091Z",
+  "totalVideos": 20,
+  "totalChannels": 5
 }

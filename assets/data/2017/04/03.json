@@ -418,6 +418,69 @@
       "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
       "channelName": "뉴스TVCHOSUN",
       "collectedAt": "2025-08-21T10:45:51Z"
+    },
+    "CwOIHes870Q": {
+      "videoId": "CwOIHes870Q",
+      "title": "편집국장과 함께하는 시사IN 499호 미리보기",
+      "description": "편집국장과 함께하는 시사IN 499호 미리보기",
+      "publishedAt": "2017-04-03T09:51:34Z",
+      "duration": "PT11M28S",
+      "viewCount": 123,
+      "likeCount": 4,
+      "commentCount": 0,
+      "tags": [
+        "시사인",
+        "시사IN",
+        "미리보기",
+        "고제규",
+        "심상정",
+        "정의당",
+        "민주노동당",
+        "진보정당",
+        "오재영",
+        "문희상",
+        "이숙이",
+        "대만",
+        "카스테라",
+        "최순실",
+        "박근혜 5촌 살인사건",
+        "5촌",
+        "박근혜",
+        "살인사건",
+        "박용철",
+        "박용수"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2017-04-03T09:51:34Z",
+      "channelId": "UCaVuYo_tiiNzTSmlnM-A2kQ",
+      "channelName": "시사IN(시사인)",
+      "collectedAt": "2025-08-22T13:36:35Z"
+    },
+    "sZjM2ZCbwn8": {
+      "videoId": "sZjM2ZCbwn8",
+      "title": "목포신항에 도착한 세월호",
+      "description": "목포신항에 도착한 세월호를 드론으로 촬영한 영상입니다.",
+      "publishedAt": "2017-04-03T00:55:40Z",
+      "duration": "PT20S",
+      "viewCount": 1920,
+      "likeCount": 3,
+      "commentCount": 0,
+      "tags": [
+        "시사인",
+        "시사IN",
+        "드론",
+        "목포신항",
+        "목포",
+        "세월호",
+        "신항"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2017-04-03T00:55:40Z",
+      "channelId": "UCaVuYo_tiiNzTSmlnM-A2kQ",
+      "channelName": "시사IN(시사인)",
+      "collectedAt": "2025-08-22T13:36:35Z"
     }
   },
   "channels": {
@@ -501,9 +564,36 @@
       "viewCount": 4319423561,
       "videoCount": 150855,
       "lastUpdated": "2025-08-21T10:28:24.456944Z"
+    },
+    "UCaVuYo_tiiNzTSmlnM-A2kQ": {
+      "channelId": "UCaVuYo_tiiNzTSmlnM-A2kQ",
+      "channelName": "시사IN(시사인)",
+      "channelUrl": "@sisaineditor",
+      "channelDescription": "더 나은 세상을 만드는 저널리즘, \n시사IN이 만든 라이브 방송 \n시사IN 유튜브 편성 안내\n\n🔴 [월~목 오후 5시] 김은지의 뉴스IN \n김은지 정치팀장이 정치 현안을 샅샅이 훑어드리겠습니다. \n\n●시사IN 홈페이지 https://www.sisain.co.kr/\n○시사IN 구독 https://subscribe.sisain.co.kr/\n○시사IN 후원 https://support.sisain.co.kr\n○시사IN 후원 계좌 하나은행 109-910017-83704 ㈜참언론\n○시사IN paypal http://paypal.me/sisain\n● 광고 문의 webmaster@sisain.co.kr\n\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/trmysMk0KktWKxHZLJFrZ_NjpqiYyQUmTG5wOHNjO6ap-lYLBj8hYxSv9uy9qVO0-w2CQYCEKg=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/trmysMk0KktWKxHZLJFrZ_NjpqiYyQUmTG5wOHNjO6ap-lYLBj8hYxSv9uy9qVO0-w2CQYCEKg=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/trmysMk0KktWKxHZLJFrZ_NjpqiYyQUmTG5wOHNjO6ap-lYLBj8hYxSv9uy9qVO0-w2CQYCEKg=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 666000,
+      "viewCount": 191324441,
+      "videoCount": 3184,
+      "lastUpdated": "2025-08-22T13:36:35.222137Z"
     }
   },
-  "lastUpdated": "2025-08-21T10:45:51.128519Z",
-  "totalVideos": 15,
-  "totalChannels": 3
+  "lastUpdated": "2025-08-22T13:36:35.223134Z",
+  "totalVideos": 17,
+  "totalChannels": 4
 }

@@ -1257,10 +1257,10 @@
       "tags": [],
       "liveBroadcastContent": "none",
       "liveStreamingDetails": null,
-      "actualPubAt": null,
+      "actualPubAt": "2024-08-31T06:50:00Z",
       "channelId": "UCOB62fKRT7b73X7tRxMuN2g",
       "channelName": "박종훈의 지식한방",
-      "collectedAt": "2025-08-22T09:49:36Z"
+      "collectedAt": "2025-08-22T13:35:11Z"
     },
     "OO4sclyOA1Y": {
       "videoId": "OO4sclyOA1Y",
@@ -1313,6 +1313,56 @@
       "channelId": "UCsqWTNmoaNPvsfeCgaD7BpQ",
       "channelName": "장르만 여의도",
       "collectedAt": "2025-08-22T13:24:53Z"
+    },
+    "2kNNf4bM4LE": {
+      "videoId": "2kNNf4bM4LE",
+      "title": "건물 무너져야 붕괴인가 \"현실인식 없는 대통령\" [한판승부]",
+      "description": "건물 무너져야 붕괴인가 \"현실인식 없는 대통령\" [한판승부]\n\n◎ 평일(월~금) 오후 6시~7시 30분\n◎ 유튜브 실시간 방송 \n-https://www.youtube.com/channel/UCV9gIwasozKlwz5U2Sa2q6g\n◎ 라디오 : 표준FM 98.1 \n◎ 모바일 듣기 : 레인보우 어플",
+      "publishedAt": "2024-08-31T03:00:02Z",
+      "duration": "PT52S",
+      "viewCount": 105552,
+      "likeCount": 3980,
+      "commentCount": 96,
+      "tags": [
+        "CBS",
+        "CBS 라디오",
+        "FM98.1",
+        "한판승부",
+        "진중권",
+        "김성회",
+        "박재홍"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2024-08-31T03:00:02Z",
+      "channelId": "UCV9gIwasozKlwz5U2Sa2q6g",
+      "channelName": "박재홍의 한판승부",
+      "collectedAt": "2025-08-22T13:35:11Z"
+    },
+    "muz9ezpEm5s": {
+      "videoId": "muz9ezpEm5s",
+      "title": "마을변호사 했더라면 \"다들 제로콜라 싸들고...\" [한판승부]",
+      "description": "마을변호사 했더라면 \"다들 제로콜라 싸들고...\" [한판승부]\n\n◎ 평일(월~금) 오후 6시~7시 30분\n◎ 유튜브 실시간 방송 \n-https://www.youtube.com/channel/UCV9gIwasozKlwz5U2Sa2q6g\n◎ 라디오 : 표준FM 98.1 \n◎ 모바일 듣기 : 레인보우 어플",
+      "publishedAt": "2024-08-31T02:30:25Z",
+      "duration": "PT43S",
+      "viewCount": 18818,
+      "likeCount": 237,
+      "commentCount": 71,
+      "tags": [
+        "CBS",
+        "CBS 라디오",
+        "FM98.1",
+        "한판승부",
+        "진중권",
+        "김성회",
+        "박재홍"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2024-08-31T02:30:25Z",
+      "channelId": "UCV9gIwasozKlwz5U2Sa2q6g",
+      "channelName": "박재홍의 한판승부",
+      "collectedAt": "2025-08-22T13:35:11Z"
     }
   },
   "channels": {
@@ -1419,10 +1469,10 @@
           "height": 800
         }
       },
-      "subscriberCount": 777000,
-      "viewCount": 111320909,
+      "subscriberCount": 778000,
+      "viewCount": 111367955,
       "videoCount": 275,
-      "lastUpdated": "2025-08-22T09:49:36.643766Z"
+      "lastUpdated": "2025-08-22T13:35:11.564834Z"
     },
     "UCsqWTNmoaNPvsfeCgaD7BpQ": {
       "channelId": "UCsqWTNmoaNPvsfeCgaD7BpQ",
@@ -1450,9 +1500,36 @@
       "viewCount": 201874279,
       "videoCount": 3038,
       "lastUpdated": "2025-08-22T13:24:53.946793Z"
+    },
+    "UCV9gIwasozKlwz5U2Sa2q6g": {
+      "channelId": "UCV9gIwasozKlwz5U2Sa2q6g",
+      "channelName": "박재홍의 한판승부",
+      "channelUrl": "@cbs_hanpan",
+      "channelDescription": "CBS 라디오 '박재홍의 한판승부' 공식채널입니다.\n(월~금 저녁 6:00-7:30 - 본방송 / 화,목 저녁 7:30~8:15 - 더 라커룸 / 98.1MHz, 레인보우앱, 유튜브)\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/guZNvXSgAM9HUoqEmZFqv3cGB5tY2kJA3-2MA4M8T6tx8w-8-oI7XYj1uhu60LcUvUf7jPDS=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/guZNvXSgAM9HUoqEmZFqv3cGB5tY2kJA3-2MA4M8T6tx8w-8-oI7XYj1uhu60LcUvUf7jPDS=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/guZNvXSgAM9HUoqEmZFqv3cGB5tY2kJA3-2MA4M8T6tx8w-8-oI7XYj1uhu60LcUvUf7jPDS=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 904000,
+      "viewCount": 662049830,
+      "videoCount": 14573,
+      "lastUpdated": "2025-08-22T13:35:11.567092Z"
     }
   },
-  "lastUpdated": "2025-08-22T13:24:53.946793Z",
-  "totalVideos": 48,
-  "totalChannels": 5
+  "lastUpdated": "2025-08-22T13:35:11.570589Z",
+  "totalVideos": 50,
+  "totalChannels": 6
 }

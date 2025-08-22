@@ -528,6 +528,29 @@
       "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
       "channelName": "뉴스TVCHOSUN",
       "collectedAt": "2025-08-21T10:46:00Z"
+    },
+    "JKI4kXzvVN0": {
+      "videoId": "JKI4kXzvVN0",
+      "title": "세월호 특별법 개정 촉구 기자회견",
+      "description": "세월호참사 가족협의회가 오늘(8월24일) 오전 11시 기자회견을 열고 전면 단식을 선언했습니다. 노란 티를 맞춰 입은 유가족들이 땡볕이 내리쬐는 광화문광장 천막과 파라솔에서 단식을 하고 있습니다. 국회에 4.16세월호참사 특별조사위원회의 진상규명 활동을 보장하라고 촉구하기 위해서입니다. 유경근 집행위원장과 장훈 진상규명분과장은 이미 8일째 단식 중입니다. 오늘 유경근 집행위원장은 나직하면서도 힘 있는 목소리로 발언을 이어갔습니다. \n\n✔끝까지 취재하겠습니다 pay.sisainlive.com",
+      "publishedAt": "2016-08-24T05:47:44Z",
+      "duration": "PT30S",
+      "viewCount": 61,
+      "likeCount": 0,
+      "commentCount": 0,
+      "tags": [
+        "시사인",
+        "시사IN",
+        "세월호",
+        "세월호 특별법 개정 촉구 기자회견",
+        "특별법"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2016-08-24T05:47:44Z",
+      "channelId": "UCaVuYo_tiiNzTSmlnM-A2kQ",
+      "channelName": "시사IN(시사인)",
+      "collectedAt": "2025-08-22T13:36:38Z"
     }
   },
   "channels": {
@@ -611,9 +634,36 @@
       "viewCount": 4319423561,
       "videoCount": 150855,
       "lastUpdated": "2025-08-21T10:28:36.192566Z"
+    },
+    "UCaVuYo_tiiNzTSmlnM-A2kQ": {
+      "channelId": "UCaVuYo_tiiNzTSmlnM-A2kQ",
+      "channelName": "시사IN(시사인)",
+      "channelUrl": "@sisaineditor",
+      "channelDescription": "더 나은 세상을 만드는 저널리즘, \n시사IN이 만든 라이브 방송 \n시사IN 유튜브 편성 안내\n\n🔴 [월~목 오후 5시] 김은지의 뉴스IN \n김은지 정치팀장이 정치 현안을 샅샅이 훑어드리겠습니다. \n\n●시사IN 홈페이지 https://www.sisain.co.kr/\n○시사IN 구독 https://subscribe.sisain.co.kr/\n○시사IN 후원 https://support.sisain.co.kr\n○시사IN 후원 계좌 하나은행 109-910017-83704 ㈜참언론\n○시사IN paypal http://paypal.me/sisain\n● 광고 문의 webmaster@sisain.co.kr\n\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/trmysMk0KktWKxHZLJFrZ_NjpqiYyQUmTG5wOHNjO6ap-lYLBj8hYxSv9uy9qVO0-w2CQYCEKg=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/trmysMk0KktWKxHZLJFrZ_NjpqiYyQUmTG5wOHNjO6ap-lYLBj8hYxSv9uy9qVO0-w2CQYCEKg=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/trmysMk0KktWKxHZLJFrZ_NjpqiYyQUmTG5wOHNjO6ap-lYLBj8hYxSv9uy9qVO0-w2CQYCEKg=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 666000,
+      "viewCount": 191324441,
+      "videoCount": 3184,
+      "lastUpdated": "2025-08-22T13:36:38.845786Z"
     }
   },
-  "lastUpdated": "2025-08-21T10:46:00.817782Z",
-  "totalVideos": 19,
-  "totalChannels": 3
+  "lastUpdated": "2025-08-22T13:36:38.856943Z",
+  "totalVideos": 20,
+  "totalChannels": 4
 }

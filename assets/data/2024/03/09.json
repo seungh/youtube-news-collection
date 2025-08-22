@@ -1582,6 +1582,56 @@
       "channelId": "UCsqWTNmoaNPvsfeCgaD7BpQ",
       "channelName": "장르만 여의도",
       "collectedAt": "2025-08-22T13:25:16Z"
+    },
+    "1pklLfrjMLA": {
+      "videoId": "1pklLfrjMLA",
+      "title": "“민주당, 적대적 공생 관계!” 박원석의 냉정한 분석 [한판승부]",
+      "description": "“민주당, 적대적 공생 관계!” 박원석의 냉정한 분석 [한판승부]\n◎ 평일(월~금) 오후 6시~7시 30분\n◎ 유튜브 실시간 방송 \n-https://www.youtube.com/channel/UCV9gIwasozKlwz5U2Sa2q6g\n◎ 라디오 : 표준FM 98.1 \n◎ 모바일 듣기 : 레인보우 어플",
+      "publishedAt": "2024-03-09T03:00:02Z",
+      "duration": "PT39S",
+      "viewCount": 18355,
+      "likeCount": 290,
+      "commentCount": 49,
+      "tags": [
+        "CBS",
+        "CBS 라디오",
+        "FM98.1",
+        "한판승부",
+        "진중권",
+        "김성회",
+        "박재홍"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2024-03-09T03:00:02Z",
+      "channelId": "UCV9gIwasozKlwz5U2Sa2q6g",
+      "channelName": "박재홍의 한판승부",
+      "collectedAt": "2025-08-22T13:37:13Z"
+    },
+    "qusHQCRJ3mk": {
+      "videoId": "qusHQCRJ3mk",
+      "title": "\"유승민을 강남으로!\" 한동훈, 파격 공천 나설까? [한판승부]",
+      "description": "\"유승민을 강남으로!\" 한동훈, 파격 공천 나설까? [한판승부]\n◎ 평일(월~금) 오후 6시~7시 30분\n◎ 유튜브 실시간 방송 \n-https://www.youtube.com/channel/UCV9gIwasozKlwz5U2Sa2q6g\n◎ 라디오 : 표준FM 98.1 \n◎ 모바일 듣기 : 레인보우 어플",
+      "publishedAt": "2024-03-09T02:30:20Z",
+      "duration": "PT51S",
+      "viewCount": 111363,
+      "likeCount": 823,
+      "commentCount": 331,
+      "tags": [
+        "CBS",
+        "CBS 라디오",
+        "FM98.1",
+        "한판승부",
+        "진중권",
+        "김성회",
+        "박재홍"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2024-03-09T02:30:20Z",
+      "channelId": "UCV9gIwasozKlwz5U2Sa2q6g",
+      "channelName": "박재홍의 한판승부",
+      "collectedAt": "2025-08-22T13:37:13Z"
     }
   },
   "channels": {
@@ -1746,9 +1796,36 @@
       "viewCount": 201874279,
       "videoCount": 3038,
       "lastUpdated": "2025-08-22T13:25:16.668267Z"
+    },
+    "UCV9gIwasozKlwz5U2Sa2q6g": {
+      "channelId": "UCV9gIwasozKlwz5U2Sa2q6g",
+      "channelName": "박재홍의 한판승부",
+      "channelUrl": "@cbs_hanpan",
+      "channelDescription": "CBS 라디오 '박재홍의 한판승부' 공식채널입니다.\n(월~금 저녁 6:00-7:30 - 본방송 / 화,목 저녁 7:30~8:15 - 더 라커룸 / 98.1MHz, 레인보우앱, 유튜브)\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/guZNvXSgAM9HUoqEmZFqv3cGB5tY2kJA3-2MA4M8T6tx8w-8-oI7XYj1uhu60LcUvUf7jPDS=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/guZNvXSgAM9HUoqEmZFqv3cGB5tY2kJA3-2MA4M8T6tx8w-8-oI7XYj1uhu60LcUvUf7jPDS=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/guZNvXSgAM9HUoqEmZFqv3cGB5tY2kJA3-2MA4M8T6tx8w-8-oI7XYj1uhu60LcUvUf7jPDS=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 904000,
+      "viewCount": 662049830,
+      "videoCount": 14573,
+      "lastUpdated": "2025-08-22T13:37:13.529233Z"
     }
   },
-  "lastUpdated": "2025-08-22T13:25:16.677872Z",
-  "totalVideos": 56,
-  "totalChannels": 6
+  "lastUpdated": "2025-08-22T13:37:13.531228Z",
+  "totalVideos": 58,
+  "totalChannels": 7
 }

@@ -3108,6 +3108,58 @@
       "channelId": "UCsqWTNmoaNPvsfeCgaD7BpQ",
       "channelName": "장르만 여의도",
       "collectedAt": "2025-08-22T13:24:58Z"
+    },
+    "L9RxlolckQY": {
+      "videoId": "L9RxlolckQY",
+      "title": "청와대vs용산vs세종, 탁현민의 생각은? [한판승부]",
+      "description": "청와대vs용산vs세종, 탁현민의 생각은? [한판승부]\n\n◎ 평일(월~금) 오후 6시~7시 30분\n◎ 유튜브 실시간 방송 \n-https://www.youtube.com/channel/UCV9gIwasozKlwz5U2Sa2q6g\n◎ 라디오 : 표준FM 98.1 \n◎ 모바일 듣기 : 레인보우 어플",
+      "publishedAt": "2025-04-12T03:00:32Z",
+      "duration": "PT50S",
+      "viewCount": 21659,
+      "likeCount": 452,
+      "commentCount": 34,
+      "tags": [
+        "박재홍의한판승부",
+        "박재홍",
+        "CBS",
+        "윤석열",
+        "이재명",
+        "탁현민",
+        "청와대",
+        "김건희"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2025-04-12T03:00:32Z",
+      "channelId": "UCV9gIwasozKlwz5U2Sa2q6g",
+      "channelName": "박재홍의 한판승부",
+      "collectedAt": "2025-08-22T13:37:11Z"
+    },
+    "5ncEqdJQfmE": {
+      "videoId": "5ncEqdJQfmE",
+      "title": "파면 직후 내려간 봉황기! 탁현민만 포착한 비밀 [한판승부]",
+      "description": "파면 직후 내려간 봉황기! 탁현민만 포착한 비밀 [한판승부]\n\n◎ 평일(월~금) 오후 6시~7시 30분\n◎ 유튜브 실시간 방송 \n-https://www.youtube.com/channel/UCV9gIwasozKlwz5U2Sa2q6g\n◎ 라디오 : 표준FM 98.1 \n◎ 모바일 듣기 : 레인보우 어플",
+      "publishedAt": "2025-04-12T02:30:09Z",
+      "duration": "PT45S",
+      "viewCount": 128546,
+      "likeCount": 5207,
+      "commentCount": 38,
+      "tags": [
+        "박재홍의한판승부",
+        "박재홍",
+        "CBS",
+        "윤석열",
+        "이재명",
+        "탁현민",
+        "청와대",
+        "김건희"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2025-04-12T02:30:09Z",
+      "channelId": "UCV9gIwasozKlwz5U2Sa2q6g",
+      "channelName": "박재홍의 한판승부",
+      "collectedAt": "2025-08-22T13:37:11Z"
     }
   },
   "channels": {
@@ -3299,9 +3351,36 @@
       "viewCount": 201874279,
       "videoCount": 3038,
       "lastUpdated": "2025-08-22T13:24:58.511510Z"
+    },
+    "UCV9gIwasozKlwz5U2Sa2q6g": {
+      "channelId": "UCV9gIwasozKlwz5U2Sa2q6g",
+      "channelName": "박재홍의 한판승부",
+      "channelUrl": "@cbs_hanpan",
+      "channelDescription": "CBS 라디오 '박재홍의 한판승부' 공식채널입니다.\n(월~금 저녁 6:00-7:30 - 본방송 / 화,목 저녁 7:30~8:15 - 더 라커룸 / 98.1MHz, 레인보우앱, 유튜브)\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/guZNvXSgAM9HUoqEmZFqv3cGB5tY2kJA3-2MA4M8T6tx8w-8-oI7XYj1uhu60LcUvUf7jPDS=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/guZNvXSgAM9HUoqEmZFqv3cGB5tY2kJA3-2MA4M8T6tx8w-8-oI7XYj1uhu60LcUvUf7jPDS=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/guZNvXSgAM9HUoqEmZFqv3cGB5tY2kJA3-2MA4M8T6tx8w-8-oI7XYj1uhu60LcUvUf7jPDS=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 904000,
+      "viewCount": 662049830,
+      "videoCount": 14573,
+      "lastUpdated": "2025-08-22T13:37:11.526290Z"
     }
   },
-  "lastUpdated": "2025-08-22T13:24:58.511510Z",
-  "totalVideos": 119,
-  "totalChannels": 7
+  "lastUpdated": "2025-08-22T13:37:11.528285Z",
+  "totalVideos": 121,
+  "totalChannels": 8
 }

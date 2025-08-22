@@ -419,6 +419,35 @@
       "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
       "channelName": "뉴스TVCHOSUN",
       "collectedAt": "2025-08-21T10:45:55Z"
+    },
+    "o4IkTbngg7s": {
+      "videoId": "o4IkTbngg7s",
+      "title": "김영미의 눈높이 국제뉴스 2016년 11월 8일",
+      "description": "[중점뉴스]\n남아프리카공화국 주마 대통령 탄핵 위기 \n터키 반 에르도안 대통령 시위 \n지지율 4% 올랑드 프랑스 대통령 탄핵안 발의 \n\n[Top 5 New]\n미국 대선 D-1 클린턴 우세\n요트여행 독일인 부부, 필리핀 피랍. 부인은 피살\n올림픽 개최 리우 사실상 파산\n사우디, 이집트 석유 공급 중단\n홍콩 사법독립 위한 시민 1만3000명 ‘1박2일’ 시위\n\n[시사용어]\n 이슬람 수니파와 시아파",
+      "publishedAt": "2016-11-09T02:36:50Z",
+      "duration": "PT34M51S",
+      "viewCount": 251,
+      "likeCount": 8,
+      "commentCount": 0,
+      "tags": [
+        "시사인",
+        "시사IN",
+        "김영미",
+        "수니파",
+        "시아파",
+        "탄핵",
+        "대통령",
+        "리우",
+        "사우디",
+        "이집트",
+        "홍콩"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2016-11-09T02:36:50Z",
+      "channelId": "UCaVuYo_tiiNzTSmlnM-A2kQ",
+      "channelName": "시사IN(시사인)",
+      "collectedAt": "2025-08-22T13:36:34Z"
     }
   },
   "channels": {
@@ -529,9 +558,36 @@
       "viewCount": 4319423561,
       "videoCount": 150855,
       "lastUpdated": "2025-08-21T10:28:30.024712Z"
+    },
+    "UCaVuYo_tiiNzTSmlnM-A2kQ": {
+      "channelId": "UCaVuYo_tiiNzTSmlnM-A2kQ",
+      "channelName": "시사IN(시사인)",
+      "channelUrl": "@sisaineditor",
+      "channelDescription": "더 나은 세상을 만드는 저널리즘, \n시사IN이 만든 라이브 방송 \n시사IN 유튜브 편성 안내\n\n🔴 [월~목 오후 5시] 김은지의 뉴스IN \n김은지 정치팀장이 정치 현안을 샅샅이 훑어드리겠습니다. \n\n●시사IN 홈페이지 https://www.sisain.co.kr/\n○시사IN 구독 https://subscribe.sisain.co.kr/\n○시사IN 후원 https://support.sisain.co.kr\n○시사IN 후원 계좌 하나은행 109-910017-83704 ㈜참언론\n○시사IN paypal http://paypal.me/sisain\n● 광고 문의 webmaster@sisain.co.kr\n\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/trmysMk0KktWKxHZLJFrZ_NjpqiYyQUmTG5wOHNjO6ap-lYLBj8hYxSv9uy9qVO0-w2CQYCEKg=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/trmysMk0KktWKxHZLJFrZ_NjpqiYyQUmTG5wOHNjO6ap-lYLBj8hYxSv9uy9qVO0-w2CQYCEKg=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/trmysMk0KktWKxHZLJFrZ_NjpqiYyQUmTG5wOHNjO6ap-lYLBj8hYxSv9uy9qVO0-w2CQYCEKg=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 666000,
+      "viewCount": 191324441,
+      "videoCount": 3184,
+      "lastUpdated": "2025-08-22T13:36:34.380211Z"
     }
   },
-  "lastUpdated": "2025-08-21T10:45:55.170925Z",
-  "totalVideos": 15,
-  "totalChannels": 4
+  "lastUpdated": "2025-08-22T13:36:34.388467Z",
+  "totalVideos": 16,
+  "totalChannels": 5
 }

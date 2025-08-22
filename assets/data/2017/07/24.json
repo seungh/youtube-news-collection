@@ -727,6 +727,32 @@
       "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
       "channelName": "뉴스TVCHOSUN",
       "collectedAt": "2025-08-21T10:45:53Z"
+    },
+    "4qau0q80bEw": {
+      "videoId": "4qau0q80bEw",
+      "title": "편집국장과 함께하는 시사IN 515호 미리보기",
+      "description": "시사IN은 안종범 전 수석의 업무수첩 57권 전권과 박헌영 K스포츠재단 과장의 업무수첩 2권을 모두 입수했다. 두 업무수첩을 비교하니 국정 농단이 명백히 드러났다.",
+      "publishedAt": "2017-07-24T07:57:15Z",
+      "duration": "PT6M8S",
+      "viewCount": 728,
+      "likeCount": 4,
+      "commentCount": 0,
+      "tags": [
+        "시사인",
+        "시사IN",
+        "최순실",
+        "국정농단",
+        "박근혜",
+        "안종범",
+        "업무수첩",
+        "박헌영"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2017-07-24T07:57:15Z",
+      "channelId": "UCaVuYo_tiiNzTSmlnM-A2kQ",
+      "channelName": "시사IN(시사인)",
+      "collectedAt": "2025-08-22T13:36:35Z"
     }
   },
   "channels": {
@@ -783,9 +809,36 @@
       "viewCount": 4319423561,
       "videoCount": 150855,
       "lastUpdated": "2025-08-21T10:28:27.644671Z"
+    },
+    "UCaVuYo_tiiNzTSmlnM-A2kQ": {
+      "channelId": "UCaVuYo_tiiNzTSmlnM-A2kQ",
+      "channelName": "시사IN(시사인)",
+      "channelUrl": "@sisaineditor",
+      "channelDescription": "더 나은 세상을 만드는 저널리즘, \n시사IN이 만든 라이브 방송 \n시사IN 유튜브 편성 안내\n\n🔴 [월~목 오후 5시] 김은지의 뉴스IN \n김은지 정치팀장이 정치 현안을 샅샅이 훑어드리겠습니다. \n\n●시사IN 홈페이지 https://www.sisain.co.kr/\n○시사IN 구독 https://subscribe.sisain.co.kr/\n○시사IN 후원 https://support.sisain.co.kr\n○시사IN 후원 계좌 하나은행 109-910017-83704 ㈜참언론\n○시사IN paypal http://paypal.me/sisain\n● 광고 문의 webmaster@sisain.co.kr\n\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/trmysMk0KktWKxHZLJFrZ_NjpqiYyQUmTG5wOHNjO6ap-lYLBj8hYxSv9uy9qVO0-w2CQYCEKg=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/trmysMk0KktWKxHZLJFrZ_NjpqiYyQUmTG5wOHNjO6ap-lYLBj8hYxSv9uy9qVO0-w2CQYCEKg=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/trmysMk0KktWKxHZLJFrZ_NjpqiYyQUmTG5wOHNjO6ap-lYLBj8hYxSv9uy9qVO0-w2CQYCEKg=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 666000,
+      "viewCount": 191324441,
+      "videoCount": 3184,
+      "lastUpdated": "2025-08-22T13:36:35.574403Z"
     }
   },
-  "lastUpdated": "2025-08-21T10:45:53.570648Z",
-  "totalVideos": 26,
-  "totalChannels": 2
+  "lastUpdated": "2025-08-22T13:36:35.577434Z",
+  "totalVideos": 27,
+  "totalChannels": 3
 }

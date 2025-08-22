@@ -400,6 +400,61 @@
       "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
       "channelName": "뉴스TVCHOSUN",
       "collectedAt": "2025-08-21T10:46:31Z"
+    },
+    "80bC8hcFeWk": {
+      "videoId": "80bC8hcFeWk",
+      "title": "시사IN 477호 미리보기",
+      "description": "그림자 권력을 창조하다\n‘최순실 게이트’가 끝없이 진화한다. 핵심은 민간인 최순실씨가 대통령과의 친분을 이유로 국정을 농단했다는 의혹이다.\n박근혜 대통령조차 일부 시인했지만, 밝혀져야 할 부분은 여전히 많다.",
+      "publishedAt": "2016-10-31T10:48:42Z",
+      "duration": "PT19M23S",
+      "viewCount": 10891,
+      "likeCount": 44,
+      "commentCount": 8,
+      "tags": [
+        "시사인",
+        "시사IN",
+        "고제규",
+        "김은지",
+        "이명익",
+        "최순실",
+        "박근혜",
+        "최태민",
+        "장시호",
+        "최순득",
+        "장유진",
+        "정유라"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2016-10-31T10:48:42Z",
+      "channelId": "UCaVuYo_tiiNzTSmlnM-A2kQ",
+      "channelName": "시사IN(시사인)",
+      "collectedAt": "2025-08-22T13:36:34Z"
+    },
+    "pelKFU8fCkU": {
+      "videoId": "pelKFU8fCkU",
+      "title": "악마 기자, 정의 사제",
+      "description": "악마 기자, 정의 사제",
+      "publishedAt": "2016-10-31T03:23:39Z",
+      "duration": "PT5M23S",
+      "viewCount": 3842,
+      "likeCount": 45,
+      "commentCount": 2,
+      "tags": [
+        "시사인",
+        "시사인북",
+        "시사IN",
+        "주진우",
+        "함세웅",
+        "현대사콘서트",
+        "현대사"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2016-10-31T03:23:39Z",
+      "channelId": "UCaVuYo_tiiNzTSmlnM-A2kQ",
+      "channelName": "시사IN(시사인)",
+      "collectedAt": "2025-08-22T13:36:34Z"
     }
   },
   "channels": {
@@ -483,9 +538,36 @@
       "viewCount": 4319423561,
       "videoCount": 150855,
       "lastUpdated": "2025-08-21T10:29:07.423200Z"
+    },
+    "UCaVuYo_tiiNzTSmlnM-A2kQ": {
+      "channelId": "UCaVuYo_tiiNzTSmlnM-A2kQ",
+      "channelName": "시사IN(시사인)",
+      "channelUrl": "@sisaineditor",
+      "channelDescription": "더 나은 세상을 만드는 저널리즘, \n시사IN이 만든 라이브 방송 \n시사IN 유튜브 편성 안내\n\n🔴 [월~목 오후 5시] 김은지의 뉴스IN \n김은지 정치팀장이 정치 현안을 샅샅이 훑어드리겠습니다. \n\n●시사IN 홈페이지 https://www.sisain.co.kr/\n○시사IN 구독 https://subscribe.sisain.co.kr/\n○시사IN 후원 https://support.sisain.co.kr\n○시사IN 후원 계좌 하나은행 109-910017-83704 ㈜참언론\n○시사IN paypal http://paypal.me/sisain\n● 광고 문의 webmaster@sisain.co.kr\n\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/trmysMk0KktWKxHZLJFrZ_NjpqiYyQUmTG5wOHNjO6ap-lYLBj8hYxSv9uy9qVO0-w2CQYCEKg=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/trmysMk0KktWKxHZLJFrZ_NjpqiYyQUmTG5wOHNjO6ap-lYLBj8hYxSv9uy9qVO0-w2CQYCEKg=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/trmysMk0KktWKxHZLJFrZ_NjpqiYyQUmTG5wOHNjO6ap-lYLBj8hYxSv9uy9qVO0-w2CQYCEKg=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 666000,
+      "viewCount": 191324441,
+      "videoCount": 3184,
+      "lastUpdated": "2025-08-22T13:36:34.889338Z"
     }
   },
-  "lastUpdated": "2025-08-21T10:46:31.503094Z",
-  "totalVideos": 15,
-  "totalChannels": 3
+  "lastUpdated": "2025-08-22T13:36:34.890305Z",
+  "totalVideos": 17,
+  "totalChannels": 4
 }

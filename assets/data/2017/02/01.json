@@ -134,6 +134,23 @@
       "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
       "channelName": "뉴스TVCHOSUN",
       "collectedAt": "2025-08-21T10:45:54Z"
+    },
+    "nngMST60QkQ": {
+      "videoId": "nngMST60QkQ",
+      "title": "김영미의 눈높이 국제뉴스 2017년 1월 31일",
+      "description": "[중점뉴스 1] 트럼프 정부 반 이민 정책 \n- 이슬람 국가 7개국 입국 금지\n- 반기 든 법무장관 경질\n- 이민세관집행국(ICE) 국장 교체\n- 미 외교관들 집단 항명 사태\n- 우리 국민도 약 23만명 불법체류\n\n[중점 뉴스 2] 극우주의 확대\n- 트럼프 지지 극우 청년, 퀘벡 총기난사 테러\n- 유럽의 이슬람 복장 금지\n- 프랑스 대선에서 극우 정당 주목\n\n[중점 뉴스 3] 감비아 대선 사태\n- 독재자 자메 감비아 대통령 22년 철권 정치 \n- 대선 불복으로 국가 비상 사태\n- 서아프리카 주변국 군사 개입 시사\n- 새 감비아 대통령 아다마 베로 취임\n- 메로 전 대통령 128억원 출금 후 망명\n\n[시사 용어 해설] 제네바 협정",
+      "publishedAt": "2017-02-01T02:05:22Z",
+      "duration": "PT27M34S",
+      "viewCount": 332,
+      "likeCount": 6,
+      "commentCount": 1,
+      "tags": [],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2017-02-01T02:05:22Z",
+      "channelId": "UCaVuYo_tiiNzTSmlnM-A2kQ",
+      "channelName": "시사IN(시사인)",
+      "collectedAt": "2025-08-22T13:36:34Z"
     }
   },
   "channels": {
@@ -190,9 +207,36 @@
       "viewCount": 4319423561,
       "videoCount": 150855,
       "lastUpdated": "2025-08-21T10:28:28.635695Z"
+    },
+    "UCaVuYo_tiiNzTSmlnM-A2kQ": {
+      "channelId": "UCaVuYo_tiiNzTSmlnM-A2kQ",
+      "channelName": "시사IN(시사인)",
+      "channelUrl": "@sisaineditor",
+      "channelDescription": "더 나은 세상을 만드는 저널리즘, \n시사IN이 만든 라이브 방송 \n시사IN 유튜브 편성 안내\n\n🔴 [월~목 오후 5시] 김은지의 뉴스IN \n김은지 정치팀장이 정치 현안을 샅샅이 훑어드리겠습니다. \n\n●시사IN 홈페이지 https://www.sisain.co.kr/\n○시사IN 구독 https://subscribe.sisain.co.kr/\n○시사IN 후원 https://support.sisain.co.kr\n○시사IN 후원 계좌 하나은행 109-910017-83704 ㈜참언론\n○시사IN paypal http://paypal.me/sisain\n● 광고 문의 webmaster@sisain.co.kr\n\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/trmysMk0KktWKxHZLJFrZ_NjpqiYyQUmTG5wOHNjO6ap-lYLBj8hYxSv9uy9qVO0-w2CQYCEKg=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/trmysMk0KktWKxHZLJFrZ_NjpqiYyQUmTG5wOHNjO6ap-lYLBj8hYxSv9uy9qVO0-w2CQYCEKg=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/trmysMk0KktWKxHZLJFrZ_NjpqiYyQUmTG5wOHNjO6ap-lYLBj8hYxSv9uy9qVO0-w2CQYCEKg=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 666000,
+      "viewCount": 191324441,
+      "videoCount": 3184,
+      "lastUpdated": "2025-08-22T13:36:34.477837Z"
     }
   },
-  "lastUpdated": "2025-08-21T10:45:54.278586Z",
-  "totalVideos": 5,
-  "totalChannels": 2
+  "lastUpdated": "2025-08-22T13:36:34.478834Z",
+  "totalVideos": 6,
+  "totalChannels": 3
 }

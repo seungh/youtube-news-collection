@@ -277,6 +277,57 @@
       "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
       "channelName": "뉴스TVCHOSUN",
       "collectedAt": "2025-08-21T10:45:59Z"
+    },
+    "NivwKXB60Yc": {
+      "videoId": "NivwKXB60Yc",
+      "title": "송지혜 기자의 색깔 있는 신간 소개 - 488호",
+      "description": "[왜 우리는 불평등해졌는가] 브랑코 밀라노비치 지음, 서정아 옮김, 21세기북스 펴냄\n[대한민국 넷페미사] 손희정 외 지음, 나무연필 펴냄\n[포스트 자본주의 새로운 시작] 폴메이슨 지음, 안진이 옮김, 더퀘스트 펴냄\n[페미니스트 모먼트] 권김현영 외 지음, 그린비 펴냄\n[분배 정치의 시대] 제임스 퍼거슨 지음, 조문영 옮김, 여문책 펴냄\n[종이] 로타어 뮐러 지음, 박병화 옮김, 알마 펴냄",
+      "publishedAt": "2017-01-18T09:46:53Z",
+      "duration": "PT7M16S",
+      "viewCount": 760,
+      "likeCount": 9,
+      "commentCount": 0,
+      "tags": [
+        "시사인",
+        "시사IN",
+        "송지혜",
+        "신간소개",
+        "신간",
+        "종이",
+        "분배 정치의 시대",
+        "페미니스트 모먼트",
+        "포스트 자본주의 새로운 시작",
+        "왜 우리는 불평등해졌는가",
+        "대한민국 넷페미사"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2017-01-18T09:46:53Z",
+      "channelId": "UCaVuYo_tiiNzTSmlnM-A2kQ",
+      "channelName": "시사IN(시사인)",
+      "collectedAt": "2025-08-22T13:36:34Z"
+    },
+    "8GUeS5wG99A": {
+      "videoId": "8GUeS5wG99A",
+      "title": "김영미의 눈높이 국제뉴스 2017년 1월 18일",
+      "description": "[중점 뉴스 ] \n- 영국의 하드 브렉시트\n\n[Top 5 News]\n- 터키 사회 시스템 비성\n\n[Top 5 News]\n- 필리핀 한인 납치 잔혹사 \n[Top 5 News]\n- 멕시코 휴양지 칸군 총격 사망\n[Top 5 News]\n- 한국 여성 성폭행한 대만 택시기사\n[Top 5 News]\n- 베네수엘라 새로운 화폐 발행\n\n[시사용어 해설]\n- 관타나모 수용소",
+      "publishedAt": "2017-01-18T02:17:47Z",
+      "duration": "PT24M45S",
+      "viewCount": 441,
+      "likeCount": 8,
+      "commentCount": 1,
+      "tags": [
+        "시사인",
+        "시사IN",
+        "김영미",
+        "국제뉴스"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2017-01-18T02:17:47Z",
+      "channelId": "UCaVuYo_tiiNzTSmlnM-A2kQ",
+      "channelName": "시사IN(시사인)",
+      "collectedAt": "2025-08-22T13:36:34Z"
     }
   },
   "channels": {
@@ -333,9 +384,36 @@
       "viewCount": 4319423561,
       "videoCount": 150855,
       "lastUpdated": "2025-08-21T10:28:34.680322Z"
+    },
+    "UCaVuYo_tiiNzTSmlnM-A2kQ": {
+      "channelId": "UCaVuYo_tiiNzTSmlnM-A2kQ",
+      "channelName": "시사IN(시사인)",
+      "channelUrl": "@sisaineditor",
+      "channelDescription": "더 나은 세상을 만드는 저널리즘, \n시사IN이 만든 라이브 방송 \n시사IN 유튜브 편성 안내\n\n🔴 [월~목 오후 5시] 김은지의 뉴스IN \n김은지 정치팀장이 정치 현안을 샅샅이 훑어드리겠습니다. \n\n●시사IN 홈페이지 https://www.sisain.co.kr/\n○시사IN 구독 https://subscribe.sisain.co.kr/\n○시사IN 후원 https://support.sisain.co.kr\n○시사IN 후원 계좌 하나은행 109-910017-83704 ㈜참언론\n○시사IN paypal http://paypal.me/sisain\n● 광고 문의 webmaster@sisain.co.kr\n\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/trmysMk0KktWKxHZLJFrZ_NjpqiYyQUmTG5wOHNjO6ap-lYLBj8hYxSv9uy9qVO0-w2CQYCEKg=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/trmysMk0KktWKxHZLJFrZ_NjpqiYyQUmTG5wOHNjO6ap-lYLBj8hYxSv9uy9qVO0-w2CQYCEKg=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/trmysMk0KktWKxHZLJFrZ_NjpqiYyQUmTG5wOHNjO6ap-lYLBj8hYxSv9uy9qVO0-w2CQYCEKg=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 666000,
+      "viewCount": 191324441,
+      "videoCount": 3184,
+      "lastUpdated": "2025-08-22T13:36:34.252569Z"
     }
   },
-  "lastUpdated": "2025-08-21T10:45:59.191348Z",
-  "totalVideos": 10,
-  "totalChannels": 2
+  "lastUpdated": "2025-08-22T13:36:34.254808Z",
+  "totalVideos": 12,
+  "totalChannels": 3
 }

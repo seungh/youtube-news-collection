@@ -1797,6 +1797,37 @@
       "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
       "channelName": "뉴스TVCHOSUN",
       "collectedAt": "2025-08-21T10:44:55Z"
+    },
+    "yfdSmA0R67s": {
+      "videoId": "yfdSmA0R67s",
+      "title": "3인의 의사가 바라보는 의사 증원(ft. 의사 파업)",
+      "description": "7일에는 전공의들이, 14일에는 개원의들이 파업했다. 이들이 파업한 계기는 의대 정원을 늘리겠다는 당정의 발표였다.\n\n왜 의사들은 의사 증원에 반대할까?\n\n파업을 주도했던 의사협회, 전공의협회, 그리고 공공의료 확대를 주장하는 인도주의실천의사협의회를 만나 의사 증원 확대에 대해 어떻게 생각하는지 들어보았다.\n\n*영상 제작: 김진주(시사IN 영상 콘텐츠 PD)\n\n*시사IN 구독 및 후원은 아래에서 가능합니다. 더 좋은 콘텐츠로 보답하겠습니다. 항상 감사합니다 :)\n- support.sisain.co.kr\n- 하나은행 1099-100178-3704 (주)참언론\n- paypal 후원 : http://paypal.me/sisain",
+      "publishedAt": "2020-08-19T09:00:11Z",
+      "duration": "PT8M41S",
+      "viewCount": 4719,
+      "likeCount": 201,
+      "commentCount": 63,
+      "tags": [
+        "시사인",
+        "시사IN",
+        "의사",
+        "의사파업",
+        "의대",
+        "의대정원",
+        "의대정원확대",
+        "개원의",
+        "의협",
+        "의사협회",
+        "전공의",
+        "코로나",
+        "코로나19"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2020-08-19T09:00:11Z",
+      "channelId": "UCaVuYo_tiiNzTSmlnM-A2kQ",
+      "channelName": "시사IN(시사인)",
+      "collectedAt": "2025-08-22T13:36:17Z"
     }
   },
   "channels": {
@@ -1961,9 +1992,36 @@
       "viewCount": 4319423561,
       "videoCount": 150855,
       "lastUpdated": "2025-08-21T10:27:15.978331Z"
+    },
+    "UCaVuYo_tiiNzTSmlnM-A2kQ": {
+      "channelId": "UCaVuYo_tiiNzTSmlnM-A2kQ",
+      "channelName": "시사IN(시사인)",
+      "channelUrl": "@sisaineditor",
+      "channelDescription": "더 나은 세상을 만드는 저널리즘, \n시사IN이 만든 라이브 방송 \n시사IN 유튜브 편성 안내\n\n🔴 [월~목 오후 5시] 김은지의 뉴스IN \n김은지 정치팀장이 정치 현안을 샅샅이 훑어드리겠습니다. \n\n●시사IN 홈페이지 https://www.sisain.co.kr/\n○시사IN 구독 https://subscribe.sisain.co.kr/\n○시사IN 후원 https://support.sisain.co.kr\n○시사IN 후원 계좌 하나은행 109-910017-83704 ㈜참언론\n○시사IN paypal http://paypal.me/sisain\n● 광고 문의 webmaster@sisain.co.kr\n\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/trmysMk0KktWKxHZLJFrZ_NjpqiYyQUmTG5wOHNjO6ap-lYLBj8hYxSv9uy9qVO0-w2CQYCEKg=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/trmysMk0KktWKxHZLJFrZ_NjpqiYyQUmTG5wOHNjO6ap-lYLBj8hYxSv9uy9qVO0-w2CQYCEKg=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/trmysMk0KktWKxHZLJFrZ_NjpqiYyQUmTG5wOHNjO6ap-lYLBj8hYxSv9uy9qVO0-w2CQYCEKg=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 666000,
+      "viewCount": 191324441,
+      "videoCount": 3184,
+      "lastUpdated": "2025-08-22T13:36:17.358373Z"
     }
   },
-  "lastUpdated": "2025-08-21T10:44:55.607489Z",
-  "totalVideos": 65,
-  "totalChannels": 6
+  "lastUpdated": "2025-08-22T13:36:17.360335Z",
+  "totalVideos": 66,
+  "totalChannels": 7
 }

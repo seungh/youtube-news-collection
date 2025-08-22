@@ -654,6 +654,36 @@
       "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
       "channelName": "뉴스TVCHOSUN",
       "collectedAt": "2025-08-21T10:45:49Z"
+    },
+    "G7hTlrm4Loc": {
+      "videoId": "G7hTlrm4Loc",
+      "title": "2017시사IN리더십포럼",
+      "description": "‘꿈’을 주제로 고등학생과 멘토가 이야기를 나누는 시사IN 리더십 포럼이 올해로 8회를 맞았다. 여섯 ‘꿈’ 멘토들은 학생들에게 “실패해도 괜찮다”며 위로를 건넸다.\n리더십 포럼은 2010년부터 시사IN이 사회 환원 프로그램의 일환으로 진행해온 진로 교육 강좌다. 입시나 환경에 짓눌려 꿈을 꾸지 못하는 고등학생을 위해 무료로 마련했다. 올해로 8회를 맞은 시사IN 리더십 포럼은 충북 청주시(6월8일), 전북 전주시(6월9일), 서울(6월12일)에서 각각 200명 안팎의 고교생이 참가한 가운데 열렸다.",
+      "publishedAt": "2017-06-27T07:37:41Z",
+      "duration": "PT6M26S",
+      "viewCount": 615,
+      "likeCount": 3,
+      "commentCount": 0,
+      "tags": [
+        "시사인",
+        "시사IN",
+        "리더십",
+        "포럼",
+        "리더십포럼",
+        "고산",
+        "박찬모",
+        "정나현",
+        "임성원",
+        "최윤희",
+        "조성준",
+        "황종현"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2017-06-27T07:37:41Z",
+      "channelId": "UCaVuYo_tiiNzTSmlnM-A2kQ",
+      "channelName": "시사IN(시사인)",
+      "collectedAt": "2025-08-22T13:36:37Z"
     }
   },
   "channels": {
@@ -737,9 +767,36 @@
       "viewCount": 4319423561,
       "videoCount": 150855,
       "lastUpdated": "2025-08-21T10:28:21.605523Z"
+    },
+    "UCaVuYo_tiiNzTSmlnM-A2kQ": {
+      "channelId": "UCaVuYo_tiiNzTSmlnM-A2kQ",
+      "channelName": "시사IN(시사인)",
+      "channelUrl": "@sisaineditor",
+      "channelDescription": "더 나은 세상을 만드는 저널리즘, \n시사IN이 만든 라이브 방송 \n시사IN 유튜브 편성 안내\n\n🔴 [월~목 오후 5시] 김은지의 뉴스IN \n김은지 정치팀장이 정치 현안을 샅샅이 훑어드리겠습니다. \n\n●시사IN 홈페이지 https://www.sisain.co.kr/\n○시사IN 구독 https://subscribe.sisain.co.kr/\n○시사IN 후원 https://support.sisain.co.kr\n○시사IN 후원 계좌 하나은행 109-910017-83704 ㈜참언론\n○시사IN paypal http://paypal.me/sisain\n● 광고 문의 webmaster@sisain.co.kr\n\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/trmysMk0KktWKxHZLJFrZ_NjpqiYyQUmTG5wOHNjO6ap-lYLBj8hYxSv9uy9qVO0-w2CQYCEKg=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/trmysMk0KktWKxHZLJFrZ_NjpqiYyQUmTG5wOHNjO6ap-lYLBj8hYxSv9uy9qVO0-w2CQYCEKg=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/trmysMk0KktWKxHZLJFrZ_NjpqiYyQUmTG5wOHNjO6ap-lYLBj8hYxSv9uy9qVO0-w2CQYCEKg=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 666000,
+      "viewCount": 191324441,
+      "videoCount": 3184,
+      "lastUpdated": "2025-08-22T13:36:37.960493Z"
     }
   },
-  "lastUpdated": "2025-08-21T10:45:49.569846Z",
-  "totalVideos": 24,
-  "totalChannels": 3
+  "lastUpdated": "2025-08-22T13:36:37.962312Z",
+  "totalVideos": 25,
+  "totalChannels": 4
 }

@@ -219,6 +219,29 @@
       "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
       "channelName": "뉴스TVCHOSUN",
       "collectedAt": "2025-08-21T10:46:32Z"
+    },
+    "BACKyxtwU4M": {
+      "videoId": "BACKyxtwU4M",
+      "title": "이석태 세월호특조위원장 긴급 기자회견",
+      "description": "\"이번 해수부의 통보는 세월호 특조위의 조사활동을 강제종료하려는 것으로서 진상규명활동에 대한 명백한 방해 행위입니다. 이러한 방해에도 굴하지 않고 특조위는 진상규명, 안전사회 건설, 피해자 지원을 염원하는 참사 희생자와 유가족, 그리고 국민 여러분들을 바라보며 활동을 이어가겠습니다. 7월 1일 이후에도 조사활동을 계속해 나가겠습니다.\n국민 여러분의 지지를 호소합니다.\"",
+      "publishedAt": "2016-06-22T08:15:21Z",
+      "duration": "PT2M22S",
+      "viewCount": 157,
+      "likeCount": 1,
+      "commentCount": 0,
+      "tags": [
+        "시사인",
+        "시사IN",
+        "세월호",
+        "특조위",
+        "이석태"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2016-06-22T08:15:21Z",
+      "channelId": "UCaVuYo_tiiNzTSmlnM-A2kQ",
+      "channelName": "시사IN(시사인)",
+      "collectedAt": "2025-08-22T13:36:39Z"
     }
   },
   "channels": {
@@ -302,9 +325,36 @@
       "viewCount": 4319423561,
       "videoCount": 150855,
       "lastUpdated": "2025-08-21T10:29:08.777264Z"
+    },
+    "UCaVuYo_tiiNzTSmlnM-A2kQ": {
+      "channelId": "UCaVuYo_tiiNzTSmlnM-A2kQ",
+      "channelName": "시사IN(시사인)",
+      "channelUrl": "@sisaineditor",
+      "channelDescription": "더 나은 세상을 만드는 저널리즘, \n시사IN이 만든 라이브 방송 \n시사IN 유튜브 편성 안내\n\n🔴 [월~목 오후 5시] 김은지의 뉴스IN \n김은지 정치팀장이 정치 현안을 샅샅이 훑어드리겠습니다. \n\n●시사IN 홈페이지 https://www.sisain.co.kr/\n○시사IN 구독 https://subscribe.sisain.co.kr/\n○시사IN 후원 https://support.sisain.co.kr\n○시사IN 후원 계좌 하나은행 109-910017-83704 ㈜참언론\n○시사IN paypal http://paypal.me/sisain\n● 광고 문의 webmaster@sisain.co.kr\n\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/trmysMk0KktWKxHZLJFrZ_NjpqiYyQUmTG5wOHNjO6ap-lYLBj8hYxSv9uy9qVO0-w2CQYCEKg=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/trmysMk0KktWKxHZLJFrZ_NjpqiYyQUmTG5wOHNjO6ap-lYLBj8hYxSv9uy9qVO0-w2CQYCEKg=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/trmysMk0KktWKxHZLJFrZ_NjpqiYyQUmTG5wOHNjO6ap-lYLBj8hYxSv9uy9qVO0-w2CQYCEKg=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 666000,
+      "viewCount": 191324441,
+      "videoCount": 3184,
+      "lastUpdated": "2025-08-22T13:36:39.175824Z"
     }
   },
-  "lastUpdated": "2025-08-21T10:46:32.485470Z",
-  "totalVideos": 8,
-  "totalChannels": 3
+  "lastUpdated": "2025-08-22T13:36:39.176821Z",
+  "totalVideos": 9,
+  "totalChannels": 4
 }

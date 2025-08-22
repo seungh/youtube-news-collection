@@ -983,6 +983,30 @@
       "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
       "channelName": "뉴스TVCHOSUN",
       "collectedAt": "2025-08-21T10:44:37Z"
+    },
+    "fm15876i0aw": {
+      "videoId": "fm15876i0aw",
+      "title": "\"음식물 쓰레기 분쇄기? 지구를 갈아버리는 것\"[난세의 역사]",
+      "description": "\"음식물 쓰레기 분쇄기? 지구를 갈아버리는 것\"[난세의 역사]\n\"음식물 쓰레기 갈아버리지 마세요 / 가로수 나뭇가지 함부로 자르지 마세요\"\n\n- 홍수열 쓰레기박사, 공원국 작가\n\n#음식물분쇄기 #강전정식물 쓰레기 분쇄기? 지구를 갈아버리는 것\"[난세의 역사]\n\"음식물 쓰레기 갈아버리지 마세요 / 가로수 나뭇가지 함부로 자르지 마세요\"\n\n- 홍수열 쓰레기박사, 공원국 작가\n\n#음식물분쇄기 #전정 #홍수열 #공원국",
+      "publishedAt": "2021-04-10T06:30:32Z",
+      "duration": "PT19M37S",
+      "viewCount": 1963,
+      "likeCount": 0,
+      "commentCount": 2,
+      "tags": [
+        "CBS",
+        "CBS 라디오",
+        "FM98.1",
+        "김종대",
+        "뉴스업",
+        "김종대의뉴스업"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2021-04-10T06:30:32Z",
+      "channelId": "UCV9gIwasozKlwz5U2Sa2q6g",
+      "channelName": "박재홍의 한판승부",
+      "collectedAt": "2025-08-22T13:37:01Z"
     }
   },
   "channels": {
@@ -1120,9 +1144,36 @@
       "viewCount": 4319423561,
       "videoCount": 150855,
       "lastUpdated": "2025-08-21T10:26:52.092712Z"
+    },
+    "UCV9gIwasozKlwz5U2Sa2q6g": {
+      "channelId": "UCV9gIwasozKlwz5U2Sa2q6g",
+      "channelName": "박재홍의 한판승부",
+      "channelUrl": "@cbs_hanpan",
+      "channelDescription": "CBS 라디오 '박재홍의 한판승부' 공식채널입니다.\n(월~금 저녁 6:00-7:30 - 본방송 / 화,목 저녁 7:30~8:15 - 더 라커룸 / 98.1MHz, 레인보우앱, 유튜브)\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/guZNvXSgAM9HUoqEmZFqv3cGB5tY2kJA3-2MA4M8T6tx8w-8-oI7XYj1uhu60LcUvUf7jPDS=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/guZNvXSgAM9HUoqEmZFqv3cGB5tY2kJA3-2MA4M8T6tx8w-8-oI7XYj1uhu60LcUvUf7jPDS=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/guZNvXSgAM9HUoqEmZFqv3cGB5tY2kJA3-2MA4M8T6tx8w-8-oI7XYj1uhu60LcUvUf7jPDS=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 904000,
+      "viewCount": 662049830,
+      "videoCount": 14573,
+      "lastUpdated": "2025-08-22T13:37:01.044678Z"
     }
   },
-  "lastUpdated": "2025-08-21T10:44:37.105281Z",
-  "totalVideos": 35,
-  "totalChannels": 5
+  "lastUpdated": "2025-08-22T13:37:01.068824Z",
+  "totalVideos": 36,
+  "totalChannels": 6
 }

@@ -690,6 +690,23 @@
       "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
       "channelName": "뉴스TVCHOSUN",
       "collectedAt": "2025-08-21T10:44:25Z"
+    },
+    "PXUvWRa1u-8": {
+      "videoId": "PXUvWRa1u-8",
+      "title": "이재명, 대전·충남 경선 압도적 1등 #Shorts",
+      "description": "#Shorts\n9월 4일 더불어민주당 첫 번째 순회 경선 지역인 대전·충남에서 이재명 후보가 득표율 54.81%로 1위를 기록했다. 이낙연 후보는 27.41%로 2위, 정세균 후보가 7.84%로 뒤를 이었다.\n\n👉 시사IN 구독 및 후원: support.sisain.co.kr\n- 하나은행 1099-100178-3704 (주)참언론\n- paypal 후원 : http://paypal.me/sisain",
+      "publishedAt": "2021-09-04T13:35:13Z",
+      "duration": "PT40S",
+      "viewCount": 1363,
+      "likeCount": 108,
+      "commentCount": 9,
+      "tags": [],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2021-09-04T13:35:13Z",
+      "channelId": "UCaVuYo_tiiNzTSmlnM-A2kQ",
+      "channelName": "시사IN(시사인)",
+      "collectedAt": "2025-08-22T13:36:12Z"
     }
   },
   "channels": {
@@ -773,9 +790,36 @@
       "viewCount": 4319423561,
       "videoCount": 150855,
       "lastUpdated": "2025-08-21T10:26:39.782312Z"
+    },
+    "UCaVuYo_tiiNzTSmlnM-A2kQ": {
+      "channelId": "UCaVuYo_tiiNzTSmlnM-A2kQ",
+      "channelName": "시사IN(시사인)",
+      "channelUrl": "@sisaineditor",
+      "channelDescription": "더 나은 세상을 만드는 저널리즘, \n시사IN이 만든 라이브 방송 \n시사IN 유튜브 편성 안내\n\n🔴 [월~목 오후 5시] 김은지의 뉴스IN \n김은지 정치팀장이 정치 현안을 샅샅이 훑어드리겠습니다. \n\n●시사IN 홈페이지 https://www.sisain.co.kr/\n○시사IN 구독 https://subscribe.sisain.co.kr/\n○시사IN 후원 https://support.sisain.co.kr\n○시사IN 후원 계좌 하나은행 109-910017-83704 ㈜참언론\n○시사IN paypal http://paypal.me/sisain\n● 광고 문의 webmaster@sisain.co.kr\n\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/trmysMk0KktWKxHZLJFrZ_NjpqiYyQUmTG5wOHNjO6ap-lYLBj8hYxSv9uy9qVO0-w2CQYCEKg=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/trmysMk0KktWKxHZLJFrZ_NjpqiYyQUmTG5wOHNjO6ap-lYLBj8hYxSv9uy9qVO0-w2CQYCEKg=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/trmysMk0KktWKxHZLJFrZ_NjpqiYyQUmTG5wOHNjO6ap-lYLBj8hYxSv9uy9qVO0-w2CQYCEKg=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 666000,
+      "viewCount": 191324441,
+      "videoCount": 3184,
+      "lastUpdated": "2025-08-22T13:36:12.411689Z"
     }
   },
-  "lastUpdated": "2025-08-21T10:44:25.888471Z",
-  "totalVideos": 26,
-  "totalChannels": 3
+  "lastUpdated": "2025-08-22T13:36:12.428439Z",
+  "totalVideos": 27,
+  "totalChannels": 4
 }

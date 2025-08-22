@@ -917,6 +917,31 @@
       "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
       "channelName": "뉴스TVCHOSUN",
       "collectedAt": "2025-08-21T10:45:53Z"
+    },
+    "O7iHsCKZ8CA": {
+      "videoId": "O7iHsCKZ8CA",
+      "title": "시사IN 인터뷰 Show - 노회찬",
+      "description": "독자와 함께하는 ‘시사IN 인터뷰 쇼 시즌2’의 인터뷰이로 노회찬 의원이 나섰다. 정치 개혁에서 화술까지 질문은 다양했다. 6월28일 서울 홍대 앞 ‘청년문화공간JU동교동’에서 열린 '시사IN 인터뷰 쇼' 입니다.",
+      "publishedAt": "2017-07-03T00:55:07Z",
+      "duration": "PT1H37M26S",
+      "viewCount": 130646,
+      "likeCount": 1487,
+      "commentCount": 157,
+      "tags": [
+        "시사인",
+        "시사IN",
+        "노회찬",
+        "차형석",
+        "이숙이",
+        "정의당",
+        "인터뷰쇼"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2017-07-03T00:55:07Z",
+      "channelId": "UCaVuYo_tiiNzTSmlnM-A2kQ",
+      "channelName": "시사IN(시사인)",
+      "collectedAt": "2025-08-22T13:36:33Z"
     }
   },
   "channels": {
@@ -1027,9 +1052,36 @@
       "viewCount": 4319423561,
       "videoCount": 150855,
       "lastUpdated": "2025-08-21T10:28:27.892798Z"
+    },
+    "UCaVuYo_tiiNzTSmlnM-A2kQ": {
+      "channelId": "UCaVuYo_tiiNzTSmlnM-A2kQ",
+      "channelName": "시사IN(시사인)",
+      "channelUrl": "@sisaineditor",
+      "channelDescription": "더 나은 세상을 만드는 저널리즘, \n시사IN이 만든 라이브 방송 \n시사IN 유튜브 편성 안내\n\n🔴 [월~목 오후 5시] 김은지의 뉴스IN \n김은지 정치팀장이 정치 현안을 샅샅이 훑어드리겠습니다. \n\n●시사IN 홈페이지 https://www.sisain.co.kr/\n○시사IN 구독 https://subscribe.sisain.co.kr/\n○시사IN 후원 https://support.sisain.co.kr\n○시사IN 후원 계좌 하나은행 109-910017-83704 ㈜참언론\n○시사IN paypal http://paypal.me/sisain\n● 광고 문의 webmaster@sisain.co.kr\n\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/trmysMk0KktWKxHZLJFrZ_NjpqiYyQUmTG5wOHNjO6ap-lYLBj8hYxSv9uy9qVO0-w2CQYCEKg=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/trmysMk0KktWKxHZLJFrZ_NjpqiYyQUmTG5wOHNjO6ap-lYLBj8hYxSv9uy9qVO0-w2CQYCEKg=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/trmysMk0KktWKxHZLJFrZ_NjpqiYyQUmTG5wOHNjO6ap-lYLBj8hYxSv9uy9qVO0-w2CQYCEKg=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 666000,
+      "viewCount": 191324441,
+      "videoCount": 3184,
+      "lastUpdated": "2025-08-22T13:36:33.762644Z"
     }
   },
-  "lastUpdated": "2025-08-21T10:45:53.757767Z",
-  "totalVideos": 33,
-  "totalChannels": 4
+  "lastUpdated": "2025-08-22T13:36:33.763639Z",
+  "totalVideos": 34,
+  "totalChannels": 5
 }

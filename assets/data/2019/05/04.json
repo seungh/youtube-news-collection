@@ -688,6 +688,47 @@
       "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
       "channelName": "뉴스TVCHOSUN",
       "collectedAt": "2025-08-21T10:45:23Z"
+    },
+    "ieO7HCbOb2g": {
+      "videoId": "ieO7HCbOb2g",
+      "title": "[시사인싸]11회-2부.천관율 기자, 정한울 박사의 '20대 남자 현상' 분석(대하 팟캐스트)",
+      "description": "하나의 뉴스를 깊이있게 분석하는 뉴스콕 코너입니다. 공개 후 SNS에서 연일 화제! 무려 3부작 기획, '20대 남자 현상' 기사의 주인공이시죠. 천관율 기자와 정한울 한국리서치 연구위원을 모셨습니다. \n\n*진행: 최광기\n*출연: 천관율, 정한울, 김은지\n\n*이번 영상은 음성으로만 이루어져 있습니다. 조사 내용을 언급하는 부분에서 해당 결과 그래프를 추가했으니 함께 보시면 청취에 도움이 됩니다.\n\n*팟캐스트 '시사인싸'는 팟빵에서도 들으실 수 있습니다. ☞ http://www.podbbang.com/ch/1770334\n\n*시사IN 구독 및 후원은 아래에서 가능합니다. 더 좋은 콘텐츠로 보답하겠습니다. 항상 감사합니다 :)\n- support.sisain.co.kr\n- 하나은행 1099-100178-3704 (주)참언론\n- paypal 후원 : http://paypal.me/sisain",
+      "publishedAt": "2019-05-04T00:00:06Z",
+      "duration": "PT1H14M32S",
+      "viewCount": 5043,
+      "likeCount": 290,
+      "commentCount": 67,
+      "tags": [
+        "시사인",
+        "시사IN",
+        "시사인팟캐스트",
+        "시사IN팟캐스트",
+        "시사인싸",
+        "천관율",
+        "천관율기자",
+        "정한울",
+        "김은지",
+        "김은지기자",
+        "최광기",
+        "20대남자",
+        "페미니즘",
+        "페미니스트",
+        "반페미니스트",
+        "여성차별",
+        "남성차별",
+        "여성우월주의",
+        "결혼",
+        "출산",
+        "육아",
+        "승진",
+        "취업"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2019-05-04T00:00:06Z",
+      "channelId": "UCaVuYo_tiiNzTSmlnM-A2kQ",
+      "channelName": "시사IN(시사인)",
+      "collectedAt": "2025-08-22T13:36:28Z"
     }
   },
   "channels": {
@@ -825,9 +866,36 @@
       "viewCount": 4319423561,
       "videoCount": 150855,
       "lastUpdated": "2025-08-21T10:27:51.562156Z"
+    },
+    "UCaVuYo_tiiNzTSmlnM-A2kQ": {
+      "channelId": "UCaVuYo_tiiNzTSmlnM-A2kQ",
+      "channelName": "시사IN(시사인)",
+      "channelUrl": "@sisaineditor",
+      "channelDescription": "더 나은 세상을 만드는 저널리즘, \n시사IN이 만든 라이브 방송 \n시사IN 유튜브 편성 안내\n\n🔴 [월~목 오후 5시] 김은지의 뉴스IN \n김은지 정치팀장이 정치 현안을 샅샅이 훑어드리겠습니다. \n\n●시사IN 홈페이지 https://www.sisain.co.kr/\n○시사IN 구독 https://subscribe.sisain.co.kr/\n○시사IN 후원 https://support.sisain.co.kr\n○시사IN 후원 계좌 하나은행 109-910017-83704 ㈜참언론\n○시사IN paypal http://paypal.me/sisain\n● 광고 문의 webmaster@sisain.co.kr\n\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/trmysMk0KktWKxHZLJFrZ_NjpqiYyQUmTG5wOHNjO6ap-lYLBj8hYxSv9uy9qVO0-w2CQYCEKg=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/trmysMk0KktWKxHZLJFrZ_NjpqiYyQUmTG5wOHNjO6ap-lYLBj8hYxSv9uy9qVO0-w2CQYCEKg=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/trmysMk0KktWKxHZLJFrZ_NjpqiYyQUmTG5wOHNjO6ap-lYLBj8hYxSv9uy9qVO0-w2CQYCEKg=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 666000,
+      "viewCount": 191324441,
+      "videoCount": 3184,
+      "lastUpdated": "2025-08-22T13:36:28.258097Z"
     }
   },
-  "lastUpdated": "2025-08-21T10:45:23.628413Z",
-  "totalVideos": 25,
-  "totalChannels": 5
+  "lastUpdated": "2025-08-22T13:36:28.258097Z",
+  "totalVideos": 26,
+  "totalChannels": 6
 }

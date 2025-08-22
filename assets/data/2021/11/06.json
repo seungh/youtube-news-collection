@@ -712,6 +712,26 @@
       "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
       "channelName": "뉴스TVCHOSUN",
       "collectedAt": "2025-08-21T10:44:30Z"
+    },
+    "zdh3R3_xyWo": {
+      "videoId": "zdh3R3_xyWo",
+      "title": "⟨죽는 게 참 어렵습니다⟩ 북토크(송병기×장일호)",
+      "description": "이번 주 내내 한평책빵(서울 은평구 통일로 684, 혁신파크 내)에서는 ⟨죽는 게 참 어렵습니다⟩ 저자 4명이 추천한 책들로 꾸려진 추천서가가 운영되고 있습니다. 시사IN북 추천서가 마지막 날인 11월6일(토)에는 저자들이 서점원으로 독자들을 만날 예정인데요, 관련 프로그램을 소개합니다. 시간 허락하시는 분들은 들러주셔도 좋고, 온라인으로도 참여해주셔도 큰 힘이 될 것 같습니다.",
+      "publishedAt": "2021-11-06T07:22:12Z",
+      "duration": "PT1H9M42S",
+      "viewCount": 838,
+      "likeCount": 64,
+      "commentCount": 1,
+      "tags": [],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": {
+        "actualStartTime": "2021-11-06T05:12:34Z",
+        "actualEndTime": "2021-11-06T07:12:12Z"
+      },
+      "actualPubAt": "2021-11-06T05:12:34Z",
+      "channelId": "UCaVuYo_tiiNzTSmlnM-A2kQ",
+      "channelName": "시사IN(시사인)",
+      "collectedAt": "2025-08-22T13:36:41Z"
     }
   },
   "channels": {
@@ -822,9 +842,36 @@
       "viewCount": 4319423561,
       "videoCount": 150855,
       "lastUpdated": "2025-08-21T10:26:44.354703Z"
+    },
+    "UCaVuYo_tiiNzTSmlnM-A2kQ": {
+      "channelId": "UCaVuYo_tiiNzTSmlnM-A2kQ",
+      "channelName": "시사IN(시사인)",
+      "channelUrl": "@sisaineditor",
+      "channelDescription": "더 나은 세상을 만드는 저널리즘, \n시사IN이 만든 라이브 방송 \n시사IN 유튜브 편성 안내\n\n🔴 [월~목 오후 5시] 김은지의 뉴스IN \n김은지 정치팀장이 정치 현안을 샅샅이 훑어드리겠습니다. \n\n●시사IN 홈페이지 https://www.sisain.co.kr/\n○시사IN 구독 https://subscribe.sisain.co.kr/\n○시사IN 후원 https://support.sisain.co.kr\n○시사IN 후원 계좌 하나은행 109-910017-83704 ㈜참언론\n○시사IN paypal http://paypal.me/sisain\n● 광고 문의 webmaster@sisain.co.kr\n\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/trmysMk0KktWKxHZLJFrZ_NjpqiYyQUmTG5wOHNjO6ap-lYLBj8hYxSv9uy9qVO0-w2CQYCEKg=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/trmysMk0KktWKxHZLJFrZ_NjpqiYyQUmTG5wOHNjO6ap-lYLBj8hYxSv9uy9qVO0-w2CQYCEKg=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/trmysMk0KktWKxHZLJFrZ_NjpqiYyQUmTG5wOHNjO6ap-lYLBj8hYxSv9uy9qVO0-w2CQYCEKg=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 666000,
+      "viewCount": 191324441,
+      "videoCount": 3184,
+      "lastUpdated": "2025-08-22T13:36:41.401410Z"
     }
   },
-  "lastUpdated": "2025-08-21T10:44:30.065835Z",
-  "totalVideos": 26,
-  "totalChannels": 4
+  "lastUpdated": "2025-08-22T13:36:41.408307Z",
+  "totalVideos": 27,
+  "totalChannels": 5
 }

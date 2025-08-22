@@ -1503,6 +1503,54 @@
       "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
       "channelName": "뉴스TVCHOSUN",
       "collectedAt": "2025-08-21T10:44:55Z"
+    },
+    "Of5LW7_7AkI": {
+      "videoId": "Of5LW7_7AkI",
+      "title": "전국단위 지상파 최초 더불어민주당 당대표 토론회- 이낙연 후보, 김부겸 후보, 박주민 후보｜시사자키 정관용입니다",
+      "description": "전국단위 지상파 최초 더불어민주당 당대표 토론회- 이낙연 후보, 김부겸 후보, 박주민 후보｜시사자키 정관용입니다\n\n#이낙연 #김부겸 #박주민",
+      "publishedAt": "2020-08-18T12:14:26Z",
+      "duration": "PT1H23M24S",
+      "viewCount": 14963,
+      "likeCount": 0,
+      "commentCount": 61,
+      "tags": [
+        "시사자키 정관용입니다",
+        "CBS",
+        "정관용",
+        "정관용 교수",
+        "시사자키",
+        "CBS 라디오",
+        "FM98.1"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2020-08-18T12:14:26Z",
+      "channelId": "UCV9gIwasozKlwz5U2Sa2q6g",
+      "channelName": "박재홍의 한판승부",
+      "collectedAt": "2025-08-22T13:37:17Z"
+    },
+    "bANwToozhzM": {
+      "videoId": "bANwToozhzM",
+      "title": "시사자키 정관용입니다｜8월 18일(화)｜[시사자키 특집] 더불어민주당 당대표 토론회 '이낙연 김부겸 박주민'",
+      "description": "#이낙연 #김부겸 #박주민\n\n◎ \"시사자키 정관용입니다\" 특집\n“더불어민주당 당대표 후보 토론회”\n- 이낙연 후보\n- 김부겸 후보\n- 박주민 후보\n\n궁금한 뉴스, 만나고 싶은 사람. 시사자키 정관용입니다.\n채널 ▶구독◀ 눌러주시면 언제든 방송 내용을 다시듣기 하실 수 있습니다.\n\n■ 라디오: CBS 표준 FM 98.1\n■ 모바일 듣기(레인보우 설치): http://app.cbs.co.kr/detail.aspx?num=1",
+      "publishedAt": "2020-08-18T11:15:53Z",
+      "duration": "PT1H23M25S",
+      "viewCount": 16518,
+      "likeCount": 449,
+      "commentCount": 27,
+      "tags": [
+        "정관용",
+        "시사자키"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": {
+        "actualStartTime": "2020-08-18T09:15:12Z",
+        "actualEndTime": "2020-08-18T10:51:59Z"
+      },
+      "actualPubAt": "2020-08-18T09:15:12Z",
+      "channelId": "UCV9gIwasozKlwz5U2Sa2q6g",
+      "channelName": "박재홍의 한판승부",
+      "collectedAt": "2025-08-22T13:37:17Z"
     }
   },
   "channels": {
@@ -1667,9 +1715,36 @@
       "viewCount": 4319423561,
       "videoCount": 150855,
       "lastUpdated": "2025-08-21T10:27:16.018300Z"
+    },
+    "UCV9gIwasozKlwz5U2Sa2q6g": {
+      "channelId": "UCV9gIwasozKlwz5U2Sa2q6g",
+      "channelName": "박재홍의 한판승부",
+      "channelUrl": "@cbs_hanpan",
+      "channelDescription": "CBS 라디오 '박재홍의 한판승부' 공식채널입니다.\n(월~금 저녁 6:00-7:30 - 본방송 / 화,목 저녁 7:30~8:15 - 더 라커룸 / 98.1MHz, 레인보우앱, 유튜브)\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/guZNvXSgAM9HUoqEmZFqv3cGB5tY2kJA3-2MA4M8T6tx8w-8-oI7XYj1uhu60LcUvUf7jPDS=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/guZNvXSgAM9HUoqEmZFqv3cGB5tY2kJA3-2MA4M8T6tx8w-8-oI7XYj1uhu60LcUvUf7jPDS=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/guZNvXSgAM9HUoqEmZFqv3cGB5tY2kJA3-2MA4M8T6tx8w-8-oI7XYj1uhu60LcUvUf7jPDS=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 904000,
+      "viewCount": 662049830,
+      "videoCount": 14573,
+      "lastUpdated": "2025-08-22T13:37:17.396214Z"
     }
   },
-  "lastUpdated": "2025-08-21T10:44:55.655909Z",
-  "totalVideos": 54,
-  "totalChannels": 6
+  "lastUpdated": "2025-08-22T13:37:17.398210Z",
+  "totalVideos": 56,
+  "totalChannels": 7
 }

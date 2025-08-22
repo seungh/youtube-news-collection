@@ -409,6 +409,50 @@
       "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
       "channelName": "뉴스TVCHOSUN",
       "collectedAt": "2025-08-21T10:45:52Z"
+    },
+    "x-y9yUkNElE": {
+      "videoId": "x-y9yUkNElE",
+      "title": "송지혜 기자의 색깔 있는 신간 소개 - 486호",
+      "description": "[지연된 정의] 박상규·박준영 지음, 후마니타스 펴냄\n[메시] 팀하포드지음, 위즈덤하우스 펴냄\n[모던팝스토리] 밥스탠리지음, 배순탁외 옮김, 북라이프 펴냄\n[의장! 이의 있습니다] 제프그램지음, 이건외 옮김, 에프엔미디어 펴냄\n[마지막으로 할 만한 멋진일] 제임스 팁트리 주니어 지음, 신해경외 옮김, 아작 펴냄\n[싸울 때마다 투명해진다] 은유 지음, 서해문집 펴냄",
+      "publishedAt": "2017-01-04T09:44:33Z",
+      "duration": "PT13M28S",
+      "viewCount": 464,
+      "likeCount": 5,
+      "commentCount": 0,
+      "tags": [
+        "시사인",
+        "시사IN",
+        "송지혜",
+        "신간"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2017-01-04T09:44:33Z",
+      "channelId": "UCaVuYo_tiiNzTSmlnM-A2kQ",
+      "channelName": "시사IN(시사인)",
+      "collectedAt": "2025-08-22T13:36:34Z"
+    },
+    "aQq7sPlTYhE": {
+      "videoId": "aQq7sPlTYhE",
+      "title": "김영미의 눈높이 국제뉴스 2017년 1월 3일",
+      "description": "[중점 뉴스] 2017 새해 벽두 테러  정국\n\n[탑 5뉴스]\n- 프랑스 한국인 입양아 IS 대원 10년형\n- 인도 새해 맞이 축제 현장 성폭력 발생 논란\n- 브라질 교도소 폭동 ,바레인 교도소 습격\n- 이스라엘 총리 고가 선물 수뢰로 경찰조사\n- 적도기니 대통령 아들 프랑스서 재판\n\n[시사용어 해설] 솅겐조약 (Schengen agreement)",
+      "publishedAt": "2017-01-04T01:31:58Z",
+      "duration": "PT24M34S",
+      "viewCount": 265,
+      "likeCount": 4,
+      "commentCount": 0,
+      "tags": [
+        "시사인",
+        "시사IN",
+        "김영미",
+        "국제뉴스"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2017-01-04T01:31:58Z",
+      "channelId": "UCaVuYo_tiiNzTSmlnM-A2kQ",
+      "channelName": "시사IN(시사인)",
+      "collectedAt": "2025-08-22T13:36:34Z"
     }
   },
   "channels": {
@@ -492,9 +536,36 @@
       "viewCount": 4319423561,
       "videoCount": 150855,
       "lastUpdated": "2025-08-21T10:28:26.257225Z"
+    },
+    "UCaVuYo_tiiNzTSmlnM-A2kQ": {
+      "channelId": "UCaVuYo_tiiNzTSmlnM-A2kQ",
+      "channelName": "시사IN(시사인)",
+      "channelUrl": "@sisaineditor",
+      "channelDescription": "더 나은 세상을 만드는 저널리즘, \n시사IN이 만든 라이브 방송 \n시사IN 유튜브 편성 안내\n\n🔴 [월~목 오후 5시] 김은지의 뉴스IN \n김은지 정치팀장이 정치 현안을 샅샅이 훑어드리겠습니다. \n\n●시사IN 홈페이지 https://www.sisain.co.kr/\n○시사IN 구독 https://subscribe.sisain.co.kr/\n○시사IN 후원 https://support.sisain.co.kr\n○시사IN 후원 계좌 하나은행 109-910017-83704 ㈜참언론\n○시사IN paypal http://paypal.me/sisain\n● 광고 문의 webmaster@sisain.co.kr\n\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/trmysMk0KktWKxHZLJFrZ_NjpqiYyQUmTG5wOHNjO6ap-lYLBj8hYxSv9uy9qVO0-w2CQYCEKg=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/trmysMk0KktWKxHZLJFrZ_NjpqiYyQUmTG5wOHNjO6ap-lYLBj8hYxSv9uy9qVO0-w2CQYCEKg=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/trmysMk0KktWKxHZLJFrZ_NjpqiYyQUmTG5wOHNjO6ap-lYLBj8hYxSv9uy9qVO0-w2CQYCEKg=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 666000,
+      "viewCount": 191324441,
+      "videoCount": 3184,
+      "lastUpdated": "2025-08-22T13:36:34.223677Z"
     }
   },
-  "lastUpdated": "2025-08-21T10:45:52.536217Z",
-  "totalVideos": 15,
-  "totalChannels": 3
+  "lastUpdated": "2025-08-22T13:36:34.230265Z",
+  "totalVideos": 17,
+  "totalChannels": 4
 }

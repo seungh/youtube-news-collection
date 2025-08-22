@@ -871,6 +871,60 @@
       "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
       "channelName": "뉴스TVCHOSUN",
       "collectedAt": "2025-08-21T10:45:54Z"
+    },
+    "Oug0kRAX8Oc": {
+      "videoId": "Oug0kRAX8Oc",
+      "title": "박근혜 검찰 출두",
+      "description": "오늘 오전 9시25분경 박근혜 전 대통령이 서울중앙지검에 출두했습니다. 박 전 대통령은 차에서 내려 \"국민여러분께 송구스럽게 생각합니다. 성실하게 조사에 임하겠습니다\"라고 말한 뒤 검찰청 건물 안으로 들어갔습니다.\n\n ✔️끝까지 취재하겠습니다. http://pay.sisain.co.kr",
+      "publishedAt": "2017-03-21T03:19:11Z",
+      "duration": "PT1M2S",
+      "viewCount": 2486,
+      "likeCount": 6,
+      "commentCount": 1,
+      "tags": [
+        "시사인",
+        "시사in",
+        "박근혜",
+        "검찰",
+        "출두",
+        "출석",
+        "서울중앙지검",
+        "검찰청",
+        "서울지검"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2017-03-21T03:19:11Z",
+      "channelId": "UCaVuYo_tiiNzTSmlnM-A2kQ",
+      "channelName": "시사IN(시사인)",
+      "collectedAt": "2025-08-22T13:36:38Z"
+    },
+    "svpdshglc90": {
+      "videoId": "svpdshglc90",
+      "title": "삼성동 자택을 나오는 박근혜 전 대통령",
+      "description": "오늘(3월21일) 오전 9시 17분경 박근혜 전 대통령이 검찰 조사를 받기 위해 삼성동 자택을 떠났습니다. 자택 주변에는 박 전 대통령의 검찰 조사를 반대하는 시민 200여 명이 모였습니다.\n박 전 대통령이 나오자 집회 참석자들은 \"억지탄압 원천무효. 박근혜를 왜 가두냐\"라고 외쳤습니다. 주변에는 경찰병력 12개 중대 960여 명이 배치됐습니다.\n✔끝까지 취재하겠습니다. http://pay.sisain.co.kr",
+      "publishedAt": "2017-03-21T02:24:21Z",
+      "duration": "PT56S",
+      "viewCount": 815,
+      "likeCount": 5,
+      "commentCount": 3,
+      "tags": [
+        "시사인",
+        "시사IN",
+        "박근혜",
+        "검찰출두",
+        "검찰",
+        "출석",
+        "출두",
+        "삼성동",
+        "자택"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2017-03-21T02:24:21Z",
+      "channelId": "UCaVuYo_tiiNzTSmlnM-A2kQ",
+      "channelName": "시사IN(시사인)",
+      "collectedAt": "2025-08-22T13:36:38Z"
     }
   },
   "channels": {
@@ -981,9 +1035,36 @@
       "viewCount": 4319423561,
       "videoCount": 150855,
       "lastUpdated": "2025-08-21T10:28:28.321334Z"
+    },
+    "UCaVuYo_tiiNzTSmlnM-A2kQ": {
+      "channelId": "UCaVuYo_tiiNzTSmlnM-A2kQ",
+      "channelName": "시사IN(시사인)",
+      "channelUrl": "@sisaineditor",
+      "channelDescription": "더 나은 세상을 만드는 저널리즘, \n시사IN이 만든 라이브 방송 \n시사IN 유튜브 편성 안내\n\n🔴 [월~목 오후 5시] 김은지의 뉴스IN \n김은지 정치팀장이 정치 현안을 샅샅이 훑어드리겠습니다. \n\n●시사IN 홈페이지 https://www.sisain.co.kr/\n○시사IN 구독 https://subscribe.sisain.co.kr/\n○시사IN 후원 https://support.sisain.co.kr\n○시사IN 후원 계좌 하나은행 109-910017-83704 ㈜참언론\n○시사IN paypal http://paypal.me/sisain\n● 광고 문의 webmaster@sisain.co.kr\n\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/trmysMk0KktWKxHZLJFrZ_NjpqiYyQUmTG5wOHNjO6ap-lYLBj8hYxSv9uy9qVO0-w2CQYCEKg=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/trmysMk0KktWKxHZLJFrZ_NjpqiYyQUmTG5wOHNjO6ap-lYLBj8hYxSv9uy9qVO0-w2CQYCEKg=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/trmysMk0KktWKxHZLJFrZ_NjpqiYyQUmTG5wOHNjO6ap-lYLBj8hYxSv9uy9qVO0-w2CQYCEKg=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 666000,
+      "viewCount": 191324441,
+      "videoCount": 3184,
+      "lastUpdated": "2025-08-22T13:36:38.331051Z"
     }
   },
-  "lastUpdated": "2025-08-21T10:45:54.157532Z",
-  "totalVideos": 34,
-  "totalChannels": 4
+  "lastUpdated": "2025-08-22T13:36:38.338073Z",
+  "totalVideos": 36,
+  "totalChannels": 5
 }

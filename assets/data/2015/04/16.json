@@ -282,6 +282,27 @@
       "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
       "channelName": "뉴스TVCHOSUN",
       "collectedAt": "2025-08-21T10:46:37Z"
+    },
+    "zQrOepW8ZxY": {
+      "videoId": "zQrOepW8ZxY",
+      "title": "세월호 1주기 현장을 찾은 부모의 오열",
+      "description": "‪#‎세월호_1주기_속보_32‬\n4월16일 아침 8시30분 ‪#‎팽목항‬\n4월16일 그날이 다시 밝았습니다. \n1년 전, 진도 체육관으로 팽목항으로 향했던 \n엄마 아빠. \n아들 딸을 부르며 혼절했던 그 엄마 아빠가 \n어제 다시 참사 현장을 찾았습니다.\n기자 숙명은 기록입니다. \n신선영 사진 기자가 참사 현장을 찾은 유가족을 뷰파인더로 기록했습니다. \n신 기자의 뷰파인더는 뿌옇게 흐려졌고 손은 떨렸습니다. \n신한슬 기자는 엄마 아빠들의 미안함 원통함 그리움을 녹음했습니다.\n‘우리아들’ \n‘미안해’\n‘내 새끼’\n‘억울해’\n‘못살아’\n‘금쪽같은 내 새끼’\n‘얼마나 힘들었냐’\n........\n........\n........",
+      "publishedAt": "2015-04-16T02:14:56Z",
+      "duration": "PT1M56S",
+      "viewCount": 4411,
+      "likeCount": 11,
+      "commentCount": 6,
+      "tags": [
+        "세월호",
+        "시사인",
+        "시사IN"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2015-04-16T02:14:56Z",
+      "channelId": "UCaVuYo_tiiNzTSmlnM-A2kQ",
+      "channelName": "시사IN(시사인)",
+      "collectedAt": "2025-08-22T13:36:39Z"
     }
   },
   "channels": {
@@ -365,9 +386,36 @@
       "viewCount": 4319423561,
       "videoCount": 150855,
       "lastUpdated": "2025-08-21T10:29:11.793341Z"
+    },
+    "UCaVuYo_tiiNzTSmlnM-A2kQ": {
+      "channelId": "UCaVuYo_tiiNzTSmlnM-A2kQ",
+      "channelName": "시사IN(시사인)",
+      "channelUrl": "@sisaineditor",
+      "channelDescription": "더 나은 세상을 만드는 저널리즘, \n시사IN이 만든 라이브 방송 \n시사IN 유튜브 편성 안내\n\n🔴 [월~목 오후 5시] 김은지의 뉴스IN \n김은지 정치팀장이 정치 현안을 샅샅이 훑어드리겠습니다. \n\n●시사IN 홈페이지 https://www.sisain.co.kr/\n○시사IN 구독 https://subscribe.sisain.co.kr/\n○시사IN 후원 https://support.sisain.co.kr\n○시사IN 후원 계좌 하나은행 109-910017-83704 ㈜참언론\n○시사IN paypal http://paypal.me/sisain\n● 광고 문의 webmaster@sisain.co.kr\n\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/trmysMk0KktWKxHZLJFrZ_NjpqiYyQUmTG5wOHNjO6ap-lYLBj8hYxSv9uy9qVO0-w2CQYCEKg=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/trmysMk0KktWKxHZLJFrZ_NjpqiYyQUmTG5wOHNjO6ap-lYLBj8hYxSv9uy9qVO0-w2CQYCEKg=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/trmysMk0KktWKxHZLJFrZ_NjpqiYyQUmTG5wOHNjO6ap-lYLBj8hYxSv9uy9qVO0-w2CQYCEKg=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 666000,
+      "viewCount": 191324441,
+      "videoCount": 3184,
+      "lastUpdated": "2025-08-22T13:36:39.458067Z"
     }
   },
-  "lastUpdated": "2025-08-21T10:46:37.710187Z",
-  "totalVideos": 11,
-  "totalChannels": 3
+  "lastUpdated": "2025-08-22T13:36:39.459126Z",
+  "totalVideos": 12,
+  "totalChannels": 4
 }

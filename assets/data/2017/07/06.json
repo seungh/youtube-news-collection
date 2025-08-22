@@ -554,6 +554,31 @@
       "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
       "channelName": "뉴스TVCHOSUN",
       "collectedAt": "2025-08-21T10:45:53Z"
+    },
+    "LHkh-9x6rJg": {
+      "videoId": "LHkh-9x6rJg",
+      "title": "시사IN 인터뷰 Show - 최승호·박성제",
+      "description": "시사IN 기자가 독자의 질문을 대신 전하는\n시사IN 인터뷰 SHOW 시즌2가 돌아왔습니다.\n\nMBC 해직 언론인 최승호·박성제가 인터뷰이로 나섭니다. \n공영방송 개혁 등 언론을 주제로 삼아 이야기합니다. \n여러분의 질문을 모아 시사IN 기자가 배달해드립니다. \n좋은 질문이 사이다처럼 시원한 ‘인터뷰 쇼’를 만듭니다.\n그 발랄한 인터뷰 현장에 독자 여러분을 초대합니다.",
+      "publishedAt": "2017-07-06T01:58:11Z",
+      "duration": "PT1H35M19S",
+      "viewCount": 14358,
+      "likeCount": 226,
+      "commentCount": 36,
+      "tags": [
+        "시사인",
+        "시사in",
+        "최승호",
+        "박성제",
+        "mbc",
+        "김민식",
+        "pd"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2017-07-06T01:58:11Z",
+      "channelId": "UCaVuYo_tiiNzTSmlnM-A2kQ",
+      "channelName": "시사IN(시사인)",
+      "collectedAt": "2025-08-22T13:36:33Z"
     }
   },
   "channels": {
@@ -610,9 +635,36 @@
       "viewCount": 4319423561,
       "videoCount": 150855,
       "lastUpdated": "2025-08-21T10:28:27.790557Z"
+    },
+    "UCaVuYo_tiiNzTSmlnM-A2kQ": {
+      "channelId": "UCaVuYo_tiiNzTSmlnM-A2kQ",
+      "channelName": "시사IN(시사인)",
+      "channelUrl": "@sisaineditor",
+      "channelDescription": "더 나은 세상을 만드는 저널리즘, \n시사IN이 만든 라이브 방송 \n시사IN 유튜브 편성 안내\n\n🔴 [월~목 오후 5시] 김은지의 뉴스IN \n김은지 정치팀장이 정치 현안을 샅샅이 훑어드리겠습니다. \n\n●시사IN 홈페이지 https://www.sisain.co.kr/\n○시사IN 구독 https://subscribe.sisain.co.kr/\n○시사IN 후원 https://support.sisain.co.kr\n○시사IN 후원 계좌 하나은행 109-910017-83704 ㈜참언론\n○시사IN paypal http://paypal.me/sisain\n● 광고 문의 webmaster@sisain.co.kr\n\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/trmysMk0KktWKxHZLJFrZ_NjpqiYyQUmTG5wOHNjO6ap-lYLBj8hYxSv9uy9qVO0-w2CQYCEKg=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/trmysMk0KktWKxHZLJFrZ_NjpqiYyQUmTG5wOHNjO6ap-lYLBj8hYxSv9uy9qVO0-w2CQYCEKg=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/trmysMk0KktWKxHZLJFrZ_NjpqiYyQUmTG5wOHNjO6ap-lYLBj8hYxSv9uy9qVO0-w2CQYCEKg=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 666000,
+      "viewCount": 191324441,
+      "videoCount": 3184,
+      "lastUpdated": "2025-08-22T13:36:33.789201Z"
     }
   },
-  "lastUpdated": "2025-08-21T10:45:53.660951Z",
-  "totalVideos": 20,
-  "totalChannels": 2
+  "lastUpdated": "2025-08-22T13:36:33.790199Z",
+  "totalVideos": 21,
+  "totalChannels": 3
 }

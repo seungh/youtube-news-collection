@@ -467,6 +467,32 @@
       "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
       "channelName": "뉴스TVCHOSUN",
       "collectedAt": "2025-08-21T10:46:01Z"
+    },
+    "tsucPTfOCQQ": {
+      "videoId": "tsucPTfOCQQ",
+      "title": "성주",
+      "description": "사드 기지가 들어설 예정인 경북 성주군 주민들이 왜 반발할까요? 정부 논리대로 외부세력 때문일까요? \n\n드론으로 찍은 사드 기지 예정 부지와 주민들의 삶터를 한번 보시죠. 괌 사드 기지를 공개하며 미군 관계자는 2012년 미 육군 교범 그림에 사드 안전거리가 3.6㎞로 표시된 데 대해 이렇게 설명했습니다. \"미 육군 교범은 레이더의 고도라든지 레이더가 눕혀지는(위로 향하는) 각도 등이 반영되지 않은 것이다\" \n\n청와대나 미군은 전혀 문제가 없다고 하지만, 주민들은 전자파 뿐 아니라 환경, 안전, 미군 범죄, 나아가 한반도 평화 등 걱정거리가 많다고 합니다.\n\n✔ 월1만5천원으로 정기구독을 pay.sisainlive.com",
+      "publishedAt": "2016-07-19T08:45:19Z",
+      "duration": "PT1M1S",
+      "viewCount": 811,
+      "likeCount": 5,
+      "commentCount": 0,
+      "tags": [
+        "시사IN",
+        "시사인",
+        "사드",
+        "성주",
+        "성주군청",
+        "성산",
+        "사드기지",
+        "드론"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2016-07-19T08:45:19Z",
+      "channelId": "UCaVuYo_tiiNzTSmlnM-A2kQ",
+      "channelName": "시사IN(시사인)",
+      "collectedAt": "2025-08-22T13:36:39Z"
     }
   },
   "channels": {
@@ -577,9 +603,36 @@
       "viewCount": 4319423561,
       "videoCount": 150855,
       "lastUpdated": "2025-08-21T10:28:36.766284Z"
+    },
+    "UCaVuYo_tiiNzTSmlnM-A2kQ": {
+      "channelId": "UCaVuYo_tiiNzTSmlnM-A2kQ",
+      "channelName": "시사IN(시사인)",
+      "channelUrl": "@sisaineditor",
+      "channelDescription": "더 나은 세상을 만드는 저널리즘, \n시사IN이 만든 라이브 방송 \n시사IN 유튜브 편성 안내\n\n🔴 [월~목 오후 5시] 김은지의 뉴스IN \n김은지 정치팀장이 정치 현안을 샅샅이 훑어드리겠습니다. \n\n●시사IN 홈페이지 https://www.sisain.co.kr/\n○시사IN 구독 https://subscribe.sisain.co.kr/\n○시사IN 후원 https://support.sisain.co.kr\n○시사IN 후원 계좌 하나은행 109-910017-83704 ㈜참언론\n○시사IN paypal http://paypal.me/sisain\n● 광고 문의 webmaster@sisain.co.kr\n\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/trmysMk0KktWKxHZLJFrZ_NjpqiYyQUmTG5wOHNjO6ap-lYLBj8hYxSv9uy9qVO0-w2CQYCEKg=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/trmysMk0KktWKxHZLJFrZ_NjpqiYyQUmTG5wOHNjO6ap-lYLBj8hYxSv9uy9qVO0-w2CQYCEKg=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/trmysMk0KktWKxHZLJFrZ_NjpqiYyQUmTG5wOHNjO6ap-lYLBj8hYxSv9uy9qVO0-w2CQYCEKg=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 666000,
+      "viewCount": 191324441,
+      "videoCount": 3184,
+      "lastUpdated": "2025-08-22T13:36:39.095622Z"
     }
   },
-  "lastUpdated": "2025-08-21T10:46:01.253470Z",
-  "totalVideos": 17,
-  "totalChannels": 4
+  "lastUpdated": "2025-08-22T13:36:39.095622Z",
+  "totalVideos": 18,
+  "totalChannels": 5
 }

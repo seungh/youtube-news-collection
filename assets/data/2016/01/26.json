@@ -82,6 +82,32 @@
       "channelId": "UCIMOytYIzaUpoAM2bpT4JZQ",
       "channelName": "KTV 국민방송",
       "collectedAt": "2025-08-20T11:40:13Z"
+    },
+    "pydklSWaU2U": {
+      "videoId": "pydklSWaU2U",
+      "title": "위안부 소녀상을 지키는 대학생들 [시사IN 360도 인터뷰]",
+      "description": "위안부 소녀상을 지키는 대학생들이 말하는\n\"이번 한일 정부 '위안부' 협의는 ☐☐☐이다.\"\n\n영하 4도로 기온이 떨어졌던 지난 1월15일 밤.\n시사IN이 일본대사관 앞 위안부 소녀상 옆을 밤새 지키는 대학생들을 만났습니다. \n\n동영상을 클릭하거나 터치해 상하좌우로 움직여, 이들의 목소리를 차례로 들어보세요",
+      "publishedAt": "2016-01-26T07:04:34Z",
+      "duration": "PT1M20S",
+      "viewCount": 509,
+      "likeCount": 2,
+      "commentCount": 0,
+      "tags": [
+        "시사인",
+        "시사IN",
+        "360",
+        "인터뷰",
+        "위안부",
+        "vr",
+        "360도",
+        "소녀상"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2016-01-26T07:04:34Z",
+      "channelId": "UCaVuYo_tiiNzTSmlnM-A2kQ",
+      "channelName": "시사IN(시사인)",
+      "collectedAt": "2025-08-22T13:36:36Z"
     }
   },
   "channels": {
@@ -111,9 +137,36 @@
       "viewCount": 496166667,
       "videoCount": 25206,
       "lastUpdated": "2025-08-20T11:40:13.837819Z"
+    },
+    "UCaVuYo_tiiNzTSmlnM-A2kQ": {
+      "channelId": "UCaVuYo_tiiNzTSmlnM-A2kQ",
+      "channelName": "시사IN(시사인)",
+      "channelUrl": "@sisaineditor",
+      "channelDescription": "더 나은 세상을 만드는 저널리즘, \n시사IN이 만든 라이브 방송 \n시사IN 유튜브 편성 안내\n\n🔴 [월~목 오후 5시] 김은지의 뉴스IN \n김은지 정치팀장이 정치 현안을 샅샅이 훑어드리겠습니다. \n\n●시사IN 홈페이지 https://www.sisain.co.kr/\n○시사IN 구독 https://subscribe.sisain.co.kr/\n○시사IN 후원 https://support.sisain.co.kr\n○시사IN 후원 계좌 하나은행 109-910017-83704 ㈜참언론\n○시사IN paypal http://paypal.me/sisain\n● 광고 문의 webmaster@sisain.co.kr\n\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/trmysMk0KktWKxHZLJFrZ_NjpqiYyQUmTG5wOHNjO6ap-lYLBj8hYxSv9uy9qVO0-w2CQYCEKg=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/trmysMk0KktWKxHZLJFrZ_NjpqiYyQUmTG5wOHNjO6ap-lYLBj8hYxSv9uy9qVO0-w2CQYCEKg=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/trmysMk0KktWKxHZLJFrZ_NjpqiYyQUmTG5wOHNjO6ap-lYLBj8hYxSv9uy9qVO0-w2CQYCEKg=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 666000,
+      "viewCount": 191324441,
+      "videoCount": 3184,
+      "lastUpdated": "2025-08-22T13:36:36.255424Z"
     }
   },
-  "lastUpdated": "2025-08-20T11:40:13.838818Z",
-  "totalVideos": 3,
-  "totalChannels": 1
+  "lastUpdated": "2025-08-22T13:36:36.260487Z",
+  "totalVideos": 4,
+  "totalChannels": 2
 }

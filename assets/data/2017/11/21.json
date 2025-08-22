@@ -985,6 +985,31 @@
       "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
       "channelName": "뉴스TVCHOSUN",
       "collectedAt": "2025-08-21T10:45:52Z"
+    },
+    "Pcb2tHjX7sE": {
+      "videoId": "Pcb2tHjX7sE",
+      "title": "창간10주년_특별_프로젝트_페이지 박근혜 게이트 아카이브-기록의 힘: 광장의 주권자들이 이룬 격동의 순간들",
+      "description": "#창간10주년_특별_프로젝트_페이지 박근혜 게이트 아카이브-기록의 힘: 광장의 주권자들이 이룬 격동의 순간들 http://geunhyegate.com\n\n기획. 시사IN\n전체 기획. 전혜원 시사IN 기자 \n디자인. 일상의실천\n개발. 김경철\n개발 도움. 최인\n작업 도움. 김리원, 이충훈\n영상. 박용훈\n사운드. 김하영",
+      "publishedAt": "2017-11-21T08:01:40Z",
+      "duration": "PT1M23S",
+      "viewCount": 684,
+      "likeCount": 17,
+      "commentCount": 1,
+      "tags": [
+        "시사인",
+        "시사IN",
+        "박근혜",
+        "게이트",
+        "광장",
+        "주권자",
+        "일상의실천"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2017-11-21T08:01:40Z",
+      "channelId": "UCaVuYo_tiiNzTSmlnM-A2kQ",
+      "channelName": "시사IN(시사인)",
+      "collectedAt": "2025-08-22T13:36:37Z"
     }
   },
   "channels": {
@@ -1095,9 +1120,36 @@
       "viewCount": 4319423561,
       "videoCount": 150855,
       "lastUpdated": "2025-08-21T10:28:26.757775Z"
+    },
+    "UCaVuYo_tiiNzTSmlnM-A2kQ": {
+      "channelId": "UCaVuYo_tiiNzTSmlnM-A2kQ",
+      "channelName": "시사IN(시사인)",
+      "channelUrl": "@sisaineditor",
+      "channelDescription": "더 나은 세상을 만드는 저널리즘, \n시사IN이 만든 라이브 방송 \n시사IN 유튜브 편성 안내\n\n🔴 [월~목 오후 5시] 김은지의 뉴스IN \n김은지 정치팀장이 정치 현안을 샅샅이 훑어드리겠습니다. \n\n●시사IN 홈페이지 https://www.sisain.co.kr/\n○시사IN 구독 https://subscribe.sisain.co.kr/\n○시사IN 후원 https://support.sisain.co.kr\n○시사IN 후원 계좌 하나은행 109-910017-83704 ㈜참언론\n○시사IN paypal http://paypal.me/sisain\n● 광고 문의 webmaster@sisain.co.kr\n\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/trmysMk0KktWKxHZLJFrZ_NjpqiYyQUmTG5wOHNjO6ap-lYLBj8hYxSv9uy9qVO0-w2CQYCEKg=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/trmysMk0KktWKxHZLJFrZ_NjpqiYyQUmTG5wOHNjO6ap-lYLBj8hYxSv9uy9qVO0-w2CQYCEKg=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/trmysMk0KktWKxHZLJFrZ_NjpqiYyQUmTG5wOHNjO6ap-lYLBj8hYxSv9uy9qVO0-w2CQYCEKg=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 666000,
+      "viewCount": 191324441,
+      "videoCount": 3184,
+      "lastUpdated": "2025-08-22T13:36:37.897607Z"
     }
   },
-  "lastUpdated": "2025-08-21T10:45:52.751797Z",
-  "totalVideos": 36,
-  "totalChannels": 4
+  "lastUpdated": "2025-08-22T13:36:37.897607Z",
+  "totalVideos": 37,
+  "totalChannels": 5
 }

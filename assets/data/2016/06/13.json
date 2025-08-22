@@ -633,6 +633,30 @@
       "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
       "channelName": "뉴스TVCHOSUN",
       "collectedAt": "2025-08-21T10:46:32Z"
+    },
+    "SvKwJdInnPg": {
+      "videoId": "SvKwJdInnPg",
+      "title": "초선 의원이 진단하는 20대 국회 개혁 시리즈 - 김중로 의원",
+      "description": "20대 국회가 문을 열었다. 여소야대에다 원내교섭 3당 체제로 시작했다. 20대 의원 300명이 타협의 정치를 펼칠지, 대결의 의정 활동을 반 복할지 가늠하기 쉽지 않다. 그럼에도 전체 의원의 44%를 차지하는 초선 의원 132명은 주목 대상이다. 이들은 20대 국회의 활력소다. 새로운 눈으로 여의도를 바라보고 행동할 수 있는 이들을 통해 20대 국회를 미리 그려봤다. 검찰·국방·경제·노동 각 분야 전문가로 꼽히는 여야\n초선 의원을 만나 20대 국회의 개혁 과제를 들어봤다. ‘초선 의원이 진단하는 20대 국회 개혁 시리즈’ 두 번째 순서는 ‘국방 개혁’이다.",
+      "publishedAt": "2016-06-13T02:11:25Z",
+      "duration": "PT1M4S",
+      "viewCount": 479,
+      "likeCount": 5,
+      "commentCount": 1,
+      "tags": [
+        "시사인",
+        "시사IN",
+        "김중로",
+        "국민의당",
+        "인터뷰",
+        "국방개혁"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2016-06-13T02:11:25Z",
+      "channelId": "UCaVuYo_tiiNzTSmlnM-A2kQ",
+      "channelName": "시사IN(시사인)",
+      "collectedAt": "2025-08-22T13:36:39Z"
     }
   },
   "channels": {
@@ -743,9 +767,36 @@
       "viewCount": 4319423561,
       "videoCount": 150855,
       "lastUpdated": "2025-08-21T10:29:08.842844Z"
+    },
+    "UCaVuYo_tiiNzTSmlnM-A2kQ": {
+      "channelId": "UCaVuYo_tiiNzTSmlnM-A2kQ",
+      "channelName": "시사IN(시사인)",
+      "channelUrl": "@sisaineditor",
+      "channelDescription": "더 나은 세상을 만드는 저널리즘, \n시사IN이 만든 라이브 방송 \n시사IN 유튜브 편성 안내\n\n🔴 [월~목 오후 5시] 김은지의 뉴스IN \n김은지 정치팀장이 정치 현안을 샅샅이 훑어드리겠습니다. \n\n●시사IN 홈페이지 https://www.sisain.co.kr/\n○시사IN 구독 https://subscribe.sisain.co.kr/\n○시사IN 후원 https://support.sisain.co.kr\n○시사IN 후원 계좌 하나은행 109-910017-83704 ㈜참언론\n○시사IN paypal http://paypal.me/sisain\n● 광고 문의 webmaster@sisain.co.kr\n\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/trmysMk0KktWKxHZLJFrZ_NjpqiYyQUmTG5wOHNjO6ap-lYLBj8hYxSv9uy9qVO0-w2CQYCEKg=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/trmysMk0KktWKxHZLJFrZ_NjpqiYyQUmTG5wOHNjO6ap-lYLBj8hYxSv9uy9qVO0-w2CQYCEKg=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/trmysMk0KktWKxHZLJFrZ_NjpqiYyQUmTG5wOHNjO6ap-lYLBj8hYxSv9uy9qVO0-w2CQYCEKg=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 666000,
+      "viewCount": 191324441,
+      "videoCount": 3184,
+      "lastUpdated": "2025-08-22T13:36:39.222712Z"
     }
   },
-  "lastUpdated": "2025-08-21T10:46:32.553082Z",
-  "totalVideos": 23,
-  "totalChannels": 4
+  "lastUpdated": "2025-08-22T13:36:39.224192Z",
+  "totalVideos": 24,
+  "totalChannels": 5
 }

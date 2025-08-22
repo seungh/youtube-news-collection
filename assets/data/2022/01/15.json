@@ -1014,6 +1014,23 @@
       "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
       "channelName": "뉴스TVCHOSUN",
       "collectedAt": "2025-08-21T10:44:32Z"
+    },
+    "L2wHo3ncP7w": {
+      "videoId": "L2wHo3ncP7w",
+      "title": "[현장영상] 광주 아파트 붕괴 사고 실종자 가족 입장 발표",
+      "description": "2022년 1월15일, 광주 아파트 붕괴 사고 실종자 가족 대표 안 아무개씨가 언론 브리핑에서 가족들의 답답함과 안타까움을 토로했습니다. 안씨는 현대산업개발이 실종자 구조에 충분히 적극적이지 않다며, 지역 정치인들과 정부가 현대산업개발에 더 빠른 구조 환경 조성을 촉구해달라고 성토했습니다. 더욱이 인터넷에 올라온 지역비하 발언을 멈춰줄 것을 당부했습니다.",
+      "publishedAt": "2022-01-15T06:06:02Z",
+      "duration": "PT4M35S",
+      "viewCount": 1376,
+      "likeCount": 107,
+      "commentCount": 5,
+      "tags": [],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2022-01-15T06:06:02Z",
+      "channelId": "UCaVuYo_tiiNzTSmlnM-A2kQ",
+      "channelName": "시사IN(시사인)",
+      "collectedAt": "2025-08-22T13:36:31Z"
     }
   },
   "channels": {
@@ -1205,9 +1222,36 @@
       "viewCount": 4319423561,
       "videoCount": 150855,
       "lastUpdated": "2025-08-21T10:26:46.490850Z"
+    },
+    "UCaVuYo_tiiNzTSmlnM-A2kQ": {
+      "channelId": "UCaVuYo_tiiNzTSmlnM-A2kQ",
+      "channelName": "시사IN(시사인)",
+      "channelUrl": "@sisaineditor",
+      "channelDescription": "더 나은 세상을 만드는 저널리즘, \n시사IN이 만든 라이브 방송 \n시사IN 유튜브 편성 안내\n\n🔴 [월~목 오후 5시] 김은지의 뉴스IN \n김은지 정치팀장이 정치 현안을 샅샅이 훑어드리겠습니다. \n\n●시사IN 홈페이지 https://www.sisain.co.kr/\n○시사IN 구독 https://subscribe.sisain.co.kr/\n○시사IN 후원 https://support.sisain.co.kr\n○시사IN 후원 계좌 하나은행 109-910017-83704 ㈜참언론\n○시사IN paypal http://paypal.me/sisain\n● 광고 문의 webmaster@sisain.co.kr\n\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/trmysMk0KktWKxHZLJFrZ_NjpqiYyQUmTG5wOHNjO6ap-lYLBj8hYxSv9uy9qVO0-w2CQYCEKg=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/trmysMk0KktWKxHZLJFrZ_NjpqiYyQUmTG5wOHNjO6ap-lYLBj8hYxSv9uy9qVO0-w2CQYCEKg=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/trmysMk0KktWKxHZLJFrZ_NjpqiYyQUmTG5wOHNjO6ap-lYLBj8hYxSv9uy9qVO0-w2CQYCEKg=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 666000,
+      "viewCount": 191324441,
+      "videoCount": 3184,
+      "lastUpdated": "2025-08-22T13:36:31.055543Z"
     }
   },
-  "lastUpdated": "2025-08-22T09:49:38.931303Z",
-  "totalVideos": 38,
-  "totalChannels": 7
+  "lastUpdated": "2025-08-22T13:36:31.055543Z",
+  "totalVideos": 39,
+  "totalChannels": 8
 }

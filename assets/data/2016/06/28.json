@@ -248,6 +248,34 @@
       "channelId": "UCNJM6dqu70Qr6VaseiW1Org",
       "channelName": "이재명",
       "collectedAt": "2025-08-20T11:38:48Z"
+    },
+    "OQo0kXkqEdI": {
+      "videoId": "OQo0kXkqEdI",
+      "title": "고제규 국장과 함께하는 459호 미리보기",
+      "description": "브렉시트에 대한 특별한 분석. ‘EU 개혁론’ ‘EU 변혁론’ ‘EU 타격론’의 논란 속에서 영국 극우파의 ‘이민 반대론’은 어떻게 브렉시트를 주도하게 됐는가. 어느 세월호 잠수자의 죽음, 신공항 ‘갑론을박’의 진실, “돈되는 페미니즘을 보여주겠다”",
+      "publishedAt": "2016-06-28T00:46:16Z",
+      "duration": "PT23M13S",
+      "viewCount": 167,
+      "likeCount": 2,
+      "commentCount": 0,
+      "tags": [
+        "시사인",
+        "시사IN",
+        "sisain",
+        "고제규",
+        "459호",
+        "브렉시트",
+        "세월호",
+        "잠수사",
+        "신공항",
+        "페미니즘"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2016-06-28T00:46:16Z",
+      "channelId": "UCaVuYo_tiiNzTSmlnM-A2kQ",
+      "channelName": "시사IN(시사인)",
+      "collectedAt": "2025-08-22T13:36:34Z"
     }
   },
   "channels": {
@@ -331,9 +359,36 @@
       "viewCount": 336974518,
       "videoCount": 3965,
       "lastUpdated": "2025-08-20T11:38:48.727174Z"
+    },
+    "UCaVuYo_tiiNzTSmlnM-A2kQ": {
+      "channelId": "UCaVuYo_tiiNzTSmlnM-A2kQ",
+      "channelName": "시사IN(시사인)",
+      "channelUrl": "@sisaineditor",
+      "channelDescription": "더 나은 세상을 만드는 저널리즘, \n시사IN이 만든 라이브 방송 \n시사IN 유튜브 편성 안내\n\n🔴 [월~목 오후 5시] 김은지의 뉴스IN \n김은지 정치팀장이 정치 현안을 샅샅이 훑어드리겠습니다. \n\n●시사IN 홈페이지 https://www.sisain.co.kr/\n○시사IN 구독 https://subscribe.sisain.co.kr/\n○시사IN 후원 https://support.sisain.co.kr\n○시사IN 후원 계좌 하나은행 109-910017-83704 ㈜참언론\n○시사IN paypal http://paypal.me/sisain\n● 광고 문의 webmaster@sisain.co.kr\n\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/trmysMk0KktWKxHZLJFrZ_NjpqiYyQUmTG5wOHNjO6ap-lYLBj8hYxSv9uy9qVO0-w2CQYCEKg=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/trmysMk0KktWKxHZLJFrZ_NjpqiYyQUmTG5wOHNjO6ap-lYLBj8hYxSv9uy9qVO0-w2CQYCEKg=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/trmysMk0KktWKxHZLJFrZ_NjpqiYyQUmTG5wOHNjO6ap-lYLBj8hYxSv9uy9qVO0-w2CQYCEKg=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 666000,
+      "viewCount": 191324441,
+      "videoCount": 3184,
+      "lastUpdated": "2025-08-22T13:36:34.630489Z"
     }
   },
-  "lastUpdated": "2025-08-20T11:38:48.727174Z",
-  "totalVideos": 9,
-  "totalChannels": 3
+  "lastUpdated": "2025-08-22T13:36:34.632279Z",
+  "totalVideos": 10,
+  "totalChannels": 4
 }

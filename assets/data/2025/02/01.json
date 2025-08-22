@@ -1295,6 +1295,64 @@
       "channelId": "UCsqWTNmoaNPvsfeCgaD7BpQ",
       "channelName": "장르만 여의도",
       "collectedAt": "2025-08-22T13:24:54Z"
+    },
+    "_Rde70EJUy8": {
+      "videoId": "_Rde70EJUy8",
+      "title": "허탈한 김종혁 전 최고위원 \"재판관 다 우리편인데\" [한판승부]",
+      "description": "허탈한 김종혁 전 최고위원 \"재판관 다 우리편인데\" [한판승부]\n\n◎ 평일(월~금) 오후 6시~7시 30분\n◎ 유튜브 실시간 방송 \n-https://www.youtube.com/channel/UCV9gIwasozKlwz5U2Sa2q6g\n◎ 라디오 : 표준FM 98.1 \n◎ 모바일 듣기 : 레인보우 어플",
+      "publishedAt": "2025-02-01T03:00:36Z",
+      "duration": "PT55S",
+      "viewCount": 26514,
+      "likeCount": 881,
+      "commentCount": 27,
+      "tags": [
+        "박재홍의한판승부",
+        "박재홍",
+        "서정욱",
+        "장윤미",
+        "김웅",
+        "박성태",
+        "CBS",
+        "이재영",
+        "윤석열",
+        "한동훈",
+        "이재명"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2025-02-01T03:00:36Z",
+      "channelId": "UCV9gIwasozKlwz5U2Sa2q6g",
+      "channelName": "박재홍의 한판승부",
+      "collectedAt": "2025-08-22T13:37:12Z"
+    },
+    "4L0i2IL2ekw": {
+      "videoId": "4L0i2IL2ekw",
+      "title": "尹 메시지 본 김웅 \"보수 망치는 물귀신\" [한판승부]",
+      "description": "尹 메시지 본 김웅 \"보수 망치는 물귀신\" [한판승부]\n\n◎ 평일(월~금) 오후 6시~7시 30분\n◎ 유튜브 실시간 방송 \n-https://www.youtube.com/channel/UCV9gIwasozKlwz5U2Sa2q6g\n◎ 라디오 : 표준FM 98.1 \n◎ 모바일 듣기 : 레인보우 어플",
+      "publishedAt": "2025-02-01T02:30:05Z",
+      "duration": "PT55S",
+      "viewCount": 8561,
+      "likeCount": 487,
+      "commentCount": 16,
+      "tags": [
+        "박재홍의한판승부",
+        "박재홍",
+        "서정욱",
+        "장윤미",
+        "김웅",
+        "박성태",
+        "CBS",
+        "이재영",
+        "윤석열",
+        "한동훈",
+        "이재명"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2025-02-01T02:30:05Z",
+      "channelId": "UCV9gIwasozKlwz5U2Sa2q6g",
+      "channelName": "박재홍의 한판승부",
+      "collectedAt": "2025-08-22T13:37:12Z"
     }
   },
   "channels": {
@@ -1432,9 +1490,36 @@
       "viewCount": 201874279,
       "videoCount": 3038,
       "lastUpdated": "2025-08-22T13:24:54.721996Z"
+    },
+    "UCV9gIwasozKlwz5U2Sa2q6g": {
+      "channelId": "UCV9gIwasozKlwz5U2Sa2q6g",
+      "channelName": "박재홍의 한판승부",
+      "channelUrl": "@cbs_hanpan",
+      "channelDescription": "CBS 라디오 '박재홍의 한판승부' 공식채널입니다.\n(월~금 저녁 6:00-7:30 - 본방송 / 화,목 저녁 7:30~8:15 - 더 라커룸 / 98.1MHz, 레인보우앱, 유튜브)\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/guZNvXSgAM9HUoqEmZFqv3cGB5tY2kJA3-2MA4M8T6tx8w-8-oI7XYj1uhu60LcUvUf7jPDS=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/guZNvXSgAM9HUoqEmZFqv3cGB5tY2kJA3-2MA4M8T6tx8w-8-oI7XYj1uhu60LcUvUf7jPDS=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/guZNvXSgAM9HUoqEmZFqv3cGB5tY2kJA3-2MA4M8T6tx8w-8-oI7XYj1uhu60LcUvUf7jPDS=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 904000,
+      "viewCount": 662049830,
+      "videoCount": 14573,
+      "lastUpdated": "2025-08-22T13:37:12.605754Z"
     }
   },
-  "lastUpdated": "2025-08-22T13:24:54.726502Z",
-  "totalVideos": 46,
-  "totalChannels": 5
+  "lastUpdated": "2025-08-22T13:37:12.607748Z",
+  "totalVideos": 48,
+  "totalChannels": 6
 }

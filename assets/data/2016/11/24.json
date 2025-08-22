@@ -275,6 +275,55 @@
       "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
       "channelName": "뉴스TVCHOSUN",
       "collectedAt": "2025-08-21T10:46:00Z"
+    },
+    "zkqUKLd4AcI": {
+      "videoId": "zkqUKLd4AcI",
+      "title": "시사IN 인터뷰 Show - 원희룡",
+      "description": "시사IN 인터뷰 Show - 원희룡 제주도지사",
+      "publishedAt": "2016-11-24T09:32:49Z",
+      "duration": "PT1H44M20S",
+      "viewCount": 6869,
+      "likeCount": 27,
+      "commentCount": 5,
+      "tags": [
+        "시사인",
+        "시사IN",
+        "원희룡",
+        "주진우",
+        "차형석",
+        "인터뷰",
+        "show",
+        "인터뷰쇼"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2016-11-24T09:32:49Z",
+      "channelId": "UCaVuYo_tiiNzTSmlnM-A2kQ",
+      "channelName": "시사IN(시사인)",
+      "collectedAt": "2025-08-22T13:36:33Z"
+    },
+    "GJT-ERU2SXo": {
+      "videoId": "GJT-ERU2SXo",
+      "title": "캐리돌 풍자전",
+      "description": "여러분이라면 박근혜 시대를 어떻게 풍자하고 싶으세요?\n[박ㄹ혜 뎐]을 준비중인 양한모 화백은 오늘도 '그분'을 빚고 계십니다\n✔ 캐리돌 풍자전 밀어주고 '국민주권' 배지받고 https://www.tumblbug.com/caridoll",
+      "publishedAt": "2016-11-24T09:24:52Z",
+      "duration": "PT59S",
+      "viewCount": 10574,
+      "likeCount": 43,
+      "commentCount": 5,
+      "tags": [
+        "시사인",
+        "시사IN",
+        "캐리돌",
+        "양한모",
+        "풍자전"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2016-11-24T09:24:52Z",
+      "channelId": "UCaVuYo_tiiNzTSmlnM-A2kQ",
+      "channelName": "시사IN(시사인)",
+      "collectedAt": "2025-08-22T13:36:33Z"
     }
   },
   "channels": {
@@ -358,9 +407,36 @@
       "viewCount": 4319423561,
       "videoCount": 150855,
       "lastUpdated": "2025-08-21T10:28:35.780325Z"
+    },
+    "UCaVuYo_tiiNzTSmlnM-A2kQ": {
+      "channelId": "UCaVuYo_tiiNzTSmlnM-A2kQ",
+      "channelName": "시사IN(시사인)",
+      "channelUrl": "@sisaineditor",
+      "channelDescription": "더 나은 세상을 만드는 저널리즘, \n시사IN이 만든 라이브 방송 \n시사IN 유튜브 편성 안내\n\n🔴 [월~목 오후 5시] 김은지의 뉴스IN \n김은지 정치팀장이 정치 현안을 샅샅이 훑어드리겠습니다. \n\n●시사IN 홈페이지 https://www.sisain.co.kr/\n○시사IN 구독 https://subscribe.sisain.co.kr/\n○시사IN 후원 https://support.sisain.co.kr\n○시사IN 후원 계좌 하나은행 109-910017-83704 ㈜참언론\n○시사IN paypal http://paypal.me/sisain\n● 광고 문의 webmaster@sisain.co.kr\n\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/trmysMk0KktWKxHZLJFrZ_NjpqiYyQUmTG5wOHNjO6ap-lYLBj8hYxSv9uy9qVO0-w2CQYCEKg=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/trmysMk0KktWKxHZLJFrZ_NjpqiYyQUmTG5wOHNjO6ap-lYLBj8hYxSv9uy9qVO0-w2CQYCEKg=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/trmysMk0KktWKxHZLJFrZ_NjpqiYyQUmTG5wOHNjO6ap-lYLBj8hYxSv9uy9qVO0-w2CQYCEKg=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 666000,
+      "viewCount": 191324441,
+      "videoCount": 3184,
+      "lastUpdated": "2025-08-22T13:36:33.621365Z"
     }
   },
-  "lastUpdated": "2025-08-21T10:46:00.094710Z",
-  "totalVideos": 10,
-  "totalChannels": 3
+  "lastUpdated": "2025-08-22T13:36:33.621365Z",
+  "totalVideos": 12,
+  "totalChannels": 4
 }

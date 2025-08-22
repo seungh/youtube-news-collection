@@ -912,6 +912,57 @@
       "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
       "channelName": "뉴스TVCHOSUN",
       "collectedAt": "2025-08-21T10:44:08Z"
+    },
+    "1Z-IoDFSDL4": {
+      "videoId": "1Z-IoDFSDL4",
+      "title": "윤석열 한동훈이 '검수완박' 무력화하는 방법 #shorts #금요시사회 #시사인 #시사in #문상현",
+      "description": "",
+      "publishedAt": "2023-05-28T09:00:01Z",
+      "duration": "PT30S",
+      "viewCount": 1683,
+      "likeCount": 45,
+      "commentCount": 4,
+      "tags": [],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2023-05-28T09:00:01Z",
+      "channelId": "UCaVuYo_tiiNzTSmlnM-A2kQ",
+      "channelName": "시사IN(시사인)",
+      "collectedAt": "2025-08-22T13:35:57Z"
+    },
+    "dbaPIsKrVPM": {
+      "videoId": "dbaPIsKrVPM",
+      "title": "박정희 정부 연상? 논란이었던 대통령경호처 시행령, 수정돼 국무회의 통과 #shorts #금요시사회 #시사인 #시사in #문상현",
+      "description": "",
+      "publishedAt": "2023-05-28T04:00:15Z",
+      "duration": "PT1M",
+      "viewCount": 2246,
+      "likeCount": 41,
+      "commentCount": 3,
+      "tags": [],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2023-05-28T04:00:15Z",
+      "channelId": "UCaVuYo_tiiNzTSmlnM-A2kQ",
+      "channelName": "시사IN(시사인)",
+      "collectedAt": "2025-08-22T13:35:57Z"
+    },
+    "vrdKPk9gzmA": {
+      "videoId": "vrdKPk9gzmA",
+      "title": "윤석열 정부 1년 동안 한 게 없다? (시행령 1042개 전수조사) #shorts #금요시사회 #시사인 #시사in #문상현",
+      "description": "",
+      "publishedAt": "2023-05-28T00:00:17Z",
+      "duration": "PT31S",
+      "viewCount": 3807,
+      "likeCount": 87,
+      "commentCount": 11,
+      "tags": [],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2023-05-28T00:00:17Z",
+      "channelId": "UCaVuYo_tiiNzTSmlnM-A2kQ",
+      "channelName": "시사IN(시사인)",
+      "collectedAt": "2025-08-22T13:35:57Z"
     }
   },
   "channels": {
@@ -1049,9 +1100,36 @@
       "viewCount": 4319423561,
       "videoCount": 150855,
       "lastUpdated": "2025-08-21T10:26:16.051341Z"
+    },
+    "UCaVuYo_tiiNzTSmlnM-A2kQ": {
+      "channelId": "UCaVuYo_tiiNzTSmlnM-A2kQ",
+      "channelName": "시사IN(시사인)",
+      "channelUrl": "@sisaineditor",
+      "channelDescription": "더 나은 세상을 만드는 저널리즘, \n시사IN이 만든 라이브 방송 \n시사IN 유튜브 편성 안내\n\n🔴 [월~목 오후 5시] 김은지의 뉴스IN \n김은지 정치팀장이 정치 현안을 샅샅이 훑어드리겠습니다. \n\n●시사IN 홈페이지 https://www.sisain.co.kr/\n○시사IN 구독 https://subscribe.sisain.co.kr/\n○시사IN 후원 https://support.sisain.co.kr\n○시사IN 후원 계좌 하나은행 109-910017-83704 ㈜참언론\n○시사IN paypal http://paypal.me/sisain\n● 광고 문의 webmaster@sisain.co.kr\n\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/trmysMk0KktWKxHZLJFrZ_NjpqiYyQUmTG5wOHNjO6ap-lYLBj8hYxSv9uy9qVO0-w2CQYCEKg=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/trmysMk0KktWKxHZLJFrZ_NjpqiYyQUmTG5wOHNjO6ap-lYLBj8hYxSv9uy9qVO0-w2CQYCEKg=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/trmysMk0KktWKxHZLJFrZ_NjpqiYyQUmTG5wOHNjO6ap-lYLBj8hYxSv9uy9qVO0-w2CQYCEKg=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 666000,
+      "viewCount": 191324441,
+      "videoCount": 3184,
+      "lastUpdated": "2025-08-22T13:35:57.172099Z"
     }
   },
-  "lastUpdated": "2025-08-21T10:44:08.053759Z",
-  "totalVideos": 35,
-  "totalChannels": 5
+  "lastUpdated": "2025-08-22T13:35:57.174146Z",
+  "totalVideos": 38,
+  "totalChannels": 6
 }

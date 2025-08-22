@@ -178,6 +178,37 @@
       "channelId": "UCNJM6dqu70Qr6VaseiW1Org",
       "channelName": "이재명",
       "collectedAt": "2025-08-20T11:40:03Z"
+    },
+    "RgYHxjzjb9w": {
+      "videoId": "RgYHxjzjb9w",
+      "title": "김영미의 눈높이 국제뉴스 2016년 11월 15일",
+      "description": "[중점뉴스]\n- 트럼프 당선 효과 – TPP(환태평양 경제동반자협정) 폐기 \n- 트럼프 당선 효과 – 신난 이스라엘, 망한 팔레스타인\n\n[탑 5 뉴스]\n- 몰도바 친러시아 성향 대통령 당선인 반대시위\n- 에티오피아 비상사태속 시위대 만 1천명 체포\n- 이라크 정부군 모술 주민 살해고문\n- 파키스탄, IS 폭탄 테러로 최소 43명 사망\n- ICC, 아프간에서 미군에 의한 전쟁범죄 혐의 확인\n\n[시사용어해설]\n국제형사재판소 (ICC, International Criminal Court)",
+      "publishedAt": "2016-11-16T00:20:07Z",
+      "duration": "PT14M40S",
+      "viewCount": 380,
+      "likeCount": 3,
+      "commentCount": 0,
+      "tags": [
+        "시사인",
+        "시사IN",
+        "김영미",
+        "ICC",
+        "국제형사재판소",
+        "몰도바",
+        "에티오피아",
+        "모술",
+        "파키스탄",
+        "트럼프",
+        "TPP",
+        "이스라엘",
+        "팔레스타인"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2016-11-16T00:20:07Z",
+      "channelId": "UCaVuYo_tiiNzTSmlnM-A2kQ",
+      "channelName": "시사IN(시사인)",
+      "collectedAt": "2025-08-22T13:36:34Z"
     }
   },
   "channels": {
@@ -261,9 +292,36 @@
       "viewCount": 336974518,
       "videoCount": 3965,
       "lastUpdated": "2025-08-20T11:40:03.119979Z"
+    },
+    "UCaVuYo_tiiNzTSmlnM-A2kQ": {
+      "channelId": "UCaVuYo_tiiNzTSmlnM-A2kQ",
+      "channelName": "시사IN(시사인)",
+      "channelUrl": "@sisaineditor",
+      "channelDescription": "더 나은 세상을 만드는 저널리즘, \n시사IN이 만든 라이브 방송 \n시사IN 유튜브 편성 안내\n\n🔴 [월~목 오후 5시] 김은지의 뉴스IN \n김은지 정치팀장이 정치 현안을 샅샅이 훑어드리겠습니다. \n\n●시사IN 홈페이지 https://www.sisain.co.kr/\n○시사IN 구독 https://subscribe.sisain.co.kr/\n○시사IN 후원 https://support.sisain.co.kr\n○시사IN 후원 계좌 하나은행 109-910017-83704 ㈜참언론\n○시사IN paypal http://paypal.me/sisain\n● 광고 문의 webmaster@sisain.co.kr\n\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/trmysMk0KktWKxHZLJFrZ_NjpqiYyQUmTG5wOHNjO6ap-lYLBj8hYxSv9uy9qVO0-w2CQYCEKg=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/trmysMk0KktWKxHZLJFrZ_NjpqiYyQUmTG5wOHNjO6ap-lYLBj8hYxSv9uy9qVO0-w2CQYCEKg=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/trmysMk0KktWKxHZLJFrZ_NjpqiYyQUmTG5wOHNjO6ap-lYLBj8hYxSv9uy9qVO0-w2CQYCEKg=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 666000,
+      "viewCount": 191324441,
+      "videoCount": 3184,
+      "lastUpdated": "2025-08-22T13:36:34.422338Z"
     }
   },
-  "lastUpdated": "2025-08-20T11:40:03.120977Z",
-  "totalVideos": 7,
-  "totalChannels": 3
+  "lastUpdated": "2025-08-22T13:36:34.423335Z",
+  "totalVideos": 8,
+  "totalChannels": 4
 }

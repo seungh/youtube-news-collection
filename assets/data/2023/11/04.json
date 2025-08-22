@@ -1614,6 +1614,56 @@
       "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
       "channelName": "뉴스TVCHOSUN",
       "collectedAt": "2025-08-21T10:43:59Z"
+    },
+    "DWSerzsKB2U": {
+      "videoId": "DWSerzsKB2U",
+      "title": "탈당한 신인규가 보는 국힘의 가장 큰 문제 [한판승부]",
+      "description": "탈당한 신인규가 보는 국힘의 가장 큰 문제 [한판승부]\n◎ 평일(월~금) 오후 6시~7시 30분\n◎ 유튜브 실시간 방송 \n-https://www.youtube.com/channel/UCV9gIwasozKlwz5U2Sa2q6g\n◎ 라디오 : 표준FM 98.1 \n◎ 모바일 듣기 : 레인보우 어플",
+      "publishedAt": "2023-11-04T02:30:10Z",
+      "duration": "PT1M",
+      "viewCount": 46690,
+      "likeCount": 1545,
+      "commentCount": 65,
+      "tags": [
+        "CBS",
+        "CBS 라디오",
+        "FM98.1",
+        "한판승부",
+        "진중권",
+        "김성회",
+        "박재홍"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2023-11-04T02:30:10Z",
+      "channelId": "UCV9gIwasozKlwz5U2Sa2q6g",
+      "channelName": "박재홍의 한판승부",
+      "collectedAt": "2025-08-22T13:37:15Z"
+    },
+    "ttSD2NfsOUo": {
+      "videoId": "ttSD2NfsOUo",
+      "title": "\"국힘은 답이 없다\" 이준석 탈당하란 신인규 [한판승부]",
+      "description": "\"국힘은 답이 없다\" 이준석 탈당하란 신인규 [한판승부]\n◎ 평일(월~금) 오후 6시~7시 30분\n◎ 유튜브 실시간 방송 \n-https://www.youtube.com/channel/UCV9gIwasozKlwz5U2Sa2q6g\n◎ 라디오 : 표준FM 98.1 \n◎ 모바일 듣기 : 레인보우 어플",
+      "publishedAt": "2023-11-04T02:00:29Z",
+      "duration": "PT58S",
+      "viewCount": 107731,
+      "likeCount": 2140,
+      "commentCount": 99,
+      "tags": [
+        "CBS",
+        "CBS 라디오",
+        "FM98.1",
+        "한판승부",
+        "진중권",
+        "김성회",
+        "박재홍"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2023-11-04T02:00:29Z",
+      "channelId": "UCV9gIwasozKlwz5U2Sa2q6g",
+      "channelName": "박재홍의 한판승부",
+      "collectedAt": "2025-08-22T13:37:15Z"
     }
   },
   "channels": {
@@ -1724,9 +1774,36 @@
       "viewCount": 4319423561,
       "videoCount": 150855,
       "lastUpdated": "2025-08-21T10:26:04.599935Z"
+    },
+    "UCV9gIwasozKlwz5U2Sa2q6g": {
+      "channelId": "UCV9gIwasozKlwz5U2Sa2q6g",
+      "channelName": "박재홍의 한판승부",
+      "channelUrl": "@cbs_hanpan",
+      "channelDescription": "CBS 라디오 '박재홍의 한판승부' 공식채널입니다.\n(월~금 저녁 6:00-7:30 - 본방송 / 화,목 저녁 7:30~8:15 - 더 라커룸 / 98.1MHz, 레인보우앱, 유튜브)\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/guZNvXSgAM9HUoqEmZFqv3cGB5tY2kJA3-2MA4M8T6tx8w-8-oI7XYj1uhu60LcUvUf7jPDS=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/guZNvXSgAM9HUoqEmZFqv3cGB5tY2kJA3-2MA4M8T6tx8w-8-oI7XYj1uhu60LcUvUf7jPDS=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/guZNvXSgAM9HUoqEmZFqv3cGB5tY2kJA3-2MA4M8T6tx8w-8-oI7XYj1uhu60LcUvUf7jPDS=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 904000,
+      "viewCount": 662049830,
+      "videoCount": 14573,
+      "lastUpdated": "2025-08-22T13:37:15.546273Z"
     }
   },
-  "lastUpdated": "2025-08-21T10:43:59.013950Z",
-  "totalVideos": 59,
-  "totalChannels": 4
+  "lastUpdated": "2025-08-22T13:37:15.549268Z",
+  "totalVideos": 61,
+  "totalChannels": 5
 }

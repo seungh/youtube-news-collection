@@ -1225,6 +1225,23 @@
       "channelId": "UCsqWTNmoaNPvsfeCgaD7BpQ",
       "channelName": "장르만 여의도",
       "collectedAt": "2025-08-22T13:25:19Z"
+    },
+    "bC4rJMzDewo": {
+      "videoId": "bC4rJMzDewo",
+      "title": "집값 올리려다 서울이 소멸된다. (박종훈의 지식한방 51편)",
+      "description": "우리가 흔히 지방 소멸은 많이 들어봤지만 서울 소멸이란 말은 생소합니다. 그런데 통계청의 인구 전망에 따르면 서울의 인구 감소 속도는 전국 감소 속도보다 훨씬 빠르다고 합니다. 이대로면 2052년까지 가장 인구가 크게 감소한 지역은 서울이 될 가능성이 큰데요, 도대체 어떻게 된 일인지 살펴봤습니다.\n\n✉️ 강연 및 협업 문의\neconopunch@gmail.com",
+      "publishedAt": "2024-06-02T05:15:01Z",
+      "duration": "PT17M21S",
+      "viewCount": 244538,
+      "likeCount": 11459,
+      "commentCount": 1823,
+      "tags": [],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2024-06-02T05:15:01Z",
+      "channelId": "UCOB62fKRT7b73X7tRxMuN2g",
+      "channelName": "박종훈의 지식한방",
+      "collectedAt": "2025-08-22T13:35:03Z"
     }
   },
   "channels": {
@@ -1389,9 +1406,36 @@
       "viewCount": 201874279,
       "videoCount": 3038,
       "lastUpdated": "2025-08-22T13:25:19.099884Z"
+    },
+    "UCOB62fKRT7b73X7tRxMuN2g": {
+      "channelId": "UCOB62fKRT7b73X7tRxMuN2g",
+      "channelName": "박종훈의 지식한방",
+      "channelUrl": "@kpunch",
+      "channelDescription": "박종훈의 지식한방은 급변하는 국제질서와 빨라진 혁신 속도를 따라잡기 위해 세계경제와 지정학적인 변화를 추적하고 이를 통해 우리의 미래를 조망하고 대처할 수 있는 길을 모색하는 채널입니다.\n\n강연 및 협업문의\n✉️ econopunch@gmail.com\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/zsC1hpzdAouTryoT06lSKsSaaU8jlggb9GKrQBHn5nexO-2Dw-UC_CmNBEjdjbd1KztCUySTUA=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/zsC1hpzdAouTryoT06lSKsSaaU8jlggb9GKrQBHn5nexO-2Dw-UC_CmNBEjdjbd1KztCUySTUA=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/zsC1hpzdAouTryoT06lSKsSaaU8jlggb9GKrQBHn5nexO-2Dw-UC_CmNBEjdjbd1KztCUySTUA=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 778000,
+      "viewCount": 111367955,
+      "videoCount": 275,
+      "lastUpdated": "2025-08-22T13:35:03.325254Z"
     }
   },
-  "lastUpdated": "2025-08-22T13:25:19.100882Z",
-  "totalVideos": 44,
-  "totalChannels": 6
+  "lastUpdated": "2025-08-22T13:35:03.325254Z",
+  "totalVideos": 45,
+  "totalChannels": 7
 }

@@ -633,6 +633,31 @@
       "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
       "channelName": "뉴스TVCHOSUN",
       "collectedAt": "2025-08-21T10:45:57Z"
+    },
+    "yaWB1gkX-PY": {
+      "videoId": "yaWB1gkX-PY",
+      "title": "편집국장과 함께 미리보는 시사IN 제519호",
+      "description": "주진우 기자가 'MB 프로젝트'를 시작합니다.\n첫 회에선 이명박 전 대통령의 BBK를 추적했습니다. 주 기자의 특종이 담긴 519호는 가판 및 전자책, 광화문 교보문고에서 만나실 수 있습니다.",
+      "publishedAt": "2017-08-21T06:19:22Z",
+      "duration": "PT5M25S",
+      "viewCount": 1598,
+      "likeCount": 24,
+      "commentCount": 0,
+      "tags": [
+        "시사IN",
+        "시사인",
+        "고제규",
+        "이명박",
+        "bbk",
+        "주진우",
+        "김경준"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2017-08-21T06:19:22Z",
+      "channelId": "UCaVuYo_tiiNzTSmlnM-A2kQ",
+      "channelName": "시사IN(시사인)",
+      "collectedAt": "2025-08-22T13:36:35Z"
     }
   },
   "channels": {
@@ -716,9 +741,36 @@
       "viewCount": 4319423561,
       "videoCount": 150855,
       "lastUpdated": "2025-08-21T10:28:32.995780Z"
+    },
+    "UCaVuYo_tiiNzTSmlnM-A2kQ": {
+      "channelId": "UCaVuYo_tiiNzTSmlnM-A2kQ",
+      "channelName": "시사IN(시사인)",
+      "channelUrl": "@sisaineditor",
+      "channelDescription": "더 나은 세상을 만드는 저널리즘, \n시사IN이 만든 라이브 방송 \n시사IN 유튜브 편성 안내\n\n🔴 [월~목 오후 5시] 김은지의 뉴스IN \n김은지 정치팀장이 정치 현안을 샅샅이 훑어드리겠습니다. \n\n●시사IN 홈페이지 https://www.sisain.co.kr/\n○시사IN 구독 https://subscribe.sisain.co.kr/\n○시사IN 후원 https://support.sisain.co.kr\n○시사IN 후원 계좌 하나은행 109-910017-83704 ㈜참언론\n○시사IN paypal http://paypal.me/sisain\n● 광고 문의 webmaster@sisain.co.kr\n\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/trmysMk0KktWKxHZLJFrZ_NjpqiYyQUmTG5wOHNjO6ap-lYLBj8hYxSv9uy9qVO0-w2CQYCEKg=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/trmysMk0KktWKxHZLJFrZ_NjpqiYyQUmTG5wOHNjO6ap-lYLBj8hYxSv9uy9qVO0-w2CQYCEKg=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/trmysMk0KktWKxHZLJFrZ_NjpqiYyQUmTG5wOHNjO6ap-lYLBj8hYxSv9uy9qVO0-w2CQYCEKg=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 666000,
+      "viewCount": 191324441,
+      "videoCount": 3184,
+      "lastUpdated": "2025-08-22T13:36:35.662642Z"
     }
   },
-  "lastUpdated": "2025-08-21T10:45:57.347882Z",
-  "totalVideos": 23,
-  "totalChannels": 3
+  "lastUpdated": "2025-08-22T13:36:35.663638Z",
+  "totalVideos": 24,
+  "totalChannels": 4
 }

@@ -698,6 +698,58 @@
       "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
       "channelName": "뉴스TVCHOSUN",
       "collectedAt": "2025-08-21T10:45:45Z"
+    },
+    "CoSIRQz4CTc": {
+      "videoId": "CoSIRQz4CTc",
+      "title": "편집국장과 함께하는 시사IN 527호 미리보기",
+      "description": "527호는 듀얼 커버스토리입니다. 한 호에 커버스토리가 두개 실렸습니다. 창간 기념 특집호 2탄입니다. \n(목소리 feat 고제규 편집국장)",
+      "publishedAt": "2017-10-16T08:53:24Z",
+      "duration": "PT8M47S",
+      "viewCount": 236,
+      "likeCount": 5,
+      "commentCount": 0,
+      "tags": [
+        "시사IN",
+        "시사인",
+        "고제규",
+        "국장",
+        "편집국장",
+        "미리보기",
+        "527호",
+        "메르켈"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2017-10-16T08:53:24Z",
+      "channelId": "UCaVuYo_tiiNzTSmlnM-A2kQ",
+      "channelName": "시사IN(시사인)",
+      "collectedAt": "2025-08-22T13:36:36Z"
+    },
+    "4HTTBFCUuI4": {
+      "videoId": "4HTTBFCUuI4",
+      "title": "2016드림콘서트",
+      "description": "일시 : 2016년 10월 26일(수)\n\n 장소 : 연세대학교 공학원 및 세미나실\n\n 강사소개\n\n      ① 김가영 : 소비자보다 생산자와 더 친한 농산물 유통업자. 생생농업유통 대표\n\n      ② 서동효 : 꿈 문화 기획자. ‘모티브하우스’ 대표\n\n      ③ 박세상 : 한복 열풍을 만든 주역. ‘한복남’ 대표\n\n      ④ 구혜빈 : 자유롭게 뭔가를 만들어낼 수 있는 ‘메이커스페이스’를 운영 중. 서울이노베이션팹랩 매니저\n\n      ⑤ 최근준 : 화살표 모양의 패널을 돌리며 광고를 하는 ‘애로우 애드 코리아’ 대표\n\n 기사 보기 : “일단 저질러라 내 것이 된다” http://www.sisain.co.kr/?mod=news&act=articleView&idxno=27519",
+      "publishedAt": "2017-10-16T09:02:54Z",
+      "duration": "PT4M13S",
+      "viewCount": 212,
+      "likeCount": 2,
+      "commentCount": 1,
+      "tags": [
+        "시사인",
+        "시사IN",
+        "드림콘서트",
+        "김가영",
+        "서동효",
+        "박세상",
+        "구혜빈",
+        "최근준"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2017-10-16T09:02:54Z",
+      "channelId": "UCaVuYo_tiiNzTSmlnM-A2kQ",
+      "channelName": "시사IN(시사인)",
+      "collectedAt": "2025-08-22T13:36:36Z"
     }
   },
   "channels": {
@@ -781,9 +833,36 @@
       "viewCount": 4319423561,
       "videoCount": 150855,
       "lastUpdated": "2025-08-21T10:28:17.482766Z"
+    },
+    "UCaVuYo_tiiNzTSmlnM-A2kQ": {
+      "channelId": "UCaVuYo_tiiNzTSmlnM-A2kQ",
+      "channelName": "시사IN(시사인)",
+      "channelUrl": "@sisaineditor",
+      "channelDescription": "더 나은 세상을 만드는 저널리즘, \n시사IN이 만든 라이브 방송 \n시사IN 유튜브 편성 안내\n\n🔴 [월~목 오후 5시] 김은지의 뉴스IN \n김은지 정치팀장이 정치 현안을 샅샅이 훑어드리겠습니다. \n\n●시사IN 홈페이지 https://www.sisain.co.kr/\n○시사IN 구독 https://subscribe.sisain.co.kr/\n○시사IN 후원 https://support.sisain.co.kr\n○시사IN 후원 계좌 하나은행 109-910017-83704 ㈜참언론\n○시사IN paypal http://paypal.me/sisain\n● 광고 문의 webmaster@sisain.co.kr\n\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/trmysMk0KktWKxHZLJFrZ_NjpqiYyQUmTG5wOHNjO6ap-lYLBj8hYxSv9uy9qVO0-w2CQYCEKg=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/trmysMk0KktWKxHZLJFrZ_NjpqiYyQUmTG5wOHNjO6ap-lYLBj8hYxSv9uy9qVO0-w2CQYCEKg=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/trmysMk0KktWKxHZLJFrZ_NjpqiYyQUmTG5wOHNjO6ap-lYLBj8hYxSv9uy9qVO0-w2CQYCEKg=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 666000,
+      "viewCount": 191324441,
+      "videoCount": 3184,
+      "lastUpdated": "2025-08-22T13:36:36.129511Z"
     }
   },
-  "lastUpdated": "2025-08-21T10:45:45.747315Z",
-  "totalVideos": 25,
-  "totalChannels": 3
+  "lastUpdated": "2025-08-22T13:36:36.131559Z",
+  "totalVideos": 27,
+  "totalChannels": 4
 }

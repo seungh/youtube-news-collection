@@ -883,6 +883,23 @@
       "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
       "channelName": "뉴스TVCHOSUN",
       "collectedAt": "2025-08-21T10:44:23Z"
+    },
+    "U3H--G2bNbs": {
+      "videoId": "U3H--G2bNbs",
+      "title": "'성 매수남'을 전담으로 수사하는 경찰들이 있다",
+      "description": "2021년 5월 31일 밤, 60여 년간 꺼지지 않았던 수원역 성매매 집결지에 불이 꺼졌습니다.\n‘곧 없어진다더라’는 소문만 무성했던 이곳이 공식 폐쇄된 배경에는 경찰의 끈질긴 수사가 있었습니다.\n\n수원역 성매매 집결지 폐쇄의 주역이었던 경기남부경찰청은 최근 ‘성매매산업수사전담팀’을 만들었습니다. 성 매수자에 대한 수사 기법을 체계적으로 매뉴얼화하고 전문화하기 위함입니다. 2021년 말 기준, 성 매수자 792명을 성매매처벌법 위반 혐의로 수사중이라고 하는데요.\n\n성매매 집결지를 폐쇄시킨 경찰들이 이제는 ‘성 매수자’에 집중하기로 한 까닭은 무엇일까요?\n\n‘이제 성 매수자는 반드시 잡힌다’ 기사 보러 가기👉👉\nhttps://www.sisain.co.kr/news/articleView.html?idxno=46500",
+      "publishedAt": "2022-01-01T01:30:04Z",
+      "duration": "PT5M24S",
+      "viewCount": 45564,
+      "likeCount": 671,
+      "commentCount": 204,
+      "tags": [],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2022-01-01T01:30:04Z",
+      "channelId": "UCaVuYo_tiiNzTSmlnM-A2kQ",
+      "channelName": "시사IN(시사인)",
+      "collectedAt": "2025-08-22T13:36:16Z"
     }
   },
   "channels": {
@@ -1020,9 +1037,36 @@
       "viewCount": 4319423561,
       "videoCount": 150855,
       "lastUpdated": "2025-08-21T10:26:37.093651Z"
+    },
+    "UCaVuYo_tiiNzTSmlnM-A2kQ": {
+      "channelId": "UCaVuYo_tiiNzTSmlnM-A2kQ",
+      "channelName": "시사IN(시사인)",
+      "channelUrl": "@sisaineditor",
+      "channelDescription": "더 나은 세상을 만드는 저널리즘, \n시사IN이 만든 라이브 방송 \n시사IN 유튜브 편성 안내\n\n🔴 [월~목 오후 5시] 김은지의 뉴스IN \n김은지 정치팀장이 정치 현안을 샅샅이 훑어드리겠습니다. \n\n●시사IN 홈페이지 https://www.sisain.co.kr/\n○시사IN 구독 https://subscribe.sisain.co.kr/\n○시사IN 후원 https://support.sisain.co.kr\n○시사IN 후원 계좌 하나은행 109-910017-83704 ㈜참언론\n○시사IN paypal http://paypal.me/sisain\n● 광고 문의 webmaster@sisain.co.kr\n\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/trmysMk0KktWKxHZLJFrZ_NjpqiYyQUmTG5wOHNjO6ap-lYLBj8hYxSv9uy9qVO0-w2CQYCEKg=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/trmysMk0KktWKxHZLJFrZ_NjpqiYyQUmTG5wOHNjO6ap-lYLBj8hYxSv9uy9qVO0-w2CQYCEKg=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/trmysMk0KktWKxHZLJFrZ_NjpqiYyQUmTG5wOHNjO6ap-lYLBj8hYxSv9uy9qVO0-w2CQYCEKg=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 666000,
+      "viewCount": 191324441,
+      "videoCount": 3184,
+      "lastUpdated": "2025-08-22T13:36:16.160520Z"
     }
   },
-  "lastUpdated": "2025-08-21T10:44:23.910003Z",
-  "totalVideos": 33,
-  "totalChannels": 5
+  "lastUpdated": "2025-08-22T13:36:16.160520Z",
+  "totalVideos": 34,
+  "totalChannels": 6
 }

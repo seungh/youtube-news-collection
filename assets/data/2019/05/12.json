@@ -663,6 +663,40 @@
       "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
       "channelName": "뉴스TVCHOSUN",
       "collectedAt": "2025-08-21T10:45:23Z"
+    },
+    "enr-znUOvV8": {
+      "videoId": "enr-znUOvV8",
+      "title": "[문화인싸]2회.고재열 기자의 섬 여행 노하우",
+      "description": "시사IN 팟캐스트 '시사인싸' 속 특별한 코너. 문화인싸입니다. \n\n시사IN이 608호 별책부록으로 ‘머물고 싶은 남도섬’을 펴냈습니다. 전남은 섬이 가장 많은 지방자치단체라고 하는데요. 동시에 가장 낙후되어 있기도 합니다. 그래서 역설적으로 ‘자발적 유배’를 갈 수 있는 곳이기도 한데요. 여행전문가가 추천하는 섬, 섬 전문가가 추천하는 섬 등 다양한 섬 이야기를 문화팀 고재열 임지영 기자와 함께 해보겠습니다. \n\n*진행: 윤원선\n*출연: 고재열, 임지영, 김은지\n\n*팟캐스트 '시사인싸'는 팟빵에서도 들으실 수 있습니다. ☞ http://www.podbbang.com/ch/1770334\n\n*시사IN 구독 및 후원은 아래에서 가능합니다. 더 좋은 콘텐츠로 보답하겠습니다. 항상 감사합니다 :)\n- support.sisain.co.kr\n- 하나은행 1099-100178-3704 (주)참언론\n- paypal 후원 : http://paypal.me/sisain",
+      "publishedAt": "2019-05-12T00:00:05Z",
+      "duration": "PT54M48S",
+      "viewCount": 1132,
+      "likeCount": 95,
+      "commentCount": 5,
+      "tags": [
+        "시사인",
+        "시사IN",
+        "시사인팟캐스트",
+        "시사IN팟캐스트",
+        "시사인싸",
+        "문화인싸",
+        "고재열",
+        "고재열기자",
+        "임지영",
+        "김은지",
+        "윤원선",
+        "섬",
+        "섬여행",
+        "여행",
+        "남도",
+        "전라남도"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2019-05-12T00:00:05Z",
+      "channelId": "UCaVuYo_tiiNzTSmlnM-A2kQ",
+      "channelName": "시사IN(시사인)",
+      "collectedAt": "2025-08-22T13:36:28Z"
     }
   },
   "channels": {
@@ -692,9 +726,36 @@
       "viewCount": 4319423561,
       "videoCount": 150855,
       "lastUpdated": "2025-08-21T10:27:51.107976Z"
+    },
+    "UCaVuYo_tiiNzTSmlnM-A2kQ": {
+      "channelId": "UCaVuYo_tiiNzTSmlnM-A2kQ",
+      "channelName": "시사IN(시사인)",
+      "channelUrl": "@sisaineditor",
+      "channelDescription": "더 나은 세상을 만드는 저널리즘, \n시사IN이 만든 라이브 방송 \n시사IN 유튜브 편성 안내\n\n🔴 [월~목 오후 5시] 김은지의 뉴스IN \n김은지 정치팀장이 정치 현안을 샅샅이 훑어드리겠습니다. \n\n●시사IN 홈페이지 https://www.sisain.co.kr/\n○시사IN 구독 https://subscribe.sisain.co.kr/\n○시사IN 후원 https://support.sisain.co.kr\n○시사IN 후원 계좌 하나은행 109-910017-83704 ㈜참언론\n○시사IN paypal http://paypal.me/sisain\n● 광고 문의 webmaster@sisain.co.kr\n\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/trmysMk0KktWKxHZLJFrZ_NjpqiYyQUmTG5wOHNjO6ap-lYLBj8hYxSv9uy9qVO0-w2CQYCEKg=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/trmysMk0KktWKxHZLJFrZ_NjpqiYyQUmTG5wOHNjO6ap-lYLBj8hYxSv9uy9qVO0-w2CQYCEKg=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/trmysMk0KktWKxHZLJFrZ_NjpqiYyQUmTG5wOHNjO6ap-lYLBj8hYxSv9uy9qVO0-w2CQYCEKg=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 666000,
+      "viewCount": 191324441,
+      "videoCount": 3184,
+      "lastUpdated": "2025-08-22T13:36:28.085525Z"
     }
   },
-  "lastUpdated": "2025-08-21T10:45:23.304602Z",
-  "totalVideos": 24,
-  "totalChannels": 1
+  "lastUpdated": "2025-08-22T13:36:28.086553Z",
+  "totalVideos": 25,
+  "totalChannels": 2
 }

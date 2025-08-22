@@ -223,6 +223,30 @@
       "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
       "channelName": "뉴스TVCHOSUN",
       "collectedAt": "2025-08-21T10:46:09Z"
+    },
+    "Rs-i7WlxKTk": {
+      "videoId": "Rs-i7WlxKTk",
+      "title": "누구나 할 수 있는  메일 검색하기",
+      "description": "‪크라우드저널리즘‬ \n여러분이 직접 진실을 파헤쳐주세요.\n각 언론사는 각개격파로 유출된 메일을 분석하며 기사를 쏟아내고 있습니다. 하지만 400기가바이트 가량 되는 방대한 분량을 각 언론사가 파헤치기에는 한계가 있습니다. 시민 여러분들이 직접 참여할 수 있는 플랫폼을 만들었습니다. \nhttp://goo.gl/forms/NQdKqom946\n클릭하면 ‘위키리크스’를 활용해 검색할 수 있는 방법을 소개했습니다. 빠른 검색을 위한 키워드도 소개했습니다. 찾은 정보를 구글 독스에 입력해 모두가 공유할 수 있게 했습니다.\n시사IN은 ‘시사IN만’의 단독을 포기하겠습니다. 시민들과 함께 ‘팩트’를 쫓겠습니다. 타사 기자들도 이 페이지에 쌓이는 자료를 참조해 마음껏 기사를 써도 됩니다. ‘동료들이 무엇을 했는지 궁금해 하는’ 국정원 직원들이 접속해도 됩니다.\n계란 하나로는 바위를 깰 수 없습니다. 하지만 수많은 물방울로는 바위를 뚫을 수 있습니다. 여러분의 적극적인 참여바랍니다. 공유해주시고 주변에 알려주세요.",
+      "publishedAt": "2015-07-15T18:31:24Z",
+      "duration": "PT2M1S",
+      "viewCount": 517,
+      "likeCount": 2,
+      "commentCount": 0,
+      "tags": [
+        "시사IN",
+        "시사인",
+        "국정원",
+        "5163",
+        "7452",
+        "nis"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2015-07-15T18:31:24Z",
+      "channelId": "UCaVuYo_tiiNzTSmlnM-A2kQ",
+      "channelName": "시사IN(시사인)",
+      "collectedAt": "2025-08-22T13:36:44Z"
     }
   },
   "channels": {
@@ -306,9 +330,36 @@
       "viewCount": 4319423561,
       "videoCount": 150855,
       "lastUpdated": "2025-08-21T10:28:47.538152Z"
+    },
+    "UCaVuYo_tiiNzTSmlnM-A2kQ": {
+      "channelId": "UCaVuYo_tiiNzTSmlnM-A2kQ",
+      "channelName": "시사IN(시사인)",
+      "channelUrl": "@sisaineditor",
+      "channelDescription": "더 나은 세상을 만드는 저널리즘, \n시사IN이 만든 라이브 방송 \n시사IN 유튜브 편성 안내\n\n🔴 [월~목 오후 5시] 김은지의 뉴스IN \n김은지 정치팀장이 정치 현안을 샅샅이 훑어드리겠습니다. \n\n●시사IN 홈페이지 https://www.sisain.co.kr/\n○시사IN 구독 https://subscribe.sisain.co.kr/\n○시사IN 후원 https://support.sisain.co.kr\n○시사IN 후원 계좌 하나은행 109-910017-83704 ㈜참언론\n○시사IN paypal http://paypal.me/sisain\n● 광고 문의 webmaster@sisain.co.kr\n\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/trmysMk0KktWKxHZLJFrZ_NjpqiYyQUmTG5wOHNjO6ap-lYLBj8hYxSv9uy9qVO0-w2CQYCEKg=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/trmysMk0KktWKxHZLJFrZ_NjpqiYyQUmTG5wOHNjO6ap-lYLBj8hYxSv9uy9qVO0-w2CQYCEKg=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/trmysMk0KktWKxHZLJFrZ_NjpqiYyQUmTG5wOHNjO6ap-lYLBj8hYxSv9uy9qVO0-w2CQYCEKg=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 666000,
+      "viewCount": 191324441,
+      "videoCount": 3184,
+      "lastUpdated": "2025-08-22T13:36:44.099645Z"
     }
   },
-  "lastUpdated": "2025-08-21T10:46:09.905580Z",
-  "totalVideos": 8,
-  "totalChannels": 3
+  "lastUpdated": "2025-08-22T13:36:44.100642Z",
+  "totalVideos": 9,
+  "totalChannels": 4
 }
