@@ -1436,6 +1436,39 @@
       "channelId": "UC4Aa3OPkMenwTANpf0oWVRQ",
       "channelName": "CBS 김현정의 뉴스쇼",
       "collectedAt": "2025-08-22T14:02:43Z"
+    },
+    "IEIpRMu-GJA": {
+      "videoId": "IEIpRMu-GJA",
+      "title": "[이진우의 손에 잡히는 경제] 집주인이 전세가 빠져야 전세금 줄 수 있다고 하면...",
+      "description": "2019년 1월 18일 [이진우의 손에 잡히는 경제​] \n\n\n【친절한 경제】\n\n\"집주인이 전세가 빠져야 전세금 줄 수 있다고 하면...\"\n\n\n\n\n|이진우의 손에 잡히는 경제 홈페이지 |\n\nhttp://www.imbc.com/broad/radio/fm/economy/",
+      "publishedAt": "2019-01-18T02:20:56Z",
+      "duration": "PT2M8S",
+      "viewCount": 1896,
+      "likeCount": 15,
+      "commentCount": 1,
+      "tags": [
+        "MBC라디오",
+        "이진우",
+        "손에잡히는경제",
+        "이진우의손에잡히는경제",
+        "전세금",
+        "전세",
+        "친절한경제",
+        "경제상식",
+        "쉬운경제이야기",
+        "economy",
+        "계약",
+        "약",
+        "전세계약",
+        "전세계약만기",
+        "전세만기"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2019-01-18T02:20:56Z",
+      "channelId": "UCTTmtS2ljy1vyl_s-d_LEHQ",
+      "channelName": "MBC 라디오 시사",
+      "collectedAt": "2025-08-22T14:25:55Z"
     }
   },
   "channels": {
@@ -1627,9 +1660,36 @@
       "viewCount": 1278731005,
       "videoCount": 19122,
       "lastUpdated": "2025-08-22T14:02:43.004867Z"
+    },
+    "UCTTmtS2ljy1vyl_s-d_LEHQ": {
+      "channelId": "UCTTmtS2ljy1vyl_s-d_LEHQ",
+      "channelName": "MBC 라디오 시사",
+      "channelUrl": "@mbcradio_sisa",
+      "channelDescription": "김종배의 시선집중 / 권순표의 뉴스하이킥 / 정치人싸  / 주말 김치형의 뉴스 하이킥 / 성지영의 뉴스바사삭",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/c1RPQ0FeMLwk-qwbcqNNQ8Fg5YUTCF7Db0n2kdklfl6VwLR9O8rZYf2jQsoQsRreYjhRfq57-Q=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/c1RPQ0FeMLwk-qwbcqNNQ8Fg5YUTCF7Db0n2kdklfl6VwLR9O8rZYf2jQsoQsRreYjhRfq57-Q=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/c1RPQ0FeMLwk-qwbcqNNQ8Fg5YUTCF7Db0n2kdklfl6VwLR9O8rZYf2jQsoQsRreYjhRfq57-Q=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 1780000,
+      "viewCount": 1976525997,
+      "videoCount": 26986,
+      "lastUpdated": "2025-08-22T14:25:55.628177Z"
     }
   },
-  "lastUpdated": "2025-08-22T14:02:43.004867Z",
-  "totalVideos": 51,
-  "totalChannels": 7
+  "lastUpdated": "2025-08-22T14:25:55.629760Z",
+  "totalVideos": 52,
+  "totalChannels": 8
 }

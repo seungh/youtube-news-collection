@@ -1354,6 +1354,38 @@
       "channelId": "UC4Aa3OPkMenwTANpf0oWVRQ",
       "channelName": "CBS 김현정의 뉴스쇼",
       "collectedAt": "2025-08-22T14:02:43Z"
+    },
+    "yOcgmTYcALA": {
+      "videoId": "yOcgmTYcALA",
+      "title": "[이진우의 손에 잡히는 경제] 주식회사, 유한회사, 합자회사, 합명회사 차이는?",
+      "description": "2019년 1월 17일 [이진우의 손에 잡히는 경제​] \n\n\n【친절한 경제】\n\n\"주식회사, 유한회사, 합자회사, 합명회사 차이는?\"\n\n\n\n\n|이진우의 손에 잡히는 경제 홈페이지 |\n\nhttp://www.imbc.com/broad/radio/fm/economy/",
+      "publishedAt": "2019-01-17T01:22:39Z",
+      "duration": "PT3M5S",
+      "viewCount": 21784,
+      "likeCount": 316,
+      "commentCount": 12,
+      "tags": [
+        "이진우",
+        "MBC라디오",
+        "손에잡히는경제",
+        "이진우의손에잡히는경제",
+        "친절한경제",
+        "경제",
+        "경제이야기",
+        "주식회사",
+        "유한회사",
+        "합자회사",
+        "합명회사",
+        "쉬운경제이야기",
+        "economy",
+        "경제상식"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2019-01-17T01:22:39Z",
+      "channelId": "UCTTmtS2ljy1vyl_s-d_LEHQ",
+      "channelName": "MBC 라디오 시사",
+      "collectedAt": "2025-08-22T14:25:55Z"
     }
   },
   "channels": {
@@ -1518,9 +1550,36 @@
       "viewCount": 1278731005,
       "videoCount": 19122,
       "lastUpdated": "2025-08-22T14:02:43.031325Z"
+    },
+    "UCTTmtS2ljy1vyl_s-d_LEHQ": {
+      "channelId": "UCTTmtS2ljy1vyl_s-d_LEHQ",
+      "channelName": "MBC 라디오 시사",
+      "channelUrl": "@mbcradio_sisa",
+      "channelDescription": "김종배의 시선집중 / 권순표의 뉴스하이킥 / 정치人싸  / 주말 김치형의 뉴스 하이킥 / 성지영의 뉴스바사삭",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/c1RPQ0FeMLwk-qwbcqNNQ8Fg5YUTCF7Db0n2kdklfl6VwLR9O8rZYf2jQsoQsRreYjhRfq57-Q=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/c1RPQ0FeMLwk-qwbcqNNQ8Fg5YUTCF7Db0n2kdklfl6VwLR9O8rZYf2jQsoQsRreYjhRfq57-Q=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/c1RPQ0FeMLwk-qwbcqNNQ8Fg5YUTCF7Db0n2kdklfl6VwLR9O8rZYf2jQsoQsRreYjhRfq57-Q=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 1780000,
+      "viewCount": 1976525997,
+      "videoCount": 26986,
+      "lastUpdated": "2025-08-22T14:25:55.660745Z"
     }
   },
-  "lastUpdated": "2025-08-22T14:02:43.035688Z",
-  "totalVideos": 49,
-  "totalChannels": 6
+  "lastUpdated": "2025-08-22T14:25:55.662642Z",
+  "totalVideos": 50,
+  "totalChannels": 7
 }

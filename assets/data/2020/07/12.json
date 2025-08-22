@@ -780,6 +780,44 @@
       "channelId": "UChlv4GSd7OQl3js-jkLOnFA",
       "channelName": "삼프로TV 3PROTV",
       "collectedAt": "2025-08-22T14:03:46Z"
+    },
+    "OBWhaxAG7AM": {
+      "videoId": "OBWhaxAG7AM",
+      "title": "[일요일은 음악특공대] with 윤수현 / 천태만상~ 사치기사치기~ / 7/12(일) [이재익의 시사특공대]",
+      "description": "#이재익 #윤수현 #시사특공대\n2020년 7월 12일 금요일\n\n* 음원 저작권 저촉으로 스트리밍이 끊기는 상황이 발생해\n음원이 나가는 시간에는 음소거로 변경됩니다 양해부탁드립니다\n\n[일요일은 음악특공대]\nwith 윤수현",
+      "publishedAt": "2020-07-12T05:04:23Z",
+      "duration": "PT49M25S",
+      "viewCount": 1139,
+      "likeCount": 43,
+      "commentCount": 2,
+      "tags": [
+        "#sbs라디오",
+        "#정치쇼",
+        "#러브FM",
+        "정치",
+        "시사",
+        "뉴스",
+        "라디오",
+        "예능",
+        "이재익",
+        "고현준",
+        "시사교양",
+        "교양",
+        "책",
+        "독서",
+        "책추천",
+        "책하고놀자"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": {
+        "actualStartTime": "2020-07-12T04:00:18Z",
+        "actualEndTime": "2020-07-12T04:56:06Z",
+        "scheduledStartTime": "2020-07-12T04:00:00Z"
+      },
+      "actualPubAt": "2020-07-12T04:00:18Z",
+      "channelId": "UCLv3v82YNNsa8EsxrcPMjGQ",
+      "channelName": "SBS 시사교양 라디오 - 시교라",
+      "collectedAt": "2025-08-22T14:27:05Z"
     }
   },
   "channels": {
@@ -887,12 +925,39 @@
         }
       },
       "subscriberCount": 2760000,
-      "viewCount": 1502972459,
-      "videoCount": 18626,
-      "lastUpdated": "2025-08-22T14:03:46.155221Z"
+      "viewCount": 1503065440,
+      "videoCount": 18627,
+      "lastUpdated": "2025-08-22T14:27:05.437753Z"
+    },
+    "UCLv3v82YNNsa8EsxrcPMjGQ": {
+      "channelId": "UCLv3v82YNNsa8EsxrcPMjGQ",
+      "channelName": "SBS 시사교양 라디오 - 시교라",
+      "channelUrl": "@sbsradio_sisa",
+      "channelDescription": "SBS LOVE FM 103.5MHz \n\n1. 고현준의 뉴스 브리핑 \n✨ 오늘 아침 꼭 알아야하는 뉴스만 골라서 알려드립니다\n⏰월~금: 06:05 ~ 07:00\n🌐공식홈페이지 https://programs.sbs.co.kr/radio/newsbriefing\n\n\n2. 김태현의 정치쇼 \n✨ 발랄한 아침 시사 토크쇼!\n⏰월~금: 07:05 ~ 09:00\n🌐공식 홈페이지: https://programs.sbs.co.kr/radio/lchshow\n\n※ 유튜브 오리지널 [정치쇼 본.방.불.가]\n⏰매주 목: 09:05 ~10:00 \n\n\n3. 박연미의 목돈연구소\n✨ 생활 밀착형 돈되는 경제 이슈 \n⏰매일: 11:00 ~ 12:00\n🌐공식홈페이지 https://programs.sbs.co.kr/radio/sbsbigmoney/main\n\n\n4. 어예진의 방과후 목돈연구소 \n✨ 장이 끝나도, 투자는 끝나지 않는다! 경제 보충학습!\n⏰월~금: 16:00~17:00\n🌐공식홈페이지 https://programs.sbs.co.kr/radio/afterbigmoney\n\n\n5. 주영진의 뉴스직격 \n✨ 뉴스는 깊이 있게, 팩트는 직격으로!\n⏰월~금: 17:00~18:00\n🌐공식홈페이지 https://programs.sbs.co.kr/radio/lovefmjyj\n\n\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/7T8I1gksHRLjOIrhbLL1Ox44I10sEFLRsfEAtOhGV_SS1I4-L1TZY3NQquWm8ROxZOo1gPI5cA=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/7T8I1gksHRLjOIrhbLL1Ox44I10sEFLRsfEAtOhGV_SS1I4-L1TZY3NQquWm8ROxZOo1gPI5cA=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/7T8I1gksHRLjOIrhbLL1Ox44I10sEFLRsfEAtOhGV_SS1I4-L1TZY3NQquWm8ROxZOo1gPI5cA=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 703000,
+      "viewCount": 411922733,
+      "videoCount": 13318,
+      "lastUpdated": "2025-08-22T14:27:05.437753Z"
     }
   },
-  "lastUpdated": "2025-08-22T14:03:46.156221Z",
-  "totalVideos": 28,
-  "totalChannels": 4
+  "lastUpdated": "2025-08-22T14:27:05.438751Z",
+  "totalVideos": 29,
+  "totalChannels": 5
 }

@@ -2040,6 +2040,44 @@
       "channelId": "UChlv4GSd7OQl3js-jkLOnFA",
       "channelName": "삼프로TV 3PROTV",
       "collectedAt": "2025-08-22T14:01:41Z"
+    },
+    "M-yViC-zRfk": {
+      "videoId": "M-yViC-zRfk",
+      "title": "[이진우의 손에 잡히는 경제]  회사가 미납한 국민연금 누가 내야하나요?",
+      "description": "2019년 6월 17일 [이진우의 손에 잡히는 경제​]\n\n\n\n【친절한 경제】\n\n\n\" 회사가 미납한 국민연금 누가 내야하나요?\"\n\n\n\n\n|이진우의 손에 잡히는 경제 홈페이지 |\n\nhttp://www.imbc.com/broad/radio/fm/economy/",
+      "publishedAt": "2019-06-17T03:42:20Z",
+      "duration": "PT2M45S",
+      "viewCount": 14573,
+      "likeCount": 101,
+      "commentCount": 35,
+      "tags": [
+        "이진우",
+        "손에잡히는경제",
+        "이진우의손에잡히는경제",
+        "MBC라디오",
+        "MBC",
+        "라디오",
+        "이진우기자",
+        "경제이야기",
+        "경제",
+        "쉬운경제이야기",
+        "경제상식",
+        "economy",
+        "친절한경제",
+        "경제과외",
+        "경제라디오",
+        "국민연금",
+        "회사미납",
+        "미납",
+        "미납국민연금",
+        "회사가미납한국민연금"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2019-06-17T03:42:20Z",
+      "channelId": "UCTTmtS2ljy1vyl_s-d_LEHQ",
+      "channelName": "MBC 라디오 시사",
+      "collectedAt": "2025-08-22T14:25:51Z"
     }
   },
   "channels": {
@@ -2228,12 +2266,39 @@
         }
       },
       "subscriberCount": 2760000,
-      "viewCount": 1502972459,
-      "videoCount": 18626,
-      "lastUpdated": "2025-08-22T14:01:41.440659Z"
+      "viewCount": 1503065440,
+      "videoCount": 18627,
+      "lastUpdated": "2025-08-22T14:25:51.702982Z"
+    },
+    "UCTTmtS2ljy1vyl_s-d_LEHQ": {
+      "channelId": "UCTTmtS2ljy1vyl_s-d_LEHQ",
+      "channelName": "MBC 라디오 시사",
+      "channelUrl": "@mbcradio_sisa",
+      "channelDescription": "김종배의 시선집중 / 권순표의 뉴스하이킥 / 정치人싸  / 주말 김치형의 뉴스 하이킥 / 성지영의 뉴스바사삭",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/c1RPQ0FeMLwk-qwbcqNNQ8Fg5YUTCF7Db0n2kdklfl6VwLR9O8rZYf2jQsoQsRreYjhRfq57-Q=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/c1RPQ0FeMLwk-qwbcqNNQ8Fg5YUTCF7Db0n2kdklfl6VwLR9O8rZYf2jQsoQsRreYjhRfq57-Q=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/c1RPQ0FeMLwk-qwbcqNNQ8Fg5YUTCF7Db0n2kdklfl6VwLR9O8rZYf2jQsoQsRreYjhRfq57-Q=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 1780000,
+      "viewCount": 1976525997,
+      "videoCount": 26986,
+      "lastUpdated": "2025-08-22T14:25:51.706250Z"
     }
   },
-  "lastUpdated": "2025-08-22T14:01:41.442688Z",
-  "totalVideos": 74,
-  "totalChannels": 7
+  "lastUpdated": "2025-08-22T14:25:51.706778Z",
+  "totalVideos": 75,
+  "totalChannels": 8
 }

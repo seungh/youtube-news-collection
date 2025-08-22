@@ -833,6 +833,66 @@
       "channelId": "UChlv4GSd7OQl3js-jkLOnFA",
       "channelName": "삼프로TV 3PROTV",
       "collectedAt": "2025-08-22T14:03:02Z"
+    },
+    "laevjymtvJU": {
+      "videoId": "laevjymtvJU",
+      "title": "[정치人싸] 김건희 여사 광폭 행보ㅣ민주 97그룹 급부상?ㅣ김경수 전 지사 복귀?ㅣ국힘 최고위 추천 두고 내홍? - 현근택, 천하람, 김준우, 임승호 & 허일후 아나운서",
+      "description": "인싸를 꿈꾸는 네 남자의 \n유쾌·상쾌·통쾌 정치 토크쇼!\n\n#정치인싸 #김경수 #97그룹 #백현동\n#현근택 #김준우 #임승호 #천하람",
+      "publishedAt": "2022-06-18T03:04:08Z",
+      "duration": "PT44M10S",
+      "viewCount": 142421,
+      "likeCount": 2977,
+      "commentCount": 501,
+      "tags": [
+        "MBC",
+        "MBC라디오",
+        "라디오",
+        "AM",
+        "FM",
+        "95.9",
+        "시사",
+        "정치",
+        "사회",
+        "이슈",
+        "마봉춘",
+        "RADIO",
+        "MBC RADIO",
+        "표준FM",
+        "뉴스",
+        "선거",
+        "정치인싸",
+        "윤석열",
+        "국민의힘",
+        "지방선거",
+        "현근택",
+        "장성철",
+        "천하람",
+        "김준우",
+        "허일후",
+        "검찰",
+        "이준석",
+        "한동훈",
+        "레전드",
+        "막말",
+        "실시간",
+        "이재명",
+        "여론조사",
+        "토론",
+        "김건희",
+        "팬클럽",
+        "코바나",
+        "대통령실"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": {
+        "actualStartTime": "2022-06-18T02:02:24Z",
+        "actualEndTime": "2022-06-18T02:58:52Z",
+        "scheduledStartTime": "2022-06-18T02:05:47Z"
+      },
+      "actualPubAt": "2022-06-18T02:02:24Z",
+      "channelId": "UCTTmtS2ljy1vyl_s-d_LEHQ",
+      "channelName": "MBC 라디오 시사",
+      "collectedAt": "2025-08-22T14:26:57Z"
     }
   },
   "channels": {
@@ -967,12 +1027,39 @@
         }
       },
       "subscriberCount": 2760000,
-      "viewCount": 1502972459,
-      "videoCount": 18626,
-      "lastUpdated": "2025-08-22T14:03:02.567534Z"
+      "viewCount": 1503065440,
+      "videoCount": 18627,
+      "lastUpdated": "2025-08-22T14:26:57.616091Z"
+    },
+    "UCTTmtS2ljy1vyl_s-d_LEHQ": {
+      "channelId": "UCTTmtS2ljy1vyl_s-d_LEHQ",
+      "channelName": "MBC 라디오 시사",
+      "channelUrl": "@mbcradio_sisa",
+      "channelDescription": "김종배의 시선집중 / 권순표의 뉴스하이킥 / 정치人싸  / 주말 김치형의 뉴스 하이킥 / 성지영의 뉴스바사삭",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/c1RPQ0FeMLwk-qwbcqNNQ8Fg5YUTCF7Db0n2kdklfl6VwLR9O8rZYf2jQsoQsRreYjhRfq57-Q=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/c1RPQ0FeMLwk-qwbcqNNQ8Fg5YUTCF7Db0n2kdklfl6VwLR9O8rZYf2jQsoQsRreYjhRfq57-Q=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/c1RPQ0FeMLwk-qwbcqNNQ8Fg5YUTCF7Db0n2kdklfl6VwLR9O8rZYf2jQsoQsRreYjhRfq57-Q=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 1780000,
+      "viewCount": 1976525997,
+      "videoCount": 26986,
+      "lastUpdated": "2025-08-22T14:26:57.617088Z"
     }
   },
-  "lastUpdated": "2025-08-22T14:03:02.570315Z",
-  "totalVideos": 29,
-  "totalChannels": 5
+  "lastUpdated": "2025-08-22T14:26:57.618085Z",
+  "totalVideos": 30,
+  "totalChannels": 6
 }

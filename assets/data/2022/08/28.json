@@ -1041,6 +1041,65 @@
       "channelId": "UChlv4GSd7OQl3js-jkLOnFA",
       "channelName": "삼프로TV 3PROTV",
       "collectedAt": "2025-08-22T14:03:04Z"
+    },
+    "9f4JEM3L-58": {
+      "videoId": "9f4JEM3L-58",
+      "title": "[정치인싸] 김혜경 '법카'ㅣ한동훈vs최강욱 설전ㅣ인적쇄신 이후 대통령실은?ㅣ청와대 화보 논란 - 현근택, 장성철, 천하람, 김준우 & 허일후 아나운서",
+      "description": "인싸를 꿈꾸는 네 남자의 \n유쾌·상쾌·통쾌 정치 토크쇼!\n\n#정치인싸 #김혜경 #김건희 #한동훈 #최강욱 #대통령실 #보그 \n#현근택 #김준우 #장성철 #천하람",
+      "publishedAt": "2022-08-28T02:05:11Z",
+      "duration": "PT52M47S",
+      "viewCount": 267933,
+      "likeCount": 6062,
+      "commentCount": 804,
+      "tags": [
+        "MBC",
+        "MBC라디오",
+        "라디오",
+        "AM",
+        "FM",
+        "95.9",
+        "시사",
+        "정치",
+        "사회",
+        "이슈",
+        "마봉춘",
+        "RADIO",
+        "MBC RADIO",
+        "표준FM",
+        "뉴스",
+        "선거",
+        "라디오시사",
+        "mbc라디오시사",
+        "엠비씨라디오",
+        "토론",
+        "레전드",
+        "이준석",
+        "탄원서",
+        "유출",
+        "막말",
+        "윤석열",
+        "김건희",
+        "김혜경",
+        "법카",
+        "최강욱",
+        "한동훈",
+        "실시간",
+        "녹취",
+        "배현진",
+        "나경원",
+        "이지성",
+        "차유람"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": {
+        "actualStartTime": "2022-08-28T02:05:11Z",
+        "actualEndTime": "2022-08-28T02:59:52Z",
+        "scheduledStartTime": "2022-08-28T02:05:00Z"
+      },
+      "actualPubAt": "2022-08-28T02:05:11Z",
+      "channelId": "UCTTmtS2ljy1vyl_s-d_LEHQ",
+      "channelName": "MBC 라디오 시사",
+      "collectedAt": "2025-08-22T14:26:55Z"
     }
   },
   "channels": {
@@ -1229,12 +1288,39 @@
         }
       },
       "subscriberCount": 2760000,
-      "viewCount": 1502972459,
-      "videoCount": 18626,
-      "lastUpdated": "2025-08-22T14:03:04.573828Z"
+      "viewCount": 1503065440,
+      "videoCount": 18627,
+      "lastUpdated": "2025-08-22T14:26:55.049899Z"
+    },
+    "UCTTmtS2ljy1vyl_s-d_LEHQ": {
+      "channelId": "UCTTmtS2ljy1vyl_s-d_LEHQ",
+      "channelName": "MBC 라디오 시사",
+      "channelUrl": "@mbcradio_sisa",
+      "channelDescription": "김종배의 시선집중 / 권순표의 뉴스하이킥 / 정치人싸  / 주말 김치형의 뉴스 하이킥 / 성지영의 뉴스바사삭",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/c1RPQ0FeMLwk-qwbcqNNQ8Fg5YUTCF7Db0n2kdklfl6VwLR9O8rZYf2jQsoQsRreYjhRfq57-Q=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/c1RPQ0FeMLwk-qwbcqNNQ8Fg5YUTCF7Db0n2kdklfl6VwLR9O8rZYf2jQsoQsRreYjhRfq57-Q=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/c1RPQ0FeMLwk-qwbcqNNQ8Fg5YUTCF7Db0n2kdklfl6VwLR9O8rZYf2jQsoQsRreYjhRfq57-Q=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 1780000,
+      "viewCount": 1976525997,
+      "videoCount": 26986,
+      "lastUpdated": "2025-08-22T14:26:55.050895Z"
     }
   },
-  "lastUpdated": "2025-08-22T14:03:04.574944Z",
-  "totalVideos": 39,
-  "totalChannels": 7
+  "lastUpdated": "2025-08-22T14:26:55.051892Z",
+  "totalVideos": 40,
+  "totalChannels": 8
 }

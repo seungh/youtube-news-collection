@@ -741,6 +741,75 @@
       "channelId": "UChlv4GSd7OQl3js-jkLOnFA",
       "channelName": "삼프로TV 3PROTV",
       "collectedAt": "2025-08-22T14:03:45Z"
+    },
+    "SgetTlUS4yM": {
+      "videoId": "SgetTlUS4yM",
+      "title": "[정치人싸] 아베의 트럼프 따라하기 미국의 철퇴 맞는다! - 김태현, 이준석, 현근택 & 허일후 아나운서",
+      "description": "- 아베, 한발 더 나가면 끝이다\n\n\n=======================================\n\n인싸를 꿈꾸는 세 남자의 \n유쾌·상쾌·통쾌 정치 토크쇼!",
+      "publishedAt": "2019-08-31T07:55:25Z",
+      "duration": "PT19M21S",
+      "viewCount": 12512,
+      "likeCount": 175,
+      "commentCount": 52,
+      "tags": [
+        "지소미아",
+        "GSOMIA",
+        "한일군사정보보호협정",
+        "지소미아파기",
+        "지소미아종료",
+        "일본",
+        "아베",
+        "화이트리스트",
+        "백색국가",
+        "트럼프",
+        "미국",
+        "김정은",
+        "북한",
+        "방위비",
+        "방위비분담금",
+        "문재인",
+        "대통령",
+        "문재인대통령",
+        "강경화",
+        "외교",
+        "NSC",
+        "NSC회의",
+        "정의용안보실장",
+        "정의용",
+        "청와대",
+        "청와대안보실장",
+        "정치인싸",
+        "정치人싸",
+        "MBC라디오",
+        "MBC팟캐스트",
+        "팟캐스트",
+        "팟빵",
+        "허일후",
+        "허일후아나운서",
+        "현근택",
+        "현근택변호사",
+        "김태현",
+        "김태현변호사",
+        "한국당",
+        "자유한국당",
+        "이준석",
+        "바른미래당",
+        "시사라디오",
+        "정치라디오",
+        "시사토론",
+        "정치토론",
+        "시사팟캐스트",
+        "정치팟캐스트",
+        "시사토크쇼",
+        "정치토크쇼",
+        "팟캐스트M"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2019-08-31T07:55:25Z",
+      "channelId": "UCTTmtS2ljy1vyl_s-d_LEHQ",
+      "channelName": "MBC 라디오 시사",
+      "collectedAt": "2025-08-22T14:27:04Z"
     }
   },
   "channels": {
@@ -848,12 +917,39 @@
         }
       },
       "subscriberCount": 2760000,
-      "viewCount": 1502972459,
-      "videoCount": 18626,
-      "lastUpdated": "2025-08-22T14:03:45.012978Z"
+      "viewCount": 1503065440,
+      "videoCount": 18627,
+      "lastUpdated": "2025-08-22T14:27:04.255798Z"
+    },
+    "UCTTmtS2ljy1vyl_s-d_LEHQ": {
+      "channelId": "UCTTmtS2ljy1vyl_s-d_LEHQ",
+      "channelName": "MBC 라디오 시사",
+      "channelUrl": "@mbcradio_sisa",
+      "channelDescription": "김종배의 시선집중 / 권순표의 뉴스하이킥 / 정치人싸  / 주말 김치형의 뉴스 하이킥 / 성지영의 뉴스바사삭",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/c1RPQ0FeMLwk-qwbcqNNQ8Fg5YUTCF7Db0n2kdklfl6VwLR9O8rZYf2jQsoQsRreYjhRfq57-Q=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/c1RPQ0FeMLwk-qwbcqNNQ8Fg5YUTCF7Db0n2kdklfl6VwLR9O8rZYf2jQsoQsRreYjhRfq57-Q=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/c1RPQ0FeMLwk-qwbcqNNQ8Fg5YUTCF7Db0n2kdklfl6VwLR9O8rZYf2jQsoQsRreYjhRfq57-Q=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 1780000,
+      "viewCount": 1976525997,
+      "videoCount": 26986,
+      "lastUpdated": "2025-08-22T14:27:04.255798Z"
     }
   },
-  "lastUpdated": "2025-08-22T14:03:45.012978Z",
-  "totalVideos": 25,
-  "totalChannels": 4
+  "lastUpdated": "2025-08-22T14:27:04.257792Z",
+  "totalVideos": 26,
+  "totalChannels": 5
 }

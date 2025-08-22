@@ -1980,6 +1980,43 @@
       "channelId": "UChlv4GSd7OQl3js-jkLOnFA",
       "channelName": "삼프로TV 3PROTV",
       "collectedAt": "2025-08-22T14:01:46Z"
+    },
+    "TpdrHJuCDzM": {
+      "videoId": "TpdrHJuCDzM",
+      "title": "[이진우의 손에 잡히는 경제] 포인트나 마일리지는 왜 유효기간을 두나요?",
+      "description": "2019년 6월 5일 [이진우의 손에 잡히는 경제​]\n\n\n\n【친절한 경제】\n\n\n\"포인트나 마일리지는 왜 유효기간을 두나요?\"\n\n\n\n\n|이진우의 손에 잡히는 경제 홈페이지 |\n\nhttp://www.imbc.com/broad/radio/fm/economy/",
+      "publishedAt": "2019-06-05T05:21:49Z",
+      "duration": "PT2M23S",
+      "viewCount": 642,
+      "likeCount": 11,
+      "commentCount": 0,
+      "tags": [
+        "이진우",
+        "손에잡히는경제",
+        "이진우의손에잡히는경제",
+        "MBC라디오",
+        "MBC",
+        "이진우기자",
+        "경제이야기",
+        "경제",
+        "경제상식",
+        "쉬운경제이야기",
+        "economy",
+        "친절한경제",
+        "경제과외",
+        "경제라디오",
+        "포인트",
+        "유효기간",
+        "마일리지",
+        "포인트유효기간",
+        "마일리지휴효기간"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2019-06-05T05:21:49Z",
+      "channelId": "UCTTmtS2ljy1vyl_s-d_LEHQ",
+      "channelName": "MBC 라디오 시사",
+      "collectedAt": "2025-08-22T14:25:52Z"
     }
   },
   "channels": {
@@ -2222,12 +2259,39 @@
         }
       },
       "subscriberCount": 2760000,
-      "viewCount": 1502972459,
-      "videoCount": 18626,
-      "lastUpdated": "2025-08-22T14:01:46.685761Z"
+      "viewCount": 1503065440,
+      "videoCount": 18627,
+      "lastUpdated": "2025-08-22T14:25:52.022819Z"
+    },
+    "UCTTmtS2ljy1vyl_s-d_LEHQ": {
+      "channelId": "UCTTmtS2ljy1vyl_s-d_LEHQ",
+      "channelName": "MBC 라디오 시사",
+      "channelUrl": "@mbcradio_sisa",
+      "channelDescription": "김종배의 시선집중 / 권순표의 뉴스하이킥 / 정치人싸  / 주말 김치형의 뉴스 하이킥 / 성지영의 뉴스바사삭",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/c1RPQ0FeMLwk-qwbcqNNQ8Fg5YUTCF7Db0n2kdklfl6VwLR9O8rZYf2jQsoQsRreYjhRfq57-Q=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/c1RPQ0FeMLwk-qwbcqNNQ8Fg5YUTCF7Db0n2kdklfl6VwLR9O8rZYf2jQsoQsRreYjhRfq57-Q=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/c1RPQ0FeMLwk-qwbcqNNQ8Fg5YUTCF7Db0n2kdklfl6VwLR9O8rZYf2jQsoQsRreYjhRfq57-Q=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 1780000,
+      "viewCount": 1976525997,
+      "videoCount": 26986,
+      "lastUpdated": "2025-08-22T14:25:52.022819Z"
     }
   },
-  "lastUpdated": "2025-08-22T14:01:46.689442Z",
-  "totalVideos": 71,
-  "totalChannels": 9
+  "lastUpdated": "2025-08-22T14:25:52.023817Z",
+  "totalVideos": 72,
+  "totalChannels": 10
 }

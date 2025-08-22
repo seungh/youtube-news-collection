@@ -1633,6 +1633,45 @@
       "channelId": "UChlv4GSd7OQl3js-jkLOnFA",
       "channelName": "삼프로TV 3PROTV",
       "collectedAt": "2025-08-22T14:02:41Z"
+    },
+    "mVByFLRNvaw": {
+      "videoId": "mVByFLRNvaw",
+      "title": "[이진우의 손에 잡히는 경제] 해외에서 신용카드 사용할 때 원화로 결제하면 안되는 이유",
+      "description": "2019년 4월 30일 [이진우의 손에 잡히는 경제​]\n\n\n\n【친절한 경제】\n\n\n\"해외에서 신용카드 사용할 때\n원화로 결제하면 안 되는 이유\"\n\n\n\n\n\n|이진우의 손에 잡히는 경제 홈페이지 |\n\nhttp://www.imbc.com/broad/radio/fm/economy/",
+      "publishedAt": "2019-04-30T03:35:26Z",
+      "duration": "PT3M6S",
+      "viewCount": 838,
+      "likeCount": 8,
+      "commentCount": 0,
+      "tags": [
+        "이진우",
+        "손에잡히는경제",
+        "이진우의손에잡히는경제",
+        "MBC라디오",
+        "이진우기자",
+        "경제이야기",
+        "경제상식",
+        "쉬운경제이야기",
+        "economy",
+        "친절한경제",
+        "경제과외",
+        "경제라디오",
+        "해외에서신용카드사용",
+        "해외원화결제",
+        "해외결제",
+        "해외신용카드",
+        "신용카드해외사용",
+        "해외",
+        "신용카드",
+        "환율",
+        "수수료"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2019-04-30T03:35:26Z",
+      "channelId": "UCTTmtS2ljy1vyl_s-d_LEHQ",
+      "channelName": "MBC 라디오 시사",
+      "collectedAt": "2025-08-22T14:26:00Z"
     }
   },
   "channels": {
@@ -1794,12 +1833,39 @@
         }
       },
       "subscriberCount": 2760000,
-      "viewCount": 1502972459,
-      "videoCount": 18626,
-      "lastUpdated": "2025-08-22T14:02:41.905543Z"
+      "viewCount": 1503065440,
+      "videoCount": 18627,
+      "lastUpdated": "2025-08-22T14:26:00.582250Z"
+    },
+    "UCTTmtS2ljy1vyl_s-d_LEHQ": {
+      "channelId": "UCTTmtS2ljy1vyl_s-d_LEHQ",
+      "channelName": "MBC 라디오 시사",
+      "channelUrl": "@mbcradio_sisa",
+      "channelDescription": "김종배의 시선집중 / 권순표의 뉴스하이킥 / 정치人싸  / 주말 김치형의 뉴스 하이킥 / 성지영의 뉴스바사삭",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/c1RPQ0FeMLwk-qwbcqNNQ8Fg5YUTCF7Db0n2kdklfl6VwLR9O8rZYf2jQsoQsRreYjhRfq57-Q=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/c1RPQ0FeMLwk-qwbcqNNQ8Fg5YUTCF7Db0n2kdklfl6VwLR9O8rZYf2jQsoQsRreYjhRfq57-Q=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/c1RPQ0FeMLwk-qwbcqNNQ8Fg5YUTCF7Db0n2kdklfl6VwLR9O8rZYf2jQsoQsRreYjhRfq57-Q=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 1780000,
+      "viewCount": 1976525997,
+      "videoCount": 26986,
+      "lastUpdated": "2025-08-22T14:26:00.583248Z"
     }
   },
-  "lastUpdated": "2025-08-22T14:02:41.906540Z",
-  "totalVideos": 60,
-  "totalChannels": 6
+  "lastUpdated": "2025-08-22T14:26:00.584696Z",
+  "totalVideos": 61,
+  "totalChannels": 7
 }

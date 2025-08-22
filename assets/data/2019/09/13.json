@@ -784,6 +784,89 @@
       "channelId": "UChlv4GSd7OQl3js-jkLOnFA",
       "channelName": "삼프로TV 3PROTV",
       "collectedAt": "2025-08-22T14:03:47Z"
+    },
+    "TjM5TMwrnJw": {
+      "videoId": "TjM5TMwrnJw",
+      "title": "[김종배의 시선집중] [추석특집] 소복 귀신은 일본귀신? 삼베수의도 일제 잔재라고? - 서해성 작가",
+      "description": "2019년 9월 13일 [김종배의 시선집중]\n\n\n| 출연 : 서해성 작가\n\n\n | 추석특집 전체 영상 보기 |  \n\nhttps://www.youtube.com/watch?v=tMSye5mZy1I&feature=youtu.be",
+      "publishedAt": "2019-09-12T23:48:56Z",
+      "duration": "PT17M28S",
+      "viewCount": 4163,
+      "likeCount": 156,
+      "commentCount": 9,
+      "tags": [
+        "김종배",
+        "시선집중",
+        "김종배의시선집중",
+        "MBC라디오",
+        "뉴스",
+        "이슈",
+        "시사",
+        "정치",
+        "사회",
+        "문화",
+        "뉴스라디오",
+        "시사라디오",
+        "정치라디오",
+        "역사",
+        "서해성작가",
+        "서해성",
+        "일제잔재",
+        "일본제국주의",
+        "소복귀신",
+        "귀신",
+        "수의",
+        "삼베",
+        "삼베수의",
+        "추석"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2019-09-12T23:48:56Z",
+      "channelId": "UCTTmtS2ljy1vyl_s-d_LEHQ",
+      "channelName": "MBC 라디오 시사",
+      "collectedAt": "2025-08-22T14:27:06Z"
+    },
+    "tMSye5mZy1I": {
+      "videoId": "tMSye5mZy1I",
+      "title": "[김종배의 시선집중] [추석특집] 상장례 문화에 남아있는 놀라운 일제 잔재들 - 서해성 작가",
+      "description": "2019년 9월 13일 [김종배의 시선집중]\n\n\n| 출연 : 서해성 작가\n\n\n | 김종배의 시선집중 홈페이지 |  \n\nhttp://www.imbc.com/broad/radio/fm/look/",
+      "publishedAt": "2019-09-12T23:45:09Z",
+      "duration": "PT1H1M13S",
+      "viewCount": 7143,
+      "likeCount": 224,
+      "commentCount": 10,
+      "tags": [
+        "김종배",
+        "시선집중",
+        "김종배의시선집중",
+        "MBC라디오",
+        "뉴스라디오",
+        "시사라디오",
+        "정치라디오",
+        "뉴스",
+        "이슈",
+        "시사",
+        "정치",
+        "사회",
+        "문화",
+        "추석",
+        "추석특집",
+        "서해성",
+        "서해성작가",
+        "상장례문화",
+        "장례문화",
+        "일제",
+        "일본제국주의",
+        "일제잔재",
+        "역사"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2019-09-12T23:45:09Z",
+      "channelId": "UCTTmtS2ljy1vyl_s-d_LEHQ",
+      "channelName": "MBC 라디오 시사",
+      "collectedAt": "2025-08-22T14:27:06Z"
     }
   },
   "channels": {
@@ -891,12 +974,39 @@
         }
       },
       "subscriberCount": 2760000,
-      "viewCount": 1502972459,
-      "videoCount": 18626,
-      "lastUpdated": "2025-08-22T14:03:47.373628Z"
+      "viewCount": 1503065440,
+      "videoCount": 18627,
+      "lastUpdated": "2025-08-22T14:27:06.526963Z"
+    },
+    "UCTTmtS2ljy1vyl_s-d_LEHQ": {
+      "channelId": "UCTTmtS2ljy1vyl_s-d_LEHQ",
+      "channelName": "MBC 라디오 시사",
+      "channelUrl": "@mbcradio_sisa",
+      "channelDescription": "김종배의 시선집중 / 권순표의 뉴스하이킥 / 정치人싸  / 주말 김치형의 뉴스 하이킥 / 성지영의 뉴스바사삭",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/c1RPQ0FeMLwk-qwbcqNNQ8Fg5YUTCF7Db0n2kdklfl6VwLR9O8rZYf2jQsoQsRreYjhRfq57-Q=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/c1RPQ0FeMLwk-qwbcqNNQ8Fg5YUTCF7Db0n2kdklfl6VwLR9O8rZYf2jQsoQsRreYjhRfq57-Q=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/c1RPQ0FeMLwk-qwbcqNNQ8Fg5YUTCF7Db0n2kdklfl6VwLR9O8rZYf2jQsoQsRreYjhRfq57-Q=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 1780000,
+      "viewCount": 1976525997,
+      "videoCount": 26986,
+      "lastUpdated": "2025-08-22T14:27:06.527960Z"
     }
   },
-  "lastUpdated": "2025-08-22T14:03:47.374626Z",
-  "totalVideos": 27,
-  "totalChannels": 4
+  "lastUpdated": "2025-08-22T14:27:06.532947Z",
+  "totalVideos": 29,
+  "totalChannels": 5
 }
