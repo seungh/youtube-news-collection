@@ -96,7 +96,7 @@ class FileManager:
             """
             filtered_dict1 = {k: v for k, v in dict1.items() if k not in excluded_keys}
             filtered_dict2 = {k: v for k, v in dict2.items() if k not in excluded_keys}
-            return filtered_dict1 == filtered_dict2
+            return filtered_dict1 != filtered_dict2
 
         updated = False
 
@@ -174,9 +174,7 @@ class FileManager:
         
         for video in all_videos:
             try:
-                # Get effective date for this video (handles live streams)
-                effective_date = get_effective_date_for_video(video)
-                date_key = format_date_for_filename(effective_date)
+                date_key = format_date_for_filename(video['actualPubAt'])
                 
                 if date_key not in grouped_videos:
                     grouped_videos[date_key] = []

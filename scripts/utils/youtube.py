@@ -165,27 +165,37 @@ class YouTubeAPI:
                 data = self._make_request("videos", params)
                 
                 for item in data.get("items", []):
-                    video_info = {
-                        "videoId": item["id"],
-                        "title": item["snippet"]["title"],
-                        "description": item["snippet"]["description"][:500] + "..." if len(item["snippet"]["description"]) > 500 else item["snippet"]["description"],
-                        "publishedAt": item["snippet"]["publishedAt"],
-                        # "thumbnails": item["snippet"]["thumbnails"], # https://i.ytimg.com/vi/{vid}/{default,mqdefault,hqdefault,sddefault,maxresdefault}.jpg
-                        "duration": item["contentDetails"]["duration"],
-                        "viewCount": int(item["statistics"].get("viewCount", 0)),
-                        "likeCount": int(item["statistics"].get("likeCount", 0)),
-                        "commentCount": int(item["statistics"].get("commentCount", 0)),
-                        "tags": item["snippet"].get("tags", [])[:10],  # Max 10 tags
-                        "categoryId": item["snippet"].get("categoryId"),
-                        "defaultLanguage": item["snippet"].get("defaultLanguage"),
-                        "defaultAudioLanguage": item["snippet"].get("defaultAudioLanguage"),
-                        "liveBroadcastContent": item["snippet"].get("liveBroadcastContent", "none"),
-                        "liveStreamingDetails": None,
-                    }
+                    try:
+                        video_info = {
+                            "videoId": item["id"],
+                            "title": item["snippet"]["title"],
+                            "description": item["snippet"]["description"][:500] + "..." if len(item["snippet"]["description"]) > 500 else item["snippet"]["description"],
+                            "publishedAt": item["snippet"]["publishedAt"],
+                            # "thumbnails": item["snippet"]["thumbnails"], # https://i.ytimg.com/vi/{vid}/{default,mqdefault,hqdefault,sddefault,maxresdefault}.jpg
+                            "duration": item["contentDetails"]["duration"],
+                            "viewCount": int(item["statistics"].get("viewCount", 0)),
+                            "likeCount": int(item["statistics"].get("likeCount", 0)),
+                            "commentCount": int(item["statistics"].get("commentCount", 0)),
+                            "tags": item["snippet"].get("tags", []),
+                            "liveBroadcastContent": item["snippet"].get("liveBroadcastContent", "none"),
+                            "liveStreamingDetails": None,
+                            "actualPubAt": None,
+                        }
+                    except:
+                        continue
                     
                     # Add live streaming details if available
                     if "liveStreamingDetails" in item:
                         video_info["liveStreamingDetails"] = item["liveStreamingDetails"]
+
+                    # Add actual publish time 
+                    if video_info["liveStreamingDetails"]:
+                            if "actualStartTime" in video_info["liveStreamingDetails"].keys():
+                                video_info["actualPubAt"] = video_info["liveStreamingDetails"]["actualStartTime"]
+                            elif "scheduledStartTime" in video_info["liveStreamingDetails"].keys():
+                                video_info["actualPubAt"] = video_info["liveStreamingDetails"]["scheduledStartTime"]
+                    else:
+                        video_info["actualPubAt"] = video_info["publishedAt"]
                     
                     all_videos.append(video_info)
                 
