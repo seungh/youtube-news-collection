@@ -19,7 +19,7 @@ sys.path.append(str(current_dir))
 
 from utils.youtube import YouTubeAPI, YouTubeAPIError
 from utils.file import FileManager
-from utils.date import get_effective_date_for_video, get_date_path, format_date_for_filename, is_live_stream
+from utils.date import get_date_path, format_date_for_filename, convert_time, parse_youtube_date
 from utils.log import setup_logging
 
 setup_logging()
@@ -148,9 +148,9 @@ class YouTubeDataCollector:
 
             for video in channel_data["videos"]:
                 try:
-                    # Get effective date for video (handles live streams differently)
-                    effective_date = get_effective_date_for_video(video, self.settings.get("timezone", "UTC"))
-                    date_key = format_date_for_filename(effective_date)
+                    pub_at = video['actualPubAt'] if video['actualPubAt'] else video['publishedAt']
+                    pub_at = convert_time(parse_youtube_date(pub_at), self.settings.get("timezone", "UTC"))
+                    date_key = format_date_for_filename(pub_at)
                     
                     if date_key not in videos_by_date:
                         videos_by_date[date_key] = {}

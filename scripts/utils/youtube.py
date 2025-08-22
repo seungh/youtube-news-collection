@@ -169,7 +169,7 @@ class YouTubeAPI:
                         video_info = {
                             "videoId": item["id"],
                             "title": item["snippet"]["title"],
-                            "description": item["snippet"]["description"][:500] + "..." if len(item["snippet"]["description"]) > 500 else item["snippet"]["description"],
+                            "description": item["snippet"]["description"],
                             "publishedAt": item["snippet"]["publishedAt"],
                             # "thumbnails": item["snippet"]["thumbnails"], # https://i.ytimg.com/vi/{vid}/{default,mqdefault,hqdefault,sddefault,maxresdefault}.jpg
                             "duration": item["contentDetails"]["duration"],
