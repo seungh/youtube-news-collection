@@ -21,17 +21,15 @@
         "국방",
         "방산"
       ],
-      "categoryId": "25",
-      "defaultLanguage": "ko",
-      "defaultAudioLanguage": "ko",
       "liveBroadcastContent": "none",
       "liveStreamingDetails": {
         "scheduledStartTime": "2025-08-23T07:00:00Z",
         "activeLiveChatId": "Cg0KC29vRmVKajctek9ZKicKGFVDaUZWV2IxRDVuSjZDdjhKYzBrckFqdxILb29GZUpqNy16T1k"
       },
+      "actualPubAt": "2025-08-23T07:00:00Z",
       "channelId": "UCiFVWb1D5nJ6Cv8Jc0krAjw",
       "channelName": "글로벌 인사이트",
-      "collectedAt": "2025-08-22T08:24:15.968426Z"
+      "collectedAt": "2025-08-22T08:24:15Z"
     }
   },
   "channels": {

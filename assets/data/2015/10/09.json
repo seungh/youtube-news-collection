@@ -16,14 +16,12 @@
         "보좌관",
         "국회방송"
       ],
-      "categoryId": "25",
-      "defaultLanguage": null,
-      "defaultAudioLanguage": null,
       "liveBroadcastContent": "none",
       "liveStreamingDetails": null,
+      "actualPubAt": "2015-10-09T04:42:39Z",
       "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
       "channelName": "NATV 국회방송",
-      "collectedAt": "2025-08-18T07:13:43.306224Z"
+      "collectedAt": "2025-08-18T07:13:43Z"
     },
     "SK9Y1YGmrJs": {
       "videoId": "SK9Y1YGmrJs",
@@ -46,14 +44,12 @@
         "한국어 열풍",
         "한류"
       ],
-      "categoryId": "25",
-      "defaultLanguage": null,
-      "defaultAudioLanguage": "ko",
       "liveBroadcastContent": "none",
       "liveStreamingDetails": null,
+      "actualPubAt": "2015-10-09T10:34:36Z",
       "channelId": "UCIMOytYIzaUpoAM2bpT4JZQ",
       "channelName": "KTV 국민방송",
-      "collectedAt": "2025-08-20T11:40:12.476045Z"
+      "collectedAt": "2025-08-20T11:40:12Z"
     },
     "wzJEj1ho5hc": {
       "videoId": "wzJEj1ho5hc",
@@ -76,14 +72,12 @@
         "뉴스",
         "뉴스프로그램"
       ],
-      "categoryId": "25",
-      "defaultLanguage": null,
-      "defaultAudioLanguage": null,
       "liveBroadcastContent": "none",
       "liveStreamingDetails": null,
+      "actualPubAt": "2015-10-09T12:28:18Z",
       "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
       "channelName": "뉴스TVCHOSUN",
-      "collectedAt": "2025-08-21T10:46:07.561970Z"
+      "collectedAt": "2025-08-21T10:46:07Z"
     },
     "MX-BrLEg1WY": {
       "videoId": "MX-BrLEg1WY",
@@ -106,14 +100,12 @@
         "뉴스",
         "뉴스프로그램"
       ],
-      "categoryId": "25",
-      "defaultLanguage": null,
-      "defaultAudioLanguage": null,
       "liveBroadcastContent": "none",
       "liveStreamingDetails": null,
+      "actualPubAt": "2015-10-09T05:34:52Z",
       "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
       "channelName": "뉴스TVCHOSUN",
-      "collectedAt": "2025-08-21T10:46:07.561970Z"
+      "collectedAt": "2025-08-21T10:46:07Z"
     },
     "nnEcyV1LfKY": {
       "videoId": "nnEcyV1LfKY",
@@ -136,14 +128,12 @@
         "뉴스",
         "뉴스프로그램"
       ],
-      "categoryId": "25",
-      "defaultLanguage": null,
-      "defaultAudioLanguage": null,
       "liveBroadcastContent": "none",
       "liveStreamingDetails": null,
+      "actualPubAt": "2015-10-09T05:33:24Z",
       "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
       "channelName": "뉴스TVCHOSUN",
-      "collectedAt": "2025-08-21T10:46:07.561970Z"
+      "collectedAt": "2025-08-21T10:46:07Z"
     }
   },
   "channels": {

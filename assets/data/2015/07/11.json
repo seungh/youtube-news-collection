@@ -21,14 +21,12 @@
         "뉴스",
         "뉴스프로그램"
       ],
-      "categoryId": "25",
-      "defaultLanguage": "ko",
-      "defaultAudioLanguage": "ko",
       "liveBroadcastContent": "none",
       "liveStreamingDetails": null,
+      "actualPubAt": "2015-07-11T11:17:49Z",
       "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
       "channelName": "뉴스TVCHOSUN",
-      "collectedAt": "2025-08-21T10:46:09.973366Z"
+      "collectedAt": "2025-08-21T10:46:09Z"
     },
     "fXMfrt9L2Ro": {
       "videoId": "fXMfrt9L2Ro",
@@ -51,14 +49,12 @@
         "뉴스",
         "뉴스프로그램"
       ],
-      "categoryId": "25",
-      "defaultLanguage": null,
-      "defaultAudioLanguage": null,
       "liveBroadcastContent": "none",
       "liveStreamingDetails": null,
+      "actualPubAt": "2015-07-11T08:33:55Z",
       "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
       "channelName": "뉴스TVCHOSUN",
-      "collectedAt": "2025-08-21T10:46:09.973366Z"
+      "collectedAt": "2025-08-21T10:46:09Z"
     }
   },
   "channels": {

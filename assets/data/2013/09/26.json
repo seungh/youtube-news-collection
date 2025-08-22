@@ -21,14 +21,12 @@
         "뉴스",
         "뉴스프로그램"
       ],
-      "categoryId": "25",
-      "defaultLanguage": null,
-      "defaultAudioLanguage": null,
       "liveBroadcastContent": "none",
       "liveStreamingDetails": null,
+      "actualPubAt": "2013-09-26T14:54:16Z",
       "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
       "channelName": "뉴스TVCHOSUN",
-      "collectedAt": "2025-08-21T10:46:40.316901Z"
+      "collectedAt": "2025-08-21T10:46:40Z"
     },
     "gwX-Apsgw8o": {
       "videoId": "gwX-Apsgw8o",
@@ -51,14 +49,12 @@
         "뉴스",
         "뉴스프로그램"
       ],
-      "categoryId": "25",
-      "defaultLanguage": "ko",
-      "defaultAudioLanguage": "ko",
       "liveBroadcastContent": "none",
       "liveStreamingDetails": null,
+      "actualPubAt": "2013-09-26T14:36:54Z",
       "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
       "channelName": "뉴스TVCHOSUN",
-      "collectedAt": "2025-08-21T10:46:40.316901Z"
+      "collectedAt": "2025-08-21T10:46:40Z"
     }
   },
   "channels": {

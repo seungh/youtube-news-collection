@@ -10,17 +10,15 @@
       "likeCount": 48,
       "commentCount": 0,
       "tags": [],
-      "categoryId": "25",
-      "defaultLanguage": null,
-      "defaultAudioLanguage": null,
       "liveBroadcastContent": "none",
       "liveStreamingDetails": {
         "actualStartTime": "2020-04-15T12:42:05Z",
         "actualEndTime": "2020-04-15T13:58:45Z"
       },
+      "actualPubAt": "2020-04-15T12:42:05Z",
       "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
       "channelName": "NATV 국회방송",
-      "collectedAt": "2025-08-20T11:39:57.995083Z"
+      "collectedAt": "2025-08-20T11:39:57Z"
     },
     "BKpx1-YU5XU": {
       "videoId": "BKpx1-YU5XU",
@@ -32,17 +30,15 @@
       "likeCount": 63,
       "commentCount": 2,
       "tags": [],
-      "categoryId": "25",
-      "defaultLanguage": null,
-      "defaultAudioLanguage": "en-US",
       "liveBroadcastContent": "none",
       "liveStreamingDetails": {
         "actualStartTime": "2020-04-15T08:40:56Z",
         "actualEndTime": "2020-04-15T10:11:36Z"
       },
+      "actualPubAt": "2020-04-15T08:40:56Z",
       "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
       "channelName": "NATV 국회방송",
-      "collectedAt": "2025-08-20T11:39:57.995083Z"
+      "collectedAt": "2025-08-20T11:39:57Z"
     },
     "6hx6UBwVoJs": {
       "videoId": "6hx6UBwVoJs",
@@ -65,14 +61,12 @@
         "한국",
         "대통령"
       ],
-      "categoryId": "25",
-      "defaultLanguage": null,
-      "defaultAudioLanguage": "ko",
       "liveBroadcastContent": "none",
       "liveStreamingDetails": null,
+      "actualPubAt": "2020-04-15T00:19:18Z",
       "channelId": "UCIMOytYIzaUpoAM2bpT4JZQ",
       "channelName": "KTV 국민방송",
-      "collectedAt": "2025-08-20T11:39:57.995083Z"
+      "collectedAt": "2025-08-20T11:39:57Z"
     },
     "NXc9iJQ821M": {
       "videoId": "NXc9iJQ821M",
@@ -95,14 +89,12 @@
         "사회적거리두기",
         "격리시설"
       ],
-      "categoryId": "25",
-      "defaultLanguage": null,
-      "defaultAudioLanguage": "ko",
       "liveBroadcastContent": "none",
       "liveStreamingDetails": null,
+      "actualPubAt": "2020-04-15T08:04:49Z",
       "channelId": "UCIMOytYIzaUpoAM2bpT4JZQ",
       "channelName": "KTV 국민방송",
-      "collectedAt": "2025-08-20T11:39:57.995083Z"
+      "collectedAt": "2025-08-20T11:39:57Z"
     },
     "H3rZzsx2weU": {
       "videoId": "H3rZzsx2weU",
@@ -125,14 +117,12 @@
         "asean",
         "아세안"
       ],
-      "categoryId": "25",
-      "defaultLanguage": null,
-      "defaultAudioLanguage": "ko",
       "liveBroadcastContent": "none",
       "liveStreamingDetails": null,
+      "actualPubAt": "2020-04-15T01:02:59Z",
       "channelId": "UC7WMB_czX5jF__5kqT4d9Ww",
       "channelName": " 문재인정부 청와대",
-      "collectedAt": "2025-08-20T11:39:57.995083Z"
+      "collectedAt": "2025-08-20T11:39:57Z"
     }
   },
   "channels": {

@@ -21,17 +21,15 @@
         "국회시정연설",
         "기금운용"
       ],
-      "categoryId": "25",
-      "defaultLanguage": null,
-      "defaultAudioLanguage": null,
       "liveBroadcastContent": "none",
       "liveStreamingDetails": {
         "actualStartTime": "2017-11-01T00:36:31Z",
         "actualEndTime": "2017-11-01T01:41:04Z"
       },
+      "actualPubAt": "2017-11-01T00:36:31Z",
       "channelId": "UCIMOytYIzaUpoAM2bpT4JZQ",
       "channelName": "KTV 국민방송",
-      "collectedAt": "2025-08-20T11:40:16.411799Z"
+      "collectedAt": "2025-08-20T11:40:16Z"
     },
     "v7ixxTuznlM": {
       "videoId": "v7ixxTuznlM",
@@ -54,14 +52,12 @@
         "사람중심",
         "경제"
       ],
-      "categoryId": "25",
-      "defaultLanguage": null,
-      "defaultAudioLanguage": null,
       "liveBroadcastContent": "none",
       "liveStreamingDetails": null,
+      "actualPubAt": "2017-11-01T08:48:15Z",
       "channelId": "UCIMOytYIzaUpoAM2bpT4JZQ",
       "channelName": "KTV 국민방송",
-      "collectedAt": "2025-08-20T11:40:16.411799Z"
+      "collectedAt": "2025-08-20T11:40:16Z"
     },
     "WxvW8FsoVrw": {
       "videoId": "WxvW8FsoVrw",
@@ -84,14 +80,12 @@
         "도종환",
         "유재석"
       ],
-      "categoryId": "25",
-      "defaultLanguage": null,
-      "defaultAudioLanguage": "ko",
       "liveBroadcastContent": "none",
       "liveStreamingDetails": null,
+      "actualPubAt": "2017-11-01T07:30:42Z",
       "channelId": "UCIMOytYIzaUpoAM2bpT4JZQ",
       "channelName": "KTV 국민방송",
-      "collectedAt": "2025-08-20T11:40:16.411799Z"
+      "collectedAt": "2025-08-20T11:40:16Z"
     },
     "Fbny2s1ZTfQ": {
       "videoId": "Fbny2s1ZTfQ",
@@ -113,14 +107,12 @@
         "야당",
         "자유한국당"
       ],
-      "categoryId": "25",
-      "defaultLanguage": null,
-      "defaultAudioLanguage": "ko",
       "liveBroadcastContent": "none",
       "liveStreamingDetails": null,
+      "actualPubAt": "2017-11-01T11:16:42Z",
       "channelId": "UCIMOytYIzaUpoAM2bpT4JZQ",
       "channelName": "KTV 국민방송",
-      "collectedAt": "2025-08-20T11:40:16.411799Z"
+      "collectedAt": "2025-08-20T11:40:16Z"
     },
     "GTXR95FUpEk": {
       "videoId": "GTXR95FUpEk",
@@ -143,14 +135,12 @@
         "북한선수",
         "성화봉송"
       ],
-      "categoryId": "25",
-      "defaultLanguage": "ko",
-      "defaultAudioLanguage": "ko",
       "liveBroadcastContent": "none",
       "liveStreamingDetails": null,
+      "actualPubAt": "2017-11-01T04:57:14Z",
       "channelId": "UCIMOytYIzaUpoAM2bpT4JZQ",
       "channelName": "KTV 국민방송",
-      "collectedAt": "2025-08-20T11:40:16.411799Z"
+      "collectedAt": "2025-08-20T11:40:16Z"
     },
     "BguJV77MB5s": {
       "videoId": "BguJV77MB5s",
@@ -168,14 +158,12 @@
         "국회",
         "대통령"
       ],
-      "categoryId": "22",
-      "defaultLanguage": null,
-      "defaultAudioLanguage": null,
       "liveBroadcastContent": "none",
       "liveStreamingDetails": null,
+      "actualPubAt": "2017-11-01T08:24:55Z",
       "channelId": "UC7WMB_czX5jF__5kqT4d9Ww",
       "channelName": " 문재인정부 청와대",
-      "collectedAt": "2025-08-20T11:40:16.412796Z"
+      "collectedAt": "2025-08-20T11:40:16Z"
     },
     "VjTuk0f6CcI": {
       "videoId": "VjTuk0f6CcI",
@@ -198,14 +186,12 @@
         "뉴스",
         "뉴스프로그램"
       ],
-      "categoryId": "25",
-      "defaultLanguage": null,
-      "defaultAudioLanguage": null,
       "liveBroadcastContent": "none",
       "liveStreamingDetails": null,
+      "actualPubAt": "2017-11-01T00:09:13Z",
       "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
       "channelName": "뉴스TVCHOSUN",
-      "collectedAt": "2025-08-21T10:45:45.383667Z"
+      "collectedAt": "2025-08-21T10:45:45Z"
     },
     "UEYM_l7Dzlo": {
       "videoId": "UEYM_l7Dzlo",
@@ -228,14 +214,12 @@
         "뉴스",
         "뉴스프로그램"
       ],
-      "categoryId": "25",
-      "defaultLanguage": null,
-      "defaultAudioLanguage": null,
       "liveBroadcastContent": "none",
       "liveStreamingDetails": null,
+      "actualPubAt": "2017-11-01T13:53:48Z",
       "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
       "channelName": "뉴스TVCHOSUN",
-      "collectedAt": "2025-08-21T10:45:45.383667Z"
+      "collectedAt": "2025-08-21T10:45:45Z"
     },
     "zKgfjlf3Cwk": {
       "videoId": "zKgfjlf3Cwk",
@@ -258,14 +242,12 @@
         "뉴스",
         "뉴스프로그램"
       ],
-      "categoryId": "25",
-      "defaultLanguage": null,
-      "defaultAudioLanguage": null,
       "liveBroadcastContent": "none",
       "liveStreamingDetails": null,
+      "actualPubAt": "2017-11-01T13:53:43Z",
       "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
       "channelName": "뉴스TVCHOSUN",
-      "collectedAt": "2025-08-21T10:45:45.383667Z"
+      "collectedAt": "2025-08-21T10:45:45Z"
     },
     "hLbDAnEdIbc": {
       "videoId": "hLbDAnEdIbc",
@@ -288,14 +270,12 @@
         "뉴스",
         "뉴스프로그램"
       ],
-      "categoryId": "25",
-      "defaultLanguage": null,
-      "defaultAudioLanguage": null,
       "liveBroadcastContent": "none",
       "liveStreamingDetails": null,
+      "actualPubAt": "2017-11-01T13:53:43Z",
       "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
       "channelName": "뉴스TVCHOSUN",
-      "collectedAt": "2025-08-21T10:45:45.383667Z"
+      "collectedAt": "2025-08-21T10:45:45Z"
     },
     "5BIIwLZh3Rc": {
       "videoId": "5BIIwLZh3Rc",
@@ -318,14 +298,12 @@
         "뉴스",
         "뉴스프로그램"
       ],
-      "categoryId": "25",
-      "defaultLanguage": null,
-      "defaultAudioLanguage": null,
       "liveBroadcastContent": "none",
       "liveStreamingDetails": null,
+      "actualPubAt": "2017-11-01T05:28:30Z",
       "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
       "channelName": "뉴스TVCHOSUN",
-      "collectedAt": "2025-08-21T10:45:45.383667Z"
+      "collectedAt": "2025-08-21T10:45:45Z"
     },
     "Kw6mne-uaqo": {
       "videoId": "Kw6mne-uaqo",
@@ -348,14 +326,12 @@
         "뉴스",
         "뉴스프로그램"
       ],
-      "categoryId": "25",
-      "defaultLanguage": null,
-      "defaultAudioLanguage": null,
       "liveBroadcastContent": "none",
       "liveStreamingDetails": null,
+      "actualPubAt": "2017-11-01T00:06:47Z",
       "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
       "channelName": "뉴스TVCHOSUN",
-      "collectedAt": "2025-08-21T10:45:45.383667Z"
+      "collectedAt": "2025-08-21T10:45:45Z"
     },
     "sE4T5SUIJ_M": {
       "videoId": "sE4T5SUIJ_M",
@@ -378,14 +354,12 @@
         "뉴스",
         "뉴스프로그램"
       ],
-      "categoryId": "25",
-      "defaultLanguage": null,
-      "defaultAudioLanguage": null,
       "liveBroadcastContent": "none",
       "liveStreamingDetails": null,
+      "actualPubAt": "2017-11-01T00:06:52Z",
       "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
       "channelName": "뉴스TVCHOSUN",
-      "collectedAt": "2025-08-21T10:45:45.383667Z"
+      "collectedAt": "2025-08-21T10:45:45Z"
     },
     "z6AhXNHlbKA": {
       "videoId": "z6AhXNHlbKA",
@@ -408,14 +382,12 @@
         "뉴스",
         "뉴스프로그램"
       ],
-      "categoryId": "25",
-      "defaultLanguage": null,
-      "defaultAudioLanguage": null,
       "liveBroadcastContent": "none",
       "liveStreamingDetails": null,
+      "actualPubAt": "2017-11-01T00:06:51Z",
       "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
       "channelName": "뉴스TVCHOSUN",
-      "collectedAt": "2025-08-21T10:45:45.383667Z"
+      "collectedAt": "2025-08-21T10:45:45Z"
     },
     "7GWHTe44xlc": {
       "videoId": "7GWHTe44xlc",
@@ -438,14 +410,12 @@
         "뉴스",
         "뉴스프로그램"
       ],
-      "categoryId": "25",
-      "defaultLanguage": null,
-      "defaultAudioLanguage": null,
       "liveBroadcastContent": "none",
       "liveStreamingDetails": null,
+      "actualPubAt": "2017-11-01T00:06:49Z",
       "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
       "channelName": "뉴스TVCHOSUN",
-      "collectedAt": "2025-08-21T10:45:45.383667Z"
+      "collectedAt": "2025-08-21T10:45:45Z"
     }
   },
   "channels": {

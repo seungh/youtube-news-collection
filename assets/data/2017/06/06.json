@@ -20,14 +20,12 @@
         "이보영낭독",
         "이보영헌시"
       ],
-      "categoryId": "22",
-      "defaultLanguage": null,
-      "defaultAudioLanguage": "ko",
       "liveBroadcastContent": "none",
       "liveStreamingDetails": null,
+      "actualPubAt": "2017-06-06T06:00:01Z",
       "channelId": "UCIMOytYIzaUpoAM2bpT4JZQ",
       "channelName": "KTV 국민방송",
-      "collectedAt": "2025-08-20T11:40:18.977836Z"
+      "collectedAt": "2025-08-20T11:40:18Z"
     },
     "zc73DwoNEl4": {
       "videoId": "zc73DwoNEl4",
@@ -50,14 +48,12 @@
         "뉴스",
         "뉴스프로그램"
       ],
-      "categoryId": "25",
-      "defaultLanguage": null,
-      "defaultAudioLanguage": null,
       "liveBroadcastContent": "none",
       "liveStreamingDetails": null,
+      "actualPubAt": "2017-06-06T12:02:01Z",
       "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
       "channelName": "뉴스TVCHOSUN",
-      "collectedAt": "2025-08-21T10:45:53.920792Z"
+      "collectedAt": "2025-08-21T10:45:53Z"
     }
   },
   "channels": {

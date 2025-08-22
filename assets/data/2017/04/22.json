@@ -21,14 +21,12 @@
         "TV토론",
         "스탠딩토론"
       ],
-      "categoryId": "29",
-      "defaultLanguage": null,
-      "defaultAudioLanguage": null,
       "liveBroadcastContent": "none",
       "liveStreamingDetails": null,
+      "actualPubAt": "2017-04-22T02:49:00Z",
       "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
       "channelName": "NATV 국회방송",
-      "collectedAt": "2025-08-18T07:13:37.937095Z"
+      "collectedAt": "2025-08-18T07:13:37Z"
     },
     "2xoOWDOxtRU": {
       "videoId": "2xoOWDOxtRU",
@@ -51,14 +49,12 @@
         "뉴스",
         "뉴스프로그램"
       ],
-      "categoryId": "25",
-      "defaultLanguage": null,
-      "defaultAudioLanguage": null,
       "liveBroadcastContent": "none",
       "liveStreamingDetails": null,
+      "actualPubAt": "2017-04-22T11:27:38Z",
       "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
       "channelName": "뉴스TVCHOSUN",
-      "collectedAt": "2025-08-21T10:46:23.587565Z"
+      "collectedAt": "2025-08-21T10:46:23Z"
     },
     "_Mlwn2DY7n4": {
       "videoId": "_Mlwn2DY7n4",
@@ -81,14 +77,12 @@
         "뉴스",
         "뉴스프로그램"
       ],
-      "categoryId": "25",
-      "defaultLanguage": null,
-      "defaultAudioLanguage": null,
       "liveBroadcastContent": "none",
       "liveStreamingDetails": null,
+      "actualPubAt": "2017-04-22T11:27:35Z",
       "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
       "channelName": "뉴스TVCHOSUN",
-      "collectedAt": "2025-08-21T10:46:23.587565Z"
+      "collectedAt": "2025-08-21T10:46:23Z"
     }
   },
   "channels": {

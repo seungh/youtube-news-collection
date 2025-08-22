@@ -19,14 +19,12 @@
         "natv",
         "국회방송"
       ],
-      "categoryId": "29",
-      "defaultLanguage": null,
-      "defaultAudioLanguage": null,
       "liveBroadcastContent": "none",
       "liveStreamingDetails": null,
+      "actualPubAt": "2016-01-10T09:05:29Z",
       "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
       "channelName": "NATV 국회방송",
-      "collectedAt": "2025-08-18T07:13:42.314965Z"
+      "collectedAt": "2025-08-18T07:13:42Z"
     },
     "wuTTK80o_vw": {
       "videoId": "wuTTK80o_vw",
@@ -49,14 +47,12 @@
         "뉴스",
         "뉴스프로그램"
       ],
-      "categoryId": "25",
-      "defaultLanguage": "ko",
-      "defaultAudioLanguage": "ko",
       "liveBroadcastContent": "none",
       "liveStreamingDetails": null,
+      "actualPubAt": "2016-01-10T09:27:40Z",
       "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
       "channelName": "뉴스TVCHOSUN",
-      "collectedAt": "2025-08-21T10:46:05.252003Z"
+      "collectedAt": "2025-08-21T10:46:05Z"
     },
     "7LXVtEHZB3E": {
       "videoId": "7LXVtEHZB3E",
@@ -79,14 +75,12 @@
         "뉴스",
         "뉴스프로그램"
       ],
-      "categoryId": "25",
-      "defaultLanguage": null,
-      "defaultAudioLanguage": null,
       "liveBroadcastContent": "none",
       "liveStreamingDetails": null,
+      "actualPubAt": "2016-01-10T12:37:58Z",
       "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
       "channelName": "뉴스TVCHOSUN",
-      "collectedAt": "2025-08-21T10:46:05.252003Z"
+      "collectedAt": "2025-08-21T10:46:05Z"
     },
     "ViXzPDoZGA0": {
       "videoId": "ViXzPDoZGA0",
@@ -109,14 +103,12 @@
         "뉴스",
         "뉴스프로그램"
       ],
-      "categoryId": "25",
-      "defaultLanguage": null,
-      "defaultAudioLanguage": null,
       "liveBroadcastContent": "none",
       "liveStreamingDetails": null,
+      "actualPubAt": "2016-01-10T09:27:40Z",
       "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
       "channelName": "뉴스TVCHOSUN",
-      "collectedAt": "2025-08-21T10:46:05.252003Z"
+      "collectedAt": "2025-08-21T10:46:05Z"
     }
   },
   "channels": {

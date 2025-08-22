@@ -21,17 +21,15 @@
         "손가혁",
         "희망"
       ],
-      "categoryId": "22",
-      "defaultLanguage": null,
-      "defaultAudioLanguage": null,
       "liveBroadcastContent": "none",
       "liveStreamingDetails": {
         "actualStartTime": "2016-10-23T04:57:10Z",
         "actualEndTime": "2016-10-23T07:43:27Z"
       },
+      "actualPubAt": "2016-10-23T04:57:10Z",
       "channelId": "UCNJM6dqu70Qr6VaseiW1Org",
       "channelName": "이재명",
-      "collectedAt": "2025-08-20T11:40:19.350208Z"
+      "collectedAt": "2025-08-20T11:40:19Z"
     },
     "0nGlqpyoJUo": {
       "videoId": "0nGlqpyoJUo",
@@ -54,14 +52,12 @@
         "뉴스",
         "뉴스프로그램"
       ],
-      "categoryId": "25",
-      "defaultLanguage": "ko",
-      "defaultAudioLanguage": "ko",
       "liveBroadcastContent": "none",
       "liveStreamingDetails": null,
+      "actualPubAt": "2016-10-23T12:06:13Z",
       "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
       "channelName": "뉴스TVCHOSUN",
-      "collectedAt": "2025-08-21T10:46:31.603730Z"
+      "collectedAt": "2025-08-21T10:46:31Z"
     },
     "j9uOEfP1W5Y": {
       "videoId": "j9uOEfP1W5Y",
@@ -84,14 +80,12 @@
         "뉴스",
         "뉴스프로그램"
       ],
-      "categoryId": "25",
-      "defaultLanguage": null,
-      "defaultAudioLanguage": null,
       "liveBroadcastContent": "none",
       "liveStreamingDetails": null,
+      "actualPubAt": "2016-10-23T12:06:13Z",
       "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
       "channelName": "뉴스TVCHOSUN",
-      "collectedAt": "2025-08-21T10:46:31.603730Z"
+      "collectedAt": "2025-08-21T10:46:31Z"
     },
     "vG6mQj2Pj00": {
       "videoId": "vG6mQj2Pj00",
@@ -114,14 +108,12 @@
         "뉴스",
         "뉴스프로그램"
       ],
-      "categoryId": "25",
-      "defaultLanguage": null,
-      "defaultAudioLanguage": null,
       "liveBroadcastContent": "none",
       "liveStreamingDetails": null,
+      "actualPubAt": "2016-10-23T10:58:45Z",
       "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
       "channelName": "뉴스TVCHOSUN",
-      "collectedAt": "2025-08-21T10:46:31.603730Z"
+      "collectedAt": "2025-08-21T10:46:31Z"
     }
   },
   "channels": {

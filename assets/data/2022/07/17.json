@@ -13,18 +13,16 @@
         "국회방송",
         "NATV"
       ],
-      "categoryId": "25",
-      "defaultLanguage": null,
-      "defaultAudioLanguage": "en-US",
       "liveBroadcastContent": "none",
       "liveStreamingDetails": {
         "actualStartTime": "2022-07-17T00:55:09Z",
         "actualEndTime": "2022-07-17T01:50:44Z",
         "scheduledStartTime": "2022-07-17T01:00:00Z"
       },
+      "actualPubAt": "2022-07-17T00:55:09Z",
       "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
       "channelName": "NATV 국회방송",
-      "collectedAt": "2025-08-18T07:13:22.328310Z"
+      "collectedAt": "2025-08-18T07:13:22Z"
     },
     "4bcLPUWM4Ig": {
       "videoId": "4bcLPUWM4Ig",
@@ -47,14 +45,12 @@
         "식료품비",
         "경감"
       ],
-      "categoryId": "25",
-      "defaultLanguage": null,
-      "defaultAudioLanguage": "ko",
       "liveBroadcastContent": "none",
       "liveStreamingDetails": null,
+      "actualPubAt": "2022-07-17T00:00:01Z",
       "channelId": "UCIMOytYIzaUpoAM2bpT4JZQ",
       "channelName": "KTV 국민방송",
-      "collectedAt": "2025-08-20T11:39:57.961641Z"
+      "collectedAt": "2025-08-20T11:39:57Z"
     },
     "LMwaFL16Obc": {
       "videoId": "LMwaFL16Obc",
@@ -77,14 +73,12 @@
         "개막식",
         "충남"
       ],
-      "categoryId": "25",
-      "defaultLanguage": null,
-      "defaultAudioLanguage": "ko",
       "liveBroadcastContent": "none",
       "liveStreamingDetails": null,
+      "actualPubAt": "2022-07-17T09:00:08Z",
       "channelId": "UCIMOytYIzaUpoAM2bpT4JZQ",
       "channelName": "KTV 국민방송",
-      "collectedAt": "2025-08-20T11:39:57.961641Z"
+      "collectedAt": "2025-08-20T11:39:57Z"
     },
     "VsnePU90hJA": {
       "videoId": "VsnePU90hJA",
@@ -107,18 +101,16 @@
         "국무총리",
         "대한민국"
       ],
-      "categoryId": "25",
-      "defaultLanguage": null,
-      "defaultAudioLanguage": "ko",
       "liveBroadcastContent": "none",
       "liveStreamingDetails": {
         "actualStartTime": "2022-07-17T00:55:28Z",
         "actualEndTime": "2022-07-17T01:51:09Z",
         "scheduledStartTime": "2022-07-17T01:00:00Z"
       },
+      "actualPubAt": "2022-07-17T00:55:28Z",
       "channelId": "UCIMOytYIzaUpoAM2bpT4JZQ",
       "channelName": "KTV 국민방송",
-      "collectedAt": "2025-08-20T11:39:57.961641Z"
+      "collectedAt": "2025-08-20T11:39:57Z"
     },
     "7VievwOPAVY": {
       "videoId": "7VievwOPAVY",
@@ -141,14 +133,12 @@
         "개막식",
         "충남"
       ],
-      "categoryId": "25",
-      "defaultLanguage": null,
-      "defaultAudioLanguage": null,
       "liveBroadcastContent": "none",
       "liveStreamingDetails": null,
+      "actualPubAt": "2022-07-17T06:12:25Z",
       "channelId": "UCydbI9p3_8DeteSBbnv0tuA",
       "channelName": "윤석열 정부 영상 아카이브",
-      "collectedAt": "2025-08-20T11:39:57.962678Z"
+      "collectedAt": "2025-08-20T11:39:57Z"
     },
     "8_jTJ7c59Lo": {
       "videoId": "8_jTJ7c59Lo",
@@ -171,18 +161,16 @@
         "이재명 계곡",
         "중고차"
       ],
-      "categoryId": "24",
-      "defaultLanguage": null,
-      "defaultAudioLanguage": null,
       "liveBroadcastContent": "none",
       "liveStreamingDetails": {
         "actualStartTime": "2022-07-17T05:03:17Z",
         "actualEndTime": "2022-07-17T05:26:57Z",
         "scheduledStartTime": "2022-07-17T05:02:21Z"
       },
+      "actualPubAt": "2022-07-17T05:03:17Z",
       "channelId": "UCNJM6dqu70Qr6VaseiW1Org",
       "channelName": "이재명",
-      "collectedAt": "2025-08-20T11:39:57.962678Z"
+      "collectedAt": "2025-08-20T11:39:57Z"
     },
     "TCvd9B0FjZo": {
       "videoId": "TCvd9B0FjZo",
@@ -205,14 +193,12 @@
         "NEWS",
         "채널19"
       ],
-      "categoryId": "25",
-      "defaultLanguage": null,
-      "defaultAudioLanguage": "en",
       "liveBroadcastContent": "none",
       "liveStreamingDetails": null,
+      "actualPubAt": "2022-07-17T11:29:23Z",
       "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
       "channelName": "뉴스TVCHOSUN",
-      "collectedAt": "2025-08-21T10:44:17.926336Z"
+      "collectedAt": "2025-08-21T10:44:17Z"
     },
     "CpsGlzcbU1o": {
       "videoId": "CpsGlzcbU1o",
@@ -235,14 +221,12 @@
         "NEWS",
         "채널19"
       ],
-      "categoryId": "25",
-      "defaultLanguage": null,
-      "defaultAudioLanguage": "en",
       "liveBroadcastContent": "none",
       "liveStreamingDetails": null,
+      "actualPubAt": "2022-07-17T11:20:54Z",
       "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
       "channelName": "뉴스TVCHOSUN",
-      "collectedAt": "2025-08-21T10:44:17.926336Z"
+      "collectedAt": "2025-08-21T10:44:17Z"
     },
     "jDspmuVLpx4": {
       "videoId": "jDspmuVLpx4",
@@ -265,14 +249,12 @@
         "NEWS",
         "채널19"
       ],
-      "categoryId": "25",
-      "defaultLanguage": null,
-      "defaultAudioLanguage": "en",
       "liveBroadcastContent": "none",
       "liveStreamingDetails": null,
+      "actualPubAt": "2022-07-17T11:10:34Z",
       "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
       "channelName": "뉴스TVCHOSUN",
-      "collectedAt": "2025-08-21T10:44:17.926336Z"
+      "collectedAt": "2025-08-21T10:44:17Z"
     },
     "KEyIyBQurck": {
       "videoId": "KEyIyBQurck",
@@ -295,14 +277,12 @@
         "NEWS",
         "채널19"
       ],
-      "categoryId": "25",
-      "defaultLanguage": null,
-      "defaultAudioLanguage": "en",
       "liveBroadcastContent": "none",
       "liveStreamingDetails": null,
+      "actualPubAt": "2022-07-17T10:57:51Z",
       "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
       "channelName": "뉴스TVCHOSUN",
-      "collectedAt": "2025-08-21T10:44:17.926336Z"
+      "collectedAt": "2025-08-21T10:44:17Z"
     },
     "kWspYnsfHJw": {
       "videoId": "kWspYnsfHJw",
@@ -325,14 +305,12 @@
         "NEWS",
         "채널19"
       ],
-      "categoryId": "25",
-      "defaultLanguage": null,
-      "defaultAudioLanguage": "en",
       "liveBroadcastContent": "none",
       "liveStreamingDetails": null,
+      "actualPubAt": "2022-07-17T10:56:39Z",
       "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
       "channelName": "뉴스TVCHOSUN",
-      "collectedAt": "2025-08-21T10:44:17.926336Z"
+      "collectedAt": "2025-08-21T10:44:17Z"
     },
     "e3SwtSvEw1s": {
       "videoId": "e3SwtSvEw1s",
@@ -355,14 +333,12 @@
         "NEWS",
         "채널19"
       ],
-      "categoryId": "25",
-      "defaultLanguage": null,
-      "defaultAudioLanguage": "en",
       "liveBroadcastContent": "none",
       "liveStreamingDetails": null,
+      "actualPubAt": "2022-07-17T10:58:45Z",
       "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
       "channelName": "뉴스TVCHOSUN",
-      "collectedAt": "2025-08-21T10:44:17.926336Z"
+      "collectedAt": "2025-08-21T10:44:17Z"
     },
     "71Qa4DvpbzY": {
       "videoId": "71Qa4DvpbzY",
@@ -385,14 +361,12 @@
         "NEWS",
         "채널19"
       ],
-      "categoryId": "25",
-      "defaultLanguage": null,
-      "defaultAudioLanguage": "en",
       "liveBroadcastContent": "none",
       "liveStreamingDetails": null,
+      "actualPubAt": "2022-07-17T10:53:33Z",
       "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
       "channelName": "뉴스TVCHOSUN",
-      "collectedAt": "2025-08-21T10:44:17.926336Z"
+      "collectedAt": "2025-08-21T10:44:17Z"
     },
     "oX-KJwmGZqI": {
       "videoId": "oX-KJwmGZqI",
@@ -415,14 +389,12 @@
         "NEWS",
         "채널19"
       ],
-      "categoryId": "25",
-      "defaultLanguage": null,
-      "defaultAudioLanguage": "en",
       "liveBroadcastContent": "none",
       "liveStreamingDetails": null,
+      "actualPubAt": "2022-07-17T10:44:17Z",
       "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
       "channelName": "뉴스TVCHOSUN",
-      "collectedAt": "2025-08-21T10:44:17.926336Z"
+      "collectedAt": "2025-08-21T10:44:17Z"
     },
     "sPZ20r1y4mE": {
       "videoId": "sPZ20r1y4mE",
@@ -445,14 +417,12 @@
         "NEWS",
         "채널19"
       ],
-      "categoryId": "25",
-      "defaultLanguage": null,
-      "defaultAudioLanguage": "en",
       "liveBroadcastContent": "none",
       "liveStreamingDetails": null,
+      "actualPubAt": "2022-07-17T10:43:06Z",
       "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
       "channelName": "뉴스TVCHOSUN",
-      "collectedAt": "2025-08-21T10:44:17.926336Z"
+      "collectedAt": "2025-08-21T10:44:17Z"
     },
     "PUuPTWEjAO0": {
       "videoId": "PUuPTWEjAO0",
@@ -475,14 +445,12 @@
         "NEWS",
         "채널19"
       ],
-      "categoryId": "25",
-      "defaultLanguage": null,
-      "defaultAudioLanguage": "en",
       "liveBroadcastContent": "none",
       "liveStreamingDetails": null,
+      "actualPubAt": "2022-07-17T10:37:53Z",
       "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
       "channelName": "뉴스TVCHOSUN",
-      "collectedAt": "2025-08-21T10:44:17.926336Z"
+      "collectedAt": "2025-08-21T10:44:17Z"
     },
     "tbdYWnpfdKo": {
       "videoId": "tbdYWnpfdKo",
@@ -505,14 +473,12 @@
         "NEWS",
         "채널19"
       ],
-      "categoryId": "25",
-      "defaultLanguage": null,
-      "defaultAudioLanguage": "en",
       "liveBroadcastContent": "none",
       "liveStreamingDetails": null,
+      "actualPubAt": "2022-07-17T10:31:44Z",
       "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
       "channelName": "뉴스TVCHOSUN",
-      "collectedAt": "2025-08-21T10:44:17.926336Z"
+      "collectedAt": "2025-08-21T10:44:17Z"
     },
     "BbDKwrkIl6o": {
       "videoId": "BbDKwrkIl6o",
@@ -535,14 +501,12 @@
         "NEWS",
         "채널19"
       ],
-      "categoryId": "25",
-      "defaultLanguage": null,
-      "defaultAudioLanguage": "en",
       "liveBroadcastContent": "none",
       "liveStreamingDetails": null,
+      "actualPubAt": "2022-07-17T10:28:38Z",
       "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
       "channelName": "뉴스TVCHOSUN",
-      "collectedAt": "2025-08-21T10:44:17.926336Z"
+      "collectedAt": "2025-08-21T10:44:17Z"
     },
     "mEFtArlwhto": {
       "videoId": "mEFtArlwhto",
@@ -565,14 +529,12 @@
         "NEWS",
         "채널19"
       ],
-      "categoryId": "25",
-      "defaultLanguage": null,
-      "defaultAudioLanguage": "en",
       "liveBroadcastContent": "none",
       "liveStreamingDetails": null,
+      "actualPubAt": "2022-07-17T10:26:56Z",
       "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
       "channelName": "뉴스TVCHOSUN",
-      "collectedAt": "2025-08-21T10:44:17.926336Z"
+      "collectedAt": "2025-08-21T10:44:17Z"
     },
     "C2-S25JiY-E": {
       "videoId": "C2-S25JiY-E",
@@ -595,14 +557,12 @@
         "NEWS",
         "채널19"
       ],
-      "categoryId": "25",
-      "defaultLanguage": "ko",
-      "defaultAudioLanguage": "en",
       "liveBroadcastContent": "none",
       "liveStreamingDetails": null,
+      "actualPubAt": "2022-07-17T10:16:26Z",
       "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
       "channelName": "뉴스TVCHOSUN",
-      "collectedAt": "2025-08-21T10:44:17.926336Z"
+      "collectedAt": "2025-08-21T10:44:17Z"
     },
     "1hcT5xb-JGg": {
       "videoId": "1hcT5xb-JGg",
@@ -625,14 +585,12 @@
         "NEWS",
         "채널19"
       ],
-      "categoryId": "25",
-      "defaultLanguage": null,
-      "defaultAudioLanguage": "en",
       "liveBroadcastContent": "none",
       "liveStreamingDetails": null,
+      "actualPubAt": "2022-07-17T10:14:41Z",
       "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
       "channelName": "뉴스TVCHOSUN",
-      "collectedAt": "2025-08-21T10:44:17.926336Z"
+      "collectedAt": "2025-08-21T10:44:17Z"
     },
     "23b60fV9ZxI": {
       "videoId": "23b60fV9ZxI",
@@ -655,14 +613,12 @@
         "NEWS",
         "채널19"
       ],
-      "categoryId": "25",
-      "defaultLanguage": null,
-      "defaultAudioLanguage": "en",
       "liveBroadcastContent": "none",
       "liveStreamingDetails": null,
+      "actualPubAt": "2022-07-17T10:13:00Z",
       "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
       "channelName": "뉴스TVCHOSUN",
-      "collectedAt": "2025-08-21T10:44:17.926336Z"
+      "collectedAt": "2025-08-21T10:44:17Z"
     },
     "hHRrYBgp-hg": {
       "videoId": "hHRrYBgp-hg",
@@ -685,14 +641,12 @@
         "NEWS",
         "채널19"
       ],
-      "categoryId": "25",
-      "defaultLanguage": "ko",
-      "defaultAudioLanguage": "en",
       "liveBroadcastContent": "none",
       "liveStreamingDetails": null,
+      "actualPubAt": "2022-07-17T10:08:18Z",
       "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
       "channelName": "뉴스TVCHOSUN",
-      "collectedAt": "2025-08-21T10:44:17.926336Z"
+      "collectedAt": "2025-08-21T10:44:17Z"
     },
     "pw6uRkd71Y8": {
       "videoId": "pw6uRkd71Y8",
@@ -715,14 +669,12 @@
         "NEWS",
         "채널19"
       ],
-      "categoryId": "25",
-      "defaultLanguage": null,
-      "defaultAudioLanguage": "en",
       "liveBroadcastContent": "none",
       "liveStreamingDetails": null,
+      "actualPubAt": "2022-07-17T10:06:02Z",
       "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
       "channelName": "뉴스TVCHOSUN",
-      "collectedAt": "2025-08-21T10:44:17.926336Z"
+      "collectedAt": "2025-08-21T10:44:17Z"
     },
     "TYihGy1tIps": {
       "videoId": "TYihGy1tIps",
@@ -745,14 +697,12 @@
         "NEWS",
         "채널19"
       ],
-      "categoryId": "25",
-      "defaultLanguage": null,
-      "defaultAudioLanguage": "en",
       "liveBroadcastContent": "none",
       "liveStreamingDetails": null,
+      "actualPubAt": "2022-07-17T10:04:22Z",
       "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
       "channelName": "뉴스TVCHOSUN",
-      "collectedAt": "2025-08-21T10:44:17.926336Z"
+      "collectedAt": "2025-08-21T10:44:17Z"
     },
     "1dshzdx0wwc": {
       "videoId": "1dshzdx0wwc",
@@ -775,14 +725,12 @@
         "NEWS",
         "채널19"
       ],
-      "categoryId": "25",
-      "defaultLanguage": null,
-      "defaultAudioLanguage": "en",
       "liveBroadcastContent": "none",
       "liveStreamingDetails": null,
+      "actualPubAt": "2022-07-17T10:01:13Z",
       "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
       "channelName": "뉴스TVCHOSUN",
-      "collectedAt": "2025-08-21T10:44:17.926336Z"
+      "collectedAt": "2025-08-21T10:44:17Z"
     },
     "MX-_MBwILOQ": {
       "videoId": "MX-_MBwILOQ",
@@ -805,14 +753,12 @@
         "NEWS",
         "채널19"
       ],
-      "categoryId": "25",
-      "defaultLanguage": null,
-      "defaultAudioLanguage": "en",
       "liveBroadcastContent": "none",
       "liveStreamingDetails": null,
+      "actualPubAt": "2022-07-17T12:23:54Z",
       "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
       "channelName": "뉴스TVCHOSUN",
-      "collectedAt": "2025-08-21T10:44:17.926336Z"
+      "collectedAt": "2025-08-21T10:44:17Z"
     }
   },
   "channels": {
