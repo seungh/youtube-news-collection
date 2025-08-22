@@ -681,6 +681,30 @@
       "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
       "channelName": "뉴스TVCHOSUN",
       "collectedAt": "2025-08-21T10:44:28Z"
+    },
+    "csM1CKunF_g": {
+      "videoId": "csM1CKunF_g",
+      "title": "[일당백인터뷰] 새 부동산 중개 수수료 19일부터 시행_f. 백브리핑 장순원 기자",
+      "description": "[일당백인터뷰] 새 부동산 중개 수수료 19일부터 시행_f. 백브리핑 장순원 기자",
+      "publishedAt": "2021-10-15T15:34:09Z",
+      "duration": "PT38M11S",
+      "viewCount": 1376,
+      "likeCount": 83,
+      "commentCount": 8,
+      "tags": [
+        "삼프로TV",
+        "백브리핑",
+        "안승찬",
+        "이진우",
+        "삼프로",
+        "경제의신과함께"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2021-10-15T15:34:09Z",
+      "channelId": "UCIUni4ScRp4mqPXsxy62L5w",
+      "channelName": "언더스탠딩 : 세상의 모든 지식",
+      "collectedAt": "2025-08-22T13:47:18Z"
     }
   },
   "channels": {
@@ -818,9 +842,36 @@
       "viewCount": 4319423561,
       "videoCount": 150855,
       "lastUpdated": "2025-08-21T10:26:43.108138Z"
+    },
+    "UCIUni4ScRp4mqPXsxy62L5w": {
+      "channelId": "UCIUni4ScRp4mqPXsxy62L5w",
+      "channelName": "언더스탠딩 : 세상의 모든 지식",
+      "channelUrl": "@understanding.",
+      "channelDescription": "📣 사람을 찾습니다\n🙋 언더스탠딩과 함께 일할 분을 찾습니다!\n\n직무: 영상제작PD, 기자, 인사담당자, 마케팅담당자 \n지원 접수: 이메일 접수 understanding.officialmail@gmail.com\n제출 서류: 이력서, 포트폴리오\n접수 기간: 상시채용\n\n\n라이브는 삼프로TV에서, 클립영상은 언더스탠딩에서!\n\n매일 저녁 7시~9시\n\n문의 : to.understanding.official@gmail.com\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/Ru5m8GSNyh_hcAhZY0qs288msI9vnqJcEY_9QYGPi1ZbTrFxP1RU9dW2jjVUCy2jElRoSPWQ8w=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/Ru5m8GSNyh_hcAhZY0qs288msI9vnqJcEY_9QYGPi1ZbTrFxP1RU9dW2jjVUCy2jElRoSPWQ8w=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/Ru5m8GSNyh_hcAhZY0qs288msI9vnqJcEY_9QYGPi1ZbTrFxP1RU9dW2jjVUCy2jElRoSPWQ8w=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 1200000,
+      "viewCount": 416250784,
+      "videoCount": 3367,
+      "lastUpdated": "2025-08-22T13:47:18.593382Z"
     }
   },
-  "lastUpdated": "2025-08-21T10:44:28.865325Z",
-  "totalVideos": 25,
-  "totalChannels": 5
+  "lastUpdated": "2025-08-22T13:47:18.594415Z",
+  "totalVideos": 26,
+  "totalChannels": 6
 }
