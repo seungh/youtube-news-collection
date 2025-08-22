@@ -225,7 +225,7 @@ class YouTubeDataCollector:
                 with self.lock:
                     self.stats["errors"].append(f"Date {date_str} processing error: {str(e)}")
     
-    def collect_all_data(self, max_workers: int = 8) -> None:
+    def collect_all_data(self, max_workers: int = 4) -> None:
         """
         Collect data from all channels and update files.
         """
