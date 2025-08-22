@@ -932,6 +932,70 @@
       "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
       "channelName": "뉴스TVCHOSUN",
       "collectedAt": "2025-08-21T10:43:58Z"
+    },
+    "i6AsjS1dPmU": {
+      "videoId": "i6AsjS1dPmU",
+      "title": "!장르만여의도 첫 방송! l JTBC SHOW l #정영진 #정치 #여의도",
+      "description": "드디어 합니다 ! 한없이 가벼운 정치 토크쇼 !\n#장르만여의도 바로 내일! 11시 첫 방송 합니다",
+      "publishedAt": "2023-11-12T08:47:19Z",
+      "duration": "PT27S",
+      "viewCount": 862,
+      "likeCount": 40,
+      "commentCount": 4,
+      "tags": [
+        "정영진",
+        "여의도",
+        "이준석",
+        "인요한",
+        "국민의힘",
+        "더불어민주당",
+        "이재명",
+        "윤석열",
+        "jtbc",
+        "jtbcnews",
+        "국회",
+        "국회의원"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2023-11-12T08:47:19Z",
+      "channelId": "UCsqWTNmoaNPvsfeCgaD7BpQ",
+      "channelName": "장르만 여의도",
+      "collectedAt": "2025-08-22T13:25:39Z"
+    },
+    "sUDUWMzxxSk": {
+      "videoId": "sUDUWMzxxSk",
+      "title": "저희 무서운 사람 아닙니다.. 해치지 않아요...😂",
+      "description": "#정영진 #장르만여의도 #정치 #shorts\n\n한없이 가벼운 정치 토크쇼, 장르만 여의도\n매주 월~금 오전 11시 LIVE🔴",
+      "publishedAt": "2023-11-12T04:00:30Z",
+      "duration": "PT45S",
+      "viewCount": 569,
+      "likeCount": 36,
+      "commentCount": 5,
+      "tags": [],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2023-11-12T04:00:30Z",
+      "channelId": "UCsqWTNmoaNPvsfeCgaD7BpQ",
+      "channelName": "장르만 여의도",
+      "collectedAt": "2025-08-22T13:25:39Z"
+    },
+    "_8OssqIFLcM": {
+      "videoId": "_8OssqIFLcM",
+      "title": "유튜브 떡상 비결 다 알려주마!😎",
+      "description": "#정영진 #장르만여의도 #정치 #shorts\n\n한없이 가벼운 정치 토크쇼, 장르만 여의도\n매주 월~금 오전 11시 LIVE🔴",
+      "publishedAt": "2023-11-12T00:00:18Z",
+      "duration": "PT54S",
+      "viewCount": 566,
+      "likeCount": 21,
+      "commentCount": 1,
+      "tags": [],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2023-11-12T00:00:18Z",
+      "channelId": "UCsqWTNmoaNPvsfeCgaD7BpQ",
+      "channelName": "장르만 여의도",
+      "collectedAt": "2025-08-22T13:25:39Z"
     }
   },
   "channels": {
@@ -1096,9 +1160,36 @@
       "viewCount": 4319423561,
       "videoCount": 150855,
       "lastUpdated": "2025-08-21T10:26:04.102590Z"
+    },
+    "UCsqWTNmoaNPvsfeCgaD7BpQ": {
+      "channelId": "UCsqWTNmoaNPvsfeCgaD7BpQ",
+      "channelName": "장르만 여의도",
+      "channelUrl": "@jtbcshow",
+      "channelDescription": "🔴 LIVE : 평일 오전 11시 ~\n🟠진행 : 정영진 🟠출연 : 채윤경·신혜원 기자\n🎥 PD :  강기빈 · 이효선 · 신희연  🎥 AD : 장윤선\n🗒 작가 : 김지영 · 손지은 · 신희란 · 김경인 \n\n광고 및 비즈니스 문의\nkang.kivin@jtbc.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/dD1JgGiTqoUnf7298uD6wAFSPLgjsfaW5AU9tyZmiiH_4mHf7APHhSDdPaasZNCDN3_FGHUPlMw=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/dD1JgGiTqoUnf7298uD6wAFSPLgjsfaW5AU9tyZmiiH_4mHf7APHhSDdPaasZNCDN3_FGHUPlMw=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/dD1JgGiTqoUnf7298uD6wAFSPLgjsfaW5AU9tyZmiiH_4mHf7APHhSDdPaasZNCDN3_FGHUPlMw=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 401000,
+      "viewCount": 201874279,
+      "videoCount": 3038,
+      "lastUpdated": "2025-08-22T13:25:39.832990Z"
     }
   },
-  "lastUpdated": "2025-08-21T10:43:58.806952Z",
-  "totalVideos": 35,
-  "totalChannels": 6
+  "lastUpdated": "2025-08-22T13:25:39.834525Z",
+  "totalVideos": 38,
+  "totalChannels": 7
 }

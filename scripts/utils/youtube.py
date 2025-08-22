@@ -107,8 +107,9 @@ class YouTubeAPI:
             
         except YouTubeAPIError as e:
             logger.error(f"Failed to get channel info ({channel_id}): {e}")
-            return None
-    
+            raise
+            # return None
+
     def get_playlist_videos(self, playlist_id: str, max_results: int = 50) -> List[str]:
         """
         Get video IDs from a playlist.
@@ -116,24 +117,21 @@ class YouTubeAPI:
         try:
             video_ids = []
             next_page_token = None
+            logger.info(f"Searching video IDs..: {playlist_id}")
             
             while len(video_ids) < max_results:
                 params = {
                     "part": "snippet",
                     "playlistId": playlist_id,
-                    "maxResults": min(50, max_results - len(video_ids))  # API limit: 50
+                    "maxResults": min(50, max_results - len(video_ids)),  # API limit: 50
+                    "pageToken": next_page_token
                 }
+                response = self._make_request("playlistItems", params)
                 
-                if next_page_token:
-                    params["pageToken"] = next_page_token
+                for item in response.get("items", []):
+                    video_ids.append(item["snippet"]["resourceId"]["videoId"])
                 
-                data = self._make_request("playlistItems", params)
-                
-                for item in data.get("items", []):
-                    video_id = item["snippet"]["resourceId"]["videoId"]
-                    video_ids.append(video_id)
-                
-                next_page_token = data.get("nextPageToken")
+                next_page_token = response.get("nextPageToken")
                 if not next_page_token:
                     break
             
@@ -142,9 +140,10 @@ class YouTubeAPI:
             
         except YouTubeAPIError as e:
             logger.error(f"Failed to get playlist videos ({playlist_id}): {e}")
-            return []
+            raise
+            # return []
     
-    def get_videos_details(self, video_ids: List[str]) -> List[Dict]:
+    def get_videos_details(self, video_ids: List[str], channel_id: str=None) -> List[Dict]:
         """
         Get detailed information for a list of video IDs.
         Processes in batches of 50 due to API limitations.
@@ -208,7 +207,8 @@ class YouTubeAPI:
             
         except YouTubeAPIError as e:
             logger.error(f"Failed to get video details: {e}")
-            return []
+            raise
+            # return []
     
     def get_channel_videos(self, channel_id: str, max_results: int = 50) -> Optional[Dict]:
         """
@@ -241,4 +241,71 @@ class YouTubeAPI:
             "viewCount": int(channel_info["statistics"].get("viewCount", 0)),
             "videoCount": int(channel_info["statistics"].get("videoCount", 0)),
             "videos": videos
+        }
+
+    def search_playlists(self, channel_id):
+        """
+        Get all playlist IDs from a channel.
+        """
+        next_page_token = None
+        playlists = []
+
+        while True:
+            response = self._make_request("playlists", {
+                "part": "snippet",
+                "channelId": channel_id,
+                "maxResults": 50,
+                "pageToken": next_page_token
+            })
+            if response and response.get("items"):
+                for item in response["items"]:
+                    playlists.append(item["id"])
+
+            next_page_token = response.get("nextPageToken") if response else None
+            if not next_page_token:
+                break
+
+        return playlists
+
+    def search_all_videos(self, channel_id, saved_works):
+        """
+        search all videos from a channel
+        """
+        channel_info = self.get_channel_info(channel_id)
+        saved_works["channel_info"] = channel_info
+
+        pls = self.search_playlists(channel_id)
+        up_pl = channel_info["contentDetails"]["relatedPlaylists"]["uploads"]
+        if up_pl not in pls:
+            pls.append(up_pl)
+
+        for pl in pls:
+            if pl in saved_works["processed_pl"]:
+                continue
+            
+            vids = self.get_playlist_videos(pl, 50000)
+            logger.info(f"Playlist processed: {pl}")
+            saved_works["processed_pl"].append(pl)
+            for vid in vids:
+                if vid in saved_works["collected_vids"]:
+                    continue
+                saved_works["collected_vids"].append(vid)
+            logger.info(f"Unique videos found: {len(saved_works['collected_vids'])}")
+
+        while saved_works["collected_vids"]:
+            chunk = saved_works["collected_vids"][:50]
+            videos = self.get_videos_details(chunk, channel_id) if chunk else []
+            saved_works["videos"] += videos
+            del saved_works["collected_vids"][:50]
+        
+        return {
+            "channelId": channel_id,
+            "channelName": channel_info["snippet"]["title"],
+            "channelUrl": channel_info["snippet"]["customUrl"],
+            "channelDescription": channel_info["snippet"]["description"],
+            "channelThumbnails": channel_info["snippet"].get("thumbnails", {}),
+            "subscriberCount": int(channel_info["statistics"].get("subscriberCount", 0)),
+            "viewCount": int(channel_info["statistics"].get("viewCount", 0)),
+            "videoCount": int(channel_info["statistics"].get("videoCount", 0)),
+            "videos": saved_works["videos"]
         }

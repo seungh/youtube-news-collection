@@ -2990,6 +2990,26 @@
       "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
       "channelName": "뉴스TVCHOSUN",
       "collectedAt": "2025-08-21T10:43:58Z"
+    },
+    "Q2m2N1wH0gY": {
+      "videoId": "Q2m2N1wH0gY",
+      "title": "[장르만 여의도] 오늘은 장르만 리허설! ｜23.11.09 다시보기",
+      "description": "#정영진 #장르만여의도 #정치\n\n\n한없이 가벼운 정치 토크쇼, 장르만 여의도\n매주 월~금 오전 11시 LIVE🔴\n\n- 백다혜 · 이상민\n- 문유진 · 김현우 · 정강현 · 이지혜\n\n☞장르만여의도 구독하기 (https://www.youtube.com/@JTBCSHOW)\n☞장르만여의도 커뮤니티 (https://www.youtube.com/@JTBCSHOW/community)\n\n☞JTBC유튜브 구독하기 (https://www.youtube.com/user/JTBC10news)\n☞JTBC유튜브 커뮤니티 (https://www.youtube.com/user/JTBC10ne...)\n\n☞광고 및 비즈니스 문의 (kang.kivin@jtbc.co.kr)",
+      "publishedAt": "2023-11-09T15:37:01Z",
+      "duration": "PT1H31M35S",
+      "viewCount": 4459,
+      "likeCount": 158,
+      "commentCount": 37,
+      "tags": [],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": {
+        "actualStartTime": "2023-11-09T01:40:24Z",
+        "actualEndTime": "2023-11-09T03:11:57Z"
+      },
+      "actualPubAt": "2023-11-09T01:40:24Z",
+      "channelId": "UCsqWTNmoaNPvsfeCgaD7BpQ",
+      "channelName": "장르만 여의도",
+      "collectedAt": "2025-08-22T13:25:40Z"
     }
   },
   "channels": {
@@ -3208,9 +3228,36 @@
       "viewCount": 4319423561,
       "videoCount": 150855,
       "lastUpdated": "2025-08-21T10:26:03.271227Z"
+    },
+    "UCsqWTNmoaNPvsfeCgaD7BpQ": {
+      "channelId": "UCsqWTNmoaNPvsfeCgaD7BpQ",
+      "channelName": "장르만 여의도",
+      "channelUrl": "@jtbcshow",
+      "channelDescription": "🔴 LIVE : 평일 오전 11시 ~\n🟠진행 : 정영진 🟠출연 : 채윤경·신혜원 기자\n🎥 PD :  강기빈 · 이효선 · 신희연  🎥 AD : 장윤선\n🗒 작가 : 김지영 · 손지은 · 신희란 · 김경인 \n\n광고 및 비즈니스 문의\nkang.kivin@jtbc.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/dD1JgGiTqoUnf7298uD6wAFSPLgjsfaW5AU9tyZmiiH_4mHf7APHhSDdPaasZNCDN3_FGHUPlMw=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/dD1JgGiTqoUnf7298uD6wAFSPLgjsfaW5AU9tyZmiiH_4mHf7APHhSDdPaasZNCDN3_FGHUPlMw=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/dD1JgGiTqoUnf7298uD6wAFSPLgjsfaW5AU9tyZmiiH_4mHf7APHhSDdPaasZNCDN3_FGHUPlMw=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 401000,
+      "viewCount": 201874279,
+      "videoCount": 3038,
+      "lastUpdated": "2025-08-22T13:25:40.368171Z"
     }
   },
-  "lastUpdated": "2025-08-21T10:43:58.334042Z",
-  "totalVideos": 119,
-  "totalChannels": 8
+  "lastUpdated": "2025-08-22T13:25:40.370046Z",
+  "totalVideos": 120,
+  "totalChannels": 9
 }

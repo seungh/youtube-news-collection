@@ -1787,6 +1787,23 @@
       "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
       "channelName": "뉴스TVCHOSUN",
       "collectedAt": "2025-08-21T10:43:58Z"
+    },
+    "eLxRWItMw9U": {
+      "videoId": "eLxRWItMw9U",
+      "title": "장르만여의도는 광고 환영합니다😍",
+      "description": "#정영진 #장르만여의도 #정치 #shorts\n\n한없이 가벼운 정치 토크쇼, 장르만 여의도\n매주 월~금 오전 11시 LIVE🔴",
+      "publishedAt": "2023-11-11T01:00:28Z",
+      "duration": "PT53S",
+      "viewCount": 784,
+      "likeCount": 20,
+      "commentCount": 0,
+      "tags": [],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2023-11-11T01:00:28Z",
+      "channelId": "UCsqWTNmoaNPvsfeCgaD7BpQ",
+      "channelName": "장르만 여의도",
+      "collectedAt": "2025-08-22T13:25:39Z"
     }
   },
   "channels": {
@@ -1951,9 +1968,36 @@
       "viewCount": 4319423561,
       "videoCount": 150855,
       "lastUpdated": "2025-08-21T10:26:04.174106Z"
+    },
+    "UCsqWTNmoaNPvsfeCgaD7BpQ": {
+      "channelId": "UCsqWTNmoaNPvsfeCgaD7BpQ",
+      "channelName": "장르만 여의도",
+      "channelUrl": "@jtbcshow",
+      "channelDescription": "🔴 LIVE : 평일 오전 11시 ~\n🟠진행 : 정영진 🟠출연 : 채윤경·신혜원 기자\n🎥 PD :  강기빈 · 이효선 · 신희연  🎥 AD : 장윤선\n🗒 작가 : 김지영 · 손지은 · 신희란 · 김경인 \n\n광고 및 비즈니스 문의\nkang.kivin@jtbc.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/dD1JgGiTqoUnf7298uD6wAFSPLgjsfaW5AU9tyZmiiH_4mHf7APHhSDdPaasZNCDN3_FGHUPlMw=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/dD1JgGiTqoUnf7298uD6wAFSPLgjsfaW5AU9tyZmiiH_4mHf7APHhSDdPaasZNCDN3_FGHUPlMw=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/dD1JgGiTqoUnf7298uD6wAFSPLgjsfaW5AU9tyZmiiH_4mHf7APHhSDdPaasZNCDN3_FGHUPlMw=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 401000,
+      "viewCount": 201874279,
+      "videoCount": 3038,
+      "lastUpdated": "2025-08-22T13:25:39.881262Z"
     }
   },
-  "lastUpdated": "2025-08-21T10:43:58.833789Z",
-  "totalVideos": 68,
-  "totalChannels": 6
+  "lastUpdated": "2025-08-22T13:25:39.881782Z",
+  "totalVideos": 69,
+  "totalChannels": 7
 }
