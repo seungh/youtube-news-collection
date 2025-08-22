@@ -1024,6 +1024,34 @@
       "channelId": "UCV9gIwasozKlwz5U2Sa2q6g",
       "channelName": "박재홍의 한판승부",
       "collectedAt": "2025-08-22T13:37:27Z"
+    },
+    "5-CQ3KcFMx4": {
+      "videoId": "5-CQ3KcFMx4",
+      "title": "김현정의 뉴스쇼 [2018년 9월 25일/화요일] - 추석특집ㅣ외국인 눈에 비친 한국문화, 먹방의 역사",
+      "description": "◎ 1부 (7:30-8:00)\n어서와, 한국 라디오는 처음이지 #1\n\"외국인 눈에 비친 한국문화\"\n- 다니엘 튜더, 아비가일 알데레떼\n\n◎ 2부 (8:00-9:00)\n한국의 위대한 식재료 #1\n\"먹방의 역사\"\n- 문화평론가 이영미",
+      "publishedAt": "2018-09-25T01:46:46Z",
+      "duration": "PT1H4M41S",
+      "viewCount": 10799,
+      "likeCount": 132,
+      "commentCount": 2,
+      "tags": [
+        "김현정의 뉴스쇼",
+        "김현정",
+        "뉴스쇼",
+        "981",
+        "98.1",
+        "CBS",
+        "라디오",
+        "뉴스",
+        "표준FM",
+        "레인보우"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2018-09-25T01:46:46Z",
+      "channelId": "UC4Aa3OPkMenwTANpf0oWVRQ",
+      "channelName": "CBS 김현정의 뉴스쇼",
+      "collectedAt": "2025-08-22T14:02:45Z"
     }
   },
   "channels": {
@@ -1131,12 +1159,39 @@
         }
       },
       "subscriberCount": 904000,
-      "viewCount": 662049830,
+      "viewCount": 662119467,
       "videoCount": 14573,
-      "lastUpdated": "2025-08-22T13:37:27.086054Z"
+      "lastUpdated": "2025-08-22T14:02:45.894150Z"
+    },
+    "UC4Aa3OPkMenwTANpf0oWVRQ": {
+      "channelId": "UC4Aa3OPkMenwTANpf0oWVRQ",
+      "channelName": "CBS 김현정의 뉴스쇼",
+      "channelUrl": "@cbsnewsshow",
+      "channelDescription": "김현정의 뉴스쇼는 정치 사회의 주요 인사는 물론, 화제의 인물을 실시간으로 연결합니다\n\n여러분의 소중한 제보를 받습니다\n잘 알려지지 않았지만 꼭 다뤄져야 할 중요한 사안이 있을 경우\n메일, 문자 또는 레인보우 게시판을 통해 제보해 주세요\n \n프로그램 아이템으로 적합한 경우, 검토 이후 방송에 반영하겠습니다\n\n\n\n▣ 제보 및 의견\n◇ 문자: #1212\n◇ 뉴스쇼 제보 이메일: cbsnewsshow@gmail.com\n◇ 댓꿀쇼 관련 이메일: newsshow.cbs@gmail.com\n\n▣ 방송 안내\n뉴스쇼 채널 | CBS FM 98.1\n뉴스쇼 라이브 방송 | 매주 월~금 오전 7:10~9:00\n댓꿀쇼 라이브 방송 | 화·목·금 주 3회, 본방송 이후 9시",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/KYgdx4DjWKWPBr36jSzzGd5wrgw5ffMBVqHUJanuLKWeidLoeLaETpx29lPEx9c-Z3eMe-tsrSU=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/KYgdx4DjWKWPBr36jSzzGd5wrgw5ffMBVqHUJanuLKWeidLoeLaETpx29lPEx9c-Z3eMe-tsrSU=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/KYgdx4DjWKWPBr36jSzzGd5wrgw5ffMBVqHUJanuLKWeidLoeLaETpx29lPEx9c-Z3eMe-tsrSU=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 1590000,
+      "viewCount": 1278731005,
+      "videoCount": 19122,
+      "lastUpdated": "2025-08-22T14:02:45.894150Z"
     }
   },
-  "lastUpdated": "2025-08-22T13:37:27.087052Z",
-  "totalVideos": 38,
-  "totalChannels": 4
+  "lastUpdated": "2025-08-22T14:02:45.897147Z",
+  "totalVideos": 39,
+  "totalChannels": 5
 }

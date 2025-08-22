@@ -635,6 +635,99 @@
       "channelId": "UCaVuYo_tiiNzTSmlnM-A2kQ",
       "channelName": "시사IN(시사인)",
       "collectedAt": "2025-08-22T13:36:38Z"
+    },
+    "AcPgyIVPgYU": {
+      "videoId": "AcPgyIVPgYU",
+      "title": "CBS 김현정의 뉴스쇼 -- [뉴스 증권시장, 뉴/스/닥]\"(↑) 경선토론, 호남 (↓) 탄핵불복집회, 빅마우스\"",
+      "description": "[뉴스 증권시장, 뉴/스/닥]\"(↑) 경선토론, 호남 (↓) 탄핵불복집회, 빅마우스\"",
+      "publishedAt": "2017-03-20T01:22:41Z",
+      "duration": "PT20M41S",
+      "viewCount": 1982,
+      "likeCount": 33,
+      "commentCount": 0,
+      "tags": [
+        "[뉴스 증권시장",
+        "뉴/스/닥]",
+        "호남 (↓) 탄핵불복집회",
+        "빅마우스",
+        "김현정의 뉴스쇼",
+        "CBS",
+        "김현정앵커",
+        "김현정PD",
+        "뉴스쇼",
+        "CBS 라디오 FM 98.1"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2017-03-20T01:22:41Z",
+      "channelId": "UC4Aa3OPkMenwTANpf0oWVRQ",
+      "channelName": "CBS 김현정의 뉴스쇼",
+      "collectedAt": "2025-08-22T14:01:51Z"
+    },
+    "OPAw_yCGkEw": {
+      "videoId": "OPAw_yCGkEw",
+      "title": "CBS 김현정의 뉴스쇼 - \"광양 매실마을, 3월의 눈이 내려요\"",
+      "description": "\"광양 매실마을, 3월의 눈이 내려요\"",
+      "publishedAt": "2017-03-20T00:43:28Z",
+      "duration": "PT7M6S",
+      "viewCount": 1202,
+      "likeCount": 8,
+      "commentCount": 0,
+      "tags": [
+        "광양 매실마을",
+        "3월의 눈이 내려요 김현정의 뉴스쇼 CBS 김현정앵커 김현정PD 뉴스쇼 CBS 라디오 FM 98.1"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2017-03-20T00:43:28Z",
+      "channelId": "UC4Aa3OPkMenwTANpf0oWVRQ",
+      "channelName": "CBS 김현정의 뉴스쇼",
+      "collectedAt": "2025-08-22T14:01:51Z"
+    },
+    "4lX9Apvm8w0": {
+      "videoId": "4lX9Apvm8w0",
+      "title": "CBS 김현정의 뉴스쇼 - \"세월호, 3년을 기다린 인양\"",
+      "description": "\"세월호, 3년을 기다린 인양\"",
+      "publishedAt": "2017-03-20T00:41:06Z",
+      "duration": "PT12M45S",
+      "viewCount": 21105,
+      "likeCount": 21,
+      "commentCount": 3,
+      "tags": [
+        "세월호",
+        "3년을 기다린 인양 김현정의 뉴스쇼 CBS 김현정앵커 김현정PD 뉴스쇼 CBS 라디오 FM 98.1"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2017-03-20T00:41:06Z",
+      "channelId": "UC4Aa3OPkMenwTANpf0oWVRQ",
+      "channelName": "CBS 김현정의 뉴스쇼",
+      "collectedAt": "2025-08-22T14:01:51Z"
+    },
+    "lDfrqwn2UvU": {
+      "videoId": "lDfrqwn2UvU",
+      "title": "CBS 김현정의 뉴스쇼- \"보수경쟁 경선 시작\"",
+      "description": "\"보수경쟁 경선 시작\"",
+      "publishedAt": "2017-03-20T00:40:40Z",
+      "duration": "PT13M39S",
+      "viewCount": 797,
+      "likeCount": 4,
+      "commentCount": 1,
+      "tags": [
+        "보수경쟁 경선 시작",
+        "김현정의 뉴스쇼",
+        "CBS",
+        "김현정앵커",
+        "김현정PD",
+        "뉴스쇼",
+        "CBS 라디오 FM 98.1"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2017-03-20T00:40:40Z",
+      "channelId": "UC4Aa3OPkMenwTANpf0oWVRQ",
+      "channelName": "CBS 김현정의 뉴스쇼",
+      "collectedAt": "2025-08-22T14:01:51Z"
     }
   },
   "channels": {
@@ -772,9 +865,36 @@
       "viewCount": 191324441,
       "videoCount": 3184,
       "lastUpdated": "2025-08-22T13:36:38.372284Z"
+    },
+    "UC4Aa3OPkMenwTANpf0oWVRQ": {
+      "channelId": "UC4Aa3OPkMenwTANpf0oWVRQ",
+      "channelName": "CBS 김현정의 뉴스쇼",
+      "channelUrl": "@cbsnewsshow",
+      "channelDescription": "김현정의 뉴스쇼는 정치 사회의 주요 인사는 물론, 화제의 인물을 실시간으로 연결합니다\n\n여러분의 소중한 제보를 받습니다\n잘 알려지지 않았지만 꼭 다뤄져야 할 중요한 사안이 있을 경우\n메일, 문자 또는 레인보우 게시판을 통해 제보해 주세요\n \n프로그램 아이템으로 적합한 경우, 검토 이후 방송에 반영하겠습니다\n\n\n\n▣ 제보 및 의견\n◇ 문자: #1212\n◇ 뉴스쇼 제보 이메일: cbsnewsshow@gmail.com\n◇ 댓꿀쇼 관련 이메일: newsshow.cbs@gmail.com\n\n▣ 방송 안내\n뉴스쇼 채널 | CBS FM 98.1\n뉴스쇼 라이브 방송 | 매주 월~금 오전 7:10~9:00\n댓꿀쇼 라이브 방송 | 화·목·금 주 3회, 본방송 이후 9시",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/KYgdx4DjWKWPBr36jSzzGd5wrgw5ffMBVqHUJanuLKWeidLoeLaETpx29lPEx9c-Z3eMe-tsrSU=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/KYgdx4DjWKWPBr36jSzzGd5wrgw5ffMBVqHUJanuLKWeidLoeLaETpx29lPEx9c-Z3eMe-tsrSU=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/KYgdx4DjWKWPBr36jSzzGd5wrgw5ffMBVqHUJanuLKWeidLoeLaETpx29lPEx9c-Z3eMe-tsrSU=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 1590000,
+      "viewCount": 1278731005,
+      "videoCount": 19122,
+      "lastUpdated": "2025-08-22T14:01:51.682573Z"
     }
   },
-  "lastUpdated": "2025-08-22T13:36:38.375292Z",
-  "totalVideos": 24,
-  "totalChannels": 5
+  "lastUpdated": "2025-08-22T14:01:51.682573Z",
+  "totalVideos": 28,
+  "totalChannels": 6
 }

@@ -139,6 +139,30 @@
       "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
       "channelName": "뉴스TVCHOSUN",
       "collectedAt": "2025-08-21T10:46:13Z"
+    },
+    "H5RncOuA99A": {
+      "videoId": "H5RncOuA99A",
+      "title": "[박재홍의 뉴스쇼] 2015년 첫 해를 맞는 정동진 \"해가 지금 올라옵니다~~\" (20150101)",
+      "description": "2015년 첫 해를 맞는 정동진 \"해가 지금 올라옵니다~~\"\n■ 방송 : CBS 라디오 FM 98.1 (07:30~09:00)\n\n■ 진행 : 박재홍 앵커\n\n■ 대담 : 윤태흥 (정동진역 부역장) \n\n2015년의 첫 문을 여는 아침 아직까지 서울 목동에는 해가 떠오르지 않았습니다. 지금 독도와 부산, 포항을 시작으로 전국이 점차 밝아지고 있는데요. 이 시각 밤새 열차를 타고 달려온 사람들로 북적거리는 곳을 찾아가겠습니다. 바다와 가장 가까운 역이자 일출 명소로 유명하죠? 강원도 강릉시 정동진역을 갈 텐데요. 정동진역을 지키고 있는 윤태흥 부역장 만나보죠. 부역장님 안녕하십니까?",
+      "publishedAt": "2015-01-01T02:32:35Z",
+      "duration": "PT8M44S",
+      "viewCount": 104,
+      "likeCount": 0,
+      "commentCount": 0,
+      "tags": [
+        "박재홍",
+        "뉴스쇼",
+        "정동진",
+        "첫 해",
+        "2015년",
+        "CBS"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2015-01-01T02:32:35Z",
+      "channelId": "UC4Aa3OPkMenwTANpf0oWVRQ",
+      "channelName": "CBS 김현정의 뉴스쇼",
+      "collectedAt": "2025-08-22T14:03:26Z"
     }
   },
   "channels": {
@@ -168,9 +192,36 @@
       "viewCount": 4319423561,
       "videoCount": 150855,
       "lastUpdated": "2025-08-21T10:28:52.879262Z"
+    },
+    "UC4Aa3OPkMenwTANpf0oWVRQ": {
+      "channelId": "UC4Aa3OPkMenwTANpf0oWVRQ",
+      "channelName": "CBS 김현정의 뉴스쇼",
+      "channelUrl": "@cbsnewsshow",
+      "channelDescription": "김현정의 뉴스쇼는 정치 사회의 주요 인사는 물론, 화제의 인물을 실시간으로 연결합니다\n\n여러분의 소중한 제보를 받습니다\n잘 알려지지 않았지만 꼭 다뤄져야 할 중요한 사안이 있을 경우\n메일, 문자 또는 레인보우 게시판을 통해 제보해 주세요\n \n프로그램 아이템으로 적합한 경우, 검토 이후 방송에 반영하겠습니다\n\n\n\n▣ 제보 및 의견\n◇ 문자: #1212\n◇ 뉴스쇼 제보 이메일: cbsnewsshow@gmail.com\n◇ 댓꿀쇼 관련 이메일: newsshow.cbs@gmail.com\n\n▣ 방송 안내\n뉴스쇼 채널 | CBS FM 98.1\n뉴스쇼 라이브 방송 | 매주 월~금 오전 7:10~9:00\n댓꿀쇼 라이브 방송 | 화·목·금 주 3회, 본방송 이후 9시",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/KYgdx4DjWKWPBr36jSzzGd5wrgw5ffMBVqHUJanuLKWeidLoeLaETpx29lPEx9c-Z3eMe-tsrSU=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/KYgdx4DjWKWPBr36jSzzGd5wrgw5ffMBVqHUJanuLKWeidLoeLaETpx29lPEx9c-Z3eMe-tsrSU=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/KYgdx4DjWKWPBr36jSzzGd5wrgw5ffMBVqHUJanuLKWeidLoeLaETpx29lPEx9c-Z3eMe-tsrSU=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 1590000,
+      "viewCount": 1278731005,
+      "videoCount": 19122,
+      "lastUpdated": "2025-08-22T14:03:26.205957Z"
     }
   },
-  "lastUpdated": "2025-08-21T10:46:13.844569Z",
-  "totalVideos": 5,
-  "totalChannels": 1
+  "lastUpdated": "2025-08-22T14:03:26.208369Z",
+  "totalVideos": 6,
+  "totalChannels": 2
 }

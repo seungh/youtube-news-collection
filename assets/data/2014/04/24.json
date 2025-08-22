@@ -27,6 +27,51 @@
       "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
       "channelName": "뉴스TVCHOSUN",
       "collectedAt": "2025-08-21T10:46:20Z"
+    },
+    "S9qyuwAHArs": {
+      "videoId": "S9qyuwAHArs",
+      "title": "[권영철의 Why뉴스] \"세월호 집단무기력 어떻게 벗어나야 하나?\"(20140424)",
+      "description": "방송 : CBS 라디오 FM 98.1 (07:00~09:00)\n■ 진행 : 김현정 앵커\n■ 대담 : 권영철 선임기자",
+      "publishedAt": "2014-04-24T02:43:58Z",
+      "duration": "PT8M1S",
+      "viewCount": 171,
+      "likeCount": 3,
+      "commentCount": 0,
+      "tags": [
+        "김현정",
+        "뉴스쇼",
+        "CBS",
+        "권영철",
+        "세월호 집단무기력증"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2014-04-24T02:43:58Z",
+      "channelId": "UC4Aa3OPkMenwTANpf0oWVRQ",
+      "channelName": "CBS 김현정의 뉴스쇼",
+      "collectedAt": "2025-08-22T14:03:32Z"
+    },
+    "XFDl1lTZwLs": {
+      "videoId": "XFDl1lTZwLs",
+      "title": "[김현정의 뉴스쇼]뉴질랜드 이민 씨랜드 유족 \"왜 변한게 없나요\" (20140424)",
+      "description": "■ 방송 : CBS 라디오 FM 98.1 (07:00~09:00)\n■ 진행 : 김현정 앵커\n■ 진행 : 김순덕 (뉴질랜드 거주, 씨랜드 유족)\n\n1999년 씨랜드 사건을 여러분 기억하십니까? 한 청소년 수련원에서 화재가 발생해서 당시 그곳에서 자고 있던 유치원생 19명과 교사 4명이 희생을 당한 사건이죠. 총체적인 인재였다는 점. 또 어린 아이들을 한꺼번에 잃었다는 점에서 이번 세월호 참사와 비교가 되고 있습니다. 지금부터 만날 분은 씨랜드 사건으로 자식을 잃은 분인데요. 이 세월호 참사를 보면서 꼭 하고 싶은 말씀이 있다고 하셔서 오늘 초대를 했습니다. 이분은 당시 국가대표 필드하키 선수였습니다. 그런데 그 사건 이후에 나라에서 받은 훈장을 모두 반납하고 이민을 떠났습니다. 전 국가대표 필드하키 선수 김순덕 씨 연결을 해 보죠. 김순덕 선생님 나와 계십니까?",
+      "publishedAt": "2014-04-24T02:42:25Z",
+      "duration": "PT7M35S",
+      "viewCount": 5302,
+      "likeCount": 27,
+      "commentCount": 1,
+      "tags": [
+        "김현정",
+        "뉴스쇼",
+        "CBS",
+        "씨랜드 유족인터뷰"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2014-04-24T02:42:25Z",
+      "channelId": "UC4Aa3OPkMenwTANpf0oWVRQ",
+      "channelName": "CBS 김현정의 뉴스쇼",
+      "collectedAt": "2025-08-22T14:03:32Z"
     }
   },
   "channels": {
@@ -56,9 +101,36 @@
       "viewCount": 4319423561,
       "videoCount": 150855,
       "lastUpdated": "2025-08-21T10:28:59.254334Z"
+    },
+    "UC4Aa3OPkMenwTANpf0oWVRQ": {
+      "channelId": "UC4Aa3OPkMenwTANpf0oWVRQ",
+      "channelName": "CBS 김현정의 뉴스쇼",
+      "channelUrl": "@cbsnewsshow",
+      "channelDescription": "김현정의 뉴스쇼는 정치 사회의 주요 인사는 물론, 화제의 인물을 실시간으로 연결합니다\n\n여러분의 소중한 제보를 받습니다\n잘 알려지지 않았지만 꼭 다뤄져야 할 중요한 사안이 있을 경우\n메일, 문자 또는 레인보우 게시판을 통해 제보해 주세요\n \n프로그램 아이템으로 적합한 경우, 검토 이후 방송에 반영하겠습니다\n\n\n\n▣ 제보 및 의견\n◇ 문자: #1212\n◇ 뉴스쇼 제보 이메일: cbsnewsshow@gmail.com\n◇ 댓꿀쇼 관련 이메일: newsshow.cbs@gmail.com\n\n▣ 방송 안내\n뉴스쇼 채널 | CBS FM 98.1\n뉴스쇼 라이브 방송 | 매주 월~금 오전 7:10~9:00\n댓꿀쇼 라이브 방송 | 화·목·금 주 3회, 본방송 이후 9시",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/KYgdx4DjWKWPBr36jSzzGd5wrgw5ffMBVqHUJanuLKWeidLoeLaETpx29lPEx9c-Z3eMe-tsrSU=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/KYgdx4DjWKWPBr36jSzzGd5wrgw5ffMBVqHUJanuLKWeidLoeLaETpx29lPEx9c-Z3eMe-tsrSU=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/KYgdx4DjWKWPBr36jSzzGd5wrgw5ffMBVqHUJanuLKWeidLoeLaETpx29lPEx9c-Z3eMe-tsrSU=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 1590000,
+      "viewCount": 1278731005,
+      "videoCount": 19122,
+      "lastUpdated": "2025-08-22T14:03:32.084395Z"
     }
   },
-  "lastUpdated": "2025-08-21T10:46:20.385891Z",
-  "totalVideos": 1,
-  "totalChannels": 1
+  "lastUpdated": "2025-08-22T14:03:32.085392Z",
+  "totalVideos": 3,
+  "totalChannels": 2
 }

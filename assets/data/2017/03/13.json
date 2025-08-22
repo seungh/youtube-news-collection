@@ -552,6 +552,105 @@
       "channelId": "UCaVuYo_tiiNzTSmlnM-A2kQ",
       "channelName": "시사IN(시사인)",
       "collectedAt": "2025-08-22T13:36:35Z"
+    },
+    "MjwLxyao5KI": {
+      "videoId": "MjwLxyao5KI",
+      "title": "CBS 김현정의 뉴스쇼 -  \"촛불집회 127회 개근상\"",
+      "description": "\"촛불집회 127회 개근상\"",
+      "publishedAt": "2017-03-13T00:31:52Z",
+      "duration": "PT7M10S",
+      "viewCount": 2131,
+      "likeCount": 24,
+      "commentCount": 1,
+      "tags": [
+        "촛불집회 127회 개근상",
+        "김현정의 뉴스쇼",
+        "CBS",
+        "김현정앵커",
+        "김현정PD",
+        "뉴스쇼",
+        "CBS 라디오 FM 98.1"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2017-03-13T00:31:52Z",
+      "channelId": "UC4Aa3OPkMenwTANpf0oWVRQ",
+      "channelName": "CBS 김현정의 뉴스쇼",
+      "collectedAt": "2025-08-22T14:01:48Z"
+    },
+    "iG4-4T-HcZ8": {
+      "videoId": "iG4-4T-HcZ8",
+      "title": "CBS 김현정의 뉴스쇼- [뉴스 증권시장, 뉴/스/닥 \"(↑) 미디어, 4.12재보선 (↓) 진박, 朴 참모\"",
+      "description": "[뉴스 증권시장, 뉴/스/닥 \"(↑) 미디어, 4.12재보선 (↓) 진박, 朴 참모\"",
+      "publishedAt": "2017-03-13T00:31:02Z",
+      "duration": "PT20M33S",
+      "viewCount": 5133,
+      "likeCount": 14,
+      "commentCount": 0,
+      "tags": [
+        "[뉴스 증권시장",
+        "뉴/스/닥",
+        "4.12재보선 (↓) 진박",
+        "朴 참모",
+        "김현정의 뉴스쇼",
+        "CBS",
+        "김현정앵커",
+        "김현정PD",
+        "뉴스쇼",
+        "CBS 라디오 FM 98.1"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2017-03-13T00:31:02Z",
+      "channelId": "UC4Aa3OPkMenwTANpf0oWVRQ",
+      "channelName": "CBS 김현정의 뉴스쇼",
+      "collectedAt": "2025-08-22T14:01:48Z"
+    },
+    "J2GP5fnh4yg": {
+      "videoId": "J2GP5fnh4yg",
+      "title": "CBS 김현정의 뉴스쇼 -  \"탄핵 이후 대선과 개헌\"",
+      "description": "\"탄핵 이후 대선과 개헌\"",
+      "publishedAt": "2017-03-13T00:28:41Z",
+      "duration": "PT13M2S",
+      "viewCount": 3511,
+      "likeCount": 9,
+      "commentCount": 0,
+      "tags": [
+        "탄핵 이후 대선과 개헌",
+        "김현정의 뉴스쇼",
+        "CBS",
+        "김현정앵커",
+        "김현정PD",
+        "뉴스쇼",
+        "CBS 라디오 FM 98.1"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2017-03-13T00:28:41Z",
+      "channelId": "UC4Aa3OPkMenwTANpf0oWVRQ",
+      "channelName": "CBS 김현정의 뉴스쇼",
+      "collectedAt": "2025-08-22T14:01:48Z"
+    },
+    "auKgopEiqjI": {
+      "videoId": "auKgopEiqjI",
+      "title": "CBS 김현정의 뉴스쇼 - \"박근혜 파면, 탄핵불복, 검찰수사\"",
+      "description": "\"박근혜 파면, 탄핵불복, 검찰수사\"",
+      "publishedAt": "2017-03-13T00:27:01Z",
+      "duration": "PT13M2S",
+      "viewCount": 10859,
+      "likeCount": 46,
+      "commentCount": 7,
+      "tags": [
+        "박근혜 파면",
+        "탄핵불복",
+        "검찰수사 김현정의 뉴스쇼 CBS 김현정앵커 김현정PD 뉴스쇼 CBS 라디오 FM 98.1"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2017-03-13T00:27:01Z",
+      "channelId": "UC4Aa3OPkMenwTANpf0oWVRQ",
+      "channelName": "CBS 김현정의 뉴스쇼",
+      "collectedAt": "2025-08-22T14:01:48Z"
     }
   },
   "channels": {
@@ -716,9 +815,36 @@
       "viewCount": 191324441,
       "videoCount": 3184,
       "lastUpdated": "2025-08-22T13:36:35.190195Z"
+    },
+    "UC4Aa3OPkMenwTANpf0oWVRQ": {
+      "channelId": "UC4Aa3OPkMenwTANpf0oWVRQ",
+      "channelName": "CBS 김현정의 뉴스쇼",
+      "channelUrl": "@cbsnewsshow",
+      "channelDescription": "김현정의 뉴스쇼는 정치 사회의 주요 인사는 물론, 화제의 인물을 실시간으로 연결합니다\n\n여러분의 소중한 제보를 받습니다\n잘 알려지지 않았지만 꼭 다뤄져야 할 중요한 사안이 있을 경우\n메일, 문자 또는 레인보우 게시판을 통해 제보해 주세요\n \n프로그램 아이템으로 적합한 경우, 검토 이후 방송에 반영하겠습니다\n\n\n\n▣ 제보 및 의견\n◇ 문자: #1212\n◇ 뉴스쇼 제보 이메일: cbsnewsshow@gmail.com\n◇ 댓꿀쇼 관련 이메일: newsshow.cbs@gmail.com\n\n▣ 방송 안내\n뉴스쇼 채널 | CBS FM 98.1\n뉴스쇼 라이브 방송 | 매주 월~금 오전 7:10~9:00\n댓꿀쇼 라이브 방송 | 화·목·금 주 3회, 본방송 이후 9시",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/KYgdx4DjWKWPBr36jSzzGd5wrgw5ffMBVqHUJanuLKWeidLoeLaETpx29lPEx9c-Z3eMe-tsrSU=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/KYgdx4DjWKWPBr36jSzzGd5wrgw5ffMBVqHUJanuLKWeidLoeLaETpx29lPEx9c-Z3eMe-tsrSU=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/KYgdx4DjWKWPBr36jSzzGd5wrgw5ffMBVqHUJanuLKWeidLoeLaETpx29lPEx9c-Z3eMe-tsrSU=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 1590000,
+      "viewCount": 1278731005,
+      "videoCount": 19122,
+      "lastUpdated": "2025-08-22T14:01:48.802260Z"
     }
   },
-  "lastUpdated": "2025-08-22T13:36:35.195040Z",
-  "totalVideos": 21,
-  "totalChannels": 6
+  "lastUpdated": "2025-08-22T14:01:48.807956Z",
+  "totalVideos": 25,
+  "totalChannels": 7
 }

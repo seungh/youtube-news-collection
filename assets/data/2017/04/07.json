@@ -1427,6 +1427,115 @@
       "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
       "channelName": "뉴스TVCHOSUN",
       "collectedAt": "2025-08-21T10:45:51Z"
+    },
+    "m8uw736E06w": {
+      "videoId": "m8uw736E06w",
+      "title": "CBS 김현정의 뉴스쇼 -  특집 \"월간 정두언-정청래 통합본\"",
+      "description": "[특집] \"월간 정두언-정청래 통합본\"\n- 정두언 전 의원 & 정청래 전 의원",
+      "publishedAt": "2017-04-07T00:11:35Z",
+      "duration": "PT24M27S",
+      "viewCount": 13716,
+      "likeCount": 39,
+      "commentCount": 10,
+      "tags": [
+        "김현정의 뉴스쇼",
+        "CBS",
+        "김현정앵커",
+        "김현정PD",
+        "뉴스쇼",
+        "CBS 라디오 FM 98.1",
+        "월간 정두언-정청래 통합본",
+        "정두언 전 의원 & 정청래 전 의원",
+        "정두언",
+        "정청래"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2017-04-07T00:11:35Z",
+      "channelId": "UC4Aa3OPkMenwTANpf0oWVRQ",
+      "channelName": "CBS 김현정의 뉴스쇼",
+      "collectedAt": "2025-08-22T14:03:05Z"
+    },
+    "AHPz_JMEXzY": {
+      "videoId": "AHPz_JMEXzY",
+      "title": "CBS 김현정의 뉴스쇼 - [변상욱의 기/자/수/첩] \"전문대는 없다\"",
+      "description": "[변상욱의 기/자/수/첩]\n\"전문대는 없다\"",
+      "publishedAt": "2017-04-07T00:44:52Z",
+      "duration": "PT6M32S",
+      "viewCount": 1536,
+      "likeCount": 17,
+      "commentCount": 0,
+      "tags": [
+        "김현정의 뉴스쇼",
+        "CBS",
+        "김현정앵커",
+        "김현정PD",
+        "뉴스쇼",
+        "CBS 라디오 FM 98.1",
+        "변상욱",
+        "기자수첩",
+        "전문대는 없다"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2017-04-07T00:44:52Z",
+      "channelId": "UC4Aa3OPkMenwTANpf0oWVRQ",
+      "channelName": "CBS 김현정의 뉴스쇼",
+      "collectedAt": "2025-08-22T14:03:05Z"
+    },
+    "QPtQI3tvPFc": {
+      "videoId": "QPtQI3tvPFc",
+      "title": "CBS 김현정의 뉴스쇼 - \"양강대결은 국민 뜻 아니다\"",
+      "description": "\"양강대결은 국민 뜻 아니다\"\n- 정의당 심상정 대선후보",
+      "publishedAt": "2017-04-07T00:32:30Z",
+      "duration": "PT12M19S",
+      "viewCount": 7911,
+      "likeCount": 23,
+      "commentCount": 1,
+      "tags": [
+        "김현정의 뉴스쇼",
+        "CBS",
+        "김현정앵커",
+        "김현정PD",
+        "뉴스쇼",
+        "CBS 라디오 FM 98.1",
+        "양강대결은 국민 뜻 아니다",
+        "정의당",
+        "심상정",
+        "대선후보"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2017-04-07T00:32:30Z",
+      "channelId": "UC4Aa3OPkMenwTANpf0oWVRQ",
+      "channelName": "CBS 김현정의 뉴스쇼",
+      "collectedAt": "2025-08-22T14:03:05Z"
+    },
+    "X5-g-8C7D4E": {
+      "videoId": "X5-g-8C7D4E",
+      "title": "CBS 김현정의 뉴스쇼 - \"미세먼지 소송\"",
+      "description": "\"미세먼지 소송\" \n- 안경재 변호사",
+      "publishedAt": "2017-04-07T00:13:12Z",
+      "duration": "PT9M18S",
+      "viewCount": 824,
+      "likeCount": 5,
+      "commentCount": 1,
+      "tags": [
+        "김현정의 뉴스쇼",
+        "CBS",
+        "김현정앵커",
+        "김현정PD",
+        "뉴스쇼",
+        "CBS 라디오 FM 98.1",
+        "미세먼지 소송",
+        "안경재 변호사"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2017-04-07T00:13:12Z",
+      "channelId": "UC4Aa3OPkMenwTANpf0oWVRQ",
+      "channelName": "CBS 김현정의 뉴스쇼",
+      "collectedAt": "2025-08-22T14:03:05Z"
     }
   },
   "channels": {
@@ -1483,9 +1592,36 @@
       "viewCount": 4319423561,
       "videoCount": 150855,
       "lastUpdated": "2025-08-21T10:28:24.309332Z"
+    },
+    "UC4Aa3OPkMenwTANpf0oWVRQ": {
+      "channelId": "UC4Aa3OPkMenwTANpf0oWVRQ",
+      "channelName": "CBS 김현정의 뉴스쇼",
+      "channelUrl": "@cbsnewsshow",
+      "channelDescription": "김현정의 뉴스쇼는 정치 사회의 주요 인사는 물론, 화제의 인물을 실시간으로 연결합니다\n\n여러분의 소중한 제보를 받습니다\n잘 알려지지 않았지만 꼭 다뤄져야 할 중요한 사안이 있을 경우\n메일, 문자 또는 레인보우 게시판을 통해 제보해 주세요\n \n프로그램 아이템으로 적합한 경우, 검토 이후 방송에 반영하겠습니다\n\n\n\n▣ 제보 및 의견\n◇ 문자: #1212\n◇ 뉴스쇼 제보 이메일: cbsnewsshow@gmail.com\n◇ 댓꿀쇼 관련 이메일: newsshow.cbs@gmail.com\n\n▣ 방송 안내\n뉴스쇼 채널 | CBS FM 98.1\n뉴스쇼 라이브 방송 | 매주 월~금 오전 7:10~9:00\n댓꿀쇼 라이브 방송 | 화·목·금 주 3회, 본방송 이후 9시",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/KYgdx4DjWKWPBr36jSzzGd5wrgw5ffMBVqHUJanuLKWeidLoeLaETpx29lPEx9c-Z3eMe-tsrSU=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/KYgdx4DjWKWPBr36jSzzGd5wrgw5ffMBVqHUJanuLKWeidLoeLaETpx29lPEx9c-Z3eMe-tsrSU=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/KYgdx4DjWKWPBr36jSzzGd5wrgw5ffMBVqHUJanuLKWeidLoeLaETpx29lPEx9c-Z3eMe-tsrSU=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 1590000,
+      "viewCount": 1278731005,
+      "videoCount": 19122,
+      "lastUpdated": "2025-08-22T14:03:05.309245Z"
     }
   },
-  "lastUpdated": "2025-08-21T10:45:51.025066Z",
-  "totalVideos": 51,
-  "totalChannels": 2
+  "lastUpdated": "2025-08-22T14:03:05.309245Z",
+  "totalVideos": 55,
+  "totalChannels": 3
 }

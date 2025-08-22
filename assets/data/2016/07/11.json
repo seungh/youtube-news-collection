@@ -301,6 +301,74 @@
       "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
       "channelName": "뉴스TVCHOSUN",
       "collectedAt": "2025-08-21T10:46:01Z"
+    },
+    "YSPREyg9Vak": {
+      "videoId": "YSPREyg9Vak",
+      "title": "김현정의 뉴스쇼 -  [뉴스닥] 이준석 \"朴 상한가 vs 장하나 \"朴 하한가\"",
+      "description": "[뉴스닥] 이준석 \"朴 상한가 vs 장하나 \"朴 하한가\"\n\n■ 방송 : CBS 라디오  FM 98.1 (07:30~09:00)\n■ 진행 : 김현정 앵커\n■ 대담 : 이준석(새누리당 전 비대위원), 장하나(더불어민주당 전 의원)",
+      "publishedAt": "2016-07-11T01:30:24Z",
+      "duration": "PT21M8S",
+      "viewCount": 741,
+      "likeCount": 4,
+      "commentCount": 3,
+      "tags": [],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2016-07-11T01:30:24Z",
+      "channelId": "UC4Aa3OPkMenwTANpf0oWVRQ",
+      "channelName": "CBS 김현정의 뉴스쇼",
+      "collectedAt": "2025-08-22T14:03:13Z"
+    },
+    "n_XRLlEGnU8": {
+      "videoId": "n_XRLlEGnU8",
+      "title": "김현정의 뉴스쇼 -  감자탕집 멧돼지 목격자 \"잡아먹을 듯 날뛰던 눈빛이..\"",
+      "description": "감자탕집 멧돼지 목격자 \"잡아먹을 듯 날뛰던 눈빛이..\"\n\n\n■ 방송 : CBS 라디오  FM 98.1 (07:30~09:00)\n■ 진행 : 김현정 앵커\n■ 대담 : 이영순 씨 (목격자)",
+      "publishedAt": "2016-07-11T01:30:17Z",
+      "duration": "PT5M59S",
+      "viewCount": 303,
+      "likeCount": 1,
+      "commentCount": 0,
+      "tags": [],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2016-07-11T01:30:17Z",
+      "channelId": "UC4Aa3OPkMenwTANpf0oWVRQ",
+      "channelName": "CBS 김현정의 뉴스쇼",
+      "collectedAt": "2025-08-22T14:03:13Z"
+    },
+    "LxcIpfIrEoY": {
+      "videoId": "LxcIpfIrEoY",
+      "title": "김현정의 뉴스쇼-  '개돼지 망언' 목격기자 \"만취 실언? 전혀 아냐\"",
+      "description": "'개돼지 망언' 목격기자 \"만취 실언? 전혀 아냐\"\n\n\n\n■ 방송 : CBS 라디오  FM 98.1 (07:30~09:00)\n■ 진행 : 김현정 앵커\n■ 대담 : 송현숙(경향신문 정책사회부장), 도종환(더불어민주당 의원(국회 교문위 간사))",
+      "publishedAt": "2016-07-11T01:28:42Z",
+      "duration": "PT14M19S",
+      "viewCount": 10189,
+      "likeCount": 45,
+      "commentCount": 14,
+      "tags": [],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2016-07-11T01:28:42Z",
+      "channelId": "UC4Aa3OPkMenwTANpf0oWVRQ",
+      "channelName": "CBS 김현정의 뉴스쇼",
+      "collectedAt": "2025-08-22T14:03:13Z"
+    },
+    "cf0e9necs-0": {
+      "videoId": "cf0e9necs-0",
+      "title": "김현정의 뉴스쇼 -   [인터뷰] 김종대 \"사드 배치 최대수혜자는 김정은\"",
+      "description": "[인터뷰] 김종대 \"사드 배치 최대수혜자는 김정은\"\n\n\n■ 방송 : CBS 라디오  FM 98.1 (07:30~09:00)\n■ 진행 : 김현정 앵커\n■ 대담 : 김종대(정의당 의원)\n\n- 국방장관, 국회에서 위증한 셈 \n- SLBM 사드 요격? 비현실적 가정 \n- 신냉전체제, 최대 수혜자는 김정은\n- 중러 군사적 보복도 걱정돼",
+      "publishedAt": "2016-07-11T01:26:57Z",
+      "duration": "PT10M57S",
+      "viewCount": 3989,
+      "likeCount": 14,
+      "commentCount": 0,
+      "tags": [],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2016-07-11T01:26:57Z",
+      "channelId": "UC4Aa3OPkMenwTANpf0oWVRQ",
+      "channelName": "CBS 김현정의 뉴스쇼",
+      "collectedAt": "2025-08-22T14:03:13Z"
     }
   },
   "channels": {
@@ -384,9 +452,36 @@
       "viewCount": 4319423561,
       "videoCount": 150855,
       "lastUpdated": "2025-08-21T10:28:36.916550Z"
+    },
+    "UC4Aa3OPkMenwTANpf0oWVRQ": {
+      "channelId": "UC4Aa3OPkMenwTANpf0oWVRQ",
+      "channelName": "CBS 김현정의 뉴스쇼",
+      "channelUrl": "@cbsnewsshow",
+      "channelDescription": "김현정의 뉴스쇼는 정치 사회의 주요 인사는 물론, 화제의 인물을 실시간으로 연결합니다\n\n여러분의 소중한 제보를 받습니다\n잘 알려지지 않았지만 꼭 다뤄져야 할 중요한 사안이 있을 경우\n메일, 문자 또는 레인보우 게시판을 통해 제보해 주세요\n \n프로그램 아이템으로 적합한 경우, 검토 이후 방송에 반영하겠습니다\n\n\n\n▣ 제보 및 의견\n◇ 문자: #1212\n◇ 뉴스쇼 제보 이메일: cbsnewsshow@gmail.com\n◇ 댓꿀쇼 관련 이메일: newsshow.cbs@gmail.com\n\n▣ 방송 안내\n뉴스쇼 채널 | CBS FM 98.1\n뉴스쇼 라이브 방송 | 매주 월~금 오전 7:10~9:00\n댓꿀쇼 라이브 방송 | 화·목·금 주 3회, 본방송 이후 9시",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/KYgdx4DjWKWPBr36jSzzGd5wrgw5ffMBVqHUJanuLKWeidLoeLaETpx29lPEx9c-Z3eMe-tsrSU=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/KYgdx4DjWKWPBr36jSzzGd5wrgw5ffMBVqHUJanuLKWeidLoeLaETpx29lPEx9c-Z3eMe-tsrSU=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/KYgdx4DjWKWPBr36jSzzGd5wrgw5ffMBVqHUJanuLKWeidLoeLaETpx29lPEx9c-Z3eMe-tsrSU=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 1590000,
+      "viewCount": 1278731005,
+      "videoCount": 19122,
+      "lastUpdated": "2025-08-22T14:03:13.295318Z"
     }
   },
-  "lastUpdated": "2025-08-21T10:46:01.353533Z",
-  "totalVideos": 11,
-  "totalChannels": 3
+  "lastUpdated": "2025-08-22T14:03:13.295318Z",
+  "totalVideos": 15,
+  "totalChannels": 4
 }
