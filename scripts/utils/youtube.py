@@ -190,10 +190,10 @@ class YouTubeAPI:
 
                     # Add actual publish time 
                     if video_info["liveStreamingDetails"]:
-                            if "actualStartTime" in video_info["liveStreamingDetails"].keys():
-                                video_info["actualPubAt"] = video_info["liveStreamingDetails"]["actualStartTime"]
-                            elif "scheduledStartTime" in video_info["liveStreamingDetails"].keys():
-                                video_info["actualPubAt"] = video_info["liveStreamingDetails"]["scheduledStartTime"]
+                        if "actualStartTime" in video_info["liveStreamingDetails"].keys():
+                            video_info["actualPubAt"] = video_info["liveStreamingDetails"]["actualStartTime"]
+                        elif "scheduledStartTime" in video_info["liveStreamingDetails"].keys():
+                            video_info["actualPubAt"] = video_info["liveStreamingDetails"]["scheduledStartTime"]
                     else:
                         video_info["actualPubAt"] = video_info["publishedAt"]
                     

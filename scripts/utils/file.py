@@ -133,7 +133,7 @@ class FileManager:
                 **video,
                 "channelId": channel_id,
                 "channelName": channel_data["channelName"],
-                "collectedAt": datetime.now(timezone.utc).isoformat().split("+")[0] + "Z"
+                "collectedAt": datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
             }
 
             if video_id in existing_data["videos"]:
