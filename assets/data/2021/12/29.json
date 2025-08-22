@@ -634,16 +634,23 @@
         "공주대학교",
         "특수학교",
         "공주대 부설 특수학교",
-        "장애인 교육"
+        "장애인 교육",
+        "장애인 차별",
+        "장애인 특수학교",
+        "특수학교 문재인",
+        "문재인 대통령",
+        "문재인 공주대학교",
+        "국립대 부설 특수학교",
+        "부산대학교",
+        "부산대학교 특수",
+        "공주대학교 특수교육"
       ],
-      "categoryId": "25",
-      "defaultLanguage": null,
-      "defaultAudioLanguage": "ko",
       "liveBroadcastContent": "none",
       "liveStreamingDetails": null,
+      "actualPubAt": "2021-12-29T10:11:39Z",
       "channelId": "UC7WMB_czX5jF__5kqT4d9Ww",
       "channelName": " 문재인정부 청와대",
-      "collectedAt": "2025-08-20T11:39:35.045584Z"
+      "collectedAt": "2025-08-22T09:49:39.060814Z"
     },
     "63mi1MN8WPI": {
       "videoId": "63mi1MN8WPI",
@@ -660,14 +667,12 @@
         "대통령",
         "김정숙"
       ],
-      "categoryId": "25",
-      "defaultLanguage": "ko",
-      "defaultAudioLanguage": "ko",
       "liveBroadcastContent": "none",
       "liveStreamingDetails": null,
+      "actualPubAt": "2021-12-29T06:08:00Z",
       "channelId": "UC7WMB_czX5jF__5kqT4d9Ww",
       "channelName": " 문재인정부 청와대",
-      "collectedAt": "2025-08-20T11:39:35.045584Z"
+      "collectedAt": "2025-08-22T09:49:39.060877Z"
     },
     "26Y1secRSaU": {
       "videoId": "26Y1secRSaU",
@@ -688,16 +693,23 @@
         "공주대학교",
         "특수학급",
         "특수학교",
-        "국립학교"
+        "국립학교",
+        "청주",
+        "한국교원대",
+        "체육중고등특수학교",
+        "김정섭",
+        "공주시장",
+        "바이오산업",
+        "교육자원",
+        "교육과정",
+        "특화교육과정"
       ],
-      "categoryId": "25",
-      "defaultLanguage": null,
-      "defaultAudioLanguage": "ko",
       "liveBroadcastContent": "none",
       "liveStreamingDetails": null,
+      "actualPubAt": "2021-12-29T08:23:38Z",
       "channelId": "UC7WMB_czX5jF__5kqT4d9Ww",
       "channelName": " 문재인정부 청와대",
-      "collectedAt": "2025-08-20T11:39:35.045584Z"
+      "collectedAt": "2025-08-22T09:49:39.060852Z"
     },
     "voxYbUix29A": {
       "videoId": "voxYbUix29A",
@@ -1975,9 +1987,9 @@
         }
       },
       "subscriberCount": 308000,
-      "viewCount": 58715833,
+      "viewCount": 58721295,
       "videoCount": 1549,
-      "lastUpdated": "2025-08-20T11:39:35.041297Z"
+      "lastUpdated": "2025-08-22T09:49:39.060584Z"
     },
     "UCcl16CxYqlbKQJVCfdhSJVw": {
       "channelId": "UCcl16CxYqlbKQJVCfdhSJVw",
@@ -2061,7 +2073,7 @@
       "lastUpdated": "2025-08-21T10:26:37.249996Z"
     }
   },
-  "lastUpdated": "2025-08-21T10:44:24.025858Z",
+  "lastUpdated": "2025-08-22T09:49:39.061021Z",
   "totalVideos": 67,
   "totalChannels": 8
 }

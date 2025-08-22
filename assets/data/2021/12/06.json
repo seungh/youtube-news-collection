@@ -763,7 +763,7 @@
       "description": "[LIVE] 무역강국, 대한민국 | 제58회 무역의 날 기념식\n\n오늘(6일) 오전 10시부터 진행되는 제58회 무역의 날 기념식 ‘무역강국, 대한민국’을 라이브로 전해드립니다.\n문재인 대통령은 코로나19라는 팬데믹 위기 속에서도 새로운 도약을 이루어내고 있는 우리 무역인들을 격려하기 위해 행사에 참석합니다.",
       "publishedAt": "2021-12-06T01:51:28Z",
       "duration": "PT1H14M51S",
-      "viewCount": 20170,
+      "viewCount": 20175,
       "likeCount": 3735,
       "commentCount": 169,
       "tags": [
@@ -772,18 +772,16 @@
         "대통령",
         "김정숙"
       ],
-      "categoryId": "25",
-      "defaultLanguage": null,
-      "defaultAudioLanguage": "ko",
       "liveBroadcastContent": "none",
       "liveStreamingDetails": {
         "actualStartTime": "2021-12-06T00:30:54Z",
         "actualEndTime": "2021-12-06T01:46:02Z",
         "scheduledStartTime": "2021-12-06T00:45:00Z"
       },
+      "actualPubAt": "2021-12-06T00:30:54Z",
       "channelId": "UC7WMB_czX5jF__5kqT4d9Ww",
       "channelName": " 문재인정부 청와대",
-      "collectedAt": "2025-08-20T11:39:35.310863Z"
+      "collectedAt": "2025-08-22T09:49:39.223300Z"
     },
     "_j74TkjU60Y": {
       "videoId": "_j74TkjU60Y",
@@ -2100,9 +2098,9 @@
         }
       },
       "subscriberCount": 308000,
-      "viewCount": 58715833,
+      "viewCount": 58721295,
       "videoCount": 1549,
-      "lastUpdated": "2025-08-20T11:39:35.310863Z"
+      "lastUpdated": "2025-08-22T09:49:39.223159Z"
     },
     "UCcl16CxYqlbKQJVCfdhSJVw": {
       "channelId": "UCcl16CxYqlbKQJVCfdhSJVw",
@@ -2186,7 +2184,7 @@
       "lastUpdated": "2025-08-21T10:26:38.926914Z"
     }
   },
-  "lastUpdated": "2025-08-21T10:44:25.155197Z",
+  "lastUpdated": "2025-08-22T09:49:39.223399Z",
   "totalVideos": 69,
   "totalChannels": 8
 }

@@ -900,19 +900,42 @@
         "기념식",
         "방산",
         "한국형발사체",
-        "누리호 발사"
+        "누리호 발사",
+        "발사",
+        "우주 발사",
+        "항공 우주",
+        "과학기술",
+        "위성발사",
+        "민간 우주",
+        "우주산업",
+        "우주강국",
+        "우주 기술",
+        "위성 기술",
+        "나로호",
+        "누리",
+        "시정연설",
+        "국회",
+        "국회 시정연설",
+        "문재인 대통령 국회",
+        "문재인 대통령 시정연설",
+        "국회 연설",
+        "문재인대통령 국회",
+        "2022년도 예산안",
+        "예산안",
+        "2022 예산안",
+        "BTS",
+        "누리호",
+        "대통령 연설"
       ],
-      "categoryId": "25",
-      "defaultLanguage": null,
-      "defaultAudioLanguage": "ko",
       "liveBroadcastContent": "none",
       "liveStreamingDetails": {
         "actualStartTime": "2021-10-25T00:26:48Z",
         "actualEndTime": "2021-10-25T01:46:30Z"
       },
+      "actualPubAt": "2021-10-25T00:26:48Z",
       "channelId": "UC7WMB_czX5jF__5kqT4d9Ww",
       "channelName": " 문재인정부 청와대",
-      "collectedAt": "2025-08-20T11:39:35.730696Z"
+      "collectedAt": "2025-08-22T09:49:39.615341Z"
     },
     "-TMlp-7EobA": {
       "videoId": "-TMlp-7EobA",
@@ -1892,9 +1915,9 @@
         }
       },
       "subscriberCount": 308000,
-      "viewCount": 58715833,
+      "viewCount": 58721295,
       "videoCount": 1549,
-      "lastUpdated": "2025-08-20T11:39:35.730696Z"
+      "lastUpdated": "2025-08-22T09:49:39.615148Z"
     },
     "UCcl16CxYqlbKQJVCfdhSJVw": {
       "channelId": "UCcl16CxYqlbKQJVCfdhSJVw",
@@ -1951,7 +1974,7 @@
       "lastUpdated": "2025-08-21T10:26:43.626302Z"
     }
   },
-  "lastUpdated": "2025-08-21T10:44:29.435438Z",
+  "lastUpdated": "2025-08-22T09:49:39.615485Z",
   "totalVideos": 64,
   "totalChannels": 7
 }

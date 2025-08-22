@@ -576,16 +576,22 @@
         "방역",
         "항원검사",
         "보건소",
-        "의료"
+        "의료",
+        "치안",
+        "소방",
+        "교육",
+        "돌봄",
+        "수송",
+        "전력",
+        "재택치료",
+        "자가격리"
       ],
-      "categoryId": "25",
-      "defaultLanguage": null,
-      "defaultAudioLanguage": "ko",
       "liveBroadcastContent": "none",
       "liveStreamingDetails": null,
+      "actualPubAt": "2022-02-07T07:24:58Z",
       "channelId": "UC7WMB_czX5jF__5kqT4d9Ww",
       "channelName": " 문재인정부 청와대",
-      "collectedAt": "2025-08-20T11:39:34.697262Z"
+      "collectedAt": "2025-08-22T09:49:38.790081Z"
     },
     "SbtOhaqTZuI": {
       "videoId": "SbtOhaqTZuI",
@@ -1992,9 +1998,9 @@
         }
       },
       "subscriberCount": 308000,
-      "viewCount": 58715833,
+      "viewCount": 58721295,
       "videoCount": 1549,
-      "lastUpdated": "2025-08-20T11:39:34.696527Z"
+      "lastUpdated": "2025-08-22T09:49:38.789859Z"
     },
     "UCcl16CxYqlbKQJVCfdhSJVw": {
       "channelId": "UCcl16CxYqlbKQJVCfdhSJVw",
@@ -2078,7 +2084,7 @@
       "lastUpdated": "2025-08-21T10:26:48.184510Z"
     }
   },
-  "lastUpdated": "2025-08-21T10:44:33.656248Z",
+  "lastUpdated": "2025-08-22T09:49:38.790251Z",
   "totalVideos": 68,
   "totalChannels": 8
 }

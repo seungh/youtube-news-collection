@@ -3964,6 +3964,23 @@
       "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
       "channelName": "뉴스TVCHOSUN",
       "collectedAt": "2025-08-21T10:43:25.586514Z"
+    },
+    "-Q5qjFcXS6E": {
+      "videoId": "-Q5qjFcXS6E",
+      "title": "노르트스트림 폭파, 우크라이나 총사령관이 강행했다 (박종훈의 지식한방)",
+      "description": "2022년 유럽이 천연가스 가격 상승으로 큰 고통을 겪었는데요, 특히 독일의 경우 에너지 가격 상승과 전력요금 인상으로 경제 전체가 흔들리는 위기를 겪었습니다. 이런 위기를 촉발했던 요인 가운데 하나인 노르트스트림 폭파를 우크라이나가 강행했다는 월스트리트 저널의 기사가 나왔습니다. \n\n✉️ 강연 및 협업 문의\neconopunch@gmail.com",
+      "publishedAt": "2024-08-16T10:45:00Z",
+      "duration": "PT18M25S",
+      "viewCount": 298361,
+      "likeCount": 11840,
+      "commentCount": 1424,
+      "tags": [],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2024-08-16T10:45:00Z",
+      "channelId": "UCOB62fKRT7b73X7tRxMuN2g",
+      "channelName": "박종훈의 지식한방",
+      "collectedAt": "2025-08-22T09:49:36.878190Z"
     }
   },
   "channels": {
@@ -4182,9 +4199,36 @@
       "viewCount": 4319423561,
       "videoCount": 150855,
       "lastUpdated": "2025-08-21T10:25:19.853037Z"
+    },
+    "UCOB62fKRT7b73X7tRxMuN2g": {
+      "channelId": "UCOB62fKRT7b73X7tRxMuN2g",
+      "channelName": "박종훈의 지식한방",
+      "channelUrl": "@kpunch",
+      "channelDescription": "박종훈의 지식한방은 급변하는 국제질서와 빨라진 혁신 속도를 따라잡기 위해 세계경제와 지정학적인 변화를 추적하고 이를 통해 우리의 미래를 조망하고 대처할 수 있는 길을 모색하는 채널입니다.\n\n강연 및 협업문의\n✉️ econopunch@gmail.com\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/zsC1hpzdAouTryoT06lSKsSaaU8jlggb9GKrQBHn5nexO-2Dw-UC_CmNBEjdjbd1KztCUySTUA=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/zsC1hpzdAouTryoT06lSKsSaaU8jlggb9GKrQBHn5nexO-2Dw-UC_CmNBEjdjbd1KztCUySTUA=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/zsC1hpzdAouTryoT06lSKsSaaU8jlggb9GKrQBHn5nexO-2Dw-UC_CmNBEjdjbd1KztCUySTUA=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 777000,
+      "viewCount": 111320909,
+      "videoCount": 275,
+      "lastUpdated": "2025-08-22T09:49:36.877874Z"
     }
   },
-  "lastUpdated": "2025-08-21T10:43:25.587511Z",
-  "totalVideos": 139,
-  "totalChannels": 8
+  "lastUpdated": "2025-08-22T09:49:36.878368Z",
+  "totalVideos": 140,
+  "totalChannels": 9
 }

@@ -3989,6 +3989,23 @@
       "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
       "channelName": "뉴스TVCHOSUN",
       "collectedAt": "2025-08-21T10:43:25.236005Z"
+    },
+    "_28MNIE7www": {
+      "videoId": "_28MNIE7www",
+      "title": "일자리 81만개 실종, 연준 0.5% 금리인하 기폭제될까? (박종훈의 지식한방)",
+      "description": "미국 통계에 대해서는 한번도 의심을 해본적이 없는데요, 이번에 미국의 신규 일자리수 감소는 충격적이었습니다. 무려 81만 8천개 일자리가 과대 계산됐다는 건데요, 사실 이에 대한 지적이 그동안 계속되면서 조작 논란도 많았거든요, 그래서 이번에 연준의 금리 결정을 앞두고 81만 8천개나 되는 일자리를 수정한 것이 일종의 금리 인하 명분을 쌓기 위한 것이 아니냐는 의심의 눈초리가 있습니다. 과연 일자리 81만 8천개 증발 여파는 어떻게 될까요?\n\n\n✉️ 강연 및 협업 문의\neconopunch@gmail.com",
+      "publishedAt": "2024-08-22T10:45:01Z",
+      "duration": "PT17M34S",
+      "viewCount": 223539,
+      "likeCount": 9428,
+      "commentCount": 646,
+      "tags": [],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2024-08-22T10:45:01Z",
+      "channelId": "UCOB62fKRT7b73X7tRxMuN2g",
+      "channelName": "박종훈의 지식한방",
+      "collectedAt": "2025-08-22T09:49:36.784906Z"
     }
   },
   "channels": {
@@ -4180,9 +4197,36 @@
       "viewCount": 4319423561,
       "videoCount": 150855,
       "lastUpdated": "2025-08-21T10:25:19.476169Z"
+    },
+    "UCOB62fKRT7b73X7tRxMuN2g": {
+      "channelId": "UCOB62fKRT7b73X7tRxMuN2g",
+      "channelName": "박종훈의 지식한방",
+      "channelUrl": "@kpunch",
+      "channelDescription": "박종훈의 지식한방은 급변하는 국제질서와 빨라진 혁신 속도를 따라잡기 위해 세계경제와 지정학적인 변화를 추적하고 이를 통해 우리의 미래를 조망하고 대처할 수 있는 길을 모색하는 채널입니다.\n\n강연 및 협업문의\n✉️ econopunch@gmail.com\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/zsC1hpzdAouTryoT06lSKsSaaU8jlggb9GKrQBHn5nexO-2Dw-UC_CmNBEjdjbd1KztCUySTUA=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/zsC1hpzdAouTryoT06lSKsSaaU8jlggb9GKrQBHn5nexO-2Dw-UC_CmNBEjdjbd1KztCUySTUA=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/zsC1hpzdAouTryoT06lSKsSaaU8jlggb9GKrQBHn5nexO-2Dw-UC_CmNBEjdjbd1KztCUySTUA=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 777000,
+      "viewCount": 111320909,
+      "videoCount": 275,
+      "lastUpdated": "2025-08-22T09:49:36.784688Z"
     }
   },
-  "lastUpdated": "2025-08-21T10:43:25.236005Z",
-  "totalVideos": 141,
-  "totalChannels": 7
+  "lastUpdated": "2025-08-22T09:49:36.785043Z",
+  "totalVideos": 142,
+  "totalChannels": 8
 }

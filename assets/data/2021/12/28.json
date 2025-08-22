@@ -736,7 +736,7 @@
       "duration": "PT8M35S",
       "viewCount": 22005,
       "likeCount": 2863,
-      "commentCount": 275,
+      "commentCount": 272,
       "tags": [
         "문재인",
         "청와대",
@@ -747,16 +747,17 @@
         "동남권 철도",
         "메가시티",
         "부울경",
-        "울산 부산 철도"
+        "울산 부산 철도",
+        "동해남부선",
+        "철도 개통식",
+        "동남권 광역 철도"
       ],
-      "categoryId": "25",
-      "defaultLanguage": null,
-      "defaultAudioLanguage": "ko",
       "liveBroadcastContent": "none",
       "liveStreamingDetails": null,
+      "actualPubAt": "2021-12-28T06:33:25Z",
       "channelId": "UC7WMB_czX5jF__5kqT4d9Ww",
       "channelName": " 문재인정부 청와대",
-      "collectedAt": "2025-08-20T11:39:35.084211Z"
+      "collectedAt": "2025-08-22T09:49:39.072706Z"
     },
     "Dt-_gw2zQps": {
       "videoId": "Dt-_gw2zQps",
@@ -1950,9 +1951,9 @@
         }
       },
       "subscriberCount": 308000,
-      "viewCount": 58715833,
+      "viewCount": 58721295,
       "videoCount": 1549,
-      "lastUpdated": "2025-08-20T11:39:35.084211Z"
+      "lastUpdated": "2025-08-22T09:49:39.072538Z"
     },
     "UCcl16CxYqlbKQJVCfdhSJVw": {
       "channelId": "UCcl16CxYqlbKQJVCfdhSJVw",
@@ -2036,7 +2037,7 @@
       "lastUpdated": "2025-08-21T10:26:37.301533Z"
     }
   },
-  "lastUpdated": "2025-08-21T10:44:24.079198Z",
+  "lastUpdated": "2025-08-22T09:49:39.073033Z",
   "totalVideos": 64,
   "totalChannels": 8
 }

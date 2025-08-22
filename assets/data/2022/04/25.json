@@ -635,21 +635,19 @@
       "duration": "PT1M55S",
       "viewCount": 17911,
       "likeCount": 3809,
-      "commentCount": 417,
+      "commentCount": 416,
       "tags": [
         "문재인",
         "청와대",
         "대통령",
         "김정숙"
       ],
-      "categoryId": "25",
-      "defaultLanguage": null,
-      "defaultAudioLanguage": "ko",
       "liveBroadcastContent": "none",
       "liveStreamingDetails": null,
+      "actualPubAt": "2022-04-25T06:57:00Z",
       "channelId": "UC7WMB_czX5jF__5kqT4d9Ww",
       "channelName": " 문재인정부 청와대",
-      "collectedAt": "2025-08-20T11:39:34.276794Z"
+      "collectedAt": "2025-08-22T09:49:38.350515Z"
     },
     "eXDuKrw_FpA": {
       "videoId": "eXDuKrw_FpA",
@@ -657,7 +655,7 @@
       "description": "오늘 저녁 8시 50분, JTBC와 청와대 유튜브를 통해 문재인 대통령의 퇴임 전 마지막 인터뷰가 공개됩니다.\n\n문 대통령은 이번 인터뷰를 통해 국민과 함께 만든 임기 5년을 되짚고 소회를 밝힐 예정입니다. 코로나 대응, 부동산 정책 등 문재인 정부 5년 간의 정책에 대해서도 국민께 직접 말씀드릴 예정입니다.\n\n대담 2부는 내일 저녁 8시 50분에 방송됩니다.",
       "publishedAt": "2022-04-25T13:21:17Z",
       "duration": "PT1H29M25S",
-      "viewCount": 218362,
+      "viewCount": 218373,
       "likeCount": 27191,
       "commentCount": 2446,
       "tags": [
@@ -666,18 +664,16 @@
         "대통령",
         "김정숙"
       ],
-      "categoryId": "25",
-      "defaultLanguage": null,
-      "defaultAudioLanguage": "ko",
       "liveBroadcastContent": "none",
       "liveStreamingDetails": {
         "actualStartTime": "2022-04-25T11:45:18Z",
         "actualEndTime": "2022-04-25T13:14:31Z",
         "scheduledStartTime": "2022-04-25T11:50:05Z"
       },
+      "actualPubAt": "2022-04-25T11:45:18Z",
       "channelId": "UC7WMB_czX5jF__5kqT4d9Ww",
       "channelName": " 문재인정부 청와대",
-      "collectedAt": "2025-08-20T11:39:34.276794Z"
+      "collectedAt": "2025-08-22T09:49:38.350484Z"
     },
     "9Y6D0Nx0UlI": {
       "videoId": "9Y6D0Nx0UlI",
@@ -2204,9 +2200,9 @@
         }
       },
       "subscriberCount": 308000,
-      "viewCount": 58715833,
+      "viewCount": 58721295,
       "videoCount": 1549,
-      "lastUpdated": "2025-08-20T11:39:34.276794Z"
+      "lastUpdated": "2025-08-22T09:49:38.350305Z"
     },
     "UCcl16CxYqlbKQJVCfdhSJVw": {
       "channelId": "UCcl16CxYqlbKQJVCfdhSJVw",
@@ -2290,7 +2286,7 @@
       "lastUpdated": "2025-08-21T10:26:34.706750Z"
     }
   },
-  "lastUpdated": "2025-08-21T10:44:22.398659Z",
+  "lastUpdated": "2025-08-22T09:49:38.350627Z",
   "totalVideos": 71,
   "totalChannels": 8
 }

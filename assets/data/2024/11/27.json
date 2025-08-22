@@ -1660,18 +1660,16 @@
       "description": "",
       "publishedAt": "2024-11-27T11:22:23Z",
       "duration": "PT4M43S",
-      "viewCount": 78887,
-      "likeCount": 3139,
+      "viewCount": 78897,
+      "likeCount": 3140,
       "commentCount": 458,
       "tags": [],
-      "categoryId": "25",
-      "defaultLanguage": "ko",
-      "defaultAudioLanguage": "en",
       "liveBroadcastContent": "none",
       "liveStreamingDetails": null,
+      "actualPubAt": "2024-11-27T11:22:23Z",
       "channelId": "UCcl16CxYqlbKQJVCfdhSJVw",
       "channelName": "윤석열",
-      "collectedAt": "2025-08-20T11:38:32.142984Z"
+      "collectedAt": "2025-08-22T09:49:40.055804Z"
     },
     "yY2dPhXwqCU": {
       "videoId": "yY2dPhXwqCU",
@@ -1679,8 +1677,8 @@
       "description": "윤석열 대통령은 11월 27일 용산 대통령실에서\n중장 진급자에게 삼정검 수치를 수여했습니다.\n\n오늘의 주인공은\n주일석 해병대사령관\n강정호 해군교육사령관\n김경률 해군사관학교장\n손정환 합참 전략기획본부장\n박기완 공군참모차장\n차준선 공군사관학교장인데요,\n\n영광의 얼굴들은 윤니크를 통해 확인하세요.\n\n#윤석열대통령 #삼정검 #수치 #장군",
       "publishedAt": "2024-11-27T10:36:18Z",
       "duration": "PT4M43S",
-      "viewCount": 155130,
-      "likeCount": 5538,
+      "viewCount": 155135,
+      "likeCount": 5537,
       "commentCount": 652,
       "tags": [
         "윤석열대통령",
@@ -1692,16 +1690,18 @@
         "해병대",
         "해군",
         "합참",
-        "공군"
+        "공군",
+        "공군사관학교",
+        "삼정검수여",
+        "군인",
+        "국방력"
       ],
-      "categoryId": "25",
-      "defaultLanguage": null,
-      "defaultAudioLanguage": "ko",
       "liveBroadcastContent": "none",
       "liveStreamingDetails": null,
+      "actualPubAt": "2024-11-27T10:36:18Z",
       "channelId": "UCydbI9p3_8DeteSBbnv0tuA",
       "channelName": "윤석열 정부 영상 아카이브",
-      "collectedAt": "2025-08-20T11:38:32.142984Z"
+      "collectedAt": "2025-08-22T09:49:40.056635Z"
     },
     "r3Y0yeFSDj8": {
       "videoId": "r3Y0yeFSDj8",
@@ -1709,18 +1709,16 @@
       "description": "#해군 #육군 #공군  #중장 #threestar",
       "publishedAt": "2024-11-27T08:22:29Z",
       "duration": "PT59S",
-      "viewCount": 13777,
+      "viewCount": 13795,
       "likeCount": 1454,
       "commentCount": 87,
       "tags": [],
-      "categoryId": "25",
-      "defaultLanguage": null,
-      "defaultAudioLanguage": "ko",
       "liveBroadcastContent": "none",
       "liveStreamingDetails": null,
+      "actualPubAt": "2024-11-27T08:22:29Z",
       "channelId": "UCydbI9p3_8DeteSBbnv0tuA",
       "channelName": "윤석열 정부 영상 아카이브",
-      "collectedAt": "2025-08-20T11:38:32.142984Z"
+      "collectedAt": "2025-08-22T09:49:40.056666Z"
     },
     "KWc4Yiua_zQ": {
       "videoId": "KWc4Yiua_zQ",
@@ -5478,9 +5476,9 @@
         }
       },
       "subscriberCount": 754000,
-      "viewCount": 157172619,
+      "viewCount": 157203981,
       "videoCount": 3538,
-      "lastUpdated": "2025-08-20T11:38:32.141988Z"
+      "lastUpdated": "2025-08-22T09:49:40.055554Z"
     },
     "UCydbI9p3_8DeteSBbnv0tuA": {
       "channelId": "UCydbI9p3_8DeteSBbnv0tuA",
@@ -5505,9 +5503,9 @@
         }
       },
       "subscriberCount": 255000,
-      "viewCount": 109575768,
+      "viewCount": 109583289,
       "videoCount": 2854,
-      "lastUpdated": "2025-08-20T11:38:32.142984Z"
+      "lastUpdated": "2025-08-22T09:49:40.056434Z"
     },
     "UCNJM6dqu70Qr6VaseiW1Org": {
       "channelId": "UCNJM6dqu70Qr6VaseiW1Org",
@@ -5564,7 +5562,7 @@
       "lastUpdated": "2025-08-21T10:25:13.212894Z"
     }
   },
-  "lastUpdated": "2025-08-21T10:43:18.526248Z",
+  "lastUpdated": "2025-08-22T09:49:40.056862Z",
   "totalVideos": 189,
   "totalChannels": 9
 }

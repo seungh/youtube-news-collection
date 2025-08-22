@@ -974,16 +974,17 @@
         "2022년",
         "무역",
         "공급망",
-        "자유무역협정"
+        "자유무역협정",
+        "RCEP",
+        "대통령의말",
+        "청년"
       ],
-      "categoryId": "25",
-      "defaultLanguage": null,
-      "defaultAudioLanguage": "ko",
       "liveBroadcastContent": "none",
       "liveStreamingDetails": null,
+      "actualPubAt": "2022-01-04T05:06:22Z",
       "channelId": "UC7WMB_czX5jF__5kqT4d9Ww",
       "channelName": " 문재인정부 청와대",
-      "collectedAt": "2025-08-20T11:39:17.081447Z"
+      "collectedAt": "2025-08-22T09:49:39.035101Z"
     },
     "OCS_C4K1wKI": {
       "videoId": "OCS_C4K1wKI",
@@ -2416,9 +2417,9 @@
         }
       },
       "subscriberCount": 308000,
-      "viewCount": 58715833,
+      "viewCount": 58721295,
       "videoCount": 1549,
-      "lastUpdated": "2025-08-20T11:39:17.081447Z"
+      "lastUpdated": "2025-08-22T09:49:39.034950Z"
     },
     "UCNJM6dqu70Qr6VaseiW1Org": {
       "channelId": "UCNJM6dqu70Qr6VaseiW1Org",
@@ -2475,7 +2476,7 @@
       "lastUpdated": "2025-08-21T10:26:45.737310Z"
     }
   },
-  "lastUpdated": "2025-08-21T10:44:31.537311Z",
+  "lastUpdated": "2025-08-22T09:49:39.035212Z",
   "totalVideos": 80,
   "totalChannels": 7
 }

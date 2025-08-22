@@ -690,7 +690,7 @@
       "publishedAt": "2021-10-05T06:58:01Z",
       "duration": "PT12M",
       "viewCount": 13845,
-      "likeCount": 4114,
+      "likeCount": 4113,
       "commentCount": 402,
       "tags": [
         "문재인",
@@ -702,16 +702,16 @@
         "한인의날",
         "재외동포",
         "한인회장",
-        "동포"
+        "동포",
+        "제15회세계한인의날",
+        "한인사회"
       ],
-      "categoryId": "25",
-      "defaultLanguage": null,
-      "defaultAudioLanguage": "ko",
       "liveBroadcastContent": "none",
       "liveStreamingDetails": null,
+      "actualPubAt": "2021-10-05T06:58:01Z",
       "channelId": "UC7WMB_czX5jF__5kqT4d9Ww",
       "channelName": " 문재인정부 청와대",
-      "collectedAt": "2025-08-20T11:39:36.158800Z"
+      "collectedAt": "2025-08-22T09:49:39.803942Z"
     },
     "Ef9W7ti2usc": {
       "videoId": "Ef9W7ti2usc",
@@ -2076,9 +2076,9 @@
         }
       },
       "subscriberCount": 308000,
-      "viewCount": 58715833,
+      "viewCount": 58721295,
       "videoCount": 1549,
-      "lastUpdated": "2025-08-20T11:39:36.158800Z"
+      "lastUpdated": "2025-08-22T09:49:39.803668Z"
     },
     "UCNJM6dqu70Qr6VaseiW1Org": {
       "channelId": "UCNJM6dqu70Qr6VaseiW1Org",
@@ -2135,7 +2135,7 @@
       "lastUpdated": "2025-08-21T10:26:42.500977Z"
     }
   },
-  "lastUpdated": "2025-08-21T10:44:28.218561Z",
+  "lastUpdated": "2025-08-22T09:49:39.804094Z",
   "totalVideos": 67,
   "totalChannels": 7
 }

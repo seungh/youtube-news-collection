@@ -1618,9 +1618,9 @@
       "description": "",
       "publishedAt": "2024-12-05T00:31:59Z",
       "duration": "PT1M9S",
-      "viewCount": 160601,
-      "likeCount": 5052,
-      "commentCount": 3088,
+      "viewCount": 160639,
+      "likeCount": 5051,
+      "commentCount": 3087,
       "tags": [
         "윤석열",
         "대통령",
@@ -1629,14 +1629,12 @@
         "윤석열 유튜브",
         "대한민국 대통령실"
       ],
-      "categoryId": "25",
-      "defaultLanguage": "ko",
-      "defaultAudioLanguage": "en",
       "liveBroadcastContent": "none",
       "liveStreamingDetails": null,
+      "actualPubAt": "2024-12-05T00:31:59Z",
       "channelId": "UCcl16CxYqlbKQJVCfdhSJVw",
       "channelName": "윤석열",
-      "collectedAt": "2025-08-20T11:38:38.497201Z"
+      "collectedAt": "2025-08-22T09:49:39.943894Z"
     },
     "QqKHboSdz7I": {
       "videoId": "QqKHboSdz7I",
@@ -1644,8 +1642,8 @@
       "description": "✔윤 대통령, 김용현 국방부 장관 면직안 재가\n\n✔국방부 장관 후보자, 최병혁 주사우디아라비아 대사\n\n✔제22사단장·제5군단장·한미연합사 부사령관 역임\n▪️국방·안보 전반에 넓은 식견···작전 전문가\n▪️헌신적으로 임무 완수···원칙주의자\n▪️국방안보 분야 풍부한 경험·높은 식견\n▪️군 본연의 임무 확실히 수행할 적임자\n-\n\n#대통령실 #비서실장 #브리핑\n\n🔹일시 : 2024. 12.5. (목) 8:30\n🔹장소 : 대통령실 브리핑룸\n🔹발표 : 정진석 비서실장",
       "publishedAt": "2024-12-05T01:25:41Z",
       "duration": "PT1M9S",
-      "viewCount": 24188,
-      "likeCount": 3462,
+      "viewCount": 24187,
+      "likeCount": 3461,
       "commentCount": 682,
       "tags": [
         "정부",
@@ -1657,20 +1655,33 @@
         "사의",
         "면직",
         "재가",
-        "신임"
+        "신임",
+        "후보",
+        "사우디라아비아",
+        "대사",
+        "육사",
+        "사단장",
+        "군단장",
+        "예비역",
+        "한미연합사령부",
+        "전방",
+        "야전",
+        "식견",
+        "규정",
+        "원칙주의자",
+        "한미동맹",
+        "군대비태세"
       ],
-      "categoryId": "25",
-      "defaultLanguage": null,
-      "defaultAudioLanguage": "ko",
       "liveBroadcastContent": "none",
       "liveStreamingDetails": {
         "actualStartTime": "2024-12-05T00:57:49Z",
         "actualEndTime": "2024-12-05T01:02:34Z",
         "scheduledStartTime": "2024-12-05T01:00:00Z"
       },
+      "actualPubAt": "2024-12-05T00:57:49Z",
       "channelId": "UCydbI9p3_8DeteSBbnv0tuA",
       "channelName": "윤석열 정부 영상 아카이브",
-      "collectedAt": "2025-08-20T11:38:38.498199Z"
+      "collectedAt": "2025-08-22T09:49:39.944543Z"
     },
     "yppSx4-DFNg": {
       "videoId": "yppSx4-DFNg",
@@ -6140,9 +6151,9 @@
         }
       },
       "subscriberCount": 754000,
-      "viewCount": 157172619,
+      "viewCount": 157203981,
       "videoCount": 3538,
-      "lastUpdated": "2025-08-20T11:38:38.497201Z"
+      "lastUpdated": "2025-08-22T09:49:39.943720Z"
     },
     "UCydbI9p3_8DeteSBbnv0tuA": {
       "channelId": "UCydbI9p3_8DeteSBbnv0tuA",
@@ -6167,9 +6178,9 @@
         }
       },
       "subscriberCount": 255000,
-      "viewCount": 109575768,
+      "viewCount": 109583289,
       "videoCount": 2854,
-      "lastUpdated": "2025-08-20T11:38:38.497201Z"
+      "lastUpdated": "2025-08-22T09:49:39.944390Z"
     },
     "UCNJM6dqu70Qr6VaseiW1Org": {
       "channelId": "UCNJM6dqu70Qr6VaseiW1Org",
@@ -6226,7 +6237,7 @@
       "lastUpdated": "2025-08-21T10:25:12.644804Z"
     }
   },
-  "lastUpdated": "2025-08-21T10:43:17.107038Z",
+  "lastUpdated": "2025-08-22T09:49:39.944685Z",
   "totalVideos": 212,
   "totalChannels": 9
 }

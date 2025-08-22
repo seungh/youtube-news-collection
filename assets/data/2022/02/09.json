@@ -719,14 +719,12 @@
         "동남아프로그램",
         "아세안"
       ],
-      "categoryId": "25",
-      "defaultLanguage": null,
-      "defaultAudioLanguage": "ko",
       "liveBroadcastContent": "none",
       "liveStreamingDetails": null,
+      "actualPubAt": "2022-02-09T09:30:04Z",
       "channelId": "UC7WMB_czX5jF__5kqT4d9Ww",
       "channelName": " 문재인정부 청와대",
-      "collectedAt": "2025-08-20T11:39:16.911706Z"
+      "collectedAt": "2025-08-22T09:49:38.778407Z"
     },
     "H8MJyqSjMtE": {
       "videoId": "H8MJyqSjMtE",
@@ -747,16 +745,16 @@
         "OECD사무총장",
         "코먼사무총장",
         "동남아프로그램",
-        "각료회의"
+        "각료회의",
+        "OECD25주년",
+        "대통령의말"
       ],
-      "categoryId": "25",
-      "defaultLanguage": null,
-      "defaultAudioLanguage": "ko",
       "liveBroadcastContent": "none",
       "liveStreamingDetails": null,
+      "actualPubAt": "2022-02-09T08:37:49Z",
       "channelId": "UC7WMB_czX5jF__5kqT4d9Ww",
       "channelName": " 문재인정부 청와대",
-      "collectedAt": "2025-08-20T11:39:16.911706Z"
+      "collectedAt": "2025-08-22T09:49:38.778436Z"
     },
     "oPm6k0aYEMI": {
       "videoId": "oPm6k0aYEMI",
@@ -2169,9 +2167,9 @@
         }
       },
       "subscriberCount": 308000,
-      "viewCount": 58715833,
+      "viewCount": 58721295,
       "videoCount": 1549,
-      "lastUpdated": "2025-08-20T11:39:16.911706Z"
+      "lastUpdated": "2025-08-22T09:49:38.778235Z"
     },
     "UCcl16CxYqlbKQJVCfdhSJVw": {
       "channelId": "UCcl16CxYqlbKQJVCfdhSJVw",
@@ -2255,7 +2253,7 @@
       "lastUpdated": "2025-08-21T10:26:48.304177Z"
     }
   },
-  "lastUpdated": "2025-08-21T10:44:33.813006Z",
+  "lastUpdated": "2025-08-22T09:49:38.778562Z",
   "totalVideos": 75,
   "totalChannels": 8
 }

@@ -910,16 +910,18 @@
         "조선소 재가동",
         "현대중공업",
         "군산 현대중공업",
-        "군산 조선"
+        "군산 조선",
+        "군산 조선소",
+        "문재인 군산",
+        "문재인 조선소",
+        "문재인정부 조선소"
       ],
-      "categoryId": "25",
-      "defaultLanguage": null,
-      "defaultAudioLanguage": "ko",
       "liveBroadcastContent": "none",
       "liveStreamingDetails": null,
+      "actualPubAt": "2022-02-24T09:38:04Z",
       "channelId": "UC7WMB_czX5jF__5kqT4d9Ww",
       "channelName": " 문재인정부 청와대",
-      "collectedAt": "2025-08-20T11:39:34.580236Z"
+      "collectedAt": "2025-08-22T09:49:38.675406Z"
     },
     "-1x4BWDGn3o": {
       "videoId": "-1x4BWDGn3o",
@@ -936,14 +938,12 @@
         "대통령",
         "김정숙"
       ],
-      "categoryId": "25",
-      "defaultLanguage": null,
-      "defaultAudioLanguage": "ko",
       "liveBroadcastContent": "none",
       "liveStreamingDetails": null,
+      "actualPubAt": "2022-02-24T03:18:12Z",
       "channelId": "UC7WMB_czX5jF__5kqT4d9Ww",
       "channelName": " 문재인정부 청와대",
-      "collectedAt": "2025-08-20T11:39:34.580236Z"
+      "collectedAt": "2025-08-22T09:49:38.675453Z"
     },
     "WyK6U75usqs": {
       "videoId": "WyK6U75usqs",
@@ -2505,9 +2505,9 @@
         }
       },
       "subscriberCount": 308000,
-      "viewCount": 58715833,
+      "viewCount": 58721295,
       "videoCount": 1549,
-      "lastUpdated": "2025-08-20T11:39:34.580236Z"
+      "lastUpdated": "2025-08-22T09:49:38.675137Z"
     },
     "UCcl16CxYqlbKQJVCfdhSJVw": {
       "channelId": "UCcl16CxYqlbKQJVCfdhSJVw",
@@ -2591,7 +2591,7 @@
       "lastUpdated": "2025-08-21T10:26:49.157696Z"
     }
   },
-  "lastUpdated": "2025-08-21T10:44:34.741450Z",
+  "lastUpdated": "2025-08-22T09:49:38.675596Z",
   "totalVideos": 85,
   "totalChannels": 8
 }

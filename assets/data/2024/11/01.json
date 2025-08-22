@@ -1957,14 +1957,12 @@
       "likeCount": 2223,
       "commentCount": 201,
       "tags": [],
-      "categoryId": "25",
-      "defaultLanguage": "ko",
-      "defaultAudioLanguage": "ko",
       "liveBroadcastContent": "none",
       "liveStreamingDetails": null,
+      "actualPubAt": "2024-11-01T02:04:44Z",
       "channelId": "UCydbI9p3_8DeteSBbnv0tuA",
       "channelName": "윤석열 정부 영상 아카이브",
-      "collectedAt": "2025-08-20T11:38:39.137605Z"
+      "collectedAt": "2025-08-22T09:49:36.064554Z"
     },
     "NXentWYjhI4": {
       "videoId": "NXentWYjhI4",
@@ -5475,6 +5473,23 @@
       "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
       "channelName": "뉴스TVCHOSUN",
       "collectedAt": "2025-08-21T10:43:20.561180Z"
+    },
+    "P0J-oTlgA2A": {
+      "videoId": "P0J-oTlgA2A",
+      "title": "갑자기 추락한 미국 증시, 진짜 원인은 이겁니다 (박종훈의 지식한방)",
+      "description": "나스닥 지수가 최근 급격한 변동성을 보이고 있는데요, 이렇게 변동성을 보이고 있는 근본적인 원인은 금리 상승과 인플레 위협이라고 할 수 있습니다. 대선을 앞둔 미국 증시의 변동성 장세는 계속될 수 밖에 없는데요, 향후 전망을 짚어봤습니다.\n✉️ 강연 및 협업 문의\neconopunch@gmail.com",
+      "publishedAt": "2024-11-01T02:15:02Z",
+      "duration": "PT21M33S",
+      "viewCount": 403289,
+      "likeCount": 15944,
+      "commentCount": 963,
+      "tags": [],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2024-11-01T02:15:02Z",
+      "channelId": "UCOB62fKRT7b73X7tRxMuN2g",
+      "channelName": "박종훈의 지식한방",
+      "collectedAt": "2025-08-22T09:49:36.064177Z"
     }
   },
   "channels": {
@@ -5636,9 +5651,9 @@
         }
       },
       "subscriberCount": 255000,
-      "viewCount": 109575768,
+      "viewCount": 109583289,
       "videoCount": 2854,
-      "lastUpdated": "2025-08-20T11:38:39.133352Z"
+      "lastUpdated": "2025-08-22T09:49:36.064428Z"
     },
     "UCNJM6dqu70Qr6VaseiW1Org": {
       "channelId": "UCNJM6dqu70Qr6VaseiW1Org",
@@ -5693,9 +5708,36 @@
       "viewCount": 4319423561,
       "videoCount": 150855,
       "lastUpdated": "2025-08-21T10:25:14.862660Z"
+    },
+    "UCOB62fKRT7b73X7tRxMuN2g": {
+      "channelId": "UCOB62fKRT7b73X7tRxMuN2g",
+      "channelName": "박종훈의 지식한방",
+      "channelUrl": "@kpunch",
+      "channelDescription": "박종훈의 지식한방은 급변하는 국제질서와 빨라진 혁신 속도를 따라잡기 위해 세계경제와 지정학적인 변화를 추적하고 이를 통해 우리의 미래를 조망하고 대처할 수 있는 길을 모색하는 채널입니다.\n\n강연 및 협업문의\n✉️ econopunch@gmail.com\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/zsC1hpzdAouTryoT06lSKsSaaU8jlggb9GKrQBHn5nexO-2Dw-UC_CmNBEjdjbd1KztCUySTUA=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/zsC1hpzdAouTryoT06lSKsSaaU8jlggb9GKrQBHn5nexO-2Dw-UC_CmNBEjdjbd1KztCUySTUA=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/zsC1hpzdAouTryoT06lSKsSaaU8jlggb9GKrQBHn5nexO-2Dw-UC_CmNBEjdjbd1KztCUySTUA=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 777000,
+      "viewCount": 111320909,
+      "videoCount": 275,
+      "lastUpdated": "2025-08-22T09:49:36.064039Z"
     }
   },
-  "lastUpdated": "2025-08-21T10:43:20.561709Z",
-  "totalVideos": 198,
-  "totalChannels": 8
+  "lastUpdated": "2025-08-22T09:49:36.064665Z",
+  "totalVideos": 199,
+  "totalChannels": 9
 }

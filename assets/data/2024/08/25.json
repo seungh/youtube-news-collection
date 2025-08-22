@@ -1398,6 +1398,40 @@
       "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
       "channelName": "뉴스TVCHOSUN",
       "collectedAt": "2025-08-21T10:43:54.825425Z"
+    },
+    "rtLWagepgFU": {
+      "videoId": "rtLWagepgFU",
+      "title": "이스라엘의 헤즈볼라 선제타격, 이란까지 움직일까? (박종훈의 지식한방)",
+      "description": "8월 26일 이스라엘 하마스 휴전 협상을 하루 앞두고 25일 이스라엘이 헤즈볼라를 공격했습니다. 선제타격의 이유로 헤즈볼라의 공격 준비를 들었는데요, 과연 이 선제타격의 의미는 무엇이고, 앞으로 향방은 어떻게 흘러가게 될까요? \n\n✉️ 강연 및 협업 문의\neconopunch@gmail.com",
+      "publishedAt": "2024-08-25T09:10:02Z",
+      "duration": "PT17M5S",
+      "viewCount": 276359,
+      "likeCount": 12346,
+      "commentCount": 800,
+      "tags": [],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2024-08-25T09:10:02Z",
+      "channelId": "UCOB62fKRT7b73X7tRxMuN2g",
+      "channelName": "박종훈의 지식한방",
+      "collectedAt": "2025-08-22T09:49:36.754445Z"
+    },
+    "lZoGMA5cjyg": {
+      "videoId": "lZoGMA5cjyg",
+      "title": "중국 청년 실업 대란, 취업 포기한 청년들의 선택은? (박종훈의 지식한방)",
+      "description": "중국의 청년 실업 문제가 점점 더 심각해지고 있습니다. 중국의 청년 실업률이 치솟아 오르자 지난해 6월 이후 아예 통계 발표 자체를 중단했는데요, 그 뒤 23년 12월부터 집계 방식을 바꾸면서 청년 실업률이 대폭 낮아졌습니다. 이에 대해 통계를 조작하는 것 아니냐는 비판이 있었는데요, 지난 7월에는 그 바뀐 통계마저 급상승한 것으로 나타나면서 중국의 청년 실업문제가 점입가경으로 악화되고 있는 것으로 나타났습니다.\n\n✉️ 강연 및 협업 문의\neconopunch@gmail.com",
+      "publishedAt": "2024-08-24T23:01:02Z",
+      "duration": "PT19M34S",
+      "viewCount": 300581,
+      "likeCount": 11822,
+      "commentCount": 1088,
+      "tags": [],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2024-08-24T23:01:02Z",
+      "channelId": "UCOB62fKRT7b73X7tRxMuN2g",
+      "channelName": "박종훈의 지식한방",
+      "collectedAt": "2025-08-22T09:49:36.754506Z"
     }
   },
   "channels": {
@@ -1454,9 +1488,36 @@
       "viewCount": 4319423561,
       "videoCount": 150855,
       "lastUpdated": "2025-08-21T10:25:57.100048Z"
+    },
+    "UCOB62fKRT7b73X7tRxMuN2g": {
+      "channelId": "UCOB62fKRT7b73X7tRxMuN2g",
+      "channelName": "박종훈의 지식한방",
+      "channelUrl": "@kpunch",
+      "channelDescription": "박종훈의 지식한방은 급변하는 국제질서와 빨라진 혁신 속도를 따라잡기 위해 세계경제와 지정학적인 변화를 추적하고 이를 통해 우리의 미래를 조망하고 대처할 수 있는 길을 모색하는 채널입니다.\n\n강연 및 협업문의\n✉️ econopunch@gmail.com\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/zsC1hpzdAouTryoT06lSKsSaaU8jlggb9GKrQBHn5nexO-2Dw-UC_CmNBEjdjbd1KztCUySTUA=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/zsC1hpzdAouTryoT06lSKsSaaU8jlggb9GKrQBHn5nexO-2Dw-UC_CmNBEjdjbd1KztCUySTUA=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/zsC1hpzdAouTryoT06lSKsSaaU8jlggb9GKrQBHn5nexO-2Dw-UC_CmNBEjdjbd1KztCUySTUA=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 777000,
+      "viewCount": 111320909,
+      "videoCount": 275,
+      "lastUpdated": "2025-08-22T09:49:36.754297Z"
     }
   },
-  "lastUpdated": "2025-08-21T10:43:54.825425Z",
-  "totalVideos": 50,
-  "totalChannels": 2
+  "lastUpdated": "2025-08-22T09:49:36.754625Z",
+  "totalVideos": 52,
+  "totalChannels": 3
 }

@@ -915,7 +915,7 @@
       "publishedAt": "2022-04-28T10:19:02Z",
       "duration": "PT5M51S",
       "viewCount": 25922,
-      "likeCount": 6242,
+      "likeCount": 6241,
       "commentCount": 669,
       "tags": [
         "문재인",
@@ -923,14 +923,12 @@
         "대통령",
         "김정숙"
       ],
-      "categoryId": "25",
-      "defaultLanguage": null,
-      "defaultAudioLanguage": "ko",
       "liveBroadcastContent": "none",
       "liveStreamingDetails": null,
+      "actualPubAt": "2022-04-28T10:19:02Z",
       "channelId": "UC7WMB_czX5jF__5kqT4d9Ww",
       "channelName": " 문재인정부 청와대",
-      "collectedAt": "2025-08-20T11:39:13.795924Z"
+      "collectedAt": "2025-08-22T09:49:38.323374Z"
     },
     "fewRTWxPDEo": {
       "videoId": "fewRTWxPDEo",
@@ -2337,9 +2335,9 @@
         }
       },
       "subscriberCount": 308000,
-      "viewCount": 58715833,
+      "viewCount": 58721295,
       "videoCount": 1549,
-      "lastUpdated": "2025-08-20T11:39:13.795924Z"
+      "lastUpdated": "2025-08-22T09:49:38.323105Z"
     },
     "UCcl16CxYqlbKQJVCfdhSJVw": {
       "channelId": "UCcl16CxYqlbKQJVCfdhSJVw",
@@ -2423,7 +2421,7 @@
       "lastUpdated": "2025-08-21T10:26:34.278227Z"
     }
   },
-  "lastUpdated": "2025-08-21T10:44:22.263543Z",
+  "lastUpdated": "2025-08-22T09:49:38.323502Z",
   "totalVideos": 79,
   "totalChannels": 8
 }

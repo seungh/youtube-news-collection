@@ -1103,7 +1103,7 @@
       "publishedAt": "2021-11-04T15:00:49Z",
       "duration": "PT26M28S",
       "viewCount": 116499,
-      "likeCount": 9518,
+      "likeCount": 9517,
       "commentCount": 768,
       "tags": [
         "문재인",
@@ -1111,18 +1111,16 @@
         "대통령",
         "김정숙"
       ],
-      "categoryId": "25",
-      "defaultLanguage": null,
-      "defaultAudioLanguage": "ko",
       "liveBroadcastContent": "none",
       "liveStreamingDetails": {
         "actualStartTime": "2021-11-04T15:00:49Z",
         "actualEndTime": "2021-11-04T15:29:13Z",
         "scheduledStartTime": "2021-11-04T15:00:28Z"
       },
+      "actualPubAt": "2021-11-04T15:00:49Z",
       "channelId": "UC7WMB_czX5jF__5kqT4d9Ww",
       "channelName": " 문재인정부 청와대",
-      "collectedAt": "2025-08-20T11:39:35.559118Z"
+      "collectedAt": "2025-08-22T09:49:39.483563Z"
     },
     "t8184BR2Sb8": {
       "videoId": "t8184BR2Sb8",
@@ -1145,14 +1143,12 @@
         "헝가리",
         "COP26"
       ],
-      "categoryId": "25",
-      "defaultLanguage": "ko",
-      "defaultAudioLanguage": "ko",
       "liveBroadcastContent": "none",
       "liveStreamingDetails": null,
+      "actualPubAt": "2021-11-05T09:57:29Z",
       "channelId": "UC7WMB_czX5jF__5kqT4d9Ww",
       "channelName": " 문재인정부 청와대",
-      "collectedAt": "2025-08-20T11:39:35.559118Z"
+      "collectedAt": "2025-08-22T09:49:39.483526Z"
     },
     "t7glVe5dHqQ": {
       "videoId": "t7glVe5dHqQ",
@@ -2267,9 +2263,9 @@
         }
       },
       "subscriberCount": 308000,
-      "viewCount": 58715833,
+      "viewCount": 58721295,
       "videoCount": 1549,
-      "lastUpdated": "2025-08-20T11:39:35.559118Z"
+      "lastUpdated": "2025-08-22T09:49:39.483329Z"
     },
     "UCcl16CxYqlbKQJVCfdhSJVw": {
       "channelId": "UCcl16CxYqlbKQJVCfdhSJVw",
@@ -2353,7 +2349,7 @@
       "lastUpdated": "2025-08-21T10:26:44.286294Z"
     }
   },
-  "lastUpdated": "2025-08-21T10:44:29.984913Z",
+  "lastUpdated": "2025-08-22T09:49:39.483724Z",
   "totalVideos": 79,
   "totalChannels": 8
 }

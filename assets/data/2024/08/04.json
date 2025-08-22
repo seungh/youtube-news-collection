@@ -1060,6 +1060,23 @@
       "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
       "channelName": "뉴스TVCHOSUN",
       "collectedAt": "2025-08-21T10:43:55.091776Z"
+    },
+    "r93zOIXiG_M": {
+      "videoId": "r93zOIXiG_M",
+      "title": "단 한 번의 하락장에 전 재산을 잃는 이유 (박종훈의 지식한방)",
+      "description": "미국 증시가 연일 급락하면서 어느 때보다 변동성이 커졌는데요, 이럴 때일수록 흔들리지 않는 투자 중심이 필요한 때인 것 같습니다. 만일 주가 등락과 함께 주식을 사고팔면 주가지수가 20% 하락할 때 전 재산을 잃어버리는 경우도 있는데요, 복잡계 경제학 시각에서 변동성 장세에 대처하는 방법을 모색해 봤습니다.\n\n\n✉️ 강연 및 협업 문의\neconopunch@gmail.com",
+      "publishedAt": "2024-08-04T01:00:23Z",
+      "duration": "PT21M55S",
+      "viewCount": 1008276,
+      "likeCount": 33448,
+      "commentCount": 2245,
+      "tags": [],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2024-08-04T01:00:23Z",
+      "channelId": "UCOB62fKRT7b73X7tRxMuN2g",
+      "channelName": "박종훈의 지식한방",
+      "collectedAt": "2025-08-22T09:49:37.023059Z"
     }
   },
   "channels": {
@@ -1116,9 +1133,36 @@
       "viewCount": 4319423561,
       "videoCount": 150855,
       "lastUpdated": "2025-08-21T10:25:57.565457Z"
+    },
+    "UCOB62fKRT7b73X7tRxMuN2g": {
+      "channelId": "UCOB62fKRT7b73X7tRxMuN2g",
+      "channelName": "박종훈의 지식한방",
+      "channelUrl": "@kpunch",
+      "channelDescription": "박종훈의 지식한방은 급변하는 국제질서와 빨라진 혁신 속도를 따라잡기 위해 세계경제와 지정학적인 변화를 추적하고 이를 통해 우리의 미래를 조망하고 대처할 수 있는 길을 모색하는 채널입니다.\n\n강연 및 협업문의\n✉️ econopunch@gmail.com\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/zsC1hpzdAouTryoT06lSKsSaaU8jlggb9GKrQBHn5nexO-2Dw-UC_CmNBEjdjbd1KztCUySTUA=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/zsC1hpzdAouTryoT06lSKsSaaU8jlggb9GKrQBHn5nexO-2Dw-UC_CmNBEjdjbd1KztCUySTUA=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/zsC1hpzdAouTryoT06lSKsSaaU8jlggb9GKrQBHn5nexO-2Dw-UC_CmNBEjdjbd1KztCUySTUA=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 777000,
+      "viewCount": 111320909,
+      "videoCount": 275,
+      "lastUpdated": "2025-08-22T09:49:37.022823Z"
     }
   },
-  "lastUpdated": "2025-08-21T10:43:55.091776Z",
-  "totalVideos": 38,
-  "totalChannels": 2
+  "lastUpdated": "2025-08-22T09:49:37.023218Z",
+  "totalVideos": 39,
+  "totalChannels": 3
 }

@@ -378,9 +378,9 @@
       "description": "",
       "publishedAt": "2024-12-14T09:18:35Z",
       "duration": "PT4M30S",
-      "viewCount": 2774400,
-      "likeCount": 130819,
-      "commentCount": 88326,
+      "viewCount": 2776123,
+      "likeCount": 130839,
+      "commentCount": 88433,
       "tags": [
         "윤석열",
         "대통령",
@@ -389,14 +389,12 @@
         "윤석열 유튜브",
         "대한민국 대통령실"
       ],
-      "categoryId": "25",
-      "defaultLanguage": "ko",
-      "defaultAudioLanguage": "en",
       "liveBroadcastContent": "none",
       "liveStreamingDetails": null,
+      "actualPubAt": "2024-12-14T09:18:35Z",
       "channelId": "UCcl16CxYqlbKQJVCfdhSJVw",
       "channelName": "윤석열",
-      "collectedAt": "2025-08-20T11:38:30.078450Z"
+      "collectedAt": "2025-08-22T09:49:39.886030Z"
     },
     "ds4xTOVbg6o": {
       "videoId": "ds4xTOVbg6o",
@@ -404,18 +402,16 @@
       "description": "국민께 드리는 말씀  (24.12.14.)",
       "publishedAt": "2024-12-14T10:05:24Z",
       "duration": "PT4M36S",
-      "viewCount": 73543,
+      "viewCount": 73589,
       "likeCount": 12586,
-      "commentCount": 4772,
+      "commentCount": 4767,
       "tags": [],
-      "categoryId": "25",
-      "defaultLanguage": null,
-      "defaultAudioLanguage": "ko",
       "liveBroadcastContent": "none",
       "liveStreamingDetails": null,
+      "actualPubAt": "2024-12-14T10:05:24Z",
       "channelId": "UCydbI9p3_8DeteSBbnv0tuA",
       "channelName": "윤석열 정부 영상 아카이브",
-      "collectedAt": "2025-08-20T11:38:30.078450Z"
+      "collectedAt": "2025-08-22T09:49:39.886604Z"
     },
     "_VcJ8DEc1uI": {
       "videoId": "_VcJ8DEc1uI",
@@ -2364,9 +2360,9 @@
         }
       },
       "subscriberCount": 754000,
-      "viewCount": 157172619,
+      "viewCount": 157203981,
       "videoCount": 3538,
-      "lastUpdated": "2025-08-20T11:38:30.078450Z"
+      "lastUpdated": "2025-08-22T09:49:39.885833Z"
     },
     "UCydbI9p3_8DeteSBbnv0tuA": {
       "channelId": "UCydbI9p3_8DeteSBbnv0tuA",
@@ -2391,9 +2387,9 @@
         }
       },
       "subscriberCount": 255000,
-      "viewCount": 109575768,
+      "viewCount": 109583289,
       "videoCount": 2854,
-      "lastUpdated": "2025-08-20T11:38:30.078450Z"
+      "lastUpdated": "2025-08-22T09:49:39.886416Z"
     },
     "UCNJM6dqu70Qr6VaseiW1Org": {
       "channelId": "UCNJM6dqu70Qr6VaseiW1Org",
@@ -2450,7 +2446,7 @@
       "lastUpdated": "2025-08-21T10:25:51.578151Z"
     }
   },
-  "lastUpdated": "2025-08-21T10:43:51.370140Z",
+  "lastUpdated": "2025-08-22T09:49:39.886789Z",
   "totalVideos": 77,
   "totalChannels": 8
 }

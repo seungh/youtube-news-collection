@@ -717,16 +717,17 @@
         "3차접종",
         "백신",
         "코로나백신",
-        "백신접종"
+        "백신접종",
+        "오미크론",
+        "청소년접종",
+        "청소년"
       ],
-      "categoryId": "25",
-      "defaultLanguage": null,
-      "defaultAudioLanguage": "ko",
       "liveBroadcastContent": "none",
       "liveStreamingDetails": null,
+      "actualPubAt": "2021-11-29T07:23:53Z",
       "channelId": "UC7WMB_czX5jF__5kqT4d9Ww",
       "channelName": " 문재인정부 청와대",
-      "collectedAt": "2025-08-20T11:39:35.345540Z"
+      "collectedAt": "2025-08-22T09:49:39.268243Z"
     },
     "DxsJmtM6AFY": {
       "videoId": "DxsJmtM6AFY",
@@ -1814,9 +1815,9 @@
         }
       },
       "subscriberCount": 308000,
-      "viewCount": 58715833,
+      "viewCount": 58721295,
       "videoCount": 1549,
-      "lastUpdated": "2025-08-20T11:39:35.345540Z"
+      "lastUpdated": "2025-08-22T09:49:39.268103Z"
     },
     "UCcl16CxYqlbKQJVCfdhSJVw": {
       "channelId": "UCcl16CxYqlbKQJVCfdhSJVw",
@@ -1900,7 +1901,7 @@
       "lastUpdated": "2025-08-21T10:26:39.320966Z"
     }
   },
-  "lastUpdated": "2025-08-21T10:44:25.466082Z",
+  "lastUpdated": "2025-08-22T09:49:39.268364Z",
   "totalVideos": 59,
   "totalChannels": 8
 }

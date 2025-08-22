@@ -1253,7 +1253,7 @@
       "publishedAt": "2021-11-03T23:54:24Z",
       "duration": "PT7M15S",
       "viewCount": 16005,
-      "likeCount": 2926,
+      "likeCount": 2925,
       "commentCount": 195,
       "tags": [
         "문재인",
@@ -1261,14 +1261,12 @@
         "대통령",
         "김정숙"
       ],
-      "categoryId": "25",
-      "defaultLanguage": null,
-      "defaultAudioLanguage": "ko",
       "liveBroadcastContent": "none",
       "liveStreamingDetails": null,
+      "actualPubAt": "2021-11-03T23:54:24Z",
       "channelId": "UC7WMB_czX5jF__5kqT4d9Ww",
       "channelName": " 문재인정부 청와대",
-      "collectedAt": "2025-08-20T11:39:20.418113Z"
+      "collectedAt": "2025-08-22T09:49:39.499839Z"
     },
     "3O3MTubokVw": {
       "videoId": "3O3MTubokVw",
@@ -1277,7 +1275,7 @@
       "publishedAt": "2021-11-04T11:32:00Z",
       "duration": "PT39M19S",
       "viewCount": 35124,
-      "likeCount": 5182,
+      "likeCount": 5181,
       "commentCount": 175,
       "tags": [
         "문재인",
@@ -1289,19 +1287,28 @@
         "COP 26",
         "문재인 영국",
         "영국 글래스고",
-        "COP 26 UN"
+        "COP 26 UN",
+        "#COP26",
+        "헝가리",
+        "국빈방문",
+        "공식환영식",
+        "환영식",
+        "헝가리 국빈방문",
+        "공동언론발표",
+        "V4",
+        "슬로바키아",
+        "체코",
+        "폴란드"
       ],
-      "categoryId": "25",
-      "defaultLanguage": null,
-      "defaultAudioLanguage": "ko",
       "liveBroadcastContent": "none",
       "liveStreamingDetails": {
         "actualStartTime": "2021-11-04T10:50:25Z",
         "actualEndTime": "2021-11-04T11:29:26Z"
       },
+      "actualPubAt": "2021-11-04T10:50:25Z",
       "channelId": "UC7WMB_czX5jF__5kqT4d9Ww",
       "channelName": " 문재인정부 청와대",
-      "collectedAt": "2025-08-20T11:39:20.418113Z"
+      "collectedAt": "2025-08-22T09:49:39.499752Z"
     },
     "pUizywwXfMc": {
       "videoId": "pUizywwXfMc",
@@ -2314,9 +2321,9 @@
         }
       },
       "subscriberCount": 308000,
-      "viewCount": 58715833,
+      "viewCount": 58721295,
       "videoCount": 1549,
-      "lastUpdated": "2025-08-20T11:39:20.417116Z"
+      "lastUpdated": "2025-08-22T09:49:39.499530Z"
     },
     "UCcl16CxYqlbKQJVCfdhSJVw": {
       "channelId": "UCcl16CxYqlbKQJVCfdhSJVw",
@@ -2400,7 +2407,7 @@
       "lastUpdated": "2025-08-21T10:26:44.224591Z"
     }
   },
-  "lastUpdated": "2025-08-21T10:44:29.937713Z",
+  "lastUpdated": "2025-08-22T09:49:39.499994Z",
   "totalVideos": 80,
   "totalChannels": 8
 }

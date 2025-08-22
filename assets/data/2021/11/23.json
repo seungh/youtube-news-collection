@@ -670,18 +670,16 @@
         "정상회담",
         "코스타리카"
       ],
-      "categoryId": "25",
-      "defaultLanguage": null,
-      "defaultAudioLanguage": "ko",
       "liveBroadcastContent": "none",
       "liveStreamingDetails": {
         "actualStartTime": "2021-11-23T09:45:08Z",
         "actualEndTime": "2021-11-23T09:59:18Z",
         "scheduledStartTime": "2021-11-23T09:45:00Z"
       },
+      "actualPubAt": "2021-11-23T09:45:08Z",
       "channelId": "UC7WMB_czX5jF__5kqT4d9Ww",
       "channelName": " 문재인정부 청와대",
-      "collectedAt": "2025-08-20T11:39:35.380019Z"
+      "collectedAt": "2025-08-22T09:49:39.307407Z"
     },
     "9cLdlAY0IOI": {
       "videoId": "9cLdlAY0IOI",
@@ -1938,9 +1936,9 @@
         }
       },
       "subscriberCount": 308000,
-      "viewCount": 58715833,
+      "viewCount": 58721295,
       "videoCount": 1549,
-      "lastUpdated": "2025-08-20T11:39:35.380019Z"
+      "lastUpdated": "2025-08-22T09:49:39.307179Z"
     },
     "UCcl16CxYqlbKQJVCfdhSJVw": {
       "channelId": "UCcl16CxYqlbKQJVCfdhSJVw",
@@ -2024,7 +2022,7 @@
       "lastUpdated": "2025-08-21T10:26:45.290281Z"
     }
   },
-  "lastUpdated": "2025-08-21T10:44:31.183685Z",
+  "lastUpdated": "2025-08-22T09:49:39.307598Z",
   "totalVideos": 63,
   "totalChannels": 8
 }

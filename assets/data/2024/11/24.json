@@ -140,20 +140,34 @@
         "물리",
         "연구",
         "교육",
-        "대학교"
+        "대학교",
+        "대학원",
+        "기초연구",
+        "연구실",
+        "국가",
+        "과학기술",
+        "대한민국",
+        "글로벌",
+        "공동연구",
+        "연구자",
+        "R&D",
+        "연구지원",
+        "지원",
+        "유럽연합",
+        "플랫폼",
+        "해외",
+        "보스턴코리아프로젝트"
       ],
-      "categoryId": "25",
-      "defaultLanguage": null,
-      "defaultAudioLanguage": "ko",
       "liveBroadcastContent": "none",
       "liveStreamingDetails": {
         "actualStartTime": "2024-11-24T06:21:32Z",
         "actualEndTime": "2024-11-24T06:35:48Z",
         "scheduledStartTime": "2024-11-24T06:25:00Z"
       },
+      "actualPubAt": "2024-11-24T06:21:32Z",
       "channelId": "UCydbI9p3_8DeteSBbnv0tuA",
       "channelName": "윤석열 정부 영상 아카이브",
-      "collectedAt": "2025-08-20T11:38:53.071780Z"
+      "collectedAt": "2025-08-22T09:49:35.769530Z"
     },
     "HfM0yVuaWrA": {
       "videoId": "HfM0yVuaWrA",
@@ -161,18 +175,16 @@
       "description": "\"국민과의 약속을 지키기 위해\n쉴 틈 없이 뛰어왔지만,\n해야 할 일들이 더 많습니다.\n더욱 새로운 각오로 온 힘을 다해 뛰겠습니다\"\n2024.1.1 신년사 발표 中\n\n대한민국의 미래와 미래세대의 운명이 달린\n4대 개혁으로 더 밝아질 내일을 약속하며\n작은 목소리에도 귀를 기울이고,\n국민의 삶을 변화시키는 \n진정한 민생정책을 추진할 윤석열 정부\n\n특히 11월 22일 열린\n국가조찬기도회에 참석해\n양극화를 타개하고 \n새로운 중산층 시대를 열 것이라고\n밝히기도 했습니다.\n\n지난 2년 반 오직 국민들만 바라보며\n쉬지 않고 달려온 윤석열 대통령\n앞으로는 동안 더 환하고 따뜻한\n대한민국으로 함께 나아갈 시간입니다!\n\n\n진심은 늘 국민 옆에 있다는\n윤석열 대통령의 자세한 이야기가 궁금하시다면\n지금 바로 영상에서 만나보세요:)\n\n좋아요와 알림 설정 꾹 눌러주시고\n구독도 잊지 마세요!!!\n\n#윤석열대통령 #4대개혁 #국가조찬기도회 #민생회복 #윤석열정부 #경제회복 #미래세대",
       "publishedAt": "2024-11-23T22:59:11Z",
       "duration": "PT5M19S",
-      "viewCount": 11153,
+      "viewCount": 11155,
       "likeCount": 3059,
       "commentCount": 506,
       "tags": [],
-      "categoryId": "25",
-      "defaultLanguage": null,
-      "defaultAudioLanguage": "ko",
       "liveBroadcastContent": "none",
       "liveStreamingDetails": null,
+      "actualPubAt": "2024-11-23T22:59:11Z",
       "channelId": "UCydbI9p3_8DeteSBbnv0tuA",
       "channelName": "윤석열 정부 영상 아카이브",
-      "collectedAt": "2025-08-20T11:38:53.071780Z"
+      "collectedAt": "2025-08-22T09:49:35.769559Z"
     },
     "Ltw-MBtUcFE": {
       "videoId": "Ltw-MBtUcFE",
@@ -1474,6 +1486,23 @@
       "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
       "channelName": "뉴스TVCHOSUN",
       "collectedAt": "2025-08-21T10:43:18.990509Z"
+    },
+    "DzbIe25312E": {
+      "videoId": "DzbIe25312E",
+      "title": "비트코인 키우는 미국, 금 사재기하는 중국, 누가 이길까? (박종훈의 지식한방)",
+      "description": "트럼프는 비트코인에 올인하고 중국은 금 사재기에 나섰습니다. 이 모든 것이 종이돈을 너무 많이 찍었기 때문에 일어난 일인데요, 과연 앞으로 금과 비트코인의 미래는 어떻게 될까요?\n\n도서 트럼프 2.0시대 구입처입니다.\n\n교보문고\nhttps://shorturl.at/6fyTe\n\n예스24\nhttps://shorturl.at/8jFdE\n\n알라딘\nhttps://shorturl.at/pOpNz\n\n영풍문고\nhttps://shorturl.at/4vwNr\n\n✉️ 강연 및 협업 문의\neconopunch@gmail.com",
+      "publishedAt": "2024-11-24T08:30:04Z",
+      "duration": "PT21M44S",
+      "viewCount": 691721,
+      "likeCount": 21423,
+      "commentCount": 1300,
+      "tags": [],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2024-11-24T08:30:04Z",
+      "channelId": "UCOB62fKRT7b73X7tRxMuN2g",
+      "channelName": "박종훈의 지식한방",
+      "collectedAt": "2025-08-22T09:49:35.768762Z"
     }
   },
   "channels": {
@@ -1554,9 +1583,9 @@
         }
       },
       "subscriberCount": 255000,
-      "viewCount": 109575768,
+      "viewCount": 109583289,
       "videoCount": 2854,
-      "lastUpdated": "2025-08-20T11:38:53.071780Z"
+      "lastUpdated": "2025-08-22T09:49:35.769389Z"
     },
     "UCWlV3Lz_55UaX4JsMj-z__Q": {
       "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
@@ -1584,9 +1613,36 @@
       "viewCount": 4319423561,
       "videoCount": 150855,
       "lastUpdated": "2025-08-21T10:25:13.461189Z"
+    },
+    "UCOB62fKRT7b73X7tRxMuN2g": {
+      "channelId": "UCOB62fKRT7b73X7tRxMuN2g",
+      "channelName": "박종훈의 지식한방",
+      "channelUrl": "@kpunch",
+      "channelDescription": "박종훈의 지식한방은 급변하는 국제질서와 빨라진 혁신 속도를 따라잡기 위해 세계경제와 지정학적인 변화를 추적하고 이를 통해 우리의 미래를 조망하고 대처할 수 있는 길을 모색하는 채널입니다.\n\n강연 및 협업문의\n✉️ econopunch@gmail.com\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/zsC1hpzdAouTryoT06lSKsSaaU8jlggb9GKrQBHn5nexO-2Dw-UC_CmNBEjdjbd1KztCUySTUA=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/zsC1hpzdAouTryoT06lSKsSaaU8jlggb9GKrQBHn5nexO-2Dw-UC_CmNBEjdjbd1KztCUySTUA=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/zsC1hpzdAouTryoT06lSKsSaaU8jlggb9GKrQBHn5nexO-2Dw-UC_CmNBEjdjbd1KztCUySTUA=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 777000,
+      "viewCount": 111320909,
+      "videoCount": 275,
+      "lastUpdated": "2025-08-22T09:49:35.768534Z"
     }
   },
-  "lastUpdated": "2025-08-21T10:43:18.992576Z",
-  "totalVideos": 51,
-  "totalChannels": 4
+  "lastUpdated": "2025-08-22T09:49:35.769684Z",
+  "totalVideos": 52,
+  "totalChannels": 5
 }

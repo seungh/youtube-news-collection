@@ -100,8 +100,8 @@
       "description": "오늘 저녁 7시 10분부터 100분간 KBS1을 통해 생중계 되는 '2021 국민과의 대화'를 청와대 유튜브를 통해서도 실시간 라이브로 전해드립니다.\n\n이번 '국민과의 대화'는 문재인 대통령이 코로나로 지친 국민들과 직접 소통하기 위해 마련된 자리로, 단계적 일상회복 3주차를 맞아 성공적인 일상회복에 대한 국민들의 의견을 듣게 됩니다. \n\n문 대통령은  300명의 국민패널(현장 200명, 화상참여 100명)로부터 단계적 일상회복 3주차에 대한 의견, 민생경제, 포스트코로나 과제 등에 대해 직접 질문을 받고 답할 예정입니다.",
       "publishedAt": "2021-11-21T12:10:26Z",
       "duration": "PT1H59M16S",
-      "viewCount": 123257,
-      "likeCount": 13598,
+      "viewCount": 123259,
+      "likeCount": 13597,
       "commentCount": 892,
       "tags": [
         "문재인",
@@ -114,18 +114,16 @@
         "대화",
         "생방송"
       ],
-      "categoryId": "25",
-      "defaultLanguage": null,
-      "defaultAudioLanguage": "ko",
       "liveBroadcastContent": "none",
       "liveStreamingDetails": {
         "actualStartTime": "2021-11-21T10:00:39Z",
         "actualEndTime": "2021-11-21T12:00:55Z",
         "scheduledStartTime": "2021-11-21T10:10:00Z"
       },
+      "actualPubAt": "2021-11-21T10:00:39Z",
       "channelId": "UC7WMB_czX5jF__5kqT4d9Ww",
       "channelName": " 문재인정부 청와대",
-      "collectedAt": "2025-08-20T11:40:12.937451Z"
+      "collectedAt": "2025-08-22T09:49:39.321589Z"
     },
     "HB_LrWzxioo": {
       "videoId": "HB_LrWzxioo",
@@ -912,9 +910,9 @@
         }
       },
       "subscriberCount": 308000,
-      "viewCount": 58715833,
+      "viewCount": 58721295,
       "videoCount": 1549,
-      "lastUpdated": "2025-08-20T11:40:12.936451Z"
+      "lastUpdated": "2025-08-22T09:49:39.320328Z"
     },
     "UCcl16CxYqlbKQJVCfdhSJVw": {
       "channelId": "UCcl16CxYqlbKQJVCfdhSJVw",
@@ -998,7 +996,7 @@
       "lastUpdated": "2025-08-21T10:26:45.198861Z"
     }
   },
-  "lastUpdated": "2025-08-21T10:44:31.039668Z",
+  "lastUpdated": "2025-08-22T09:49:39.321813Z",
   "totalVideos": 28,
   "totalChannels": 6
 }

@@ -1471,18 +1471,16 @@
       "description": "",
       "publishedAt": "2024-10-31T09:00:26Z",
       "duration": "PT50S",
-      "viewCount": 5671,
+      "viewCount": 5675,
       "likeCount": 1504,
       "commentCount": 164,
       "tags": [],
-      "categoryId": "25",
-      "defaultLanguage": "ko",
-      "defaultAudioLanguage": "en",
       "liveBroadcastContent": "none",
       "liveStreamingDetails": null,
+      "actualPubAt": "2024-10-31T09:00:26Z",
       "channelId": "UCcl16CxYqlbKQJVCfdhSJVw",
       "channelName": "윤석열",
-      "collectedAt": "2025-08-20T11:38:39.188796Z"
+      "collectedAt": "2025-08-22T09:49:40.364344Z"
     },
     "h7UTfLrmnnc": {
       "videoId": "h7UTfLrmnnc",
@@ -1490,7 +1488,7 @@
       "description": "",
       "publishedAt": "2024-10-31T10:13:36Z",
       "duration": "PT11M30S",
-      "viewCount": 19667,
+      "viewCount": 19676,
       "likeCount": 1977,
       "commentCount": 966,
       "tags": [
@@ -1501,14 +1499,12 @@
         "윤석열 유튜브",
         "대한민국 대통령실"
       ],
-      "categoryId": "25",
-      "defaultLanguage": "ko",
-      "defaultAudioLanguage": "en",
       "liveBroadcastContent": "none",
       "liveStreamingDetails": null,
+      "actualPubAt": "2024-10-31T10:13:36Z",
       "channelId": "UCcl16CxYqlbKQJVCfdhSJVw",
       "channelName": "윤석열",
-      "collectedAt": "2025-08-20T11:38:39.188796Z"
+      "collectedAt": "2025-08-22T09:49:40.364311Z"
     },
     "DvXGr88dQSs": {
       "videoId": "DvXGr88dQSs",
@@ -1516,8 +1512,8 @@
       "description": "윤석열 대통령은 10월 31일 오전 일산 킨텍스에서 개최된\n‘2024 대한민국 소상공인대회’에 참석했습니다.\n\n작년 역대 대통령 최초로 참석한 데 이어,\n올해로 19년째를 맞은 대한민국 소상공인대회에 2년 연속 참석해\n소상공인에 대한 각별한 애정과 관심을 표명했습니다.\n\n오늘 행사는 외식업, 양복업 등 다양한 업종의\n소상공인 4천여 명이 참석해 역대 최대 규모로 진행됐습니다. \n\n그 현장 윤니크에서 확인하세요\n\n\n#윤석열대통령 #소상공인 #소상공인대회",
       "publishedAt": "2024-10-31T09:30:13Z",
       "duration": "PT11M30S",
-      "viewCount": 25194,
-      "likeCount": 4558,
+      "viewCount": 25195,
+      "likeCount": 4557,
       "commentCount": 670,
       "tags": [
         "윤석열대통령",
@@ -1529,16 +1525,15 @@
         "민생",
         "외식업",
         "양복점",
-        "사회"
+        "사회",
+        "위상"
       ],
-      "categoryId": "25",
-      "defaultLanguage": null,
-      "defaultAudioLanguage": "ko",
       "liveBroadcastContent": "none",
       "liveStreamingDetails": null,
+      "actualPubAt": "2024-10-31T09:30:13Z",
       "channelId": "UCydbI9p3_8DeteSBbnv0tuA",
       "channelName": "윤석열 정부 영상 아카이브",
-      "collectedAt": "2025-08-20T11:38:39.191833Z"
+      "collectedAt": "2025-08-22T09:49:40.365393Z"
     },
     "-q9vGafTnrs": {
       "videoId": "-q9vGafTnrs",
@@ -5081,9 +5076,9 @@
         }
       },
       "subscriberCount": 754000,
-      "viewCount": 157172619,
+      "viewCount": 157203981,
       "videoCount": 3538,
-      "lastUpdated": "2025-08-20T11:38:39.188796Z"
+      "lastUpdated": "2025-08-22T09:49:40.364105Z"
     },
     "UCydbI9p3_8DeteSBbnv0tuA": {
       "channelId": "UCydbI9p3_8DeteSBbnv0tuA",
@@ -5108,9 +5103,9 @@
         }
       },
       "subscriberCount": 255000,
-      "viewCount": 109575768,
+      "viewCount": 109583289,
       "videoCount": 2854,
-      "lastUpdated": "2025-08-20T11:38:39.189794Z"
+      "lastUpdated": "2025-08-22T09:49:40.364877Z"
     },
     "UCNJM6dqu70Qr6VaseiW1Org": {
       "channelId": "UCNJM6dqu70Qr6VaseiW1Org",
@@ -5167,7 +5162,7 @@
       "lastUpdated": "2025-08-21T10:25:14.942535Z"
     }
   },
-  "lastUpdated": "2025-08-21T10:43:20.631845Z",
+  "lastUpdated": "2025-08-22T09:49:40.365578Z",
   "totalVideos": 173,
   "totalChannels": 9
 }

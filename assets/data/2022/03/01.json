@@ -215,14 +215,12 @@
         "대통령",
         "김정숙"
       ],
-      "categoryId": "25",
-      "defaultLanguage": null,
-      "defaultAudioLanguage": "ko",
       "liveBroadcastContent": "none",
       "liveStreamingDetails": null,
+      "actualPubAt": "2022-03-01T03:52:28Z",
       "channelId": "UC7WMB_czX5jF__5kqT4d9Ww",
       "channelName": " 문재인정부 청와대",
-      "collectedAt": "2025-08-20T11:39:56.944581Z"
+      "collectedAt": "2025-08-22T09:49:38.637326Z"
     },
     "AgZQnCpvyeY": {
       "videoId": "AgZQnCpvyeY",
@@ -239,18 +237,16 @@
         "대통령",
         "김정숙"
       ],
-      "categoryId": "25",
-      "defaultLanguage": null,
-      "defaultAudioLanguage": "ko",
       "liveBroadcastContent": "none",
       "liveStreamingDetails": {
         "actualStartTime": "2022-03-01T00:40:03Z",
         "actualEndTime": "2022-03-01T02:05:17Z",
         "scheduledStartTime": "2022-03-01T01:00:00Z"
       },
+      "actualPubAt": "2022-03-01T00:40:03Z",
       "channelId": "UC7WMB_czX5jF__5kqT4d9Ww",
       "channelName": " 문재인정부 청와대",
-      "collectedAt": "2025-08-20T11:39:56.944581Z"
+      "collectedAt": "2025-08-22T09:49:38.637352Z"
     },
     "bNKa1Cx_-Sc": {
       "videoId": "bNKa1Cx_-Sc",
@@ -1741,9 +1737,9 @@
         }
       },
       "subscriberCount": 308000,
-      "viewCount": 58715833,
+      "viewCount": 58721295,
       "videoCount": 1549,
-      "lastUpdated": "2025-08-20T11:39:56.944581Z"
+      "lastUpdated": "2025-08-22T09:49:38.637173Z"
     },
     "UCcl16CxYqlbKQJVCfdhSJVw": {
       "channelId": "UCcl16CxYqlbKQJVCfdhSJVw",
@@ -1827,7 +1823,7 @@
       "lastUpdated": "2025-08-21T10:26:49.419770Z"
     }
   },
-  "lastUpdated": "2025-08-21T10:44:35.011110Z",
+  "lastUpdated": "2025-08-22T09:49:38.637452Z",
   "totalVideos": 59,
   "totalChannels": 6
 }

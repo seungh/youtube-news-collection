@@ -3894,6 +3894,23 @@
       "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
       "channelName": "뉴스TVCHOSUN",
       "collectedAt": "2025-08-21T10:43:27.084288Z"
+    },
+    "qIGC2q0tXpE": {
+      "videoId": "qIGC2q0tXpE",
+      "title": "한우 농가는 망할 위기인데 소고기는 왜 이렇게 비싼 걸까? (박종훈의 지식한방)",
+      "description": "지난 3년 동안 한우 도매가격이 36%나 떨어졌는데 우리가 체감하는 소고기 가격은 좀처럼 싸지 않습니다. 전체 소고기 가격에서 차지하는 유통비용률이 10년전 45%에서 지금은 53%로 크게 올랐기 때문인데요, 소고기 가격이 1만원이라면 5,300원이 유통비용이라는 뜻입니다. 이 때문에 산지 가격이 아무리 떨어져도 소비자 가격은 요지부동인데요, 우리 농축산물의 유통구조 문제를 짚어봤습니다.\n\n\n✉️ 강연 및 협업 문의\neconopunch@gmail.com",
+      "publishedAt": "2024-07-09T10:45:03Z",
+      "duration": "PT16M8S",
+      "viewCount": 159187,
+      "likeCount": 6421,
+      "commentCount": 1562,
+      "tags": [],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2024-07-09T10:45:03Z",
+      "channelId": "UCOB62fKRT7b73X7tRxMuN2g",
+      "channelName": "박종훈의 지식한방",
+      "collectedAt": "2025-08-22T09:49:37.429666Z"
     }
   },
   "channels": {
@@ -4085,9 +4102,36 @@
       "viewCount": 4319423561,
       "videoCount": 150855,
       "lastUpdated": "2025-08-21T10:25:21.805824Z"
+    },
+    "UCOB62fKRT7b73X7tRxMuN2g": {
+      "channelId": "UCOB62fKRT7b73X7tRxMuN2g",
+      "channelName": "박종훈의 지식한방",
+      "channelUrl": "@kpunch",
+      "channelDescription": "박종훈의 지식한방은 급변하는 국제질서와 빨라진 혁신 속도를 따라잡기 위해 세계경제와 지정학적인 변화를 추적하고 이를 통해 우리의 미래를 조망하고 대처할 수 있는 길을 모색하는 채널입니다.\n\n강연 및 협업문의\n✉️ econopunch@gmail.com\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/zsC1hpzdAouTryoT06lSKsSaaU8jlggb9GKrQBHn5nexO-2Dw-UC_CmNBEjdjbd1KztCUySTUA=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/zsC1hpzdAouTryoT06lSKsSaaU8jlggb9GKrQBHn5nexO-2Dw-UC_CmNBEjdjbd1KztCUySTUA=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/zsC1hpzdAouTryoT06lSKsSaaU8jlggb9GKrQBHn5nexO-2Dw-UC_CmNBEjdjbd1KztCUySTUA=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 777000,
+      "viewCount": 111320909,
+      "videoCount": 275,
+      "lastUpdated": "2025-08-22T09:49:37.429434Z"
     }
   },
-  "lastUpdated": "2025-08-21T10:43:27.084288Z",
-  "totalVideos": 139,
-  "totalChannels": 7
+  "lastUpdated": "2025-08-22T09:49:37.429876Z",
+  "totalVideos": 140,
+  "totalChannels": 8
 }

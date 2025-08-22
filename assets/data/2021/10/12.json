@@ -740,16 +740,16 @@
         "문재인 아프간",
         "아프가니스탄",
         "탈레반",
-        "문재인 대통령 화상회의"
+        "문재인 대통령 화상회의",
+        "G20 화상회의",
+        "G20 특별정상회의"
       ],
-      "categoryId": "25",
-      "defaultLanguage": "ko",
-      "defaultAudioLanguage": "ko",
       "liveBroadcastContent": "none",
       "liveStreamingDetails": null,
+      "actualPubAt": "2021-10-12T11:54:31Z",
       "channelId": "UC7WMB_czX5jF__5kqT4d9Ww",
       "channelName": " 문재인정부 청와대",
-      "collectedAt": "2025-08-20T11:39:36.125162Z"
+      "collectedAt": "2025-08-22T09:49:39.744857Z"
     },
     "fn4FiDMBAzU": {
       "videoId": "fn4FiDMBAzU",
@@ -770,14 +770,12 @@
         "일상회복",
         "데이터 기본법"
       ],
-      "categoryId": "25",
-      "defaultLanguage": null,
-      "defaultAudioLanguage": "ko",
       "liveBroadcastContent": "none",
       "liveStreamingDetails": null,
+      "actualPubAt": "2021-10-12T06:13:16Z",
       "channelId": "UC7WMB_czX5jF__5kqT4d9Ww",
       "channelName": " 문재인정부 청와대",
-      "collectedAt": "2025-08-20T11:39:36.125162Z"
+      "collectedAt": "2025-08-22T09:49:39.744917Z"
     },
     "vsIgKnKrVlo": {
       "videoId": "vsIgKnKrVlo",
@@ -2368,9 +2366,9 @@
         }
       },
       "subscriberCount": 308000,
-      "viewCount": 58715833,
+      "viewCount": 58721295,
       "videoCount": 1549,
-      "lastUpdated": "2025-08-20T11:39:36.124524Z"
+      "lastUpdated": "2025-08-22T09:49:39.744548Z"
     },
     "UCcl16CxYqlbKQJVCfdhSJVw": {
       "channelId": "UCcl16CxYqlbKQJVCfdhSJVw",
@@ -2454,7 +2452,7 @@
       "lastUpdated": "2025-08-21T10:26:42.873133Z"
     }
   },
-  "lastUpdated": "2025-08-21T10:44:28.606059Z",
+  "lastUpdated": "2025-08-22T09:49:39.745139Z",
   "totalVideos": 79,
   "totalChannels": 8
 }

@@ -1499,7 +1499,7 @@
       "description": "",
       "publishedAt": "2024-10-04T07:16:36Z",
       "duration": "PT2M8S",
-      "viewCount": 8190,
+      "viewCount": 8192,
       "likeCount": 1918,
       "commentCount": 290,
       "tags": [
@@ -1510,14 +1510,12 @@
         "윤석열 유튜브",
         "대한민국 대통령실"
       ],
-      "categoryId": "25",
-      "defaultLanguage": "ko",
-      "defaultAudioLanguage": "en",
       "liveBroadcastContent": "none",
       "liveStreamingDetails": null,
+      "actualPubAt": "2024-10-04T07:16:36Z",
       "channelId": "UCcl16CxYqlbKQJVCfdhSJVw",
       "channelName": "윤석열",
-      "collectedAt": "2025-08-20T11:38:42.065486Z"
+      "collectedAt": "2025-08-22T09:49:36.506350Z"
     },
     "ioVxk5AZWZ0": {
       "videoId": "ioVxk5AZWZ0",
@@ -4623,6 +4621,23 @@
       "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
       "channelName": "뉴스TVCHOSUN",
       "collectedAt": "2025-08-21T10:43:22.218864Z"
+    },
+    "jxW4JGI7fLY": {
+      "videoId": "jxW4JGI7fLY",
+      "title": "이스라엘-이란 전면전 가나?  (박종훈의 지식한방)",
+      "description": "이란의 미사일 공격에 대해 이스라엘이 재보복을 선언했습니다. 그런데 바이든 대통령이 이란 석유시설을 노린 공격에 대해 논의중이라는 말실수를 했는데요, 이 때문에 세계 석유시장이 발칵뒤집혔습니다. \n\n✉️ 강연 및 협업 문의\neconopunch@gmail.com",
+      "publishedAt": "2024-10-04T10:45:04Z",
+      "duration": "PT21M58S",
+      "viewCount": 381014,
+      "likeCount": 16631,
+      "commentCount": 1158,
+      "tags": [],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2024-10-04T10:45:04Z",
+      "channelId": "UCOB62fKRT7b73X7tRxMuN2g",
+      "channelName": "박종훈의 지식한방",
+      "collectedAt": "2025-08-22T09:49:36.505873Z"
     }
   },
   "channels": {
@@ -4784,9 +4799,9 @@
         }
       },
       "subscriberCount": 754000,
-      "viewCount": 157172619,
+      "viewCount": 157203981,
       "videoCount": 3538,
-      "lastUpdated": "2025-08-20T11:38:42.065486Z"
+      "lastUpdated": "2025-08-22T09:49:36.506151Z"
     },
     "UCNJM6dqu70Qr6VaseiW1Org": {
       "channelId": "UCNJM6dqu70Qr6VaseiW1Org",
@@ -4841,9 +4856,36 @@
       "viewCount": 4319423561,
       "videoCount": 150855,
       "lastUpdated": "2025-08-21T10:25:17.067404Z"
+    },
+    "UCOB62fKRT7b73X7tRxMuN2g": {
+      "channelId": "UCOB62fKRT7b73X7tRxMuN2g",
+      "channelName": "박종훈의 지식한방",
+      "channelUrl": "@kpunch",
+      "channelDescription": "박종훈의 지식한방은 급변하는 국제질서와 빨라진 혁신 속도를 따라잡기 위해 세계경제와 지정학적인 변화를 추적하고 이를 통해 우리의 미래를 조망하고 대처할 수 있는 길을 모색하는 채널입니다.\n\n강연 및 협업문의\n✉️ econopunch@gmail.com\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/zsC1hpzdAouTryoT06lSKsSaaU8jlggb9GKrQBHn5nexO-2Dw-UC_CmNBEjdjbd1KztCUySTUA=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/zsC1hpzdAouTryoT06lSKsSaaU8jlggb9GKrQBHn5nexO-2Dw-UC_CmNBEjdjbd1KztCUySTUA=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/zsC1hpzdAouTryoT06lSKsSaaU8jlggb9GKrQBHn5nexO-2Dw-UC_CmNBEjdjbd1KztCUySTUA=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 777000,
+      "viewCount": 111320909,
+      "videoCount": 275,
+      "lastUpdated": "2025-08-22T09:49:36.505632Z"
     }
   },
-  "lastUpdated": "2025-08-21T10:43:22.218864Z",
-  "totalVideos": 161,
-  "totalChannels": 8
+  "lastUpdated": "2025-08-22T09:49:36.506490Z",
+  "totalVideos": 162,
+  "totalChannels": 9
 }

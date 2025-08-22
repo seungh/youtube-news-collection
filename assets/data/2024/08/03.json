@@ -1059,6 +1059,23 @@
       "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
       "channelName": "뉴스TVCHOSUN",
       "collectedAt": "2025-08-21T10:43:55.123543Z"
+    },
+    "_016taUfxt8": {
+      "videoId": "_016taUfxt8",
+      "title": "미국 증시 연일 급락.. 미국의 가짜 성장이 끝났다 (박종훈의 지식한방)",
+      "description": "미국 증시가 연일 급락하고 있는데요, 가장 근본적인 문제는 미 재무부의 무제한 돈풀기와 엔캐리트레이드가 만들어낸 가짜 성장이 흔들리고 있기 때문이라고 할 수 있습니다. 과연 앞으로 미국 경제와 증시는 어떻게 될까요?\n\n\n✉️ 강연 및 협업 문의\neconopunch@gmail.com",
+      "publishedAt": "2024-08-03T07:20:00Z",
+      "duration": "PT27M9S",
+      "viewCount": 775548,
+      "likeCount": 23829,
+      "commentCount": 1998,
+      "tags": [],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2024-08-03T07:20:00Z",
+      "channelId": "UCOB62fKRT7b73X7tRxMuN2g",
+      "channelName": "박종훈의 지식한방",
+      "collectedAt": "2025-08-22T09:49:37.036454Z"
     }
   },
   "channels": {
@@ -1142,9 +1159,36 @@
       "viewCount": 4319423561,
       "videoCount": 150855,
       "lastUpdated": "2025-08-21T10:25:57.645932Z"
+    },
+    "UCOB62fKRT7b73X7tRxMuN2g": {
+      "channelId": "UCOB62fKRT7b73X7tRxMuN2g",
+      "channelName": "박종훈의 지식한방",
+      "channelUrl": "@kpunch",
+      "channelDescription": "박종훈의 지식한방은 급변하는 국제질서와 빨라진 혁신 속도를 따라잡기 위해 세계경제와 지정학적인 변화를 추적하고 이를 통해 우리의 미래를 조망하고 대처할 수 있는 길을 모색하는 채널입니다.\n\n강연 및 협업문의\n✉️ econopunch@gmail.com\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/zsC1hpzdAouTryoT06lSKsSaaU8jlggb9GKrQBHn5nexO-2Dw-UC_CmNBEjdjbd1KztCUySTUA=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/zsC1hpzdAouTryoT06lSKsSaaU8jlggb9GKrQBHn5nexO-2Dw-UC_CmNBEjdjbd1KztCUySTUA=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/zsC1hpzdAouTryoT06lSKsSaaU8jlggb9GKrQBHn5nexO-2Dw-UC_CmNBEjdjbd1KztCUySTUA=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 777000,
+      "viewCount": 111320909,
+      "videoCount": 275,
+      "lastUpdated": "2025-08-22T09:49:37.036304Z"
     }
   },
-  "lastUpdated": "2025-08-21T10:43:55.125467Z",
-  "totalVideos": 36,
-  "totalChannels": 3
+  "lastUpdated": "2025-08-22T09:49:37.036581Z",
+  "totalVideos": 37,
+  "totalChannels": 4
 }

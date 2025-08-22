@@ -1363,7 +1363,7 @@
       "description": "",
       "publishedAt": "2024-11-04T04:40:33Z",
       "duration": "PT58S",
-      "viewCount": 9402,
+      "viewCount": 9404,
       "likeCount": 1580,
       "commentCount": 550,
       "tags": [
@@ -1374,14 +1374,12 @@
         "윤석열 유튜브",
         "대한민국 대통령실"
       ],
-      "categoryId": "25",
-      "defaultLanguage": "ko",
-      "defaultAudioLanguage": "en",
       "liveBroadcastContent": "none",
       "liveStreamingDetails": null,
+      "actualPubAt": "2024-11-04T04:40:33Z",
       "channelId": "UCcl16CxYqlbKQJVCfdhSJVw",
       "channelName": "윤석열",
-      "collectedAt": "2025-08-20T11:38:32.226226Z"
+      "collectedAt": "2025-08-22T09:49:40.335029Z"
     },
     "K1nC7shwAmI": {
       "videoId": "K1nC7shwAmI",
@@ -1400,14 +1398,12 @@
         "윤석열 유튜브",
         "대한민국 대통령실"
       ],
-      "categoryId": "25",
-      "defaultLanguage": "ko",
-      "defaultAudioLanguage": "en",
       "liveBroadcastContent": "none",
       "liveStreamingDetails": null,
+      "actualPubAt": "2024-11-04T00:22:13Z",
       "channelId": "UCcl16CxYqlbKQJVCfdhSJVw",
       "channelName": "윤석열",
-      "collectedAt": "2025-08-20T11:38:32.226226Z"
+      "collectedAt": "2025-08-22T09:49:40.335080Z"
     },
     "2OuMOEJASYY": {
       "videoId": "2OuMOEJASYY",
@@ -5138,9 +5134,9 @@
         }
       },
       "subscriberCount": 754000,
-      "viewCount": 157172619,
+      "viewCount": 157203981,
       "videoCount": 3538,
-      "lastUpdated": "2025-08-20T11:38:32.226226Z"
+      "lastUpdated": "2025-08-22T09:49:40.334698Z"
     },
     "UCNJM6dqu70Qr6VaseiW1Org": {
       "channelId": "UCNJM6dqu70Qr6VaseiW1Org",
@@ -5197,7 +5193,7 @@
       "lastUpdated": "2025-08-21T10:25:14.768724Z"
     }
   },
-  "lastUpdated": "2025-08-21T10:43:20.496095Z",
+  "lastUpdated": "2025-08-22T09:49:40.335244Z",
   "totalVideos": 173,
   "totalChannels": 8
 }

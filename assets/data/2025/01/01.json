@@ -2599,6 +2599,23 @@
       "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
       "channelName": "뉴스TVCHOSUN",
       "collectedAt": "2025-08-21T10:43:51.053018Z"
+    },
+    "fyuEVzb2nnM": {
+      "videoId": "fyuEVzb2nnM",
+      "title": "AI혁명, 최후의 승자는 바로 여깁니다 (한국경제 부활 프로젝트2, 박종훈의 지식한방)",
+      "description": "AI혁명이 더욱 치열하게 진행되고 있는데요, 앞으로 AI는 가격과 품질 경쟁을 해야 합니다. 특히 품질 경쟁에서는 데이터가 중요한데요, 과연 어떻게 해야 데이터에서 우위를 점할 수 있는지, 또 그런 기업을 찾아 투자하려면 무엇을 봐야하는지 살펴봤습니다.\n\n✉️ 강연 및 협업 문의\neconopunch@gmail.com",
+      "publishedAt": "2024-12-31T23:00:42Z",
+      "duration": "PT22M21S",
+      "viewCount": 546777,
+      "likeCount": 21260,
+      "commentCount": 1202,
+      "tags": [],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2024-12-31T23:00:42Z",
+      "channelId": "UCOB62fKRT7b73X7tRxMuN2g",
+      "channelName": "박종훈의 지식한방",
+      "collectedAt": "2025-08-22T09:49:35.398376Z"
     }
   },
   "channels": {
@@ -2709,9 +2726,36 @@
       "viewCount": 4319423561,
       "videoCount": 150855,
       "lastUpdated": "2025-08-21T10:25:51.105654Z"
+    },
+    "UCOB62fKRT7b73X7tRxMuN2g": {
+      "channelId": "UCOB62fKRT7b73X7tRxMuN2g",
+      "channelName": "박종훈의 지식한방",
+      "channelUrl": "@kpunch",
+      "channelDescription": "박종훈의 지식한방은 급변하는 국제질서와 빨라진 혁신 속도를 따라잡기 위해 세계경제와 지정학적인 변화를 추적하고 이를 통해 우리의 미래를 조망하고 대처할 수 있는 길을 모색하는 채널입니다.\n\n강연 및 협업문의\n✉️ econopunch@gmail.com\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/zsC1hpzdAouTryoT06lSKsSaaU8jlggb9GKrQBHn5nexO-2Dw-UC_CmNBEjdjbd1KztCUySTUA=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/zsC1hpzdAouTryoT06lSKsSaaU8jlggb9GKrQBHn5nexO-2Dw-UC_CmNBEjdjbd1KztCUySTUA=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/zsC1hpzdAouTryoT06lSKsSaaU8jlggb9GKrQBHn5nexO-2Dw-UC_CmNBEjdjbd1KztCUySTUA=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 777000,
+      "viewCount": 111320909,
+      "videoCount": 275,
+      "lastUpdated": "2025-08-22T09:49:35.398073Z"
     }
   },
-  "lastUpdated": "2025-08-21T10:43:51.054015Z",
-  "totalVideos": 87,
-  "totalChannels": 4
+  "lastUpdated": "2025-08-22T09:49:35.398547Z",
+  "totalVideos": 88,
+  "totalChannels": 5
 }

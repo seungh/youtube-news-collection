@@ -929,6 +929,28 @@
       "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
       "channelName": "뉴스TVCHOSUN",
       "collectedAt": "2025-08-21T10:44:22.480163Z"
+    },
+    "yx8QVWzzJA4": {
+      "videoId": "yx8QVWzzJA4",
+      "title": "지구의 날을 맞아 국립수목원에서 금강송을 식수했습니다 | 문재인 대통령, 국립수목원 식수",
+      "description": "\"지구의 날을 맞아 국립수목원에서 금강송을 식수했습니다\"\n\n- 문재인 대통령 부부, 울진 산불 피해 현장에서 지킨 금강송 군락지 후계목 식수\n- 문 대통령, 노무현 전 대통령 회상하며 \"느티나무 좋아하셨다\"\n- 김대중 전 대통령이 식수한 금강송을 보며 \"30여년 후에는 두 나무가 짝 이룰 수도\"\n- 식수 행사 후 국내외 야생 종자의 확보 및 보전을 위해 2003년 개원한 종자은행방문\n\n문재인 대통령과 김정숙 여사는 4월 22일 ‘지구의 날’을 맞아 국립수목원을 방문해 기념식수를 하였습니다.\n국립수목원은 2010년 유네스코가 지정한 생물권보전지역이자, 역대 대통령들이 기념식수를 하여 역사성과 상징성이 있는 곳입니다. 이번 행사는 5월 2일부터 열리는 제15차 세계산림총회를 널리 알리고 탄소중립과 국가식물자원 보호에 대한 참여를 독려하기 위해 마련되었습니다.\n이날 문 대통령 부부가 심은 나무는 높이 3.6m의 25년생 '금강송'으로, 최근 울진 산불 피해 현장에서 화마의 위협을 받았던 ...",
+      "publishedAt": "2022-04-23T02:08:43Z",
+      "duration": "PT2M18S",
+      "viewCount": 27151,
+      "likeCount": 6097,
+      "commentCount": 594,
+      "tags": [
+        "문재인",
+        "청와대",
+        "대통령",
+        "김정숙"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2022-04-23T02:08:43Z",
+      "channelId": "UC7WMB_czX5jF__5kqT4d9Ww",
+      "channelName": " 문재인정부 청와대",
+      "collectedAt": "2025-08-22T09:49:38.362920Z"
     }
   },
   "channels": {
@@ -1039,9 +1061,36 @@
       "viewCount": 4319423561,
       "videoCount": 150855,
       "lastUpdated": "2025-08-21T10:26:34.892566Z"
+    },
+    "UC7WMB_czX5jF__5kqT4d9Ww": {
+      "channelId": "UC7WMB_czX5jF__5kqT4d9Ww",
+      "channelName": " 문재인정부 청와대",
+      "channelUrl": "@thebluehousekr",
+      "channelDescription": " 문재인정부 청와대 공식 유튜브 채널입니다.",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/z0uFyY8invEc-QlNJod5ycMfMCwQiQlDNT4LWIyJqi4IL-XQc0F7OyYeBbJMhhaYJOs-ecL7VTo=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/z0uFyY8invEc-QlNJod5ycMfMCwQiQlDNT4LWIyJqi4IL-XQc0F7OyYeBbJMhhaYJOs-ecL7VTo=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/z0uFyY8invEc-QlNJod5ycMfMCwQiQlDNT4LWIyJqi4IL-XQc0F7OyYeBbJMhhaYJOs-ecL7VTo=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 308000,
+      "viewCount": 58721295,
+      "videoCount": 1549,
+      "lastUpdated": "2025-08-22T09:49:38.362708Z"
     }
   },
-  "lastUpdated": "2025-08-21T10:44:22.480163Z",
-  "totalVideos": 31,
-  "totalChannels": 4
+  "lastUpdated": "2025-08-22T09:49:38.363029Z",
+  "totalVideos": 32,
+  "totalChannels": 5
 }

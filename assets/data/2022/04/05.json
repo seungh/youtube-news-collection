@@ -788,16 +788,17 @@
         "고용보험",
         "기본생활",
         "주52시간",
-        "기초연금"
+        "기초연금",
+        "최저임금",
+        "건강보험",
+        "복지"
       ],
-      "categoryId": "25",
-      "defaultLanguage": null,
-      "defaultAudioLanguage": "ko",
       "liveBroadcastContent": "none",
       "liveStreamingDetails": null,
+      "actualPubAt": "2022-04-05T08:23:12Z",
       "channelId": "UC7WMB_czX5jF__5kqT4d9Ww",
       "channelName": " 문재인정부 청와대",
-      "collectedAt": "2025-08-20T11:39:16.710388Z"
+      "collectedAt": "2025-08-22T09:49:38.488389Z"
     },
     "Bvua9bOG95k": {
       "videoId": "Bvua9bOG95k",
@@ -818,16 +819,17 @@
         "국군",
         "군사력순위",
         "국방예산",
-        "첨단무기"
+        "첨단무기",
+        "SLBM",
+        "천궁",
+        "세계군사력순위"
       ],
-      "categoryId": "25",
-      "defaultLanguage": null,
-      "defaultAudioLanguage": "ko",
       "liveBroadcastContent": "none",
       "liveStreamingDetails": null,
+      "actualPubAt": "2022-04-05T08:20:11Z",
       "channelId": "UC7WMB_czX5jF__5kqT4d9Ww",
       "channelName": " 문재인정부 청와대",
-      "collectedAt": "2025-08-20T11:39:16.710388Z"
+      "collectedAt": "2025-08-22T09:49:38.488460Z"
     },
     "NQHterQ8-aE": {
       "videoId": "NQHterQ8-aE",
@@ -835,7 +837,7 @@
       "description": "1950년 UN의 원조를 받던 최빈국 대한민국은 약 70년 뒤, 세계 경제규모 10위를 기록하고 ‘아프간인 수송작전'을 펼치며 이웃 국민을 돕는 세계 모범 국가로 발돋움 했습니다.\n\n경제는 물론 혁신과 소프트파워에 있어서도 세계인의 놀라움을 자아내는 자랑스러운 대한민국.\n우리 국민께서 이룬 국가적 성취를 1분 영상과 웹페이지로 전해드립니다.\n\n[자세히 보기] “우리는 지난 날의 대한민국이 아닙니다”\n▶︎ https://report.president.go.kr/special/view/8",
       "publishedAt": "2022-04-05T08:14:35Z",
       "duration": "PT1M42S",
-      "viewCount": 7717,
+      "viewCount": 7718,
       "likeCount": 2245,
       "commentCount": 235,
       "tags": [
@@ -849,14 +851,12 @@
         "선진국",
         "해외반응"
       ],
-      "categoryId": "25",
-      "defaultLanguage": null,
-      "defaultAudioLanguage": "ko",
       "liveBroadcastContent": "none",
       "liveStreamingDetails": null,
+      "actualPubAt": "2022-04-05T08:14:35Z",
       "channelId": "UC7WMB_czX5jF__5kqT4d9Ww",
       "channelName": " 문재인정부 청와대",
-      "collectedAt": "2025-08-20T11:39:16.710388Z"
+      "collectedAt": "2025-08-22T09:49:38.488496Z"
     },
     "Qdkr7tACO9g": {
       "videoId": "Qdkr7tACO9g",
@@ -873,14 +873,12 @@
         "대통령",
         "김정숙"
       ],
-      "categoryId": "25",
-      "defaultLanguage": null,
-      "defaultAudioLanguage": "ko",
       "liveBroadcastContent": "none",
       "liveStreamingDetails": null,
+      "actualPubAt": "2022-04-05T05:51:31Z",
       "channelId": "UC7WMB_czX5jF__5kqT4d9Ww",
       "channelName": " 문재인정부 청와대",
-      "collectedAt": "2025-08-20T11:39:16.710388Z"
+      "collectedAt": "2025-08-22T09:49:38.488530Z"
     },
     "dDuLUL0E394": {
       "videoId": "dDuLUL0E394",
@@ -2109,9 +2107,9 @@
         }
       },
       "subscriberCount": 308000,
-      "viewCount": 58715833,
+      "viewCount": 58721295,
       "videoCount": 1549,
-      "lastUpdated": "2025-08-20T11:39:16.710388Z"
+      "lastUpdated": "2025-08-22T09:49:38.488169Z"
     },
     "UCcl16CxYqlbKQJVCfdhSJVw": {
       "channelId": "UCcl16CxYqlbKQJVCfdhSJVw",
@@ -2195,7 +2193,7 @@
       "lastUpdated": "2025-08-21T10:26:36.332538Z"
     }
   },
-  "lastUpdated": "2025-08-21T10:44:23.348580Z",
+  "lastUpdated": "2025-08-22T09:49:38.488702Z",
   "totalVideos": 70,
   "totalChannels": 8
 }

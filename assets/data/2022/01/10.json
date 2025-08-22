@@ -660,16 +660,18 @@
         "설날",
         "연휴",
         "방역조치",
-        "병상확보"
+        "병상확보",
+        "백신접종",
+        "3차접종",
+        "수보회의",
+        "노동시장"
       ],
-      "categoryId": "25",
-      "defaultLanguage": null,
-      "defaultAudioLanguage": "ko",
       "liveBroadcastContent": "none",
       "liveStreamingDetails": null,
+      "actualPubAt": "2022-01-10T07:04:05Z",
       "channelId": "UC7WMB_czX5jF__5kqT4d9Ww",
       "channelName": " 문재인정부 청와대",
-      "collectedAt": "2025-08-20T11:39:34.927869Z"
+      "collectedAt": "2025-08-22T09:49:38.977173Z"
     },
     "x4lYiLlbpek": {
       "videoId": "x4lYiLlbpek",
@@ -2249,9 +2251,9 @@
         }
       },
       "subscriberCount": 308000,
-      "viewCount": 58715833,
+      "viewCount": 58721295,
       "videoCount": 1549,
-      "lastUpdated": "2025-08-20T11:39:34.927869Z"
+      "lastUpdated": "2025-08-22T09:49:38.976972Z"
     },
     "UCcl16CxYqlbKQJVCfdhSJVw": {
       "channelId": "UCcl16CxYqlbKQJVCfdhSJVw",
@@ -2335,7 +2337,7 @@
       "lastUpdated": "2025-08-21T10:26:46.158922Z"
     }
   },
-  "lastUpdated": "2025-08-21T10:44:31.987431Z",
+  "lastUpdated": "2025-08-22T09:49:38.977325Z",
   "totalVideos": 74,
   "totalChannels": 8
 }

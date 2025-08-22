@@ -174,20 +174,43 @@
         "첨단",
         "경제",
         "대한민국",
-        "과기정통부"
+        "과기정통부",
+        "보건복지부",
+        "산업부",
+        "기초과학",
+        "가치사슬",
+        "카이스트",
+        "민간위원",
+        "기초과학연구원",
+        "서울대병원",
+        "서울대",
+        "삼성",
+        "RNA",
+        "인공지능",
+        "게임",
+        "투자",
+        "전문성",
+        "전략성",
+        "범부처",
+        "정책",
+        "예산",
+        "연구개발",
+        "시스템",
+        "토론회",
+        "글로벌",
+        "업그레이트",
+        "매니지먼트"
       ],
-      "categoryId": "25",
-      "defaultLanguage": null,
-      "defaultAudioLanguage": "ko",
       "liveBroadcastContent": "none",
       "liveStreamingDetails": {
         "actualStartTime": "2024-11-03T05:49:42Z",
         "actualEndTime": "2024-11-03T06:03:39Z",
         "scheduledStartTime": "2024-11-03T05:52:00Z"
       },
+      "actualPubAt": "2024-11-03T05:49:42Z",
       "channelId": "UCydbI9p3_8DeteSBbnv0tuA",
       "channelName": "윤석열 정부 영상 아카이브",
-      "collectedAt": "2025-08-20T11:38:53.097614Z"
+      "collectedAt": "2025-08-22T09:49:36.037641Z"
     },
     "BnYDDzEqbGk": {
       "videoId": "BnYDDzEqbGk",
@@ -1092,6 +1115,23 @@
       "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
       "channelName": "뉴스TVCHOSUN",
       "collectedAt": "2025-08-21T10:43:53.827502Z"
+    },
+    "17Muj5WEgtI": {
+      "videoId": "17Muj5WEgtI",
+      "title": "흑인과 히스패닉은 왜 해리스에 등을 돌렸나? (박종훈의 지식한방)",
+      "description": "전통적으로 민주당 지지층이었던 흑인과 히스패닉의 해리스 지지가 큰 폭으로 줄어들었습니다. 이 때문에 해리스에게 가장 중요한 지지층은 백인 미혼 여성인데요, 과연 해리스가 이들을 투표장으로 이끌 수 있을지가 앞으로 관건이 될 것으로 보입니다.\n✉️ 강연 및 협업 문의\neconopunch@gmail.com",
+      "publishedAt": "2024-11-02T23:00:00Z",
+      "duration": "PT15M26S",
+      "viewCount": 409339,
+      "likeCount": 14379,
+      "commentCount": 1689,
+      "tags": [],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2024-11-02T23:00:00Z",
+      "channelId": "UCOB62fKRT7b73X7tRxMuN2g",
+      "channelName": "박종훈의 지식한방",
+      "collectedAt": "2025-08-22T09:49:36.036588Z"
     }
   },
   "channels": {
@@ -1172,9 +1212,9 @@
         }
       },
       "subscriberCount": 255000,
-      "viewCount": 109575768,
+      "viewCount": 109583289,
       "videoCount": 2854,
-      "lastUpdated": "2025-08-20T11:38:53.097614Z"
+      "lastUpdated": "2025-08-22T09:49:36.037460Z"
     },
     "UCWlV3Lz_55UaX4JsMj-z__Q": {
       "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
@@ -1202,9 +1242,36 @@
       "viewCount": 4319423561,
       "videoCount": 150855,
       "lastUpdated": "2025-08-21T10:25:55.390288Z"
+    },
+    "UCOB62fKRT7b73X7tRxMuN2g": {
+      "channelId": "UCOB62fKRT7b73X7tRxMuN2g",
+      "channelName": "박종훈의 지식한방",
+      "channelUrl": "@kpunch",
+      "channelDescription": "박종훈의 지식한방은 급변하는 국제질서와 빨라진 혁신 속도를 따라잡기 위해 세계경제와 지정학적인 변화를 추적하고 이를 통해 우리의 미래를 조망하고 대처할 수 있는 길을 모색하는 채널입니다.\n\n강연 및 협업문의\n✉️ econopunch@gmail.com\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/zsC1hpzdAouTryoT06lSKsSaaU8jlggb9GKrQBHn5nexO-2Dw-UC_CmNBEjdjbd1KztCUySTUA=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/zsC1hpzdAouTryoT06lSKsSaaU8jlggb9GKrQBHn5nexO-2Dw-UC_CmNBEjdjbd1KztCUySTUA=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/zsC1hpzdAouTryoT06lSKsSaaU8jlggb9GKrQBHn5nexO-2Dw-UC_CmNBEjdjbd1KztCUySTUA=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 777000,
+      "viewCount": 111320909,
+      "videoCount": 275,
+      "lastUpdated": "2025-08-22T09:49:36.036398Z"
     }
   },
-  "lastUpdated": "2025-08-21T10:43:53.831034Z",
-  "totalVideos": 37,
-  "totalChannels": 4
+  "lastUpdated": "2025-08-22T09:49:36.037865Z",
+  "totalVideos": 38,
+  "totalChannels": 5
 }

@@ -1134,6 +1134,23 @@
       "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
       "channelName": "뉴스TVCHOSUN",
       "collectedAt": "2025-08-21T10:43:52.644121Z"
+    },
+    "mb4rwSSK2ZE": {
+      "videoId": "mb4rwSSK2ZE",
+      "title": "캐나다 멕시코에 25% 관세 폭탄, 트럼프의 진짜 속셈은? (박종훈의 지식한방)",
+      "description": "트럼프가 캐나다와 멕시코에 25% 관세를 부과하는 행정명령에 서명했습니다. 트럼프가 동맹에게도 관세를 부과한 이유를 살펴보고 그 파장을 짚어봤습니다.\n\n\n✉️ 강연 및 협업 문의\neconopunch@gmail.com",
+      "publishedAt": "2025-02-02T06:20:00Z",
+      "duration": "PT24M56S",
+      "viewCount": 453592,
+      "likeCount": 18602,
+      "commentCount": 1655,
+      "tags": [],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2025-02-02T06:20:00Z",
+      "channelId": "UCOB62fKRT7b73X7tRxMuN2g",
+      "channelName": "박종훈의 지식한방",
+      "collectedAt": "2025-08-22T09:49:34.943709Z"
     }
   },
   "channels": {
@@ -1190,9 +1207,36 @@
       "viewCount": 4319423561,
       "videoCount": 150855,
       "lastUpdated": "2025-08-21T10:25:53.946593Z"
+    },
+    "UCOB62fKRT7b73X7tRxMuN2g": {
+      "channelId": "UCOB62fKRT7b73X7tRxMuN2g",
+      "channelName": "박종훈의 지식한방",
+      "channelUrl": "@kpunch",
+      "channelDescription": "박종훈의 지식한방은 급변하는 국제질서와 빨라진 혁신 속도를 따라잡기 위해 세계경제와 지정학적인 변화를 추적하고 이를 통해 우리의 미래를 조망하고 대처할 수 있는 길을 모색하는 채널입니다.\n\n강연 및 협업문의\n✉️ econopunch@gmail.com\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/zsC1hpzdAouTryoT06lSKsSaaU8jlggb9GKrQBHn5nexO-2Dw-UC_CmNBEjdjbd1KztCUySTUA=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/zsC1hpzdAouTryoT06lSKsSaaU8jlggb9GKrQBHn5nexO-2Dw-UC_CmNBEjdjbd1KztCUySTUA=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/zsC1hpzdAouTryoT06lSKsSaaU8jlggb9GKrQBHn5nexO-2Dw-UC_CmNBEjdjbd1KztCUySTUA=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 777000,
+      "viewCount": 111320909,
+      "videoCount": 275,
+      "lastUpdated": "2025-08-22T09:49:34.943507Z"
     }
   },
-  "lastUpdated": "2025-08-21T10:43:52.644121Z",
-  "totalVideos": 39,
-  "totalChannels": 2
+  "lastUpdated": "2025-08-22T09:49:34.943854Z",
+  "totalVideos": 40,
+  "totalChannels": 3
 }

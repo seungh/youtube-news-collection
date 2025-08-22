@@ -1081,14 +1081,12 @@
         "탄소중립선포식",
         "교회"
       ],
-      "categoryId": "25",
-      "defaultLanguage": null,
-      "defaultAudioLanguage": "ko",
       "liveBroadcastContent": "none",
       "liveStreamingDetails": null,
+      "actualPubAt": "2021-12-02T04:08:46Z",
       "channelId": "UC7WMB_czX5jF__5kqT4d9Ww",
       "channelName": " 문재인정부 청와대",
-      "collectedAt": "2025-08-20T11:39:28.789698Z"
+      "collectedAt": "2025-08-22T09:49:39.243051Z"
     },
     "ViesXdIkMBY": {
       "videoId": "ViesXdIkMBY",
@@ -1096,7 +1094,7 @@
       "description": "[LIVE] 디지털 대한민국, 청년과 함께 미래를 그리다\n\n오늘(2일) 오후 1시 30분부터 진행되는 ‘디지털 대한민국, 청년과 함께 미래를 그리다’ 행사를 라이브로 전해 드립니다.\n문재인 대통령은 이날 디지털 정책 성과를 국민과 함께 공유하고 청년들의 생생한 목소리를 듣는 시간을 가집니다.",
       "publishedAt": "2021-12-02T05:43:38Z",
       "duration": "PT1H17M35S",
-      "viewCount": 22586,
+      "viewCount": 22588,
       "likeCount": 4458,
       "commentCount": 189,
       "tags": [
@@ -1105,18 +1103,16 @@
         "대통령",
         "김정숙"
       ],
-      "categoryId": "25",
-      "defaultLanguage": null,
-      "defaultAudioLanguage": "ko",
       "liveBroadcastContent": "none",
       "liveStreamingDetails": {
         "actualStartTime": "2021-12-02T04:17:29Z",
         "actualEndTime": "2021-12-02T05:35:39Z",
         "scheduledStartTime": "2021-12-02T04:30:00Z"
       },
+      "actualPubAt": "2021-12-02T04:17:29Z",
       "channelId": "UC7WMB_czX5jF__5kqT4d9Ww",
       "channelName": " 문재인정부 청와대",
-      "collectedAt": "2025-08-20T11:39:28.789698Z"
+      "collectedAt": "2025-08-22T09:49:39.243017Z"
     },
     "ym8-d6zraPY": {
       "videoId": "ym8-d6zraPY",
@@ -2261,9 +2257,9 @@
         }
       },
       "subscriberCount": 308000,
-      "viewCount": 58715833,
+      "viewCount": 58721295,
       "videoCount": 1549,
-      "lastUpdated": "2025-08-20T11:39:28.786951Z"
+      "lastUpdated": "2025-08-22T09:49:39.242829Z"
     },
     "UCcl16CxYqlbKQJVCfdhSJVw": {
       "channelId": "UCcl16CxYqlbKQJVCfdhSJVw",
@@ -2347,7 +2343,7 @@
       "lastUpdated": "2025-08-21T10:26:39.139086Z"
     }
   },
-  "lastUpdated": "2025-08-21T10:44:25.332591Z",
+  "lastUpdated": "2025-08-22T09:49:39.243181Z",
   "totalVideos": 77,
   "totalChannels": 8
 }

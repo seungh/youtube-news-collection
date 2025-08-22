@@ -140,20 +140,42 @@
         "윤대통령",
         "출산",
         "출생아",
-        "혼인"
+        "혼인",
+        "결혼",
+        "일가정양육지원",
+        "지원",
+        "정부지원",
+        "주거",
+        "청년",
+        "정책",
+        "돌봄",
+        "육아휴직",
+        "부모급여",
+        "신생아특별공급",
+        "신생아",
+        "대출",
+        "일",
+        "육아",
+        "병행",
+        "임신",
+        "여성",
+        "건강회복",
+        "건강",
+        "사회진출",
+        "임신기",
+        "난임가정",
+        "의료비지원"
       ],
-      "categoryId": "25",
-      "defaultLanguage": null,
-      "defaultAudioLanguage": "ko",
       "liveBroadcastContent": "none",
       "liveStreamingDetails": {
         "actualStartTime": "2024-10-27T05:54:32Z",
         "actualEndTime": "2024-10-27T06:08:58Z",
         "scheduledStartTime": "2024-10-27T05:54:00Z"
       },
+      "actualPubAt": "2024-10-27T05:54:32Z",
       "channelId": "UCydbI9p3_8DeteSBbnv0tuA",
       "channelName": "윤석열 정부 영상 아카이브",
-      "collectedAt": "2025-08-20T11:38:53.121911Z"
+      "collectedAt": "2025-08-22T09:49:36.090409Z"
     },
     "f-1btdmT_aE": {
       "videoId": "f-1btdmT_aE",
@@ -1088,6 +1110,40 @@
       "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
       "channelName": "뉴스TVCHOSUN",
       "collectedAt": "2025-08-21T10:43:53.915597Z"
+    },
+    "_-WS3mihebw": {
+      "videoId": "_-WS3mihebw",
+      "title": "돌변한 금융당국,  이제 1,400원 돌파도 각오해야 하나?",
+      "description": "금융당국의 수장들이 환율에 대해 내놓는 발언들이 미묘하게 달라지고 있습니다. 지금의 1,400원 환율은 과거와 다르다는데요, 과연 어떻게 달라진 것인지, 그리고 금리는 어떻게 되는 것인지 알아봤습니다.\n✉️ 강연 및 협업 문의\neconopunch@gmail.com",
+      "publishedAt": "2024-10-27T09:40:00Z",
+      "duration": "PT17M17S",
+      "viewCount": 355873,
+      "likeCount": 14207,
+      "commentCount": 2176,
+      "tags": [],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2024-10-27T09:40:00Z",
+      "channelId": "UCOB62fKRT7b73X7tRxMuN2g",
+      "channelName": "박종훈의 지식한방",
+      "collectedAt": "2025-08-22T09:49:36.089304Z"
+    },
+    "C5-6j3ZvJGs": {
+      "videoId": "C5-6j3ZvJGs",
+      "title": "이스라엘의 저강도 보복 속에 숨겨진 무시무시한 진짜 노림수는? (박종훈의 지식한방)",
+      "description": "이스라엘이 이란의 주요 군사 시설 20곳을 공격했습니다. 그런데 이란의 피해가 생각보다 약했는데요, 이스라엘이 네덜란드를 통해 공격 지점을 미리 알려줬기 때문입니다. 그렇다면 이스라엘은 왜 이렇게 저강도 보복을 한 것일까요?\n✉️ 강연 및 협업 문의\neconopunch@gmail.com",
+      "publishedAt": "2024-10-26T15:35:00Z",
+      "duration": "PT17M54S",
+      "viewCount": 482840,
+      "likeCount": 16701,
+      "commentCount": 806,
+      "tags": [],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2024-10-26T15:35:00Z",
+      "channelId": "UCOB62fKRT7b73X7tRxMuN2g",
+      "channelName": "박종훈의 지식한방",
+      "collectedAt": "2025-08-22T09:49:36.089325Z"
     }
   },
   "channels": {
@@ -1168,9 +1224,9 @@
         }
       },
       "subscriberCount": 255000,
-      "viewCount": 109575768,
+      "viewCount": 109583289,
       "videoCount": 2854,
-      "lastUpdated": "2025-08-20T11:38:53.121911Z"
+      "lastUpdated": "2025-08-22T09:49:36.090124Z"
     },
     "UCWlV3Lz_55UaX4JsMj-z__Q": {
       "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
@@ -1198,9 +1254,36 @@
       "viewCount": 4319423561,
       "videoCount": 150855,
       "lastUpdated": "2025-08-21T10:25:55.477062Z"
+    },
+    "UCOB62fKRT7b73X7tRxMuN2g": {
+      "channelId": "UCOB62fKRT7b73X7tRxMuN2g",
+      "channelName": "박종훈의 지식한방",
+      "channelUrl": "@kpunch",
+      "channelDescription": "박종훈의 지식한방은 급변하는 국제질서와 빨라진 혁신 속도를 따라잡기 위해 세계경제와 지정학적인 변화를 추적하고 이를 통해 우리의 미래를 조망하고 대처할 수 있는 길을 모색하는 채널입니다.\n\n강연 및 협업문의\n✉️ econopunch@gmail.com\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/zsC1hpzdAouTryoT06lSKsSaaU8jlggb9GKrQBHn5nexO-2Dw-UC_CmNBEjdjbd1KztCUySTUA=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/zsC1hpzdAouTryoT06lSKsSaaU8jlggb9GKrQBHn5nexO-2Dw-UC_CmNBEjdjbd1KztCUySTUA=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/zsC1hpzdAouTryoT06lSKsSaaU8jlggb9GKrQBHn5nexO-2Dw-UC_CmNBEjdjbd1KztCUySTUA=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 777000,
+      "viewCount": 111320909,
+      "videoCount": 275,
+      "lastUpdated": "2025-08-22T09:49:36.088444Z"
     }
   },
-  "lastUpdated": "2025-08-21T10:43:53.917587Z",
-  "totalVideos": 37,
-  "totalChannels": 4
+  "lastUpdated": "2025-08-22T09:49:36.090567Z",
+  "totalVideos": 39,
+  "totalChannels": 5
 }

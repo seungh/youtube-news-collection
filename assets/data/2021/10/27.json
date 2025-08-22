@@ -824,14 +824,12 @@
         "정상회의",
         "동아시아"
       ],
-      "categoryId": "25",
-      "defaultLanguage": null,
-      "defaultAudioLanguage": "ko",
       "liveBroadcastContent": "none",
       "liveStreamingDetails": null,
+      "actualPubAt": "2021-10-27T14:24:14Z",
       "channelId": "UC7WMB_czX5jF__5kqT4d9Ww",
       "channelName": " 문재인정부 청와대",
-      "collectedAt": "2025-08-20T11:39:17.526426Z"
+      "collectedAt": "2025-08-22T09:49:39.584963Z"
     },
     "SgyJOtZsYmQ": {
       "videoId": "SgyJOtZsYmQ",
@@ -852,16 +850,15 @@
         "아세안",
         "의장국",
         "정상성명",
-        "ACRF"
+        "ACRF",
+        "프레임워크"
       ],
-      "categoryId": "25",
-      "defaultLanguage": null,
-      "defaultAudioLanguage": "ko",
       "liveBroadcastContent": "none",
       "liveStreamingDetails": null,
+      "actualPubAt": "2021-10-27T12:10:38Z",
       "channelId": "UC7WMB_czX5jF__5kqT4d9Ww",
       "channelName": " 문재인정부 청와대",
-      "collectedAt": "2025-08-20T11:39:17.526426Z"
+      "collectedAt": "2025-08-22T09:49:39.584993Z"
     },
     "iqJ17jPgfZ8": {
       "videoId": "iqJ17jPgfZ8",
@@ -1986,9 +1983,9 @@
         }
       },
       "subscriberCount": 308000,
-      "viewCount": 58715833,
+      "viewCount": 58721295,
       "videoCount": 1549,
-      "lastUpdated": "2025-08-20T11:39:17.526426Z"
+      "lastUpdated": "2025-08-22T09:49:39.584717Z"
     },
     "UCcl16CxYqlbKQJVCfdhSJVw": {
       "channelId": "UCcl16CxYqlbKQJVCfdhSJVw",
@@ -2045,7 +2042,7 @@
       "lastUpdated": "2025-08-21T10:26:43.736139Z"
     }
   },
-  "lastUpdated": "2025-08-21T10:44:29.540133Z",
+  "lastUpdated": "2025-08-22T09:49:39.585120Z",
   "totalVideos": 68,
   "totalChannels": 7
 }

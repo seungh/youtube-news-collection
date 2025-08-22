@@ -657,20 +657,20 @@
         "환경",
         "온난화",
         "지구온도",
-        "NDC"
+        "NDC",
+        "감축",
+        "re100"
       ],
-      "categoryId": "25",
-      "defaultLanguage": null,
-      "defaultAudioLanguage": "ko",
       "liveBroadcastContent": "none",
       "liveStreamingDetails": {
         "actualStartTime": "2021-10-19T02:50:06Z",
         "actualEndTime": "2021-10-19T03:10:18Z",
         "scheduledStartTime": "2021-10-19T02:49:48Z"
       },
+      "actualPubAt": "2021-10-19T02:50:06Z",
       "channelId": "UC7WMB_czX5jF__5kqT4d9Ww",
       "channelName": " 문재인정부 청와대",
-      "collectedAt": "2025-08-20T11:39:36.046170Z"
+      "collectedAt": "2025-08-22T09:49:39.692878Z"
     },
     "e-eS31KgwjI": {
       "videoId": "e-eS31KgwjI",
@@ -1841,9 +1841,9 @@
         }
       },
       "subscriberCount": 308000,
-      "viewCount": 58715833,
+      "viewCount": 58721295,
       "videoCount": 1549,
-      "lastUpdated": "2025-08-20T11:39:36.046170Z"
+      "lastUpdated": "2025-08-22T09:49:39.692646Z"
     },
     "UCcl16CxYqlbKQJVCfdhSJVw": {
       "channelId": "UCcl16CxYqlbKQJVCfdhSJVw",
@@ -1900,7 +1900,7 @@
       "lastUpdated": "2025-08-21T10:26:43.272752Z"
     }
   },
-  "lastUpdated": "2025-08-21T10:44:29.004537Z",
+  "lastUpdated": "2025-08-22T09:49:39.693031Z",
   "totalVideos": 61,
   "totalChannels": 7
 }

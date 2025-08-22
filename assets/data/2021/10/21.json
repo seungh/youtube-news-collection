@@ -769,14 +769,12 @@
         "인공위성",
         "발사"
       ],
-      "categoryId": "25",
-      "defaultLanguage": "ko",
-      "defaultAudioLanguage": "ko",
       "liveBroadcastContent": "none",
       "liveStreamingDetails": null,
+      "actualPubAt": "2021-10-21T10:07:11Z",
       "channelId": "UC7WMB_czX5jF__5kqT4d9Ww",
       "channelName": " 문재인정부 청와대",
-      "collectedAt": "2025-08-20T11:39:35.766635Z"
+      "collectedAt": "2025-08-22T09:49:39.646248Z"
     },
     "ED4F_LuQoN0": {
       "videoId": "ED4F_LuQoN0",
@@ -797,19 +795,34 @@
         "기념식",
         "아덱스",
         "누리호",
-        "우주항공"
+        "우주항공",
+        "FA-50",
+        "전투기",
+        "방산",
+        "한국형발사체",
+        "누리호 발사",
+        "발사",
+        "우주 발사",
+        "항공 우주",
+        "과학기술",
+        "위성발사",
+        "민간 우주",
+        "우주산업",
+        "우주강국",
+        "우주 기술",
+        "위성 기술",
+        "나로호",
+        "누리"
       ],
-      "categoryId": "25",
-      "defaultLanguage": null,
-      "defaultAudioLanguage": "ko",
       "liveBroadcastContent": "none",
       "liveStreamingDetails": {
         "actualStartTime": "2021-10-21T07:00:09Z",
         "actualEndTime": "2021-10-21T09:30:55Z"
       },
+      "actualPubAt": "2021-10-21T07:00:09Z",
       "channelId": "UC7WMB_czX5jF__5kqT4d9Ww",
       "channelName": " 문재인정부 청와대",
-      "collectedAt": "2025-08-20T11:39:35.766635Z"
+      "collectedAt": "2025-08-22T09:49:39.646283Z"
     },
     "FmpKwk3iSDU": {
       "videoId": "FmpKwk3iSDU",
@@ -1841,9 +1854,9 @@
         }
       },
       "subscriberCount": 308000,
-      "viewCount": 58715833,
+      "viewCount": 58721295,
       "videoCount": 1549,
-      "lastUpdated": "2025-08-20T11:39:35.766635Z"
+      "lastUpdated": "2025-08-22T09:49:39.646040Z"
     },
     "UCcl16CxYqlbKQJVCfdhSJVw": {
       "channelId": "UCcl16CxYqlbKQJVCfdhSJVw",
@@ -1900,7 +1913,7 @@
       "lastUpdated": "2025-08-21T10:26:43.382319Z"
     }
   },
-  "lastUpdated": "2025-08-21T10:44:29.234403Z",
+  "lastUpdated": "2025-08-22T09:49:39.646462Z",
   "totalVideos": 61,
   "totalChannels": 7
 }

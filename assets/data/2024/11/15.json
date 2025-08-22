@@ -1722,7 +1722,7 @@
       "description": "",
       "publishedAt": "2024-11-15T04:48:07Z",
       "duration": "PT9M26S",
-      "viewCount": 9170,
+      "viewCount": 9172,
       "likeCount": 2135,
       "commentCount": 264,
       "tags": [
@@ -1733,14 +1733,12 @@
         "윤석열 유튜브",
         "대한민국 대통령실"
       ],
-      "categoryId": "25",
-      "defaultLanguage": "ko",
-      "defaultAudioLanguage": "en",
       "liveBroadcastContent": "none",
       "liveStreamingDetails": null,
+      "actualPubAt": "2024-11-15T04:48:07Z",
       "channelId": "UCcl16CxYqlbKQJVCfdhSJVw",
       "channelName": "윤석열",
-      "collectedAt": "2025-08-20T11:38:38.847787Z"
+      "collectedAt": "2025-08-22T09:49:40.138016Z"
     },
     "cu9I6xkPGIw": {
       "videoId": "cu9I6xkPGIw",
@@ -1752,18 +1750,16 @@
       "likeCount": 1212,
       "commentCount": 107,
       "tags": [],
-      "categoryId": "25",
-      "defaultLanguage": null,
-      "defaultAudioLanguage": "ko",
       "liveBroadcastContent": "none",
       "liveStreamingDetails": {
         "actualStartTime": "2024-11-15T03:49:49Z",
         "actualEndTime": "2024-11-15T04:01:07Z",
         "scheduledStartTime": "2024-11-15T04:00:00Z"
       },
+      "actualPubAt": "2024-11-15T03:49:49Z",
       "channelId": "UCydbI9p3_8DeteSBbnv0tuA",
       "channelName": "윤석열 정부 영상 아카이브",
-      "collectedAt": "2025-08-20T11:38:38.849074Z"
+      "collectedAt": "2025-08-22T09:49:40.138990Z"
     },
     "tWFuTjDTPxs": {
       "videoId": "tWFuTjDTPxs",
@@ -1771,18 +1767,16 @@
       "description": "#윤석열 #대통령 #순방",
       "publishedAt": "2024-11-15T01:58:23Z",
       "duration": "PT31S",
-      "viewCount": 13524,
+      "viewCount": 13525,
       "likeCount": 3146,
       "commentCount": 254,
       "tags": [],
-      "categoryId": "25",
-      "defaultLanguage": null,
-      "defaultAudioLanguage": "ko",
       "liveBroadcastContent": "none",
       "liveStreamingDetails": null,
+      "actualPubAt": "2024-11-15T01:58:23Z",
       "channelId": "UCydbI9p3_8DeteSBbnv0tuA",
       "channelName": "윤석열 정부 영상 아카이브",
-      "collectedAt": "2025-08-20T11:38:38.849074Z"
+      "collectedAt": "2025-08-22T09:49:40.139033Z"
     },
     "APq4Pk5m1x4": {
       "videoId": "APq4Pk5m1x4",
@@ -5498,9 +5492,9 @@
         }
       },
       "subscriberCount": 754000,
-      "viewCount": 157172619,
+      "viewCount": 157203981,
       "videoCount": 3538,
-      "lastUpdated": "2025-08-20T11:38:38.847787Z"
+      "lastUpdated": "2025-08-22T09:49:40.137768Z"
     },
     "UCydbI9p3_8DeteSBbnv0tuA": {
       "channelId": "UCydbI9p3_8DeteSBbnv0tuA",
@@ -5525,9 +5519,9 @@
         }
       },
       "subscriberCount": 255000,
-      "viewCount": 109575768,
+      "viewCount": 109583289,
       "videoCount": 2854,
-      "lastUpdated": "2025-08-20T11:38:38.847787Z"
+      "lastUpdated": "2025-08-22T09:49:40.138700Z"
     },
     "UCNJM6dqu70Qr6VaseiW1Org": {
       "channelId": "UCNJM6dqu70Qr6VaseiW1Org",
@@ -5584,7 +5578,7 @@
       "lastUpdated": "2025-08-21T10:25:13.882389Z"
     }
   },
-  "lastUpdated": "2025-08-21T10:43:19.627037Z",
+  "lastUpdated": "2025-08-22T09:49:40.139180Z",
   "totalVideos": 187,
   "totalChannels": 9
 }

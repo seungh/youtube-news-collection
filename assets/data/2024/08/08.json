@@ -3311,6 +3311,23 @@
       "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
       "channelName": "뉴스TVCHOSUN",
       "collectedAt": "2025-08-21T10:43:54.667233Z"
+    },
+    "ZV9PTkpQivM": {
+      "videoId": "ZV9PTkpQivM",
+      "title": "경기침체가 와도.. 손발 묶인 옐런 (박종훈의 지식한방)",
+      "description": "미국에서 경기 침체에 대한 우려가 점점 커지고 있습니다. 그런데 문제는 경기 침체가 오더라도 미국이 이에 맞서 싸울 수단이 크게 줄어들었다는 건데요, 재정 정책이나 통화 정책 모두 2008년이나 2020년에 비해 크게 제약을 받고 있는 상태입니다. 과연 경기침체가 오면 어떻게 될까요? 지식한방에서 분석해 봤습니다.\n\n\n✉️ 강연 및 협업 문의\neconopunch@gmail.com",
+      "publishedAt": "2024-08-08T11:40:00Z",
+      "duration": "PT17M53S",
+      "viewCount": 361697,
+      "likeCount": 14289,
+      "commentCount": 839,
+      "tags": [],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2024-08-08T11:40:00Z",
+      "channelId": "UCOB62fKRT7b73X7tRxMuN2g",
+      "channelName": "박종훈의 지식한방",
+      "collectedAt": "2025-08-22T09:49:36.966535Z"
     }
   },
   "channels": {
@@ -3448,9 +3465,36 @@
       "viewCount": 4319423561,
       "videoCount": 150855,
       "lastUpdated": "2025-08-21T10:25:56.877598Z"
+    },
+    "UCOB62fKRT7b73X7tRxMuN2g": {
+      "channelId": "UCOB62fKRT7b73X7tRxMuN2g",
+      "channelName": "박종훈의 지식한방",
+      "channelUrl": "@kpunch",
+      "channelDescription": "박종훈의 지식한방은 급변하는 국제질서와 빨라진 혁신 속도를 따라잡기 위해 세계경제와 지정학적인 변화를 추적하고 이를 통해 우리의 미래를 조망하고 대처할 수 있는 길을 모색하는 채널입니다.\n\n강연 및 협업문의\n✉️ econopunch@gmail.com\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/zsC1hpzdAouTryoT06lSKsSaaU8jlggb9GKrQBHn5nexO-2Dw-UC_CmNBEjdjbd1KztCUySTUA=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/zsC1hpzdAouTryoT06lSKsSaaU8jlggb9GKrQBHn5nexO-2Dw-UC_CmNBEjdjbd1KztCUySTUA=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/zsC1hpzdAouTryoT06lSKsSaaU8jlggb9GKrQBHn5nexO-2Dw-UC_CmNBEjdjbd1KztCUySTUA=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 777000,
+      "viewCount": 111320909,
+      "videoCount": 275,
+      "lastUpdated": "2025-08-22T09:49:36.966321Z"
     }
   },
-  "lastUpdated": "2025-08-21T10:43:54.667233Z",
-  "totalVideos": 119,
-  "totalChannels": 5
+  "lastUpdated": "2025-08-22T09:49:36.966687Z",
+  "totalVideos": 120,
+  "totalChannels": 6
 }
