@@ -39,10 +39,29 @@ jobs:
           python -m pip install --upgrade pip
           pip install requests
 
+      - name: Create cache directory
+        run: mkdir -p cache
+        
+      - name: Restore etag cache
+        id: etag-cache
+        uses: actions/cache/restore@v3
+        with:
+          path: cache/
+          key: youtube-etag-cache-${{ github.run_id }}
+          restore-keys: |
+            youtube-etag-cache-
+
       - name: Run script to fetch data
         env:
           YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
         run: python scripts/collect_youtube_data.py
+        
+      - name: Save etag cache
+        if: always()
+        uses: actions/cache/save@v3
+        with:
+          path: cache/
+          key: youtube-etag-cache-${{ github.run_id }}
 
       - name: Set current date as env variable
         run: echo "NOW=$(date -u +'%Y-%m-%d %H:%M UTC')" >> "$GITHUB_ENV"

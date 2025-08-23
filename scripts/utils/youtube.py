@@ -7,6 +7,7 @@ import requests
 import time
 import logging
 from typing import Dict, List, Optional
+from .cache import CacheManager
 
 logger = logging.getLogger(__name__)
 
@@ -14,27 +15,88 @@ class YouTubeAPIError(Exception):
     """YouTube API related exception"""
     pass
 
+class QuotaTracker:
+    """
+    Quota Tracker Class
+    """
+    QUOTA_COSTS = {
+        'channels': 1,
+        'playlistItems': 1,
+        'videos': 1,
+        'playlists': 1,
+        'search': 100,
+    }
+    
+    def __init__(self):
+        self.quota_used = 0
+        self.requests_made = {}
+        self.cache_hits = 0
+        self.start_time = time.time()
+    
+    def add_request(self, endpoint, cached=False):
+        if cached:
+            self.cache_hits += 1
+            return
+        
+        cost = self.QUOTA_COSTS.get(endpoint, 1)
+        self.quota_used += cost
+        
+        if endpoint not in self.requests_made:
+            self.requests_made[endpoint] = 0
+        self.requests_made[endpoint] += 1
+    
+    def get_summary(self):
+        duration = time.time() - self.start_time
+        total_requests = sum(self.requests_made.values())
+        return {
+            'quota_used': self.quota_used,
+            'total_requests': total_requests,
+            'cache_hits': self.cache_hits,
+            'cache_hit_rate': f"{(self.cache_hits / (total_requests + self.cache_hits) * 100):.1f}%" if (total_requests + self.cache_hits) > 0 else "0.0%",
+            'requests_by_endpoint': self.requests_made,
+        }
+
 class YouTubeAPI:
-    def __init__(self, api_key: str, retry_attempts: int = 3, retry_delay: int = 2, timeout: int = 30):
+    def __init__(self, api_key: str, retry_attempts: int = 3, retry_delay: int = 2, timeout: int = 30, use_cache=True, cache_dir="cache"):
         self.api_key = api_key
         self.base_url = "https://www.googleapis.com/youtube/v3"
         self.retry_attempts = retry_attempts
         self.retry_delay = retry_delay
         self.timeout = timeout
         self.session = requests.Session()
+        self.use_cache = use_cache
+        self.cache_manager = CacheManager(cache_dir) if use_cache else None
+        self.quota_tracker = QuotaTracker()
     
+    def _create_request_key(self, endpoint, params: Dict) -> str:
+        """
+        Create a key for API request.
+        """
+        cache_params = {k: v for k, v in params.items() if k != 'key'}
+        sorted_params = sorted(cache_params.items())
+        param_str = "&".join([f"{k}={v}" for k, v in sorted_params])
+        return f"{endpoint}?{param_str}"
+
     def _make_request(self, endpoint: str, params: Dict) -> Dict:
         """
         Make API request with retry logic and error handling.
         """
+        cached_data = None
+        headers = {}
+        
+        if self.use_cache:
+            request_key = self._create_request_key(endpoint, params)
+            stored_etag, cached_data = self.cache_manager.get_etag(request_key)
+            if stored_etag:
+                logger.info(f"Using etag for request: {request_key}")
+                headers['If-None-Match'] = stored_etag
+
         url = f"{self.base_url}/{endpoint}"
         params['key'] = self.api_key
         
         for attempt in range(self.retry_attempts):
             try:
-                logger.debug(f"API request attempt {attempt + 1}: {endpoint}")
-                
-                response = self.session.get(url, params=params, timeout=self.timeout)
+                response = self.session.get(url, params=params, headers=headers, timeout=self.timeout)
                 
                 # Check HTTP status code
                 if response.status_code == 200:
@@ -45,9 +107,26 @@ class YouTubeAPI:
                         error_msg = data['error'].get('message', 'Unknown API error')
                         raise YouTubeAPIError(f"YouTube API error: {error_msg}")
                     
+                    # Store etag and response in cache
+                    if self.use_cache:
+                        etag = data.get('etag')
+                        if etag:
+                            self.cache_manager.save_etag(request_key, etag, data)
+                            logger.info(f"Saved ETag({etag}) for request: {request_key}")
+                        self.quota_tracker.add_request(endpoint, False)
+
                     logger.debug(f"API request successful: {endpoint}")
                     return data
                 
+                elif response.status_code == 304:
+                    # Not modified - return cached data
+                    logger.info(f"Data not modified (304). Using cached data for: {request_key}")
+                    if self.use_cache and cached_data:
+                        self.quota_tracker.add_request(endpoint, True)
+                        return cached_data
+                    else:
+                        raise YouTubeAPIError("Received 304 but no cached data available")
+
                 elif response.status_code == 403:
                     # Quota exceeded or permission error
                     error_data = response.json()
@@ -92,13 +171,10 @@ class YouTubeAPI:
         Get basic channel information.
         """
         try:
-            params = {
-                "part": "snippet,statistics,contentDetails",
+            data = self._make_request("channels", {
+                "part": "snippet, statistics, contentDetails",
                 "id": channel_id
-            }
-            
-            data = self._make_request("channels", params)
-            
+            })            
             if not data.get("items"):
                 logger.warning(f"Channel not found: {channel_id}")
                 return None
@@ -120,14 +196,12 @@ class YouTubeAPI:
             logger.info(f"Searching video IDs..: {playlist_id}")
             
             while len(video_ids) < max_results:
-                params = {
+                response = self._make_request("playlistItems", {
                     "part": "snippet",
                     "playlistId": playlist_id,
-                    "maxResults": min(50, max_results - len(video_ids)),  # API limit: 50
+                    "maxResults": min(50, max_results - len(video_ids)),
                     "pageToken": next_page_token
-                }
-                response = self._make_request("playlistItems", params)
-                
+                })                
                 for item in response.get("items", []):
                     if item["snippet"]["channelId"] != channel_id:
                         continue
@@ -157,22 +231,17 @@ class YouTubeAPI:
             # Process in batches of 50
             for i in range(0, len(video_ids), 50):
                 batch_ids = video_ids[i:i + 50]
-                
-                params = {
-                    "part": "snippet,statistics,contentDetails,liveStreamingDetails",
+                response = self._make_request("videos", params = {
+                    "part": "snippet, statistics, contentDetails, liveStreamingDetails",
                     "id": ",".join(batch_ids)
-                }
-                
-                data = self._make_request("videos", params)
-                
-                for item in data.get("items", []):
+                })
+                for item in response.get("items", []):
                     try:
                         video_info = {
                             "videoId": item["id"],
                             "title": item["snippet"]["title"],
                             "description": item["snippet"]["description"],
                             "publishedAt": item["snippet"]["publishedAt"],
-                            # "thumbnails": item["snippet"]["thumbnails"], # https://i.ytimg.com/vi/{vid}/{default,mqdefault,hqdefault,sddefault,maxresdefault}.jpg
                             "duration": item["contentDetails"]["duration"],
                             "viewCount": int(item["statistics"].get("viewCount", 0)),
                             "likeCount": int(item["statistics"].get("likeCount", 0)),
@@ -253,11 +322,11 @@ class YouTubeAPI:
         playlists = []
 
         while True:
-            response = self._make_request("playlists", {
+            response = self._make_request("playlists", params = {
                 "part": "snippet",
                 "channelId": channel_id,
                 "maxResults": 50,
-                "pageToken": next_page_token
+                "pageToken": next_page_token,
             })
             if response and response.get("items"):
                 for item in response["items"]:

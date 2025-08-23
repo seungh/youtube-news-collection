@@ -286,19 +286,27 @@ class YouTubeDataCollector:
         logger.info("="*60)
         logger.info(" YouTube Data Collection Results Summary")
         logger.info("="*60)
-        logger.info(f"Execution time: {duration}")
-        logger.info(f"Channels processed: {self.stats['total_channels_processed']}")
-        logger.info(f"Videos processed: {self.stats['total_videos_processed']}")
+        logger.info(f"Execution time:        {duration}")
+        logger.info(f"Channels processed:    {self.stats['total_channels_processed']}")
+        logger.info(f"Videos processed:      {self.stats['total_videos_processed']}")
         logger.info(f"Live streams detected: {self.stats['total_live_streams']}")
-        logger.info(f"Upcoming detected: {self.stats['total_upcoming']}")
-        logger.info(f"Files updated: {self.stats['total_files_updated']}")
-        logger.info(f"Errors: {len(self.stats['errors'])}")
-        
+        logger.info(f"Upcoming detected:     {self.stats['total_upcoming']}")
+        logger.info(f"Files updated:         {self.stats['total_files_updated']}")
+        logger.info(f"Errors:                {len(self.stats['errors'])}")
         if self.stats["errors"]:
             logger.warning("Errors encountered:")
             for error in self.stats["errors"]:
                 logger.warning(f"  - {error}")
 
+        logger.info("="*60)
+        logger.info(" Youtube Data API v3 Quota Summary")
+        logger.info("="*60)
+        quota_summary = self.api.quota_tracker.get_summary()
+        logger.info(f"quota_used:           {quota_summary['quota_used']}")
+        logger.info(f"total_requests:       {quota_summary['total_requests']}")
+        logger.info(f"cache_hits:           {quota_summary['cache_hits']}")
+        logger.info(f"cache_hit_rate:       {quota_summary['cache_hit_rate']}")
+        logger.info(f"requests_by_endpoint: {quota_summary['requests_by_endpoint']}")
         logger.info("="*60)
 
 
