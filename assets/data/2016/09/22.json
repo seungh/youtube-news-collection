@@ -296,6 +296,38 @@
       "channelId": "UC4Aa3OPkMenwTANpf0oWVRQ",
       "channelName": "CBS 김현정의 뉴스쇼",
       "collectedAt": "2025-08-22T14:03:12Z"
+    },
+    "mLV_8g-Rgck": {
+      "videoId": "mLV_8g-Rgck",
+      "title": "[인터뷰 풀영상] 윤정희 \"배역에 대한 욕심, 자존심은 늘 있어\"",
+      "description": "박 대통령 \"확인 안 된 폭로\"…정면반박 ▶ http://bit.ly/2cTDYgz\n'최경환 청탁 의혹' 다시 수면 위로… ▶ http://bit.ly/2cUbwtp\n직원 실수로…번지점프 42m 수직 추락 ▶ http://bit.ly/2cTDoiD\n김영란법 시행 D-6…대형병원들도 '열공' ▶ http://bit.ly/2cTE1cn\n'대처 선진국'…일본 시민들의 지진 대응법 ▶ http://bit.ly/2cTEyek\n\n[앵커]\n\n목요일의 대중문화 초대석. 오늘(22일) 매우 귀한 분을 모셨습니다. 늘 여기 나와 주신 분들은 그렇습니다마는. 오늘 이분께는 그렇게 불러드려도 더욱더 좋을 것 같습니다. 올해로 데뷔 50주년을 맞이한 분. 60년대 여배우 트로이카 시대를 이끌었던 배우십니다. 제가 중학교 때는 모두가, 이 분이 로망이었습니다. 지금 텔레비전을 보고 계신 제 또래의 분들은 굉장히 반가워하실 것 같은데, 배우 윤정희 씨를 뉴스룸에 모셨습니다. 어서 오십시오.",
+      "publishedAt": "2016-09-22T14:09:11Z",
+      "duration": "PT11M32S",
+      "viewCount": 120300,
+      "likeCount": 857,
+      "commentCount": 73,
+      "tags": [
+        "JTBC",
+        "JTBC NEWS",
+        "뉴스룸",
+        "손석희",
+        "인터뷰",
+        "대중문화의 인물",
+        "대중문화",
+        "문화",
+        "윤정희",
+        "여배우",
+        "대중문화 초대석",
+        "배우",
+        "연기자",
+        "공연"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2016-09-22T14:09:11Z",
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "collectedAt": "2025-08-24T21:53:48Z"
     }
   },
   "channels": {
@@ -403,12 +435,39 @@
         }
       },
       "subscriberCount": 1590000,
-      "viewCount": 1279713708,
-      "videoCount": 19125,
-      "lastUpdated": "2025-08-23T20:41:14.020387Z"
+      "viewCount": 1280577570,
+      "videoCount": 19124,
+      "lastUpdated": "2025-08-24T21:53:48.295242Z"
+    },
+    "UCsU-I-vHLiaMfV_ceaYz5rQ": {
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "channelUrl": "@jtbc_news",
+      "channelDescription": "진실에 닿을 때까지 멈추지 않는 질문, JTBC News\nWelcome to the official JTBC News Channel.\n\n▶ https://news.jtbc.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 4670000,
+      "viewCount": 14812391233,
+      "videoCount": 261253,
+      "lastUpdated": "2025-08-24T21:53:48.282213Z"
     }
   },
-  "lastUpdated": "2025-08-23T20:41:14.021416Z",
-  "totalVideos": 11,
-  "totalChannels": 4
+  "lastUpdated": "2025-08-24T21:53:48.296240Z",
+  "totalVideos": 12,
+  "totalChannels": 5
 }

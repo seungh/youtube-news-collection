@@ -662,6 +662,38 @@
       "channelId": "UC4Aa3OPkMenwTANpf0oWVRQ",
       "channelName": "CBS 김현정의 뉴스쇼",
       "collectedAt": "2025-08-22T14:03:13Z"
+    },
+    "ms6klHOZ4dw": {
+      "videoId": "ms6klHOZ4dw",
+      "title": "[인터뷰 풀영상] 고레에다 히로카즈 감독 \"일본 사회, 관용을 잃어가고 있어\"",
+      "description": "일본의 영화감독 한 분을 모셨습니다. 굉장히 반가워하실 분들이 많이 계실 것 같습니다. 베니스영화제에서는 이 감독의 데뷔작을 '영화사상 가장 아름다운 데뷔작'이라고 이야기한 바 있고, 또 여러분께서 잘 아시는 스티븐 스필버그는 \"이 감독의 영화를 온 세계 사람들이 다 봤으면 좋겠다\" 극찬을 아끼지 않은 바로 그 감독. 한국에는 그동안 오셨겠습니다만 방송사 스튜디오를 찾아서 본격적으로 인터뷰를 갖는 건 저희 뉴스룸이 처음인데 일본 영화의 거장 고레에다 히로카즈 감독을 제 옆에 모셨습니다.",
+      "publishedAt": "2016-07-29T01:47:17Z",
+      "duration": "PT9M52S",
+      "viewCount": 113993,
+      "likeCount": 1546,
+      "commentCount": 95,
+      "tags": [
+        "JTBC",
+        "JTBC NEWS",
+        "뉴스룸",
+        "손석희",
+        "일본",
+        "고레에다 히로카즈",
+        "태풍이 지나가고",
+        "스티븐 스필버그",
+        "가족",
+        "어른",
+        "아버지",
+        "다큐",
+        "관용",
+        "테러"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2016-07-29T01:47:17Z",
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "collectedAt": "2025-08-24T21:53:47Z"
     }
   },
   "channels": {
@@ -796,12 +828,39 @@
         }
       },
       "subscriberCount": 1590000,
-      "viewCount": 1279713708,
-      "videoCount": 19125,
-      "lastUpdated": "2025-08-23T20:41:15.140569Z"
+      "viewCount": 1280577570,
+      "videoCount": 19124,
+      "lastUpdated": "2025-08-24T21:53:47.966199Z"
+    },
+    "UCsU-I-vHLiaMfV_ceaYz5rQ": {
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "channelUrl": "@jtbc_news",
+      "channelDescription": "진실에 닿을 때까지 멈추지 않는 질문, JTBC News\nWelcome to the official JTBC News Channel.\n\n▶ https://news.jtbc.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 4670000,
+      "viewCount": 14812391233,
+      "videoCount": 261253,
+      "lastUpdated": "2025-08-24T21:53:47.961216Z"
     }
   },
-  "lastUpdated": "2025-08-23T20:41:15.142335Z",
-  "totalVideos": 25,
-  "totalChannels": 5
+  "lastUpdated": "2025-08-24T21:53:47.967197Z",
+  "totalVideos": 26,
+  "totalChannels": 6
 }

@@ -55,6 +55,31 @@
       "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
       "channelName": "뉴스TVCHOSUN",
       "collectedAt": "2025-08-21T10:46:22Z"
+    },
+    "a5normub4nk": {
+      "videoId": "a5normub4nk",
+      "title": "휘성 모창 김진호 \"진아기획과 계약 안 했지만...\"",
+      "description": "방송사 : JTBC http://www.jtbc.co.kr \r\n▶ JTBC 뉴스9 월~금 21시00분 방송 \r\n▶ 홈페이지 : http://news.jtbc.co.kr \r\n▶ 공식 트위터 : https://twitter.com/JTBC_news \r\n▶ 공식 페이스북 : https://www.facebook.com/jtbcnews \r\n\r\n요즘 어디가나 '히든싱어' 이야기 참 많이 나옵니다. 네, 오늘(30일) 설 명절이기도 해서 아주 특별한 손님, 저희 뉴스에 모셨는데요, 바로 이번 '히든싱어' 시즌 2의 주인공 가수 휘성 모창으로 1위를 차지한 '사랑해 휘성' 김진호 씨입니다.",
+      "publishedAt": "2014-01-30T00:02:59Z",
+      "duration": "PT6M25S",
+      "viewCount": 345767,
+      "likeCount": 1115,
+      "commentCount": 64,
+      "tags": [
+        "JTBC",
+        "JTBC NEWS",
+        "히든싱어",
+        "휘성",
+        "김진호",
+        "태진아",
+        "모창"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2014-01-30T00:02:59Z",
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "collectedAt": "2025-08-24T21:53:43Z"
     }
   },
   "channels": {
@@ -84,9 +109,36 @@
       "viewCount": 4319423561,
       "videoCount": 150855,
       "lastUpdated": "2025-08-21T10:29:00.426400Z"
+    },
+    "UCsU-I-vHLiaMfV_ceaYz5rQ": {
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "channelUrl": "@jtbc_news",
+      "channelDescription": "진실에 닿을 때까지 멈추지 않는 질문, JTBC News\nWelcome to the official JTBC News Channel.\n\n▶ https://news.jtbc.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 4670000,
+      "viewCount": 14812391233,
+      "videoCount": 261253,
+      "lastUpdated": "2025-08-24T21:53:43.262213Z"
     }
   },
-  "lastUpdated": "2025-08-21T10:46:22.765625Z",
-  "totalVideos": 2,
-  "totalChannels": 1
+  "lastUpdated": "2025-08-24T21:53:43.263212Z",
+  "totalVideos": 3,
+  "totalChannels": 2
 }

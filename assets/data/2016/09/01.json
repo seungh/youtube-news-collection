@@ -759,6 +759,54 @@
       "channelId": "UC4Aa3OPkMenwTANpf0oWVRQ",
       "channelName": "CBS 김현정의 뉴스쇼",
       "collectedAt": "2025-08-22T14:03:12Z"
+    },
+    "O2l4C8Bx04k": {
+      "videoId": "O2l4C8Bx04k",
+      "title": "[단독] 안심하고 먹은 1급수 토종 민물고기에 기생충 '득실'…감염된 환자만 50만 명 추정 / SBS",
+      "description": "피라미, 갈겨니, 참몰개, 모래무지. 모두 깨끗한 1급수에 사는 토종 민물고기들입니다. 그래서 민물고기긴 하지만 날로 먹어도 괜찮다고 생각하는 분들이 많죠. 그러나 보건당국의 조사 결과는 충격적입니다. 기생충인 간흡충이 대량으로 나왔고, 이 기생충에 감염된 환자가 50만 명에 이를 것으로 추정되고 있습니다.\n\n송인호 기자의 단독보도입니다.\n\n▶ SBS NEWS 유튜브 채널 구독하기 : https://goo.gl/l8eCja\n\n▶대한민국 뉴스리더 SBS◀\n홈페이지: http://news.sbs.co.kr\n페이스북: http://www.facebook.com/sbs8news\n트위터: http://www.twitter.com/sbs8news",
+      "publishedAt": "2016-09-01T13:00:26Z",
+      "duration": "PT2M3S",
+      "viewCount": 699554,
+      "likeCount": 1178,
+      "commentCount": 759,
+      "tags": [
+        "뉴스",
+        "NEWS",
+        "SBS",
+        "SBS NEWS",
+        "SBS8NEWS",
+        "SBS뉴스",
+        "SBS8뉴스",
+        "에스비에스",
+        "에스비에스뉴스",
+        "서울방송",
+        "SBS보도국",
+        "SEOUL BROADCASTING SYSTEM",
+        "seoul broadcasting system",
+        "sbs",
+        "sbs뉴스",
+        "sbs 뉴스",
+        "korea",
+        "KOREA",
+        "한국",
+        "대한민국",
+        "한국 뉴스",
+        "korea news",
+        "korean news",
+        "KOREA NEWS",
+        "KOREAN NEWS",
+        "1급수",
+        "물고기",
+        "안심",
+        "기생충",
+        "득실"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2016-09-01T13:00:26Z",
+      "channelId": "UCkinYTS9IHqOEwR1Sze2JTw",
+      "channelName": "SBS 뉴스",
+      "collectedAt": "2025-08-24T21:54:44Z"
     }
   },
   "channels": {
@@ -866,12 +914,39 @@
         }
       },
       "subscriberCount": 1590000,
-      "viewCount": 1279713708,
-      "videoCount": 19125,
-      "lastUpdated": "2025-08-23T20:41:14.448886Z"
+      "viewCount": 1280577570,
+      "videoCount": 19124,
+      "lastUpdated": "2025-08-24T21:54:44.206156Z"
+    },
+    "UCkinYTS9IHqOEwR1Sze2JTw": {
+      "channelId": "UCkinYTS9IHqOEwR1Sze2JTw",
+      "channelName": "SBS 뉴스",
+      "channelUrl": "@sbsnews8",
+      "channelDescription": "대한민국 No.1 SBS뉴스 ",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/SqFZwlQcqLs4JMZd3lthkg79kCHi68eerNpkkahvEYSPWhm2afUNqFkbMC6J6JJcy9JJ_DzQ8w=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/SqFZwlQcqLs4JMZd3lthkg79kCHi68eerNpkkahvEYSPWhm2afUNqFkbMC6J6JJcy9JJ_DzQ8w=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/SqFZwlQcqLs4JMZd3lthkg79kCHi68eerNpkkahvEYSPWhm2afUNqFkbMC6J6JJcy9JJ_DzQ8w=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 4990000,
+      "viewCount": 14985058976,
+      "videoCount": 297368,
+      "lastUpdated": "2025-08-24T21:54:44.207151Z"
     }
   },
-  "lastUpdated": "2025-08-23T20:41:14.450925Z",
-  "totalVideos": 30,
-  "totalChannels": 4
+  "lastUpdated": "2025-08-24T21:54:44.208147Z",
+  "totalVideos": 31,
+  "totalChannels": 5
 }

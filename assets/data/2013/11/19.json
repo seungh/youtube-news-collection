@@ -152,6 +152,36 @@
       "channelId": "UC4Aa3OPkMenwTANpf0oWVRQ",
       "channelName": "CBS 김현정의 뉴스쇼",
       "collectedAt": "2025-08-22T14:03:34Z"
+    },
+    "YAbqT_QmplQ": {
+      "videoId": "YAbqT_QmplQ",
+      "title": "[단독 인터뷰] 박인비 \"캘린더 그랜드슬램보다 더 좋은 일\"",
+      "description": "LPGA 투어 박인비 선수가 한국사람으로선 처음으로 LPGA 올해의 선수상을 확정했습니다. 오늘(18일) 새벽에 끝난 로레나 오초아 인비테이셔널에서 단독 4위를 차지했고요, 공동 5위를 기록한 경쟁자 수잔 페테르센을 따돌렸습니다. 페테르센이 남은 경기에서 우승을 해도, 시즌 포인트 차이가 벌어졌기 때문에 박인비 선수가 올해의 선수로 확정된건데요. LPGA에서 올해의 선수는 그 해의 MVP이죠. 골프여제 박세리 선수도 해내지 못한 타이틀의 주인공, 박인비 선수가 전화로 연결돼있습니다. 잠깐 좀 얘기를 나누겠습니다.",
+      "publishedAt": "2013-11-19T05:24:42Z",
+      "duration": "PT4M17S",
+      "viewCount": 2160,
+      "likeCount": 6,
+      "commentCount": 0,
+      "tags": [
+        "JTBC",
+        "JTBC NEWS",
+        "JTBC NEWS9",
+        "NEWS9",
+        "뉴스나인",
+        "뉴스9",
+        "손석희",
+        "박인비",
+        "LPGA",
+        "골프",
+        "페테르센",
+        "수잔"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2013-11-19T05:24:42Z",
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "collectedAt": "2025-08-24T21:53:42Z"
     }
   },
   "channels": {
@@ -178,12 +208,39 @@
         }
       },
       "subscriberCount": 1590000,
-      "viewCount": 1279713708,
-      "videoCount": 19125,
-      "lastUpdated": "2025-08-23T20:41:44.259553Z"
+      "viewCount": 1280577570,
+      "videoCount": 19124,
+      "lastUpdated": "2025-08-24T21:53:42.961244Z"
+    },
+    "UCsU-I-vHLiaMfV_ceaYz5rQ": {
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "channelUrl": "@jtbc_news",
+      "channelDescription": "진실에 닿을 때까지 멈추지 않는 질문, JTBC News\nWelcome to the official JTBC News Channel.\n\n▶ https://news.jtbc.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 4670000,
+      "viewCount": 14812391233,
+      "videoCount": 261253,
+      "lastUpdated": "2025-08-24T21:53:42.961244Z"
     }
   },
-  "lastUpdated": "2025-08-23T20:41:44.259553Z",
-  "totalVideos": 4,
-  "totalChannels": 1
+  "lastUpdated": "2025-08-24T21:53:42.962241Z",
+  "totalVideos": 5,
+  "totalChannels": 2
 }

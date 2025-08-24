@@ -437,6 +437,55 @@
       "channelId": "UC4Aa3OPkMenwTANpf0oWVRQ",
       "channelName": "CBS 김현정의 뉴스쇼",
       "collectedAt": "2025-08-22T14:03:11Z"
+    },
+    "PYgO8NAttOw": {
+      "videoId": "PYgO8NAttOw",
+      "title": "[단독] \"대통령 계좌 추적할 것\"…직접 뇌물죄 검토/ SBS",
+      "description": "여러분 안녕하십니까? 김성준입니다. 대통령이 탄핵소추된 지 열흘째 되는 날입니다. 국정농단 사건과 관련해 어제(18일)는 박근혜 대통령이, 오늘은 최순실 씨가 국민의 가슴을 답답하게 만든 하루였습니다. 자, 오늘 뉴스는 박영수 특별검사팀의 수사 방침 가운데 한가지 눈에 띠는 점에 대한 보도로 시작합니다. 특검팀은 최순실 씨와 문고리 3인방은 물론이고 필요하면 박근혜 대통령의 개인 계좌도 살펴보겠다는 방침을 세웠습니다. 이게 무슨 뜻인가 하면 박 대통령에 대해서 제3자 뇌물죄 뿐만이 아니라 직접 뇌물죄를 적용할 수 있을지 보겠다는 겁니다.\n\n▶ SBS NEWS 유튜브 채널 구독하기 : https://goo.gl/l8eCja\n\n▶대한민국 뉴스리더 SBS◀\n홈페이지: http://news.sbs.co.kr\n페이스북: http://www.facebook.com/sbs8news\n트위터: http://www.twitter.com/sbs8news",
+      "publishedAt": "2016-12-19T12:32:45Z",
+      "duration": "PT1M54S",
+      "viewCount": 1030,
+      "likeCount": 4,
+      "commentCount": 0,
+      "tags": [
+        "뉴스",
+        "NEWS",
+        "SBS",
+        "SBS NEWS",
+        "SBS8NEWS",
+        "SBS뉴스",
+        "SBS8뉴스",
+        "에스비에스",
+        "에스비에스뉴스",
+        "서울방송",
+        "SBS보도국",
+        "SEOUL BROADCASTING SYSTEM",
+        "seoul broadcasting system",
+        "sbs",
+        "sbs뉴스",
+        "sbs 뉴스",
+        "korea",
+        "KOREA",
+        "한국",
+        "대한민국",
+        "한국 뉴스",
+        "korea news",
+        "korean news",
+        "KOREA NEWS",
+        "KOREAN NEWS",
+        "박근혜 대통령",
+        "뇌물죄",
+        "특검",
+        "박영수",
+        "문고리 3인방",
+        "최순실"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2016-12-19T12:32:45Z",
+      "channelId": "UCkinYTS9IHqOEwR1Sze2JTw",
+      "channelName": "SBS 뉴스",
+      "collectedAt": "2025-08-24T21:54:41Z"
     }
   },
   "channels": {
@@ -544,12 +593,39 @@
         }
       },
       "subscriberCount": 1590000,
-      "viewCount": 1279713708,
-      "videoCount": 19125,
-      "lastUpdated": "2025-08-23T20:41:11.786034Z"
+      "viewCount": 1280577570,
+      "videoCount": 19124,
+      "lastUpdated": "2025-08-24T21:54:41.544202Z"
+    },
+    "UCkinYTS9IHqOEwR1Sze2JTw": {
+      "channelId": "UCkinYTS9IHqOEwR1Sze2JTw",
+      "channelName": "SBS 뉴스",
+      "channelUrl": "@sbsnews8",
+      "channelDescription": "대한민국 No.1 SBS뉴스 ",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/SqFZwlQcqLs4JMZd3lthkg79kCHi68eerNpkkahvEYSPWhm2afUNqFkbMC6J6JJcy9JJ_DzQ8w=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/SqFZwlQcqLs4JMZd3lthkg79kCHi68eerNpkkahvEYSPWhm2afUNqFkbMC6J6JJcy9JJ_DzQ8w=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/SqFZwlQcqLs4JMZd3lthkg79kCHi68eerNpkkahvEYSPWhm2afUNqFkbMC6J6JJcy9JJ_DzQ8w=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 4990000,
+      "viewCount": 14985058976,
+      "videoCount": 297368,
+      "lastUpdated": "2025-08-24T21:54:41.545117Z"
     }
   },
-  "lastUpdated": "2025-08-23T20:41:11.792074Z",
-  "totalVideos": 16,
-  "totalChannels": 4
+  "lastUpdated": "2025-08-24T21:54:41.545117Z",
+  "totalVideos": 17,
+  "totalChannels": 5
 }

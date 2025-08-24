@@ -251,6 +251,56 @@
       "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
       "channelName": "뉴스TVCHOSUN",
       "collectedAt": "2025-08-21T10:45:48Z"
+    },
+    "ESEaX_QMcRQ": {
+      "videoId": "ESEaX_QMcRQ",
+      "title": "[단독] 정찰위성 빌려 쓸랬는데 \"임대 불가\" / SBS",
+      "description": "[단독] 정찰위성 빌려 쓸랬는데 \"임대 불가\" / SBS\n\n북한 핵과 미사일에 맞서 우리 군은 선제타격 기술, 킬체인 구축을 추진하고 있습니다. 이 킬체인의 눈으로 불리는 게 바로 정찰위성입니다. 독자 개발에 시간이 걸려서 급한 대로 빌려 쓰려고 했는데 기대했던 나라들이 모두 임대 불가를 통보해 왔습니다.\n\n▶ SBS NEWS 유튜브 채널 구독하기 : https://goo.gl/l8eCja\n\n▶대한민국 뉴스리더 SBS◀\n홈페이지: http://news.sbs.co.kr\n페이스북: http://www.facebook.com/sbs8news\n트위터: http://www.twitter.com/sbs8news",
+      "publishedAt": "2017-09-10T12:37:40Z",
+      "duration": "PT1M49S",
+      "viewCount": 4921,
+      "likeCount": 24,
+      "commentCount": 41,
+      "tags": [
+        "뉴스",
+        "NEWS",
+        "news",
+        "SBS",
+        "sbs",
+        "SBS NEWS",
+        "SBS8NEWS",
+        "SBS뉴스",
+        "SBS8뉴스",
+        "sbs뉴스",
+        "sbs8뉴스",
+        "에스비에스",
+        "에스비에스뉴스",
+        "서울방송",
+        "SBS보도국",
+        "SEOUL BROADCASTING SYSTEM",
+        "seoul broadcasting system",
+        "sbs 뉴스",
+        "korea",
+        "KOREA",
+        "한국",
+        "대한민국",
+        "한국 뉴스",
+        "korea news",
+        "korean news",
+        "KOREA NEWS",
+        "KOREAN NEWS",
+        "8뉴스",
+        "정찰",
+        "불가",
+        "정찰위성",
+        "임대"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2017-09-10T12:37:40Z",
+      "channelId": "UCkinYTS9IHqOEwR1Sze2JTw",
+      "channelName": "SBS 뉴스",
+      "collectedAt": "2025-08-24T21:55:25Z"
     }
   },
   "channels": {
@@ -280,9 +330,36 @@
       "viewCount": 4319423561,
       "videoCount": 150855,
       "lastUpdated": "2025-08-21T10:28:20.970340Z"
+    },
+    "UCkinYTS9IHqOEwR1Sze2JTw": {
+      "channelId": "UCkinYTS9IHqOEwR1Sze2JTw",
+      "channelName": "SBS 뉴스",
+      "channelUrl": "@sbsnews8",
+      "channelDescription": "대한민국 No.1 SBS뉴스 ",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/SqFZwlQcqLs4JMZd3lthkg79kCHi68eerNpkkahvEYSPWhm2afUNqFkbMC6J6JJcy9JJ_DzQ8w=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/SqFZwlQcqLs4JMZd3lthkg79kCHi68eerNpkkahvEYSPWhm2afUNqFkbMC6J6JJcy9JJ_DzQ8w=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/SqFZwlQcqLs4JMZd3lthkg79kCHi68eerNpkkahvEYSPWhm2afUNqFkbMC6J6JJcy9JJ_DzQ8w=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 4990000,
+      "viewCount": 14985058976,
+      "videoCount": 297368,
+      "lastUpdated": "2025-08-24T21:55:25.231086Z"
     }
   },
-  "lastUpdated": "2025-08-21T10:45:48.749685Z",
-  "totalVideos": 9,
-  "totalChannels": 1
+  "lastUpdated": "2025-08-24T21:55:25.232083Z",
+  "totalVideos": 10,
+  "totalChannels": 2
 }

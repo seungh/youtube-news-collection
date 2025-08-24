@@ -341,6 +341,39 @@
       "channelId": "UC4Aa3OPkMenwTANpf0oWVRQ",
       "channelName": "CBS 김현정의 뉴스쇼",
       "collectedAt": "2025-08-22T14:03:27Z"
+    },
+    "SxbfYiM_c-k": {
+      "videoId": "SxbfYiM_c-k",
+      "title": "[인터뷰] 호세 카레라스 \"데뷔 무대서 부른 '가면 무도회' 가장 기억에 남아\"",
+      "description": "방송사 : JTBC http://www.jtbc.co.kr \n▶ JTBC 뉴스룸 월~일 20시00분 방송 \n▶ 홈페이지 : http://news.jtbc.co.kr \n▶ 공식 트위터 : https://twitter.com/JTBC_news \n▶ 공식 페이스북 : https://www.facebook.com/jtbcnews \n\n\n신이 내린 목소리…라는 표현은 어떻게 보면 좀 진부한 표현이 됐습니다만, 이 분의 목소리를 얘기할 때, 이 말 말고 또 어떤 수식이 있을까 싶은데요. 세계 3대 테너 중 한 명으로, 전 세계 수많은 이들에게 큰 감동을 전하고 있고, 또 백혈병을 이겨낸 뒤 재기에 성공한 기적의 주인공이기도 합니다. 오늘(19일)도 멀리 해외에서 특별한 손님 한 분을 모시도록 하겠습니다. 설명이 필요 없는 세계적인 테너 호세 카레라스. 오늘 뉴스룸 스튜디오로 직접 모셨습니다.",
+      "publishedAt": "2014-11-19T13:48:15Z",
+      "duration": "PT12M24S",
+      "viewCount": 31872,
+      "likeCount": 164,
+      "commentCount": 81,
+      "tags": [
+        "JTBC",
+        "JTBC NEWS",
+        "JTBC뉴스",
+        "손석희뉴스",
+        "손석희",
+        "뉴스룸",
+        "뉴스9",
+        "인터뷰",
+        "JTBC인터뷰",
+        "뉴스룸인터뷰",
+        "호세 카레라스",
+        "세계3대테너",
+        "테너",
+        "루치아노 파바로티",
+        "플라시도 도밍고"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2014-11-19T13:48:15Z",
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "collectedAt": "2025-08-24T21:53:44Z"
     }
   },
   "channels": {
@@ -448,12 +481,39 @@
         }
       },
       "subscriberCount": 1590000,
-      "viewCount": 1279713708,
-      "videoCount": 19125,
-      "lastUpdated": "2025-08-23T20:41:34.319929Z"
+      "viewCount": 1280577570,
+      "videoCount": 19124,
+      "lastUpdated": "2025-08-24T21:53:44.012182Z"
+    },
+    "UCsU-I-vHLiaMfV_ceaYz5rQ": {
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "channelUrl": "@jtbc_news",
+      "channelDescription": "진실에 닿을 때까지 멈추지 않는 질문, JTBC News\nWelcome to the official JTBC News Channel.\n\n▶ https://news.jtbc.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 4670000,
+      "viewCount": 14812391233,
+      "videoCount": 261253,
+      "lastUpdated": "2025-08-24T21:53:44.008193Z"
     }
   },
-  "lastUpdated": "2025-08-23T20:41:34.319929Z",
-  "totalVideos": 14,
-  "totalChannels": 4
+  "lastUpdated": "2025-08-24T21:53:44.013699Z",
+  "totalVideos": 15,
+  "totalChannels": 5
 }

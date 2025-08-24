@@ -338,6 +338,44 @@
       "channelId": "UC4Aa3OPkMenwTANpf0oWVRQ",
       "channelName": "CBS 김현정의 뉴스쇼",
       "collectedAt": "2025-08-22T14:03:17Z"
+    },
+    "0hOzHtH5H0s": {
+      "videoId": "0hOzHtH5H0s",
+      "title": "[인터뷰 풀영상] 윤태호 \"'내부자들' 결말, 허무한 점 있지만…최선이라 생각\"",
+      "description": "방송사 : JTBC http://www.jtbc.co.kr\n▶ JTBC 뉴스룸 월~일 20시00분 방송\n▶ 홈페이지 : http://news.jtbc.co.kr\n▶ 공식 트위터 : https://twitter.com/JTBC_news\n▶ 공식 페이스북 : https://www.facebook.com/jtbcnews\n\n시청자 여러분, 2015년의 마지막 날인데요. 대중·문화 인물, 금년에 마지막으로 만나 뵙는 분이군요. 어떤 분을 모실까 고민을 많이 하다가 적임자가 계신 것 같아 오늘(31일) 모셨습니다. 이분의 작품을 원작으로 한 영화가 최근 큰 화제가 되고 있고, 그전엔 드라마로도 크게 히트를 했습니다. 등장하는 인물이라든가 전하는 메시지도 사실 굉장히 묵직한 것들이었고요. 그래서 궁금해졌습니다. 이분이 바라본 2015년 우리 한국 사회는 어떤 모습이었을까. 웹툰 작가. 윤태호 작가를 옆에 모셨습니다. 어서 오십시오.",
+      "publishedAt": "2015-12-31T13:37:31Z",
+      "duration": "PT17M16S",
+      "viewCount": 102710,
+      "likeCount": 445,
+      "commentCount": 37,
+      "tags": [
+        "JTBC",
+        "JTBC NEWS",
+        "JTBC 뉴스",
+        "뉴스룸",
+        "뉴스9",
+        "손석희",
+        "손석희 뉴스",
+        "윤태호",
+        "웹툰",
+        "만화가",
+        "만화",
+        "내부자들",
+        "감독판",
+        "논설주간",
+        "검사",
+        "이끼",
+        "미생",
+        "미생2",
+        "대중문화",
+        "인터뷰"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2015-12-31T13:37:31Z",
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "collectedAt": "2025-08-24T21:53:46Z"
     }
   },
   "channels": {
@@ -445,12 +483,39 @@
         }
       },
       "subscriberCount": 1590000,
-      "viewCount": 1279713708,
-      "videoCount": 19125,
-      "lastUpdated": "2025-08-23T20:41:21.820080Z"
+      "viewCount": 1280577570,
+      "videoCount": 19124,
+      "lastUpdated": "2025-08-24T21:53:46.697567Z"
+    },
+    "UCsU-I-vHLiaMfV_ceaYz5rQ": {
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "channelUrl": "@jtbc_news",
+      "channelDescription": "진실에 닿을 때까지 멈추지 않는 질문, JTBC News\nWelcome to the official JTBC News Channel.\n\n▶ https://news.jtbc.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 4670000,
+      "viewCount": 14812391233,
+      "videoCount": 261253,
+      "lastUpdated": "2025-08-24T21:53:46.697567Z"
     }
   },
-  "lastUpdated": "2025-08-23T20:41:21.821077Z",
-  "totalVideos": 14,
-  "totalChannels": 4
+  "lastUpdated": "2025-08-24T21:53:46.698564Z",
+  "totalVideos": 15,
+  "totalChannels": 5
 }

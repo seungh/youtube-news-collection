@@ -55,6 +55,32 @@
       "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
       "channelName": "뉴스TVCHOSUN",
       "collectedAt": "2025-08-21T10:46:39Z"
+    },
+    "ab0-qGrP0O0": {
+      "videoId": "ab0-qGrP0O0",
+      "title": "\"다이어트? 솔직히 안 했어요\"...장미란, 그녀의 인생 2막",
+      "description": "오늘(22일) 뉴스9에서 준비한 특별 인터뷰는 장미란 전 역도선수와 함께 합니다. 지난 1월 은퇴를 선언한 이후 지금은 본인 이름을 딴 재단에서 비인기 종목 선수와 스포츠 꿈나무 후원에 힘쓰고 있는데요. 오늘과 내일, 다른 유명 선수들과 함께 새터민 학생들을 찾아가 특강과 운동회 등 여러 행사를 연다고 합니다. 장미란 전 선수가 스튜디오에 나와 계십니다.",
+      "publishedAt": "2013-11-23T11:56:14Z",
+      "duration": "PT7M50S",
+      "viewCount": 42795,
+      "likeCount": 321,
+      "commentCount": 43,
+      "tags": [
+        "JTBC",
+        "JTBC NEWS",
+        "JTBC NEWS9",
+        "NEWS9",
+        "뉴스나인",
+        "뉴스9",
+        "손석희",
+        "장미란"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2013-11-23T11:56:14Z",
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "collectedAt": "2025-08-24T21:53:42Z"
     }
   },
   "channels": {
@@ -84,9 +110,36 @@
       "viewCount": 4319423561,
       "videoCount": 150855,
       "lastUpdated": "2025-08-21T10:29:13.647481Z"
+    },
+    "UCsU-I-vHLiaMfV_ceaYz5rQ": {
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "channelUrl": "@jtbc_news",
+      "channelDescription": "진실에 닿을 때까지 멈추지 않는 질문, JTBC News\nWelcome to the official JTBC News Channel.\n\n▶ https://news.jtbc.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 4670000,
+      "viewCount": 14812391233,
+      "videoCount": 261253,
+      "lastUpdated": "2025-08-24T21:53:42.983705Z"
     }
   },
-  "lastUpdated": "2025-08-21T10:46:39.826572Z",
-  "totalVideos": 2,
-  "totalChannels": 1
+  "lastUpdated": "2025-08-24T21:53:42.983705Z",
+  "totalVideos": 3,
+  "totalChannels": 2
 }

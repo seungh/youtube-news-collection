@@ -431,6 +431,42 @@
       "channelId": "UC4Aa3OPkMenwTANpf0oWVRQ",
       "channelName": "CBS 김현정의 뉴스쇼",
       "collectedAt": "2025-08-22T14:01:52Z"
+    },
+    "bPLZ-y83Cj8": {
+      "videoId": "bPLZ-y83Cj8",
+      "title": "[인터뷰] '에볼라 의료진' 정상훈 \"3주 관찰 끝나…포옹해도 안전\"",
+      "description": "방송사 : JTBC http://www.jtbc.co.kr \n▶ JTBC 뉴스룸 월~일 20시00분 방송 \n▶ 홈페이지 : http://news.jtbc.co.kr \n▶ 공식 트위터 : https://twitter.com/JTBC_news \n▶ 공식 페이스북 : https://www.facebook.com/jtbcnews \n\n미국의 시사주간지 타임은 매년 올해의 인물을 선정하지요. 작년의 선정된 인물이 바로 에볼라 바이러스 의료진들이었습니다. 에볼라 전사들이라고 표현을 했습니다. 그야말로 목숨을 걸고 에볼라와 싸우면서 환자를 돌보는 대단한 분들인데요. 오늘(11일) 에볼라 구호활동을 다녀온 의사 한 분을 저희가 어렵게 모셨는데 구호활동을 한 국내의료진 가운데서는 최초의 언론 인터뷰이기도 합니다. 또 이분께서는 한국인 의사로서 최초로 에볼라 지역에 들어갔던 분이기도 하고요 국경없는의사회 소속 정상훈 활동가를 모셨습니다.",
+      "publishedAt": "2015-02-11T14:36:28Z",
+      "duration": "PT12M25S",
+      "viewCount": 9302,
+      "likeCount": 69,
+      "commentCount": 11,
+      "tags": [
+        "JTBC",
+        "JTBC NEWS",
+        "JTBC 뉴스",
+        "제이티비씨 뉴스",
+        "제이티비씨",
+        "손석희",
+        "손석희 뉴스",
+        "뉴스룸",
+        "뉴스9",
+        "에볼라",
+        "정상훈",
+        "에볼라 의료진",
+        "국경없는 의사회",
+        "에볼라 파견",
+        "에볼라 국내",
+        "에볼라 발병",
+        "에볼라 바이러스",
+        "에볼라 봉사"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2015-02-11T14:36:28Z",
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "collectedAt": "2025-08-24T21:53:44Z"
     }
   },
   "channels": {
@@ -565,12 +601,39 @@
         }
       },
       "subscriberCount": 1590000,
-      "viewCount": 1278731005,
-      "videoCount": 19122,
-      "lastUpdated": "2025-08-22T14:01:52.669551Z"
+      "viewCount": 1280577570,
+      "videoCount": 19124,
+      "lastUpdated": "2025-08-24T21:53:44.818187Z"
+    },
+    "UCsU-I-vHLiaMfV_ceaYz5rQ": {
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "channelUrl": "@jtbc_news",
+      "channelDescription": "진실에 닿을 때까지 멈추지 않는 질문, JTBC News\nWelcome to the official JTBC News Channel.\n\n▶ https://news.jtbc.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 4670000,
+      "viewCount": 14812391233,
+      "videoCount": 261253,
+      "lastUpdated": "2025-08-24T21:53:44.817189Z"
     }
   },
-  "lastUpdated": "2025-08-22T14:01:52.671544Z",
-  "totalVideos": 17,
-  "totalChannels": 5
+  "lastUpdated": "2025-08-24T21:53:44.825218Z",
+  "totalVideos": 18,
+  "totalChannels": 6
 }

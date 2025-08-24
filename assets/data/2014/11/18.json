@@ -335,6 +335,39 @@
       "channelId": "UC4Aa3OPkMenwTANpf0oWVRQ",
       "channelName": "CBS 김현정의 뉴스쇼",
       "collectedAt": "2025-08-22T14:03:27Z"
+    },
+    "4ysBhjzAS3E": {
+      "videoId": "4ysBhjzAS3E",
+      "title": "[인터뷰] '트위터 창업' 잭 도시 \"진실 퍼뜨리는 건 우리의 의무\"",
+      "description": "방송사 : JTBC http://www.jtbc.co.kr \n▶ JTBC 뉴스룸 월~일 20시00분 방송 \n▶ 홈페이지 : http://news.jtbc.co.kr \n▶ 공식 트위터 : https://twitter.com/JTBC_news \n▶ 공식 페이스북 : https://www.facebook.com/jtbcnews \n\n \n\n\"아이스크림도 그리 유용하지는 않다\" 트위터가 세상에 처음 등장했을 때, \"재밌긴 하지만 쓸모는 없어서 성공하긴 어렵겠다\"라는 평가에 대해, 트위터 창업자가 했던 말입니다. 이제 전세계 2억 8400만명의 인구가 사용하는 이 소셜네트워크서비스에 대해 쓸모가 없다 이렇게 말하는 아마 없겠죠. 140자로 소통하는 트위터의 파급력은 이제 무시할 수 없을 정도가 됐는데요. 오늘(18일) 특별한 한 분을 뉴스룸 스튜디오에 모셨습니다. 트위터를 만든 공동 창업자이자, 현재 트위터 회장인 잭 도시 회장입니다.",
+      "publishedAt": "2014-11-18T14:23:04Z",
+      "duration": "PT10M19S",
+      "viewCount": 25258,
+      "likeCount": 195,
+      "commentCount": 10,
+      "tags": [
+        "JTBC",
+        "JTBC NEWS",
+        "JTBC뉴스",
+        "손석희뉴스",
+        "손석희",
+        "뉴스룸",
+        "뉴스9",
+        "인터뷰",
+        "JTBC인터뷰",
+        "트위터",
+        "트위터회장",
+        "잭도시",
+        "트위터잭도시",
+        "SNS",
+        "소셜네트워크"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2014-11-18T14:23:04Z",
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "collectedAt": "2025-08-24T21:53:43Z"
     }
   },
   "channels": {
@@ -415,12 +448,39 @@
         }
       },
       "subscriberCount": 1590000,
-      "viewCount": 1279713708,
-      "videoCount": 19125,
-      "lastUpdated": "2025-08-23T20:41:34.345916Z"
+      "viewCount": 1280577570,
+      "videoCount": 19124,
+      "lastUpdated": "2025-08-24T21:53:43.979234Z"
+    },
+    "UCsU-I-vHLiaMfV_ceaYz5rQ": {
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "channelUrl": "@jtbc_news",
+      "channelDescription": "진실에 닿을 때까지 멈추지 않는 질문, JTBC News\nWelcome to the official JTBC News Channel.\n\n▶ https://news.jtbc.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 4670000,
+      "viewCount": 14812391233,
+      "videoCount": 261253,
+      "lastUpdated": "2025-08-24T21:53:43.978236Z"
     }
   },
-  "lastUpdated": "2025-08-23T20:41:34.345916Z",
-  "totalVideos": 13,
-  "totalChannels": 3
+  "lastUpdated": "2025-08-24T21:53:43.980232Z",
+  "totalVideos": 14,
+  "totalChannels": 4
 }

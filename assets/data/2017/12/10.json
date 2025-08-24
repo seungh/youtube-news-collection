@@ -328,6 +328,55 @@
       "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
       "channelName": "뉴스TVCHOSUN",
       "collectedAt": "2025-08-21T10:45:47Z"
+    },
+    "dq_K52JPZx8": {
+      "videoId": "dq_K52JPZx8",
+      "title": "[단독] 몰라서 못 쓴 마일리지, 통신비로 쓴다 / SBS",
+      "description": "통신사도 항공사처럼 마일리지 제도가 있습니다. 피처폰을 사용할 경우에 요금에서 일정액을 적립해주는 거죠. 하지만 고객들이 잘 모르고 사용할 데도 많지 않아서 7년이 지나면 자동 소멸됐습니다. 그동안 통신사들만 좋은 일 시켜줬던 건데 내년부터는 달라집니다.\n\n단독 보도, 김수형 기자입니다.\n\n\n▶ SBS NEWS 유튜브 채널 구독하기 : https://goo.gl/l8eCja\n\n▶대한민국 뉴스리더 SBS◀\n홈페이지: http://news.sbs.co.kr\n페이스북: http://www.facebook.com/sbs8news\n트위터: http://www.twitter.com/sbs8news",
+      "publishedAt": "2017-12-10T12:53:20Z",
+      "duration": "PT1M48S",
+      "viewCount": 15725,
+      "likeCount": 74,
+      "commentCount": 29,
+      "tags": [
+        "뉴스",
+        "NEWS",
+        "news",
+        "SBS",
+        "sbs",
+        "SBS NEWS",
+        "SBS8NEWS",
+        "SBS뉴스",
+        "SBS8뉴스",
+        "sbs뉴스",
+        "sbs8뉴스",
+        "에스비에스",
+        "에스비에스뉴스",
+        "서울방송",
+        "SBS보도국",
+        "SEOUL BROADCASTING SYSTEM",
+        "seoul broadcasting system",
+        "sbs 뉴스",
+        "korea",
+        "KOREA",
+        "한국",
+        "대한민국",
+        "한국 뉴스",
+        "korea news",
+        "korean news",
+        "KOREA NEWS",
+        "KOREAN NEWS",
+        "8뉴스",
+        "마일리지",
+        "자동 소멸",
+        "멤버십 서비스"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2017-12-10T12:53:20Z",
+      "channelId": "UCkinYTS9IHqOEwR1Sze2JTw",
+      "channelName": "SBS 뉴스",
+      "collectedAt": "2025-08-24T21:55:24Z"
     }
   },
   "channels": {
@@ -411,9 +460,36 @@
       "viewCount": 4319423561,
       "videoCount": 150855,
       "lastUpdated": "2025-08-21T10:28:20.062493Z"
+    },
+    "UCkinYTS9IHqOEwR1Sze2JTw": {
+      "channelId": "UCkinYTS9IHqOEwR1Sze2JTw",
+      "channelName": "SBS 뉴스",
+      "channelUrl": "@sbsnews8",
+      "channelDescription": "대한민국 No.1 SBS뉴스 ",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/SqFZwlQcqLs4JMZd3lthkg79kCHi68eerNpkkahvEYSPWhm2afUNqFkbMC6J6JJcy9JJ_DzQ8w=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/SqFZwlQcqLs4JMZd3lthkg79kCHi68eerNpkkahvEYSPWhm2afUNqFkbMC6J6JJcy9JJ_DzQ8w=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/SqFZwlQcqLs4JMZd3lthkg79kCHi68eerNpkkahvEYSPWhm2afUNqFkbMC6J6JJcy9JJ_DzQ8w=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 4990000,
+      "viewCount": 14985058976,
+      "videoCount": 297368,
+      "lastUpdated": "2025-08-24T21:55:24.794108Z"
     }
   },
-  "lastUpdated": "2025-08-21T10:45:47.836585Z",
-  "totalVideos": 12,
-  "totalChannels": 3
+  "lastUpdated": "2025-08-24T21:55:24.794108Z",
+  "totalVideos": 13,
+  "totalChannels": 4
 }

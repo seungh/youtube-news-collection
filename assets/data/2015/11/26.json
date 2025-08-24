@@ -417,6 +417,40 @@
       "channelId": "UC4Aa3OPkMenwTANpf0oWVRQ",
       "channelName": "CBS 김현정의 뉴스쇼",
       "collectedAt": "2025-08-22T14:03:18Z"
+    },
+    "6teAsZlqEYY": {
+      "videoId": "6teAsZlqEYY",
+      "title": "[인터뷰] 정경화 \"한국의 음악 사랑할 수 있도록 노력하고 싶다\"",
+      "description": "방송사 : JTBC http://www.jtbc.co.kr\n▶ JTBC 뉴스룸 월~일 20시00분 방송\n▶ 홈페이지 : http://news.jtbc.co.kr\n▶ 공식 트위터 : https://twitter.com/JTBC_news\n▶ 공식 페이스북 : https://www.facebook.com/jtbcnews\n\n막스 브루흐의 바이올린 협주곡 1번이 흐르고 있습니다. 저는 개인적으로 이 곡을 정확히 40년 전에 처음 이분의 연주로 들었습니다. 그리고 오늘(26일) 바로 이 곡을 연주한 이분을 만나 뵙게 됐습니다. 전 세계에서 브루흐의 바이올린 협주곡을 가장 잘 연주하는 음악가라고 알려져 있기도 하지요. 물론 브루흐만은 아니겠습니다마는. 흉내 낼 수 없는 경지의 바이올리니스트로 평가받는 분이죠.\n\n더 설명이 필요 없는 분, 바이올린의 거장, 정경화 씨를 뉴스룸의 특별한 손님으로 모시겠습니다. 어서 오십시오.",
+      "publishedAt": "2015-11-26T14:29:23Z",
+      "duration": "PT13M9S",
+      "viewCount": 132950,
+      "likeCount": 1450,
+      "commentCount": 104,
+      "tags": [
+        "JTBC",
+        "JTBC NEWS",
+        "JTBC 뉴스",
+        "뉴스룸",
+        "뉴스9",
+        "손석희",
+        "손석희 뉴스",
+        "정경화",
+        "바이올린",
+        "바이올리니스트",
+        "바흐",
+        "브루흐",
+        "바흐 무반주 전곡",
+        "정경화 콘서트",
+        "조성진",
+        "인터뷰"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2015-11-26T14:29:23Z",
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "collectedAt": "2025-08-24T21:53:46Z"
     }
   },
   "channels": {
@@ -524,12 +558,39 @@
         }
       },
       "subscriberCount": 1590000,
-      "viewCount": 1279713708,
-      "videoCount": 19125,
-      "lastUpdated": "2025-08-23T20:41:22.627720Z"
+      "viewCount": 1280577570,
+      "videoCount": 19124,
+      "lastUpdated": "2025-08-24T21:53:46.428176Z"
+    },
+    "UCsU-I-vHLiaMfV_ceaYz5rQ": {
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "channelUrl": "@jtbc_news",
+      "channelDescription": "진실에 닿을 때까지 멈추지 않는 질문, JTBC News\nWelcome to the official JTBC News Channel.\n\n▶ https://news.jtbc.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 4670000,
+      "viewCount": 14812391233,
+      "videoCount": 261253,
+      "lastUpdated": "2025-08-24T21:53:46.427180Z"
     }
   },
-  "lastUpdated": "2025-08-23T20:41:22.627720Z",
-  "totalVideos": 16,
-  "totalChannels": 4
+  "lastUpdated": "2025-08-24T21:53:46.429173Z",
+  "totalVideos": 17,
+  "totalChannels": 5
 }

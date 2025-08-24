@@ -180,6 +180,33 @@
       "channelId": "UC4Aa3OPkMenwTANpf0oWVRQ",
       "channelName": "CBS 김현정의 뉴스쇼",
       "collectedAt": "2025-08-22T14:03:36Z"
+    },
+    "u5_nstdPF78": {
+      "videoId": "u5_nstdPF78",
+      "title": "'일본 방사능 공포 실체' 돌연변이 동식물 알고보니...",
+      "description": "난데없는 방사능 공포증이 인터넷과 SNS를 통해 번져 나가고 있습니다. 이웃한 일본 후쿠시마 원전에서 방사능이 포함된 것으로 알려진 정체불명의 수증기가 피어나고 있기 때문인데요.\n\n자세히보기☞http://news.jtbc.co.kr/article/article.aspx?news_id=NB10315565",
+      "publishedAt": "2013-07-26T06:15:14Z",
+      "duration": "PT2M",
+      "viewCount": 118066,
+      "likeCount": 134,
+      "commentCount": 63,
+      "tags": [
+        "일본 방사능",
+        "일본 방사능 수증기",
+        "도쿄전력",
+        "일본 방사능 돌연변이",
+        "후쿠시마",
+        "후쿠시마 원전",
+        "후쿠시마 돌연변이",
+        "일본 돌연변이",
+        "일본 방사능 오염"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2013-07-26T06:15:14Z",
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "collectedAt": "2025-08-24T21:54:08Z"
     }
   },
   "channels": {
@@ -233,12 +260,39 @@
         }
       },
       "subscriberCount": 1590000,
-      "viewCount": 1279713708,
-      "videoCount": 19125,
-      "lastUpdated": "2025-08-23T20:41:47.031534Z"
+      "viewCount": 1280577570,
+      "videoCount": 19124,
+      "lastUpdated": "2025-08-24T21:54:08.669147Z"
+    },
+    "UCsU-I-vHLiaMfV_ceaYz5rQ": {
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "channelUrl": "@jtbc_news",
+      "channelDescription": "진실에 닿을 때까지 멈추지 않는 질문, JTBC News\nWelcome to the official JTBC News Channel.\n\n▶ https://news.jtbc.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 4670000,
+      "viewCount": 14812391233,
+      "videoCount": 261253,
+      "lastUpdated": "2025-08-24T21:54:08.669147Z"
     }
   },
-  "lastUpdated": "2025-08-23T20:41:47.031534Z",
-  "totalVideos": 5,
-  "totalChannels": 2
+  "lastUpdated": "2025-08-24T21:54:08.670145Z",
+  "totalVideos": 6,
+  "totalChannels": 3
 }

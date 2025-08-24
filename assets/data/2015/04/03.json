@@ -413,6 +413,42 @@
       "channelId": "UC4Aa3OPkMenwTANpf0oWVRQ",
       "channelName": "CBS 김현정의 뉴스쇼",
       "collectedAt": "2025-08-22T14:03:24Z"
+    },
+    "H09ACoJeLCY": {
+      "videoId": "H09ACoJeLCY",
+      "title": "[인터뷰] 이문세, 13년 만에 새 앨범…\"추억 팔기만 해선 안 돼\"",
+      "description": "방송사 : JTBC http://www.jtbc.co.kr \n▶ JTBC 뉴스룸 월~일 20시00분 방송 \n▶ 홈페이지 : http://news.jtbc.co.kr \n▶ 공식 트위터 : https://twitter.com/JTBC_news \n▶ 공식 페이스북 : https://www.facebook.com/jtbcnews \n\n이문세 씨의 노래를 듣고 있습니다. 한 소절만 들어도 금방 아시겠죠. 그리고 한 소절만 들어도 바로 그 어느 시절로 돌아가게 하는, 마치 마법의 버튼 같은 노래들도 있습니다. 이문세 씨의 노래들이 바로 그런 노래 아닌가요? 아마 한 번이라도 흥얼거리지 않은 분들이 안 계실 것 같습니다. \n\n제 옆에 나와 계시는데요, 반갑습니다.",
+      "publishedAt": "2015-04-02T15:07:10Z",
+      "duration": "PT19M16S",
+      "viewCount": 361226,
+      "likeCount": 1705,
+      "commentCount": 193,
+      "tags": [
+        "JTBC",
+        "JTBC NEWS",
+        "JTBC 뉴스",
+        "제이티비씨",
+        "손석희",
+        "손석희 뉴스",
+        "뉴스룸",
+        "인터뷰",
+        "손석희 인터뷰",
+        "이문세",
+        "이문세 인터뷰",
+        "가로수 그늘 아래 서면",
+        "손석희 이문세",
+        "이문세 광화문연가",
+        "광화문연가",
+        "이문세 앨범",
+        "이문세 명곡",
+        "이문세 노래"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2015-04-02T15:07:10Z",
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "collectedAt": "2025-08-24T21:53:45Z"
     }
   },
   "channels": {
@@ -520,12 +556,39 @@
         }
       },
       "subscriberCount": 1590000,
-      "viewCount": 1279713708,
-      "videoCount": 19125,
-      "lastUpdated": "2025-08-23T20:41:30.360333Z"
+      "viewCount": 1280577570,
+      "videoCount": 19124,
+      "lastUpdated": "2025-08-24T21:53:45.041220Z"
+    },
+    "UCsU-I-vHLiaMfV_ceaYz5rQ": {
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "channelUrl": "@jtbc_news",
+      "channelDescription": "진실에 닿을 때까지 멈추지 않는 질문, JTBC News\nWelcome to the official JTBC News Channel.\n\n▶ https://news.jtbc.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 4670000,
+      "viewCount": 14812391233,
+      "videoCount": 261253,
+      "lastUpdated": "2025-08-24T21:53:45.039224Z"
     }
   },
-  "lastUpdated": "2025-08-23T20:41:30.364296Z",
-  "totalVideos": 16,
-  "totalChannels": 4
+  "lastUpdated": "2025-08-24T21:53:45.042215Z",
+  "totalVideos": 17,
+  "totalChannels": 5
 }

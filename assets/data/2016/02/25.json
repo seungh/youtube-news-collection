@@ -123,6 +123,93 @@
       "channelId": "UC4Aa3OPkMenwTANpf0oWVRQ",
       "channelName": "CBS 김현정의 뉴스쇼",
       "collectedAt": "2025-08-22T14:03:16Z"
+    },
+    "lNxSBTWk-m0": {
+      "videoId": "lNxSBTWk-m0",
+      "title": "[인터뷰] 기적처럼 만난 쌍둥이…사만다·아나이스 자매를 만나다",
+      "description": "방송사 : JTBC http://www.jtbc.co.kr\n▶ JTBC 뉴스룸 월~일 20시00분 방송\n▶ 홈페이지 : http://news.jtbc.co.kr\n▶ 공식 트위터 : https://twitter.com/JTBC_news\n▶ 공식 페이스북 : https://www.facebook.com/jtbcnews\n\n네, 오늘(25일) 목요일입니다. 가끔 영화보다 더 영화 같은 일들이 현실에서 벌어지곤 합니다. 오늘 만나볼 이야기야말로 정말 영화 같은 이야기입니다. 한국에서 태어나자마자 미국과 프랑스로 각각 따로따로 입양된 쌍둥이 자매가 25년 만에, 그것도 누가 소개해줘서도 아니고 인터넷을 통해서 만났다는 이야기입니다. 워낙 화제가 많이 됐기 때문에 아마 들어보신 분들도 많이 계실 것 같습니다. 그 기적 같은 이야기가 한 편의 다큐멘터리로 만들어져서 이제 개봉을 앞두고 있는데 이 다큐멘터리가 또 굉장히 잘 만들어졌다고 해서 입소문이 벌써 많이 퍼지고 있습니다. \n\n자, 주인공 두 분을 오늘 스튜디오에 모셨습니다. 한국을 찾은 사만다 그리고 아나이스 쌍둥이 자매를 오늘 제 옆에 모셨습니다. 반갑습니다. 두 분.",
+      "publishedAt": "2016-02-25T14:27:52Z",
+      "duration": "PT11M41S",
+      "viewCount": 997727,
+      "likeCount": 6469,
+      "commentCount": 337,
+      "tags": [
+        "JTBC",
+        "JTBC NEWS",
+        "JTBC 뉴스",
+        "뉴스룸",
+        "뉴스9",
+        "손석희",
+        "손석희 뉴스",
+        "사만다",
+        "아나이스",
+        "쌍둥이",
+        "입양",
+        "페이스북",
+        "트윈스터즈",
+        "다큐멘터리",
+        "사만다 푸터먼",
+        "아나이스 보르디에",
+        "미국",
+        "프랑스",
+        "인터뷰"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2016-02-25T14:27:52Z",
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "collectedAt": "2025-08-24T21:53:46Z"
+    },
+    "V9ntRRfwW_o": {
+      "videoId": "V9ntRRfwW_o",
+      "title": "[단독] 北선박, 단둥항 입항 금지…돈줄 막은 中 / SBS",
+      "description": "북·중 접경지역인 중국 단둥 항에 최근 북한 선박의 입항이 전면 금지된 것으로 확인됐다는 SBS 단독보도로 오늘 첫 뉴스를 시작하겠습니다. 유엔 안보리 대북 제재 결의안 통과가 임박한 가운데, 중국이 독자적인 대북 제재에 나선 것 아니냐는 분석이 나오고 있습니다.\n\n단둥 현지에서 임상범 특파원이 보도합니다.\n\n▶ SBS NEWS 유튜브 채널 구독하기 : https://goo.gl/l8eCja\n\n▶대한민국 뉴스리더 SBS◀\n홈페이지: http://news.sbs.co.kr\n페이스북: http://www.facebook.com/sbs8news\n트위터: http://www.twitter.com/sbs8news",
+      "publishedAt": "2016-02-25T12:17:04Z",
+      "duration": "PT2M5S",
+      "viewCount": 770,
+      "likeCount": 3,
+      "commentCount": 0,
+      "tags": [
+        "뉴스",
+        "NEWS",
+        "SBS",
+        "SBS NEWS",
+        "SBS8NEWS",
+        "SBS뉴스",
+        "SBS8뉴스",
+        "에스비에스",
+        "에스비에스뉴스",
+        "서울방송",
+        "SBS보도국",
+        "SEOUL BROADCASTING SYSTEM",
+        "seoul broadcasting system",
+        "sbs",
+        "sbs뉴스",
+        "sbs 뉴스",
+        "korea",
+        "KOREA",
+        "한국",
+        "대한민국",
+        "한국 뉴스",
+        "korea news",
+        "korean news",
+        "KOREA NEWS",
+        "KOREAN NEWS",
+        "중국",
+        "북한",
+        "대북",
+        "제재",
+        "결의안",
+        "안보리",
+        "유엔"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2016-02-25T12:17:04Z",
+      "channelId": "UCkinYTS9IHqOEwR1Sze2JTw",
+      "channelName": "SBS 뉴스",
+      "collectedAt": "2025-08-24T21:53:46Z"
     }
   },
   "channels": {
@@ -176,12 +263,66 @@
         }
       },
       "subscriberCount": 1590000,
-      "viewCount": 1279713708,
-      "videoCount": 19125,
-      "lastUpdated": "2025-08-23T20:41:19.925038Z"
+      "viewCount": 1280577570,
+      "videoCount": 19124,
+      "lastUpdated": "2025-08-24T21:53:46.913172Z"
+    },
+    "UCsU-I-vHLiaMfV_ceaYz5rQ": {
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "channelUrl": "@jtbc_news",
+      "channelDescription": "진실에 닿을 때까지 멈추지 않는 질문, JTBC News\nWelcome to the official JTBC News Channel.\n\n▶ https://news.jtbc.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 4670000,
+      "viewCount": 14812391233,
+      "videoCount": 261253,
+      "lastUpdated": "2025-08-24T21:53:46.912176Z"
+    },
+    "UCkinYTS9IHqOEwR1Sze2JTw": {
+      "channelId": "UCkinYTS9IHqOEwR1Sze2JTw",
+      "channelName": "SBS 뉴스",
+      "channelUrl": "@sbsnews8",
+      "channelDescription": "대한민국 No.1 SBS뉴스 ",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/SqFZwlQcqLs4JMZd3lthkg79kCHi68eerNpkkahvEYSPWhm2afUNqFkbMC6J6JJcy9JJ_DzQ8w=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/SqFZwlQcqLs4JMZd3lthkg79kCHi68eerNpkkahvEYSPWhm2afUNqFkbMC6J6JJcy9JJ_DzQ8w=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/SqFZwlQcqLs4JMZd3lthkg79kCHi68eerNpkkahvEYSPWhm2afUNqFkbMC6J6JJcy9JJ_DzQ8w=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 4990000,
+      "viewCount": 14985058976,
+      "videoCount": 297368,
+      "lastUpdated": "2025-08-24T21:53:46.913693Z"
     }
   },
-  "lastUpdated": "2025-08-23T20:41:19.926040Z",
-  "totalVideos": 6,
-  "totalChannels": 2
+  "lastUpdated": "2025-08-24T21:53:46.914216Z",
+  "totalVideos": 8,
+  "totalChannels": 4
 }

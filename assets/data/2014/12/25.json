@@ -192,6 +192,42 @@
       "channelId": "UC4Aa3OPkMenwTANpf0oWVRQ",
       "channelName": "CBS 김현정의 뉴스쇼",
       "collectedAt": "2025-08-22T14:03:26Z"
+    },
+    "5Xmq4M7vk9k": {
+      "videoId": "5Xmq4M7vk9k",
+      "title": "[인터뷰] 손봉호 교수 \"종교는 희생…특권 누려선 안 돼\"",
+      "description": "방송사 : JTBC http://www.jtbc.co.kr \n▶ JTBC 뉴스룸 월~일 20시00분 방송 \n▶ 홈페이지 : http://news.jtbc.co.kr \n▶ 공식 트위터 : https://twitter.com/JTBC_news \n▶ 공식 페이스북 : https://www.facebook.com/jtbcnews \n\n'하늘에는 영광, 땅에는 평화' 성탄절인 오늘(25일). 하루 종일 교회와 성당에서 울려 퍼진 말입니다. 하지만 평화라는 말은 올해 우리 사회와 별로 어울리지 않는 말이 아니었나 싶은데요. 오늘 저희는 조금 다른 측면에서, 성탄의 의미를 짚어보려고 합니다. \n\n손봉호 고신대 석좌교수께서 오늘 특별한 손님으로 스튜디오에 나와 주셨습니다.",
+      "publishedAt": "2014-12-25T14:11:02Z",
+      "duration": "PT15M7S",
+      "viewCount": 36908,
+      "likeCount": 319,
+      "commentCount": 177,
+      "tags": [
+        "JTBC",
+        "JTBC NEWS",
+        "JTBC뉴스",
+        "손석희뉴스",
+        "손석희",
+        "뉴스룸",
+        "뉴스9",
+        "인터뷰",
+        "JTBC인터뷰",
+        "손봉호",
+        "고신대",
+        "손봉호 교수",
+        "개신교",
+        "종교",
+        "기독교",
+        "가톨릭",
+        "성탄절",
+        "크리스마스"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2014-12-25T14:11:02Z",
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "collectedAt": "2025-08-24T21:53:44Z"
     }
   },
   "channels": {
@@ -245,12 +281,39 @@
         }
       },
       "subscriberCount": 1590000,
-      "viewCount": 1279713708,
-      "videoCount": 19125,
-      "lastUpdated": "2025-08-23T20:41:33.454958Z"
+      "viewCount": 1280577570,
+      "videoCount": 19124,
+      "lastUpdated": "2025-08-24T21:53:44.448217Z"
+    },
+    "UCsU-I-vHLiaMfV_ceaYz5rQ": {
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "channelUrl": "@jtbc_news",
+      "channelDescription": "진실에 닿을 때까지 멈추지 않는 질문, JTBC News\nWelcome to the official JTBC News Channel.\n\n▶ https://news.jtbc.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 4670000,
+      "viewCount": 14812391233,
+      "videoCount": 261253,
+      "lastUpdated": "2025-08-24T21:53:44.447220Z"
     }
   },
-  "lastUpdated": "2025-08-23T20:41:33.455955Z",
-  "totalVideos": 8,
-  "totalChannels": 2
+  "lastUpdated": "2025-08-24T21:53:44.448217Z",
+  "totalVideos": 9,
+  "totalChannels": 3
 }

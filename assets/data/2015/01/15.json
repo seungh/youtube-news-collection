@@ -216,6 +216,39 @@
       "channelId": "UC4Aa3OPkMenwTANpf0oWVRQ",
       "channelName": "CBS 김현정의 뉴스쇼",
       "collectedAt": "2025-08-22T14:03:25Z"
+    },
+    "kytQE_WOIrQ": {
+      "videoId": "kytQE_WOIrQ",
+      "title": "[인터뷰] 엄용훈 \"영화흥행, 수요가 아니라 공급이 주도\"",
+      "description": "방송사 : JTBC http://www.jtbc.co.kr \n▶ JTBC 뉴스룸 월~일 20시00분 방송 \n▶ 홈페이지 : http://news.jtbc.co.kr \n▶ 공식 트위터 : https://twitter.com/JTBC_news \n▶ 공식 페이스북 : https://www.facebook.com/jtbcnews \n\n갑을문제, 우리 영화계에도 있습니다. 어떤 얘기인지 글쎄요, 아실까요. 저희가 이 시간에 지난번에 김혜자 씨를 초대해서 개를 훔치는 완벽한 방법이라는 영화를 개봉을 앞두고 소개를 해 드렸죠. 실상을 보면 이 영화는 거의 지금 극장에서 찾아볼 수가 없습니다. 관객들은 본 분들은 아주 좋은 영화다, 잘 만들었다, 이렇게 얘기를 하시는데 왜 이렇게 영화를 찾아볼 수 없을까요. 여기에도 어찌 보면 영화계의 갑을이 있습니다. \n\n오늘(15일) 한 분을 모셨는데요. 바로 그 영화를 제작한 엄용훈 대표. 그런데 이분은 어제 물러나셨습니다. 이게 흥행이 안 되니까 내가 책임진다 그러고 물러나셨는데 이분을 통해서 영화계 갑을 얘기를 잠깐 해 보도록 하겠습니다.",
+      "publishedAt": "2015-01-15T13:54:54Z",
+      "duration": "PT8M24S",
+      "viewCount": 3577,
+      "likeCount": 24,
+      "commentCount": 0,
+      "tags": [
+        "JTBC",
+        "JTBC NEWS",
+        "JTBC 뉴스",
+        "제이티비씨",
+        "제이티비씨 뉴스",
+        "손석희",
+        "손석희 뉴스",
+        "인터뷰",
+        "개를 훔치는",
+        "개를 훔치는 완벽한 방법",
+        "엄용훈",
+        "한국 영화",
+        "2014 영화",
+        "가족 영화",
+        "김혜자"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2015-01-15T13:54:54Z",
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "collectedAt": "2025-08-24T21:53:44Z"
     }
   },
   "channels": {
@@ -296,12 +329,39 @@
         }
       },
       "subscriberCount": 1590000,
-      "viewCount": 1279713708,
-      "videoCount": 19125,
-      "lastUpdated": "2025-08-23T20:41:33.005097Z"
+      "viewCount": 1280577570,
+      "videoCount": 19124,
+      "lastUpdated": "2025-08-24T21:53:44.515236Z"
+    },
+    "UCsU-I-vHLiaMfV_ceaYz5rQ": {
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "channelUrl": "@jtbc_news",
+      "channelDescription": "진실에 닿을 때까지 멈추지 않는 질문, JTBC News\nWelcome to the official JTBC News Channel.\n\n▶ https://news.jtbc.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 4670000,
+      "viewCount": 14812391233,
+      "videoCount": 261253,
+      "lastUpdated": "2025-08-24T21:53:44.514261Z"
     }
   },
-  "lastUpdated": "2025-08-23T20:41:33.005624Z",
-  "totalVideos": 9,
-  "totalChannels": 3
+  "lastUpdated": "2025-08-24T21:53:44.516233Z",
+  "totalVideos": 10,
+  "totalChannels": 4
 }

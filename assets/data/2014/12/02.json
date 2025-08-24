@@ -393,6 +393,43 @@
       "channelId": "UC4Aa3OPkMenwTANpf0oWVRQ",
       "channelName": "CBS 김현정의 뉴스쇼",
       "collectedAt": "2025-08-22T14:03:26Z"
+    },
+    "iH_1sgbYnr8": {
+      "videoId": "iH_1sgbYnr8",
+      "title": "[인터뷰] 축구선수 김병지 \"경기장에 서면 나이 잊고 똑같다\"",
+      "description": "방송사 : JTBC http://www.jtbc.co.kr \n▶ JTBC 뉴스룸 월~일 20시00분 방송 \n▶ 홈페이지 : http://news.jtbc.co.kr \n▶ 공식 트위터 : https://twitter.com/JTBC_news \n▶ 공식 페이스북 : https://www.facebook.com/jtbcnews \n\n축구 이야기를 좀 더 이어가겠습니다. 이번에는 좋은 얘기를 할 수 있을 것 같습니다. 축구 선수들의 기량이 가장 빼어난 나이는 몇 살 정도일까요? 대개 20대 초반 정도라고 얘기하는 분들이 많은데, 마흔넷, 우리 세는 나이로 치자면 마흔다섯, 여섯 되는 나이로 여전히 현역에서 뛰는 선수가 있습니다. 경기력 역시, 전성기 때와 크게 다르지 않다는 평가를 받고 있죠. \n\n바로 최고령 K리거. 꽁지머리, 김병지 선수입니다. 살아있는 전설, 누구는 살아있는 '화석'이라고 표현하기도 하는데, 오늘(2일) 스튜디오에 나와주셨습니다",
+      "publishedAt": "2014-12-02T14:14:03Z",
+      "duration": "PT8M15S",
+      "viewCount": 9483,
+      "likeCount": 30,
+      "commentCount": 5,
+      "tags": [
+        "JTBC",
+        "JTBC NEWS",
+        "JTBC뉴스",
+        "손석희뉴스",
+        "손석희",
+        "뉴스룸",
+        "뉴스9",
+        "축구",
+        "축구선수",
+        "한국국가대표",
+        "김병지",
+        "골키퍼",
+        "한국골키퍼",
+        "꽁지머리",
+        "김병지골키퍼",
+        "김병지나이",
+        "K리그",
+        "인터뷰",
+        "JTBC인터뷰"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2014-12-02T14:14:03Z",
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "collectedAt": "2025-08-24T21:53:44Z"
     }
   },
   "channels": {
@@ -500,12 +537,39 @@
         }
       },
       "subscriberCount": 1590000,
-      "viewCount": 1279713708,
-      "videoCount": 19125,
-      "lastUpdated": "2025-08-23T20:41:33.979384Z"
+      "viewCount": 1280577570,
+      "videoCount": 19124,
+      "lastUpdated": "2025-08-24T21:53:44.083190Z"
+    },
+    "UCsU-I-vHLiaMfV_ceaYz5rQ": {
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "channelUrl": "@jtbc_news",
+      "channelDescription": "진실에 닿을 때까지 멈추지 않는 질문, JTBC News\nWelcome to the official JTBC News Channel.\n\n▶ https://news.jtbc.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 4670000,
+      "viewCount": 14812391233,
+      "videoCount": 261253,
+      "lastUpdated": "2025-08-24T21:53:44.081195Z"
     }
   },
-  "lastUpdated": "2025-08-23T20:41:33.981499Z",
-  "totalVideos": 18,
-  "totalChannels": 4
+  "lastUpdated": "2025-08-24T21:53:44.090204Z",
+  "totalVideos": 19,
+  "totalChannels": 5
 }

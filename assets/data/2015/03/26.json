@@ -251,6 +251,58 @@
       "channelId": "UC4Aa3OPkMenwTANpf0oWVRQ",
       "channelName": "CBS 김현정의 뉴스쇼",
       "collectedAt": "2025-08-22T14:03:24Z"
+    },
+    "Yu658JJlRxM": {
+      "videoId": "Yu658JJlRxM",
+      "title": "[인터뷰] 배우 윤여정 \"깐깐함·예민함이 날 배우로 만들었다\"",
+      "description": "방송사 : JTBC http://www.jtbc.co.kr \n▶ JTBC 뉴스룸 월~일 20시00분 방송 \n▶ 홈페이지 : http://news.jtbc.co.kr \n▶ 공식 트위터 : https://twitter.com/JTBC_news \n▶ 공식 페이스북 : https://www.facebook.com/jtbcnews \n\n네 시청자 여러분 방송 사고가 아니었습니다. 오늘(26일) 모실 분이 나온 영화를 잠깐 보여드렸습니다. '하녀'죠. 그런데 이 '하녀'의 원작은 '화녀'입니다. 1971년에 김기영 감독이 만들었던 '화녀.' 전도연 씨가 주인공으로 나오긴 했습니다만 리메이크돼서 나온 '하녀'의 한 장면인데 저희들이 보여드린 분은 전도연 씨가 아니라, 전도연 씨도 이 자리에 나오시긴 했습니다만 윤여정 씨입니다. 올해로 연기생활 50년을 맞으셨는데요. 이번에 새로운 영화도 내놓으시고 '장수상회'라는 새로운 영화를 내놓으셨죠. 그래서 오늘 목요일에 특별한 손님으로 윤여정 씨를 모셨습니다.",
+      "publishedAt": "2015-03-26T14:02:15Z",
+      "duration": "PT16M25S",
+      "viewCount": 868976,
+      "likeCount": 5066,
+      "commentCount": 233,
+      "tags": [
+        "JTBC",
+        "JTBC NEWS",
+        "JTBC 뉴스",
+        "제이티비씨 뉴스",
+        "제이티비씨",
+        "손석희",
+        "손석희 뉴스",
+        "뉴스룸",
+        "뉴스9",
+        "인터뷰",
+        "윤여정",
+        "뉴스룸 인터뷰",
+        "장수상회",
+        "하녀",
+        "미나리",
+        "윤여정 아카데미",
+        "아카데미 시상식",
+        "오스카",
+        "영화 미나리",
+        "정이삭 감독",
+        "미나리 윤여정",
+        "아카데미 연기상",
+        "작품상",
+        "윤여정 미나리",
+        "미나리 한예리",
+        "배우 한예리",
+        "미나리 골든글로브",
+        "골든글로브 수상",
+        "외국어영화상",
+        "아카데미",
+        "미나리 아카데미",
+        "윤여정 후보",
+        "스티븐 연",
+        "MINARI"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2015-03-26T14:02:15Z",
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "collectedAt": "2025-08-24T21:53:44Z"
     }
   },
   "channels": {
@@ -331,12 +383,39 @@
         }
       },
       "subscriberCount": 1590000,
-      "viewCount": 1279713708,
-      "videoCount": 19125,
-      "lastUpdated": "2025-08-23T20:41:31.087248Z"
+      "viewCount": 1280577570,
+      "videoCount": 19124,
+      "lastUpdated": "2025-08-24T21:53:44.945217Z"
+    },
+    "UCsU-I-vHLiaMfV_ceaYz5rQ": {
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "channelUrl": "@jtbc_news",
+      "channelDescription": "진실에 닿을 때까지 멈추지 않는 질문, JTBC News\nWelcome to the official JTBC News Channel.\n\n▶ https://news.jtbc.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 4670000,
+      "viewCount": 14812391233,
+      "videoCount": 261253,
+      "lastUpdated": "2025-08-24T21:53:44.945217Z"
     }
   },
-  "lastUpdated": "2025-08-23T20:41:31.088245Z",
-  "totalVideos": 10,
-  "totalChannels": 3
+  "lastUpdated": "2025-08-24T21:53:44.946215Z",
+  "totalVideos": 11,
+  "totalChannels": 4
 }

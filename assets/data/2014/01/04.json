@@ -83,6 +83,34 @@
       "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
       "channelName": "뉴스TVCHOSUN",
       "collectedAt": "2025-08-21T10:46:29Z"
+    },
+    "T8S3PybYTic": {
+      "videoId": "T8S3PybYTic",
+      "title": "[뉴스9 인터뷰] 공유 \"한강대교 장면 CG? 실제 12번 뛰어내려\"",
+      "description": "매주 금요일 마지막 순서는 여러분들과 친숙하고도 특별한 분을 가능하면 모시고 있습니다. 오늘(3일) 매우 어렵게 한 분을 또 모셨습니다. 요즘 영화 '용의자'로 아주 맹활약을 하고 계신 분이죠. 특히 여성팬들이 굉장히 좋아하실 것 같은데, 배우 공유씨를 스튜디오에서 모시도록 하겠습니다.",
+      "publishedAt": "2014-01-03T16:42:54Z",
+      "duration": "PT9M27S",
+      "viewCount": 330233,
+      "likeCount": 1482,
+      "commentCount": 113,
+      "tags": [
+        "JTBC",
+        "JTBCNEWS",
+        "뉴스9",
+        "news9",
+        "손석희 뉴스9",
+        "JTBC 뉴스",
+        "공유",
+        "용의자",
+        "영화 용의자",
+        "손석희 공유"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2014-01-03T16:42:54Z",
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "collectedAt": "2025-08-24T21:53:43Z"
     }
   },
   "channels": {
@@ -112,9 +140,36 @@
       "viewCount": 4319423561,
       "videoCount": 150855,
       "lastUpdated": "2025-08-21T10:29:06.172814Z"
+    },
+    "UCsU-I-vHLiaMfV_ceaYz5rQ": {
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "channelUrl": "@jtbc_news",
+      "channelDescription": "진실에 닿을 때까지 멈추지 않는 질문, JTBC News\nWelcome to the official JTBC News Channel.\n\n▶ https://news.jtbc.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 4670000,
+      "viewCount": 14812391233,
+      "videoCount": 261253,
+      "lastUpdated": "2025-08-24T21:53:43.081198Z"
     }
   },
-  "lastUpdated": "2025-08-21T10:46:29.790781Z",
-  "totalVideos": 3,
-  "totalChannels": 1
+  "lastUpdated": "2025-08-24T21:53:43.082196Z",
+  "totalVideos": 4,
+  "totalChannels": 2
 }

@@ -394,6 +394,40 @@
       "channelId": "UC4Aa3OPkMenwTANpf0oWVRQ",
       "channelName": "CBS 김현정의 뉴스쇼",
       "collectedAt": "2025-08-22T14:03:25Z"
+    },
+    "RU_c_DHbERY": {
+      "videoId": "RU_c_DHbERY",
+      "title": "[인터뷰] 러셀 크로 \"첫 연출작 '워터 디바이너', 작품이 날 찾아와\"",
+      "description": "방송사 : JTBC http://www.jtbc.co.kr \n▶ JTBC 뉴스룸 월~일 20시00분 방송 \n▶ 홈페이지 : http://news.jtbc.co.kr \n▶ 공식 트위터 : https://twitter.com/JTBC_news \n▶ 공식 페이스북 : https://www.facebook.com/jtbcnews \n\n오늘(20일) 2부에 모신 출연자는 이미 예고해드린 대로 호주 출신의 배우, 러셀 크로입니다. 이제는 배우뿐 아니라 감독이기도 하죠. 이번에 자신이 처음으로 감독한 영화를 들고 내한했는데요, 글래디에이터 이후 우리에게는 설명이 필요없는 배우이기도 하죠. 만나보겠습니다.",
+      "publishedAt": "2015-01-20T16:53:14Z",
+      "duration": "PT11M6S",
+      "viewCount": 114692,
+      "likeCount": 511,
+      "commentCount": 78,
+      "tags": [
+        "JTBC",
+        "JTBC NEWS",
+        "JTBC 뉴스",
+        "손석희",
+        "손석희 뉴스",
+        "제이티비씨",
+        "제이티비씨 뉴스",
+        "뉴스룸",
+        "뉴스9",
+        "인터뷰",
+        "JTBC인터뷰",
+        "러셀 크로",
+        "러셀 크로우",
+        "Russell Crowe",
+        "글레디에이터",
+        "워터디바이너"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2015-01-20T16:53:14Z",
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "collectedAt": "2025-08-24T21:53:44Z"
     }
   },
   "channels": {
@@ -501,12 +535,39 @@
         }
       },
       "subscriberCount": 1590000,
-      "viewCount": 1279713708,
-      "videoCount": 19125,
-      "lastUpdated": "2025-08-23T20:41:32.879159Z"
+      "viewCount": 1280577570,
+      "videoCount": 19124,
+      "lastUpdated": "2025-08-24T21:53:44.592181Z"
+    },
+    "UCsU-I-vHLiaMfV_ceaYz5rQ": {
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "channelUrl": "@jtbc_news",
+      "channelDescription": "진실에 닿을 때까지 멈추지 않는 질문, JTBC News\nWelcome to the official JTBC News Channel.\n\n▶ https://news.jtbc.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 4670000,
+      "viewCount": 14812391233,
+      "videoCount": 261253,
+      "lastUpdated": "2025-08-24T21:53:44.592181Z"
     }
   },
-  "lastUpdated": "2025-08-23T20:41:32.879159Z",
-  "totalVideos": 15,
-  "totalChannels": 4
+  "lastUpdated": "2025-08-24T21:53:44.593701Z",
+  "totalVideos": 16,
+  "totalChannels": 5
 }

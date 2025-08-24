@@ -431,6 +431,61 @@
       "channelId": "UC4Aa3OPkMenwTANpf0oWVRQ",
       "channelName": "CBS 김현정의 뉴스쇼",
       "collectedAt": "2025-08-22T14:01:48Z"
+    },
+    "CpmgwZoQhDg": {
+      "videoId": "CpmgwZoQhDg",
+      "title": "[3시 뉴스브리핑] 여기저기 현금 '펑펑' 재벌 노릇한 최순실…딸 위해 자백할까? / SBS",
+      "description": "● 임광기 \"법 관련 그랜드슬램 달성한 김기춘…압수수색으로 압박 느낄 듯\"\n● 김태현 \"정유라 혐의 자체는 약하지만 최순실 심리적 압박에 진술 기대\"\n● 임광기 \"최순실, 늦게 낳은 정유라에 대해 애착 강해 압박감 상당할 듯\"\n● 임광기 \"최순실, 최보정으로 시술 받고 현금 결제…완벽히 자신을 숨긴 것\"\n● 김태현 \"최순실, 현금 휴지 심에 넣어 사용?…은닉 목적인 듯\"\n\n▶ SBS NEWS 유튜브 채널 구독하기 : https://goo.gl/l8eCja\n\n▶대한민국 뉴스리더 SBS◀\n홈페이지: http://news.sbs.co.kr\n페이스북: http://www.facebook.com/sbs8news\n트위터: http://www.twitter.com/sbs8news",
+      "publishedAt": "2016-12-26T09:49:04Z",
+      "duration": "PT33M28S",
+      "viewCount": 1346,
+      "likeCount": 2,
+      "commentCount": 0,
+      "tags": [
+        "뉴스",
+        "NEWS",
+        "SBS",
+        "SBS NEWS",
+        "SBS8NEWS",
+        "SBS뉴스",
+        "SBS8뉴스",
+        "에스비에스",
+        "에스비에스뉴스",
+        "서울방송",
+        "SBS보도국",
+        "SEOUL BROADCASTING SYSTEM",
+        "seoul broadcasting system",
+        "sbs",
+        "sbs뉴스",
+        "sbs 뉴스",
+        "korea",
+        "KOREA",
+        "한국",
+        "대한민국",
+        "한국 뉴스",
+        "korea news",
+        "korean news",
+        "KOREA NEWS",
+        "KOREAN NEWS",
+        "현금",
+        "재벌",
+        "최순실",
+        "자백",
+        "정유라",
+        "임광기",
+        "김기춘",
+        "김태현",
+        "압박",
+        "특검",
+        "인터폭",
+        "적색수배"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2016-12-26T09:49:04Z",
+      "channelId": "UCkinYTS9IHqOEwR1Sze2JTw",
+      "channelName": "SBS 뉴스",
+      "collectedAt": "2025-08-24T21:54:29Z"
     }
   },
   "channels": {
@@ -565,12 +620,39 @@
         }
       },
       "subscriberCount": 1590000,
-      "viewCount": 1278731005,
-      "videoCount": 19122,
-      "lastUpdated": "2025-08-22T14:01:48.607876Z"
+      "viewCount": 1280577570,
+      "videoCount": 19124,
+      "lastUpdated": "2025-08-24T21:54:29.581151Z"
+    },
+    "UCkinYTS9IHqOEwR1Sze2JTw": {
+      "channelId": "UCkinYTS9IHqOEwR1Sze2JTw",
+      "channelName": "SBS 뉴스",
+      "channelUrl": "@sbsnews8",
+      "channelDescription": "대한민국 No.1 SBS뉴스 ",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/SqFZwlQcqLs4JMZd3lthkg79kCHi68eerNpkkahvEYSPWhm2afUNqFkbMC6J6JJcy9JJ_DzQ8w=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/SqFZwlQcqLs4JMZd3lthkg79kCHi68eerNpkkahvEYSPWhm2afUNqFkbMC6J6JJcy9JJ_DzQ8w=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/SqFZwlQcqLs4JMZd3lthkg79kCHi68eerNpkkahvEYSPWhm2afUNqFkbMC6J6JJcy9JJ_DzQ8w=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 4990000,
+      "viewCount": 14985058976,
+      "videoCount": 297368,
+      "lastUpdated": "2025-08-24T21:54:29.581151Z"
     }
   },
-  "lastUpdated": "2025-08-22T14:01:48.611479Z",
-  "totalVideos": 17,
-  "totalChannels": 5
+  "lastUpdated": "2025-08-24T21:54:29.582148Z",
+  "totalVideos": 18,
+  "totalChannels": 6
 }

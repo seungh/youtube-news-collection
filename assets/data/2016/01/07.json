@@ -408,6 +408,47 @@
       "channelId": "UC4Aa3OPkMenwTANpf0oWVRQ",
       "channelName": "CBS 김현정의 뉴스쇼",
       "collectedAt": "2025-08-22T14:03:17Z"
+    },
+    "SXkrpBBRPbI": {
+      "videoId": "SXkrpBBRPbI",
+      "title": "[인터뷰 풀영상] 정우성 \"본분은 영화배우, 영화 안에 있을 때 가장 빛난다고 생각해\"",
+      "description": "방송사 : JTBC http://www.jtbc.co.kr \n▶ JTBC 뉴스룸 월~일 20시00분 방송 \n▶ 홈페이지 : http://news.jtbc.co.kr \n▶ 공식 트위터 : https://twitter.com/JTBC_news \n▶ 공식 페이스북 : https://www.facebook.com/jtbcnews \n\n목요일, 세상이 아무리 복잡하고 무겁게 돌아가도, 이 시간 만큼은 좀 마음을 가볍게 가져도 되는 시간. 대중문화 인물을 만나는 시간입니다. 어떤 분들은 뉴스 시간에 왜 대중문화 인물을 자꾸 만나느냐 하고 말씀하시는 분들도 계시는데, 저희는 그런 필요 이상의 엄숙주의는 피하고자 합니다. 우리 삶의 일부분이고 또 심지어는 우리 삶을 지배하는 것이 대중문화이기도 하니까요. 말씀을 드리다 보니까 또 엄숙해졌습니다. \n\n오늘(7일) 모실 분은 이렇게 소개를 해드리면 어떨지 모르겠는데요. 좋은 놈, 나쁜 놈, 이상한 놈 중에 좋은 놈이십니다. 정우성 씨가 나와주셨습니다. 고맙습니다.",
+      "publishedAt": "2016-01-07T14:31:43Z",
+      "duration": "PT13M58S",
+      "viewCount": 533326,
+      "likeCount": 2830,
+      "commentCount": 285,
+      "tags": [
+        "JTBC",
+        "JTBC NEWS",
+        "JTBC 뉴스",
+        "뉴스룸",
+        "뉴스9",
+        "손석희",
+        "손석희 뉴스",
+        "정우성",
+        "영화배우",
+        "나를 잊지 말아요",
+        "내 머릿속의 지우개",
+        "기억",
+        "기억상실",
+        "방어기제",
+        "구미호",
+        "놈놈놈",
+        "유엔난민기구",
+        "UNHCR",
+        "친선대사",
+        "난민",
+        "연출",
+        "대중문화",
+        "인터뷰"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2016-01-07T14:31:43Z",
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "collectedAt": "2025-08-24T21:53:46Z"
     }
   },
   "channels": {
@@ -515,12 +556,39 @@
         }
       },
       "subscriberCount": 1590000,
-      "viewCount": 1279713708,
-      "videoCount": 19125,
-      "lastUpdated": "2025-08-23T20:41:21.627912Z"
+      "viewCount": 1280577570,
+      "videoCount": 19124,
+      "lastUpdated": "2025-08-24T21:53:46.743446Z"
+    },
+    "UCsU-I-vHLiaMfV_ceaYz5rQ": {
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "channelUrl": "@jtbc_news",
+      "channelDescription": "진실에 닿을 때까지 멈추지 않는 질문, JTBC News\nWelcome to the official JTBC News Channel.\n\n▶ https://news.jtbc.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 4670000,
+      "viewCount": 14812391233,
+      "videoCount": 261253,
+      "lastUpdated": "2025-08-24T21:53:46.742451Z"
     }
   },
-  "lastUpdated": "2025-08-23T20:41:21.639443Z",
-  "totalVideos": 17,
-  "totalChannels": 4
+  "lastUpdated": "2025-08-24T21:53:46.744442Z",
+  "totalVideos": 18,
+  "totalChannels": 5
 }

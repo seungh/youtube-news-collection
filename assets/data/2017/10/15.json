@@ -475,6 +475,58 @@
       "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
       "channelName": "뉴스TVCHOSUN",
       "collectedAt": "2025-08-21T10:45:48Z"
+    },
+    "3GVoSi7_Lhs": {
+      "videoId": "3GVoSi7_Lhs",
+      "title": "[단독] 이건희 자필 서명 없이…'적격 대주주' 판정 / SBS",
+      "description": "[단독] 이건희 자필 서명 없이…'적격 대주주' 판정 / SBS\n\n오늘(13일) 8시 뉴스는 이런 질문으로 시작해보겠습니다. 국내 최대 재벌 삼성의 적격한 대주주는 누구라고 생각하십니까? 이건희 회장은 현재 와병 중이고 후계자 이재용 부회장은 구속 상태로 재판을 받고 있습니다. 이런 상황에서 삼성금융 계열사의 최대 주주에 대한 적격성 심사가 있었는데, 이건희 회장이 심사를 받았습니다. 이 과정에서 이 회장이 병상에 있다는 이유로 금융당국이 법의 취지를 무시한 판단을 내렸다는 지적이 나왔습니다. SBS가 삼성이 당국에 제출한 사유서를 단독 입수했습니다.\n\n오늘 첫 소식, 이한석 기자의 단독 보도입니다.\n\n▶ SBS NEWS 유튜브 채널 구독하기 : https://goo.gl/l8eCja\n\n▶대한민국 뉴스리더 SBS◀\n홈페이지: http://news.sbs.co.kr\n페이스북: http://www.facebook.com/sbs8news\n트위터: http://www.twitter.com/sbs8news",
+      "publishedAt": "2017-10-15T04:39:33Z",
+      "duration": "PT2M22S",
+      "viewCount": 6046,
+      "likeCount": 17,
+      "commentCount": 22,
+      "tags": [
+        "뉴스",
+        "NEWS",
+        "news",
+        "SBS",
+        "sbs",
+        "SBS NEWS",
+        "SBS8NEWS",
+        "SBS뉴스",
+        "SBS8뉴스",
+        "sbs뉴스",
+        "sbs8뉴스",
+        "에스비에스",
+        "에스비에스뉴스",
+        "서울방송",
+        "SBS보도국",
+        "SEOUL BROADCASTING SYSTEM",
+        "seoul broadcasting system",
+        "sbs 뉴스",
+        "korea",
+        "KOREA",
+        "한국",
+        "대한민국",
+        "한국 뉴스",
+        "korea news",
+        "korean news",
+        "KOREA NEWS",
+        "KOREAN NEWS",
+        "8뉴스",
+        "이건희",
+        "병상",
+        "자필",
+        "서명",
+        "적격",
+        "대주주"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2017-10-15T04:39:33Z",
+      "channelId": "UCkinYTS9IHqOEwR1Sze2JTw",
+      "channelName": "SBS 뉴스",
+      "collectedAt": "2025-08-24T21:55:25Z"
     }
   },
   "channels": {
@@ -504,9 +556,36 @@
       "viewCount": 4319423561,
       "videoCount": 150855,
       "lastUpdated": "2025-08-21T10:28:20.579757Z"
+    },
+    "UCkinYTS9IHqOEwR1Sze2JTw": {
+      "channelId": "UCkinYTS9IHqOEwR1Sze2JTw",
+      "channelName": "SBS 뉴스",
+      "channelUrl": "@sbsnews8",
+      "channelDescription": "대한민국 No.1 SBS뉴스 ",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/SqFZwlQcqLs4JMZd3lthkg79kCHi68eerNpkkahvEYSPWhm2afUNqFkbMC6J6JJcy9JJ_DzQ8w=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/SqFZwlQcqLs4JMZd3lthkg79kCHi68eerNpkkahvEYSPWhm2afUNqFkbMC6J6JJcy9JJ_DzQ8w=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/SqFZwlQcqLs4JMZd3lthkg79kCHi68eerNpkkahvEYSPWhm2afUNqFkbMC6J6JJcy9JJ_DzQ8w=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 4990000,
+      "viewCount": 14985058976,
+      "videoCount": 297368,
+      "lastUpdated": "2025-08-24T21:55:25.145103Z"
     }
   },
-  "lastUpdated": "2025-08-21T10:45:48.516953Z",
-  "totalVideos": 17,
-  "totalChannels": 1
+  "lastUpdated": "2025-08-24T21:55:25.146100Z",
+  "totalVideos": 18,
+  "totalChannels": 2
 }

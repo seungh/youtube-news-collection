@@ -582,6 +582,42 @@
       "channelId": "UC4Aa3OPkMenwTANpf0oWVRQ",
       "channelName": "CBS 김현정의 뉴스쇼",
       "collectedAt": "2025-08-22T14:03:13Z"
+    },
+    "wOzkw15-5tk": {
+      "videoId": "wOzkw15-5tk",
+      "title": "[인터뷰 풀영상] 조진웅 \"아버지 이름으로 연기, 더 조심하게 된다\"",
+      "description": "대중문화 인물을 만나는 목요일입니다.\n이분은 어떻게 설명을 드려야 될 지 모르겠는데, 대개 텔레비전 드라마나 영화에서 조연으로 나오시더라도 '저 사람은 좀 심상치 않다'라던가 '더 크게 될 거 같다'라는 느낌을 주는 배우들이 있으시죠.\n예를 들면 뭐 이 자리에 나오셨던 유해진 씨라던가, 또 다른 분들, 오달수 씨도 마찬가지이긴 했습니다만. 이 분은 또 다른 느낌으로 그런 생각을 하게 하는 분인 것 같습니다. 비단 큰 체격 때문은 아닌 것 같습니다.\n배우 조진웅 씨가 나오셨습니다.",
+      "publishedAt": "2016-06-30T14:54:24Z",
+      "duration": "PT14M58S",
+      "viewCount": 310508,
+      "likeCount": 1515,
+      "commentCount": 165,
+      "tags": [
+        "JTBC",
+        "JTBC NEWS",
+        "뉴스룸",
+        "손석희",
+        "조진웅",
+        "조원준",
+        "사냥",
+        "아가씨",
+        "시그널",
+        "tvN",
+        "문화초대석",
+        "목요초대석",
+        "인터뷰",
+        "풀영상",
+        "대중문화",
+        "배우",
+        "영화배우",
+        "아버지"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2016-06-30T14:54:24Z",
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "collectedAt": "2025-08-24T21:53:47Z"
     }
   },
   "channels": {
@@ -689,12 +725,39 @@
         }
       },
       "subscriberCount": 1590000,
-      "viewCount": 1279713708,
-      "videoCount": 19125,
-      "lastUpdated": "2025-08-23T20:41:15.877214Z"
+      "viewCount": 1280577570,
+      "videoCount": 19124,
+      "lastUpdated": "2025-08-24T21:53:47.734199Z"
+    },
+    "UCsU-I-vHLiaMfV_ceaYz5rQ": {
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "channelUrl": "@jtbc_news",
+      "channelDescription": "진실에 닿을 때까지 멈추지 않는 질문, JTBC News\nWelcome to the official JTBC News Channel.\n\n▶ https://news.jtbc.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 4670000,
+      "viewCount": 14812391233,
+      "videoCount": 261253,
+      "lastUpdated": "2025-08-24T21:53:47.732204Z"
     }
   },
-  "lastUpdated": "2025-08-23T20:41:15.881894Z",
-  "totalVideos": 23,
-  "totalChannels": 4
+  "lastUpdated": "2025-08-24T21:53:47.741181Z",
+  "totalVideos": 24,
+  "totalChannels": 5
 }

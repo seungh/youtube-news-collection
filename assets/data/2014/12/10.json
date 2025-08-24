@@ -384,6 +384,42 @@
       "channelId": "UC4Aa3OPkMenwTANpf0oWVRQ",
       "channelName": "CBS 김현정의 뉴스쇼",
       "collectedAt": "2025-08-22T14:03:26Z"
+    },
+    "RqOUYjCF11w": {
+      "videoId": "RqOUYjCF11w",
+      "title": "[인터뷰] 이재오 의원 \"실세·비선 논란 없애려면 개헌해야\"",
+      "description": "방송사 : JTBC http://www.jtbc.co.kr \n▶ JTBC 뉴스룸 월~일 20시00분 방송 \n▶ 홈페이지 : http://news.jtbc.co.kr \n▶ 공식 트위터 : https://twitter.com/JTBC_news \n▶ 공식 페이스북 : https://www.facebook.com/jtbcnews \n\n\"청와대 문건 유출로 비롯된 비선 실세 논란, 이게 다 제왕적 대통령제가 갖고 있는 폐해다\" 그동안 국회에서 개헌논의를 주도하며 이른바 개헌 전도사를 자임해온 새누리당 이재오 의원의 말입니다. 그동안 예산 정국으로 시들했던 개헌 논의의 불씨가 청와대 문건 유출 사건과 맞물려 재점화될지, 관심이 모아지고 있는데요. \n\n이재오 의원이 오늘(10일) 직접 스튜디오에 나와주셨습니다.",
+      "publishedAt": "2014-12-10T14:36:16Z",
+      "duration": "PT13M45S",
+      "viewCount": 7670,
+      "likeCount": 16,
+      "commentCount": 10,
+      "tags": [
+        "JTBC",
+        "JTBC NEWS",
+        "JTBC뉴스",
+        "손석희뉴스",
+        "손석희",
+        "뉴스룸",
+        "뉴스9",
+        "인터뷰",
+        "JTBC인터뷰",
+        "이재오",
+        "새누리당",
+        "이재오의원",
+        "새누리당이재오",
+        "여당",
+        "청와대 문건 유출",
+        "정윤회문건",
+        "개헌",
+        "비선실세"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2014-12-10T14:36:16Z",
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "collectedAt": "2025-08-24T21:53:44Z"
     }
   },
   "channels": {
@@ -491,12 +527,39 @@
         }
       },
       "subscriberCount": 1590000,
-      "viewCount": 1279713708,
-      "videoCount": 19125,
-      "lastUpdated": "2025-08-23T20:41:33.816907Z"
+      "viewCount": 1280577570,
+      "videoCount": 19124,
+      "lastUpdated": "2025-08-24T21:53:44.200236Z"
+    },
+    "UCsU-I-vHLiaMfV_ceaYz5rQ": {
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "channelUrl": "@jtbc_news",
+      "channelDescription": "진실에 닿을 때까지 멈추지 않는 질문, JTBC News\nWelcome to the official JTBC News Channel.\n\n▶ https://news.jtbc.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 4670000,
+      "viewCount": 14812391233,
+      "videoCount": 261253,
+      "lastUpdated": "2025-08-24T21:53:44.199238Z"
     }
   },
-  "lastUpdated": "2025-08-23T20:41:33.817899Z",
-  "totalVideos": 15,
-  "totalChannels": 4
+  "lastUpdated": "2025-08-24T21:53:44.208215Z",
+  "totalVideos": 16,
+  "totalChannels": 5
 }

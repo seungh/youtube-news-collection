@@ -487,6 +487,44 @@
       "channelId": "UC4Aa3OPkMenwTANpf0oWVRQ",
       "channelName": "CBS 김현정의 뉴스쇼",
       "collectedAt": "2025-08-22T14:03:15Z"
+    },
+    "PmbReqE-JW0": {
+      "videoId": "PmbReqE-JW0",
+      "title": "[인터뷰] 이세돌 9단 솔직 고백…\"알파고에 패한 건 아쉽게 생각\"",
+      "description": "- \"감각을 너무 믿어서는 안되겠구나…수읽기에 집중\"\n- \"알파고 이길 수 없는 존재는 아니다\"\n- \"다시 둔다면 박빙일 것\"\n\n경기도 광주에 있는 이세돌 9단을 화상으로 연결하겠습니다. 알파고와의 대국 이후, 방송과 본격적으로 인터뷰하는 것은 오늘(10일)이 처음인 것 같습니다.\n\nQ. 알파고와 대국 뒤 더 강해졌나\nQ. 바둑, 감각적 vs 수읽기…차이는?\nQ. 알파고, 어떤 존재로 느껴졌나?\nQ. 알파고와 재대결, 약속 있었나?\nQ. 가장 아쉬웠던 대국은 언제인가\n\n\nhttp://news.jtbc.joins.com/article/article.aspx?news_id=NB11230441",
+      "publishedAt": "2016-05-10T17:51:42Z",
+      "duration": "PT7M23S",
+      "viewCount": 35401,
+      "likeCount": 117,
+      "commentCount": 14,
+      "tags": [
+        "불계승",
+        "쎈돌",
+        "AI",
+        "맥심",
+        "알파고",
+        "이세돌",
+        "맥심커피배",
+        "한돌 대국",
+        "JTBC",
+        "뉴스룸",
+        "센돌",
+        "이세돌 1승",
+        "이세돌 한돌",
+        "인공지능",
+        "손석희",
+        "JTBC NEWS",
+        "은퇴 대국",
+        "바둑",
+        "인터뷰",
+        "대국"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2016-05-10T17:51:42Z",
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "collectedAt": "2025-08-24T21:53:47Z"
     }
   },
   "channels": {
@@ -594,12 +632,39 @@
         }
       },
       "subscriberCount": 1590000,
-      "viewCount": 1279713708,
-      "videoCount": 19125,
-      "lastUpdated": "2025-08-23T20:41:17.810883Z"
+      "viewCount": 1280577570,
+      "videoCount": 19124,
+      "lastUpdated": "2025-08-24T21:53:47.200212Z"
+    },
+    "UCsU-I-vHLiaMfV_ceaYz5rQ": {
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "channelUrl": "@jtbc_news",
+      "channelDescription": "진실에 닿을 때까지 멈추지 않는 질문, JTBC News\nWelcome to the official JTBC News Channel.\n\n▶ https://news.jtbc.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 4670000,
+      "viewCount": 14812391233,
+      "videoCount": 261253,
+      "lastUpdated": "2025-08-24T21:53:47.200212Z"
     }
   },
-  "lastUpdated": "2025-08-23T20:41:17.816865Z",
-  "totalVideos": 19,
-  "totalChannels": 4
+  "lastUpdated": "2025-08-24T21:53:47.201211Z",
+  "totalVideos": 20,
+  "totalChannels": 5
 }

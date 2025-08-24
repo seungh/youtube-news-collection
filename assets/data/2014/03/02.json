@@ -195,6 +195,30 @@
       "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
       "channelName": "뉴스TVCHOSUN",
       "collectedAt": "2025-08-21T10:46:21Z"
+    },
+    "uvYsf9-48FE": {
+      "videoId": "uvYsf9-48FE",
+      "title": "[일요 초대석] 폴포츠 \"내 이야기 담은 영화, 믿기지 않아\"",
+      "description": "단 한 번의 노래로 휴대전화 판매원에서 세계적인 스타가 된 인생역전의 주인공. 오페라 가수 폴 포츠가 JTBC 스튜디오에 나왔습니다. \n\n방송사 : JTBC http://www.jtbc.co.kr \n▶ JTBC 뉴스9 월~금 21시00분 방송 \n▶ 홈페이지 : http://news.jtbc.co.kr \n▶ 공식 트위터 : https://twitter.com/JTBC_news \n▶ 공식 페이스북 : https://www.facebook.com/jtbcnews",
+      "publishedAt": "2014-03-02T12:55:21Z",
+      "duration": "PT9M48S",
+      "viewCount": 32560,
+      "likeCount": 132,
+      "commentCount": 8,
+      "tags": [
+        "JTBC뉴스",
+        "JTBC 뉴스9",
+        "JTBC 주말뉴스",
+        "안착히",
+        "폴포츠",
+        "오페라"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2014-03-02T12:55:21Z",
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "collectedAt": "2025-08-24T21:53:43Z"
     }
   },
   "channels": {
@@ -224,9 +248,36 @@
       "viewCount": 4319423561,
       "videoCount": 150855,
       "lastUpdated": "2025-08-21T10:28:59.935234Z"
+    },
+    "UCsU-I-vHLiaMfV_ceaYz5rQ": {
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "channelUrl": "@jtbc_news",
+      "channelDescription": "진실에 닿을 때까지 멈추지 않는 질문, JTBC News\nWelcome to the official JTBC News Channel.\n\n▶ https://news.jtbc.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 4670000,
+      "viewCount": 14812391233,
+      "videoCount": 261253,
+      "lastUpdated": "2025-08-24T21:53:43.340178Z"
     }
   },
-  "lastUpdated": "2025-08-21T10:46:21.865743Z",
-  "totalVideos": 7,
-  "totalChannels": 1
+  "lastUpdated": "2025-08-24T21:53:43.341175Z",
+  "totalVideos": 8,
+  "totalChannels": 2
 }

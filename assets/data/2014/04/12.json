@@ -83,6 +83,33 @@
       "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
       "channelName": "뉴스TVCHOSUN",
       "collectedAt": "2025-08-21T10:46:20Z"
+    },
+    "thz1e6rfDYo": {
+      "videoId": "thz1e6rfDYo",
+      "title": "[인터뷰] '데뷔 50년' 남진 \"젊은 세대의 '파트너' 되겠다\"",
+      "description": "방송사 : JTBC http://www.jtbc.co.kr\n▶ JTBC 뉴스9 월~금 21시00분 방송\n▶ 홈페이지 : http://news.jtbc.co.kr\n▶ 공식 트위터 : https://twitter.com/JTBC_news\n▶ 공식 페이스북 : https://www.facebook.com/jtbcnews\n\n'저푸른 초원위에 구름같은 집을 짓고'. 바로 가수 남진의 '님과 함께'죠. 제가 아주 어렸을 때도 히트곡이었는데요. 한국의 엘비스 남진이 올해로 데뷔가 무려 50주년입니다. \n\n송지혜 기자가 만났습니다.",
+      "publishedAt": "2014-04-12T10:13:37Z",
+      "duration": "PT4M11S",
+      "viewCount": 13250,
+      "likeCount": 140,
+      "commentCount": 23,
+      "tags": [
+        "jtbc",
+        "jtbc news",
+        "jtbc 뉴스",
+        "뉴스9",
+        "손석희",
+        "남진",
+        "나훈아",
+        "엘비스 프레슬리",
+        "님과 함께"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2014-04-12T10:13:37Z",
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "collectedAt": "2025-08-24T21:53:43Z"
     }
   },
   "channels": {
@@ -112,9 +139,36 @@
       "viewCount": 4319423561,
       "videoCount": 150855,
       "lastUpdated": "2025-08-21T10:28:59.335074Z"
+    },
+    "UCsU-I-vHLiaMfV_ceaYz5rQ": {
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "channelUrl": "@jtbc_news",
+      "channelDescription": "진실에 닿을 때까지 멈추지 않는 질문, JTBC News\nWelcome to the official JTBC News Channel.\n\n▶ https://news.jtbc.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 4670000,
+      "viewCount": 14812391233,
+      "videoCount": 261253,
+      "lastUpdated": "2025-08-24T21:53:43.424303Z"
     }
   },
-  "lastUpdated": "2025-08-21T10:46:20.677989Z",
-  "totalVideos": 3,
-  "totalChannels": 1
+  "lastUpdated": "2025-08-24T21:53:43.425283Z",
+  "totalVideos": 4,
+  "totalChannels": 2
 }

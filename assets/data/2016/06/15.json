@@ -262,6 +262,45 @@
       "channelId": "UC4Aa3OPkMenwTANpf0oWVRQ",
       "channelName": "CBS 김현정의 뉴스쇼",
       "collectedAt": "2025-08-22T14:03:13Z"
+    },
+    "S0VIhxCSXWM": {
+      "videoId": "S0VIhxCSXWM",
+      "title": "롯데, '갑질 논란' 편의점도 동원해 비자금 조성 의혹",
+      "description": "롯데그룹이 계열사에 일감을 몰아주고 그 과정에서 비자금이 조성됐다는 것이 검찰 수사의 핵심 중 하나지요. 한동안 '갑질 논란'이 일었던 편의점도 동원됐습니다.\n편의점 내 냉장고와 에어컨은 물론이고 현금자동지급기까지 계열사 물건을 의무적으로 쓰게 하고, 해마다 100억 원이 넘는 돈을 가져간 것으로 나타났습니다.",
+      "publishedAt": "2016-06-15T14:59:51Z",
+      "duration": "PT1M13S",
+      "viewCount": 2603,
+      "likeCount": 18,
+      "commentCount": 7,
+      "tags": [
+        "JTBC",
+        "JTBC NEWS",
+        "뉴스룸",
+        "손석희",
+        "롯데",
+        "비자금",
+        "갑질",
+        "갑을관계",
+        "편의점",
+        "세븐일레븐",
+        "7-11",
+        "7.11",
+        "seven eleven",
+        "lotte",
+        "신격호",
+        "신동주",
+        "신동빈",
+        "일감 몰아주기",
+        "내부거래",
+        "부당거래",
+        "밀어내기"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2016-06-15T14:59:51Z",
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "collectedAt": "2025-08-24T21:54:02Z"
     }
   },
   "channels": {
@@ -369,12 +408,39 @@
         }
       },
       "subscriberCount": 1590000,
-      "viewCount": 1279713708,
-      "videoCount": 19125,
-      "lastUpdated": "2025-08-23T20:41:16.234651Z"
+      "viewCount": 1280577570,
+      "videoCount": 19124,
+      "lastUpdated": "2025-08-24T21:54:02.491229Z"
+    },
+    "UCsU-I-vHLiaMfV_ceaYz5rQ": {
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "channelUrl": "@jtbc_news",
+      "channelDescription": "진실에 닿을 때까지 멈추지 않는 질문, JTBC News\nWelcome to the official JTBC News Channel.\n\n▶ https://news.jtbc.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 4670000,
+      "viewCount": 14812391233,
+      "videoCount": 261253,
+      "lastUpdated": "2025-08-24T21:54:02.490232Z"
     }
   },
-  "lastUpdated": "2025-08-23T20:41:16.234651Z",
-  "totalVideos": 11,
-  "totalChannels": 4
+  "lastUpdated": "2025-08-24T21:54:02.491229Z",
+  "totalVideos": 12,
+  "totalChannels": 5
 }

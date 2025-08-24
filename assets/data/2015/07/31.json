@@ -526,6 +526,43 @@
       "channelId": "UC4Aa3OPkMenwTANpf0oWVRQ",
       "channelName": "CBS 김현정의 뉴스쇼",
       "collectedAt": "2025-08-22T14:03:21Z"
+    },
+    "A8ZKPfJaIyU": {
+      "videoId": "A8ZKPfJaIyU",
+      "title": "[사회] [단독] '보안 최고등급' 인천공항, 모의 해킹에 뚫렸다 (SBS8뉴스|2015.07.30)",
+      "description": "1급 보안 시설인 인천국제공항의 정보 관리 시스템이 감사원의 모의 해킹시험에서 그대로 뚫렸던 사실이 SBS의 취재 결과 확인됐습니다. 100만 명 넘는 승객의 여권 번호도 그대로 노출돼 있었습니다. 실제 해킹이었다면 공항 운영에 대혼란을 불러올 일인데, 국정원은 인천공항이 최고 수준의 보안 등급을 유지하고 있다고 평가해 왔습니다.\n\n한세현 기자가 단독 보도합니다.\n\n감사원은 지난 2월부터 4월까지 인천국제공항의 정보 시스템 보안 실태를 점검하기 위해 '모의 해킹'을 실시했습니다.\n\n그 결과 운항정보관리시스템이 해킹에 뚫렸습니다.\n\n외부 이메일 망을 통해 공항 내부 이메일 망에 침투한 해커는, 몇 단계를 거쳐 최종 목표인 '운항정보관리시스템'까지 침투하는 데 성공했습니다.\n\n시스템을 좌지우지할 수 있는 '관리자' 권한이 탈취된 겁니다.\n\n운항정보관리시스템은 항공기 이착륙과 입출국 게이트, 짐을 찾는 곳 등 전광판에 나타나는 모든 정보를 총괄하는 시스템입니다.\n\n실제 해킹이었다면 공항 전역에서 엄청난 혼란을 부를 일입니다.\n\n승객들의 개인 정보 관리도 허술했습니다.\n\n인천공항공사는 공항이 아닌 인터넷에서 '체크인'할 수 있는 시스템을 개발했는데 시범 시행 기간 동안 확보한 승객 113만 명의 여권번호를 시스템 개발에 참여한 외부 협력업체가 가져갈 수 있는 상태로 방치했던 것으로 확인됐습니다.\n\n특히, USB를 꽂을 수 있는 포트까지 있어서 여권 정보가 얼마든 유출될 수 있는 상황이었습니다. \n\n이렇게 보안 상태가 허술한데도, 주요 기관 시설의 보안 감찰을 담당하는 국가정보원은 인천공항에 보안 최고 등급을 부여했습니다.\n\n국정원의 보안 시스템 평가 능력에 문제가 있는 게 아니냐는 지적이 불가피합니다.\n\n이에 대해 국정원은 \"지난 5월 이후 인천공항의 보안 취약점을 특별 점검해 보완했다\"고 해명했습니다. \n\n◀대한민국 뉴스리더 SBS▶\n홈페이지: http://news.sbs.co.kr\n페이스북: http://www.facebook.com/sbs8news\n트위터: http://www.twitter.com/sbs8news",
+      "publishedAt": "2015-07-31T04:42:37Z",
+      "duration": "PT1M59S",
+      "viewCount": 2608,
+      "likeCount": 10,
+      "commentCount": 2,
+      "tags": [
+        "SBS",
+        "SBS NEWS",
+        "SBS8NEWS",
+        "SBS뉴스",
+        "SBS8뉴스",
+        "에스비에스",
+        "에스비에스뉴스",
+        "서울방송",
+        "SBS보도국",
+        "SEOUL BROADCASTING SYSTEM",
+        "seoul broadcasting system",
+        "보안",
+        "인천공항",
+        "해킹",
+        "모의",
+        "운항정보관리시스템",
+        "체크인",
+        "여권 정보",
+        "국정원"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2015-07-31T04:42:37Z",
+      "channelId": "UCkinYTS9IHqOEwR1Sze2JTw",
+      "channelName": "SBS 뉴스",
+      "collectedAt": "2025-08-24T21:54:53Z"
     }
   },
   "channels": {
@@ -633,12 +670,39 @@
         }
       },
       "subscriberCount": 1590000,
-      "viewCount": 1279713708,
-      "videoCount": 19125,
-      "lastUpdated": "2025-08-23T20:41:25.777418Z"
+      "viewCount": 1280577570,
+      "videoCount": 19124,
+      "lastUpdated": "2025-08-24T21:54:53.557123Z"
+    },
+    "UCkinYTS9IHqOEwR1Sze2JTw": {
+      "channelId": "UCkinYTS9IHqOEwR1Sze2JTw",
+      "channelName": "SBS 뉴스",
+      "channelUrl": "@sbsnews8",
+      "channelDescription": "대한민국 No.1 SBS뉴스 ",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/SqFZwlQcqLs4JMZd3lthkg79kCHi68eerNpkkahvEYSPWhm2afUNqFkbMC6J6JJcy9JJ_DzQ8w=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/SqFZwlQcqLs4JMZd3lthkg79kCHi68eerNpkkahvEYSPWhm2afUNqFkbMC6J6JJcy9JJ_DzQ8w=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/SqFZwlQcqLs4JMZd3lthkg79kCHi68eerNpkkahvEYSPWhm2afUNqFkbMC6J6JJcy9JJ_DzQ8w=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 4990000,
+      "viewCount": 14985058976,
+      "videoCount": 297368,
+      "lastUpdated": "2025-08-24T21:54:53.565181Z"
     }
   },
-  "lastUpdated": "2025-08-23T20:41:25.778410Z",
-  "totalVideos": 21,
-  "totalChannels": 4
+  "lastUpdated": "2025-08-24T21:54:53.569170Z",
+  "totalVideos": 22,
+  "totalChannels": 5
 }

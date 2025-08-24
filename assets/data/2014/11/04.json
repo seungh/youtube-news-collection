@@ -248,6 +248,41 @@
       "channelId": "UC4Aa3OPkMenwTANpf0oWVRQ",
       "channelName": "CBS 김현정의 뉴스쇼",
       "collectedAt": "2025-08-22T14:01:57Z"
+    },
+    "2j0rFx0GCZE": {
+      "videoId": "2j0rFx0GCZE",
+      "title": "[인터뷰] 신대철 \"신해철 측이 동의하지 않은 수술…문제의 시작\"",
+      "description": "방송사 : JTBC http://www.jtbc.co.kr \n▶ JTBC 뉴스룸 월~일 20시00분 방송 \n▶ 홈페이지 : http://news.jtbc.co.kr \n▶ 공식 트위터 : https://twitter.com/JTBC_news \n▶ 공식 페이스북 : https://www.facebook.com/jtbcnews \n\n오늘(4일)도 하루 종일 고 신해철 씨 사망을 둘러싼 의혹들에 대해 대중들의 관심은 뜨거웠습니다. 저희도 앞서 1부에서 관련 의혹들을 자세히 전해드린 바 있는데요. 지금의 이런 상황들을 누구보다 가슴 아프게 지켜보고 있을 한 분을 좀 만나보려고 합니다. 그룹 시나위의 리더이자 기타리스트 신대철 씨인데요. 신해철 씨가 쓰러진 직후부터 의료사고 의혹을 강하게 제기한 분이기도 합니다. 지금 일정 때문에 부산에 계셔서, 부산총국으로 연결해 이야기 나누겠습니다. 신대철 씨, 나와 계시죠? 오랜만입니다.",
+      "publishedAt": "2014-11-04T13:56:14Z",
+      "duration": "PT5M38S",
+      "viewCount": 29963,
+      "likeCount": 148,
+      "commentCount": 7,
+      "tags": [
+        "JTBC",
+        "JTBC NEWS",
+        "JTBC뉴스",
+        "JTBC뉴스룸",
+        "뉴스룸",
+        "뉴스9",
+        "손석희",
+        "손석희뉴스",
+        "JTBC인터뷰",
+        "인터뷰",
+        "신대철",
+        "시나위",
+        "신해철",
+        "신해철수술",
+        "위밴드수술",
+        "장천공",
+        "신해철수술병원"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2014-11-04T13:56:14Z",
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "collectedAt": "2025-08-24T21:53:43Z"
     }
   },
   "channels": {
@@ -355,12 +390,39 @@
         }
       },
       "subscriberCount": 1590000,
-      "viewCount": 1278731005,
-      "videoCount": 19122,
-      "lastUpdated": "2025-08-22T14:01:57.515326Z"
+      "viewCount": 1280577570,
+      "videoCount": 19124,
+      "lastUpdated": "2025-08-24T21:53:43.732222Z"
+    },
+    "UCsU-I-vHLiaMfV_ceaYz5rQ": {
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "channelUrl": "@jtbc_news",
+      "channelDescription": "진실에 닿을 때까지 멈추지 않는 질문, JTBC News\nWelcome to the official JTBC News Channel.\n\n▶ https://news.jtbc.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 4670000,
+      "viewCount": 14812391233,
+      "videoCount": 261253,
+      "lastUpdated": "2025-08-24T21:53:43.731224Z"
     }
   },
-  "lastUpdated": "2025-08-22T14:01:57.517841Z",
-  "totalVideos": 10,
-  "totalChannels": 4
+  "lastUpdated": "2025-08-24T21:53:43.733219Z",
+  "totalVideos": 11,
+  "totalChannels": 5
 }

@@ -707,6 +707,39 @@
       "channelId": "UC4Aa3OPkMenwTANpf0oWVRQ",
       "channelName": "CBS 김현정의 뉴스쇼",
       "collectedAt": "2025-08-22T14:03:24Z"
+    },
+    "-oxCsEWU5QM": {
+      "videoId": "-oxCsEWU5QM",
+      "title": "[인터뷰] 배우 안성기 \"오랜만의 멜로연기, 쉽지 않았지만…\"",
+      "description": "방송사 : JTBC http://www.jtbc.co.kr \n▶ JTBC 뉴스룸 월~일 20시00분 방송 \n▶ 홈페이지 : http://news.jtbc.co.kr \n▶ 공식 트위터 : https://twitter.com/JTBC_news \n▶ 공식 페이스북 : https://www.facebook.com/jtbcnews \n\n오늘(18일) 수요일 뉴스룸 2부. 매우 특별한 손님 한 분을 스튜디오에 모시는 날입니다. 오랜만에 이렇게 또 배우 한 분을 모시게 되네요. 배우에 붙는 수식어, 여러 가지가 있습니다마는, 이분께는 수식어가 별로 필요하지 않은 것 같습니다. 그냥 이분 자체가 한국 영화다, 이렇게 말씀드려도 되지 않을까요? 2년만 있으면 연기 인생이 무려 60년이 되는 분입니다. \n\n배우 안성기 씨를 옆에 모셨습니다.",
+      "publishedAt": "2015-03-18T14:51:42Z",
+      "duration": "PT13M10S",
+      "viewCount": 129510,
+      "likeCount": 461,
+      "commentCount": 50,
+      "tags": [
+        "JTBC",
+        "JTBC NEWS",
+        "JTBC 뉴스",
+        "제이티비씨",
+        "제이티비씨 뉴스",
+        "손석희 뉴스",
+        "손석희",
+        "뉴스룸",
+        "뉴스9",
+        "인터뷰",
+        "안성기",
+        "화장",
+        "임권택",
+        "안성기 영화",
+        "안성기 멜로"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2015-03-18T14:51:42Z",
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "collectedAt": "2025-08-24T21:53:44Z"
     }
   },
   "channels": {
@@ -814,12 +847,39 @@
         }
       },
       "subscriberCount": 1590000,
-      "viewCount": 1279713708,
-      "videoCount": 19125,
-      "lastUpdated": "2025-08-23T20:41:31.369295Z"
+      "viewCount": 1280577570,
+      "videoCount": 19124,
+      "lastUpdated": "2025-08-24T21:53:44.900176Z"
+    },
+    "UCsU-I-vHLiaMfV_ceaYz5rQ": {
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "channelUrl": "@jtbc_news",
+      "channelDescription": "진실에 닿을 때까지 멈추지 않는 질문, JTBC News\nWelcome to the official JTBC News Channel.\n\n▶ https://news.jtbc.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 4670000,
+      "viewCount": 14812391233,
+      "videoCount": 261253,
+      "lastUpdated": "2025-08-24T21:53:44.899180Z"
     }
   },
-  "lastUpdated": "2025-08-23T20:41:31.419594Z",
-  "totalVideos": 30,
-  "totalChannels": 4
+  "lastUpdated": "2025-08-24T21:53:44.900176Z",
+  "totalVideos": 31,
+  "totalChannels": 5
 }

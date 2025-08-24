@@ -367,6 +367,57 @@
       "channelId": "UC4Aa3OPkMenwTANpf0oWVRQ",
       "channelName": "CBS 김현정의 뉴스쇼",
       "collectedAt": "2025-08-22T14:03:11Z"
+    },
+    "YMDmHraG2_g": {
+      "videoId": "YMDmHraG2_g",
+      "title": "[3시 뉴스브리핑] 최순실 파일 복사가 범죄?…노승일 질책한 백승주 의원 / SBS",
+      "description": "● 김태현 “의원들, 조여옥 대위 허점 파고들 사전준비 미흡했던 게 아닌가 아쉬워”\n● 임광기 “솜방망이 vs 철갑방패…뻔한 질문 던져서 호통？비아냥 일관 개선 필요”\n● 김태현 “우병우 수석, 대통령 존경 질문 비판받을 수밖에 없기에 대답하기 곤란했을 듯\"\n● 김태현 “질문 없이 본인 하고 싶은 말하는 의원, 진실 위한 것인지 쇼 위한 것인지”\n● 임광기 “청문회 아닌 의원 발표회…청문회 운영에 대한 의원들 노력 필요해”\n● 김태현 “노승일 부장 말이 사실이라면 우병우, 최순실 일가 봐준 최종 설계자…사실 확인해야”\n● 임광기 “자꾸 우연이 겹치면 의혹이 생겨”\n\n▶ SBS NEWS 유튜브 채널 구독하기 : https://goo.gl/l8eCja\n\n▶대한민국 뉴스리더 SBS◀\n홈페이지: http://news.sbs.co.kr\n페이스북: http://www.facebook.com/sbs8news\n트위터: http://www.twitter.com/sbs8news",
+      "publishedAt": "2016-12-23T08:07:04Z",
+      "duration": "PT40M51S",
+      "viewCount": 15453,
+      "likeCount": 42,
+      "commentCount": 26,
+      "tags": [
+        "뉴스",
+        "NEWS",
+        "SBS",
+        "SBS NEWS",
+        "SBS8NEWS",
+        "SBS뉴스",
+        "SBS8뉴스",
+        "에스비에스",
+        "에스비에스뉴스",
+        "서울방송",
+        "SBS보도국",
+        "SEOUL BROADCASTING SYSTEM",
+        "seoul broadcasting system",
+        "sbs",
+        "sbs뉴스",
+        "sbs 뉴스",
+        "korea",
+        "KOREA",
+        "한국",
+        "대한민국",
+        "한국 뉴스",
+        "korea news",
+        "korean news",
+        "KOREA NEWS",
+        "KOREAN NEWS",
+        "최순실",
+        "파일복사",
+        "범죄",
+        "노승일",
+        "백승주",
+        "모르쇠",
+        "청문회",
+        "우병우"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2016-12-23T08:07:04Z",
+      "channelId": "UCkinYTS9IHqOEwR1Sze2JTw",
+      "channelName": "SBS 뉴스",
+      "collectedAt": "2025-08-24T21:54:41Z"
     }
   },
   "channels": {
@@ -447,12 +498,39 @@
         }
       },
       "subscriberCount": 1590000,
-      "viewCount": 1279713708,
-      "videoCount": 19125,
-      "lastUpdated": "2025-08-23T20:41:11.685643Z"
+      "viewCount": 1280577570,
+      "videoCount": 19124,
+      "lastUpdated": "2025-08-24T21:54:41.492070Z"
+    },
+    "UCkinYTS9IHqOEwR1Sze2JTw": {
+      "channelId": "UCkinYTS9IHqOEwR1Sze2JTw",
+      "channelName": "SBS 뉴스",
+      "channelUrl": "@sbsnews8",
+      "channelDescription": "대한민국 No.1 SBS뉴스 ",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/SqFZwlQcqLs4JMZd3lthkg79kCHi68eerNpkkahvEYSPWhm2afUNqFkbMC6J6JJcy9JJ_DzQ8w=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/SqFZwlQcqLs4JMZd3lthkg79kCHi68eerNpkkahvEYSPWhm2afUNqFkbMC6J6JJcy9JJ_DzQ8w=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/SqFZwlQcqLs4JMZd3lthkg79kCHi68eerNpkkahvEYSPWhm2afUNqFkbMC6J6JJcy9JJ_DzQ8w=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 4990000,
+      "viewCount": 14985058976,
+      "videoCount": 297368,
+      "lastUpdated": "2025-08-24T21:54:41.493068Z"
     }
   },
-  "lastUpdated": "2025-08-23T20:41:11.685643Z",
-  "totalVideos": 14,
-  "totalChannels": 3
+  "lastUpdated": "2025-08-24T21:54:41.493068Z",
+  "totalVideos": 15,
+  "totalChannels": 4
 }

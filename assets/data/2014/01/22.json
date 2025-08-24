@@ -283,6 +283,35 @@
       "channelId": "UC4Aa3OPkMenwTANpf0oWVRQ",
       "channelName": "CBS 김현정의 뉴스쇼",
       "collectedAt": "2025-08-22T14:03:34Z"
+    },
+    "mAiUHSoESH8": {
+      "videoId": "mAiUHSoESH8",
+      "title": "[뉴스9 인터뷰] 에이미 \"전 검사, 나와의 관계 때문에 협박 받아\"",
+      "description": "방송사 : JTBC http://www.jtbc.co.kr \n▶ JTBC 뉴스9 월~금 21시00분 방송 \n▶ 홈페이지 : http://news.jtbc.co.kr \n▶ 공식 트위터 : https://twitter.com/JTBC_news \n▶ 공식 페이스북 : https://www.facebook.com/jtbcnews \n\n지금 세간을 떠들썩하게 만들고 있는 사건이 하나 있습니다. 자신이 수사한 연예인의 민원을 해결해주려 한 것 때문에 이른바 '해결사 검사'로 불리고 있는 사건이죠. 검사로부터 협박을 받았다고 알려진 성형외과 의사가 성폭행 사건과 관련 경찰조사를 받고 있던 중이었다는 것이 알려지고, 또 검사는 그 성폭행 피해 여성으로부터 협박을 받았다는 얘기가 나오는 등 이번 사건을 둘러싼 의혹이 꼬리에 꼬리를 물고 있어서 상황이 좀 복잡하게 전개되고 있습니다. 이번 사건의 단초가 된 당사자이기도 하지요. 방송인 에이미씨를 통해 이번 사건에 얽힌 궁금증을 잠시 풀어보도록 하겠습니다.",
+      "publishedAt": "2014-01-21T15:10:56Z",
+      "duration": "PT8M35S",
+      "viewCount": 87100,
+      "likeCount": 100,
+      "commentCount": 28,
+      "tags": [
+        "JTBC",
+        "JTBCNEWS",
+        "뉴스9",
+        "news9",
+        "뉴스9 손석희",
+        "손석희 뉴스9",
+        "JTBC 에이미",
+        "에이미 JTBC",
+        "에이미 검사",
+        "에이미",
+        "해결사 검사"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2014-01-21T15:10:56Z",
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "collectedAt": "2025-08-24T21:53:43Z"
     }
   },
   "channels": {
@@ -336,12 +365,39 @@
         }
       },
       "subscriberCount": 1590000,
-      "viewCount": 1279713708,
-      "videoCount": 19125,
-      "lastUpdated": "2025-08-23T20:41:43.137745Z"
+      "viewCount": 1280577570,
+      "videoCount": 19124,
+      "lastUpdated": "2025-08-24T21:53:43.209183Z"
+    },
+    "UCsU-I-vHLiaMfV_ceaYz5rQ": {
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "channelUrl": "@jtbc_news",
+      "channelDescription": "진실에 닿을 때까지 멈추지 않는 질문, JTBC News\nWelcome to the official JTBC News Channel.\n\n▶ https://news.jtbc.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 4670000,
+      "viewCount": 14812391233,
+      "videoCount": 261253,
+      "lastUpdated": "2025-08-24T21:53:43.208185Z"
     }
   },
-  "lastUpdated": "2025-08-23T20:41:43.141933Z",
-  "totalVideos": 9,
-  "totalChannels": 2
+  "lastUpdated": "2025-08-24T21:53:43.210181Z",
+  "totalVideos": 10,
+  "totalChannels": 3
 }

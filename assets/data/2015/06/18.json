@@ -193,6 +193,42 @@
       "channelId": "UC4Aa3OPkMenwTANpf0oWVRQ",
       "channelName": "CBS 김현정의 뉴스쇼",
       "collectedAt": "2025-08-22T14:03:22Z"
+    },
+    "VUWh1rBGbG8": {
+      "videoId": "VUWh1rBGbG8",
+      "title": "[인터뷰] 지드래곤(G-DRAGON) \"우리는 직접 노래 만들기 때문에 당당\"",
+      "description": "방송사 : JTBC http://www.jtbc.co.kr \n▶ JTBC 뉴스룸 월~일 20시00분 방송 \n▶ 홈페이지 : http://news.jtbc.co.kr \n▶ 공식 트위터 : https://twitter.com/JTBC_news \n▶ 공식 페이스북 : https://www.facebook.com/jtbcnews \n\n\n매주 목요일. 대중문화계 인물을 만나보는 시간입니다. 메르스로 워낙 무거운 분위기긴 합니다만, 저희가 지난번에 유해진 씨를 모셨을 때 많은 분들이 위로를 받는 것 같다 이런 좋은 말씀들을 많이 해주셔서 오늘(18일) 또 다른 한 분을 모셨는데 굉장히 반가워하실 것 같습니다. 아주 특별한 분입니다. 한류 스타, 최고의 아이돌을 넘어 이젠 아티스트로 불리는 젊은 예술가인데 빅뱅의 지드래곤 씨를 제 옆에 모셨습니다. 오늘도 좋은 시간이 될 것 같습니다.",
+      "publishedAt": "2015-06-18T14:59:01Z",
+      "duration": "PT15M51S",
+      "viewCount": 2191576,
+      "likeCount": 16827,
+      "commentCount": 4044,
+      "tags": [
+        "JTBC",
+        "JTBC NEWS",
+        "JTBC 뉴스",
+        "제이티비씨 뉴스",
+        "제이티비씨",
+        "손석희",
+        "손석희 뉴스",
+        "뉴스룸",
+        "GD",
+        "지드래곤",
+        "지디",
+        "권지용",
+        "G-Dragon",
+        "빅뱅",
+        "BIGBANG",
+        "YG",
+        "한국가수",
+        "한류"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2015-06-18T14:59:01Z",
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "collectedAt": "2025-08-24T21:53:45Z"
     }
   },
   "channels": {
@@ -273,12 +309,39 @@
         }
       },
       "subscriberCount": 1590000,
-      "viewCount": 1279713708,
-      "videoCount": 19125,
-      "lastUpdated": "2025-08-23T20:41:27.208877Z"
+      "viewCount": 1280577570,
+      "videoCount": 19124,
+      "lastUpdated": "2025-08-24T21:53:45.159191Z"
+    },
+    "UCsU-I-vHLiaMfV_ceaYz5rQ": {
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "channelUrl": "@jtbc_news",
+      "channelDescription": "진실에 닿을 때까지 멈추지 않는 질문, JTBC News\nWelcome to the official JTBC News Channel.\n\n▶ https://news.jtbc.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 4670000,
+      "viewCount": 14812391233,
+      "videoCount": 261253,
+      "lastUpdated": "2025-08-24T21:53:45.157197Z"
     }
   },
-  "lastUpdated": "2025-08-23T20:41:27.210215Z",
-  "totalVideos": 8,
-  "totalChannels": 3
+  "lastUpdated": "2025-08-24T21:53:45.159191Z",
+  "totalVideos": 9,
+  "totalChannels": 4
 }

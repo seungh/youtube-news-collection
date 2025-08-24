@@ -412,6 +412,56 @@
       "channelId": "UC4Aa3OPkMenwTANpf0oWVRQ",
       "channelName": "CBS 김현정의 뉴스쇼",
       "collectedAt": "2025-08-22T14:01:47Z"
+    },
+    "cLAcj4Cwt3c": {
+      "videoId": "cLAcj4Cwt3c",
+      "title": "[단독] \"최순실, 귀국 전 공황장애 진단서 요청\" / SBS",
+      "description": "\"그동안에 쭉 공황장애 등으로 신경안정제를 복용하고 있었습니다.\" 최순실 씨는 귀국하면서 변호인을 통해 그동안 쭉 공황장애를 앓아 왔다고 호소했습니다. 그런데 이 말이 과연 진실일까요? 최 씨 측이 입국하기 이틀 전 대통령 자문 의사를 통해 자신이 다니던 차움 의원에 허위진단서를 요청한 사실이 확인됐습니다.\n\n안서현 기자의 단독보도입니다.\n\n\n▶ SBS NEWS 유튜브 채널 구독하기 : https://goo.gl/l8eCja\n\n▶대한민국 뉴스리더 SBS◀\n홈페이지: http://news.sbs.co.kr\n페이스북: http://www.facebook.com/sbs8news\n트위터: http://www.twitter.com/sbs8news",
+      "publishedAt": "2016-11-14T12:42:14Z",
+      "duration": "PT1M52S",
+      "viewCount": 278,
+      "likeCount": 3,
+      "commentCount": 3,
+      "tags": [
+        "뉴스",
+        "NEWS",
+        "SBS",
+        "SBS NEWS",
+        "SBS8NEWS",
+        "SBS뉴스",
+        "SBS8뉴스",
+        "에스비에스",
+        "에스비에스뉴스",
+        "서울방송",
+        "SBS보도국",
+        "SEOUL BROADCASTING SYSTEM",
+        "seoul broadcasting system",
+        "sbs",
+        "sbs뉴스",
+        "sbs 뉴스",
+        "korea",
+        "KOREA",
+        "한국",
+        "대한민국",
+        "한국 뉴스",
+        "korea news",
+        "korean news",
+        "KOREA NEWS",
+        "KOREAN NEWS",
+        "최순실",
+        "공황장애",
+        "진단서",
+        "요청",
+        "귀국",
+        "차움 의원",
+        "허위진단서"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2016-11-14T12:42:14Z",
+      "channelId": "UCkinYTS9IHqOEwR1Sze2JTw",
+      "channelName": "SBS 뉴스",
+      "collectedAt": "2025-08-24T21:54:27Z"
     }
   },
   "channels": {
@@ -573,12 +623,39 @@
         }
       },
       "subscriberCount": 1590000,
-      "viewCount": 1278731005,
-      "videoCount": 19122,
-      "lastUpdated": "2025-08-22T14:01:47.263122Z"
+      "viewCount": 1280577570,
+      "videoCount": 19124,
+      "lastUpdated": "2025-08-24T21:54:27.732220Z"
+    },
+    "UCkinYTS9IHqOEwR1Sze2JTw": {
+      "channelId": "UCkinYTS9IHqOEwR1Sze2JTw",
+      "channelName": "SBS 뉴스",
+      "channelUrl": "@sbsnews8",
+      "channelDescription": "대한민국 No.1 SBS뉴스 ",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/SqFZwlQcqLs4JMZd3lthkg79kCHi68eerNpkkahvEYSPWhm2afUNqFkbMC6J6JJcy9JJ_DzQ8w=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/SqFZwlQcqLs4JMZd3lthkg79kCHi68eerNpkkahvEYSPWhm2afUNqFkbMC6J6JJcy9JJ_DzQ8w=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/SqFZwlQcqLs4JMZd3lthkg79kCHi68eerNpkkahvEYSPWhm2afUNqFkbMC6J6JJcy9JJ_DzQ8w=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 4990000,
+      "viewCount": 14985058976,
+      "videoCount": 297368,
+      "lastUpdated": "2025-08-24T21:54:27.785186Z"
     }
   },
-  "lastUpdated": "2025-08-22T14:01:47.263122Z",
-  "totalVideos": 16,
-  "totalChannels": 6
+  "lastUpdated": "2025-08-24T21:54:27.816181Z",
+  "totalVideos": 17,
+  "totalChannels": 7
 }

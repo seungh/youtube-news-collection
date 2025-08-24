@@ -473,6 +473,38 @@
       "channelId": "UC4Aa3OPkMenwTANpf0oWVRQ",
       "channelName": "CBS 김현정의 뉴스쇼",
       "collectedAt": "2025-08-22T14:03:26Z"
+    },
+    "fUB1pCNOUeQ": {
+      "videoId": "fUB1pCNOUeQ",
+      "title": "[인터뷰] 박현정 서울시향 대표 \"직원들 방만한 행태 바로잡으려다 생긴 일\"",
+      "description": "방송사 : JTBC http://www.jtbc.co.kr \n▶ JTBC 뉴스룸 월~일 20시00분 방송 \n▶ 홈페이지 : http://news.jtbc.co.kr \n▶ 공식 트위터 : https://twitter.com/JTBC_news \n▶ 공식 페이스북 : https://www.facebook.com/jtbcnews \n\n서울시향 직원들이 이른바 막말과 폭언 등을 이유로 대표이사의 사퇴를 요구한 지 나흘째입니다. 파문이 커지자 박현정 대표이사는 오늘(5일) 공식 기자회견을 열고 '직원들의 주장은 음해'라고 주장했습니다. 자신은 '정치적인 희생양'이라고 얘기하기도 했는데요. 어제 직원 중 한 분과 전화인터뷰를 한 바 있습니다. 오늘은 말씀드린 대로 반론을 듣겠습니다.",
+      "publishedAt": "2014-12-05T13:20:49Z",
+      "duration": "PT10M17S",
+      "viewCount": 37390,
+      "likeCount": 58,
+      "commentCount": 52,
+      "tags": [
+        "JTBC",
+        "JTBC NEWS",
+        "JTBC뉴스",
+        "손석희뉴스",
+        "손석희",
+        "뉴스룸",
+        "뉴스9",
+        "박현정",
+        "정명훈",
+        "박원순",
+        "서울시교향악단",
+        "서울시향대표",
+        "박현정대표",
+        "서울시"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2014-12-05T13:20:49Z",
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "collectedAt": "2025-08-24T21:53:44Z"
     }
   },
   "channels": {
@@ -553,12 +585,39 @@
         }
       },
       "subscriberCount": 1590000,
-      "viewCount": 1279713708,
-      "videoCount": 19125,
-      "lastUpdated": "2025-08-23T20:41:33.901513Z"
+      "viewCount": 1280577570,
+      "videoCount": 19124,
+      "lastUpdated": "2025-08-24T21:53:44.128223Z"
+    },
+    "UCsU-I-vHLiaMfV_ceaYz5rQ": {
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "channelUrl": "@jtbc_news",
+      "channelDescription": "진실에 닿을 때까지 멈추지 않는 질문, JTBC News\nWelcome to the official JTBC News Channel.\n\n▶ https://news.jtbc.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 4670000,
+      "viewCount": 14812391233,
+      "videoCount": 261253,
+      "lastUpdated": "2025-08-24T21:53:44.127224Z"
     }
   },
-  "lastUpdated": "2025-08-23T20:41:33.901513Z",
-  "totalVideos": 19,
-  "totalChannels": 3
+  "lastUpdated": "2025-08-24T21:53:44.128223Z",
+  "totalVideos": 20,
+  "totalChannels": 4
 }

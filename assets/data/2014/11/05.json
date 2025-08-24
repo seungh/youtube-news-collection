@@ -470,6 +470,44 @@
       "channelId": "UC4Aa3OPkMenwTANpf0oWVRQ",
       "channelName": "CBS 김현정의 뉴스쇼",
       "collectedAt": "2025-08-22T14:03:27Z"
+    },
+    "GmSRZ6bKATU": {
+      "videoId": "GmSRZ6bKATU",
+      "title": "[인터뷰] 유홍준 교수 \"문화재 복원 시스템부터 고쳐야…기술축적이 안 돼\"",
+      "description": "방송사 : JTBC http://www.jtbc.co.kr \n▶ JTBC 뉴스룸 월~일 20시00분 방송 \n▶ 홈페이지 : http://news.jtbc.co.kr \n▶ 공식 트위터 : https://twitter.com/JTBC_news \n▶ 공식 페이스북 : https://www.facebook.com/jtbcnews \n\n지금 전해드린 조선시대 선박 발견, 이분에겐 오늘(5일) 가장 관심이 가는 뉴스가 아닐까 싶습니다. 문화유산은 고리타분하다, 이런 인식을 완전히 바뀌게 만들어준 분이죠. 미술과 역사를 오가면서 우리의 문화유산이 얼마나 흥미진진한 이야기를 담고 있는지, 또 그 안에 담긴 가치는 얼마나 큰지, 많은 대중들에게 알려주신 분이기도 합니다. \n\n지난 20여 년 동안 스테디셀러로 큰 사랑을 받고 있는 '나의 문화 유산답사기'의 저자이자, 전 문화재청장이기도 한 유홍준 명지대 석좌교수가 나와 계십니다.",
+      "publishedAt": "2014-11-05T14:13:11Z",
+      "duration": "PT13M15S",
+      "viewCount": 39264,
+      "likeCount": 327,
+      "commentCount": 22,
+      "tags": [
+        "JTBC",
+        "JTBC NEWS",
+        "JTBC뉴스",
+        "뉴스룸",
+        "JTBC뉴스룸",
+        "손석희",
+        "손석희뉴스",
+        "뉴스9",
+        "인터뷰",
+        "JTBC인터뷰",
+        "유홍준",
+        "문화재",
+        "나의문화유산답사기",
+        "명지대",
+        "유홍준교수",
+        "문화재청장",
+        "유홍준전문화재청장",
+        "문화재청",
+        "문화재복원",
+        "문화유산"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2014-11-05T14:13:11Z",
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "collectedAt": "2025-08-24T21:53:43Z"
     }
   },
   "channels": {
@@ -550,12 +588,39 @@
         }
       },
       "subscriberCount": 1590000,
-      "viewCount": 1279713708,
-      "videoCount": 19125,
-      "lastUpdated": "2025-08-23T20:41:34.605215Z"
+      "viewCount": 1280577570,
+      "videoCount": 19124,
+      "lastUpdated": "2025-08-24T21:53:43.785206Z"
+    },
+    "UCsU-I-vHLiaMfV_ceaYz5rQ": {
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "channelUrl": "@jtbc_news",
+      "channelDescription": "진실에 닿을 때까지 멈추지 않는 질문, JTBC News\nWelcome to the official JTBC News Channel.\n\n▶ https://news.jtbc.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 4670000,
+      "viewCount": 14812391233,
+      "videoCount": 261253,
+      "lastUpdated": "2025-08-24T21:53:43.785206Z"
     }
   },
-  "lastUpdated": "2025-08-23T20:41:34.606212Z",
-  "totalVideos": 18,
-  "totalChannels": 3
+  "lastUpdated": "2025-08-24T21:53:43.796209Z",
+  "totalVideos": 19,
+  "totalChannels": 4
 }

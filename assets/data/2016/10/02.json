@@ -27,6 +27,54 @@
       "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
       "channelName": "뉴스TVCHOSUN",
       "collectedAt": "2025-08-21T10:46:38Z"
+    },
+    "F4_Xfqcz3Po": {
+      "videoId": "F4_Xfqcz3Po",
+      "title": "[단독] 中, 훈춘-나진 잇는 '신두만강 대교' 개통 / SBS",
+      "description": "북한과 중국은 총 1,432km에 걸쳐 국경을 맞대고 있습니다. 서쪽의 단둥-신의주, 동쪽의 훈춘-나진을 잇는 두 경로가 양국 육로 교역의 대부분을 차지합니다. 그런데 대북 제재로 단둥-신의주 경로의 교역이 주춤하던 차에, 중국이 전격적으로 훈춘과 나진을 잇는 '신두만강 대교'를 개통한 것으로 확인됐습니다.\n\n\n▶ SBS NEWS 유튜브 채널 구독하기 : https://goo.gl/l8eCja\n\n▶대한민국 뉴스리더 SBS◀\n홈페이지: http://news.sbs.co.kr\n페이스북: http://www.facebook.com/sbs8news\n트위터: http://www.twitter.com/sbs8news",
+      "publishedAt": "2016-10-02T13:08:25Z",
+      "duration": "PT2M13S",
+      "viewCount": 32261,
+      "likeCount": 88,
+      "commentCount": 5,
+      "tags": [
+        "KOREA",
+        "KOREA NEWS",
+        "KOREAN NEWS",
+        "NEWS",
+        "SBS",
+        "SBS NEWS",
+        "SBS8NEWS",
+        "SBS8뉴스",
+        "SBS뉴스",
+        "SBS보도국",
+        "SEOUL BROADCASTING SYSTEM",
+        "korea",
+        "korea news",
+        "korean news",
+        "sbs",
+        "sbs 뉴스",
+        "sbs뉴스",
+        "seoul broadcasting system",
+        "yt:cc=on",
+        "뉴스",
+        "대한민국",
+        "북한",
+        "서울방송",
+        "신두만강 대교",
+        "에스비에스",
+        "에스비에스뉴스",
+        "중국",
+        "한국",
+        "한국 뉴스",
+        "훈춘 나진"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2016-10-02T13:08:25Z",
+      "channelId": "UCkinYTS9IHqOEwR1Sze2JTw",
+      "channelName": "SBS 뉴스",
+      "collectedAt": "2025-08-24T21:55:25Z"
     }
   },
   "channels": {
@@ -56,9 +104,36 @@
       "viewCount": 4319423561,
       "videoCount": 150855,
       "lastUpdated": "2025-08-21T10:29:12.012078Z"
+    },
+    "UCkinYTS9IHqOEwR1Sze2JTw": {
+      "channelId": "UCkinYTS9IHqOEwR1Sze2JTw",
+      "channelName": "SBS 뉴스",
+      "channelUrl": "@sbsnews8",
+      "channelDescription": "대한민국 No.1 SBS뉴스 ",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/SqFZwlQcqLs4JMZd3lthkg79kCHi68eerNpkkahvEYSPWhm2afUNqFkbMC6J6JJcy9JJ_DzQ8w=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/SqFZwlQcqLs4JMZd3lthkg79kCHi68eerNpkkahvEYSPWhm2afUNqFkbMC6J6JJcy9JJ_DzQ8w=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/SqFZwlQcqLs4JMZd3lthkg79kCHi68eerNpkkahvEYSPWhm2afUNqFkbMC6J6JJcy9JJ_DzQ8w=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 4990000,
+      "viewCount": 14985058976,
+      "videoCount": 297368,
+      "lastUpdated": "2025-08-24T21:55:25.783561Z"
     }
   },
-  "lastUpdated": "2025-08-21T10:46:38.081452Z",
-  "totalVideos": 1,
-  "totalChannels": 1
+  "lastUpdated": "2025-08-24T21:55:25.784086Z",
+  "totalVideos": 2,
+  "totalChannels": 2
 }

@@ -224,6 +224,28 @@
       "channelId": "UC4Aa3OPkMenwTANpf0oWVRQ",
       "channelName": "CBS 김현정의 뉴스쇼",
       "collectedAt": "2025-08-22T14:03:15Z"
+    },
+    "OONqlqQTO70": {
+      "videoId": "OONqlqQTO70",
+      "title": "[인터뷰 풀영상] 이해인 수녀 \"시련도 축복의 기회로…행복은 새롭게 만들어 가는 것\"",
+      "description": "- \"지난해 다른 병으로 입원…위독설 퍼진 듯\"\n- \"주민증 이름이 명숙…밝게 살고 있어\"\n- \"수도원 공동생활하며 명랑한 삶 배워\"\n- \"수녀 안 했으면 방송계 나가는 게 꿈\"\n\n[앵커]\n\n오랜만에 대중문화 인터뷰 시간을 갖겠습니다.\n\n제가 늘 나오시는 분들을 어떻게 소개해 드릴까 고민을 하는데, 오늘(28일)은 이렇게 소개를 해 드려야 될 것 같습니다. 저의 고등학교 때 시절부터 흠모했던 분입니다. 저뿐만이 아니고 제 세대들이 대부분 다 흠모를 했습니다. 수녀님이십니다. 수녀님을 흠모한다는 게 조금 어떨지 모르겠습니다마는, 사실 그 책임은 이분께 있습니다.\n\n이해인 수녀님을 모셨습니다. 어서 오십시오.\n\n[이하 생략]\n\n이해인 수녀와 손석희 앵커의 '솔직 토크', 그리고 이해인 수녀의 '별을 보면' 낭송까지. 목요 문화초대석 방송 내용은 JTBC 홈페이지를 참조하세요.\nhttp://news.jtbc.joins.com/article/article.aspx?news_id=NB11223620",
+      "publishedAt": "2016-04-28T15:32:46Z",
+      "duration": "PT13M18S",
+      "viewCount": 214273,
+      "likeCount": 2149,
+      "commentCount": 95,
+      "tags": [
+        "JTBC",
+        "JTBC NEWS",
+        "뉴스룸",
+        "손석희"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2016-04-28T15:32:46Z",
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "collectedAt": "2025-08-24T21:53:47Z"
     }
   },
   "channels": {
@@ -331,12 +353,39 @@
         }
       },
       "subscriberCount": 1590000,
-      "viewCount": 1279713708,
-      "videoCount": 19125,
-      "lastUpdated": "2025-08-23T20:41:18.146830Z"
+      "viewCount": 1280577570,
+      "videoCount": 19124,
+      "lastUpdated": "2025-08-24T21:53:47.131221Z"
+    },
+    "UCsU-I-vHLiaMfV_ceaYz5rQ": {
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "channelUrl": "@jtbc_news",
+      "channelDescription": "진실에 닿을 때까지 멈추지 않는 질문, JTBC News\nWelcome to the official JTBC News Channel.\n\n▶ https://news.jtbc.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 4670000,
+      "viewCount": 14812391233,
+      "videoCount": 261253,
+      "lastUpdated": "2025-08-24T21:53:47.129227Z"
     }
   },
-  "lastUpdated": "2025-08-23T20:41:18.150851Z",
-  "totalVideos": 10,
-  "totalChannels": 4
+  "lastUpdated": "2025-08-24T21:53:47.132220Z",
+  "totalVideos": 11,
+  "totalChannels": 5
 }

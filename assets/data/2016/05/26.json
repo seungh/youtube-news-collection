@@ -703,6 +703,44 @@
       "channelId": "UC4Aa3OPkMenwTANpf0oWVRQ",
       "channelName": "CBS 김현정의 뉴스쇼",
       "collectedAt": "2025-08-22T14:03:14Z"
+    },
+    "z0znU5phRpM": {
+      "videoId": "z0znU5phRpM",
+      "title": "[인터뷰 풀영상] 김아중 \"여성영화제 단편경선 심사, 책임감 따른다\"",
+      "description": "대중문화 인물을 만나보는 목요일입니다. 오랜만에 배우 한 분을 모셨습니다.\n대개 배우 분들이 나오실 때는 자신이 출연한 영화 한 편을 들고 나오시는데, 오늘(26일) 나오신 분은 자신이 출연하지 않은 영화 118편을 가지고 나오셨습니다.\n서울국제여성영화제의 홍보대사를 맡은 배우 김아중씨를 뉴스룸에 모셨습니다.",
+      "publishedAt": "2016-05-26T14:38:49Z",
+      "duration": "PT12M23S",
+      "viewCount": 148144,
+      "likeCount": 834,
+      "commentCount": 162,
+      "tags": [
+        "JTBC",
+        "JTBC NEWS",
+        "뉴스룸",
+        "손석희",
+        "김아중",
+        "문화초대석",
+        "인터뷰",
+        "풀영상",
+        "서울국제여성영화제",
+        "메가박스",
+        "Megabox",
+        "페미니스타",
+        "Feminista",
+        "Feministar",
+        "여성주의",
+        "여성영화",
+        "여성영화제",
+        "홍보대사",
+        "페미니즘",
+        "목요초대석"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2016-05-26T14:38:49Z",
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "collectedAt": "2025-08-24T21:53:47Z"
     }
   },
   "channels": {
@@ -837,12 +875,39 @@
         }
       },
       "subscriberCount": 1590000,
-      "viewCount": 1279713708,
-      "videoCount": 19125,
-      "lastUpdated": "2025-08-23T20:41:17.053211Z"
+      "viewCount": 1280577570,
+      "videoCount": 19124,
+      "lastUpdated": "2025-08-24T21:53:47.386176Z"
+    },
+    "UCsU-I-vHLiaMfV_ceaYz5rQ": {
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "channelUrl": "@jtbc_news",
+      "channelDescription": "진실에 닿을 때까지 멈추지 않는 질문, JTBC News\nWelcome to the official JTBC News Channel.\n\n▶ https://news.jtbc.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 4670000,
+      "viewCount": 14812391233,
+      "videoCount": 261253,
+      "lastUpdated": "2025-08-24T21:53:47.384182Z"
     }
   },
-  "lastUpdated": "2025-08-23T20:41:17.053211Z",
-  "totalVideos": 27,
-  "totalChannels": 5
+  "lastUpdated": "2025-08-24T21:53:47.387173Z",
+  "totalVideos": 28,
+  "totalChannels": 6
 }

@@ -516,6 +516,31 @@
       "channelId": "UC4Aa3OPkMenwTANpf0oWVRQ",
       "channelName": "CBS 김현정의 뉴스쇼",
       "collectedAt": "2025-08-22T14:03:12Z"
+    },
+    "8TK_3rf4QT4": {
+      "videoId": "8TK_3rf4QT4",
+      "title": "주일 대사가 후쿠시마 홍보? \"한국 국민 직접 보면…\"",
+      "description": "방송사 : JTBC http://www.jtbc.co.kr\n▶ JTBC 뉴스룸 월~일 20시00분 방송\n▶ 홈페이지 : http://news.jtbc.co.kr\n▶ 공식 트위터 : https://twitter.com/JTBC_news\n▶ 공식 페이스북 : https://www.facebook.com/jtbcnews\n\n후쿠시마 원전 사고 5년이 지났지만 방사능 오염이 우려되는 일본산 수산물에 대한 불안감은 여전합니다. 그런데 이준규 주일 대사가 \"한국 국민이 후쿠시마를 직접 보면 서서히 개선될 것\"이라고 일본 언론에 밝혔습니다. 일본인들조차 후쿠시마산 식품에 대해 아직 꺼려한다는데 자국의 이익을 추구해야 할 주일 한국대사가 이런 말을 해도 되는 거냐는 지적입니다.",
+      "publishedAt": "2016-08-19T00:55:13Z",
+      "duration": "PT1M32S",
+      "viewCount": 4226,
+      "likeCount": 35,
+      "commentCount": 35,
+      "tags": [
+        "JTBC",
+        "JTBC NEWS",
+        "뉴스룸",
+        "후쿠시마",
+        "후쿠시마 홍보",
+        "후쿠시마 주일 대사",
+        "주일 대사 후쿠시마"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2016-08-19T00:55:13Z",
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "collectedAt": "2025-08-24T21:54:08Z"
     }
   },
   "channels": {
@@ -650,12 +675,39 @@
         }
       },
       "subscriberCount": 1590000,
-      "viewCount": 1279713708,
-      "videoCount": 19125,
-      "lastUpdated": "2025-08-23T20:41:14.723137Z"
+      "viewCount": 1280577570,
+      "videoCount": 19124,
+      "lastUpdated": "2025-08-24T21:54:08.612132Z"
+    },
+    "UCsU-I-vHLiaMfV_ceaYz5rQ": {
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "channelUrl": "@jtbc_news",
+      "channelDescription": "진실에 닿을 때까지 멈추지 않는 질문, JTBC News\nWelcome to the official JTBC News Channel.\n\n▶ https://news.jtbc.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 4670000,
+      "viewCount": 14812391233,
+      "videoCount": 261253,
+      "lastUpdated": "2025-08-24T21:54:08.609137Z"
     }
   },
-  "lastUpdated": "2025-08-23T20:41:14.724061Z",
-  "totalVideos": 20,
-  "totalChannels": 5
+  "lastUpdated": "2025-08-24T21:54:08.613124Z",
+  "totalVideos": 21,
+  "totalChannels": 6
 }

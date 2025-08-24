@@ -230,6 +230,32 @@
       "channelId": "UC4Aa3OPkMenwTANpf0oWVRQ",
       "channelName": "CBS 김현정의 뉴스쇼",
       "collectedAt": "2025-08-22T14:03:34Z"
+    },
+    "kMxElxb3ZRk": {
+      "videoId": "kMxElxb3ZRk",
+      "title": "[인터뷰] '아이유 모창' 조안나 \"한국 문화 즐겼으면...\"",
+      "description": "방송사 : JTBC http://www.jtbc.co.kr \r\n▶ JTBC 뉴스9 월~금 21시00분 방송 \r\n▶ 홈페이지 : http://news.jtbc.co.kr \r\n▶ 공식 트위터 : https://twitter.com/JTBC_news \r\n▶ 공식 페이스북 : https://www.facebook.com/jtbcnews \r\n\r\n왕중왕전까지 마친 JTBC의 히든싱어 시즌2, 쟁쟁한 모창가수들이 등장하며 많은 스토리를 낳았는데요, 그중 특히 화제가 됐던 인물이 영국인이면서 아이유 모창에 도전했던 조안나였습니다. 능숙한 한국어를 구사하는, 한류전도사 조안나를 런던에서 고정애 특파원이 만나봤습니다.",
+      "publishedAt": "2014-01-27T00:09:35Z",
+      "duration": "PT2M1S",
+      "viewCount": 16593,
+      "likeCount": 63,
+      "commentCount": 4,
+      "tags": [
+        "JTBC",
+        "JTBC뉴스9",
+        "아침&",
+        "손석희",
+        "히든싱어",
+        "아이유",
+        "조안나",
+        "IU (Musical Artist)"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2014-01-27T00:09:35Z",
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "collectedAt": "2025-08-24T21:53:43Z"
     }
   },
   "channels": {
@@ -283,12 +309,39 @@
         }
       },
       "subscriberCount": 1590000,
-      "viewCount": 1279713708,
-      "videoCount": 19125,
-      "lastUpdated": "2025-08-23T20:41:43.055356Z"
+      "viewCount": 1280577570,
+      "videoCount": 19124,
+      "lastUpdated": "2025-08-24T21:53:43.246195Z"
+    },
+    "UCsU-I-vHLiaMfV_ceaYz5rQ": {
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "channelUrl": "@jtbc_news",
+      "channelDescription": "진실에 닿을 때까지 멈추지 않는 질문, JTBC News\nWelcome to the official JTBC News Channel.\n\n▶ https://news.jtbc.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 4670000,
+      "viewCount": 14812391233,
+      "videoCount": 261253,
+      "lastUpdated": "2025-08-24T21:53:43.246195Z"
     }
   },
-  "lastUpdated": "2025-08-23T20:41:43.055356Z",
-  "totalVideos": 7,
-  "totalChannels": 2
+  "lastUpdated": "2025-08-24T21:53:43.247192Z",
+  "totalVideos": 8,
+  "totalChannels": 3
 }

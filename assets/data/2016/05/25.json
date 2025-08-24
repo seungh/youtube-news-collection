@@ -174,6 +174,41 @@
       "channelId": "UC4Aa3OPkMenwTANpf0oWVRQ",
       "channelName": "CBS 김현정의 뉴스쇼",
       "collectedAt": "2025-08-22T14:01:52Z"
+    },
+    "pU95XC5oi0k": {
+      "videoId": "pU95XC5oi0k",
+      "title": "'학생부 종합 전형' 대학 입학생, 학업성취도 최하위",
+      "description": "대입은 예나 지금이나 나라가 들썩일 정도로 큰일입니다. 그나마 예전엔 한두 번 시험을 보면 끝이었지만, 요즘은 꽤나 복잡해졌습니다. 현재 대학에 들어가는 문은 대략 7개입니다. 정시, 수시, 특기자, 학생부, 외국인 전형 등입니다. 다양한 재능을 가진 뛰어난 학생을 뽑기 위해 수십 년간 시행착오를 거쳐 만든 제도다, 당국은 이렇게 설명하고 있지요.\n어떨까요. 저희 취재진이 서울의 한 중상위권 대학의 입학 전형별 학업 성취도를 입수해 살펴봤는데요. 2009년부터 2015년까지 7년 동안 학생부 종합 전형 입학생의 성적은 외국인 전형 대상자를 제외하면 최하위였습니다.\n그렇다면 이게 옥석을 제대로 가려내는 입시 전형일지요.",
+      "publishedAt": "2016-05-24T17:28:26Z",
+      "duration": "PT2M56S",
+      "viewCount": 29132,
+      "likeCount": 160,
+      "commentCount": 74,
+      "tags": [
+        "JTBC",
+        "JTBC NEWS",
+        "뉴스룸",
+        "손석희",
+        "학생부",
+        "수시",
+        "정시",
+        "수능",
+        "본고사",
+        "대입",
+        "논술",
+        "구술",
+        "논구술",
+        "입학사정관",
+        "학업성취도",
+        "시립대",
+        "중경외시"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2016-05-24T17:28:26Z",
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "collectedAt": "2025-08-24T21:54:05Z"
     }
   },
   "channels": {
@@ -254,12 +289,39 @@
         }
       },
       "subscriberCount": 1590000,
-      "viewCount": 1278731005,
-      "videoCount": 19122,
-      "lastUpdated": "2025-08-22T14:01:52.516047Z"
+      "viewCount": 1280577570,
+      "videoCount": 19124,
+      "lastUpdated": "2025-08-24T21:54:05.615173Z"
+    },
+    "UCsU-I-vHLiaMfV_ceaYz5rQ": {
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "channelUrl": "@jtbc_news",
+      "channelDescription": "진실에 닿을 때까지 멈추지 않는 질문, JTBC News\nWelcome to the official JTBC News Channel.\n\n▶ https://news.jtbc.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 4670000,
+      "viewCount": 14812391233,
+      "videoCount": 261253,
+      "lastUpdated": "2025-08-24T21:54:05.614196Z"
     }
   },
-  "lastUpdated": "2025-08-22T14:01:52.516047Z",
-  "totalVideos": 8,
-  "totalChannels": 3
+  "lastUpdated": "2025-08-24T21:54:05.660196Z",
+  "totalVideos": 9,
+  "totalChannels": 4
 }

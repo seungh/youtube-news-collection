@@ -473,6 +473,39 @@
       "channelId": "UC4Aa3OPkMenwTANpf0oWVRQ",
       "channelName": "CBS 김현정의 뉴스쇼",
       "collectedAt": "2025-08-22T14:01:52Z"
+    },
+    "bYxTcOaeB6Y": {
+      "videoId": "bYxTcOaeB6Y",
+      "title": "[인터뷰] 장혜진·기보배 \"활 당길 때 '손맛'으로 점수 느껴\"",
+      "description": "방송사 : JTBC http://www.jtbc.co.kr\n▶ JTBC 뉴스룸 월~일 20시00분 방송\n▶ 홈페이지 : http://news.jtbc.co.kr\n▶ 공식 트위터 : https://twitter.com/JTBC_news\n▶ 공식 페이스북 : https://www.facebook.com/jtbcnews\n\n팩트체크에서 순위 얘기를 많이 했습니다. 저희야 올림픽을 중계해 드리는 방송사는 아닙니다마는. 그런데 오늘(18일) 모신 분들은 정말 뵙고 싶은 분들입니다. 양궁 워낙 세계적으로 정평이 나 있죠, 우리 양궁은. 이번에는 남녀 단체전, 개인전 금메달을 이렇게 이른바 싹쓸이를 해서 전 종목 석권이라는 사상 처음으로 그렇게 됐습니다. 또 꼭 금메달이 다냐, 저희들도 말씀드리고는 하는데 아무튼 개인이 낸 성취로서는 인정을 해 드려야 되는 것이고요. \n\n그래서 또 많은 분들이 관심을 많이 가져주신 두 분 오늘 모셨는데 기보배 선수와 장혜진 선수입니다. 어서 오세요.",
+      "publishedAt": "2016-08-18T13:59:27Z",
+      "duration": "PT13M48S",
+      "viewCount": 155841,
+      "likeCount": 367,
+      "commentCount": 113,
+      "tags": [
+        "JTBC",
+        "JTBC NEWS",
+        "뉴스룸",
+        "손석희",
+        "양궁",
+        "리우",
+        "올림픽",
+        "리우올림픽",
+        "기보배",
+        "장혜진",
+        "한국 양궁",
+        "국가대표",
+        "금메달",
+        "인터뷰",
+        "대중문화 인터뷰"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2016-08-18T13:59:27Z",
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "collectedAt": "2025-08-24T21:53:48Z"
     }
   },
   "channels": {
@@ -607,12 +640,39 @@
         }
       },
       "subscriberCount": 1590000,
-      "viewCount": 1278731005,
-      "videoCount": 19122,
-      "lastUpdated": "2025-08-22T14:01:52.202067Z"
+      "viewCount": 1280577570,
+      "videoCount": 19124,
+      "lastUpdated": "2025-08-24T21:53:48.104286Z"
+    },
+    "UCsU-I-vHLiaMfV_ceaYz5rQ": {
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "channelUrl": "@jtbc_news",
+      "channelDescription": "진실에 닿을 때까지 멈추지 않는 질문, JTBC News\nWelcome to the official JTBC News Channel.\n\n▶ https://news.jtbc.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 4670000,
+      "viewCount": 14812391233,
+      "videoCount": 261253,
+      "lastUpdated": "2025-08-24T21:53:48.102292Z"
     }
   },
-  "lastUpdated": "2025-08-22T14:01:52.206066Z",
-  "totalVideos": 19,
-  "totalChannels": 5
+  "lastUpdated": "2025-08-24T21:53:48.106280Z",
+  "totalVideos": 20,
+  "totalChannels": 6
 }

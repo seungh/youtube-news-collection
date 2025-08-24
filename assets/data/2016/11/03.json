@@ -515,6 +515,58 @@
       "channelId": "UC4Aa3OPkMenwTANpf0oWVRQ",
       "channelName": "CBS 김현정의 뉴스쇼",
       "collectedAt": "2025-08-22T14:03:11Z"
+    },
+    "31laxy8vUko": {
+      "videoId": "31laxy8vUko",
+      "title": "최순실 요구 거절하자…\"조양호, 2월부터 경질\" / SBS",
+      "description": "지난 5월 2일 문화체육관광부는 조양호 평창조직위원장에게 해임을 통보했습니다. 그런데 석 달 전인 2월에 문체부가 조 위원장을 경질하려 했다는 증언이 나왔습니다. 문체부가 일찌감치 조 위원장을 경질하려 한 이유는 당시 최순실 씨와 관련된 각종 요구를 조 위원장이 거절했기 때문이라는 얘기가 나오고 있습니다.\n\n권종오 기자가 단독 보도합니다.\n\n▶ SBS NEWS 유튜브 채널 구독하기 : https://goo.gl/l8eCja\n\n▶대한민국 뉴스리더 SBS◀\n홈페이지: http://news.sbs.co.kr\n페이스북: http://www.facebook.com/sbs8news\n트위터: http://www.twitter.com/sbs8news",
+      "publishedAt": "2016-11-03T12:31:02Z",
+      "duration": "PT2M1S",
+      "viewCount": 809,
+      "likeCount": 2,
+      "commentCount": 0,
+      "tags": [
+        "KOREA",
+        "KOREA NEWS",
+        "KOREAN NEWS",
+        "NEWS",
+        "SBS",
+        "SBS NEWS",
+        "SBS8NEWS",
+        "SBS8뉴스",
+        "SBS뉴스",
+        "SBS보도국",
+        "SEOUL BROADCASTING SYSTEM",
+        "korea",
+        "korea news",
+        "korean news",
+        "sbs",
+        "sbs 뉴스",
+        "sbs뉴스",
+        "seoul broadcasting system",
+        "yt:cc=on",
+        "거절",
+        "경질",
+        "뉴스",
+        "대한민국",
+        "문체부",
+        "서울방송",
+        "에스비에스",
+        "에스비에스뉴스",
+        "요구",
+        "조양호",
+        "최순실",
+        "평창조직위원장",
+        "한국",
+        "한국 뉴스",
+        "해임"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2016-11-03T12:31:02Z",
+      "channelId": "UCkinYTS9IHqOEwR1Sze2JTw",
+      "channelName": "SBS 뉴스",
+      "collectedAt": "2025-08-24T21:54:42Z"
     }
   },
   "channels": {
@@ -622,12 +674,39 @@
         }
       },
       "subscriberCount": 1590000,
-      "viewCount": 1279713708,
-      "videoCount": 19125,
-      "lastUpdated": "2025-08-23T20:41:12.804767Z"
+      "viewCount": 1280577570,
+      "videoCount": 19124,
+      "lastUpdated": "2025-08-24T21:54:42.558201Z"
+    },
+    "UCkinYTS9IHqOEwR1Sze2JTw": {
+      "channelId": "UCkinYTS9IHqOEwR1Sze2JTw",
+      "channelName": "SBS 뉴스",
+      "channelUrl": "@sbsnews8",
+      "channelDescription": "대한민국 No.1 SBS뉴스 ",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/SqFZwlQcqLs4JMZd3lthkg79kCHi68eerNpkkahvEYSPWhm2afUNqFkbMC6J6JJcy9JJ_DzQ8w=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/SqFZwlQcqLs4JMZd3lthkg79kCHi68eerNpkkahvEYSPWhm2afUNqFkbMC6J6JJcy9JJ_DzQ8w=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/SqFZwlQcqLs4JMZd3lthkg79kCHi68eerNpkkahvEYSPWhm2afUNqFkbMC6J6JJcy9JJ_DzQ8w=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 4990000,
+      "viewCount": 14985058976,
+      "videoCount": 297368,
+      "lastUpdated": "2025-08-24T21:54:42.559199Z"
     }
   },
-  "lastUpdated": "2025-08-23T20:41:12.804767Z",
-  "totalVideos": 19,
-  "totalChannels": 4
+  "lastUpdated": "2025-08-24T21:54:42.560197Z",
+  "totalVideos": 20,
+  "totalChannels": 5
 }

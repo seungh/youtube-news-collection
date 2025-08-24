@@ -175,6 +175,32 @@
       "channelId": "UC4Aa3OPkMenwTANpf0oWVRQ",
       "channelName": "CBS 김현정의 뉴스쇼",
       "collectedAt": "2025-08-22T14:03:35Z"
+    },
+    "kXNOx3cOhr4": {
+      "videoId": "kXNOx3cOhr4",
+      "title": "\"다케시마는 일본 땅\"...유튜브서 불붙은 '독도 외교전'",
+      "description": "일본이 유투브에 \"독도는 일본땅\" 이라는 일방적 주장을 담은 영상을 게재했습니다. 우리 정부는 즉각 항의의 뜻을 밝혔지만, 일본 정부는 해당 영상을 한국어를 포함한 10개 외국어로 번역해 추가 게재할 예정이라고 합니다.",
+      "publishedAt": "2013-10-24T05:09:39Z",
+      "duration": "PT1M43S",
+      "viewCount": 11090,
+      "likeCount": 60,
+      "commentCount": 277,
+      "tags": [
+        "JTBC",
+        "JTBC NEWS",
+        "JTBC NEWS 아침&",
+        "JTBC 아침뉴스",
+        "아침&",
+        "독도",
+        "일본",
+        "다케시마"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2013-10-24T05:09:39Z",
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "collectedAt": "2025-08-24T21:54:09Z"
     }
   },
   "channels": {
@@ -228,12 +254,39 @@
         }
       },
       "subscriberCount": 1590000,
-      "viewCount": 1279713708,
-      "videoCount": 19125,
-      "lastUpdated": "2025-08-23T20:41:44.810838Z"
+      "viewCount": 1280577570,
+      "videoCount": 19124,
+      "lastUpdated": "2025-08-24T21:54:09.939186Z"
+    },
+    "UCsU-I-vHLiaMfV_ceaYz5rQ": {
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "channelUrl": "@jtbc_news",
+      "channelDescription": "진실에 닿을 때까지 멈추지 않는 질문, JTBC News\nWelcome to the official JTBC News Channel.\n\n▶ https://news.jtbc.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 4670000,
+      "viewCount": 14812391233,
+      "videoCount": 261253,
+      "lastUpdated": "2025-08-24T21:54:09.938189Z"
     }
   },
-  "lastUpdated": "2025-08-23T20:41:44.811834Z",
-  "totalVideos": 5,
-  "totalChannels": 2
+  "lastUpdated": "2025-08-24T21:54:09.939186Z",
+  "totalVideos": 6,
+  "totalChannels": 3
 }

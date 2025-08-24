@@ -306,6 +306,61 @@
       "channelId": "UC4Aa3OPkMenwTANpf0oWVRQ",
       "channelName": "CBS 김현정의 뉴스쇼",
       "collectedAt": "2025-08-22T14:03:16Z"
+    },
+    "zntbYJ3vCsU": {
+      "videoId": "zntbYJ3vCsU",
+      "title": "[인터뷰 풀영상] '독수리 에디' 휴 잭맨-태런 에저튼을 만나다",
+      "description": "방송사 : JTBC http://www.jtbc.co.kr\n▶ JTBC 뉴스룸 월~일 20시00분 방송\n▶ 홈페이지 : http://news.jtbc.co.kr\n▶ 공식 트위터 : https://twitter.com/JTBC_news\n▶ 공식 페이스북 : https://www.facebook.com/jtbcnews\n\n대중문화 인물을 만나보는 목요일입니다. 오늘(10일) 두 사람이 등장하는데요. 모두 할리우드 배우들입니다. 한 사람은 우리에게 매우 친숙하고, 또 한 사람은 점점 더 친숙해져 가는 신예배우이기도 하죠. 휴 잭맨 그리고 태런 에저튼 두 사람 오늘 함께 출연한 영화를 소개해주기 위해서 이 자리에 나오게 됐습니다. \n\n만나보겠습니다. 영화 제목은 'Eddie the Eagle' 그러니까 우리말로 번역을 하면 '독수리 에디' 이렇게 될 것 같은데요. 만나보겠습니다. 반갑습니다. 두 사람.",
+      "publishedAt": "2016-03-10T14:07:14Z",
+      "duration": "PT13M7S",
+      "viewCount": 224341,
+      "likeCount": 1568,
+      "commentCount": 95,
+      "tags": [
+        "JTBC",
+        "JTBC NEWS",
+        "JTBC 뉴스",
+        "뉴스룸",
+        "뉴스9",
+        "손석희",
+        "손석희 뉴스",
+        "휴 잭맨",
+        "태런 에저튼",
+        "독수리 에디",
+        "Eddie the Eagle",
+        "에디",
+        "이글",
+        "배우",
+        "아이언맨",
+        "킹스맨",
+        "스포츠 영화",
+        "할리우드",
+        "인터뷰",
+        "대중문화",
+        "Hugh Jackman",
+        "Taron Egerton",
+        "interview",
+        "Wolverine",
+        "kingsman",
+        "hollywood",
+        "actor",
+        "aud",
+        "Australia",
+        "엑스맨",
+        "x-men",
+        "태론 애거튼",
+        "kingsman2",
+        "english",
+        "movie star",
+        "secret agent",
+        "manner maketh man"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2016-03-10T14:07:14Z",
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "collectedAt": "2025-08-24T21:53:46Z"
     }
   },
   "channels": {
@@ -413,12 +468,39 @@
         }
       },
       "subscriberCount": 1590000,
-      "viewCount": 1279713708,
-      "videoCount": 19125,
-      "lastUpdated": "2025-08-23T20:41:19.372521Z"
+      "viewCount": 1280577570,
+      "videoCount": 19124,
+      "lastUpdated": "2025-08-24T21:53:46.977197Z"
+    },
+    "UCsU-I-vHLiaMfV_ceaYz5rQ": {
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "channelUrl": "@jtbc_news",
+      "channelDescription": "진실에 닿을 때까지 멈추지 않는 질문, JTBC News\nWelcome to the official JTBC News Channel.\n\n▶ https://news.jtbc.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 4670000,
+      "viewCount": 14812391233,
+      "videoCount": 261253,
+      "lastUpdated": "2025-08-24T21:53:46.976199Z"
     }
   },
-  "lastUpdated": "2025-08-23T20:41:19.373521Z",
-  "totalVideos": 13,
-  "totalChannels": 4
+  "lastUpdated": "2025-08-24T21:53:46.978194Z",
+  "totalVideos": 14,
+  "totalChannels": 5
 }

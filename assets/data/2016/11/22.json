@@ -328,6 +328,36 @@
       "channelId": "UC4Aa3OPkMenwTANpf0oWVRQ",
       "channelName": "CBS 김현정의 뉴스쇼",
       "collectedAt": "2025-08-22T14:03:11Z"
+    },
+    "Pdjr-F2pzxQ": {
+      "videoId": "Pdjr-F2pzxQ",
+      "title": "후쿠시마서 규모 7.4 강진…아베, 해외서도 긴급 대응",
+      "description": "남경필·김용태, 새누리 탈당 ▶ http://bit.ly/2fndViF\n태반주사로 경호원 건강관리? ▶ http://bit.ly/2fBhyze\n청와대, 특검 임명 제동거나 ▶ http://bit.ly/2fneRDO\n돈 낸 대기업들 당시 현안은? ▶ http://bit.ly/2fnbexx\n\n[앵커]\n\n오늘(22일) 새벽 일본 후쿠시마 앞바다에서 규모 7.4의 강진이 발생했습니다. 쓰나미까지 일으켰는데요. 쓰나미 경보에 일본인들은 긴급 대피하는 등 동일본 대지진의 악몽을 떠올렸지만, 10여 명이 부상을 입었을 뿐 큰 피해는 없었습니다. 아베 정부는 나라 안팎에서 총력 대응에 나섰고 방송들도 신속한 대피를 유도했습니다. 도쿄를 연결합니다.\n\n이정헌 특파원, 실제 쓰나미가 발생했을 정도면 아주 긴박한 상황었죠.",
+      "publishedAt": "2016-11-22T13:58:42Z",
+      "duration": "PT3M23S",
+      "viewCount": 6992,
+      "likeCount": 65,
+      "commentCount": 19,
+      "tags": [
+        "JTBC",
+        "JTBC NEWS",
+        "뉴스룸",
+        "손석희",
+        "아베",
+        "일본",
+        "지진",
+        "동일본",
+        "후쿠시마",
+        "강진",
+        "원전",
+        "대지진"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2016-11-22T13:58:42Z",
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "collectedAt": "2025-08-24T21:54:08Z"
     }
   },
   "channels": {
@@ -435,12 +465,39 @@
         }
       },
       "subscriberCount": 1590000,
-      "viewCount": 1279713708,
-      "videoCount": 19125,
-      "lastUpdated": "2025-08-23T20:41:12.378260Z"
+      "viewCount": 1280577570,
+      "videoCount": 19124,
+      "lastUpdated": "2025-08-24T21:54:08.579167Z"
+    },
+    "UCsU-I-vHLiaMfV_ceaYz5rQ": {
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "channelUrl": "@jtbc_news",
+      "channelDescription": "진실에 닿을 때까지 멈추지 않는 질문, JTBC News\nWelcome to the official JTBC News Channel.\n\n▶ https://news.jtbc.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 4670000,
+      "viewCount": 14812391233,
+      "videoCount": 261253,
+      "lastUpdated": "2025-08-24T21:54:08.578168Z"
     }
   },
-  "lastUpdated": "2025-08-23T20:41:12.378260Z",
-  "totalVideos": 12,
-  "totalChannels": 4
+  "lastUpdated": "2025-08-24T21:54:08.580162Z",
+  "totalVideos": 13,
+  "totalChannels": 5
 }

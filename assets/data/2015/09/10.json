@@ -707,6 +707,39 @@
       "channelId": "UC4Aa3OPkMenwTANpf0oWVRQ",
       "channelName": "CBS 김현정의 뉴스쇼",
       "collectedAt": "2025-08-22T14:03:20Z"
+    },
+    "A9a1fEfNuZw": {
+      "videoId": "A9a1fEfNuZw",
+      "title": "[인터뷰 풀영상] 배두나 \"한 신이라도 못할 부분 있으면 영화 포기\"",
+      "description": "방송사 : JTBC http://www.jtbc.co.kr \n▶ JTBC 뉴스룸 월~일 20시00분 방송 \n▶ 홈페이지 : http://news.jtbc.co.kr \n▶ 공식 트위터 : https://twitter.com/JTBC_news \n▶ 공식 페이스북 : https://www.facebook.com/jtbcnews \n\n\"연령과 인종을 초월하는 매력이 있다\" \"아무런 도구 없이 예술을 만들어낸다\" 세계 유명 감독들의 이런 찬사를 한몸에 받는 우리 배우가 있습니다. 바로 배두나 씨 얘기인데요.\n\n할리우드와 충무로를 오가며 또래 배우들 중 단연 돋보이는 행보를 이어가고 있는 배두나 씨. 오늘(10일) 대중·문화 초대석에 모셨습니다. 반갑습니다.",
+      "publishedAt": "2015-09-10T13:41:07Z",
+      "duration": "PT17M12S",
+      "viewCount": 209243,
+      "likeCount": 1430,
+      "commentCount": 83,
+      "tags": [
+        "JTBC",
+        "JTBC NEWS",
+        "JTBC 뉴스",
+        "제이티비씨 뉴스",
+        "제이티비씨",
+        "손석희",
+        "손석희 뉴스",
+        "뉴스룸",
+        "배두나",
+        "JTBC 인터뷰",
+        "인터뷰",
+        "올레 영화제",
+        "배두나 심사위원",
+        "올레 스마트폰 영화제",
+        "스마트폰 영화제"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2015-09-10T13:41:07Z",
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "collectedAt": "2025-08-24T21:53:45Z"
     }
   },
   "channels": {
@@ -814,12 +847,39 @@
         }
       },
       "subscriberCount": 1590000,
-      "viewCount": 1279713708,
-      "videoCount": 19125,
-      "lastUpdated": "2025-08-23T20:41:24.764774Z"
+      "viewCount": 1280577570,
+      "videoCount": 19124,
+      "lastUpdated": "2025-08-24T21:53:45.510167Z"
+    },
+    "UCsU-I-vHLiaMfV_ceaYz5rQ": {
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "channelUrl": "@jtbc_news",
+      "channelDescription": "진실에 닿을 때까지 멈추지 않는 질문, JTBC News\nWelcome to the official JTBC News Channel.\n\n▶ https://news.jtbc.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 4670000,
+      "viewCount": 14812391233,
+      "videoCount": 261253,
+      "lastUpdated": "2025-08-24T21:53:45.510167Z"
     }
   },
-  "lastUpdated": "2025-08-23T20:41:24.765291Z",
-  "totalVideos": 28,
-  "totalChannels": 4
+  "lastUpdated": "2025-08-24T21:53:45.512162Z",
+  "totalVideos": 29,
+  "totalChannels": 5
 }

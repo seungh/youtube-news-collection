@@ -527,6 +527,30 @@
       "channelId": "UC4Aa3OPkMenwTANpf0oWVRQ",
       "channelName": "CBS 김현정의 뉴스쇼",
       "collectedAt": "2025-08-22T14:03:13Z"
+    },
+    "ac798BDBMaI": {
+      "videoId": "ac798BDBMaI",
+      "title": "[인터뷰 풀영상] 맷 데이먼 \"정치적 발언? 우리 모두가 마땅히 해야할 일\" 소신 발언",
+      "description": "본 시리즈의 맷 데이먼이 한국을 다녀갔습니다. 다른 프로그램 출연을 마다하고 저희 뉴스룸을 찾아주었습니다. 지난 7일에 인터뷰 녹화를 했는데… 14일 목요일. 대중문화 초대석의 주인공은 설명이 필요 없을 것 같은 배우, 맷 데이먼입니다.",
+      "publishedAt": "2016-07-15T01:52:12Z",
+      "duration": "PT13M10S",
+      "viewCount": 894627,
+      "likeCount": 6142,
+      "commentCount": 706,
+      "tags": [
+        "JTBC",
+        "JTBC NEWS",
+        "뉴스룸",
+        "손석희",
+        "Matt Damon",
+        "Matthew Paige Damon"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2016-07-15T01:52:12Z",
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "collectedAt": "2025-08-24T21:53:47Z"
     }
   },
   "channels": {
@@ -661,12 +685,39 @@
         }
       },
       "subscriberCount": 1590000,
-      "viewCount": 1279713708,
-      "videoCount": 19125,
-      "lastUpdated": "2025-08-23T20:41:15.403966Z"
+      "viewCount": 1280577570,
+      "videoCount": 19124,
+      "lastUpdated": "2025-08-24T21:53:47.885184Z"
+    },
+    "UCsU-I-vHLiaMfV_ceaYz5rQ": {
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "channelUrl": "@jtbc_news",
+      "channelDescription": "진실에 닿을 때까지 멈추지 않는 질문, JTBC News\nWelcome to the official JTBC News Channel.\n\n▶ https://news.jtbc.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 4670000,
+      "viewCount": 14812391233,
+      "videoCount": 261253,
+      "lastUpdated": "2025-08-24T21:53:47.884191Z"
     }
   },
-  "lastUpdated": "2025-08-23T20:41:15.406813Z",
-  "totalVideos": 21,
-  "totalChannels": 5
+  "lastUpdated": "2025-08-24T21:53:47.885184Z",
+  "totalVideos": 22,
+  "totalChannels": 6
 }

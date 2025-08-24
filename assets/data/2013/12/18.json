@@ -182,6 +182,33 @@
       "channelId": "UC4Aa3OPkMenwTANpf0oWVRQ",
       "channelName": "CBS 김현정의 뉴스쇼",
       "collectedAt": "2025-08-22T14:03:34Z"
+    },
+    "jDYSe3_uKqA": {
+      "videoId": "jDYSe3_uKqA",
+      "title": "[긴급출동] 학생 안중에도 없는 들쑥날쑥 '대입 제도'",
+      "description": "공부를 할 때 물론 대학 입시제도에 맞춰서 공부를 해서는 안 되겠지만요, 너무 자주 바뀌는 우리나라 대입 제도 때문에 수험생과 학부모들이 혼란스러워지는 경우가 많습니다. 최근 20년 동안 17번 바꼈다고 합니다. 지난 9월에 교육부가 또 새로운 제도를 발표하면서 어학특기자 전형 부분이 축소되거나 폐지됐는데요,  이에 맞춰서 진학 전략을 짜온 학생들은 당황스럽기만 합니다.",
+      "publishedAt": "2013-12-18T04:28:54Z",
+      "duration": "PT5M9S",
+      "viewCount": 1090,
+      "likeCount": 1,
+      "commentCount": 0,
+      "tags": [
+        "JTBC",
+        "JTBC NEWS",
+        "JTBC 아침&",
+        "아침&",
+        "긴급출동",
+        "수능",
+        "대입 제도",
+        "교육부",
+        "어학특기자"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2013-12-18T04:28:54Z",
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "collectedAt": "2025-08-24T21:54:05Z"
     }
   },
   "channels": {
@@ -235,12 +262,39 @@
         }
       },
       "subscriberCount": 1590000,
-      "viewCount": 1279713708,
-      "videoCount": 19125,
-      "lastUpdated": "2025-08-23T20:41:43.725958Z"
+      "viewCount": 1280577570,
+      "videoCount": 19124,
+      "lastUpdated": "2025-08-24T21:54:05.846173Z"
+    },
+    "UCsU-I-vHLiaMfV_ceaYz5rQ": {
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "channelUrl": "@jtbc_news",
+      "channelDescription": "진실에 닿을 때까지 멈추지 않는 질문, JTBC News\nWelcome to the official JTBC News Channel.\n\n▶ https://news.jtbc.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 4670000,
+      "viewCount": 14812391233,
+      "videoCount": 261253,
+      "lastUpdated": "2025-08-24T21:54:05.845172Z"
     }
   },
-  "lastUpdated": "2025-08-23T20:41:43.729867Z",
-  "totalVideos": 6,
-  "totalChannels": 2
+  "lastUpdated": "2025-08-24T21:54:05.846173Z",
+  "totalVideos": 7,
+  "totalChannels": 3
 }

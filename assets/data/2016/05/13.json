@@ -550,6 +550,41 @@
       "channelId": "UC4Aa3OPkMenwTANpf0oWVRQ",
       "channelName": "CBS 김현정의 뉴스쇼",
       "collectedAt": "2025-08-22T14:03:15Z"
+    },
+    "QfPKeYr4FTE": {
+      "videoId": "QfPKeYr4FTE",
+      "title": "[인터뷰 풀영상] 김언호 대표 \"깊은 생각 위해서는 종이책 읽어야\"",
+      "description": "요즘 같은 세상에 서점, 책 얘기. 좀 지루하다라고 생각하셔서 지금 이 인터뷰를 넘기신다면 후회하실 것 같습니다.\n오늘 모신 분은 40년동안 책을 만들어온 출판계의 장인이시고, 파주에 그 유명한 출판문화단지 또 헤이리마을을 조성한 출판문화운동가이시기도 합니다.\n한길사의 김언호 대표가 오늘 특별히 나와주셨는데, 나와주신 이유 중 하나는 '이 책'도 있습니다. 굉장히 두껍고 커서 들고 다니기도 좀 어려울 정도입니다. 값을 보니까, 비쌉니다. 그런데 비쌀 만합니다.\n사진도 굉장히 많고, 값은 따로 말씀 안 드리겠습니다마는. 너무 무리하신 거 아닐까요.\n목요 문화초대석, 한길사 김언호 대표를 만나보세요.\n\nhttp://news.jtbc.joins.com/article/article.aspx?news_id=NB11231967",
+      "publishedAt": "2016-05-12T15:57:34Z",
+      "duration": "PT9M52S",
+      "viewCount": 7453,
+      "likeCount": 41,
+      "commentCount": 0,
+      "tags": [
+        "JTBC",
+        "JTBC NEWS",
+        "뉴스룸",
+        "손석희",
+        "문화초대석",
+        "목요초대석",
+        "인터뷰",
+        "풀영상",
+        "김언호",
+        "한길사",
+        "파주출판단지",
+        "출판문화단지",
+        "출판단지",
+        "헤이리",
+        "서점",
+        "종이책",
+        "책방"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2016-05-12T15:57:34Z",
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "collectedAt": "2025-08-24T21:53:47Z"
     }
   },
   "channels": {
@@ -657,12 +692,39 @@
         }
       },
       "subscriberCount": 1590000,
-      "viewCount": 1279713708,
-      "videoCount": 19125,
-      "lastUpdated": "2025-08-23T20:41:17.720303Z"
+      "viewCount": 1280577570,
+      "videoCount": 19124,
+      "lastUpdated": "2025-08-24T21:53:47.231168Z"
+    },
+    "UCsU-I-vHLiaMfV_ceaYz5rQ": {
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "channelUrl": "@jtbc_news",
+      "channelDescription": "진실에 닿을 때까지 멈추지 않는 질문, JTBC News\nWelcome to the official JTBC News Channel.\n\n▶ https://news.jtbc.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 4670000,
+      "viewCount": 14812391233,
+      "videoCount": 261253,
+      "lastUpdated": "2025-08-24T21:53:47.230171Z"
     }
   },
-  "lastUpdated": "2025-08-23T20:41:17.720303Z",
-  "totalVideos": 22,
-  "totalChannels": 4
+  "lastUpdated": "2025-08-24T21:53:47.231168Z",
+  "totalVideos": 23,
+  "totalChannels": 5
 }

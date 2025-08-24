@@ -915,6 +915,52 @@
       "channelId": "UC4Aa3OPkMenwTANpf0oWVRQ",
       "channelName": "CBS 김현정의 뉴스쇼",
       "collectedAt": "2025-08-22T14:03:06Z"
+    },
+    "MAByzsOMzz8": {
+      "videoId": "MAByzsOMzz8",
+      "title": "다시보는 8뉴스｜10/30(월) - 강경화 \"APEC서 한·중 정상회담 추진\"…사드 해결 임박?",
+      "description": "강경화 외교부 장관이 다음 달 정상회담을 추진 중이라며 조만간 한중관계 복원과 관련한 발표가 있을 거라고 말했습니다.\n\n▶ 강경화 \"APEC서 한·중 정상회담 추진\"…사드 해결 임박?\n▶ 1,400억 들여 만든 'M-SAM'…돌연 양산 계획 보류\n▶ '뉴스 배치·검색어 조작' 질책 쏟아지자…네이버 \"사과\"\n▶ 금융당국 \"이건희 차명계좌 재점검\"…與 \"비자금 가능성\"\n▶ '낙태죄 폐지' 23만 청원에 찬반 논쟁…靑 \"답변 준비할 것\" \n▶ 고층 빌딩 중 135동은 '가연성 외장재'…공개 안 한 국토부\n▶ '극비' 탈북 루트인데…매년 수천만 원 들여 공무원 견학?\n▶ \"오빠 살려줘\" 가족인 척 대역…교묘해지는 보이스피싱\n▶ 기록 안 남는 'NEIS' 악용…교장이 직접 생활기록부 조작\n\n▶ SBS NEWS 유튜브 채널 구독하기 : https://goo.gl/l8eCja\n\n▶대한민국 뉴스리더 SBS◀\n홈페이지: http://news.sbs.co.kr\n페이스북: http://www.facebook.com/sbs8news\n트위터: http://www.twitter.com/sbs8news",
+      "publishedAt": "2017-10-31T08:17:25Z",
+      "duration": "PT47M26S",
+      "viewCount": 1365,
+      "likeCount": 9,
+      "commentCount": 3,
+      "tags": [
+        "뉴스",
+        "NEWS",
+        "news",
+        "SBS",
+        "sbs",
+        "SBS NEWS",
+        "SBS8NEWS",
+        "SBS뉴스",
+        "SBS8뉴스",
+        "sbs뉴스",
+        "sbs8뉴스",
+        "에스비에스",
+        "에스비에스뉴스",
+        "서울방송",
+        "SBS보도국",
+        "SEOUL BROADCASTING SYSTEM",
+        "seoul broadcasting system",
+        "sbs 뉴스",
+        "korea",
+        "KOREA",
+        "한국",
+        "대한민국",
+        "한국 뉴스",
+        "korea news",
+        "korean news",
+        "KOREA NEWS",
+        "KOREAN NEWS",
+        "8뉴스"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2017-10-31T08:17:25Z",
+      "channelId": "UCkinYTS9IHqOEwR1Sze2JTw",
+      "channelName": "SBS 뉴스",
+      "collectedAt": "2025-08-24T21:54:34Z"
     }
   },
   "channels": {
@@ -1022,12 +1068,39 @@
         }
       },
       "subscriberCount": 1590000,
-      "viewCount": 1279713708,
-      "videoCount": 19125,
-      "lastUpdated": "2025-08-23T20:41:02.710012Z"
+      "viewCount": 1280577570,
+      "videoCount": 19124,
+      "lastUpdated": "2025-08-24T21:54:34.306111Z"
+    },
+    "UCkinYTS9IHqOEwR1Sze2JTw": {
+      "channelId": "UCkinYTS9IHqOEwR1Sze2JTw",
+      "channelName": "SBS 뉴스",
+      "channelUrl": "@sbsnews8",
+      "channelDescription": "대한민국 No.1 SBS뉴스 ",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/SqFZwlQcqLs4JMZd3lthkg79kCHi68eerNpkkahvEYSPWhm2afUNqFkbMC6J6JJcy9JJ_DzQ8w=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/SqFZwlQcqLs4JMZd3lthkg79kCHi68eerNpkkahvEYSPWhm2afUNqFkbMC6J6JJcy9JJ_DzQ8w=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/SqFZwlQcqLs4JMZd3lthkg79kCHi68eerNpkkahvEYSPWhm2afUNqFkbMC6J6JJcy9JJ_DzQ8w=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 4990000,
+      "viewCount": 14985058976,
+      "videoCount": 297368,
+      "lastUpdated": "2025-08-24T21:54:34.307109Z"
     }
   },
-  "lastUpdated": "2025-08-23T20:41:02.713248Z",
-  "totalVideos": 33,
-  "totalChannels": 4
+  "lastUpdated": "2025-08-24T21:54:34.307109Z",
+  "totalVideos": 34,
+  "totalChannels": 5
 }

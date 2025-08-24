@@ -83,6 +83,60 @@
       "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
       "channelName": "뉴스TVCHOSUN",
       "collectedAt": "2025-08-21T10:45:57Z"
+    },
+    "JLhYyg1KVdQ": {
+      "videoId": "JLhYyg1KVdQ",
+      "title": "[단독] 北 어선 3척 잇따라 우리 해역으로…선원 조사 중 / SBS",
+      "description": "[단독] 北 어선 3척 잇따라 우리 해역으로…선원 조사 중 / SBS\n\n오늘(27일) 동해안에서 북한 어선 세 척이 잇따라 우리 해역으로 넘어왔습니다. 군 당국은 북한 어선을 예인하고 선원들을 조사하고 있습니다.\n\nG1 강원 민방 조기현 기자의 단독 보도입니다.\n\n▶ SBS NEWS 유튜브 채널 구독하기 : https://goo.gl/l8eCja\n\n▶대한민국 뉴스리더 SBS◀\n홈페이지: http://news.sbs.co.kr\n페이스북: http://www.facebook.com/sbs8news\n트위터: http://www.twitter.com/sbs8news",
+      "publishedAt": "2017-05-27T12:42:08Z",
+      "duration": "PT1M28S",
+      "viewCount": 12530,
+      "likeCount": 73,
+      "commentCount": 5,
+      "tags": [
+        "8뉴스",
+        "KOREA",
+        "KOREA NEWS",
+        "KOREAN NEWS",
+        "NEWS",
+        "SBS",
+        "SBS NEWS",
+        "SBS8NEWS",
+        "SBS8뉴스",
+        "SBS뉴스",
+        "SBS보도국",
+        "SEOUL BROADCASTING SYSTEM",
+        "korea",
+        "korea news",
+        "korean news",
+        "news",
+        "sbs",
+        "sbs 뉴스",
+        "sbs8뉴스",
+        "sbs뉴스",
+        "seoul broadcasting system",
+        "yt:cc=on",
+        "군대",
+        "남애항",
+        "뉴스",
+        "대한민국",
+        "레이더",
+        "북한",
+        "서울방송",
+        "어선",
+        "에스비에스",
+        "에스비에스뉴스",
+        "한국",
+        "한국 뉴스",
+        "해상",
+        "해역"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2017-05-27T12:42:08Z",
+      "channelId": "UCkinYTS9IHqOEwR1Sze2JTw",
+      "channelName": "SBS 뉴스",
+      "collectedAt": "2025-08-24T21:55:25Z"
     }
   },
   "channels": {
@@ -112,9 +166,36 @@
       "viewCount": 4319423561,
       "videoCount": 150855,
       "lastUpdated": "2025-08-21T10:28:33.523331Z"
+    },
+    "UCkinYTS9IHqOEwR1Sze2JTw": {
+      "channelId": "UCkinYTS9IHqOEwR1Sze2JTw",
+      "channelName": "SBS 뉴스",
+      "channelUrl": "@sbsnews8",
+      "channelDescription": "대한민국 No.1 SBS뉴스 ",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/SqFZwlQcqLs4JMZd3lthkg79kCHi68eerNpkkahvEYSPWhm2afUNqFkbMC6J6JJcy9JJ_DzQ8w=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/SqFZwlQcqLs4JMZd3lthkg79kCHi68eerNpkkahvEYSPWhm2afUNqFkbMC6J6JJcy9JJ_DzQ8w=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/SqFZwlQcqLs4JMZd3lthkg79kCHi68eerNpkkahvEYSPWhm2afUNqFkbMC6J6JJcy9JJ_DzQ8w=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 4990000,
+      "viewCount": 14985058976,
+      "videoCount": 297368,
+      "lastUpdated": "2025-08-24T21:55:25.496063Z"
     }
   },
-  "lastUpdated": "2025-08-21T10:45:57.925025Z",
-  "totalVideos": 3,
-  "totalChannels": 1
+  "lastUpdated": "2025-08-24T21:55:25.497059Z",
+  "totalVideos": 4,
+  "totalChannels": 2
 }

@@ -223,6 +223,56 @@
       "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
       "channelName": "뉴스TVCHOSUN",
       "collectedAt": "2025-08-21T10:45:49Z"
+    },
+    "0FQFDabQ9Ho": {
+      "videoId": "0FQFDabQ9Ho",
+      "title": "[단독] 원세훈 녹취록' 복구…재판 중대 변수 / SBS",
+      "description": "[단독] 원세훈 녹취록' 복구…재판 중대 변수 / SBS\n\n국정원 전 부서장 회의 녹취록, 이른바 '원세훈 녹취록'입니다. 원세훈 전 국정원장이 주재한 회의에서 한 말을 녹취한 문건인데요, 2013년 국정원 댓글 사건 수사 때 국정원이 주요 부분을 지워서 검찰에 제출했습니다. 그런데 최근 국정원이 지워진 부분을 복구해 검찰에 다시 보낸 것으로 확인됐습니다. 4년째 진행 중인 재판에 중대 변수가 될 것으로 보입니다.\n\n임찬종 기자의 단독보도입니다.\n\n▶ SBS NEWS 유튜브 채널 구독하기 : https://goo.gl/l8eCja\n\n▶대한민국 뉴스리더 SBS◀\n홈페이지: http://news.sbs.co.kr\n페이스북: http://www.facebook.com/sbs8news\n트위터: http://www.twitter.com/sbs8news",
+      "publishedAt": "2017-07-23T13:13:06Z",
+      "duration": "PT2M",
+      "viewCount": 1501,
+      "likeCount": 5,
+      "commentCount": 0,
+      "tags": [
+        "뉴스",
+        "NEWS",
+        "news",
+        "SBS",
+        "sbs",
+        "SBS NEWS",
+        "SBS8NEWS",
+        "SBS뉴스",
+        "SBS8뉴스",
+        "sbs뉴스",
+        "sbs8뉴스",
+        "에스비에스",
+        "에스비에스뉴스",
+        "서울방송",
+        "SBS보도국",
+        "SEOUL BROADCASTING SYSTEM",
+        "seoul broadcasting system",
+        "sbs 뉴스",
+        "korea",
+        "KOREA",
+        "한국",
+        "대한민국",
+        "한국 뉴스",
+        "korea news",
+        "korean news",
+        "KOREA NEWS",
+        "KOREAN NEWS",
+        "8뉴스",
+        "원세훈 녹취록",
+        "원세훈",
+        "국정원 댓글 사건",
+        "국정원"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2017-07-23T13:13:06Z",
+      "channelId": "UCkinYTS9IHqOEwR1Sze2JTw",
+      "channelName": "SBS 뉴스",
+      "collectedAt": "2025-08-24T21:55:25Z"
     }
   },
   "channels": {
@@ -252,9 +302,36 @@
       "viewCount": 4319423561,
       "videoCount": 150855,
       "lastUpdated": "2025-08-21T10:28:21.300416Z"
+    },
+    "UCkinYTS9IHqOEwR1Sze2JTw": {
+      "channelId": "UCkinYTS9IHqOEwR1Sze2JTw",
+      "channelName": "SBS 뉴스",
+      "channelUrl": "@sbsnews8",
+      "channelDescription": "대한민국 No.1 SBS뉴스 ",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/SqFZwlQcqLs4JMZd3lthkg79kCHi68eerNpkkahvEYSPWhm2afUNqFkbMC6J6JJcy9JJ_DzQ8w=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/SqFZwlQcqLs4JMZd3lthkg79kCHi68eerNpkkahvEYSPWhm2afUNqFkbMC6J6JJcy9JJ_DzQ8w=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/SqFZwlQcqLs4JMZd3lthkg79kCHi68eerNpkkahvEYSPWhm2afUNqFkbMC6J6JJcy9JJ_DzQ8w=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 4990000,
+      "viewCount": 14985058976,
+      "videoCount": 297368,
+      "lastUpdated": "2025-08-24T21:55:25.342112Z"
     }
   },
-  "lastUpdated": "2025-08-21T10:45:49.149204Z",
-  "totalVideos": 8,
-  "totalChannels": 1
+  "lastUpdated": "2025-08-24T21:55:25.343108Z",
+  "totalVideos": 9,
+  "totalChannels": 2
 }

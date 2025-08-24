@@ -730,6 +730,39 @@
       "channelId": "UC4Aa3OPkMenwTANpf0oWVRQ",
       "channelName": "CBS 김현정의 뉴스쇼",
       "collectedAt": "2025-08-22T14:01:52Z"
+    },
+    "XxtmbVnHIJ4": {
+      "videoId": "XxtmbVnHIJ4",
+      "title": "[인터뷰] 손흥민 \"부담감 즐기는 스타일…승리 예측 큰 도움\"",
+      "description": "함께 보면 좋은 영상 ☞ 한국, 시리아전 '쌍용'이 나르샤 http://bit.ly/2c8hl7I\n\n방송사 : JTBC http://www.jtbc.co.kr\n▶ JTBC 뉴스룸 월~일 20시00분 방송\n▶ 홈페이지 : http://news.jtbc.co.kr\n▶ 공식 트위터 : https://twitter.com/JTBC_news\n▶ 공식 페이스북 : https://www.facebook.com/jtbcnews\n\n내일(1일) 중국 응원단만 최소 3만 명은 될 거라는 예상이 나왔습니다. 양측이 첫 기세를 잡기 위해 전력을 다 하고 있는데, 내일 뛰게 될 선수 중에 여러분께서 가장 만나고 싶어 할 선수가 누굴까요? 아마도 손흥민 선수일 것 같아서 파주 국가대표팀 훈련장으로 연결했습니다.\n\n손흥민 선수, 반갑습니다.",
+      "publishedAt": "2016-08-31T14:06:33Z",
+      "duration": "PT8M40S",
+      "viewCount": 123557,
+      "likeCount": 1297,
+      "commentCount": 166,
+      "tags": [
+        "JTBC",
+        "JTBC NEWS",
+        "뉴스룸",
+        "손석희",
+        "손흥민",
+        "한중전",
+        "월드컵",
+        "예선",
+        "축구굴기",
+        "토트넘",
+        "분데스리가",
+        "올림픽",
+        "군대",
+        "아시안게임",
+        "인터뷰"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2016-08-31T14:06:33Z",
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "collectedAt": "2025-08-24T21:53:48Z"
     }
   },
   "channels": {
@@ -891,12 +924,39 @@
         }
       },
       "subscriberCount": 1590000,
-      "viewCount": 1278731005,
-      "videoCount": 19122,
-      "lastUpdated": "2025-08-22T14:01:52.053836Z"
+      "viewCount": 1280577570,
+      "videoCount": 19124,
+      "lastUpdated": "2025-08-24T21:53:48.152237Z"
+    },
+    "UCsU-I-vHLiaMfV_ceaYz5rQ": {
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "channelUrl": "@jtbc_news",
+      "channelDescription": "진실에 닿을 때까지 멈추지 않는 질문, JTBC News\nWelcome to the official JTBC News Channel.\n\n▶ https://news.jtbc.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 4670000,
+      "viewCount": 14812391233,
+      "videoCount": 261253,
+      "lastUpdated": "2025-08-24T21:53:48.150242Z"
     }
   },
-  "lastUpdated": "2025-08-22T14:01:52.054838Z",
-  "totalVideos": 27,
-  "totalChannels": 6
+  "lastUpdated": "2025-08-24T21:53:48.154231Z",
+  "totalVideos": 28,
+  "totalChannels": 7
 }

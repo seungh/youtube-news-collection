@@ -596,6 +596,37 @@
       "channelId": "UC4Aa3OPkMenwTANpf0oWVRQ",
       "channelName": "CBS 김현정의 뉴스쇼",
       "collectedAt": "2025-08-22T14:03:12Z"
+    },
+    "WYgrNsZRVOg": {
+      "videoId": "WYgrNsZRVOg",
+      "title": "[단독] 성접대 요구도…전력거래소 준공무원의 '갑질'",
+      "description": "방송사 : JTBC http://www.jtbc.co.kr\n▶ JTBC 뉴스룸 월~일 20시00분 방송\n▶ 홈페이지 : http://news.jtbc.co.kr\n▶ 공식 트위터 : https://twitter.com/JTBC_news\n▶ 공식 페이스북 : https://www.facebook.com/jtbcnews\n\n김영란법 시행이 한달도 안남았는데 일부 공무원의 이른바 갑질은 아직도 상상을 초월합니다. 술자리 접대는 물론이고 성접대까지 요구한 의혹을 받고 있는 한국전력거래소 간부의 사례를 단독취재했습니다. 이 한전거래소는 태양광 등을 이용해서 민간발전사업자들이 만든 전력을 한국전력에 납품할 때 중개해주는 곳입니다. 즉 한전거래소는 그만큼 민간발전사업자들에게는 힘이 셉니다.\n\n이상엽 기자의 단독보도입니다.",
+      "publishedAt": "2016-09-05T14:37:28Z",
+      "duration": "PT2M34S",
+      "viewCount": 7345,
+      "likeCount": 29,
+      "commentCount": 14,
+      "tags": [
+        "JTBC",
+        "JTBC NEWS",
+        "뉴스룸",
+        "손석희",
+        "한국전력거래소",
+        "성접대",
+        "준공무원",
+        "갑질",
+        "김영란법",
+        "비리",
+        "공무원",
+        "단독",
+        "단독보도"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2016-09-05T14:37:28Z",
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "collectedAt": "2025-08-24T21:54:02Z"
     }
   },
   "channels": {
@@ -730,12 +761,39 @@
         }
       },
       "subscriberCount": 1590000,
-      "viewCount": 1279713708,
-      "videoCount": 19125,
-      "lastUpdated": "2025-08-23T20:41:14.388770Z"
+      "viewCount": 1280577570,
+      "videoCount": 19124,
+      "lastUpdated": "2025-08-24T21:54:02.345278Z"
+    },
+    "UCsU-I-vHLiaMfV_ceaYz5rQ": {
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "channelUrl": "@jtbc_news",
+      "channelDescription": "진실에 닿을 때까지 멈추지 않는 질문, JTBC News\nWelcome to the official JTBC News Channel.\n\n▶ https://news.jtbc.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 4670000,
+      "viewCount": 14812391233,
+      "videoCount": 261253,
+      "lastUpdated": "2025-08-24T21:54:02.344332Z"
     }
   },
-  "lastUpdated": "2025-08-23T20:41:14.388770Z",
-  "totalVideos": 22,
-  "totalChannels": 5
+  "lastUpdated": "2025-08-24T21:54:02.345278Z",
+  "totalVideos": 23,
+  "totalChannels": 6
 }

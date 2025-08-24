@@ -468,6 +468,47 @@
       "channelId": "UC4Aa3OPkMenwTANpf0oWVRQ",
       "channelName": "CBS 김현정의 뉴스쇼",
       "collectedAt": "2025-08-22T14:01:47Z"
+    },
+    "eN-U-4UEyxY": {
+      "videoId": "eN-U-4UEyxY",
+      "title": "[단독] 민감한 외교 사안까지…\"일본 특사에 독도 언급 마라\"",
+      "description": "청와대 \"최순실 소재 파악 중\" ▶ http://bit.ly/2eRuTE4\n새누리당 '최순실 특검' 수용 ▶ http://bit.ly/2eRvHbQ\n들끓는 여론…대학선 시국선언 ▶ http://bit.ly/2eRwqdf\n\"고지방 다이어트 건강에 위험\" ▶ http://bit.ly/2eRxopy\n\n[앵커]\n\n지금부터는 '최순실 파일'에서 발견된 정부의 외교 정책과 관련된 보도를 전해드리도록 하겠습니다. 이 문제는 지금까지 전해드린 태블릿 자체의 문제가 아니라 어제(25일)까지 저희가 보도해드린 대로, 다시 태블릿의 내용으로 들어가는 것인데 문제가 일견 보기에도 매우 심각해 보입니다. 최 씨가 경제정책과 관련된 자료를 사전에 받았다는 것도 이해가 안 가지만 외교 정책과 관련된 내용을 도대체 왜 최 씨가 보고받았는지 황당하기까지 한 일이라는 것이 많은 사람들의 의견입니다. 외부에 공개됐을 경우에 큰 파장이 일만한 내용도 담겨 있었는데요. 특히 일본의 아베 총리 특사단을 만나기 전에 만든 자료에는 \"독도 얘기가 나오면 언급하지 말아라\" 이런 얘기도 들어가 있습니다.\n\n먼저, 서복현 기자가 보도합니다.",
+      "publishedAt": "2016-10-26T14:30:31Z",
+      "duration": "PT2M10S",
+      "viewCount": 6239,
+      "likeCount": 76,
+      "commentCount": 7,
+      "tags": [
+        "JTBC",
+        "JTBC NEWS",
+        "뉴스룸",
+        "손석희",
+        "미르",
+        "k스포츠",
+        "대통령",
+        "청와대",
+        "박근혜",
+        "전경련",
+        "재단",
+        "최순실",
+        "정유라",
+        "정윤회",
+        "고영태",
+        "차은택",
+        "문건유출",
+        "연설문",
+        "독도",
+        "위안부",
+        "일본",
+        "한일",
+        "아베"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2016-10-26T14:30:31Z",
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "collectedAt": "2025-08-24T21:54:09Z"
     }
   },
   "channels": {
@@ -602,12 +643,39 @@
         }
       },
       "subscriberCount": 1590000,
-      "viewCount": 1278731005,
-      "videoCount": 19122,
-      "lastUpdated": "2025-08-22T14:01:47.181270Z"
+      "viewCount": 1280577570,
+      "videoCount": 19124,
+      "lastUpdated": "2025-08-24T21:54:09.912189Z"
+    },
+    "UCsU-I-vHLiaMfV_ceaYz5rQ": {
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "channelUrl": "@jtbc_news",
+      "channelDescription": "진실에 닿을 때까지 멈추지 않는 질문, JTBC News\nWelcome to the official JTBC News Channel.\n\n▶ https://news.jtbc.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 4670000,
+      "viewCount": 14812391233,
+      "videoCount": 261253,
+      "lastUpdated": "2025-08-24T21:54:09.911192Z"
     }
   },
-  "lastUpdated": "2025-08-22T14:01:47.183304Z",
-  "totalVideos": 18,
-  "totalChannels": 5
+  "lastUpdated": "2025-08-24T21:54:09.913191Z",
+  "totalVideos": 19,
+  "totalChannels": 6
 }

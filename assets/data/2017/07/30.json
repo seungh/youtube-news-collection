@@ -111,6 +111,60 @@
       "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
       "channelName": "뉴스TVCHOSUN",
       "collectedAt": "2025-08-21T10:45:49Z"
+    },
+    "jdJkgtAG35I": {
+      "videoId": "jdJkgtAG35I",
+      "title": "[단독] 서해에 北 새로운 형태의 잠수함 출현 / SBS",
+      "description": "[단독] 서해에 北 새로운 형태의 잠수함 출현 / SBS\n\n북한 미사일 도발 대응책을 마련하고 있는 가운데, 이번엔 서해에서 수상한 잠수함이 포착됐습니다. 북한의 기존 잠수함들과는 형태가 다른 것으로 알려졌습니다. 때문에 SLBM 즉, 잠수함발사 탄도미사일을 쏠 수 있는 신형 잠수함일 가능성이 제기됐습니다.\n\n▶ SBS NEWS 유튜브 채널 구독하기 : https://goo.gl/l8eCja\n\n▶대한민국 뉴스리더 SBS◀\n홈페이지: http://news.sbs.co.kr\n페이스북: http://www.facebook.com/sbs8news\n트위터: http://www.twitter.com/sbs8news",
+      "publishedAt": "2017-07-30T12:38:22Z",
+      "duration": "PT1M42S",
+      "viewCount": 62465,
+      "likeCount": 117,
+      "commentCount": 74,
+      "tags": [
+        "8뉴스",
+        "KOREA",
+        "KOREA NEWS",
+        "KOREAN NEWS",
+        "NEWS",
+        "SBS",
+        "SBS NEWS",
+        "SBS8NEWS",
+        "SBS8뉴스",
+        "SBS뉴스",
+        "SBS보도국",
+        "SEOUL BROADCASTING SYSTEM",
+        "korea",
+        "korea news",
+        "korean news",
+        "news",
+        "sbs",
+        "sbs 뉴스",
+        "sbs8뉴스",
+        "sbs뉴스",
+        "seoul broadcasting system",
+        "yt:cc=on",
+        "김용태",
+        "뉴스",
+        "대한민국",
+        "미사일 도발",
+        "북한",
+        "서울방송",
+        "서해",
+        "에스비에스",
+        "에스비에스뉴스",
+        "잠수함",
+        "정미선",
+        "출현",
+        "한국",
+        "한국 뉴스"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2017-07-30T12:38:22Z",
+      "channelId": "UCkinYTS9IHqOEwR1Sze2JTw",
+      "channelName": "SBS 뉴스",
+      "collectedAt": "2025-08-24T21:55:25Z"
     }
   },
   "channels": {
@@ -140,9 +194,36 @@
       "viewCount": 4319423561,
       "videoCount": 150855,
       "lastUpdated": "2025-08-21T10:28:21.266324Z"
+    },
+    "UCkinYTS9IHqOEwR1Sze2JTw": {
+      "channelId": "UCkinYTS9IHqOEwR1Sze2JTw",
+      "channelName": "SBS 뉴스",
+      "channelUrl": "@sbsnews8",
+      "channelDescription": "대한민국 No.1 SBS뉴스 ",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/SqFZwlQcqLs4JMZd3lthkg79kCHi68eerNpkkahvEYSPWhm2afUNqFkbMC6J6JJcy9JJ_DzQ8w=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/SqFZwlQcqLs4JMZd3lthkg79kCHi68eerNpkkahvEYSPWhm2afUNqFkbMC6J6JJcy9JJ_DzQ8w=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/SqFZwlQcqLs4JMZd3lthkg79kCHi68eerNpkkahvEYSPWhm2afUNqFkbMC6J6JJcy9JJ_DzQ8w=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 4990000,
+      "viewCount": 14985058976,
+      "videoCount": 297368,
+      "lastUpdated": "2025-08-24T21:55:25.310093Z"
     }
   },
-  "lastUpdated": "2025-08-21T10:45:49.087176Z",
-  "totalVideos": 4,
-  "totalChannels": 1
+  "lastUpdated": "2025-08-24T21:55:25.310093Z",
+  "totalVideos": 5,
+  "totalChannels": 2
 }

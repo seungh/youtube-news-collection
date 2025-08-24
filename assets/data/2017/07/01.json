@@ -363,6 +363,59 @@
       "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
       "channelName": "뉴스TVCHOSUN",
       "collectedAt": "2025-08-21T10:45:57Z"
+    },
+    "tPkTdkhYC7k": {
+      "videoId": "tPkTdkhYC7k",
+      "title": "[단독] 양악 수술 후 숨진 환자 '차트 조작' / SBS",
+      "description": "[단독] 양악 수술 후 숨진 환자 '차트 조작' / SBS\n\n서울 강남의 한 성형외과 병원에서 20대 여성이 양약 수술을 받고 숨졌습니다. 그런데 병원 간호사가 숨진 환자의 진료 기록을 조작한 혐의가 드러나 경찰에 구속됐습니다.\n\n▶ SBS NEWS 유튜브 채널 구독하기 : https://goo.gl/l8eCja\n\n▶대한민국 뉴스리더 SBS◀\n홈페이지: http://news.sbs.co.kr\n페이스북: http://www.facebook.com/sbs8news\n트위터: http://www.twitter.com/sbs8news",
+      "publishedAt": "2017-07-01T12:42:32Z",
+      "duration": "PT1M45S",
+      "viewCount": 8700,
+      "likeCount": 37,
+      "commentCount": 43,
+      "tags": [
+        "8뉴스",
+        "KOREA",
+        "KOREA NEWS",
+        "KOREAN NEWS",
+        "NEWS",
+        "SBS",
+        "SBS NEWS",
+        "SBS8NEWS",
+        "SBS8뉴스",
+        "SBS뉴스",
+        "SBS보도국",
+        "SEOUL BROADCASTING SYSTEM",
+        "korea",
+        "korea news",
+        "korean news",
+        "news",
+        "sbs",
+        "sbs 뉴스",
+        "sbs8뉴스",
+        "sbs뉴스",
+        "seoul broadcasting system",
+        "yt:cc=on",
+        "뉴스",
+        "단독",
+        "대한민국",
+        "서울방송",
+        "수술",
+        "양악",
+        "에스비에스",
+        "에스비에스뉴스",
+        "조작",
+        "차트",
+        "한국",
+        "한국 뉴스",
+        "환자"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2017-07-01T12:42:32Z",
+      "channelId": "UCkinYTS9IHqOEwR1Sze2JTw",
+      "channelName": "SBS 뉴스",
+      "collectedAt": "2025-08-24T21:55:25Z"
     }
   },
   "channels": {
@@ -419,9 +472,36 @@
       "viewCount": 4319423561,
       "videoCount": 150855,
       "lastUpdated": "2025-08-21T10:28:33.315902Z"
+    },
+    "UCkinYTS9IHqOEwR1Sze2JTw": {
+      "channelId": "UCkinYTS9IHqOEwR1Sze2JTw",
+      "channelName": "SBS 뉴스",
+      "channelUrl": "@sbsnews8",
+      "channelDescription": "대한민국 No.1 SBS뉴스 ",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/SqFZwlQcqLs4JMZd3lthkg79kCHi68eerNpkkahvEYSPWhm2afUNqFkbMC6J6JJcy9JJ_DzQ8w=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/SqFZwlQcqLs4JMZd3lthkg79kCHi68eerNpkkahvEYSPWhm2afUNqFkbMC6J6JJcy9JJ_DzQ8w=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/SqFZwlQcqLs4JMZd3lthkg79kCHi68eerNpkkahvEYSPWhm2afUNqFkbMC6J6JJcy9JJ_DzQ8w=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 4990000,
+      "viewCount": 14985058976,
+      "videoCount": 297368,
+      "lastUpdated": "2025-08-24T21:55:25.366079Z"
     }
   },
-  "lastUpdated": "2025-08-21T10:45:57.676002Z",
-  "totalVideos": 13,
-  "totalChannels": 2
+  "lastUpdated": "2025-08-24T21:55:25.366079Z",
+  "totalVideos": 14,
+  "totalChannels": 3
 }

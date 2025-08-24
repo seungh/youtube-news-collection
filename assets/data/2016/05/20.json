@@ -776,6 +776,40 @@
       "channelId": "UC4Aa3OPkMenwTANpf0oWVRQ",
       "channelName": "CBS 김현정의 뉴스쇼",
       "collectedAt": "2025-08-22T14:03:14Z"
+    },
+    "ami3ywXAwXo": {
+      "videoId": "ami3ywXAwXo",
+      "title": "[인터뷰 풀영상] 상상할 수 없는 상상력…베르나르 베르베르를 만나다",
+      "description": "지난 10년 동안 한국에선 어떤 작가의 소설이 가장 많이 읽혔을까요?\n한국 작가는 아니었습니다. 프랑스 작가인데, 이 분이 1위에 올랐습니다. 소설에 별로 관심이 없는 분들도 아마 이 분의 성함은 꽤 친숙하게 들리실 거 같습니다.\n늘 우리가 상상할 수 없는 상상력으로 독자들의 가슴을 뛰게 만드는, 베르나르 베르베르 작가를 뉴스룸에 귀하게 모셨습니다.",
+      "publishedAt": "2016-05-19T18:10:38Z",
+      "duration": "PT11M14S",
+      "viewCount": 141326,
+      "likeCount": 1415,
+      "commentCount": 122,
+      "tags": [
+        "JTBC",
+        "JTBC NEWS",
+        "뉴스룸",
+        "손석희",
+        "베르나르 베르베르",
+        "bernard werber",
+        "인터뷰",
+        "풀영상",
+        "개미",
+        "제3인류",
+        "알파고",
+        "alphago",
+        "인공지능",
+        "AI",
+        "소설",
+        "베스트셀러"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2016-05-19T18:10:38Z",
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "collectedAt": "2025-08-24T21:53:47Z"
     }
   },
   "channels": {
@@ -883,12 +917,39 @@
         }
       },
       "subscriberCount": 1590000,
-      "viewCount": 1279713708,
-      "videoCount": 19125,
-      "lastUpdated": "2025-08-23T20:41:17.485201Z"
+      "viewCount": 1280577570,
+      "videoCount": 19124,
+      "lastUpdated": "2025-08-24T21:53:47.269180Z"
+    },
+    "UCsU-I-vHLiaMfV_ceaYz5rQ": {
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "channelUrl": "@jtbc_news",
+      "channelDescription": "진실에 닿을 때까지 멈추지 않는 질문, JTBC News\nWelcome to the official JTBC News Channel.\n\n▶ https://news.jtbc.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 4670000,
+      "viewCount": 14812391233,
+      "videoCount": 261253,
+      "lastUpdated": "2025-08-24T21:53:47.268183Z"
     }
   },
-  "lastUpdated": "2025-08-23T20:41:17.486200Z",
-  "totalVideos": 30,
-  "totalChannels": 4
+  "lastUpdated": "2025-08-24T21:53:47.270177Z",
+  "totalVideos": 31,
+  "totalChannels": 5
 }

@@ -308,6 +308,30 @@
       "channelId": "UC4Aa3OPkMenwTANpf0oWVRQ",
       "channelName": "CBS 김현정의 뉴스쇼",
       "collectedAt": "2025-08-22T14:03:34Z"
+    },
+    "tuFjM-zgTJo": {
+      "videoId": "tuFjM-zgTJo",
+      "title": "담배소송 승소 가능성은? \"KT&G 내부문건 공개되면 가능\"",
+      "description": "방송사 : JTBC http://www.jtbc.co.kr\r\n▶ JTBC 뉴스9 월~금 21시00분 방송\r\n▶ 홈페이지 : http://news.jtbc.co.kr\r\n▶ 공식 트위터 : https://twitter.com/JTBC_news\r\n▶ 공식 페이스북 : https://www.facebook.com/jtbcnews\r\n\r\n국내 최초로 담배 소송을 맡아 올해로 15년째 KT&G와 소송을 벌이고 있는 배금자 변호사와 인터뷰를 가져봤습니다.",
+      "publishedAt": "2014-01-16T13:59:58Z",
+      "duration": "PT4M24S",
+      "viewCount": 2038,
+      "likeCount": 5,
+      "commentCount": 1,
+      "tags": [
+        "jtbc",
+        "jtbc 뉴스9",
+        "jtbc 아침&",
+        "jtbc 스포츠뉴스",
+        "jtbc 손석희",
+        "손석희"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2014-01-16T13:59:58Z",
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "collectedAt": "2025-08-24T21:53:43Z"
     }
   },
   "channels": {
@@ -388,12 +412,39 @@
         }
       },
       "subscriberCount": 1590000,
-      "viewCount": 1279713708,
-      "videoCount": 19125,
-      "lastUpdated": "2025-08-23T20:41:43.225584Z"
+      "viewCount": 1280577570,
+      "videoCount": 19124,
+      "lastUpdated": "2025-08-24T21:53:43.145244Z"
+    },
+    "UCsU-I-vHLiaMfV_ceaYz5rQ": {
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "channelUrl": "@jtbc_news",
+      "channelDescription": "진실에 닿을 때까지 멈추지 않는 질문, JTBC News\nWelcome to the official JTBC News Channel.\n\n▶ https://news.jtbc.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 4670000,
+      "viewCount": 14812391233,
+      "videoCount": 261253,
+      "lastUpdated": "2025-08-24T21:53:43.145244Z"
     }
   },
-  "lastUpdated": "2025-08-23T20:41:43.226668Z",
-  "totalVideos": 10,
-  "totalChannels": 3
+  "lastUpdated": "2025-08-24T21:53:43.146239Z",
+  "totalVideos": 11,
+  "totalChannels": 4
 }

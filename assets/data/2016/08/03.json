@@ -358,6 +358,35 @@
       "channelId": "UC4Aa3OPkMenwTANpf0oWVRQ",
       "channelName": "CBS 김현정의 뉴스쇼",
       "collectedAt": "2025-08-22T14:03:12Z"
+    },
+    "8bAR3I_K064": {
+      "videoId": "8bAR3I_K064",
+      "title": "[단독] 대표 집 화분에 물 안 줬다고 폭행…\"개·돼지보다 못해\"",
+      "description": "방송사 : JTBC http://www.jtbc.co.kr\n▶ JTBC 뉴스룸 월~일 20시00분 방송\n▶ 홈페이지 : http://news.jtbc.co.kr\n▶ 공식 트위터 : https://twitter.com/JTBC_news\n▶ 공식 페이스북 : https://www.facebook.com/jtbcnews\n\n부산의 한 중견기업 대표가 부하 직원에게 상습적으로 폭행과 폭언을 한 혐의로 경찰 수사를 받고 있습니다. 나무에 물을 제때 주지 않았다는 이유로 폭행을 하고 개·돼지 발언도 서슴지 않았는데 그 유명한 나향욱 전 기획관의 발언보다 훨씬 앞선 것이었습니다.\n\n배승주 기자의 단독 보도입니다.",
+      "publishedAt": "2016-08-03T14:16:38Z",
+      "duration": "PT1M31S",
+      "viewCount": 3507,
+      "likeCount": 22,
+      "commentCount": 11,
+      "tags": [
+        "JTBC",
+        "JTBC NEWS",
+        "뉴스룸",
+        "손석희",
+        "폭행",
+        "개돼지",
+        "단독",
+        "JTBC 단독보도",
+        "배승주",
+        "갑질",
+        "핀셋"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2016-08-03T14:16:38Z",
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "collectedAt": "2025-08-24T21:54:02Z"
     }
   },
   "channels": {
@@ -492,12 +521,39 @@
         }
       },
       "subscriberCount": 1590000,
-      "viewCount": 1279713708,
-      "videoCount": 19125,
-      "lastUpdated": "2025-08-23T20:41:15.051977Z"
+      "viewCount": 1280577570,
+      "videoCount": 19124,
+      "lastUpdated": "2025-08-24T21:54:02.443736Z"
+    },
+    "UCsU-I-vHLiaMfV_ceaYz5rQ": {
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "channelUrl": "@jtbc_news",
+      "channelDescription": "진실에 닿을 때까지 멈추지 않는 질문, JTBC News\nWelcome to the official JTBC News Channel.\n\n▶ https://news.jtbc.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 4670000,
+      "viewCount": 14812391233,
+      "videoCount": 261253,
+      "lastUpdated": "2025-08-24T21:54:02.441218Z"
     }
   },
-  "lastUpdated": "2025-08-23T20:41:15.054890Z",
-  "totalVideos": 14,
-  "totalChannels": 5
+  "lastUpdated": "2025-08-24T21:54:02.445244Z",
+  "totalVideos": 15,
+  "totalChannels": 6
 }

@@ -232,6 +232,32 @@
       "channelId": "UC4Aa3OPkMenwTANpf0oWVRQ",
       "channelName": "CBS 김현정의 뉴스쇼",
       "collectedAt": "2025-08-22T14:03:27Z"
+    },
+    "wXJq1hqaYv8": {
+      "videoId": "wXJq1hqaYv8",
+      "title": "[인터뷰] 제이슨 므라즈 \"음악, 세상 바꿀 수 있다고 믿어\"",
+      "description": "방송사 : JTBC http://www.jtbc.co.kr \n▶ JTBC 뉴스룸 월~일 20시00분 방송 \n▶ 홈페이지 : http://news.jtbc.co.kr \n▶ 공식 트위터 : https://twitter.com/JTBC_news \n▶ 공식 페이스북 : https://www.facebook.com/jtbcnews \n\n\"그의 목소리는 또 하나의 악기가 된다\" 미국의 팝가수, 제이슨 므라즈에 대한 얘기입니다. 한국인들이 가장 사랑하는 팝 뮤지션으로 늘 손꼽히는 가수죠. 이 가수를 잘 모르는 분들도 히트곡인 I'm Yours 나 Lucky의 멜로디는 귀에 매우 익숙하실 것 같습니다. 환경 운동과 사회 문제에 대해서도 적극적으로 목소리를 내는 뮤지션이기도 합니다.\n\n평화의 음유시인으로 불리는 제이슨 므라즈…오늘(24일) 뉴스룸을 찾아준 특별한 손님입니다. 만나서 반갑습니다.",
+      "publishedAt": "2014-11-24T15:15:54Z",
+      "duration": "PT12M43S",
+      "viewCount": 138417,
+      "likeCount": 734,
+      "commentCount": 75,
+      "tags": [
+        "JTBC",
+        "JTBC NEWS",
+        "JTBC 뉴스룸",
+        "제이슨므라즈",
+        "JTBC 직격인터뷰",
+        "YES",
+        "제이슨 므라즈",
+        "손석희"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2014-11-24T15:15:54Z",
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "collectedAt": "2025-08-24T21:53:44Z"
     }
   },
   "channels": {
@@ -312,12 +338,39 @@
         }
       },
       "subscriberCount": 1590000,
-      "viewCount": 1279713708,
-      "videoCount": 19125,
-      "lastUpdated": "2025-08-23T20:41:34.154443Z"
+      "viewCount": 1280577570,
+      "videoCount": 19124,
+      "lastUpdated": "2025-08-24T21:53:44.047224Z"
+    },
+    "UCsU-I-vHLiaMfV_ceaYz5rQ": {
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "channelUrl": "@jtbc_news",
+      "channelDescription": "진실에 닿을 때까지 멈추지 않는 질문, JTBC News\nWelcome to the official JTBC News Channel.\n\n▶ https://news.jtbc.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 4670000,
+      "viewCount": 14812391233,
+      "videoCount": 261253,
+      "lastUpdated": "2025-08-24T21:53:44.046227Z"
     }
   },
-  "lastUpdated": "2025-08-23T20:41:34.154443Z",
-  "totalVideos": 10,
-  "totalChannels": 3
+  "lastUpdated": "2025-08-24T21:53:44.047224Z",
+  "totalVideos": 11,
+  "totalChannels": 4
 }

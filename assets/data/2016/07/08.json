@@ -396,6 +396,35 @@
       "channelId": "UC4Aa3OPkMenwTANpf0oWVRQ",
       "channelName": "CBS 김현정의 뉴스쇼",
       "collectedAt": "2025-08-22T14:03:13Z"
+    },
+    "tdDvF5fl2rg": {
+      "videoId": "tdDvF5fl2rg",
+      "title": "[인터뷰 풀영상] 정명화 \"콩쿠르, 연주할 기회이자 시작일뿐…\"",
+      "description": "방송사 : JTBC http://www.jtbc.co.kr\n▶ JTBC 뉴스룸 월~일 20시00분 방송\n▶ 홈페이지 : http://news.jtbc.co.kr\n▶ 공식 트위터 : https://twitter.com/JTBC_news\n▶ 공식 페이스북 : https://www.facebook.com/jtbcnews\n\n문화계 인물을 만나보는 시간입니다. 사람의 목소리와 가장 닮았다는 악기, 첼로를 연주하는 분인데요. 보통 분은 아니시고 세계적인 첼리스트십니다. 요즘 사실 조성진 씨를 비롯해서 우리 클래식계 젊은 아티스트들이 세계적으로 크게 인정을 받고 있는데 바로 그 시작점에 계셨던 분이라고나 할까요. 이미 50여 년 전에 한국의 음악성을 세계에 알린 분. 설명이 필요없는 첼로의 대가, 정명화 씨를 오늘 스튜디오에 모셨습니다.",
+      "publishedAt": "2016-07-08T06:45:42Z",
+      "duration": "PT12M13S",
+      "viewCount": 46521,
+      "likeCount": 275,
+      "commentCount": 21,
+      "tags": [
+        "JTBC",
+        "JTBC NEWS",
+        "뉴스룸",
+        "손석희",
+        "인터뷰",
+        "목요일",
+        "첼로",
+        "정명화",
+        "아티스트",
+        "콩쿠르",
+        "연주"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2016-07-08T06:45:42Z",
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "collectedAt": "2025-08-24T21:53:47Z"
     }
   },
   "channels": {
@@ -530,12 +559,39 @@
         }
       },
       "subscriberCount": 1590000,
-      "viewCount": 1279713708,
-      "videoCount": 19125,
-      "lastUpdated": "2025-08-23T20:41:15.588698Z"
+      "viewCount": 1280577570,
+      "videoCount": 19124,
+      "lastUpdated": "2025-08-24T21:53:47.845194Z"
+    },
+    "UCsU-I-vHLiaMfV_ceaYz5rQ": {
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "channelUrl": "@jtbc_news",
+      "channelDescription": "진실에 닿을 때까지 멈추지 않는 질문, JTBC News\nWelcome to the official JTBC News Channel.\n\n▶ https://news.jtbc.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 4670000,
+      "viewCount": 14812391233,
+      "videoCount": 261253,
+      "lastUpdated": "2025-08-24T21:53:47.837179Z"
     }
   },
-  "lastUpdated": "2025-08-23T20:41:15.589675Z",
-  "totalVideos": 17,
-  "totalChannels": 5
+  "lastUpdated": "2025-08-24T21:53:47.849184Z",
+  "totalVideos": 18,
+  "totalChannels": 6
 }

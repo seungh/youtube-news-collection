@@ -55,6 +55,30 @@
       "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
       "channelName": "뉴스TVCHOSUN",
       "collectedAt": "2025-08-21T10:46:21Z"
+    },
+    "dZw-9Ewpwy4": {
+      "videoId": "dZw-9Ewpwy4",
+      "title": "[인터뷰] 이은미 \"'맨발의 디바' 칭호에 갇히기 싫다\"",
+      "description": "방송사 : JTBC http://www.jtbc.co.kr\n▶ JTBC 뉴스9 월~금 21시00분 방송\n▶ 홈페이지 : http://news.jtbc.co.kr\n▶ 공식 트위터 : https://twitter.com/JTBC_news\n▶ 공식 페이스북 : https://www.facebook.com/jtbcnews\n\n최근 이선희, 이승환, 이소라 씨 등 80~90년대 전성기를 누린 실력파 가수들이 속속 컴백을 발표하고 있는데요. 맨발의 디바로 유명한 가수 이은미 씨도 새 앨범을 발표하고 팬들 곁으로 돌아왔습니다. 23년째 오직 음악으로만 승부하며 열정의 무대를 선보이고 있는 가수 이은미 씨를 '현장 인터뷰'에서 만나봤습니다.",
+      "publishedAt": "2014-03-29T11:40:46Z",
+      "duration": "PT7M32S",
+      "viewCount": 4997,
+      "likeCount": 29,
+      "commentCount": 4,
+      "tags": [
+        "jtbc",
+        "jtbc news",
+        "jtbc 뉴스",
+        "뉴스9",
+        "손석희",
+        "이은미"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2014-03-29T11:40:46Z",
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "collectedAt": "2025-08-24T21:53:43Z"
     }
   },
   "channels": {
@@ -84,9 +108,36 @@
       "viewCount": 4319423561,
       "videoCount": 150855,
       "lastUpdated": "2025-08-21T10:28:59.549957Z"
+    },
+    "UCsU-I-vHLiaMfV_ceaYz5rQ": {
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "channelUrl": "@jtbc_news",
+      "channelDescription": "진실에 닿을 때까지 멈추지 않는 질문, JTBC News\nWelcome to the official JTBC News Channel.\n\n▶ https://news.jtbc.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 4670000,
+      "viewCount": 14812391233,
+      "videoCount": 261253,
+      "lastUpdated": "2025-08-24T21:53:43.382172Z"
     }
   },
-  "lastUpdated": "2025-08-21T10:46:21.114971Z",
-  "totalVideos": 2,
-  "totalChannels": 1
+  "lastUpdated": "2025-08-24T21:53:43.383689Z",
+  "totalVideos": 3,
+  "totalChannels": 2
 }

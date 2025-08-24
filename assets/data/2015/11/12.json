@@ -271,6 +271,42 @@
       "channelId": "UC4Aa3OPkMenwTANpf0oWVRQ",
       "channelName": "CBS 김현정의 뉴스쇼",
       "collectedAt": "2025-08-22T14:03:18Z"
+    },
+    "BOFvAN2TVHQ": {
+      "videoId": "BOFvAN2TVHQ",
+      "title": "[인터뷰] 김혜자 \"진심을 다 한다는 점…연기는 다 같아\"",
+      "description": "방송사 : JTBC http://www.jtbc.co.kr\n▶ JTBC 뉴스룸 월~일 20시00분 방송\n▶ 홈페이지 : http://news.jtbc.co.kr\n▶ 공식 트위터 : https://twitter.com/JTBC_news\n▶ 공식 페이스북 : https://www.facebook.com/jtbcnews\n\n목요일입니다. 또 한 분의 반가운 대중 문화계의 인물을 모셨습니다. 작년 이맘때쯤 이 자리에 나오셨던 분입니다. 두 번째 모시는 분이죠. 늘 이런 수식어를 가지고 계십니다. '엄마와 소녀의 모습을 모두 가진 배우'시다. 많은 분들이 동의하지 않을까 싶습니다. 언제 만나도 반가운 분. 배우 김혜자 씨를 오늘(12일) 다시 한 번 모셨습니다. \n\n정말 1년만입니다, 선생님.",
+      "publishedAt": "2015-11-12T14:23:49Z",
+      "duration": "PT12M45S",
+      "viewCount": 163504,
+      "likeCount": 1148,
+      "commentCount": 91,
+      "tags": [
+        "JTBC",
+        "JTBC NEWS",
+        "JTBC 뉴스",
+        "뉴스룸",
+        "뉴스9",
+        "손석희",
+        "손석희 뉴스",
+        "인터뷰",
+        "대중문화",
+        "김혜자",
+        "길떠나기좋은날",
+        "눈이 부시게",
+        "눈이 부시게 김혜자",
+        "눈이 부시게 결말",
+        "눈이 부시게 드라마",
+        "jtbc 눈이 부시게",
+        "한지만",
+        "김혜자 한지민"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2015-11-12T14:23:49Z",
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "collectedAt": "2025-08-24T21:53:46Z"
     }
   },
   "channels": {
@@ -378,12 +414,39 @@
         }
       },
       "subscriberCount": 1590000,
-      "viewCount": 1279713708,
-      "videoCount": 19125,
-      "lastUpdated": "2025-08-23T20:41:22.964440Z"
+      "viewCount": 1280577570,
+      "videoCount": 19124,
+      "lastUpdated": "2025-08-24T21:53:46.275172Z"
+    },
+    "UCsU-I-vHLiaMfV_ceaYz5rQ": {
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "channelUrl": "@jtbc_news",
+      "channelDescription": "진실에 닿을 때까지 멈추지 않는 질문, JTBC News\nWelcome to the official JTBC News Channel.\n\n▶ https://news.jtbc.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 4670000,
+      "viewCount": 14812391233,
+      "videoCount": 261253,
+      "lastUpdated": "2025-08-24T21:53:46.273178Z"
     }
   },
-  "lastUpdated": "2025-08-23T20:41:22.965438Z",
-  "totalVideos": 11,
-  "totalChannels": 4
+  "lastUpdated": "2025-08-24T21:53:46.275172Z",
+  "totalVideos": 12,
+  "totalChannels": 5
 }

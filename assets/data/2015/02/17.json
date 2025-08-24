@@ -326,6 +326,42 @@
       "channelId": "UC4Aa3OPkMenwTANpf0oWVRQ",
       "channelName": "CBS 김현정의 뉴스쇼",
       "collectedAt": "2025-08-22T14:03:25Z"
+    },
+    "ZF4ePk-o7xE": {
+      "videoId": "ZF4ePk-o7xE",
+      "title": "[인터뷰] 김창완 \"타이틀곡 '중2', 중2들에게 가사 보여줬더니…\"",
+      "description": "방송사 : JTBC http://www.jtbc.co.kr \n▶ JTBC 뉴스룸 월~일 20시00분 방송 \n▶ 홈페이지 : http://news.jtbc.co.kr \n▶ 공식 트위터 : https://twitter.com/JTBC_news \n▶ 공식 페이스북 : https://www.facebook.com/jtbcnews \n\n분위기를 좀 바꿔보겠습니다. 지금 뭐 차도 많이 막히고요. 또 명절 준비로 다들 분주한 시간을 보내고 계시지 않을까 싶은데요. 오늘(17일) 좀 편안한 시간을 마련해드리고 싶어 특별한 손님 한 분을 모셨습니다. 왠지 얼굴만 봐도 웃음이 지어지는 그런 분인데요. 38년 전, 데뷔 앨범 한 장으로 세상을 놀라게 한 뮤지션. 이후에도 독보적인 상상력으로 발표하는 앨범마다 사람들을 깜짝 놀라게 만드는 분이죠. 요즘 젊은 세대들은 이분을 '배우'로 알고 있지 않을까도 싶은데, 가수 김창완 씨를 오늘 뉴스룸에 모셨습니다.",
+      "publishedAt": "2015-02-17T14:19:05Z",
+      "duration": "PT12M7S",
+      "viewCount": 335022,
+      "likeCount": 1479,
+      "commentCount": 151,
+      "tags": [
+        "JTBC",
+        "JTBC NEWS",
+        "JTBC 뉴스",
+        "제이티비씨 뉴스",
+        "제이티비씨",
+        "손석희",
+        "손석희 뉴스",
+        "뉴스룸",
+        "뉴스9",
+        "인터뷰",
+        "뉴스룸인터뷰",
+        "김창완",
+        "중2",
+        "김창완 중2",
+        "김창완 용서",
+        "김창완 앨범",
+        "김창완 아이유",
+        "김창완 너의 의미"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2015-02-17T14:19:05Z",
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "collectedAt": "2025-08-24T21:53:44Z"
     }
   },
   "channels": {
@@ -460,12 +496,39 @@
         }
       },
       "subscriberCount": 1590000,
-      "viewCount": 1279713708,
-      "videoCount": 19125,
-      "lastUpdated": "2025-08-23T20:41:32.271272Z"
+      "viewCount": 1280577570,
+      "videoCount": 19124,
+      "lastUpdated": "2025-08-24T21:53:44.863702Z"
+    },
+    "UCsU-I-vHLiaMfV_ceaYz5rQ": {
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "channelUrl": "@jtbc_news",
+      "channelDescription": "진실에 닿을 때까지 멈추지 않는 질문, JTBC News\nWelcome to the official JTBC News Channel.\n\n▶ https://news.jtbc.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 4670000,
+      "viewCount": 14812391233,
+      "videoCount": 261253,
+      "lastUpdated": "2025-08-24T21:53:44.863182Z"
     }
   },
-  "lastUpdated": "2025-08-23T20:41:32.271272Z",
-  "totalVideos": 13,
-  "totalChannels": 5
+  "lastUpdated": "2025-08-24T21:53:44.865208Z",
+  "totalVideos": 14,
+  "totalChannels": 6
 }

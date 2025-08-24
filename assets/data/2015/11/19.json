@@ -397,6 +397,38 @@
       "channelId": "UC4Aa3OPkMenwTANpf0oWVRQ",
       "channelName": "CBS 김현정의 뉴스쇼",
       "collectedAt": "2025-08-22T14:03:18Z"
+    },
+    "qj4MlWjxHrk": {
+      "videoId": "qj4MlWjxHrk",
+      "title": "[인터뷰 풀영상] 윤종신 \"훗날 '윤종신답게 살고 갔다'라는 얘기 들으면 좋겠다\"",
+      "description": "방송사 : JTBC http://www.jtbc.co.kr\n▶ JTBC 뉴스룸 월~일 20시00분 방송\n▶ 홈페이지 : http://news.jtbc.co.kr\n▶ 공식 트위터 : https://twitter.com/JTBC_news\n▶ 공식 페이스북 : https://www.facebook.com/jtbcnews\n\n목요일 대중문화 인물을 만나보는 시간인데요. 오늘(19일) 만나볼 이분은 예능인으로서 많이들 보고 계시지만, 알고 보면 매우 성실한 뮤지션입니다. 텔레비전에 자주 나오시는데 오늘 저희가 모신 이유는 이분이 예능인이 아니라 가수라는 증명을 해 드리기 위한 걸 수도 있습니다. 6년 동안 매달 자신의 이름을 건 브랜드를 가지고 신곡을 내고 있는데 이게 보통 쉬운 일은 아니죠. 디지털 시대에 가장 잘 적응한 뮤지션이 아닌가 하는 생각도 들고 그래서 최근에는 국제컨퍼런스에도 나가시고 서울대학교에서 강의를 하기도 하셨습니다. 그래서 오늘 이 자리에 모셨습니다. \n\n가수 윤종신 씨를 뉴스룸에 모셨습니다. 어서 오십시오.",
+      "publishedAt": "2015-11-19T13:55:56Z",
+      "duration": "PT13M6S",
+      "viewCount": 156730,
+      "likeCount": 994,
+      "commentCount": 77,
+      "tags": [
+        "JTBC",
+        "JTBC NEWS",
+        "JTBC 뉴스",
+        "뉴스룸",
+        "뉴스9",
+        "손석희",
+        "손석희 뉴스",
+        "인터뷰",
+        "대중문화",
+        "윤종신",
+        "가수",
+        "월간 윤종신",
+        "1인방송",
+        "인터넷방송"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2015-11-19T13:55:56Z",
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "collectedAt": "2025-08-24T21:53:46Z"
     }
   },
   "channels": {
@@ -504,12 +536,39 @@
         }
       },
       "subscriberCount": 1590000,
-      "viewCount": 1279713708,
-      "videoCount": 19125,
-      "lastUpdated": "2025-08-23T20:41:22.783837Z"
+      "viewCount": 1280577570,
+      "videoCount": 19124,
+      "lastUpdated": "2025-08-24T21:53:46.333686Z"
+    },
+    "UCsU-I-vHLiaMfV_ceaYz5rQ": {
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "channelUrl": "@jtbc_news",
+      "channelDescription": "진실에 닿을 때까지 멈추지 않는 질문, JTBC News\nWelcome to the official JTBC News Channel.\n\n▶ https://news.jtbc.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 4670000,
+      "viewCount": 14812391233,
+      "videoCount": 261253,
+      "lastUpdated": "2025-08-24T21:53:46.333169Z"
     }
   },
-  "lastUpdated": "2025-08-23T20:41:22.784834Z",
-  "totalVideos": 15,
-  "totalChannels": 4
+  "lastUpdated": "2025-08-24T21:53:46.334215Z",
+  "totalVideos": 16,
+  "totalChannels": 5
 }

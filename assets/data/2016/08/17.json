@@ -305,6 +305,57 @@
       "channelId": "UC4Aa3OPkMenwTANpf0oWVRQ",
       "channelName": "CBS 김현정의 뉴스쇼",
       "collectedAt": "2025-08-22T14:03:12Z"
+    },
+    "q-BDhov6Rp4": {
+      "videoId": "q-BDhov6Rp4",
+      "title": "'묻지마 스쿨존' 화물차 쌩쌩…민원 제기에도 '거절'",
+      "description": "방송사 : JTBC http://www.jtbc.co.kr\n▶ JTBC 뉴스룸 월~일 20시00분 방송\n▶ 홈페이지 : http://news.jtbc.co.kr\n▶ 공식 트위터 : https://twitter.com/JTBC_news\n▶ 공식 페이스북 : https://www.facebook.com/jtbcnews\n\n초등학생이 횡단보도를 건너다 덤프트럭에 치어 크게 다치는 사고가 발생했습니다. 사고가 난 곳은 학교 인근으로, 어린이들을 보호하기 위해 만들어 놓은 스쿨존이었습니다.",
+      "publishedAt": "2016-08-17T01:32:37Z",
+      "duration": "PT1M57S",
+      "viewCount": 1199,
+      "likeCount": 4,
+      "commentCount": 6,
+      "tags": [
+        "JTBC",
+        "JTBC NEWS",
+        "뉴스룸",
+        "스쿨존",
+        "스쿨존 사건사고",
+        "스쿨존 사고",
+        "스쿨존 화물차",
+        "스쿨존 어린이 사고"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2016-08-17T01:32:37Z",
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "collectedAt": "2025-08-24T21:53:56Z"
+    },
+    "xuA4gdsIJj4": {
+      "videoId": "xuA4gdsIJj4",
+      "title": "줄만 그어 놓은 '스쿨존'…잇따른 사고, 어떤 문제가?",
+      "description": "방송사 : JTBC http://www.jtbc.co.kr\n▶ JTBC 뉴스룸 월~일 20시00분 방송\n▶ 홈페이지 : http://news.jtbc.co.kr\n▶ 공식 트위터 : https://twitter.com/JTBC_news\n▶ 공식 페이스북 : https://www.facebook.com/jtbcnews\n\n앞서 보신 것처럼 초등학교 주변에 스쿨존이 설정은 돼있지만, 관리는 제대로 안 되는 경우가 허다합니다. 실제로 스쿨존의 숫자는 늘어가지만 어린이 교통사고의 건수도 함께 늘고 있습니다.",
+      "publishedAt": "2016-08-17T01:19:52Z",
+      "duration": "PT1M51S",
+      "viewCount": 3024,
+      "likeCount": 13,
+      "commentCount": 2,
+      "tags": [
+        "JTBC",
+        "JTBC NEWS",
+        "뉴스룸",
+        "스쿨존",
+        "스쿨존 사고",
+        "스쿨존 어린이 사고",
+        "스쿨존 교통단속"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2016-08-17T01:19:52Z",
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "collectedAt": "2025-08-24T21:53:56Z"
     }
   },
   "channels": {
@@ -439,12 +490,39 @@
         }
       },
       "subscriberCount": 1590000,
-      "viewCount": 1279713708,
-      "videoCount": 19125,
-      "lastUpdated": "2025-08-23T20:41:14.772372Z"
+      "viewCount": 1280577570,
+      "videoCount": 19124,
+      "lastUpdated": "2025-08-24T21:53:56.942170Z"
+    },
+    "UCsU-I-vHLiaMfV_ceaYz5rQ": {
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "channelUrl": "@jtbc_news",
+      "channelDescription": "진실에 닿을 때까지 멈추지 않는 질문, JTBC News\nWelcome to the official JTBC News Channel.\n\n▶ https://news.jtbc.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 4670000,
+      "viewCount": 14812391233,
+      "videoCount": 261253,
+      "lastUpdated": "2025-08-24T21:53:56.941174Z"
     }
   },
-  "lastUpdated": "2025-08-23T20:41:14.775355Z",
-  "totalVideos": 12,
-  "totalChannels": 5
+  "lastUpdated": "2025-08-24T21:53:56.943167Z",
+  "totalVideos": 14,
+  "totalChannels": 6
 }

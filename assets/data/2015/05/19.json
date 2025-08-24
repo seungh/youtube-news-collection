@@ -331,6 +331,37 @@
       "channelId": "UC4Aa3OPkMenwTANpf0oWVRQ",
       "channelName": "CBS 김현정의 뉴스쇼",
       "collectedAt": "2025-08-22T14:03:23Z"
+    },
+    "XiuGm4kmyno": {
+      "videoId": "XiuGm4kmyno",
+      "title": "[팩트체크] '입국금지 13년'…유승준 돌아올 수 있나?",
+      "description": "방송사 : JTBC http://www.jtbc.co.kr\n▶ JTBC 뉴스룸 월~일 20시00분 방송\n▶ 홈페이지 : http://news.jtbc.co.kr\n▶ 공식 트위터 : https://twitter.com/JTBC_news\n▶ 공식 페이스북 : https://www.facebook.com/jtbcnews\n\n가수 유승준 씨가 인천공항에 왔다가 입국금지 돼 다시 비행기를 타고 돌아갔던 게 2002년, 벌써 13년이나 흘렀네요. 최근 유씨의 귀국 이야기가 다시 나오고 있는 모양입니다. 왜 그런 이야기가 나오는지, 그렇다면 돌아올 수 있는 건지 오늘(19일) 팩트체크에서 짚어보겠습니다. \n\n김필규 기자, 유승준 씨로서는 한창 젊었을 때 얘기인데 지금은 나이가 들었겠군요.",
+      "publishedAt": "2015-05-19T14:46:29Z",
+      "duration": "PT7M28S",
+      "viewCount": 343982,
+      "likeCount": 1025,
+      "commentCount": 792,
+      "tags": [
+        "JTBC",
+        "JTBC NEWS",
+        "JTBC 뉴스",
+        "뉴스룸",
+        "손석희",
+        "손석희 뉴스",
+        "뉴스9",
+        "유승준",
+        "병역 기피",
+        "군대",
+        "병무청",
+        "JTBC 팩트체크",
+        "팩트체크"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2015-05-19T14:46:29Z",
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "collectedAt": "2025-08-24T21:54:09Z"
     }
   },
   "channels": {
@@ -438,12 +469,39 @@
         }
       },
       "subscriberCount": 1590000,
-      "viewCount": 1279713708,
-      "videoCount": 19125,
-      "lastUpdated": "2025-08-23T20:41:28.752966Z"
+      "viewCount": 1280577570,
+      "videoCount": 19124,
+      "lastUpdated": "2025-08-24T21:54:09.999197Z"
+    },
+    "UCsU-I-vHLiaMfV_ceaYz5rQ": {
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "channelUrl": "@jtbc_news",
+      "channelDescription": "진실에 닿을 때까지 멈추지 않는 질문, JTBC News\nWelcome to the official JTBC News Channel.\n\n▶ https://news.jtbc.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 4670000,
+      "viewCount": 14812391233,
+      "videoCount": 261253,
+      "lastUpdated": "2025-08-24T21:54:09.998200Z"
     }
   },
-  "lastUpdated": "2025-08-23T20:41:28.755234Z",
-  "totalVideos": 14,
-  "totalChannels": 4
+  "lastUpdated": "2025-08-24T21:54:10.000194Z",
+  "totalVideos": 15,
+  "totalChannels": 5
 }

@@ -55,6 +55,33 @@
       "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
       "channelName": "뉴스TVCHOSUN",
       "collectedAt": "2025-08-21T10:46:21Z"
+    },
+    "RBCaxkcClmI": {
+      "videoId": "RBCaxkcClmI",
+      "title": "[인터뷰] 동물원 출신 가수 김창기 \"김광석에 애증\"",
+      "description": "[앵커]\r\n\r\n그룹 동물원의 노래, 지금도 좋아하는 분들 많으실 텐데요. 오늘(15일) '현장 인터뷰'에서는 긴 침묵을 깨고 최근 왕성한 활동을 이어가고 있는 동물원 출신 싱어송라이터, 김창기 씨를 만나봤습니다.",
+      "publishedAt": "2014-03-15T12:15:40Z",
+      "duration": "PT9M8S",
+      "viewCount": 37048,
+      "likeCount": 184,
+      "commentCount": 23,
+      "tags": [
+        "jtbc",
+        "jtbc news",
+        "jtbc 뉴스",
+        "김창기",
+        "동물원",
+        "동물원 김창기",
+        "김광석",
+        "널 사랑하겠어",
+        "평범한 남자의 유치한 노래"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2014-03-15T12:15:40Z",
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "collectedAt": "2025-08-24T21:53:43Z"
     }
   },
   "channels": {
@@ -84,9 +111,36 @@
       "viewCount": 4319423561,
       "videoCount": 150855,
       "lastUpdated": "2025-08-21T10:28:59.684578Z"
+    },
+    "UCsU-I-vHLiaMfV_ceaYz5rQ": {
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "channelUrl": "@jtbc_news",
+      "channelDescription": "진실에 닿을 때까지 멈추지 않는 질문, JTBC News\nWelcome to the official JTBC News Channel.\n\n▶ https://news.jtbc.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 4670000,
+      "viewCount": 14812391233,
+      "videoCount": 261253,
+      "lastUpdated": "2025-08-24T21:53:43.356243Z"
     }
   },
-  "lastUpdated": "2025-08-21T10:46:21.560919Z",
-  "totalVideos": 2,
-  "totalChannels": 1
+  "lastUpdated": "2025-08-24T21:53:43.358239Z",
+  "totalVideos": 3,
+  "totalChannels": 2
 }

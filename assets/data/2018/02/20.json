@@ -1671,6 +1671,52 @@
       "channelId": "UC4Aa3OPkMenwTANpf0oWVRQ",
       "channelName": "CBS 김현정의 뉴스쇼",
       "collectedAt": "2025-08-22T14:02:53Z"
+    },
+    "T4SJ6_BfSpw": {
+      "videoId": "T4SJ6_BfSpw",
+      "title": "다시보는 8뉴스｜2/19(월) - 여자컬링, 승리 이끈 과감한 작전…스웨덴 꺾고 '공동선두'",
+      "description": "▶ 여자컬링, 승리 이끈 과감한 작전…스웨덴 꺾고 '공동선두'\n▶ 이상화 \"은퇴? 1~2년 더 뛸 것\"…다음 올림픽은 \"글쎄요\"\n▶ 일본 언론도 집중 보도…이상화-고다이라의 '특별한 우정'\n▶ 이승훈 끌고 김민석 밀고…'환상 호흡' 팀 추월, 金 보인다\n▶ 민유라-겜린, 프리댄스 진출…\"내일 '아리랑'으로 만나요\"\n▶ 문 대통령 \"美 보호무역 당당히 대응…WTO 제소도 검토\"\n▶ 이윤택 \"성추행, 18년 관습적 행태\" 사과…성폭행은 부인\n▶ 또 다른 '거장'도 성추행 의혹…연극계 그림자 드러나나\n▶ 검찰 \"'다스 120억'은 개인 횡령…다른 비자금 추가 포착\"\n\n▶ SBS NEWS 유튜브 채널 구독하기 : https://goo.gl/l8eCja\n\n▶대한민국 뉴스리더 SBS◀\n홈페이지: http://news.sbs.co.kr\n페이스북: http://www.facebook.com/sbs8news\n트위터: http://www.twitter.com/sbs8news",
+      "publishedAt": "2018-02-20T06:01:35Z",
+      "duration": "PT38M17S",
+      "viewCount": 4342,
+      "likeCount": 8,
+      "commentCount": 9,
+      "tags": [
+        "뉴스",
+        "NEWS",
+        "news",
+        "SBS",
+        "sbs",
+        "SBS NEWS",
+        "SBS8NEWS",
+        "SBS뉴스",
+        "SBS8뉴스",
+        "sbs뉴스",
+        "sbs8뉴스",
+        "에스비에스",
+        "에스비에스뉴스",
+        "서울방송",
+        "SBS보도국",
+        "SEOUL BROADCASTING SYSTEM",
+        "seoul broadcasting system",
+        "sbs 뉴스",
+        "korea",
+        "KOREA",
+        "한국",
+        "대한민국",
+        "한국 뉴스",
+        "korea news",
+        "korean news",
+        "KOREA NEWS",
+        "KOREAN NEWS",
+        "8뉴스"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2018-02-20T06:01:35Z",
+      "channelId": "UCkinYTS9IHqOEwR1Sze2JTw",
+      "channelName": "SBS 뉴스",
+      "collectedAt": "2025-08-24T21:54:24Z"
     }
   },
   "channels": {
@@ -1805,12 +1851,39 @@
         }
       },
       "subscriberCount": 1590000,
-      "viewCount": 1278731005,
-      "videoCount": 19122,
-      "lastUpdated": "2025-08-22T14:02:53.049867Z"
+      "viewCount": 1280577570,
+      "videoCount": 19124,
+      "lastUpdated": "2025-08-24T21:54:24.378166Z"
+    },
+    "UCkinYTS9IHqOEwR1Sze2JTw": {
+      "channelId": "UCkinYTS9IHqOEwR1Sze2JTw",
+      "channelName": "SBS 뉴스",
+      "channelUrl": "@sbsnews8",
+      "channelDescription": "대한민국 No.1 SBS뉴스 ",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/SqFZwlQcqLs4JMZd3lthkg79kCHi68eerNpkkahvEYSPWhm2afUNqFkbMC6J6JJcy9JJ_DzQ8w=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/SqFZwlQcqLs4JMZd3lthkg79kCHi68eerNpkkahvEYSPWhm2afUNqFkbMC6J6JJcy9JJ_DzQ8w=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/SqFZwlQcqLs4JMZd3lthkg79kCHi68eerNpkkahvEYSPWhm2afUNqFkbMC6J6JJcy9JJ_DzQ8w=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 4990000,
+      "viewCount": 14985058976,
+      "videoCount": 297368,
+      "lastUpdated": "2025-08-24T21:54:24.379166Z"
     }
   },
-  "lastUpdated": "2025-08-22T14:02:53.050865Z",
-  "totalVideos": 63,
-  "totalChannels": 5
+  "lastUpdated": "2025-08-24T21:54:24.379166Z",
+  "totalVideos": 64,
+  "totalChannels": 6
 }

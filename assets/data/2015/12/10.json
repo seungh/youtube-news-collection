@@ -503,6 +503,40 @@
       "channelId": "UC4Aa3OPkMenwTANpf0oWVRQ",
       "channelName": "CBS 김현정의 뉴스쇼",
       "collectedAt": "2025-08-22T14:03:18Z"
+    },
+    "JptmkT1iHdE": {
+      "videoId": "JptmkT1iHdE",
+      "title": "[인터뷰 풀영상] 싸이 \"외신, 특색없는 가사? 한국말 몰라서일 것\"",
+      "description": "방송사 : JTBC http://www.jtbc.co.kr\n▶ JTBC 뉴스룸 월~일 20시00분 방송\n▶ 홈페이지 : http://news.jtbc.co.kr\n▶ 공식 트위터 : https://twitter.com/JTBC_news\n▶ 공식 페이스북 : https://www.facebook.com/jtbcnews\n\n노래 한 곡으로 세계를 평정한다. 이건 해외 유명 뮤지션들이야 있을 수 있는 일인데, 우리에게도 그런 가수가 나왔죠. 3년 반 전에 강남스타일 한 곡으로 그야말로 세계를 평정했던 싸이 씨가 칠집싸이다라는 새로운 정규앨범을 3년 5개월 만에 내고 돌아왔습니다. 그래서 오늘(10일) 대중문화계 손님으로 스튜디오에 모셨습니다.\n\n어서 오십시오.",
+      "publishedAt": "2015-12-10T14:09:30Z",
+      "duration": "PT14M10S",
+      "viewCount": 436979,
+      "likeCount": 1605,
+      "commentCount": 238,
+      "tags": [
+        "JTBC",
+        "JTBC NEWS",
+        "JTBC 뉴스",
+        "뉴스룸",
+        "뉴스9",
+        "손석희",
+        "손석희 뉴스",
+        "싸이",
+        "PSY",
+        "칠집싸이다",
+        "대디",
+        "나팔바지",
+        "빌보드",
+        "강남스타일",
+        "대중문화",
+        "인터뷰"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2015-12-10T14:09:30Z",
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "collectedAt": "2025-08-24T21:53:46Z"
     }
   },
   "channels": {
@@ -610,12 +644,39 @@
         }
       },
       "subscriberCount": 1590000,
-      "viewCount": 1279713708,
-      "videoCount": 19125,
-      "lastUpdated": "2025-08-23T20:41:22.322740Z"
+      "viewCount": 1280577570,
+      "videoCount": 19124,
+      "lastUpdated": "2025-08-24T21:53:46.519187Z"
+    },
+    "UCsU-I-vHLiaMfV_ceaYz5rQ": {
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "channelUrl": "@jtbc_news",
+      "channelDescription": "진실에 닿을 때까지 멈추지 않는 질문, JTBC News\nWelcome to the official JTBC News Channel.\n\n▶ https://news.jtbc.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 4670000,
+      "viewCount": 14812391233,
+      "videoCount": 261253,
+      "lastUpdated": "2025-08-24T21:53:46.519187Z"
     }
   },
-  "lastUpdated": "2025-08-23T20:41:22.324719Z",
-  "totalVideos": 19,
-  "totalChannels": 4
+  "lastUpdated": "2025-08-24T21:53:46.520184Z",
+  "totalVideos": 20,
+  "totalChannels": 5
 }

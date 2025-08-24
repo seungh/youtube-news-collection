@@ -394,6 +394,44 @@
       "channelId": "UC4Aa3OPkMenwTANpf0oWVRQ",
       "channelName": "CBS 김현정의 뉴스쇼",
       "collectedAt": "2025-08-22T14:03:13Z"
+    },
+    "uy68Rgb5feI": {
+      "videoId": "uy68Rgb5feI",
+      "title": "[인터뷰 풀영상] 공유 \"배우로서 변화? 선입견·고정관념 커지는 듯해 두려워\"",
+      "description": "# '도깨비' 공유, 아버지 #아빠 역할 어땠나?\n# 연상호 감독 \"공유, 아버지들이 가질 수 있는 피곤함 묻어나…\"\n\n# 도깨비 # 좀비 # 김신 # 공유 # 김고은 # 지은탁 # 이동욱 # 저승사자 # 부산행\n\n+++\n방송사 : JTBC http://www.jtbc.co.kr\n▶ JTBC 뉴스룸 월~일 20시00분 방송\n▶ 홈페이지 : http://news.jtbc.co.kr\n▶ 공식 트위터 : https://twitter.com/JTBC_news\n▶ 공식 페이스북 : https://www.facebook.com/jtbcnews\n\n목요일, 대중문화 인물을 만나보는 시간입니다. 오늘(21일) 나오신 분은 2년 반 만에 우리 뉴스룸 스튜디오를 찾아 주셨습니다. 너무나 반가워하실 것 같습니다. 어제 또 영화가 개봉이 됐는데 '부산행' 공유 씨가 제 옆에 나와 계십니다. 반갑습니다.",
+      "publishedAt": "2016-07-22T01:47:35Z",
+      "duration": "PT11M15S",
+      "viewCount": 678863,
+      "likeCount": 4586,
+      "commentCount": 392,
+      "tags": [
+        "JTBC",
+        "JTBC NEWS",
+        "뉴스룸",
+        "손석희",
+        "공유",
+        "부산행",
+        "연상호",
+        "좀비",
+        "칸",
+        "군대",
+        "커피프린스",
+        "편견",
+        "기차",
+        "서울역",
+        "도깨비",
+        "김신",
+        "지은탁",
+        "김고은",
+        "이동욱",
+        "저승사자"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2016-07-22T01:47:35Z",
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "collectedAt": "2025-08-24T21:53:47Z"
     }
   },
   "channels": {
@@ -528,12 +566,39 @@
         }
       },
       "subscriberCount": 1590000,
-      "viewCount": 1279713708,
-      "videoCount": 19125,
-      "lastUpdated": "2025-08-23T20:41:15.286699Z"
+      "viewCount": 1280577570,
+      "videoCount": 19124,
+      "lastUpdated": "2025-08-24T21:53:47.913188Z"
+    },
+    "UCsU-I-vHLiaMfV_ceaYz5rQ": {
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "channelUrl": "@jtbc_news",
+      "channelDescription": "진실에 닿을 때까지 멈추지 않는 질문, JTBC News\nWelcome to the official JTBC News Channel.\n\n▶ https://news.jtbc.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 4670000,
+      "viewCount": 14812391233,
+      "videoCount": 261253,
+      "lastUpdated": "2025-08-24T21:53:47.913188Z"
     }
   },
-  "lastUpdated": "2025-08-23T20:41:15.289639Z",
-  "totalVideos": 15,
-  "totalChannels": 5
+  "lastUpdated": "2025-08-24T21:53:47.914185Z",
+  "totalVideos": 16,
+  "totalChannels": 6
 }

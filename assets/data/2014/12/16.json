@@ -222,6 +222,43 @@
       "channelId": "UC4Aa3OPkMenwTANpf0oWVRQ",
       "channelName": "CBS 김현정의 뉴스쇼",
       "collectedAt": "2025-08-22T14:03:26Z"
+    },
+    "KZsRQiK6ptA": {
+      "videoId": "KZsRQiK6ptA",
+      "title": "[인터뷰] 박지원 \"박 대통령 '특사 역할' 한 셈…북측의 대화 의지 느껴\"",
+      "description": "방송사 : JTBC http://www.jtbc.co.kr \n▶ JTBC 뉴스룸 월~일 20시00분 방송 \n▶ 홈페이지 : http://news.jtbc.co.kr \n▶ 공식 트위터 : https://twitter.com/JTBC_news \n▶ 공식 페이스북 : https://www.facebook.com/jtbcnews \n\n새정치민주연합의 박지원 의원이 오늘(16일) 북한에 다녀왔습니다. 내일 김정일 위원장 3주기에 맞춰 조화를 전달할 목적이었는데요. 북한 정권의 '십상시'라는 말도 나왔고, '동지사' 역할이라는 말도 나왔습니다. 여당 안에서 나온 말인데, 좀 거친 말들이었다고 할 수 있겠지요. '십상시'는 정윤회씨 동향 문건을 통해 익히 알려졌고 '동지사'라는 건 조선시대 동지를 전후해 중국에 보냈던 사신을 일컫는 말이기도 한데요. \n\n논란 속에 북한을 다녀온 박지원 의원을 스튜디오에서 잠깐 만나겠습니다.",
+      "publishedAt": "2014-12-16T14:30:28Z",
+      "duration": "PT12M2S",
+      "viewCount": 6397,
+      "likeCount": 14,
+      "commentCount": 5,
+      "tags": [
+        "JTBC",
+        "JTBC NEWS",
+        "JTBC뉴스",
+        "손석희뉴스",
+        "손석희",
+        "뉴스룸",
+        "뉴스9",
+        "인터뷰",
+        "박지원",
+        "새정치민주연합",
+        "새정치연합",
+        "박지원 북한",
+        "북한",
+        "박지원 방북",
+        "십상시",
+        "동지사",
+        "국정개입",
+        "정윤회 문건",
+        "청와대 문건"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2014-12-16T14:30:28Z",
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "collectedAt": "2025-08-24T21:53:44Z"
     }
   },
   "channels": {
@@ -329,12 +366,39 @@
         }
       },
       "subscriberCount": 1590000,
-      "viewCount": 1279713708,
-      "videoCount": 19125,
-      "lastUpdated": "2025-08-23T20:41:33.685193Z"
+      "viewCount": 1280577570,
+      "videoCount": 19124,
+      "lastUpdated": "2025-08-24T21:53:44.293196Z"
+    },
+    "UCsU-I-vHLiaMfV_ceaYz5rQ": {
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "channelUrl": "@jtbc_news",
+      "channelDescription": "진실에 닿을 때까지 멈추지 않는 질문, JTBC News\nWelcome to the official JTBC News Channel.\n\n▶ https://news.jtbc.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 4670000,
+      "viewCount": 14812391233,
+      "videoCount": 261253,
+      "lastUpdated": "2025-08-24T21:53:44.292200Z"
     }
   },
-  "lastUpdated": "2025-08-23T20:41:33.685193Z",
-  "totalVideos": 9,
-  "totalChannels": 4
+  "lastUpdated": "2025-08-24T21:53:44.298211Z",
+  "totalVideos": 10,
+  "totalChannels": 5
 }

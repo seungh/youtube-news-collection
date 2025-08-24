@@ -363,6 +363,57 @@
       "channelId": "UC4Aa3OPkMenwTANpf0oWVRQ",
       "channelName": "CBS 김현정의 뉴스쇼",
       "collectedAt": "2025-08-22T14:01:48Z"
+    },
+    "7ZDAhAaGA8U": {
+      "videoId": "7ZDAhAaGA8U",
+      "title": "[단독] '광우병 보도 불기소 검사' 임수빈, 특검보 후보 / SBS",
+      "description": "박영수 특별검사를 보좌할 특검보 후보에 임수빈 변호사가 포함된 것으로 확인됐습니다. 임 변호사는 광우병 수사 파동 당시 검찰 수뇌부에 반기를 들고 사직한 인물입니다.\n\n박상진 기자의 단독 보도입니다.\n\n▶ SBS NEWS 유튜브 채널 구독하기 : https://goo.gl/l8eCja\n\n▶대한민국 뉴스리더 SBS◀\n홈페이지: http://news.sbs.co.kr\n페이스북: http://www.facebook.com/sbs8news\n트위터: http://www.twitter.com/sbs8news",
+      "publishedAt": "2016-12-05T05:40:41Z",
+      "duration": "PT1M40S",
+      "viewCount": 572,
+      "likeCount": 4,
+      "commentCount": 0,
+      "tags": [
+        "KOREA",
+        "KOREA NEWS",
+        "KOREAN NEWS",
+        "NEWS",
+        "SBS",
+        "SBS NEWS",
+        "SBS8NEWS",
+        "SBS8뉴스",
+        "SBS뉴스",
+        "SBS보도국",
+        "SEOUL BROADCASTING SYSTEM",
+        "korea",
+        "korea news",
+        "korean news",
+        "sbs",
+        "sbs 뉴스",
+        "sbs뉴스",
+        "seoul broadcasting system",
+        "yt:cc=on",
+        "광우병 파동",
+        "뉴스",
+        "대한민국",
+        "마찰",
+        "박영수",
+        "변호사",
+        "서울방송",
+        "에스비에스",
+        "에스비에스뉴스",
+        "임수빈",
+        "특검",
+        "한국",
+        "한국 뉴스",
+        "후보"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2016-12-05T05:40:41Z",
+      "channelId": "UCkinYTS9IHqOEwR1Sze2JTw",
+      "channelName": "SBS 뉴스",
+      "collectedAt": "2025-08-24T21:54:29Z"
     }
   },
   "channels": {
@@ -497,12 +548,39 @@
         }
       },
       "subscriberCount": 1590000,
-      "viewCount": 1278731005,
-      "videoCount": 19122,
-      "lastUpdated": "2025-08-22T14:01:48.514411Z"
+      "viewCount": 1280577570,
+      "videoCount": 19124,
+      "lastUpdated": "2025-08-24T21:54:29.446119Z"
+    },
+    "UCkinYTS9IHqOEwR1Sze2JTw": {
+      "channelId": "UCkinYTS9IHqOEwR1Sze2JTw",
+      "channelName": "SBS 뉴스",
+      "channelUrl": "@sbsnews8",
+      "channelDescription": "대한민국 No.1 SBS뉴스 ",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/SqFZwlQcqLs4JMZd3lthkg79kCHi68eerNpkkahvEYSPWhm2afUNqFkbMC6J6JJcy9JJ_DzQ8w=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/SqFZwlQcqLs4JMZd3lthkg79kCHi68eerNpkkahvEYSPWhm2afUNqFkbMC6J6JJcy9JJ_DzQ8w=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/SqFZwlQcqLs4JMZd3lthkg79kCHi68eerNpkkahvEYSPWhm2afUNqFkbMC6J6JJcy9JJ_DzQ8w=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 4990000,
+      "viewCount": 14985058976,
+      "videoCount": 297368,
+      "lastUpdated": "2025-08-24T21:54:29.447125Z"
     }
   },
-  "lastUpdated": "2025-08-22T14:01:48.515408Z",
-  "totalVideos": 14,
-  "totalChannels": 5
+  "lastUpdated": "2025-08-24T21:54:29.448114Z",
+  "totalVideos": 15,
+  "totalChannels": 6
 }

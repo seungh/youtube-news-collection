@@ -309,6 +309,40 @@
       "channelId": "UC4Aa3OPkMenwTANpf0oWVRQ",
       "channelName": "CBS 김현정의 뉴스쇼",
       "collectedAt": "2025-08-22T14:03:17Z"
+    },
+    "TKgaQYGDa50": {
+      "videoId": "TKgaQYGDa50",
+      "title": "[인터뷰 풀영상] 고아라 \"다양한 역할, 잘 표현해내는 배우가 되고 싶다\"",
+      "description": "방송사 : JTBC http://www.jtbc.co.kr\n▶ JTBC 뉴스룸 월~일 20시00분 방송\n▶ 홈페이지 : http://news.jtbc.co.kr\n▶ 공식 트위터 : https://twitter.com/JTBC_news\n▶ 공식 페이스북 : https://www.facebook.com/jtbcnews\n\n예. 대중문화 인물을 만나보는 시간입니다. 곧 성탄인데 이 분은 그냥 이 분 자체가 성탄 선물이라고 해도 될 것 같습니다. 오늘(24일) 스튜디오에 바로 이 성탄 선물 한 분을 모셨습니다. \n\n배우 고아라 씨를 이 시간에 모셨습니다. 곧 있으면 또 주연을 맡으신 영화도 개봉하고 해서요. 반갑습니다.",
+      "publishedAt": "2015-12-24T14:26:01Z",
+      "duration": "PT19M1S",
+      "viewCount": 309568,
+      "likeCount": 1108,
+      "commentCount": 155,
+      "tags": [
+        "JTBC",
+        "JTBC NEWS",
+        "JTBC 뉴스",
+        "뉴스룸",
+        "뉴스9",
+        "손석희",
+        "손석희 뉴스",
+        "대중문화",
+        "고아라",
+        "조선마술사",
+        "유승호",
+        "응답하라",
+        "성나정",
+        "반올림",
+        "인터뷰",
+        "뉴스룸 인터뷰"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2015-12-24T14:26:01Z",
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "collectedAt": "2025-08-24T21:53:46Z"
     }
   },
   "channels": {
@@ -416,12 +450,39 @@
         }
       },
       "subscriberCount": 1590000,
-      "viewCount": 1279713708,
-      "videoCount": 19125,
-      "lastUpdated": "2025-08-23T20:41:21.977352Z"
+      "viewCount": 1280577570,
+      "videoCount": 19124,
+      "lastUpdated": "2025-08-24T21:53:46.662660Z"
+    },
+    "UCsU-I-vHLiaMfV_ceaYz5rQ": {
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "channelUrl": "@jtbc_news",
+      "channelDescription": "진실에 닿을 때까지 멈추지 않는 질문, JTBC News\nWelcome to the official JTBC News Channel.\n\n▶ https://news.jtbc.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 4670000,
+      "viewCount": 14812391233,
+      "videoCount": 261253,
+      "lastUpdated": "2025-08-24T21:53:46.662660Z"
     }
   },
-  "lastUpdated": "2025-08-23T20:41:21.977352Z",
-  "totalVideos": 13,
-  "totalChannels": 4
+  "lastUpdated": "2025-08-24T21:53:46.663659Z",
+  "totalVideos": 14,
+  "totalChannels": 5
 }

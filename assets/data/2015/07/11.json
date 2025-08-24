@@ -55,6 +55,35 @@
       "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
       "channelName": "뉴스TVCHOSUN",
       "collectedAt": "2025-08-21T10:46:09Z"
+    },
+    "JqjXNCTQdt0": {
+      "videoId": "JqjXNCTQdt0",
+      "title": "[단독] '비밀 대화'도 고스란히…본인 인증 없이 몰래 '카톡' 복구하는 프로그램 '논란' / SBS",
+      "description": "국내 스마트폰 이용자의 97%가 사용한다는 카카오톡. 이 카카오톡에서 삭제한 메시지를 본인 인증 없이 복구할 수 있는 프로그램이 인터넷에서 유포되고 있어 논란이 되고 있습니다. 마음만 먹으면 다른 사람의 카톡 대화까지 모두 복구할 수 있습니다.\n\n김도균 기자의 단독 보도입니다.\n\n한 인터넷 포털 자료실에 올라온 카카오톡 삭제 메시지 복구 프로그램입니다.\n\n지웠던 카톡 대화 내용을 살릴 수 있다는데, 진짜 되는지 해봤습니다.\n\n방법은 아주 간단합니다.\n\nPC와 연결하고 안드로이드폰과 아이폰 중에서 선택해 '다음' 버튼만 누르면, 관리자 권한을 확인하는 절차도 없이 곧바로 복구가 진행됐습니다.\n\n5분 만에 다섯 달 전에 나눴던 대화가 살아난 것은 물론이고, 서버에서도 볼 수 없다는 '비밀대화'까지 고스란히 복구됐습니다.\n\n[이요민/복구 프로그램 제작사 대표 : '안녕하세요'라는 대화 문자가 있었으면 그 파일이 데이터로 조각이 나면서 메모리 한 부분에 남게 돼요. 그 데이터를 다시 모아서 파일로 만들어서 '안녕하세요'를 보게 만드는 방법 이에요.]\n\n문제는 대화를 복구할 때 본인 인증 절차가 없어서 마음만 먹으면 다른 사람의 스마트폰을 연결해 삭제된 카톡 대화까지 모두 볼 수 있다는 겁니다.\n\n[이요민/복구 프로그램 제작사 대표 : 칼하고 비교하면 될까요? 총이나. 칼은 사실 요리하는 데 쓰라고 하지만 때로는 다른 용도로 잘못 사용되니까….]\n\n라인, 바이버, 텔레그램 등 다른 메시지 앱들도 삭제한 메시지 복구가 가능한지, 예방책은 없는지, 자세한 내용은 SBS 뉴스 동영상 서비스인 비디오 머그를 통해 잇따라 공개합니다.\n\n◀대한민국 뉴스리더 SBS▶\n홈페이지: http://news.sbs.co.kr\n페이스북: http://www.facebook.com/sbs8news\n트위터: http://www.twitter.com/sbs8news",
+      "publishedAt": "2015-07-11T12:39:41Z",
+      "duration": "PT1M52S",
+      "viewCount": 233819,
+      "likeCount": 351,
+      "commentCount": 39,
+      "tags": [
+        "SBS",
+        "SBS NEWS",
+        "SBS8NEWS",
+        "SBS뉴스",
+        "SBS8뉴스",
+        "에스비에스",
+        "에스비에스뉴스",
+        "서울방송",
+        "SBS보도국",
+        "SEOUL BROADCASTING SYSTEM",
+        "seoul broadcasting system"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2015-07-11T12:39:41Z",
+      "channelId": "UCkinYTS9IHqOEwR1Sze2JTw",
+      "channelName": "SBS 뉴스",
+      "collectedAt": "2025-08-24T21:55:25Z"
     }
   },
   "channels": {
@@ -84,9 +113,36 @@
       "viewCount": 4319423561,
       "videoCount": 150855,
       "lastUpdated": "2025-08-21T10:28:47.606725Z"
+    },
+    "UCkinYTS9IHqOEwR1Sze2JTw": {
+      "channelId": "UCkinYTS9IHqOEwR1Sze2JTw",
+      "channelName": "SBS 뉴스",
+      "channelUrl": "@sbsnews8",
+      "channelDescription": "대한민국 No.1 SBS뉴스 ",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/SqFZwlQcqLs4JMZd3lthkg79kCHi68eerNpkkahvEYSPWhm2afUNqFkbMC6J6JJcy9JJ_DzQ8w=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/SqFZwlQcqLs4JMZd3lthkg79kCHi68eerNpkkahvEYSPWhm2afUNqFkbMC6J6JJcy9JJ_DzQ8w=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/SqFZwlQcqLs4JMZd3lthkg79kCHi68eerNpkkahvEYSPWhm2afUNqFkbMC6J6JJcy9JJ_DzQ8w=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 4990000,
+      "viewCount": 14985058976,
+      "videoCount": 297368,
+      "lastUpdated": "2025-08-24T21:55:25.999067Z"
     }
   },
-  "lastUpdated": "2025-08-21T10:46:09.973366Z",
-  "totalVideos": 2,
-  "totalChannels": 1
+  "lastUpdated": "2025-08-24T21:55:25.999067Z",
+  "totalVideos": 3,
+  "totalChannels": 2
 }

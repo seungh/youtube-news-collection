@@ -579,6 +579,34 @@
       "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
       "channelName": "뉴스TVCHOSUN",
       "collectedAt": "2025-08-21T10:45:49Z"
+    },
+    "G7qAi5mdZA0": {
+      "videoId": "G7qAi5mdZA0",
+      "title": "7일부터 박찬주 부부 소환…군 수뇌부는 긴급 회의",
+      "description": "공관병에 대한 갑질 의혹과 관련해서 내일부터 군 검찰이 박찬주 대장 부부를 소환조사하기로 했습니다. 송영무 국방장관은 내일 군 수뇌부 긴급대책회의를 열어 이 문제를 다루기로 했습니다. \n\n▶ 기사전문 (http://bit.ly/2fjGrEp)\n\n▶ 공식 홈페이지 http://news.jtbc.co.kr\n▶ 공식 페이스북 https://www.facebook.com/jtbcnews\n▶ 공식 트위터 https://twitter.com/JTBC_news\n\n방송사 : JTBC (http://www.jtbc.co.kr)",
+      "publishedAt": "2017-08-06T13:39:40Z",
+      "duration": "PT1M20S",
+      "viewCount": 4253,
+      "likeCount": 48,
+      "commentCount": 17,
+      "tags": [
+        "JTBC",
+        "JTBC NEWS",
+        "뉴스룸",
+        "손석희",
+        "박찬주",
+        "공관병",
+        "대장부부",
+        "송영무",
+        "국방장관",
+        "갑질"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2017-08-06T13:39:40Z",
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "collectedAt": "2025-08-24T21:54:01Z"
     }
   },
   "channels": {
@@ -635,9 +663,36 @@
       "viewCount": 4319423561,
       "videoCount": 150855,
       "lastUpdated": "2025-08-21T10:28:21.219513Z"
+    },
+    "UCsU-I-vHLiaMfV_ceaYz5rQ": {
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "channelUrl": "@jtbc_news",
+      "channelDescription": "진실에 닿을 때까지 멈추지 않는 질문, JTBC News\nWelcome to the official JTBC News Channel.\n\n▶ https://news.jtbc.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 4670000,
+      "viewCount": 14812391233,
+      "videoCount": 261253,
+      "lastUpdated": "2025-08-24T21:54:01.458609Z"
     }
   },
-  "lastUpdated": "2025-08-21T10:45:49.024386Z",
-  "totalVideos": 21,
-  "totalChannels": 2
+  "lastUpdated": "2025-08-24T21:54:01.459606Z",
+  "totalVideos": 22,
+  "totalChannels": 3
 }

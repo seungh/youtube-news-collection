@@ -473,6 +473,40 @@
       "channelId": "UC4Aa3OPkMenwTANpf0oWVRQ",
       "channelName": "CBS 김현정의 뉴스쇼",
       "collectedAt": "2025-08-22T14:03:14Z"
+    },
+    "4VEvfks7xjk": {
+      "videoId": "4VEvfks7xjk",
+      "title": "[인터뷰 풀영상] 박찬욱 \"영화 아가씨, 친절하게 얘기하느라 길어졌다\"",
+      "description": "목요일, 대중문화의 인물을 만나는 시간인데 따로 설명은 안 드려도 될 것 같습니다. 박찬욱 감독이 오늘(2일) 뉴스룸에 나오셨습니다. 오랜만에 뵙게 되는데 영화도 오랜만에 내놓으셨습니다.\n그런데 오랜만에 내놓으신 영화 '아가씨'가 지금 굉장히 많은 분들이… 바로 어제 개봉했는데 벌써 많은 분들이 보셨다고 해서… 아무튼 오늘 만나서 뒷얘기라든가 여러 가지 얘기를 듣는 시간을 마련했습니다.\n박찬욱 감독이 스튜디오에 나와 계십니다. 어서 오십시오.",
+      "publishedAt": "2016-06-02T15:28:37Z",
+      "duration": "PT14M19S",
+      "viewCount": 162919,
+      "likeCount": 1101,
+      "commentCount": 1665,
+      "tags": [
+        "JTBC",
+        "JTBC NEWS",
+        "뉴스룸",
+        "손석희",
+        "박찬욱",
+        "아가씨",
+        "친절한 금자씨",
+        "금자씨",
+        "풀영상",
+        "인터뷰",
+        "목요초대석",
+        "문화초대석",
+        "감독",
+        "영화",
+        "충무로",
+        "대중문화"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2016-06-02T15:28:37Z",
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "collectedAt": "2025-08-24T21:53:47Z"
     }
   },
   "channels": {
@@ -580,12 +614,39 @@
         }
       },
       "subscriberCount": 1590000,
-      "viewCount": 1279713708,
-      "videoCount": 19125,
-      "lastUpdated": "2025-08-23T20:41:16.604688Z"
+      "viewCount": 1280577570,
+      "videoCount": 19124,
+      "lastUpdated": "2025-08-24T21:53:47.632169Z"
+    },
+    "UCsU-I-vHLiaMfV_ceaYz5rQ": {
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "channelUrl": "@jtbc_news",
+      "channelDescription": "진실에 닿을 때까지 멈추지 않는 질문, JTBC News\nWelcome to the official JTBC News Channel.\n\n▶ https://news.jtbc.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 4670000,
+      "viewCount": 14812391233,
+      "videoCount": 261253,
+      "lastUpdated": "2025-08-24T21:53:47.630175Z"
     }
   },
-  "lastUpdated": "2025-08-23T20:41:16.604688Z",
-  "totalVideos": 20,
-  "totalChannels": 4
+  "lastUpdated": "2025-08-24T21:53:47.637183Z",
+  "totalVideos": 21,
+  "totalChannels": 5
 }

@@ -550,6 +550,36 @@
       "channelId": "UC4Aa3OPkMenwTANpf0oWVRQ",
       "channelName": "CBS 김현정의 뉴스쇼",
       "collectedAt": "2025-08-22T14:03:12Z"
+    },
+    "Cor_r71QKP8": {
+      "videoId": "Cor_r71QKP8",
+      "title": "[인터뷰] 김기덕 감독 \"남북, 민감한 문제…'그물' 같은 영화 필요해\"",
+      "description": "'백남기 조건부 부검영장' 해석 논란 ▶ http://bit.ly/2ddq3k7\n'K스포츠재단 의혹' 정동춘 이사장 사임 ▶ http://bit.ly/2ddp8jt\n도쿄올림픽 개최비 4배 증가…건설 재검토 ▶ http://bit.ly/2ddp6bv\nOPEC, 원유 감산 합의…\"유가 상승 제한적\" ▶ http://bit.ly/2ddpneu\n\n[앵커]\n\n이분이 작품을 발표했다 하면 좋은 쪽이든 또 좀 좋지 않은 쪽이든 늘 뜨겁게 화제가 됩니다. 자신만의 문법으로 한국영화사에 뚜렷하게 발자취를 남기고 계신 분인데 한국 감독 사상 처음으로 베니스영화제에서 대상인 황금사자상을 수상하기도 했죠. 이번에 22번째 작품을 세상에 내놓은 김기덕 감독을 뉴스룸에 모셨습니다. 어서 오십시오.",
+      "publishedAt": "2016-09-29T14:32:58Z",
+      "duration": "PT11M49S",
+      "viewCount": 48176,
+      "likeCount": 237,
+      "commentCount": 113,
+      "tags": [
+        "JTBC",
+        "JTBC NEWS",
+        "뉴스룸",
+        "손석희",
+        "김기덕",
+        "감독",
+        "영화감독",
+        "인터뷰",
+        "그물",
+        "영화",
+        "베니스영화제",
+        "황금사자상"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2016-09-29T14:32:58Z",
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "collectedAt": "2025-08-24T21:53:48Z"
     }
   },
   "channels": {
@@ -657,12 +687,39 @@
         }
       },
       "subscriberCount": 1590000,
-      "viewCount": 1279713708,
-      "videoCount": 19125,
-      "lastUpdated": "2025-08-23T20:41:13.631018Z"
+      "viewCount": 1280577570,
+      "videoCount": 19124,
+      "lastUpdated": "2025-08-24T21:53:48.336224Z"
+    },
+    "UCsU-I-vHLiaMfV_ceaYz5rQ": {
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "channelUrl": "@jtbc_news",
+      "channelDescription": "진실에 닿을 때까지 멈추지 않는 질문, JTBC News\nWelcome to the official JTBC News Channel.\n\n▶ https://news.jtbc.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 4670000,
+      "viewCount": 14812391233,
+      "videoCount": 261253,
+      "lastUpdated": "2025-08-24T21:53:48.335226Z"
     }
   },
-  "lastUpdated": "2025-08-23T20:41:13.632016Z",
-  "totalVideos": 20,
-  "totalChannels": 4
+  "lastUpdated": "2025-08-24T21:53:48.336224Z",
+  "totalVideos": 21,
+  "totalChannels": 5
 }

@@ -207,6 +207,48 @@
       "channelId": "UC4Aa3OPkMenwTANpf0oWVRQ",
       "channelName": "CBS 김현정의 뉴스쇼",
       "collectedAt": "2025-08-22T14:03:17Z"
+    },
+    "FbfAdUkDr5Y": {
+      "videoId": "FbfAdUkDr5Y",
+      "title": "[인터뷰 풀영상] 이세돌 \"바둑은 즐거워야 된다…그것이 핵심이라 생각\"",
+      "description": "방송사 : JTBC http://www.jtbc.co.kr \n▶ JTBC 뉴스룸 월~일 20시00분 방송 \n▶ 홈페이지 : http://news.jtbc.co.kr \n▶ 공식 트위터 : https://twitter.com/JTBC_news \n▶ 공식 페이스북 : https://www.facebook.com/jtbcnews \n\n오늘(14일) 목요일입니다. 오늘은 바둑인을 한 분 모셨습니다. 최근 들어서 바둑에 대한 관심이 굉장히 높아지는 것 같습니다. 응팔인가요? 드라마 때문이기도 하죠. 지난주에 이분이 중국에서 치른 한 결승전도 실시간 검색어에 오르면서 크게 화제가 된 바 있습니다. 그 화제의 대국의 주인공이 오늘 목요초대석의 주인공이십니다.\n\n한국 바둑의 간판, '센돌' 이세돌 9단이 오늘 나와주셨습니다. 오랜만입니다.",
+      "publishedAt": "2016-01-14T14:28:38Z",
+      "duration": "PT12M9S",
+      "viewCount": 406826,
+      "likeCount": 1903,
+      "commentCount": 313,
+      "tags": [
+        "몽백합배",
+        "커제",
+        "이세돌 한돌",
+        "이세돌 1승",
+        "뉴스룸",
+        "이세돌",
+        "불계승",
+        "JTBC NEWS",
+        "한돌 대국",
+        "제이티비씨",
+        "JTBC",
+        "뉴스9",
+        "JTBC 뉴스",
+        "손석희",
+        "인터뷰",
+        "센돌",
+        "응팔",
+        "이창호",
+        "은퇴 대국",
+        "이세돌 9단",
+        "대중문화",
+        "바둑",
+        "미생",
+        "손석희 뉴스"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2016-01-14T14:28:38Z",
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "collectedAt": "2025-08-24T21:53:46Z"
     }
   },
   "channels": {
@@ -287,12 +329,39 @@
         }
       },
       "subscriberCount": 1590000,
-      "viewCount": 1279713708,
-      "videoCount": 19125,
-      "lastUpdated": "2025-08-23T20:41:21.407046Z"
+      "viewCount": 1280577570,
+      "videoCount": 19124,
+      "lastUpdated": "2025-08-24T21:53:46.812261Z"
+    },
+    "UCsU-I-vHLiaMfV_ceaYz5rQ": {
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "channelUrl": "@jtbc_news",
+      "channelDescription": "진실에 닿을 때까지 멈추지 않는 질문, JTBC News\nWelcome to the official JTBC News Channel.\n\n▶ https://news.jtbc.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 4670000,
+      "viewCount": 14812391233,
+      "videoCount": 261253,
+      "lastUpdated": "2025-08-24T21:53:46.812261Z"
     }
   },
-  "lastUpdated": "2025-08-23T20:41:21.410038Z",
-  "totalVideos": 9,
-  "totalChannels": 3
+  "lastUpdated": "2025-08-24T21:53:46.813257Z",
+  "totalVideos": 10,
+  "totalChannels": 4
 }

@@ -492,6 +492,40 @@
       "channelId": "UC4Aa3OPkMenwTANpf0oWVRQ",
       "channelName": "CBS 김현정의 뉴스쇼",
       "collectedAt": "2025-08-22T14:03:25Z"
+    },
+    "fRi8xjnNA9s": {
+      "videoId": "fRi8xjnNA9s",
+      "title": "[인터뷰] 김명민 \"최민식과 이순신 역 비교…그 자체가 영광\"",
+      "description": "방송사 : JTBC http://www.jtbc.co.kr \n▶ JTBC 뉴스룸 월~일 20시00분 방송 \n▶ 홈페이지 : http://news.jtbc.co.kr \n▶ 공식 트위터 : https://twitter.com/JTBC_news \n▶ 공식 페이스북 : https://www.facebook.com/jtbcnews \n\n수요일 뉴스룸 2부. 오늘(4일)도 특별한 손님을 모셨습니다. 그제는 저희가 야당의 대표 경선 토론을 했고요, 어제는 여당의 신임 원내대표와 인터뷰해서 오늘은 시청자 여러분께나 저에게나 좀 편안한 시간이 되지 않을까 싶기도 한데요. 배우 한 분입니다. 연기를 잘해서 '연기 본좌'라는 별명이 붙은 분입니다. 이 별명은 별로 좋아하지 않는다고 말씀하셔서, 이따 좀 확인해보겠습니다. 강렬한 존재감으로 TV와 스크린을 넘나들며 명연기를 보여주고 계신 김명민 씨를 오늘 모셨습니다.",
+      "publishedAt": "2015-02-04T14:33:53Z",
+      "duration": "PT12M14S",
+      "viewCount": 284321,
+      "likeCount": 1241,
+      "commentCount": 388,
+      "tags": [
+        "JTBC",
+        "JTBC NEWS",
+        "JTBC 뉴스",
+        "제이티비씨 뉴스",
+        "제이티비씨",
+        "손석희",
+        "손석희 뉴스",
+        "뉴스룸",
+        "뉴스9",
+        "김명민",
+        "조선명탐정",
+        "조선명탐정2",
+        "김명민 영화",
+        "김명민 드라마",
+        "김명민 이순신",
+        "불멸의 이순신"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2015-02-04T14:33:53Z",
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "collectedAt": "2025-08-24T21:53:44Z"
     }
   },
   "channels": {
@@ -599,12 +633,39 @@
         }
       },
       "subscriberCount": 1590000,
-      "viewCount": 1279713708,
-      "videoCount": 19125,
-      "lastUpdated": "2025-08-23T20:41:32.530218Z"
+      "viewCount": 1280577570,
+      "videoCount": 19124,
+      "lastUpdated": "2025-08-24T21:53:44.748174Z"
+    },
+    "UCsU-I-vHLiaMfV_ceaYz5rQ": {
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "channelUrl": "@jtbc_news",
+      "channelDescription": "진실에 닿을 때까지 멈추지 않는 질문, JTBC News\nWelcome to the official JTBC News Channel.\n\n▶ https://news.jtbc.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 4670000,
+      "viewCount": 14812391233,
+      "videoCount": 261253,
+      "lastUpdated": "2025-08-24T21:53:44.748174Z"
     }
   },
-  "lastUpdated": "2025-08-23T20:41:32.530900Z",
-  "totalVideos": 20,
-  "totalChannels": 4
+  "lastUpdated": "2025-08-24T21:53:44.749173Z",
+  "totalVideos": 21,
+  "totalChannels": 5
 }
