@@ -1,0 +1,983 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Today's News</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link rel="stylesheet" as="style" crossorigin href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/static/pretendard.min.css" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/spoqa/spoqa-han-sans-neo@2.1.1/css/spoqa-han-sans-neo.min.css">
+    <style>
+        :root {
+            /* var for light mode */
+            --bg-color: #F5F5F5;
+            --header-bg: #FFFFFF;
+            --header-border: #E0E0E0;
+            --main-text-color: #1A1A1A;
+            --secondary-text-color: #666666;
+            --title-color: #011627;
+            --link-color: #A98952;
+            --ytb-color: #ff0033;
+            --input-bg: #FFFFFF;
+            --input-border: #CCCCCC;
+            --list-bg: #FFFFFF;
+            --list-border: #EFEFEF;
+            --card-bg: #FFFFFF;
+            --card-border: #E0E0E0;
+            --toggle-bg: #E0E0E0;
+            --toggle-border: #CCCCCC;
+            --toggle-btn-color: #4A5766;
+            --toggle-btn-active-bg: #4A5766;
+            --toggle-btn-active-color: #FFFFFF;
+        }
+
+        [data-theme="dark"] {
+            /* var for dark mode */
+            --bg-color: #121212;
+            --header-bg: #1E1E1E;
+            --header-border: #333333;
+            --main-text-color: #E0E0E0;
+            --secondary-text-color: #999999;
+            --title-color: #FFFFFF;
+            --link-color: #A98952;
+            --ytb-color: #ff0033;
+            --input-bg: #1E1E1E;
+            --input-border: #333333;
+            --list-bg: #1E1E1E;
+            --list-border: #2A2A2A;
+            --card-bg: #1E1E1E;
+            --card-border: #333333;
+            --toggle-bg: #2A2A2A;
+            --toggle-border: #333333;
+            --toggle-btn-color: #888888;
+            --toggle-btn-active-bg: #4A5766;
+            --toggle-btn-active-color: #FFFFFF;
+        }
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Spoqa Han Sans Neo', 'Pretendard', sans-serif;
+            background: var(--bg-color);
+            color: var(--main-text-color);
+            line-height: 1.6;
+            overflow-x: hidden;
+            transition: background 0.3s ease, color 0.3s ease;
+            display: flex;
+            flex-direction: column;
+            min-height: 100vh;
+        }
+
+        .header {
+            position: sticky;
+            top: 0;
+            background: var(--header-bg);
+            border-bottom: 1px solid var(--header-border);
+            padding: 15px 20px;
+            z-index: 1000;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.05);
+            transition: background 0.3s ease, border-color 0.3s ease;
+        }
+
+        .header-content {
+            max-width: 1200px;
+            margin: 0 auto;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            flex-wrap: wrap;
+            gap: 15px;
+        }
+
+        .title {
+            font-family: 'Pretendard', sans-serif;
+            font-size: 24px;
+            color: var(--title-color);
+            font-weight: 700;
+        }
+
+        .controls {
+            display: flex;
+            gap: 15px;
+            align-items: center;
+            flex-wrap: wrap;
+        }
+
+        .date-input, .search-input {
+            padding: 8px 12px;
+            background: var(--input-bg);
+            border: 1px solid var(--input-border);
+            color: var(--main-text-color);
+            border-radius: 4px;
+            font-family: inherit;
+            font-size: 14px;
+            transition: background 0.3s ease, border-color 0.3s ease;
+        }
+
+        .date-input:focus, .search-input:focus {
+            outline: none;
+            border-color: var(--link-color);
+        }
+        
+        /* Dark Mode Toggle Button */
+        .dark-mode-toggle {
+            background: none;
+            border: none;
+            color: var(--secondary-text-color);
+            cursor: pointer;
+            font-size: 20px;
+            transition: color 0.3s;
+        }
+
+        .dark-mode-toggle:hover {
+            color: var(--main-text-color);
+        }
+        
+        .view-toggle {
+            display: flex;
+            background: var(--toggle-bg);
+            border: 1px solid var(--toggle-border);
+            border-radius: 4px;
+            overflow: hidden;
+            transition: background 0.3s ease, border-color 0.3s ease;
+        }
+
+        .view-btn {
+            padding: 8px 12px;
+            background: none;
+            border: none;
+            color: var(--toggle-btn-color);
+            cursor: pointer;
+            font-family: inherit;
+            font-size: 12px;
+            transition: all 0.2s;
+        }
+
+        .view-btn:hover {
+            background: var(--toggle-border);
+            color: var(--main-text-color);
+        }
+
+        .view-btn.active {
+            background: var(--toggle-btn-active-bg);
+            color: var(--toggle-btn-active-color);
+        }
+
+        .search-info {
+            font-size: 10px;
+            color: var(--secondary-text-color);
+            max-width: 300px;
+        }
+
+        .main {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 20px;
+            flex: 1;
+        }
+
+        .loading, .no-results {
+            text-align: center;
+            padding: 50px;
+            color: var(--secondary-text-color);
+            font-size: 14px;
+        }
+
+        /* List View */
+        .list-view {
+            background: var(--list-bg);
+            border: 1px solid var(--list-border);
+            border-radius: 4px;
+            overflow: hidden;
+            transition: background 0.3s, border-color 0.3s;
+        }
+
+        .list-header {
+            display: grid;
+            grid-template-columns: 50px 1fr 2fr 80px 120px 40px;
+            background: var(--header-bg);
+            border-bottom: 1px solid var(--header-border);
+            padding: 12px 10px;
+            font-size: 12px;
+            color: var(--secondary-text-color);
+            font-weight: 700;
+        }
+
+        .list-row {
+            display: grid;
+            grid-template-columns: 50px 1fr 2fr 80px 120px 40px;
+            padding: 12px 10px;
+            border-bottom: 1px solid var(--list-border);
+            cursor: pointer;
+            transition: background 0.2s;
+            align-items: center;
+            font-size: 14px;
+        }
+
+        .list-row:hover {
+            background: var(--toggle-bg);
+        }
+
+        .list-row:last-child {
+            border-bottom: none;
+        }
+
+        .title-cell {
+            cursor: pointer;
+            color: var(--main-text-color);
+            font-family: 'Pretendard', sans-serif;
+            text-align: left;
+        }
+
+        .title-cell:hover {
+            color: var(--link-color);
+        }
+
+        .channel-cell {
+            color: var(--secondary-text-color);
+            font-size: 12px;
+        }
+
+        .duration-cell, .date-cell {
+            color: var(--secondary-text-color);
+            font-size: 12px;
+        }
+
+        .link-cell {
+            text-align: center;
+        }
+
+        .youtube-icon {
+            color: var(--secondary-text-color);
+            cursor: pointer;
+            font-size: 20px;
+            transition: color 0.2s;
+        }
+
+        .youtube-icon:hover {
+            color: #ff0000;
+        }
+
+        /* Card View */
+        .card-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+            gap: 20px;
+        }
+
+        .card {
+            background: var(--card-bg);
+            border: 1px solid var(--card-border);
+            border-radius: 4px;
+            overflow: hidden;
+            cursor: pointer;
+            transition: all 0.2s;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.05);
+        }
+
+        .card:hover {
+            border-color: var(--link-color);
+            transform: translateY(-2px);
+        }
+
+        .card-thumbnail {
+            width: 100%;
+            height: 180px;
+            background: var(--list-bg);
+            position: relative;
+            overflow: hidden;
+        }
+
+        .card-thumbnail img {
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+        }
+
+        .card-duration {
+            position: absolute;
+            bottom: 5px;
+            right: 5px;
+            background: rgba(0,0,0,0.7);
+            color: #fff;
+            padding: 2px 6px;
+            font-size: 10px;
+            border-radius: 2px;
+        }
+
+        .card-content {
+            padding: 15px;
+        }
+
+        .card-title {
+            color: var(--main-text-color);
+            font-family: 'Pretendard', sans-serif;
+            font-size: 16px;
+            margin-bottom: 8px;
+            line-height: 1.4;
+            font-weight: 700;
+        }
+
+        .card-meta {
+            color: var(--secondary-text-color);
+            font-size: 12px;
+        }
+
+        /* Modal */
+        .modal {
+            display: none;
+            position: fixed;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            background: rgba(0,0,0,0.8);
+            z-index: 2000;
+            overflow-y: auto;
+        }
+
+        .modal-content {
+            max-width: 600px;
+            margin: 50px auto;
+            background: var(--card-bg);
+            border: 1px solid var(--card-border);
+            border-radius: 4px;
+            position: relative;
+            transition: background 0.3s, border-color 0.3s;
+        }
+
+        .modal-close {
+            position: absolute;
+            top: 10px;
+            right: 15px;
+            background: none;
+            border: none;
+            color: var(--secondary-text-color);
+            font-size: 24px;
+            cursor: pointer;
+        }
+
+        .modal-close:hover {
+            color: var(--main-text-color);
+        }
+
+        .modal-thumbnail {
+            width: 100%;
+            height: 300px;
+            background: var(--list-bg);
+            overflow: hidden;
+        }
+
+        .modal-thumbnail img {
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+        }
+
+        .modal-body {
+            padding: 20px;
+        }
+
+        .modal-title {
+            color: var(--title-color);
+            font-family: 'Pretendard', sans-serif;
+            font-size: 20px;
+            margin-bottom: 10px;
+            line-height: 1.4;
+            font-weight: 700;
+        }
+
+        .modal-meta {
+            color: var(--secondary-text-color);
+            font-size: 14px;
+            margin-bottom: 15px;
+        }
+
+        .modal-description {
+            color: var(--secondary-text-color);
+            font-size: 14px;
+            line-height: 1.6;
+            margin-bottom: 15px;
+            white-space: pre-wrap;
+        }
+
+        .modal-tags {
+            margin-bottom: 15px;
+        }
+
+        .tag {
+            display: inline-block;
+            background: var(--toggle-bg);
+            color: var(--secondary-text-color);
+            padding: 2px 8px;
+            margin: 2px;
+            font-size: 11px;
+            border-radius: 20px;
+        }
+
+        .modal-link {
+            display: inline-block;
+            background: var(--ytb-color);
+            color: #FFFFFF;
+            padding: 10px 20px;
+            text-decoration: none;
+            font-size: 14px;
+            border-radius: 4px;
+            transition: background 0.2s;
+        }
+
+        .modal-link:hover {
+            background: #cc0033;
+        }
+
+        .status-bar {
+            background: var(--header-bg);
+            border-bottom: 1px solid var(--header-border);
+            padding: 8px 20px;
+            font-size: 12px;
+            color: var(--secondary-text-color);
+            transition: background 0.3s, border-color 0.3s;
+        }
+
+        .live-badge, .upcoming-badge {
+            display: inline-block;
+            padding: 2px 6px;
+            font-size: 9px;
+            border-radius: 2px;
+            text-transform: uppercase;
+            font-weight: bold;
+        }
+
+        .live-badge {
+            background: #ff0000;
+            color: #fff;
+        }
+
+        .upcoming-badge {
+            background: #666;
+            color: #fff;
+        }
+
+        /* Footer */
+        .footer {
+            background: var(--header-bg);
+            border-top: 1px solid var(--header-border);
+            padding: 20px;
+            margin-top: 40px;
+            text-align: center;
+            font-size: 12px;
+            color: var(--secondary-text-color);
+            transition: background 0.3s, border-color 0.3s, color 0.3s;
+        }
+
+        .footer-content {
+            max-width: 1200px;
+            margin: 0 auto;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            flex-wrap: wrap;
+            gap: 10px;
+        }
+
+        .footer-link {
+            color: var(--secondary-text-color);
+            text-decoration: none;
+            transition: color 0.2s;
+        }
+
+        .footer-link:hover {
+            color: var(--main-text-color);
+        }
+
+        @media (max-width: 768px) {
+            .header-content {
+                flex-direction: column;
+                align-items: stretch;
+            }
+
+            .controls {
+                justify-content: space-between;
+            }
+
+            .list-header, .list-row {
+                grid-template-columns: 30px 1fr 60px 30px;
+                font-size: 10px;
+            }
+
+            .channel-cell, .date-cell {
+                display: none;
+            }
+
+            .card-grid {
+                grid-template-columns: 1fr;
+            }
+
+            .main {
+                padding: 10px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <div class="header-content">
+            <div class="title">유튜브 뉴스 모음</div>
+            <div class="controls">
+                <input type="date" class="date-input" id="dateInput">
+                <input type="text" class="search-input" id="searchInput" placeholder='Search... ("exact", OR, AND, -, *, ())'>
+                <div class="view-toggle">
+                    <button class="view-btn active" data-view="list">LIST</button>
+                    <button class="view-btn" data-view="card">CARD</button>
+                </div>
+                <button id="darkModeToggle" class="dark-mode-toggle">DARK</button> <!-- TODO: button/icon search -->
+            </div>
+        </div>
+    </div>
+
+    <div class="status-bar">
+        <span id="statusText">Ready</span>
+    </div>
+
+    <div class="main">
+        <div id="content" class="loading">Loading...</div>
+    </div>
+
+    <div class="modal" id="modal">
+        <div class="modal-content">
+            <button class="modal-close" onclick="closeModal()">×</button>
+            <div class="modal-thumbnail">
+                <img id="modalThumbnail" alt="">
+            </div>
+            <div class="modal-body">
+                <div class="modal-title" id="modalTitle"></div>
+                <div class="modal-meta" id="modalMeta"></div>
+                <div class="modal-description" id="modalDescription"></div>
+                <div class="modal-tags" id="modalTags"></div>
+                <a class="modal-link" id="modalLink" target="_blank">Watch on YouTube</a>
+            </div>
+        </div>
+    </div>
+    
+    <footer class="footer">
+        <div class="footer-content">
+            <p>&copy; 2025 유튜브 뉴스 모음. All rights reserved.</p>
+        </div>
+    </footer>
+
+    <script>
+        let currentData = [];
+        let filteredData = [];
+        let currentView = 'list';
+        
+        // Initialize
+        document.addEventListener('DOMContentLoaded', function() {
+            const today = new Date().toISOString().split('T')[0];
+            document.getElementById('dateInput').value = today;
+            
+            loadData();
+
+            // Dark Mode Initialization
+            const userPrefersDark = window.matchMedia('(prefers-color-scheme: dark)').matches;
+            const savedTheme = localStorage.getItem('theme');
+            if (savedTheme === 'dark' || (!savedTheme && userPrefersDark)) {
+                document.documentElement.setAttribute('data-theme', 'dark');
+            } else {
+                document.documentElement.removeAttribute('data-theme');
+            }
+
+            // Event listeners
+            document.getElementById('dateInput').addEventListener('change', loadData);
+            document.getElementById('searchInput').addEventListener('keyup', function(e) {
+                if (e.key === 'Enter') {
+                    handleSearch();
+                }
+            });
+            
+            document.querySelectorAll('.view-btn').forEach(btn => {
+                btn.addEventListener('click', function() {
+                    document.querySelectorAll('.view-btn').forEach(b => b.classList.remove('active'));
+                    this.classList.add('active');
+                    currentView = this.dataset.view;
+                    renderData();
+                });
+            });
+
+            // Dark Mode Toggle Listener
+            document.getElementById('darkModeToggle').addEventListener('click', function() {
+                const currentTheme = document.documentElement.getAttribute('data-theme');
+                if (currentTheme === 'dark') {
+                    document.documentElement.removeAttribute('data-theme');
+                    localStorage.setItem('theme', 'light');
+                } else {
+                    document.documentElement.setAttribute('data-theme', 'dark');
+                    localStorage.setItem('theme', 'dark');
+                }
+                updateToggleButton();
+            });
+            updateToggleButton();
+        });
+
+        async function loadData() {
+            const dateInput = document.getElementById('dateInput');
+            const date = new Date(dateInput.value + 'T00:00:00');
+            const year = date.getFullYear();
+            const month = String(date.getMonth() + 1).padStart(2, '0');
+            const day = String(date.getDate()).padStart(2, '0');
+            const dataPath = `assets/data/${year}/${month}/${day}.json`;
+            
+            updateStatus(`Loading data for ${year}-${month}-${day}...`);
+            
+            try {
+                const response = await fetch(dataPath);
+                if (!response.ok) {
+                    throw new Error(`HTTP ${response.status}: ${response.statusText}`);
+                }
+                
+                const data = await response.json();
+                currentData = Object.values(data.videos).sort((a, b) => 
+                    new Date(b.actualPubAt) - new Date(a.actualPubAt)
+                );
+                filteredData = [...currentData];
+                
+                updateStatus(`Loaded ${currentData.length} items`);
+                renderData();
+            } catch (error) {
+                console.error('Error loading data:', error);
+                updateStatus(`Error: ${error.message}`);
+                document.getElementById('content').innerHTML = `
+                    <div class="no-results">
+                        <p>Failed to load data for selected date</p>
+                        <p style="font-size: 11px; color: var(--secondary-text-color); margin-top: 10px;">${error.message}</p>
+                    </div>
+                `;
+            } finally {
+                if (document.getElementById('searchInput').value.length) {
+                    handleSearch();
+                }
+            }
+        }
+
+        function handleSearch() {
+            const query = document.getElementById('searchInput').value.trim();
+            if (!query) {
+                filteredData = [...currentData];
+            } else {
+                filteredData = currentData.filter(item => matchesSearchQuery(item, query));
+            }
+            updateStatus(`${filteredData.length} of ${currentData.length} items`);
+            renderData();
+        }
+
+        function matchesSearchQuery(item, query) {
+            const searchText = `${item.title} ${item.description} ${item.channelName} ${(item.tags || []).join(' ')}`.toLowerCase();
+            try {
+                // Parse and evaluate the search query
+                return evaluateSearchExpression(searchText, query.toLowerCase());
+            } catch (error) {
+                // Fallback to simple search
+                return searchText.includes(query.toLowerCase());
+            }
+        }
+
+        function evaluateSearchExpression(text, expression) {
+            // Replace operators
+            expression = expression
+                .replace(/\s+and\s+/gi, ' & ')
+                .replace(/\s+or\s+/gi, ' | ')
+                .replace(/\s*\|\s*/g, ' | ')
+                .replace(/\s*&\s*/g, ' & ')
+                .replace(/\s+/g, ' & '); // Default AND for spaces
+
+            // Handle quoted strings
+            const quotedMatches = expression.match(/"([^"]*)"/g) || [];
+            const quotedReplacements = {};
+            
+            quotedMatches.forEach((match, i) => {
+                const key = `__QUOTED_${i}__`;
+                quotedReplacements[key] = match.slice(1, -1);
+                expression = expression.replace(match, key);
+            });
+
+            // Handle negation
+            expression = expression.replace(/-(\S+)/g, '!$1');
+
+            // Handle wildcards (simple implementation)
+            expression = expression.replace(/(\S*)\*(\S*)/g, (match, prefix, suffix) => {
+                return `WILDCARD_${prefix}_${suffix}`;
+            });
+
+            // Tokenize and evaluate
+            const tokens = tokenizeExpression(expression);
+            return evaluateTokens(tokens, text, quotedReplacements);
+        }
+
+        function tokenizeExpression(expr) {
+            const tokens = [];
+            const regex = /(\(|\)|&|\||!|[^\s()&|!]+)/g;
+            let match;
+            
+            while ((match = regex.exec(expr)) !== null) {
+                tokens.push(match[1]);
+            }
+            
+            return tokens;
+        }
+
+        function evaluateTokens(tokens, text, quotedReplacements) {
+            if (tokens.length === 0) return true;
+            if (tokens.length === 1) return evaluateTerm(tokens[0], text, quotedReplacements);
+
+            // Simple precedence: handle parentheses, then AND, then OR
+            return evaluateExpression(tokens, text, quotedReplacements);
+        }
+
+        function evaluateExpression(tokens, text, quotedReplacements) {
+            // Handle parentheses first
+            while (tokens.includes('(')) {
+                const start = tokens.lastIndexOf('(');
+                let end = start;
+                let depth = 1;
+                
+                for (let i = start + 1; i < tokens.length && depth > 0; i++) {
+                    if (tokens[i] === '(') depth++;
+                    if (tokens[i] === ')') depth--;
+                    if (depth === 0) end = i;
+                }
+                
+                const subTokens = tokens.slice(start + 1, end);
+                const result = evaluateExpression(subTokens, text, quotedReplacements);
+                tokens.splice(start, end - start + 1, result);
+            }
+
+            // Handle NOT
+            for (let i = 0; i < tokens.length; i++) {
+                if (tokens[i] === '!' && i + 1 < tokens.length) {
+                    const result = !evaluateTerm(tokens[i + 1], text, quotedReplacements);
+                    tokens.splice(i, 2, result);
+                    i--;
+                }
+            }
+
+            // Handle AND
+            for (let i = 1; i < tokens.length - 1; i += 2) {
+                if (tokens[i] === '&') {
+                    const left = typeof tokens[i - 1] === 'boolean' ? tokens[i - 1] : evaluateTerm(tokens[i - 1], text, quotedReplacements);
+                    const right = typeof tokens[i + 1] === 'boolean' ? tokens[i + 1] : evaluateTerm(tokens[i + 1], text, quotedReplacements);
+                    tokens.splice(i - 1, 3, left && right);
+                    i -= 2;
+                }
+            }
+
+            // Handle OR
+            for (let i = 1; i < tokens.length - 1; i += 2) {
+                if (tokens[i] === '|') {
+                    const left = typeof tokens[i - 1] === 'boolean' ? tokens[i - 1] : evaluateTerm(tokens[i - 1], text, quotedReplacements);
+                    const right = typeof tokens[i + 1] === 'boolean' ? tokens[i + 1] : evaluateTerm(tokens[i + 1], text, quotedReplacements);
+                    tokens.splice(i - 1, 3, left || right);
+                    i -= 2;
+                }
+            }
+
+            return tokens.length === 1 ? (typeof tokens[0] === 'boolean' ? tokens[0] : evaluateTerm(tokens[0], text, quotedReplacements)) : true;
+        }
+
+        function evaluateTerm(term, text, quotedReplacements) {
+            if (typeof term === 'boolean') return term;
+            
+            // Handle quoted replacements
+            if (quotedReplacements[term]) {
+                return text.includes(quotedReplacements[term]);
+            }
+
+            // Handle wildcards
+            if (term.startsWith('WILDCARD_')) {
+                const parts = term.substring(9).split('_');
+                const prefix = parts[0] || '';
+                const suffix = parts[1] || '';
+                const regex = new RegExp(`${prefix}[^\\s]*${suffix}`, 'i');
+                return regex.test(text);
+            }
+
+            return text.includes(term);
+        }
+
+        function renderData() {
+            const content = document.getElementById('content');
+            
+            if (filteredData.length === 0) {
+                content.innerHTML = '<div class="no-results">No results found</div>';
+                return;
+            }
+
+            if (currentView === 'list') {
+                renderListView(content);
+            } else {
+                renderCardView(content);
+            }
+        }
+
+        function renderListView(container) {
+            let html = `
+                <div class="list-view">
+                    <div class="list-header">
+                        <div>No.</div>
+                        <div>채널</div>
+                        <div>제목</div>
+                        <div>재생시간</div>
+                        <div>날짜</div>
+                        <div>링크</div>
+                    </div>
+            `;
+            filteredData.forEach((item, index) => {
+                const duration = formatDuration(item.duration, item.liveBroadcastContent);
+                const actualPubAt = formatDate(item.actualPubAt); 
+                html += `
+                    <div class="list-row" onclick="showModal('${item.videoId}')">
+                        <div>${index + 1}</div>
+                        <div class="channel-cell">${escapeHtml(item.channelName)}</div>
+                        <div class="title-cell">${escapeHtml(item.title)}</div>
+                        <div class="duration-cell">${duration}</div>
+                        <div class="date-cell">${actualPubAt}</div>
+                        <div class="link-cell">
+                            <span class="youtube-icon" onclick="event.stopPropagation(); window.open('https://www.youtube.com/watch?v=${item.videoId}', '_blank')">
+                                <img src="assets/images/ytb.svg" width=20px />
+                            </span>
+                        </div>
+                    </div>
+                `;
+            });
+            html += '</div>';
+            container.innerHTML = html;
+        }
+
+        function renderCardView(container) {
+            let html = '<div class="card-grid">';
+
+            filteredData.forEach(item => {
+                const duration = formatDuration(item.duration, item.liveBroadcastContent);
+                const actualPubAt = formatDate(item.actualPubAt);
+                const thumbnail = `https://i.ytimg.com/vi/${item.videoId}/mqdefault.jpg`; 
+                html += `
+                    <div class="card" onclick="showModal('${item.videoId}')">
+                        <div class="card-thumbnail">
+                            <img src="${thumbnail}" alt="" loading="lazy">
+                            <div class="card-duration">${duration}</div>
+                        </div>
+                        <div class="card-content">
+                            <div class="card-title">${escapeHtml(item.title)}</div>
+                            <div class="card-meta">${escapeHtml(item.channelName)} • ${actualPubAt}</div>
+                        </div>
+                    </div>
+                `;
+            });
+            html += '</div>';
+            container.innerHTML = html;
+        }
+
+        function showModal(videoId) {
+            const item = currentData.find(v => v.videoId === videoId);
+            if (!item) return;
+
+            const modal = document.getElementById('modal');
+            const thumbnail = `https://i.ytimg.com/vi/${item.videoId}/maxresdefault.jpg`;
+            
+            document.getElementById('modalThumbnail').src = thumbnail;
+            document.getElementById('modalTitle').textContent = item.title;
+            document.getElementById('modalMeta').textContent = `${item.channelName} • ${formatDate(item.actualPubAt || item.publishedAt)}`;
+            document.getElementById('modalDescription').textContent = item.description || 'No description available';
+            document.getElementById('modalLink').href = `https://www.youtube.com/watch?v=${item.videoId}`;
+            
+            // Tags
+            const tagsContainer = document.getElementById('modalTags');
+            if (item.tags && item.tags.length > 0) {
+                tagsContainer.innerHTML = item.tags.map(tag => `<span class="tag">${escapeHtml(tag)}</span>`).join('');
+            } else {
+                tagsContainer.innerHTML = '';
+            }
+
+            modal.style.display = 'block';
+            document.body.style.overflow = 'hidden';
+        }
+
+        function closeModal() {
+            document.getElementById('modal').style.display = 'none';
+            document.body.style.overflow = 'auto';
+        }
+
+        function formatDuration(duration, liveBroadcastContent) {
+            if (liveBroadcastContent && liveBroadcastContent !== 'none') {
+                if (liveBroadcastContent === 'live') {
+                    return '<span class="live-badge">LIVE</span>';
+                } else if (liveBroadcastContent === 'upcoming') {
+                    return '<span class="upcoming-badge">UPCOMING</span>';
+                }
+            }
+
+            if (!duration || duration === 'P0D') return '--';
+            
+            const match = duration.match(/PT(?:(\d+)H)?(?:(\d+)M)?(?:(\d+)S)?/);
+            if (!match) return '--';
+            
+            const hours = parseInt(match[1] || 0);
+            const minutes = parseInt(match[2] || 0);
+            const seconds = parseInt(match[3] || 0);
+            
+            if (hours > 0) {
+                return `${hours}:${minutes.toString().padStart(2, '0')}:${seconds.toString().padStart(2, '0')}`;
+            }
+            return `${minutes}:${seconds.toString().padStart(2, '0')}`;
+        }
+
+        function formatDate(dateString) {
+            if (!dateString) return '--';
+            const date = new Date(dateString);
+            const year = date.getFullYear();
+            const month = String(date.getMonth() + 1).padStart(2, '0');
+            const day = String(date.getDate()).padStart(2, '0');
+            const formattedTime = date.toLocaleTimeString('ko-KR', {
+                hour: '2-digit',
+                minute: '2-digit',
+                hour12: false,
+                timeZone: 'Asia/Seoul'
+            });            
+            return `${year}-${month}-${day} ${formattedTime}`;
+        }
+
+        function updateStatus(message) {
+            document.getElementById('statusText').textContent = message;
+        }
+
+        function escapeHtml(text) {
+            const div = document.createElement('div');
+            div.textContent = text;
+            return div.innerHTML;
+        }
+
+        function updateToggleButton() {
+            const toggleButton = document.getElementById('darkModeToggle');
+            const currentTheme = document.documentElement.getAttribute('data-theme');
+            toggleButton.textContent = currentTheme === 'dark' ? 'LIGHT' : 'DARK';
+        }
+
+        // Close modal when clicking outside
+        document.getElementById('modal').addEventListener('click', function(e) {
+            if (e.target === this) {
+                closeModal();
+            }
+        });
+
+        // Close modal with Escape key
+        document.addEventListener('keydown', function(e) {
+            if (e.key === 'Escape' && document.getElementById('modal').style.display === 'block') {
+                closeModal();
+            }
+        });
+    </script>
+</body>
+</html>
