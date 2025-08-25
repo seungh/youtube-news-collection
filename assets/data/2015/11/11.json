@@ -585,6 +585,73 @@
       "channelId": "UC4Aa3OPkMenwTANpf0oWVRQ",
       "channelName": "CBS 김현정의 뉴스쇼",
       "collectedAt": "2025-08-22T14:03:18Z"
+    },
+    "EY2NVw8cRss": {
+      "videoId": "EY2NVw8cRss",
+      "title": "[밀착카메라] 몸살 앓았던 평택, 아직 '메르스 그림자'",
+      "description": "방송사 : JTBC http://www.jtbc.co.kr\n▶ JTBC 뉴스룸 월~일 20시00분 방송\n▶ 홈페이지 : http://news.jtbc.co.kr\n▶ 공식 트위터 : https://twitter.com/JTBC_news\n▶ 공식 페이스북 : https://www.facebook.com/jtbcnews\n\n최근에 건대에서 집단 폐렴이 발생하면서 교직원과 학생은 물론 인근 주민들까지도 불안감이 커졌지요. 메르스 사태로 크게 놀란 뒤라 더 걱정을 했다는 얘기도 나옵니다. 온 나라를 공포에 몰아넣었던 메르스 사태는 이제 옛날얘기처럼 됐는데요. 경기도 평택이나 구리처럼 메르스가 기승을 부렸던 곳은 지금 어떤 모습일까요.\n\n박소연 기자가 현장을 다녀왔습니다.",
+      "publishedAt": "2015-11-11T14:31:07Z",
+      "duration": "PT4M43S",
+      "viewCount": 805,
+      "likeCount": 12,
+      "commentCount": 2,
+      "tags": [
+        "JTBC",
+        "JTBC NEWS",
+        "JTBC 뉴스",
+        "뉴스룸",
+        "뉴스9",
+        "손석희",
+        "손석희 뉴스",
+        "밀착카메라",
+        "메르스",
+        "건국대 집단 감염",
+        "건국대",
+        "평택",
+        "MERS",
+        "밀착"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2015-11-11T14:31:07Z",
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "collectedAt": "2025-08-25T21:08:18Z"
+    },
+    "36BEZPHpEfE": {
+      "videoId": "36BEZPHpEfE",
+      "title": "[팩트체크] 11월 11일 '보행자의 날'…횡단보도 사고 오해와 진실",
+      "description": "방송사 : JTBC http://www.jtbc.co.kr\n▶ JTBC 뉴스룸 월~일 20시00분 방송\n▶ 홈페이지 : http://news.jtbc.co.kr\n▶ 공식 트위터 : https://twitter.com/JTBC_news\n▶ 공식 페이스북 : https://www.facebook.com/jtbcnews\n\n팩트체크 시간입니다. 두 가지 퀴즈를 내드리면서 시작을 하겠습니다. 오늘은 11월 11일이니까 빼빼로데이죠. 얘기할 때마다 특정 과자 상품을 선전하는 느낌이 들어서 찜찜하기는 합니다. 아무튼 그런데 또 다른 날이 있습니다. 무슨 날일까요. 그리고 두 번째 퀴즈는 보행자 신호등 녹색등이 깜빡깜빡할 때 건너가다가 사고가 나면 누구 책임일까요 하는 문제입니다. 이게 연관이 되어 있는 문제들인데요. \n\n물론 맞히신다고 해서 제가 상품을 드릴 수는 없습니다만, 김필규 기자가 지금부터 답을 좀 알려드리겠습니다. 오늘은 또 무슨 날이죠?",
+      "publishedAt": "2015-11-11T14:29:59Z",
+      "duration": "PT7M36S",
+      "viewCount": 6718,
+      "likeCount": 29,
+      "commentCount": 5,
+      "tags": [
+        "JTBC",
+        "JTBC NEWS",
+        "JTBC 뉴스",
+        "뉴스룸",
+        "뉴스9",
+        "손석희",
+        "손석희 뉴스",
+        "11월 11일",
+        "보행자의 날",
+        "횡단보도",
+        "횡단보도 사고",
+        "교통사고",
+        "보행자 우선",
+        "보행자",
+        "신호등",
+        "김필규",
+        "팩트체크"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2015-11-11T14:29:59Z",
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "collectedAt": "2025-08-25T21:08:18Z"
     }
   },
   "channels": {
@@ -722,9 +789,36 @@
       "viewCount": 1280577570,
       "videoCount": 19124,
       "lastUpdated": "2025-08-24T21:54:50.939102Z"
+    },
+    "UCsU-I-vHLiaMfV_ceaYz5rQ": {
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "channelUrl": "@jtbc_news",
+      "channelDescription": "진실에 닿을 때까지 멈추지 않는 질문, JTBC News\nWelcome to the official JTBC News Channel.\n\n▶ https://news.jtbc.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 4670000,
+      "viewCount": 14817048106,
+      "videoCount": 261473,
+      "lastUpdated": "2025-08-25T21:08:18.539053Z"
     }
   },
-  "lastUpdated": "2025-08-24T21:54:50.940100Z",
-  "totalVideos": 23,
-  "totalChannels": 5
+  "lastUpdated": "2025-08-25T21:08:18.540052Z",
+  "totalVideos": 25,
+  "totalChannels": 6
 }

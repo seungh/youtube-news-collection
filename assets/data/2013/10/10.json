@@ -326,6 +326,89 @@
       "channelId": "UC4Aa3OPkMenwTANpf0oWVRQ",
       "channelName": "CBS 김현정의 뉴스쇼",
       "collectedAt": "2025-08-22T14:03:35Z"
+    },
+    "o9Ltc__SDZ0": {
+      "videoId": "o9Ltc__SDZ0",
+      "title": "[단독] 동양그룹 실세들, 내분·책임전가...\"진흙탕 싸움\"",
+      "description": "대기업에 문제가 생기면 꼭 나타나는 인물들이 있습니다. 이른바 숨겨진 실세들이지요. SK의 김원홍씨가 그랬고 이번에 무너진 동양그룹의 경우는 동양네트워크에 김철 대표입니다. 계열사 자산 매각을 지연시키며 이번 위기를 야기한 인물로 지목되고 있는데요. 그런데 이 그룹내에는 또다른 실세로 알려진 인물이 있습니다. 위문희 기자가 단독으로 인터뷰를 했는데 그는 그룹이 이미 5년전에 다 망가져서 어느 한 사람에게 책임을 지울 수는 없다고 주장하고 있습니다. 이름은 본인이 원치 않아 밝히지 않겠습니다.",
+      "publishedAt": "2013-10-10T01:52:05Z",
+      "duration": "PT2M20S",
+      "viewCount": 1621,
+      "likeCount": 5,
+      "commentCount": 0,
+      "tags": [
+        "JTBC",
+        "JTBC NEWS",
+        "JTBC NEWS9",
+        "뉴스9",
+        "뉴스나인",
+        "손석희",
+        "동양그룹",
+        "동양",
+        "김철",
+        "동양네트워크",
+        "동양그룹 사태"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2013-10-10T01:52:05Z",
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "collectedAt": "2025-08-25T21:08:24Z"
+    },
+    "cZNRyR1prrI": {
+      "videoId": "cZNRyR1prrI",
+      "title": "[단독] 발암물질 검출된 가정용품 시중에 버젓이 판매",
+      "description": "냉장고나 차안에서 냄새를 제거해주는 탈취제, 많이들 사용하시죠. 그런데 정부 조사 결과 일부 탈취제에서 기준치의 7배가 넘는 발암물질이 검출됐습니다. 단독보도입니다.",
+      "publishedAt": "2013-10-10T02:28:38Z",
+      "duration": "PT1M28S",
+      "viewCount": 497,
+      "likeCount": 2,
+      "commentCount": 0,
+      "tags": [
+        "JTBC",
+        "JTBC NEWS",
+        "JTBC NEWS9",
+        "뉴스나인",
+        "뉴스9",
+        "손석희",
+        "탈취제",
+        "발암물질"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2013-10-10T02:28:38Z",
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "collectedAt": "2025-08-25T21:08:24Z"
+    },
+    "CB5KoIJv5yk": {
+      "videoId": "CB5KoIJv5yk",
+      "title": "[단독] 안심 못 할 학교 급식, 농약초과 농산물 수두룩",
+      "description": "학교 급식에 쓰는 농산물에서 농약이 기준치보다 많게는 150배 넘게 나왔습니다. 정부가 해마다 조사는 하는데 말그대로 조사만 하지 아무런 조치도 취하지 않는게 더 문제입니다. 단독보도입니다.",
+      "publishedAt": "2013-10-10T02:25:45Z",
+      "duration": "PT1M35S",
+      "viewCount": 1388,
+      "likeCount": 3,
+      "commentCount": 0,
+      "tags": [
+        "JTBC",
+        "JTBC NEWS",
+        "JTBC NEWS9",
+        "뉴스9",
+        "뉴스나인",
+        "손석희",
+        "JTBC 단독",
+        "학교 급식",
+        "농약",
+        "농산물"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2013-10-10T02:25:45Z",
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "collectedAt": "2025-08-25T21:08:24Z"
     }
   },
   "channels": {
@@ -382,9 +465,36 @@
       "viewCount": 1280577570,
       "videoCount": 19124,
       "lastUpdated": "2025-08-24T21:55:13.019027Z"
+    },
+    "UCsU-I-vHLiaMfV_ceaYz5rQ": {
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "channelUrl": "@jtbc_news",
+      "channelDescription": "진실에 닿을 때까지 멈추지 않는 질문, JTBC News\nWelcome to the official JTBC News Channel.\n\n▶ https://news.jtbc.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 4670000,
+      "viewCount": 14817048106,
+      "videoCount": 261473,
+      "lastUpdated": "2025-08-25T21:08:24.897167Z"
     }
   },
-  "lastUpdated": "2025-08-24T21:55:13.020023Z",
-  "totalVideos": 9,
-  "totalChannels": 2
+  "lastUpdated": "2025-08-25T21:08:24.897167Z",
+  "totalVideos": 12,
+  "totalChannels": 3
 }

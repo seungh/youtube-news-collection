@@ -198,6 +198,62 @@
       "channelId": "UC4Aa3OPkMenwTANpf0oWVRQ",
       "channelName": "CBS 김현정의 뉴스쇼",
       "collectedAt": "2025-08-22T14:03:28Z"
+    },
+    "QVXOi1mNqIQ": {
+      "videoId": "QVXOi1mNqIQ",
+      "title": "[단독] 소방관, 소방서장들 기사 노릇까지…현장 포착",
+      "description": "방송사 : JTBC http://www.jtbc.co.kr \n▶ JTBC 뉴스룸 월~일 20시00분 방송 \n▶ 홈페이지 : http://news.jtbc.co.kr \n▶ 공식 트위터 : https://twitter.com/JTBC_news \n▶ 공식 페이스북 : https://www.facebook.com/jtbcnews \n\n우리나라 소방관들… 참 딱할 때가 많지요. 이미 몇차례 보도해드린 것처럼 소방장비가 너무 열악해서 심지어는 방화장갑 대신 고무장갑을 자비로 사서 쓰는 경우도 있었습니다. 그래서 지방직이 아닌 국가직으로 해달라고 시위까지 했습니다. 그런데 불 끄고 인명을 구해야 할 소방관들이 소방서장의 운전기사 역할까지 해야 한다는 사실… 알고 계셨는지요?\n\n김지아 기자가 단독으로 취재했는데, 소방관들이 안쓰럽기까지 합니다.",
+      "publishedAt": "2014-10-07T13:54:12Z",
+      "duration": "PT2M25S",
+      "viewCount": 17311,
+      "likeCount": 48,
+      "commentCount": 30,
+      "tags": [
+        "JTBC",
+        "JTBC NEWS",
+        "JTBC 뉴스",
+        "손석희",
+        "뉴스룸",
+        "JTBC 단독",
+        "소방관",
+        "소방관 처우 개선"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2014-10-07T13:54:12Z",
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "collectedAt": "2025-08-25T21:08:23Z"
+    },
+    "j4PyHkZ9OJ4": {
+      "videoId": "j4PyHkZ9OJ4",
+      "title": "[팩트체크] 커지는 '치약 공포증'…발암물질 논란, 진실은?",
+      "description": "방송사 : JTBC http://www.jtbc.co.kr \n▶ JTBC 뉴스룸 월~일 20시00분 방송 \n▶ 홈페이지 : http://news.jtbc.co.kr \n▶ 공식 트위터 : https://twitter.com/JTBC_news \n▶ 공식 페이스북 : https://www.facebook.com/jtbcnews \n\n오늘(7일)부터 시작된 국정감사에서도 논란이 됐습니다. 치약의 일부 성분이 암을 유발한다, 그런데 식약처에서는 \"아무 문제 없다\" 이렇게 서로 맞서고 있는 상황, 논란이 계속 증폭되고 있는데요. \n\n김필규 기자와 함께 팩트체크로 다뤄보도록 하겠습니다. 김필규 기자, 굉장히 많이 관심들이 있으신 부분입니다. 논란의 내용부터 짚어볼까요?",
+      "publishedAt": "2014-10-07T13:48:53Z",
+      "duration": "PT9M31S",
+      "viewCount": 86183,
+      "likeCount": 337,
+      "commentCount": 26,
+      "tags": [
+        "JTBC",
+        "JTBC NEWS",
+        "JTBC 뉴스",
+        "손석희",
+        "뉴스룸",
+        "뉴스9",
+        "팩트체크",
+        "김필규",
+        "치약",
+        "파라벤",
+        "트리클로산",
+        "발암물질"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2014-10-07T13:48:53Z",
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "collectedAt": "2025-08-25T21:08:23Z"
     }
   },
   "channels": {
@@ -254,9 +310,36 @@
       "viewCount": 1280577570,
       "videoCount": 19124,
       "lastUpdated": "2025-08-24T21:55:00.789077Z"
+    },
+    "UCsU-I-vHLiaMfV_ceaYz5rQ": {
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "channelUrl": "@jtbc_news",
+      "channelDescription": "진실에 닿을 때까지 멈추지 않는 질문, JTBC News\nWelcome to the official JTBC News Channel.\n\n▶ https://news.jtbc.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 4670000,
+      "viewCount": 14817048106,
+      "videoCount": 261473,
+      "lastUpdated": "2025-08-25T21:08:23.278153Z"
     }
   },
-  "lastUpdated": "2025-08-24T21:55:00.790075Z",
-  "totalVideos": 8,
-  "totalChannels": 2
+  "lastUpdated": "2025-08-25T21:08:23.279150Z",
+  "totalVideos": 10,
+  "totalChannels": 3
 }

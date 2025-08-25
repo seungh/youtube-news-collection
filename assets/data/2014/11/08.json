@@ -111,6 +111,41 @@
       "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
       "channelName": "뉴스TVCHOSUN",
       "collectedAt": "2025-08-21T10:46:15Z"
+    },
+    "OGMMWfciN4g": {
+      "videoId": "OGMMWfciN4g",
+      "title": "밤샘토론 21회 - 전작권 환수 연기, 주권 포기 vs 불가피한 선택",
+      "description": "전작권 전환 재연기.. 군사주권 포기인가,\n북핵 위협 속 불가피한 선택인가?\n\n\n이번 주 올빼미 논객은 정미경 새누리당 의원, 김진 중앙일보 논설위원, 신인균 자주국방네트워크 대표, 윤후덕 새정치민주연합 의원, 홍현익 세종연구소 수석연구위원, 김창수 코리아연구원 연구실장입니다.",
+      "publishedAt": "2014-11-08T00:28:51Z",
+      "duration": "PT3H47M28S",
+      "viewCount": 10012430,
+      "likeCount": 38329,
+      "commentCount": 8379,
+      "tags": [
+        "JTBC",
+        "밤샘토론",
+        "정미경",
+        "김진",
+        "신인균",
+        "윤후덕",
+        "홍현익",
+        "김창수",
+        "신예리",
+        "박진규",
+        "전작권 환수",
+        "새누리당",
+        "중앙일보",
+        "자주국방네트워크",
+        "새정치민주연합",
+        "세종연구소",
+        "코이라연구원"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2014-11-08T00:28:51Z",
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "collectedAt": "2025-08-25T21:08:19Z"
     }
   },
   "channels": {
@@ -140,9 +175,36 @@
       "viewCount": 4319423561,
       "videoCount": 150855,
       "lastUpdated": "2025-08-21T10:28:54.194841Z"
+    },
+    "UCsU-I-vHLiaMfV_ceaYz5rQ": {
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "channelUrl": "@jtbc_news",
+      "channelDescription": "진실에 닿을 때까지 멈추지 않는 질문, JTBC News\nWelcome to the official JTBC News Channel.\n\n▶ https://news.jtbc.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 4670000,
+      "viewCount": 14817048106,
+      "videoCount": 261473,
+      "lastUpdated": "2025-08-25T21:08:19.903427Z"
     }
   },
-  "lastUpdated": "2025-08-21T10:46:15.093675Z",
-  "totalVideos": 4,
-  "totalChannels": 1
+  "lastUpdated": "2025-08-25T21:08:19.904424Z",
+  "totalVideos": 5,
+  "totalChannels": 2
 }

@@ -378,6 +378,78 @@
       "channelId": "UC4Aa3OPkMenwTANpf0oWVRQ",
       "channelName": "CBS 김현정의 뉴스쇼",
       "collectedAt": "2025-08-22T14:03:22Z"
+    },
+    "WF16BRkyEtw": {
+      "videoId": "WF16BRkyEtw",
+      "title": "[팩트체크] 포털, 정부 '공식 댓글' 추진…문제없나?",
+      "description": "방송사 : JTBC http://www.jtbc.co.kr \n▶ JTBC 뉴스룸 월~일 20시00분 방송 \n▶ 홈페이지 : http://news.jtbc.co.kr \n▶ 공식 트위터 : https://twitter.com/JTBC_news \n▶ 공식 페이스북 : https://www.facebook.com/jtbcnews \n\n어제(22일) 뉴스룸에서 보도해드렸는데, 정부가 인터넷 포털 기사에 직접 해명 댓글을 달 수 있게 하는 방침을 두고 논란이 상당히 뜨겁습니다. 과도한 반론권 보장 아니냐, 언론자유 침해 아니냐 이런 얘기들도 나오고 있고, 또 반론권이란 것이 필요한 건데, 그걸 꼭 막을 필요가 있겠느냐는 반응도 물론 있습니다. 오늘 팩트체크에서 이 문제 짚어보겠습니다.",
+      "publishedAt": "2015-06-23T14:03:40Z",
+      "duration": "PT7M56S",
+      "viewCount": 2115,
+      "likeCount": 20,
+      "commentCount": 3,
+      "tags": [
+        "JTBC",
+        "JTBC NEWS",
+        "JTBC 뉴스",
+        "제이티비씨 뉴스",
+        "제이티비씨",
+        "손석희",
+        "손석희 뉴스",
+        "뉴스룸",
+        "팩트체크",
+        "김필규",
+        "정부 공식댓글",
+        "다음카카오",
+        "다음",
+        "다음카카오 댓글",
+        "정부 기사 반박댓글",
+        "정부 공식계정",
+        "반론권",
+        "정부 해명댓글",
+        "정부 반론권"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2015-06-23T14:03:40Z",
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "collectedAt": "2025-08-25T21:08:20Z"
+    },
+    "skIc0-_3sP4": {
+      "videoId": "skIc0-_3sP4",
+      "title": "[밀착카메라] \"좀 보태 참새만 해\"…가뭄에 '초대형 해충' 습격",
+      "description": "방송사 : JTBC http://www.jtbc.co.kr \n▶ JTBC 뉴스룸 월~일 20시00분 방송 \n▶ 홈페이지 : http://news.jtbc.co.kr \n▶ 공식 트위터 : https://twitter.com/JTBC_news \n▶ 공식 페이스북 : https://www.facebook.com/jtbcnews \n\n가뭄의 후폭풍은 숲과 나무에도 직격탄이 됐습니다. 고온건조한 날씨를 좋아하는 병해충들이 활개 치고 그 애벌레들이 초대형인 것들까지 등장했습니다. 성충이 된 나방은 좀 보태서 말하면 참새만하다고 농민들은 하소연입니다.\n\n밀착카메라 김관 기자입니다.",
+      "publishedAt": "2015-06-23T13:49:48Z",
+      "duration": "PT4M35S",
+      "viewCount": 13541,
+      "likeCount": 50,
+      "commentCount": 14,
+      "tags": [
+        "JTBC",
+        "JTBC NEWS",
+        "JTBC 뉴스",
+        "제이티비씨",
+        "손석희",
+        "손석희 뉴스",
+        "뉴스룸",
+        "밀착카메라",
+        "김관",
+        "가뭄",
+        "대가뭄",
+        "한반도 가뭄",
+        "한국 가뭄",
+        "해충",
+        "나방",
+        "병해충",
+        "밤나무 해충"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2015-06-23T13:49:48Z",
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "collectedAt": "2025-08-25T21:08:20Z"
     }
   },
   "channels": {
@@ -515,9 +587,36 @@
       "viewCount": 1280577570,
       "videoCount": 19124,
       "lastUpdated": "2025-08-24T21:54:54.437121Z"
+    },
+    "UCsU-I-vHLiaMfV_ceaYz5rQ": {
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "channelUrl": "@jtbc_news",
+      "channelDescription": "진실에 닿을 때까지 멈추지 않는 질문, JTBC News\nWelcome to the official JTBC News Channel.\n\n▶ https://news.jtbc.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 4670000,
+      "viewCount": 14817048106,
+      "videoCount": 261473,
+      "lastUpdated": "2025-08-25T21:08:20.628752Z"
     }
   },
-  "lastUpdated": "2025-08-24T21:54:54.437121Z",
-  "totalVideos": 15,
-  "totalChannels": 5
+  "lastUpdated": "2025-08-25T21:08:20.629748Z",
+  "totalVideos": 17,
+  "totalChannels": 6
 }

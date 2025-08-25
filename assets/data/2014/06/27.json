@@ -202,6 +202,35 @@
       "channelId": "UC4Aa3OPkMenwTANpf0oWVRQ",
       "channelName": "CBS 김현정의 뉴스쇼",
       "collectedAt": "2025-08-22T14:03:30Z"
+    },
+    "xxIfD4i1MCQ": {
+      "videoId": "xxIfD4i1MCQ",
+      "title": "세월호 레이더 영상 속 '주황색 물체', 이것의 정체는?",
+      "description": "방송사 : JTBC http://www.jtbc.co.kr \n▶ JTBC 뉴스9 월~금 21시00분 방송 \n▶ 홈페이지 : http://news.jtbc.co.kr \n▶ 공식 트위터 : https://twitter.com/JTBC_news \n▶ 공식 페이스북 : https://www.facebook.com/jtbcnews \n\n어제(25일) 공개해드린 진도 VTS의 세월호 레이더 영상이 파장을 일으키고 있습니다. 어쩌면 이 레이더 영상은 사고 초기에 먼저 공개됐어야 하는 게 아닌가, 그래야 세월호 참사의 실체에 더 빨리 접근할 수 있었던 것이 아닌가 하는 생각이 듭니다. 어제 방송을 보시고 많은 분들이 세월호의 급변침 직후 레이더에 나타난 주황색 물체가 컨테이너가 맞는지 의문을 제기했습니다. 그래서 오늘 이 문제를 다시 한 번 짚어보겠습니다. \n\n박성훈 기자가 이 자리에 나와 있습니다. 박 기자, 주황색 물체가 나타나는 과정부터 다시 한 번 설명해주시죠. ",
+      "publishedAt": "2014-06-26T15:14:28Z",
+      "duration": "PT7M51S",
+      "viewCount": 697363,
+      "likeCount": 1486,
+      "commentCount": 441,
+      "tags": [
+        "JTBC",
+        "JTBC NEWS",
+        "손석희",
+        "박성훈",
+        "세월호",
+        "세월호 레이더영상",
+        "진도 여객선 좌초",
+        "컨테이너",
+        "주황색 물체",
+        "진도VTS",
+        "진도 관제센터"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2014-06-26T15:14:28Z",
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "collectedAt": "2025-08-25T21:08:23Z"
     }
   },
   "channels": {
@@ -285,9 +314,36 @@
       "viewCount": 1280577570,
       "videoCount": 19124,
       "lastUpdated": "2025-08-24T21:55:04.077087Z"
+    },
+    "UCsU-I-vHLiaMfV_ceaYz5rQ": {
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "channelUrl": "@jtbc_news",
+      "channelDescription": "진실에 닿을 때까지 멈추지 않는 질문, JTBC News\nWelcome to the official JTBC News Channel.\n\n▶ https://news.jtbc.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 4670000,
+      "viewCount": 14817048106,
+      "videoCount": 261473,
+      "lastUpdated": "2025-08-25T21:08:23.487592Z"
     }
   },
-  "lastUpdated": "2025-08-24T21:55:04.078091Z",
-  "totalVideos": 8,
-  "totalChannels": 3
+  "lastUpdated": "2025-08-25T21:08:23.487592Z",
+  "totalVideos": 9,
+  "totalChannels": 4
 }

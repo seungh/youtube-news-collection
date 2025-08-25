@@ -533,6 +533,75 @@
       "channelId": "UC4Aa3OPkMenwTANpf0oWVRQ",
       "channelName": "CBS 김현정의 뉴스쇼",
       "collectedAt": "2025-08-22T14:03:23Z"
+    },
+    "LwwFBVtyPa0": {
+      "videoId": "LwwFBVtyPa0",
+      "title": "[밀착카메라] 캠핑장 참사 벌써 잊었나…안전 무방비",
+      "description": "방송사 : JTBC http://www.jtbc.co.kr\n▶ JTBC 뉴스룸 월~일 20시00분 방송\n▶ 홈페이지 : http://news.jtbc.co.kr\n▶ 공식 트위터 : https://twitter.com/JTBC_news\n▶ 공식 페이스북 : https://www.facebook.com/jtbcnews\n\n강화도 캠핑장 화재로 5명의 목숨을 순식간에 앗아간 사건. 벌써 가물가물 하신지요. 우리는 정부도, 업주들도, 또 소비자들도 금방 잊어버린다는 것…불편한 진실입니다. \n\n그 증거를 지금부터 안지현 기자가 밀착카메라로 전해드리겠습니다.",
+      "publishedAt": "2015-05-13T14:57:44Z",
+      "duration": "PT5M8S",
+      "viewCount": 423,
+      "likeCount": 3,
+      "commentCount": 0,
+      "tags": [
+        "JTBC",
+        "JTBC NEWS",
+        "JTBC 뉴스",
+        "뉴스룸",
+        "JTBC 뉴스룸",
+        "뉴스9",
+        "손석희",
+        "손석희 뉴스",
+        "캠핑장 참사",
+        "강화 캠핑장 참사",
+        "텐트",
+        "캠핑장 화재",
+        "캠핑장",
+        "글램핑",
+        "안전불감증",
+        "밀착카메라",
+        "JTBC 밀착카메라"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2015-05-13T14:57:44Z",
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "collectedAt": "2025-08-25T21:08:17Z"
+    },
+    "p6pH5-rhb1A": {
+      "videoId": "p6pH5-rhb1A",
+      "title": "[팩트체크] 방심하면 '끔찍'…지진 예측, 가능한 걸까?",
+      "description": "방송사 : JTBC http://www.jtbc.co.kr\n▶ JTBC 뉴스룸 월~일 20시00분 방송\n▶ 홈페이지 : http://news.jtbc.co.kr\n▶ 공식 트위터 : https://twitter.com/JTBC_news\n▶ 공식 페이스북 : https://www.facebook.com/jtbcnews\n\n네팔에 강진이 또 예고되고 있습니다. 그러니까 한 달 전에 일어났었잖아요. 어제(12일) 또 여진이라고 볼 수 있는 강진이 또 일어났고. 그런데 다음 주에 또 일어난다는 그런 경고가 나와 있는데. 그래서 오늘 궁금한 것이, 특히 이 네팔 강진은 5년 전에 예측됐다는 얘기까지 있어서, 과연 지진은 어디까지 예측할 수 있는 것인가. 과학적으로 과연 맞는 것인가 하는 것을 오늘 팩트체크에서 좀 다뤄보도록 하겠습니다.\n\n김필규 기자, 오늘 보니까 네팔 지진 예언이라는 기사 제목까지 떠 있더군요.",
+      "publishedAt": "2015-05-13T14:52:41Z",
+      "duration": "PT8M18S",
+      "viewCount": 13241,
+      "likeCount": 56,
+      "commentCount": 7,
+      "tags": [
+        "JTBC",
+        "JTBC NEWS",
+        "JTBC 뉴스",
+        "뉴스룸",
+        "JTBC 뉴스룸",
+        "뉴스9",
+        "손석희",
+        "손석희 뉴스",
+        "지진",
+        "네팔 대지진",
+        "지진 예측",
+        "강진",
+        "네팔",
+        "일본 지진",
+        "팩트체크",
+        "JTBC 팩트체크"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2015-05-13T14:52:41Z",
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "collectedAt": "2025-08-25T21:08:17Z"
     }
   },
   "channels": {
@@ -643,9 +712,36 @@
       "viewCount": 1280577570,
       "videoCount": 19124,
       "lastUpdated": "2025-08-24T21:54:55.337157Z"
+    },
+    "UCsU-I-vHLiaMfV_ceaYz5rQ": {
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "channelUrl": "@jtbc_news",
+      "channelDescription": "진실에 닿을 때까지 멈추지 않는 질문, JTBC News\nWelcome to the official JTBC News Channel.\n\n▶ https://news.jtbc.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 4670000,
+      "viewCount": 14817048106,
+      "videoCount": 261473,
+      "lastUpdated": "2025-08-25T21:08:17.751469Z"
     }
   },
-  "lastUpdated": "2025-08-24T21:54:55.338159Z",
-  "totalVideos": 21,
-  "totalChannels": 4
+  "lastUpdated": "2025-08-25T21:08:17.754463Z",
+  "totalVideos": 23,
+  "totalChannels": 5
 }

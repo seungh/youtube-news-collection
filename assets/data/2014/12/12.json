@@ -418,6 +418,43 @@
       "channelId": "UC4Aa3OPkMenwTANpf0oWVRQ",
       "channelName": "CBS 김현정의 뉴스쇼",
       "collectedAt": "2025-08-22T14:03:26Z"
+    },
+    "6OCnmuOiH0k": {
+      "videoId": "6OCnmuOiH0k",
+      "title": "[단독] '불륜 교수' 복귀에 반발…대학, 해임 소송전",
+      "description": "방송사 : JTBC http://www.jtbc.co.kr \n▶ JTBC 뉴스룸 월~일 20시00분 방송 \n▶ 홈페이지 : http://news.jtbc.co.kr \n▶ 공식 트위터 : https://twitter.com/JTBC_news \n▶ 공식 페이스북 : https://www.facebook.com/jtbcnews \n\n대학교수가 성추행 문제로 해임되더라도 징계를 감면받아 강단에 다시 서는 일이 많다고 보도해드린 바 있습니다. 오늘(12일)은 징계를 감면받아 돌아온 교수를 대학 측이 다시 해고하기 위해 소송을 벌이는 사례를 전해드리겠습니다.\n\n김지아 기자의 단독 보도입니다.",
+      "publishedAt": "2014-12-12T13:21:06Z",
+      "duration": "PT1M48S",
+      "viewCount": 1668,
+      "likeCount": 7,
+      "commentCount": 0,
+      "tags": [
+        "JTBC",
+        "JTBC NEWS",
+        "JTBC뉴스",
+        "손석희뉴스",
+        "손석희",
+        "뉴스룸",
+        "뉴스9",
+        "JTBC단독",
+        "김지아",
+        "단독보도",
+        "한국외대",
+        "한국외국어대학교",
+        "한국외대 교수",
+        "교문소청위",
+        "한국외대 소송",
+        "대학교수 성추행",
+        "한국외대 불륜",
+        "한국외대 성추행",
+        "성추행"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2014-12-12T13:21:06Z",
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "collectedAt": "2025-08-25T21:08:22Z"
     }
   },
   "channels": {
@@ -501,9 +538,36 @@
       "viewCount": 1280577570,
       "videoCount": 19124,
       "lastUpdated": "2025-08-24T21:54:59.345089Z"
+    },
+    "UCsU-I-vHLiaMfV_ceaYz5rQ": {
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "channelUrl": "@jtbc_news",
+      "channelDescription": "진실에 닿을 때까지 멈추지 않는 질문, JTBC News\nWelcome to the official JTBC News Channel.\n\n▶ https://news.jtbc.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 4670000,
+      "viewCount": 14817048106,
+      "videoCount": 261473,
+      "lastUpdated": "2025-08-25T21:08:22.825367Z"
     }
   },
-  "lastUpdated": "2025-08-24T21:54:59.346085Z",
-  "totalVideos": 17,
-  "totalChannels": 3
+  "lastUpdated": "2025-08-25T21:08:22.826362Z",
+  "totalVideos": 18,
+  "totalChannels": 4
 }

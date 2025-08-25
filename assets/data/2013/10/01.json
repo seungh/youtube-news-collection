@@ -395,6 +395,89 @@
       "channelId": "UC4Aa3OPkMenwTANpf0oWVRQ",
       "channelName": "CBS 김현정의 뉴스쇼",
       "collectedAt": "2025-08-22T14:03:35Z"
+    },
+    "HAq7Ch6REWY": {
+      "videoId": "HAq7Ch6REWY",
+      "title": "[단독 입수] 북 미사일 두 발 날아오면...동시요격 포착",
+      "description": "미국이 북한에서 미사일 두 발을 쏠 경우를 가정해 동시 요격하는 시험에 최근 성공했죠. 미 국방부가 촬영한 당시 영상을 JTBC가 단독으로 입수했습니다.",
+      "publishedAt": "2013-10-01T01:31:09Z",
+      "duration": "PT1M31S",
+      "viewCount": 841,
+      "likeCount": 0,
+      "commentCount": 1,
+      "tags": [
+        "JTBC",
+        "JTBC NEWS",
+        "뉴스 나인",
+        "뉴스9",
+        "손석희",
+        "북한",
+        "북한 미사일",
+        "JTBC NEWS9"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2013-10-01T01:31:09Z",
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "collectedAt": "2025-08-25T21:08:24Z"
+    },
+    "mBahrjseW7I": {
+      "videoId": "mBahrjseW7I",
+      "title": "[단독] '안전하다' 부실채권 판 동양증권, 녹취록 들어보니",
+      "description": "동양그룹의 부실 채권을 산 사람들 99% 이상이 개인투자자라는데 있습니다. 그런데 판매처인 동양증권은 이 부실채권을 제대로 설명도 않고 개인들에게 팔아왔던 것으로 드러났습니다. JTBC가 이를 여실히 보여주는 녹취록을 단독 입수했습니다.",
+      "publishedAt": "2013-09-30T21:30:09Z",
+      "duration": "PT1M51S",
+      "viewCount": 1753,
+      "likeCount": 11,
+      "commentCount": 0,
+      "tags": [
+        "동양증권 부실 채권",
+        "동양증권 채권",
+        "동양증권",
+        "동양그룹",
+        "JTBC 뉴스",
+        "JTBC NEWS",
+        "제이티비씨 뉴스",
+        "뉴스9",
+        "뉴스 나인",
+        "NEWS9"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2013-09-30T21:30:09Z",
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "collectedAt": "2025-08-25T21:08:24Z"
+    },
+    "j-Lp-w7th8E": {
+      "videoId": "j-Lp-w7th8E",
+      "title": "[단독] 송전선 인근 암 보고서 입수...50대 위암· 60대 간암↑",
+      "description": "밀양 현장에선 또 한 번의 충돌이 우려되는 상황인데, 송전선로 주변에 사는 주민들의 암 발생 실태에 대해 정부가 5년 동안 조사를 끝냈습니다. 아직 결과를 내놓질 않고 있는데, JTBC가 단독 입수했습니다. 50세 이상은 위암, 60세 이상은 간암에서 유의미한 증가세가 나타났다고 합니다.",
+      "publishedAt": "2013-09-30T21:26:10Z",
+      "duration": "PT2M",
+      "viewCount": 1027,
+      "likeCount": 3,
+      "commentCount": 1,
+      "tags": [
+        "JTBC",
+        "JTBC NEWS",
+        "JTBC 뉴스",
+        "제이티비씨 뉴스",
+        "송전선 암",
+        "밀양 송전탑",
+        "뉴스9",
+        "뉴스 나인",
+        "NEWS9",
+        "NEWS 나인",
+        "손석희 뉴스"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2013-09-30T21:26:10Z",
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "collectedAt": "2025-08-25T21:08:24Z"
     }
   },
   "channels": {
@@ -478,9 +561,36 @@
       "viewCount": 1280577570,
       "videoCount": 19124,
       "lastUpdated": "2025-08-24T21:55:13.218076Z"
+    },
+    "UCsU-I-vHLiaMfV_ceaYz5rQ": {
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "channelUrl": "@jtbc_news",
+      "channelDescription": "진실에 닿을 때까지 멈추지 않는 질문, JTBC News\nWelcome to the official JTBC News Channel.\n\n▶ https://news.jtbc.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 4670000,
+      "viewCount": 14817048106,
+      "videoCount": 261473,
+      "lastUpdated": "2025-08-25T21:08:24.984931Z"
     }
   },
-  "lastUpdated": "2025-08-24T21:55:13.218076Z",
-  "totalVideos": 13,
-  "totalChannels": 3
+  "lastUpdated": "2025-08-25T21:08:24.985927Z",
+  "totalVideos": 16,
+  "totalChannels": 4
 }

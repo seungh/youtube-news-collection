@@ -175,6 +175,39 @@
       "channelId": "UC4Aa3OPkMenwTANpf0oWVRQ",
       "channelName": "CBS 김현정의 뉴스쇼",
       "collectedAt": "2025-08-22T14:03:35Z"
+    },
+    "EL-glT39YSA": {
+      "videoId": "EL-glT39YSA",
+      "title": "손석희 JTBC 뉴스9 티저 - '우린 볼 겁니다'편",
+      "description": "사실, 공정, 균형, 품위\nJTBC 뉴스가 새롭게 찾아갑니다.\n2013년 9월 16일, JTBC 뉴스를 기대하세요!",
+      "publishedAt": "2013-09-03T04:41:00Z",
+      "duration": "PT47S",
+      "viewCount": 64071,
+      "likeCount": 223,
+      "commentCount": 23,
+      "tags": [
+        "JTBC",
+        "제이티비씨",
+        "JTBC NEWS",
+        "제이티비씨 뉴스",
+        "손석희",
+        "뉴스9",
+        "NEWS9",
+        "JTBC 뉴스 티저",
+        "JTBC NEWS 티저",
+        "뉴스9 티저",
+        "손석희 앵커",
+        "손석희 앵커 티저",
+        "뉴스9티저",
+        "손석희앵커",
+        "손석희티저"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2013-09-03T04:41:00Z",
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "collectedAt": "2025-08-25T21:08:25Z"
     }
   },
   "channels": {
@@ -231,9 +264,36 @@
       "viewCount": 1280577570,
       "videoCount": 19124,
       "lastUpdated": "2025-08-24T21:55:14.074116Z"
+    },
+    "UCsU-I-vHLiaMfV_ceaYz5rQ": {
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "channelUrl": "@jtbc_news",
+      "channelDescription": "진실에 닿을 때까지 멈추지 않는 질문, JTBC News\nWelcome to the official JTBC News Channel.\n\n▶ https://news.jtbc.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 4670000,
+      "viewCount": 14817048106,
+      "videoCount": 261473,
+      "lastUpdated": "2025-08-25T21:08:25.252215Z"
     }
   },
-  "lastUpdated": "2025-08-24T21:55:14.075115Z",
-  "totalVideos": 5,
-  "totalChannels": 2
+  "lastUpdated": "2025-08-25T21:08:25.252215Z",
+  "totalVideos": 6,
+  "totalChannels": 3
 }

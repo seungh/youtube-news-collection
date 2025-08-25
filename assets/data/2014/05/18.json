@@ -55,6 +55,47 @@
       "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
       "channelName": "뉴스TVCHOSUN",
       "collectedAt": "2025-08-21T10:46:19Z"
+    },
+    "vs6rfuWIVVE": {
+      "videoId": "vs6rfuWIVVE",
+      "title": "해경, 침몰 예상했지만...\"헬기 구조\"만 되풀이",
+      "description": "방송사 : JTBC http://www.jtbc.co.kr \n▶ JTBC 뉴스9 월~금 21시00분 방송 \n▶ 홈페이지 : http://news.jtbc.co.kr \n▶ 공식 트위터 : https://twitter.com/JTBC_news \n▶ 공식 페이스북 : https://www.facebook.com/jtbcnews ",
+      "publishedAt": "2014-05-18T12:51:37Z",
+      "duration": "PT2M6S",
+      "viewCount": 1856,
+      "likeCount": 8,
+      "commentCount": 1,
+      "tags": [
+        "세월호"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2014-05-18T12:51:37Z",
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "collectedAt": "2025-08-25T21:08:19Z"
+    },
+    "VthtXNXEcvs": {
+      "videoId": "VthtXNXEcvs",
+      "title": "\"캐나다서 놀이 삼아 호수 만들며...\" 유병언 장남 호화생활",
+      "description": "방송사 : JTBC http://www.jtbc.co.kr \n▶ JTBC 뉴스9 월~금 21시00분 방송 \n▶ 홈페이지 : http://news.jtbc.co.kr \n▶ 공식 트위터 : https://twitter.com/JTBC_news \n▶ 공식 페이스북 : https://www.facebook.com/jtbcnews \n",
+      "publishedAt": "2014-05-18T12:54:25Z",
+      "duration": "PT1M32S",
+      "viewCount": 137207,
+      "likeCount": 158,
+      "commentCount": 52,
+      "tags": [
+        "세월호",
+        "유병언",
+        "유대균",
+        "손석희"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2014-05-18T12:54:25Z",
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "collectedAt": "2025-08-25T21:08:19Z"
     }
   },
   "channels": {
@@ -84,9 +125,36 @@
       "viewCount": 4319423561,
       "videoCount": 150855,
       "lastUpdated": "2025-08-21T10:28:58.950716Z"
+    },
+    "UCsU-I-vHLiaMfV_ceaYz5rQ": {
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "channelUrl": "@jtbc_news",
+      "channelDescription": "진실에 닿을 때까지 멈추지 않는 질문, JTBC News\nWelcome to the official JTBC News Channel.\n\n▶ https://news.jtbc.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 4670000,
+      "viewCount": 14817048106,
+      "videoCount": 261473,
+      "lastUpdated": "2025-08-25T21:08:19.430691Z"
     }
   },
-  "lastUpdated": "2025-08-21T10:46:19.645861Z",
-  "totalVideos": 2,
-  "totalChannels": 1
+  "lastUpdated": "2025-08-25T21:08:19.431689Z",
+  "totalVideos": 4,
+  "totalChannels": 2
 }

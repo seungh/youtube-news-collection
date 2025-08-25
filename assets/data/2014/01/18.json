@@ -83,6 +83,34 @@
       "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
       "channelName": "뉴스TVCHOSUN",
       "collectedAt": "2025-08-21T10:46:23Z"
+    },
+    "50ZTPM87gdE": {
+      "videoId": "50ZTPM87gdE",
+      "title": "[단독] '유명무실' 과자 칼로리 표시...소비자만 골탕",
+      "description": "방송사 : JTBC http://www.jtbc.co.kr\n▶ JTBC 뉴스9 월~금 21시00분 방송\n▶ 홈페이지 : http://news.jtbc.co.kr\n▶ 공식 트위터 : https://twitter.com/JTBC_news\n▶ 공식 페이스북 : https://www.facebook.com/jtbcnews\n\n과자 살 때 칼로리 표시를 살펴보면 정말 제각각인데요. 식품의약품안전처가 통일된 기준을 만들었지만 현장에선 무시되고 있습니다.\n\n어찌된 사연인지, 이재승 기자가 단독 보도합니다.",
+      "publishedAt": "2014-01-18T14:31:25Z",
+      "duration": "PT1M25S",
+      "viewCount": 2475,
+      "likeCount": 3,
+      "commentCount": 1,
+      "tags": [
+        "JTBC NEWS",
+        "JTBC",
+        "제이티비씨 뉴스",
+        "제이티비씨",
+        "JTBC 주말뉴스",
+        "Joongang Tongyang Broadcasting Company (TV Network)",
+        "칼로리",
+        "칼로리 표기",
+        "칼로리 열량",
+        "JTBC 단독"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2014-01-18T14:31:25Z",
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "collectedAt": "2025-08-25T21:08:24Z"
     }
   },
   "channels": {
@@ -112,9 +140,36 @@
       "viewCount": 4319423561,
       "videoCount": 150855,
       "lastUpdated": "2025-08-21T10:29:00.834592Z"
+    },
+    "UCsU-I-vHLiaMfV_ceaYz5rQ": {
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "channelUrl": "@jtbc_news",
+      "channelDescription": "진실에 닿을 때까지 멈추지 않는 질문, JTBC News\nWelcome to the official JTBC News Channel.\n\n▶ https://news.jtbc.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 4670000,
+      "viewCount": 14817048106,
+      "videoCount": 261473,
+      "lastUpdated": "2025-08-25T21:08:24.754547Z"
     }
   },
-  "lastUpdated": "2025-08-21T10:46:23.329743Z",
-  "totalVideos": 3,
-  "totalChannels": 1
+  "lastUpdated": "2025-08-25T21:08:24.755544Z",
+  "totalVideos": 4,
+  "totalChannels": 2
 }

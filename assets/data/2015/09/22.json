@@ -229,6 +229,43 @@
       "channelId": "UC4Aa3OPkMenwTANpf0oWVRQ",
       "channelName": "CBS 김현정의 뉴스쇼",
       "collectedAt": "2025-08-22T14:03:19Z"
+    },
+    "WC_3JpGAnYI": {
+      "videoId": "WC_3JpGAnYI",
+      "title": "[밀착카메라] 사고 부르는 졸음쉼터…화장실도 없어 '곤란'",
+      "description": "방송사 : JTBC http://www.jtbc.co.kr \n▶ JTBC 뉴스룸 월~일 20시00분 방송 \n▶ 홈페이지 : http://news.jtbc.co.kr \n▶ 공식 트위터 : https://twitter.com/JTBC_news \n▶ 공식 페이스북 : https://www.facebook.com/jtbcnews \n\n고속도로에서 장시간 운전하다 보면 졸음을 참기 힘들 때가 많습니다. 그래서 4년 전부터 고속도로에 졸음쉼터를 늘리고 있는데요. 운전자의 안전을 위한 곳인데 오히려 사고를 유발하는 경우가 많다고 합니다. 더러는 불쾌감을 주는 경우까지 있다고 하는데요. \n\n밀착카메라 박소연 기자입니다.",
+      "publishedAt": "2015-09-22T12:51:52Z",
+      "duration": "PT4M32S",
+      "viewCount": 7074,
+      "likeCount": 31,
+      "commentCount": 3,
+      "tags": [
+        "JTBC",
+        "JTBC NEWS",
+        "JTBC 뉴스",
+        "제이티비씨 뉴스",
+        "제이티비씨",
+        "손석희",
+        "손석희 뉴스",
+        "뉴스룸",
+        "밀착카메라",
+        "박소연",
+        "졸음쉼터",
+        "휴게실",
+        "휴게소",
+        "안전",
+        "음주운전",
+        "졸음운전",
+        "고속도로",
+        "고속도로 운전",
+        "고속도로 쉼터"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2015-09-22T12:51:52Z",
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "collectedAt": "2025-08-25T21:08:19Z"
     }
   },
   "channels": {
@@ -312,9 +349,36 @@
       "viewCount": 1280577570,
       "videoCount": 19124,
       "lastUpdated": "2025-08-24T21:54:52.091079Z"
+    },
+    "UCsU-I-vHLiaMfV_ceaYz5rQ": {
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "channelUrl": "@jtbc_news",
+      "channelDescription": "진실에 닿을 때까지 멈추지 않는 질문, JTBC News\nWelcome to the official JTBC News Channel.\n\n▶ https://news.jtbc.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 4670000,
+      "viewCount": 14817048106,
+      "videoCount": 261473,
+      "lastUpdated": "2025-08-25T21:08:19.326973Z"
     }
   },
-  "lastUpdated": "2025-08-24T21:54:52.097112Z",
-  "totalVideos": 9,
-  "totalChannels": 3
+  "lastUpdated": "2025-08-25T21:08:19.326973Z",
+  "totalVideos": 10,
+  "totalChannels": 4
 }

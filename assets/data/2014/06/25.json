@@ -229,6 +229,35 @@
       "channelId": "UC4Aa3OPkMenwTANpf0oWVRQ",
       "channelName": "CBS 김현정의 뉴스쇼",
       "collectedAt": "2025-08-22T14:03:30Z"
+    },
+    "4zKsg2LocBQ": {
+      "videoId": "4zKsg2LocBQ",
+      "title": "[단독] 세월호 사고 당시 실제 레이더 관제 영상 입수",
+      "description": "방송사 : JTBC http://www.jtbc.co.kr \n▶ JTBC 뉴스9 월~금 21시00분 방송 \n▶ 홈페이지 : http://news.jtbc.co.kr \n▶ 공식 트위터 : https://twitter.com/JTBC_news \n▶ 공식 페이스북 : https://www.facebook.com/jtbcnews \n\n뉴스9이 세월호 참사 이후 지속적으로 제기해 온 왜?라는 의문...오늘(25일)도 던집니다. 누차 말씀드렸듯이 왜?라는 질문에 답할 수 없다면 참사의 진상은 밝혀질 수 없기 때문입니다. 지금부터 세월호 참사 상황을 정확하게 보여주는 당시의 실제 레이더 영상을 처음으로 공개하겠습니다. 사고 당일 진도 VTS의 관제사들이 보고 있던 바로 그 영상입니다. 이 영상을 보면 당시 사고 원인이었던 급변침의 이유가 더욱 궁금해집니다. 박성훈 기자가 이 영상을 공개해드립니다.\n\n박성훈 기자, 먼저 레이더 영상을 설명해주시죠. ",
+      "publishedAt": "2014-06-25T14:56:36Z",
+      "duration": "PT9M42S",
+      "viewCount": 319648,
+      "likeCount": 836,
+      "commentCount": 130,
+      "tags": [
+        "JTBC",
+        "JTBC NEWS",
+        "손석희",
+        "박성훈",
+        "세월호",
+        "세월호 침몰 사고",
+        "진도 여객선 좌초",
+        "레이더 영상",
+        "침몰 당시 레이더 영상",
+        "진도 VTS",
+        "진도 관제센터"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2014-06-25T14:56:36Z",
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "collectedAt": "2025-08-25T21:08:23Z"
     }
   },
   "channels": {
@@ -312,9 +341,36 @@
       "viewCount": 1280577570,
       "videoCount": 19124,
       "lastUpdated": "2025-08-24T21:55:04.365050Z"
+    },
+    "UCsU-I-vHLiaMfV_ceaYz5rQ": {
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "channelUrl": "@jtbc_news",
+      "channelDescription": "진실에 닿을 때까지 멈추지 않는 질문, JTBC News\nWelcome to the official JTBC News Channel.\n\n▶ https://news.jtbc.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 4670000,
+      "viewCount": 14817048106,
+      "videoCount": 261473,
+      "lastUpdated": "2025-08-25T21:08:23.505544Z"
     }
   },
-  "lastUpdated": "2025-08-24T21:55:04.396056Z",
-  "totalVideos": 9,
-  "totalChannels": 3
+  "lastUpdated": "2025-08-25T21:08:23.506542Z",
+  "totalVideos": 10,
+  "totalChannels": 4
 }

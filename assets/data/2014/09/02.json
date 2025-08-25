@@ -170,6 +170,35 @@
       "channelId": "UC4Aa3OPkMenwTANpf0oWVRQ",
       "channelName": "CBS 김현정의 뉴스쇼",
       "collectedAt": "2025-08-22T14:03:28Z"
+    },
+    "9WoZokNsxw8": {
+      "videoId": "9WoZokNsxw8",
+      "title": "청약제도 손질…9·1 부동산 대책 주요 내용 살펴보니",
+      "description": "방송사 : JTBC http://www.jtbc.co.kr\n▶ JTBC 뉴스9 월~금 21시00분 방송\n▶ 홈페이지 : http://news.jtbc.co.kr\n▶ 공식 트위터 : https://twitter.com/JTBC_news\n▶ 공식 페이스북 : https://www.facebook.com/jtbcnews\n\n이미 지금까지도 정부는 부동산 시장을 활성화하겠다는 취지로 많은 규제 완화 대책을 내놨습니다. 그런데 이번에 또 대책을 추가한 건데요. 어떤 의미가 있는 건지 경제사업부 윤정식 기자와 좀 알아보겠습니다.",
+      "publishedAt": "2014-09-01T15:03:11Z",
+      "duration": "PT4M5S",
+      "viewCount": 1907,
+      "likeCount": 7,
+      "commentCount": 0,
+      "tags": [
+        "JTBC",
+        "JTBC NEWS",
+        "손석희",
+        "윤정식",
+        "9.1 부동산대책",
+        "최경환",
+        "부동산 시장 활성화",
+        "청약제도",
+        "아파트 재건축 연한",
+        "최경환노믹스",
+        "초이노믹스"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2014-09-01T15:03:11Z",
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "collectedAt": "2025-08-25T21:08:23Z"
     }
   },
   "channels": {
@@ -226,9 +255,36 @@
       "viewCount": 1280577570,
       "videoCount": 19124,
       "lastUpdated": "2025-08-24T21:55:01.589119Z"
+    },
+    "UCsU-I-vHLiaMfV_ceaYz5rQ": {
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "channelUrl": "@jtbc_news",
+      "channelDescription": "진실에 닿을 때까지 멈추지 않는 질문, JTBC News\nWelcome to the official JTBC News Channel.\n\n▶ https://news.jtbc.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 4670000,
+      "viewCount": 14817048106,
+      "videoCount": 261473,
+      "lastUpdated": "2025-08-25T21:08:23.430745Z"
     }
   },
-  "lastUpdated": "2025-08-24T21:55:01.590113Z",
-  "totalVideos": 7,
-  "totalChannels": 2
+  "lastUpdated": "2025-08-25T21:08:23.431741Z",
+  "totalVideos": 8,
+  "totalChannels": 3
 }

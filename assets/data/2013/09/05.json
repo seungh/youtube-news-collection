@@ -172,6 +172,32 @@
       "channelId": "UC4Aa3OPkMenwTANpf0oWVRQ",
       "channelName": "CBS 김현정의 뉴스쇼",
       "collectedAt": "2025-08-22T14:03:35Z"
+    },
+    "Tc9QfA6v7xk": {
+      "videoId": "Tc9QfA6v7xk",
+      "title": "정관용, JTBC 뉴스쇼 '정관용 라이브' 마이크 잡는다",
+      "description": "\"대한민국, 소탕 아닌 소통을 하자\" \n\n'시사 프로그램 진행의 교과서'라 불리는 정관용 한림국제대학원대학교 교수가 JTBC에서 새로운 교과서를 씁니다. JTBC는 보도 프로그램의 새 단장과 함께 9월 16일부터 정통 시사 뉴스쇼 '정관용 라이브'(평일 오후 3시~ 4시 30분)를 선보입니다.\n \n\"싸울 때 싸우더라도 '싸움' 자체가 목적이 아닌 이상, 갈등의 해법은 결국 사실에 기초해서 찾아야 합니다.\" \n\n정관용 교수와 함께 '한국의 좋은 시사뉴스쇼'로 여러분께 다가갈 예정입니다. 9월 16일 첫방송, 기대해주세요!!\n\nhttp://news.jtbc.co.kr/html/576/NB10333576.html",
+      "publishedAt": "2013-09-05T01:48:28Z",
+      "duration": "PT45S",
+      "viewCount": 4190,
+      "likeCount": 9,
+      "commentCount": 2,
+      "tags": [
+        "JTBC",
+        "JTBC 개편",
+        "JTBC 티저",
+        "시사자키 정관용입니다",
+        "손석희",
+        "손석희 정관용",
+        "손석희 티저",
+        "정관용 라이브"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2013-09-05T01:48:28Z",
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "collectedAt": "2025-08-25T21:08:25Z"
     }
   },
   "channels": {
@@ -228,9 +254,36 @@
       "viewCount": 1280577570,
       "videoCount": 19124,
       "lastUpdated": "2025-08-24T21:55:13.859078Z"
+    },
+    "UCsU-I-vHLiaMfV_ceaYz5rQ": {
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "channelUrl": "@jtbc_news",
+      "channelDescription": "진실에 닿을 때까지 멈추지 않는 질문, JTBC News\nWelcome to the official JTBC News Channel.\n\n▶ https://news.jtbc.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 4670000,
+      "viewCount": 14817048106,
+      "videoCount": 261473,
+      "lastUpdated": "2025-08-25T21:08:25.307068Z"
     }
   },
-  "lastUpdated": "2025-08-24T21:55:13.922071Z",
-  "totalVideos": 5,
-  "totalChannels": 2
+  "lastUpdated": "2025-08-25T21:08:25.309064Z",
+  "totalVideos": 6,
+  "totalChannels": 3
 }

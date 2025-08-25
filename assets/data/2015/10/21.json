@@ -459,6 +459,72 @@
       "channelId": "UC4Aa3OPkMenwTANpf0oWVRQ",
       "channelName": "CBS 김현정의 뉴스쇼",
       "collectedAt": "2025-08-22T14:03:19Z"
+    },
+    "xfzDZZCMfiI": {
+      "videoId": "xfzDZZCMfiI",
+      "title": "[밀착카메라] 소변에 구토…'응급실 추태' 술 취한 그들",
+      "description": "방송사 : JTBC http://www.jtbc.co.kr \n▶ JTBC 뉴스룸 월~일 20시00분 방송 \n▶ 홈페이지 : http://news.jtbc.co.kr \n▶ 공식 트위터 : https://twitter.com/JTBC_news \n▶ 공식 페이스북 : https://www.facebook.com/jtbcnews \n\n주취자들을 상대하는 경찰관들의 고충은 익히 들어 아실 텐데요. 경찰서에서뿐만이 아닙니다. 응급실에도 주취자 관리를 위해 상주하는 경찰이 있습니다. 생명을 다루는 응급실에서 벌어지는 주취자들의 온갖 추태는 더 위험할 수밖에 없겠죠. 이곳에 근무하는 경찰과 하루를 동행해봤습니다. \n\n밀착카메라 박소연 기자입니다.",
+      "publishedAt": "2015-10-21T13:36:56Z",
+      "duration": "PT4M36S",
+      "viewCount": 107965,
+      "likeCount": 297,
+      "commentCount": 79,
+      "tags": [
+        "JTBC",
+        "JTBC NEWS",
+        "뉴스룸",
+        "뉴스9",
+        "손석희",
+        "손석희 뉴스",
+        "JTBC 뉴스룸",
+        "밀착카메라",
+        "응급실",
+        "만취",
+        "응급의료센터",
+        "주취자",
+        "취객",
+        "음주"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2015-10-21T13:36:56Z",
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "collectedAt": "2025-08-25T21:08:18Z"
+    },
+    "0TGmRp7TsLI": {
+      "videoId": "0TGmRp7TsLI",
+      "title": "[팩트체크] 노벨상 경제학자 왜곡 논란…진실은?",
+      "description": "방송사 : JTBC http://www.jtbc.co.kr \n▶ JTBC 뉴스룸 월~일 20시00분 방송 \n▶ 홈페이지 : http://news.jtbc.co.kr \n▶ 공식 트위터 : https://twitter.com/JTBC_news \n▶ 공식 페이스북 : https://www.facebook.com/jtbcnews \n\n올해 노벨경제학상 수상자는 미국 프린스턴대의 앵거스 디턴 교수였습니다. 그런데 지금 한국에서는 엉뚱하게 이 석학의 연구내용을 놓고 논란이 벌어지고 있습니다. 어제(20일) 이 디턴의 저서를 번역한 출판사는 급기야 오류에 대해서 사과하겠다, 이런 입장까지 밝혔습니다. 대체 어떤 부분이 문제인가. 실제로 왜곡이 있었던 것인지 오늘 팩트체크에서 짚어보도록 하겠습니다. \n\n김필규 기자, 그동안에 디턴 교수에 대한 많은 언론보도가 나온 바가 있습니다, 아시는 것처럼. 그런데 그것도 잘못된 내용이 많았다는 건가요?",
+      "publishedAt": "2015-10-21T13:50:55Z",
+      "duration": "PT7M6S",
+      "viewCount": 13092,
+      "likeCount": 139,
+      "commentCount": 47,
+      "tags": [
+        "JTBC",
+        "JTBC NEWS",
+        "뉴스룸",
+        "뉴스9",
+        "손석희",
+        "손석희 뉴스",
+        "노벨상",
+        "노벨경제학상",
+        "앵거스 디턴",
+        "불평등",
+        "프린스턴",
+        "토마 피케티",
+        "위대한 탈출",
+        "불평등의 기원",
+        "팩트체크",
+        "김필규"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2015-10-21T13:50:55Z",
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "collectedAt": "2025-08-25T21:08:18Z"
     }
   },
   "channels": {
@@ -569,9 +635,36 @@
       "viewCount": 1280577570,
       "videoCount": 19124,
       "lastUpdated": "2025-08-24T21:54:51.334169Z"
+    },
+    "UCsU-I-vHLiaMfV_ceaYz5rQ": {
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "channelUrl": "@jtbc_news",
+      "channelDescription": "진실에 닿을 때까지 멈추지 않는 질문, JTBC News\nWelcome to the official JTBC News Channel.\n\n▶ https://news.jtbc.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 4670000,
+      "viewCount": 14817048106,
+      "videoCount": 261473,
+      "lastUpdated": "2025-08-25T21:08:18.674714Z"
     }
   },
-  "lastUpdated": "2025-08-24T21:54:51.336105Z",
-  "totalVideos": 18,
-  "totalChannels": 4
+  "lastUpdated": "2025-08-25T21:08:18.675711Z",
+  "totalVideos": 20,
+  "totalChannels": 5
 }

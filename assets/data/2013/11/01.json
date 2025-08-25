@@ -232,6 +232,68 @@
       "channelId": "UC4Aa3OPkMenwTANpf0oWVRQ",
       "channelName": "CBS 김현정의 뉴스쇼",
       "collectedAt": "2025-08-22T14:03:35Z"
+    },
+    "fJxU6W8x4hU": {
+      "videoId": "fJxU6W8x4hU",
+      "title": "[단독] 57조 빚더미 공기업들, 특급호텔서 호화판 이사회",
+      "description": "일부 공기업이 멀쩡한 회의실을 놔두고 해외나 국내 특급호텔에서 이사회를 열어 온 것으로 확인됐습니다. 수십조원의 빚을 지고 있거나 나랏돈을 쓰면서도 씀씀이는 개선되지 않고 있습니다. JTBC의 단독보도입니다.",
+      "publishedAt": "2013-11-01T05:10:53Z",
+      "duration": "PT1M33S",
+      "viewCount": 1099,
+      "likeCount": 3,
+      "commentCount": 1,
+      "tags": [
+        "JTBC",
+        "JTBC NEWS",
+        "JTBC NEWS9",
+        "NEWS9",
+        "뉴스나인",
+        "뉴스9",
+        "손석희",
+        "공기업",
+        "호화",
+        "국정감사",
+        "코트라",
+        "공기업 빚",
+        "빚"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2013-11-01T05:10:53Z",
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "collectedAt": "2025-08-25T21:08:25Z"
+    },
+    "yx4W5L_5md0": {
+      "videoId": "yx4W5L_5md0",
+      "title": "[단독] 군사기밀 다루는 국방부 장관실, 도청에 '무방비'",
+      "description": "미국이 주요 우방국 정상을 도청해 전세계적 파문이 커지고 있는데, 우리 국방부도 도청 방지엔 사실상 손을 놓고 있는 것으로 드러났습니다. JTBC의 단독보도입니다.",
+      "publishedAt": "2013-11-01T05:06:20Z",
+      "duration": "PT1M31S",
+      "viewCount": 850,
+      "likeCount": 0,
+      "commentCount": 0,
+      "tags": [
+        "JTBC",
+        "JTBC NEWS",
+        "JTBC NEWS9",
+        "NEWS9",
+        "뉴스나인",
+        "뉴스9",
+        "손석희",
+        "JTBC 단독보도",
+        "미국 도청",
+        "도청",
+        "도청 방지",
+        "국방부",
+        "국방부 도청"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2013-11-01T05:06:20Z",
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "collectedAt": "2025-08-25T21:08:25Z"
     }
   },
   "channels": {
@@ -315,9 +377,36 @@
       "viewCount": 1280577570,
       "videoCount": 19124,
       "lastUpdated": "2025-08-24T21:55:12.447088Z"
+    },
+    "UCsU-I-vHLiaMfV_ceaYz5rQ": {
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "channelUrl": "@jtbc_news",
+      "channelDescription": "진실에 닿을 때까지 멈추지 않는 질문, JTBC News\nWelcome to the official JTBC News Channel.\n\n▶ https://news.jtbc.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 4670000,
+      "viewCount": 14817048106,
+      "videoCount": 261473,
+      "lastUpdated": "2025-08-25T21:08:25.138519Z"
     }
   },
-  "lastUpdated": "2025-08-24T21:55:12.448084Z",
-  "totalVideos": 7,
-  "totalChannels": 3
+  "lastUpdated": "2025-08-25T21:08:25.138519Z",
+  "totalVideos": 9,
+  "totalChannels": 4
 }

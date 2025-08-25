@@ -134,6 +134,37 @@
       "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
       "channelName": "뉴스TVCHOSUN",
       "collectedAt": "2025-08-21T10:46:28Z"
+    },
+    "D1V8y1QxxW0": {
+      "videoId": "D1V8y1QxxW0",
+      "title": "JTBC '밤샘토론' 13회 - '국가 개조' 무엇을 바꿀 것인가?",
+      "description": "세월호 참사가 남긴 상처들\n\n'국가 개조론' 꺼내든 박근혜 정부\n\n여야 '국가 개조론' 엇갈린 해석\n\n관피아 척결, 인적 쇄신 두고 뜨거워지는 7·30 재보선\n\n'국가 개조' 무엇을 바꿀 것인가?\n\n출연 : 홍문종, 이상휘, 윤주진, 노영민, 김유정, 성치훈\n\n\n\n▶ 방송사 : JTBC http://www.jtbc.co.kr\n▶ JTBC 뉴스9 월~금 21시00분 방송\n▶ 홈페이지 : http://news.jtbc.co.kr\n▶ 공식 트위터 : https://twitter.com/JTBC_news\n▶ 공식 페이스북 : https://www.facebook.com/jtbcnews",
+      "publishedAt": "2014-06-14T04:02:24Z",
+      "duration": "PT3H20M21S",
+      "viewCount": 27995,
+      "likeCount": 49,
+      "commentCount": 17,
+      "tags": [
+        "Joongang Tongyang Broadcasting Company (TV Network)",
+        "JTBC",
+        "JTBC 밤샘토론",
+        "세월호 침몰",
+        "밤샘토론 13회",
+        "국가개조",
+        "신예리",
+        "홍문종",
+        "이상휘",
+        "윤주진",
+        "노영민",
+        "김유정",
+        "성치훈"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2014-06-14T04:02:24Z",
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "collectedAt": "2025-08-25T21:08:20Z"
     }
   },
   "channels": {
@@ -190,9 +221,36 @@
       "viewCount": 4319423561,
       "videoCount": 150855,
       "lastUpdated": "2025-08-21T10:29:05.569878Z"
+    },
+    "UCsU-I-vHLiaMfV_ceaYz5rQ": {
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "channelUrl": "@jtbc_news",
+      "channelDescription": "진실에 닿을 때까지 멈추지 않는 질문, JTBC News\nWelcome to the official JTBC News Channel.\n\n▶ https://news.jtbc.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 4670000,
+      "viewCount": 14817048106,
+      "videoCount": 261473,
+      "lastUpdated": "2025-08-25T21:08:20.010238Z"
     }
   },
-  "lastUpdated": "2025-08-21T10:46:28.566567Z",
-  "totalVideos": 5,
-  "totalChannels": 2
+  "lastUpdated": "2025-08-25T21:08:20.010238Z",
+  "totalVideos": 6,
+  "totalChannels": 3
 }

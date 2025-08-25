@@ -284,6 +284,40 @@
       "channelId": "UC4Aa3OPkMenwTANpf0oWVRQ",
       "channelName": "CBS 김현정의 뉴스쇼",
       "collectedAt": "2025-08-22T14:03:23Z"
+    },
+    "_v68hkriMnw": {
+      "videoId": "_v68hkriMnw",
+      "title": "[팩트체크] '데이터 중심 요금제' 가계통신비 줄일까?",
+      "description": "방송사 : JTBC http://www.jtbc.co.kr\n▶ JTBC 뉴스룸 월~일 20시00분 방송\n▶ 홈페이지 : http://news.jtbc.co.kr\n▶ 공식 트위터 : https://twitter.com/JTBC_news\n▶ 공식 페이스북 : https://www.facebook.com/jtbcnews\n\n이동통신 3사가 모두 데이터 중심 요금제를 내놓은 지 일주일이 지났는데 소비자들의 혼란은 여전한 것 같습니다. 이게 나에게 유리한 제도인지, 이제 통신비 부담이 좀 줄어드는 건지, 저희 팩트체크에도 알아봐 달라는 시청자 요청도 많이 들어왔는데요, 오늘(25일) 이에 대해서 짚어보겠습니다. \n\n김필규 기자, 정말 많이 들어왔나 보죠? 정부여당에서는 이번 조치에 대해 상당히 고무적으로 평가하고 있는 모습이죠?",
+      "publishedAt": "2015-05-25T14:33:02Z",
+      "duration": "PT8M33S",
+      "viewCount": 5279,
+      "likeCount": 28,
+      "commentCount": 7,
+      "tags": [
+        "JTBC",
+        "JTBC NEWS",
+        "JTBC 뉴스",
+        "뉴스룸",
+        "JTBC 뉴스룸",
+        "뉴스9",
+        "손석희",
+        "손석희 뉴스",
+        "데이터 중심 요금제",
+        "요금제",
+        "데이터",
+        "음성통화",
+        "통신비",
+        "이동통신사",
+        "팩트체크",
+        "JTBC 팩트체크"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2015-05-25T14:33:02Z",
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "collectedAt": "2025-08-25T21:08:21Z"
     }
   },
   "channels": {
@@ -367,9 +401,36 @@
       "viewCount": 1280577570,
       "videoCount": 19124,
       "lastUpdated": "2025-08-24T21:54:55.017326Z"
+    },
+    "UCsU-I-vHLiaMfV_ceaYz5rQ": {
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "channelUrl": "@jtbc_news",
+      "channelDescription": "진실에 닿을 때까지 멈추지 않는 질문, JTBC News\nWelcome to the official JTBC News Channel.\n\n▶ https://news.jtbc.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 4670000,
+      "viewCount": 14817048106,
+      "videoCount": 261473,
+      "lastUpdated": "2025-08-25T21:08:21.050625Z"
     }
   },
-  "lastUpdated": "2025-08-24T21:54:55.017326Z",
-  "totalVideos": 11,
-  "totalChannels": 3
+  "lastUpdated": "2025-08-25T21:08:21.051623Z",
+  "totalVideos": 12,
+  "totalChannels": 4
 }

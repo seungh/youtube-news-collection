@@ -343,6 +343,30 @@
       "channelId": "UC4Aa3OPkMenwTANpf0oWVRQ",
       "channelName": "CBS 김현정의 뉴스쇼",
       "collectedAt": "2025-08-22T14:03:37Z"
+    },
+    "DAKfzizNUbs": {
+      "videoId": "DAKfzizNUbs",
+      "title": "[JTBC 탐사코드] 밀착취재! 밀양 송전탑 8년의 갈등",
+      "description": "□ 다시 불붙은 밀양 송전탑 사태! \n'밀양의 억울함을 부디 세상이 알아주길 바란다'며 작년 1월 자신의 논에서 분신자살한 고 이치우 할아버지. 이 사건은 송전탑 건설 사태가 밀양 뿐만 아니라 우리 모두와 연결된 문제라는 인식을 전 국민에게 심어주는 계기가 되었다. 그로부터 1년 후, 한동안 잠잠했던 밀양이 또다시 주목받고 있다.\n\nhttp://home.jtbc.co.kr/Preview/PreviewView.aspx?epis_id=EP10016423",
+      "publishedAt": "2013-06-07T05:33:16Z",
+      "duration": "PT53S",
+      "viewCount": 1118,
+      "likeCount": 1,
+      "commentCount": 0,
+      "tags": [
+        "밀양 송전탑",
+        "핵 쓰레기",
+        "JTBC 탐사코드",
+        "탐사코드",
+        "JTBC",
+        "밀양"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2013-06-07T05:33:16Z",
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "collectedAt": "2025-08-25T21:08:24Z"
     }
   },
   "channels": {
@@ -399,9 +423,36 @@
       "viewCount": 1280577570,
       "videoCount": 19124,
       "lastUpdated": "2025-08-24T21:55:16.674097Z"
+    },
+    "UCsU-I-vHLiaMfV_ceaYz5rQ": {
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "channelUrl": "@jtbc_news",
+      "channelDescription": "진실에 닿을 때까지 멈추지 않는 질문, JTBC News\nWelcome to the official JTBC News Channel.\n\n▶ https://news.jtbc.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 4670000,
+      "viewCount": 14817048106,
+      "videoCount": 261473,
+      "lastUpdated": "2025-08-25T21:08:24.545107Z"
     }
   },
-  "lastUpdated": "2025-08-24T21:55:16.675080Z",
-  "totalVideos": 9,
-  "totalChannels": 2
+  "lastUpdated": "2025-08-25T21:08:24.546106Z",
+  "totalVideos": 10,
+  "totalChannels": 3
 }

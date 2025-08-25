@@ -262,6 +262,42 @@
       "channelId": "UC4Aa3OPkMenwTANpf0oWVRQ",
       "channelName": "CBS 김현정의 뉴스쇼",
       "collectedAt": "2025-08-22T14:03:21Z"
+    },
+    "_R36zV9oevI": {
+      "videoId": "_R36zV9oevI",
+      "title": "[팩트체크] 자살예방 생명의 다리 9월 철거, 효과 없었나",
+      "description": "방송사 : JTBC http://www.jtbc.co.kr \n▶ JTBC 뉴스룸 월~일 20시00분 방송 \n▶ 홈페이지 : http://news.jtbc.co.kr \n▶ 공식 트위터 : https://twitter.com/JTBC_news \n▶ 공식 페이스북 : https://www.facebook.com/jtbcnews \n\n'많이 힘들었구나' '별일 없었어?' '스스로를 믿어' '잘 지내지' '말 안 해도 알아' '세월 참 빠르다' 마포대교에 적혀 있던 글귀들입니다. 자살을 막기 위한 참신한 아이디어로 관심을 받았는데 오는 9월 모두 철거를 한다고 합니다. 그동안 효과에 대한 논란도 있었는데 과연 어땠는지 오늘(7일) 팩트체크에서 짚어보겠습니다.",
+      "publishedAt": "2015-07-07T13:58:11Z",
+      "duration": "PT7M36S",
+      "viewCount": 8062,
+      "likeCount": 39,
+      "commentCount": 17,
+      "tags": [
+        "JTBC",
+        "JTBC NEWS",
+        "JTBC 뉴스",
+        "제이티비씨",
+        "제이티비씨 뉴스",
+        "손석희",
+        "손석희 뉴스",
+        "뉴스룸",
+        "팩트체크",
+        "김필규",
+        "마포대교",
+        "생명의 다리",
+        "한강",
+        "한강대교",
+        "서울 다리",
+        "마포대교 자살",
+        "자살대교",
+        "생명의 다리 철거"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2015-07-07T13:58:11Z",
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "collectedAt": "2025-08-25T21:08:20Z"
     }
   },
   "channels": {
@@ -345,9 +381,36 @@
       "viewCount": 1280577570,
       "videoCount": 19124,
       "lastUpdated": "2025-08-24T21:54:54.056151Z"
+    },
+    "UCsU-I-vHLiaMfV_ceaYz5rQ": {
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "channelUrl": "@jtbc_news",
+      "channelDescription": "진실에 닿을 때까지 멈추지 않는 질문, JTBC News\nWelcome to the official JTBC News Channel.\n\n▶ https://news.jtbc.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 4670000,
+      "viewCount": 14817048106,
+      "videoCount": 261473,
+      "lastUpdated": "2025-08-25T21:08:20.505257Z"
     }
   },
-  "lastUpdated": "2025-08-24T21:54:54.057148Z",
-  "totalVideos": 11,
-  "totalChannels": 3
+  "lastUpdated": "2025-08-25T21:08:20.506257Z",
+  "totalVideos": 12,
+  "totalChannels": 4
 }

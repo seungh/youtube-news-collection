@@ -327,6 +327,73 @@
       "channelId": "UC4Aa3OPkMenwTANpf0oWVRQ",
       "channelName": "CBS 김현정의 뉴스쇼",
       "collectedAt": "2025-08-22T14:03:18Z"
+    },
+    "VGJRIaaNVmM": {
+      "videoId": "VGJRIaaNVmM",
+      "title": "[밀착카메라] 정체성 불분명한 '특화거리' 우후죽순",
+      "description": "방송사 : JTBC http://www.jtbc.co.kr\n▶ JTBC 뉴스룸 월~일 20시00분 방송\n▶ 홈페이지 : http://news.jtbc.co.kr\n▶ 공식 트위터 : https://twitter.com/JTBC_news\n▶ 공식 페이스북 : https://www.facebook.com/jtbcnews\n\n다문화 거리, 국수 거리, 러시아 거리… 무슨 무슨 이름을 붙여 그럴싸해 보이는 특화 거리들이 전국적으로 늘고 있습니다. 지자체들이 지역 경제를 활성화하기 위해 별도의 예산을 들여 만든 것들인데, 이들 특화거리 중 정말 특화된 거리는 많지 않습니다.\n\n그 실태를 밀착 카메라 안지현 기자가 취재했습니다.",
+      "publishedAt": "2015-11-16T14:04:03Z",
+      "duration": "PT4M37S",
+      "viewCount": 4323,
+      "likeCount": 19,
+      "commentCount": 2,
+      "tags": [
+        "JTBC",
+        "JTBC 뉴스",
+        "제이티비씨",
+        "뉴스룸",
+        "뉴스9",
+        "손석희",
+        "손석희 뉴스",
+        "특화거리",
+        "다문화 거리",
+        "국수 거리",
+        "러시아 거리",
+        "문래동 예술촌",
+        "개항 각국길",
+        "밀착",
+        "밀착카메라"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2015-11-16T14:04:03Z",
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "collectedAt": "2025-08-25T21:08:18Z"
+    },
+    "i5nIUEaVWxg": {
+      "videoId": "i5nIUEaVWxg",
+      "title": "[팩트체크] 글로벌 팩트체커 공동 리포트…'G20 발언 분석'",
+      "description": "방송사 : JTBC http://www.jtbc.co.kr\n▶ JTBC 뉴스룸 월~일 20시00분 방송\n▶ 홈페이지 : http://news.jtbc.co.kr\n▶ 공식 트위터 : https://twitter.com/JTBC_news\n▶ 공식 페이스북 : https://www.facebook.com/jtbcnews\n\n지난 7월 런던에서 열린 글로벌팩트체크서밋 세미나에 저희 JTBC 팩트체크 김필규 기자가 참석했던 소식 전해드렸었죠? 이 사람들이 모여서 한번 끝낸 것이 아닌 것 같습니다. 현재 30여 개국에서 70여 명의 팩트체커들이 활약하고 있는데, 터키에서 진행되고 있는 주요 20개국(G20) 정상회의 관련해 특별한 프로젝트를 준비했다고 합니다. 저희하고도 상관이 있는 문제인 것 같아서 김필규 기자에게 직접 얘기 좀 들어보시겠습니다.",
+      "publishedAt": "2015-11-16T14:07:24Z",
+      "duration": "PT6M51S",
+      "viewCount": 3371,
+      "likeCount": 32,
+      "commentCount": 2,
+      "tags": [
+        "JTBC",
+        "JTBC NEWS",
+        "JTBC 뉴스",
+        "뉴스룸",
+        "제이티비씨",
+        "뉴스9",
+        "손석희",
+        "손석희 뉴스",
+        "팩트체크",
+        "팩트체커",
+        "G20",
+        "창업",
+        "청년 창업",
+        "창조경제",
+        "김필규",
+        "JTBC 팩트체크"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2015-11-16T14:07:24Z",
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "collectedAt": "2025-08-25T21:08:18Z"
     }
   },
   "channels": {
@@ -437,9 +504,36 @@
       "viewCount": 1280577570,
       "videoCount": 19124,
       "lastUpdated": "2025-08-24T21:54:50.896120Z"
+    },
+    "UCsU-I-vHLiaMfV_ceaYz5rQ": {
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "channelUrl": "@jtbc_news",
+      "channelDescription": "진실에 닿을 때까지 멈추지 않는 질문, JTBC News\nWelcome to the official JTBC News Channel.\n\n▶ https://news.jtbc.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 4670000,
+      "viewCount": 14817048106,
+      "videoCount": 261473,
+      "lastUpdated": "2025-08-25T21:08:18.508135Z"
     }
   },
-  "lastUpdated": "2025-08-24T21:54:50.896120Z",
-  "totalVideos": 13,
-  "totalChannels": 4
+  "lastUpdated": "2025-08-25T21:08:18.509133Z",
+  "totalVideos": 15,
+  "totalChannels": 5
 }

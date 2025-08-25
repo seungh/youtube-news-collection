@@ -313,6 +313,79 @@
       "channelId": "UC4Aa3OPkMenwTANpf0oWVRQ",
       "channelName": "CBS 김현정의 뉴스쇼",
       "collectedAt": "2025-08-22T14:03:22Z"
+    },
+    "z1szvY-fXN0": {
+      "videoId": "z1szvY-fXN0",
+      "title": "[밀착카메라] 낙동강·금강 지금은?…큰빗이끼벌레만 득실득실",
+      "description": "방송사 : JTBC http://www.jtbc.co.kr \n▶ JTBC 뉴스룸 월~일 20시00분 방송 \n▶ 홈페이지 : http://news.jtbc.co.kr \n공식 트위터 : https://twitter.com/JTBC_news \n▶ 공식 페이스북 : https://www.facebook.com/jtbcnews \n\n이번 보도 이전에 작년 여름에 JTBC가 4대강의 문제점을 본격적으로 보도하기 시작했을 때 하나의 계기가 됐던 것이 바로 큰빗이끼벌레였습니다. 그 이후 유해성 논란이 이어지기도 했지요. 안지현 기자가 다시 낙동강과 금강으로 가봤습니다. 역시나 큰빗이끼벌레의 개체 수가 급증하고 있고, 그 외의 생물체를 발견하기 어려웠습니다.\n\n안지현 기자의 밀착카메라입니다.",
+      "publishedAt": "2015-06-25T13:38:54Z",
+      "duration": "PT4M33S",
+      "viewCount": 130759,
+      "likeCount": 488,
+      "commentCount": 318,
+      "tags": [
+        "JTBC",
+        "JTBC NEWS",
+        "JTBC 뉴스",
+        "제이티비씨 뉴스",
+        "제이티비씨",
+        "손석희",
+        "손석희 뉴스",
+        "뉴스룸",
+        "밀착카메라",
+        "안지현",
+        "4대강",
+        "낙동강",
+        "낙동강 녹조",
+        "4대강 녹조",
+        "금강 녹조",
+        "금강",
+        "큰빗이끼벌레",
+        "이끼벌레",
+        "4대강 환경오염",
+        "환경오염",
+        "4대강 오염"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2015-06-25T13:38:54Z",
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "collectedAt": "2025-08-25T21:08:20Z"
+    },
+    "tCax6YLOacY": {
+      "videoId": "tCax6YLOacY",
+      "title": "[팩트체크] 떠오르는 드론, 어디까지 날 수 있을까?",
+      "description": "방송사 : JTBC http://www.jtbc.co.kr \n▶ JTBC 뉴스룸 월~일 20시00분 방송 \n▶ 홈페이지 : http://news.jtbc.co.kr \n▶ 공식 트위터 : https://twitter.com/JTBC_news \n▶ 공식 페이스북 : https://www.facebook.com/jtbcnews \n\n\n허가 없이 촬영을 하다가 밀라노 두오모 성당에 부딪쳤다는 드론이 바로 이런 건데요. 요즘 방송국뿐 아니라 일반인들도 드론을 많이 구입하다 보니까 그러면 도대체 이걸 어디서 어떻게 날리면 안 되는 거냐, 막 날리다가 잡혀갈 수도 있는 거냐, 여러 질문들이 나오고 있어서, 오늘(25일) 팩트체크에서 다뤄보겠습니다.",
+      "publishedAt": "2015-06-25T13:27:25Z",
+      "duration": "PT7M20S",
+      "viewCount": 117482,
+      "likeCount": 224,
+      "commentCount": 43,
+      "tags": [
+        "JTBC",
+        "JTBC NEWS",
+        "JTBC 뉴스",
+        "제이티비씨 뉴스",
+        "제이티비씨",
+        "손석희",
+        "손석희 뉴스",
+        "뉴스룸",
+        "팩트체크",
+        "김필규",
+        "드론",
+        "드론 위반",
+        "서울 드론",
+        "드론 어디서",
+        "무인기",
+        "드론 사용법"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2015-06-25T13:27:25Z",
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "collectedAt": "2025-08-25T21:08:20Z"
     }
   },
   "channels": {
@@ -423,9 +496,36 @@
       "viewCount": 1280577570,
       "videoCount": 19124,
       "lastUpdated": "2025-08-24T21:54:54.362091Z"
+    },
+    "UCsU-I-vHLiaMfV_ceaYz5rQ": {
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "channelUrl": "@jtbc_news",
+      "channelDescription": "진실에 닿을 때까지 멈추지 않는 질문, JTBC News\nWelcome to the official JTBC News Channel.\n\n▶ https://news.jtbc.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 4670000,
+      "viewCount": 14817048106,
+      "videoCount": 261473,
+      "lastUpdated": "2025-08-25T21:08:20.581368Z"
     }
   },
-  "lastUpdated": "2025-08-24T21:54:54.363612Z",
-  "totalVideos": 13,
-  "totalChannels": 4
+  "lastUpdated": "2025-08-25T21:08:20.582365Z",
+  "totalVideos": 15,
+  "totalChannels": 5
 }

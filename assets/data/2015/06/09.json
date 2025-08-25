@@ -437,6 +437,44 @@
       "channelId": "UC4Aa3OPkMenwTANpf0oWVRQ",
       "channelName": "CBS 김현정의 뉴스쇼",
       "collectedAt": "2025-08-22T14:01:53Z"
+    },
+    "LeE6o00YwN4": {
+      "videoId": "LeE6o00YwN4",
+      "title": "[팩트체크] 메르스 공포…'어디까지 진실일까' 2탄!",
+      "description": "방송사 : JTBC http://www.jtbc.co.kr\n▶ JTBC 뉴스룸 월~일 20시00분 방송\n▶ 홈페이지 : http://news.jtbc.co.kr\n▶ 공식 트위터 : https://twitter.com/JTBC_news\n▶ 공식 페이스북 : https://www.facebook.com/jtbcnews\n\n여전히 많은 말들이 떠돌아다니고 있습니다. 메르스 확진 환자가 계속 늘어나는 만큼 새로 제기되는 궁금증이나 의혹도 여전히 많습니다. 팩트체크에서 시청자 여러분들이 궁금해하는 부분들을 직접 받아봤습니다. 생각보다 많은 질문이 들어왔다고 하는데요. 오늘(9일) 몇 가지 추려서 그 답을 전해드리도록 하겠습니다. \n\n김필규 기자, 주로 어떤 질문들이 들어왔습니까?",
+      "publishedAt": "2015-06-09T14:44:31Z",
+      "duration": "PT7M51S",
+      "viewCount": 6387,
+      "likeCount": 27,
+      "commentCount": 1,
+      "tags": [
+        "JTBC",
+        "JTBC NEWS",
+        "JTBC 뉴스",
+        "뉴스룸",
+        "JTBC 뉴스룸",
+        "뉴스9",
+        "손석희",
+        "손석희 뉴스",
+        "메르스",
+        "메르스 공포",
+        "메르스 루머",
+        "메르스 궁금증",
+        "메르스 확진",
+        "공기감염",
+        "비말감염",
+        "메르스 고통",
+        "메르스 통증",
+        "메르스 마스크",
+        "팩트체크",
+        "JTBC 팩트체크"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2015-06-09T14:44:31Z",
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "collectedAt": "2025-08-25T21:08:20Z"
     }
   },
   "channels": {
@@ -574,9 +612,36 @@
       "viewCount": 1280577570,
       "videoCount": 19124,
       "lastUpdated": "2025-08-24T21:54:32.488294Z"
+    },
+    "UCsU-I-vHLiaMfV_ceaYz5rQ": {
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "channelUrl": "@jtbc_news",
+      "channelDescription": "진실에 닿을 때까지 멈추지 않는 질문, JTBC News\nWelcome to the official JTBC News Channel.\n\n▶ https://news.jtbc.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 4670000,
+      "viewCount": 14817048106,
+      "videoCount": 261473,
+      "lastUpdated": "2025-08-25T21:08:20.683605Z"
     }
   },
-  "lastUpdated": "2025-08-24T21:54:32.490290Z",
-  "totalVideos": 17,
-  "totalChannels": 5
+  "lastUpdated": "2025-08-25T21:08:20.683605Z",
+  "totalVideos": 18,
+  "totalChannels": 6
 }

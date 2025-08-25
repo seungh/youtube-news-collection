@@ -479,6 +479,79 @@
       "channelId": "UC4Aa3OPkMenwTANpf0oWVRQ",
       "channelName": "CBS 김현정의 뉴스쇼",
       "collectedAt": "2025-08-22T14:03:25Z"
+    },
+    "owTqjFnKjq8": {
+      "videoId": "owTqjFnKjq8",
+      "title": "[팩트체크] 담뱃값 경고그림, '행복추구권' 침해하나?",
+      "description": "방송사 : JTBC http://www.jtbc.co.kr \n▶ JTBC 뉴스룸 월~일 20시00분 방송 \n▶ 홈페이지 : http://news.jtbc.co.kr \n▶ 공식 트위터 : https://twitter.com/JTBC_news \n▶ 공식 페이스북 : https://www.facebook.com/jtbcnews \n\n담뱃값 인상하면서 경고사진 넣는 것, 다음 회기에서는 꼭 처리하겠다고 정치권이 약속했고, 저희도 지켜보겠다고 했는데, 결국 이번에도 통과되지 못했습니다. 이유는 흡연자들의 행복추구권에 위배된다는 것인데 오늘(5일) 팩트체크에서는 이 문제 짚어보도록 하겠습니다. 행복추구권, 맞는 얘기일까요?",
+      "publishedAt": "2015-03-05T14:28:40Z",
+      "duration": "PT7M59S",
+      "viewCount": 2818,
+      "likeCount": 14,
+      "commentCount": 5,
+      "tags": [
+        "JTBC",
+        "JTBC NEWS",
+        "JTBC 뉴스",
+        "제이티비씨 뉴스",
+        "제이티비씨",
+        "손석희",
+        "손석희 뉴스",
+        "뉴스룸",
+        "뉴스9",
+        "팩트체크",
+        "김필규",
+        "담뱃갑 경고사진",
+        "담배",
+        "담뱃갑",
+        "행복추구권",
+        "흡연권",
+        "흡연자"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2015-03-05T14:28:40Z",
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "collectedAt": "2025-08-25T21:08:21Z"
+    },
+    "31tHLB5ZyX8": {
+      "videoId": "31tHLB5ZyX8",
+      "title": "[탐사플러스] 사이버? '사이비' 보육자격…'유령 기관' 수두룩",
+      "description": "방송사 : JTBC http://www.jtbc.co.kr \n▶ JTBC 뉴스룸 월~일 20시00분 방송 \n▶ 홈페이지 : http://news.jtbc.co.kr \n▶ 공식 트위터 : https://twitter.com/JTBC_news \n▶ 공식 페이스북 : https://www.facebook.com/jtbcnews \n\n오늘(5일)도 1부에서 이 사건을 전해드렸습니다마는, 최근 잇따라 어린이집 아동 학대 사건이 불거지면서, 최근엔 유치원까지 확대됐는데요, 보육교사는 과연 어떤 과정을 거쳐 채용이 되는지 관심이 모아집니다. 그런데 JTBC 취재 결과, 보육교사 자격증 발급에 상당한 문제가 있는 것으로 나타났습니다. 보육교사 자격증을 발급하는 사이버 교육기관 중에 절반 이상이 무자격 업체들이었습니다. 관리 책임이 있는 정부 당국은 이런 사실을 전혀 모르고 있습니다. \n\n임진택 기자입니다.",
+      "publishedAt": "2015-03-05T14:04:07Z",
+      "duration": "PT4M59S",
+      "viewCount": 903,
+      "likeCount": 7,
+      "commentCount": 2,
+      "tags": [
+        "JTBC",
+        "JTBC NEWS",
+        "JTBC 뉴스",
+        "제이티비씨 뉴스",
+        "제이티비씨",
+        "손석희",
+        "손석희 뉴스",
+        "뉴스룸",
+        "뉴스9",
+        "탐사플러스",
+        "탐사",
+        "임진택",
+        "보육교사",
+        "어린이집",
+        "어린이집 교사",
+        "보육교사 자격증",
+        "사이버평생교육원",
+        "아동 학대",
+        "어린이집 학대",
+        "아동 폭력"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2015-03-05T14:04:07Z",
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "collectedAt": "2025-08-25T21:08:21Z"
     }
   },
   "channels": {
@@ -589,9 +662,36 @@
       "viewCount": 1280577570,
       "videoCount": 19124,
       "lastUpdated": "2025-08-24T21:54:57.526031Z"
+    },
+    "UCsU-I-vHLiaMfV_ceaYz5rQ": {
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "channelUrl": "@jtbc_news",
+      "channelDescription": "진실에 닿을 때까지 멈추지 않는 질문, JTBC News\nWelcome to the official JTBC News Channel.\n\n▶ https://news.jtbc.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 4670000,
+      "viewCount": 14817048106,
+      "videoCount": 261473,
+      "lastUpdated": "2025-08-25T21:08:21.907869Z"
     }
   },
-  "lastUpdated": "2025-08-24T21:54:57.527030Z",
-  "totalVideos": 20,
-  "totalChannels": 4
+  "lastUpdated": "2025-08-25T21:08:21.908862Z",
+  "totalVideos": 22,
+  "totalChannels": 5
 }

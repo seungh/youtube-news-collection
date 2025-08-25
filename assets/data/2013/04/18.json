@@ -207,6 +207,28 @@
       "channelId": "UC4Aa3OPkMenwTANpf0oWVRQ",
       "channelName": "CBS 김현정의 뉴스쇼",
       "collectedAt": "2025-08-22T14:03:38Z"
+    },
+    "PPjMEeTeiD4": {
+      "videoId": "PPjMEeTeiD4",
+      "title": "[JTBC 탐사코드] 신림동 영아 사망 사건 미스터리",
+      "description": "한밤 중 일어난 3살 영아 살인사건\n잔혹하게 살해된 아이, 범인은 없다?\n\n미궁에 빠진 자녀 살인, 누가 거짓말을 하는가?\n\n둘 중 하나는 범인이다\n신림동 영아 사망 사건 미스터리\n\n+++\n\n싸이 '젠틀맨' 최단기간 유튜브 1억 돌파\n\n'젠틀맨'에 숨은 흥행 전략 있다?\n\n'젠틀맨' 그리고 일주일\n\n진실추적자 탐사코드 바로가기 ☞ http://culture.jtbc.co.kr/codej1",
+      "publishedAt": "2013-04-18T14:19:46Z",
+      "duration": "PT58S",
+      "viewCount": 6770,
+      "likeCount": 5,
+      "commentCount": 1,
+      "tags": [
+        "탐사코드",
+        "영아 사망",
+        "신림동 영아 사망 사건",
+        "자녀 살인"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2013-04-18T14:19:46Z",
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "collectedAt": "2025-08-25T21:08:24Z"
     }
   },
   "channels": {
@@ -236,9 +258,36 @@
       "viewCount": 1280577570,
       "videoCount": 19124,
       "lastUpdated": "2025-08-24T21:55:18.357055Z"
+    },
+    "UCsU-I-vHLiaMfV_ceaYz5rQ": {
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "channelUrl": "@jtbc_news",
+      "channelDescription": "진실에 닿을 때까지 멈추지 않는 질문, JTBC News\nWelcome to the official JTBC News Channel.\n\n▶ https://news.jtbc.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 4670000,
+      "viewCount": 14817048106,
+      "videoCount": 261473,
+      "lastUpdated": "2025-08-25T21:08:24.693712Z"
     }
   },
-  "lastUpdated": "2025-08-24T21:55:18.358051Z",
-  "totalVideos": 6,
-  "totalChannels": 1
+  "lastUpdated": "2025-08-25T21:08:24.693712Z",
+  "totalVideos": 7,
+  "totalChannels": 2
 }

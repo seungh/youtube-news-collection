@@ -468,6 +468,41 @@
       "channelId": "UC4Aa3OPkMenwTANpf0oWVRQ",
       "channelName": "CBS 김현정의 뉴스쇼",
       "collectedAt": "2025-08-22T14:03:24Z"
+    },
+    "55t7t6vSvDE": {
+      "videoId": "55t7t6vSvDE",
+      "title": "[팩트체크] 대형마트 6500원 치킨, 상권 침해 논란 넘어설까?",
+      "description": "방송사 : JTBC http://www.jtbc.co.kr \n▶ JTBC 뉴스룸 월~일 20시00분 방송 \n▶ 홈페이지 : http://news.jtbc.co.kr \n▶ 공식 트위터 : https://twitter.com/JTBC_news \n▶ 공식 페이스북 : https://www.facebook.com/jtbcnews \n\n제 뒤에 통닭이 보이고 있습니다. 맛있게 보이는데요, 거의 2만 원짜리 치킨이 나왔다고 해서 논란이 된 바 있죠. 이번에는 반대로 한 대형마트에서 6500원짜리 저가 치킨이 나왔습니다. 5년 전 같은 대형마트에서 내놨던 건데, 그때 '통큰 치킨' 이렇게 나왔었죠. 당시 5천원 짜리가 나와서 굉장히 많은 문제가 제기됐습니다. 골목상권은 다 망하라는 이야기냐, 그래서 제가 기억하기로 1주일만에 접어버리고 말았는데요, 이번에 나온 6500원짜리는 어떻게 나왔고 이번에는 골목상권 논란은 사라지는 것이냐, 오늘(6일) 팩트체크에서 짚어보겠습니다.",
+      "publishedAt": "2015-04-06T13:46:06Z",
+      "duration": "PT8M55S",
+      "viewCount": 87901,
+      "likeCount": 296,
+      "commentCount": 191,
+      "tags": [
+        "JTBC",
+        "JTBC NEWS",
+        "JTBC 뉴스",
+        "제이티비씨",
+        "제이티비씨 뉴스",
+        "손석희 뉴스",
+        "손석희",
+        "뉴스룸",
+        "팩트체크",
+        "김필규",
+        "치킨",
+        "큰치킨",
+        "롯데마트 치킨",
+        "롯데치킨",
+        "통큰치킨",
+        "치킨 가격",
+        "6500원치킨"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2015-04-06T13:46:06Z",
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "collectedAt": "2025-08-25T21:08:21Z"
     }
   },
   "channels": {
@@ -578,9 +613,36 @@
       "viewCount": 1280577570,
       "videoCount": 19124,
       "lastUpdated": "2025-08-24T21:54:56.685124Z"
+    },
+    "UCsU-I-vHLiaMfV_ceaYz5rQ": {
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "channelUrl": "@jtbc_news",
+      "channelDescription": "진실에 닿을 때까지 멈추지 않는 질문, JTBC News\nWelcome to the official JTBC News Channel.\n\n▶ https://news.jtbc.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 4670000,
+      "viewCount": 14817048106,
+      "videoCount": 261473,
+      "lastUpdated": "2025-08-25T21:08:21.447564Z"
     }
   },
-  "lastUpdated": "2025-08-24T21:54:56.685124Z",
-  "totalVideos": 19,
-  "totalChannels": 4
+  "lastUpdated": "2025-08-25T21:08:21.447564Z",
+  "totalVideos": 20,
+  "totalChannels": 5
 }

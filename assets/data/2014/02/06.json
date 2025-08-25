@@ -222,6 +222,33 @@
       "channelId": "UC4Aa3OPkMenwTANpf0oWVRQ",
       "channelName": "CBS 김현정의 뉴스쇼",
       "collectedAt": "2025-08-22T14:03:33Z"
+    },
+    "keiap0wjr6o": {
+      "videoId": "keiap0wjr6o",
+      "title": "[긴급출동] 학대·성폭행 '화성판 도가니'...월급도 슬쩍",
+      "description": "방송사 : JTBC http://www.jtbc.co.kr\r\n▶ JTBC 뉴스9 월~금 21시00분 방송\r\n▶ 홈페이지 : http://news.jtbc.co.kr\r\n▶ 공식 트위터 : https://twitter.com/JTBC_news\r\n▶ 공식 페이스북 : https://www.facebook.com/jtbcnews\r\n\r\n\r\n경기도 화성의 한 장애인 시설에서, 원장이 여학생들을 성폭행 한 사건이 있었습니다. 영화 도가니가 떠올려지죠? 이 원장은 상습적인 성폭행 뿐만아니라, 학대와 폭행을 일삼고 국가보조금까지 횡령한 혐의를 받고 있는데요.",
+      "publishedAt": "2014-02-06T00:51:32Z",
+      "duration": "PT6M9S",
+      "viewCount": 17522,
+      "likeCount": 38,
+      "commentCount": 3,
+      "tags": [
+        "jtbc",
+        "jtbc news 9",
+        "jtbc 아침&",
+        "jtbc 손석희",
+        "손석희",
+        "학대",
+        "성폭행",
+        "영화도가니",
+        "장애인학대"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2014-02-06T00:51:32Z",
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "collectedAt": "2025-08-25T21:08:24Z"
     }
   },
   "channels": {
@@ -278,9 +305,36 @@
       "viewCount": 1280577570,
       "videoCount": 19124,
       "lastUpdated": "2025-08-24T21:55:09.865076Z"
+    },
+    "UCsU-I-vHLiaMfV_ceaYz5rQ": {
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "channelUrl": "@jtbc_news",
+      "channelDescription": "진실에 닿을 때까지 멈추지 않는 질문, JTBC News\nWelcome to the official JTBC News Channel.\n\n▶ https://news.jtbc.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 4670000,
+      "viewCount": 14817048106,
+      "videoCount": 261473,
+      "lastUpdated": "2025-08-25T21:08:24.094973Z"
     }
   },
-  "lastUpdated": "2025-08-24T21:55:09.865076Z",
-  "totalVideos": 7,
-  "totalChannels": 2
+  "lastUpdated": "2025-08-25T21:08:24.095974Z",
+  "totalVideos": 8,
+  "totalChannels": 3
 }

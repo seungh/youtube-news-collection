@@ -251,6 +251,33 @@
       "channelId": "UC4Aa3OPkMenwTANpf0oWVRQ",
       "channelName": "CBS 김현정의 뉴스쇼",
       "collectedAt": "2025-08-22T14:03:33Z"
+    },
+    "CpjMskTv6PQ": {
+      "videoId": "CpjMskTv6PQ",
+      "title": "[긴급출동] \"시속 220km도 밟는다\" 아찔한 총알택시",
+      "description": "방송사 : JTBC http://www.jtbc.co.kr\r\n▶ JTBC 뉴스9 월~금 21시00분 방송\r\n▶ 홈페이지 : http://news.jtbc.co.kr\r\n▶ 공식 트위터 : https://twitter.com/JTBC_news\r\n▶ 공식 페이스북 : https://www.facebook.com/jtbcnews\r\n\r\n자정이 넘어가면 서울에서는 택시 잡는 승객들이 몰리는데요. 그런데 인천이나 안산처럼 시외로 가는 총알택시가 시민들의 안전을 위협하고 있습니다. 한 시간 걸리는 거리를 20여분만에 간다고 합니다. 과속과 신호위반을 일삼고 있는데요, 손님 한 사람이라도 더 태우기 위해서입니다.\r\n\r\n오늘(5일) 긴급출동에서 이 총알택시의 위험한 질주, 취재했습니다.",
+      "publishedAt": "2014-03-05T02:16:57Z",
+      "duration": "PT6M15S",
+      "viewCount": 238554,
+      "likeCount": 543,
+      "commentCount": 310,
+      "tags": [
+        "jtbc",
+        "jtbc news",
+        "jtbc 뉴스",
+        "손석희",
+        "아침뉴스",
+        "긴급출동",
+        "총알택시",
+        "심야택시",
+        "택시"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2014-03-05T02:16:57Z",
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "collectedAt": "2025-08-25T21:08:24Z"
     }
   },
   "channels": {
@@ -307,9 +334,36 @@
       "viewCount": 1280577570,
       "videoCount": 19124,
       "lastUpdated": "2025-08-24T21:55:08.779092Z"
+    },
+    "UCsU-I-vHLiaMfV_ceaYz5rQ": {
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "channelUrl": "@jtbc_news",
+      "channelDescription": "진실에 닿을 때까지 멈추지 않는 질문, JTBC News\nWelcome to the official JTBC News Channel.\n\n▶ https://news.jtbc.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 4670000,
+      "viewCount": 14817048106,
+      "videoCount": 261473,
+      "lastUpdated": "2025-08-25T21:08:24.049095Z"
     }
   },
-  "lastUpdated": "2025-08-24T21:55:08.780089Z",
-  "totalVideos": 8,
-  "totalChannels": 2
+  "lastUpdated": "2025-08-25T21:08:24.049095Z",
+  "totalVideos": 9,
+  "totalChannels": 3
 }

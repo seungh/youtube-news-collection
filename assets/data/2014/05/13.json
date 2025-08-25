@@ -164,6 +164,48 @@
       "channelId": "UC4Aa3OPkMenwTANpf0oWVRQ",
       "channelName": "CBS 김현정의 뉴스쇼",
       "collectedAt": "2025-08-22T14:03:31Z"
+    },
+    "zphksU7knlE": {
+      "videoId": "zphksU7knlE",
+      "title": "[인터뷰] 손석희, 정몽준 새누리당 서울시장 후보 직격 인터뷰",
+      "description": "방송사 : JTBC http://www.jtbc.co.kr\n▶ JTBC 뉴스9 월~금 21시00분 방송\n▶ 홈페이지 : http://news.jtbc.co.kr\n▶ 공식 트위터 : https://twitter.com/JTBC_news\n▶ 공식 페이스북 : https://www.facebook.com/jtbcnews\n\n오늘(12일) 새누리당 서울시장 후보로 선출된 정몽준 후보를 직접 연결해서 얘기를 좀 들어보도록 하겠습니다. 화상으로 연결했습니다. 정몽준 후보님 안녕하십니까?",
+      "publishedAt": "2014-05-12T15:03:03Z",
+      "duration": "PT9M32S",
+      "viewCount": 175182,
+      "likeCount": 530,
+      "commentCount": 166,
+      "tags": [
+        "JTBC",
+        "JTBC NEWS",
+        "손석희",
+        "정몽준",
+        "서울시장 선거",
+        "박원순",
+        "6·4 지방선거"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2014-05-12T15:03:03Z",
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "collectedAt": "2025-08-25T21:08:17Z"
+    },
+    "ISWvpiB3l8o": {
+      "videoId": "ISWvpiB3l8o",
+      "title": "[인터뷰] 3층 로비 생존자 \"우현 출구로 갈수 없던 상황, 밧줄 줬다면..\"",
+      "description": "방송사 : JTBC http://www.jtbc.co.kr\n▶ JTBC 뉴스9 월~금 21시00분 방송\n▶ 홈페이지 : http://news.jtbc.co.kr\n▶ 공식 트위터 : https://twitter.com/JTBC_news\n▶ 공식 페이스북 : https://www.facebook.com/jtbcnews\n\n방금 보도된 사고 당시 영상과 상황을 저희에게 전해주신 생존자분을 연결해서 좀 더 얘기 나누겠습니다. 이분께서는 당시 '헬기에서 밧줄 하나만 내려줬어도 승객들이 더 살 수 있었다'고 특히 구조에 대한 아쉬움을 토로하셨는데요. 한승석 씨가 전화로 연결돼 있습니다. 안녕하십니까?",
+      "publishedAt": "2014-05-12T15:42:53Z",
+      "duration": "PT9M30S",
+      "viewCount": 93040,
+      "likeCount": 283,
+      "commentCount": 50,
+      "tags": [],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2014-05-12T15:42:53Z",
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "collectedAt": "2025-08-25T21:08:17Z"
     }
   },
   "channels": {
@@ -220,9 +262,36 @@
       "viewCount": 1280577570,
       "videoCount": 19124,
       "lastUpdated": "2025-08-24T21:55:06.019085Z"
+    },
+    "UCsU-I-vHLiaMfV_ceaYz5rQ": {
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "channelUrl": "@jtbc_news",
+      "channelDescription": "진실에 닿을 때까지 멈추지 않는 질문, JTBC News\nWelcome to the official JTBC News Channel.\n\n▶ https://news.jtbc.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 4670000,
+      "viewCount": 14817048106,
+      "videoCount": 261473,
+      "lastUpdated": "2025-08-25T21:08:17.062290Z"
     }
   },
-  "lastUpdated": "2025-08-24T21:55:06.041132Z",
-  "totalVideos": 7,
-  "totalChannels": 2
+  "lastUpdated": "2025-08-25T21:08:17.063287Z",
+  "totalVideos": 9,
+  "totalChannels": 3
 }

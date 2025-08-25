@@ -326,6 +326,46 @@
       "channelId": "UCkinYTS9IHqOEwR1Sze2JTw",
       "channelName": "SBS 뉴스",
       "collectedAt": "2025-08-24T21:54:57Z"
+    },
+    "0glblwZnSc0": {
+      "videoId": "0glblwZnSc0",
+      "title": "[팩트체크] 람보르기니 보험사기, 얼마나 챙기길래…",
+      "description": "방송사 : JTBC http://www.jtbc.co.kr \n▶ JTBC 뉴스룸 월~일 20시00분 방송 \n▶ 홈페이지 : http://news.jtbc.co.kr \n▶ 공식 트위터 : https://twitter.com/JTBC_news \n▶ 공식 페이스북 : https://www.facebook.com/jtbcnews \n\n거제도의 한 용접공이 고가의 수입차, 람보르기니와 사고를 내 거액을 물게 됐다는 이야기. 그래서 많은 분들이 안타까워했다는 얘기도 전해드렸고, 이게 결국 보험사기였단 얘기도 전해드렸습니다. 그래서 어떤 식으로 보험금을 타내려고 한 건지, 또 얼마나 챙길 수 있길래 고가의 수입차를 박살 낸 건지, 여러 궁금증이 나왔습니다. 또 외제차를 몰고 있지 않은 저희들은 굉장히 조심해야 하지 않겠습니까? 오늘(19일) 팩트체크에서는 이 궁금증들 풀어보겠습니다.",
+      "publishedAt": "2015-03-19T13:29:58Z",
+      "duration": "PT8M33S",
+      "viewCount": 80143,
+      "likeCount": 143,
+      "commentCount": 27,
+      "tags": [
+        "JTBC",
+        "JTBC NEWS",
+        "JTBC 뉴스",
+        "제이티비씨 뉴스",
+        "제이티비씨",
+        "손석희",
+        "손석희 뉴스",
+        "뉴스룸",
+        "뉴스9",
+        "팩트체크",
+        "김필규",
+        "람보르기니",
+        "보험사기",
+        "자동차 보험",
+        "자동차 보험금",
+        "람보르기니 보험사기",
+        "람보르기니 수리비",
+        "수입차 수리비",
+        "수입차 보험",
+        "외제차 보험",
+        "외제차 수리비",
+        "교통사고 보험"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2015-03-19T13:29:58Z",
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "collectedAt": "2025-08-25T21:08:21Z"
     }
   },
   "channels": {
@@ -463,9 +503,36 @@
       "viewCount": 14985058976,
       "videoCount": 297368,
       "lastUpdated": "2025-08-24T21:54:57.088101Z"
+    },
+    "UCsU-I-vHLiaMfV_ceaYz5rQ": {
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "channelUrl": "@jtbc_news",
+      "channelDescription": "진실에 닿을 때까지 멈추지 않는 질문, JTBC News\nWelcome to the official JTBC News Channel.\n\n▶ https://news.jtbc.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 4670000,
+      "viewCount": 14817048106,
+      "videoCount": 261473,
+      "lastUpdated": "2025-08-25T21:08:21.732355Z"
     }
   },
-  "lastUpdated": "2025-08-24T21:54:57.088101Z",
-  "totalVideos": 13,
-  "totalChannels": 5
+  "lastUpdated": "2025-08-25T21:08:21.732355Z",
+  "totalVideos": 14,
+  "totalChannels": 6
 }

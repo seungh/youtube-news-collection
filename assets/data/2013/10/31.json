@@ -149,6 +149,64 @@
       "channelId": "UC4Aa3OPkMenwTANpf0oWVRQ",
       "channelName": "CBS 김현정의 뉴스쇼",
       "collectedAt": "2025-08-22T14:03:35Z"
+    },
+    "e2pq211sAL8": {
+      "videoId": "e2pq211sAL8",
+      "title": "[단독] 일본 '핵연료 3천톤 저장 시설' 내부 최초 공개",
+      "description": "일본의 경우 후쿠시마 원전 사고로 대재앙을 겪고 있긴 하지만 사용후 핵연료 처리에선 우리보다 한발 앞서 있습니다. 이미 저장시설이 완공돼 올 12월부터 가동에 들어갈 예정입니다. 내부 영상을 JTBC가 단독으로 확보했습니다.",
+      "publishedAt": "2013-10-31T05:03:36Z",
+      "duration": "PT1M32S",
+      "viewCount": 9503,
+      "likeCount": 31,
+      "commentCount": 3,
+      "tags": [
+        "JTBC",
+        "JTBC NEWS",
+        "JTBC NEWS9",
+        "뉴스나인",
+        "뉴스9",
+        "손석희",
+        "후쿠시마",
+        "후쿠시마 원전",
+        "방사능",
+        "일본",
+        "일본 방사능",
+        "후쿠시마 핵연료",
+        "후쿠시마 원전사고",
+        "원전",
+        "원자력 발전소"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2013-10-31T05:03:36Z",
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "collectedAt": "2025-08-25T21:08:25Z"
+    },
+    "dr1WL0EZhGE": {
+      "videoId": "dr1WL0EZhGE",
+      "title": "[단독] 거실에 세워둔 에어컨 갑자기 쓰러져 '날벼락'",
+      "description": "김 모씨는 지난 달 황당한 일을 겪었습니다.\n\n거실 한켠에 세워둔 에어컨이 갑자기 넘어진 겁니다.\n\n[김 모씨/서울 공덕동 : 여기 쳤으면 위에 다 나갔을 거야. (집 안에는) 제 딸만 있었죠, 손자하고 둘이.]\n\n에어콘 하단 부위 플라스틱이 깨지면서 균형을 잃고 쓰러졌습니다.\n\n하마터면 큰 사고가 날 뻔 했습니다.\n\n비슷한 사례가 최근 늘어나고 있습니다.",
+      "publishedAt": "2013-10-31T04:25:26Z",
+      "duration": "PT1M33S",
+      "viewCount": 7250,
+      "likeCount": 13,
+      "commentCount": 5,
+      "tags": [
+        "에어컨 고장",
+        "쓰러진 에어컨",
+        "뉴스9",
+        "NEWS9",
+        "JTBC NEWS",
+        "제이티비씨 뉴스",
+        "손석희 뉴스"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2013-10-31T04:25:26Z",
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "collectedAt": "2025-08-25T21:08:25Z"
     }
   },
   "channels": {
@@ -178,9 +236,36 @@
       "viewCount": 1280577570,
       "videoCount": 19124,
       "lastUpdated": "2025-08-24T21:55:12.486064Z"
+    },
+    "UCsU-I-vHLiaMfV_ceaYz5rQ": {
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "channelUrl": "@jtbc_news",
+      "channelDescription": "진실에 닿을 때까지 멈추지 않는 질문, JTBC News\nWelcome to the official JTBC News Channel.\n\n▶ https://news.jtbc.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 4670000,
+      "viewCount": 14817048106,
+      "videoCount": 261473,
+      "lastUpdated": "2025-08-25T21:08:25.162457Z"
     }
   },
-  "lastUpdated": "2025-08-24T21:55:12.489054Z",
-  "totalVideos": 4,
-  "totalChannels": 1
+  "lastUpdated": "2025-08-25T21:08:25.162457Z",
+  "totalVideos": 6,
+  "totalChannels": 2
 }

@@ -337,6 +337,32 @@
       "channelId": "UC4Aa3OPkMenwTANpf0oWVRQ",
       "channelName": "CBS 김현정의 뉴스쇼",
       "collectedAt": "2025-08-22T14:03:27Z"
+    },
+    "Zfw14lr78P4": {
+      "videoId": "Zfw14lr78P4",
+      "title": "[팩트체크] 어디까지가 정당한 방어인가…그 범위는?",
+      "description": "방송사 : JTBC http://www.jtbc.co.kr \n▶ JTBC 뉴스룸 월~일 20시00분 방송 \n▶ 홈페이지 : http://news.jtbc.co.kr \n▶ 공식 트위터 : https://twitter.com/JTBC_news \n▶ 공식 페이스북 : https://www.facebook.com/jtbcnews \n\n어디까지를 정당방위로 볼 수 있느냐는 논란, 저희도 이 사건 관련해 지난 금요일 보도해 드렸는데요, 오늘(27일) 검찰에서 이와 관련해 '정당방위로 보기 힘든 이유'라는 자료까지 만들어 배포했습니다. 오늘 팩트체크에서 이 문제 다뤄보겠습니다. 사실 좀 어려운 문제이긴 한데요, 김필규 기자가 나름대로 열심히 조사했습니다. 어서 오세요.",
+      "publishedAt": "2014-10-27T14:55:42Z",
+      "duration": "PT9M9S",
+      "viewCount": 80498,
+      "likeCount": 455,
+      "commentCount": 424,
+      "tags": [
+        "JTBC",
+        "JTBC NEWS",
+        "JTBC 뉴스룸",
+        "손석희",
+        "김필규",
+        "정당방위",
+        "도둑",
+        "팩트체크"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2014-10-27T14:55:42Z",
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "collectedAt": "2025-08-25T21:08:23Z"
     }
   },
   "channels": {
@@ -420,9 +446,36 @@
       "viewCount": 1280577570,
       "videoCount": 19124,
       "lastUpdated": "2025-08-24T21:55:00.338112Z"
+    },
+    "UCsU-I-vHLiaMfV_ceaYz5rQ": {
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "channelUrl": "@jtbc_news",
+      "channelDescription": "진실에 닿을 때까지 멈추지 않는 질문, JTBC News\nWelcome to the official JTBC News Channel.\n\n▶ https://news.jtbc.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 4670000,
+      "viewCount": 14817048106,
+      "videoCount": 261473,
+      "lastUpdated": "2025-08-25T21:08:23.132542Z"
     }
   },
-  "lastUpdated": "2025-08-24T21:55:00.338112Z",
-  "totalVideos": 13,
-  "totalChannels": 3
+  "lastUpdated": "2025-08-25T21:08:23.133539Z",
+  "totalVideos": 14,
+  "totalChannels": 4
 }

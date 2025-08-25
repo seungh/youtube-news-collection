@@ -318,6 +318,37 @@
       "channelId": "UC4Aa3OPkMenwTANpf0oWVRQ",
       "channelName": "CBS 김현정의 뉴스쇼",
       "collectedAt": "2025-08-22T14:03:26Z"
+    },
+    "dC_ydXox5aw": {
+      "videoId": "dC_ydXox5aw",
+      "title": "[팩트체크] 괴담 '솔솔'…허니버터칩 열풍, 의혹과 진실",
+      "description": "방송사 : JTBC http://www.jtbc.co.kr \n▶ JTBC 뉴스룸 월~일 20시00분 방송 \n▶ 홈페이지 : http://news.jtbc.co.kr \n▶ 공식 트위터 : https://twitter.com/JTBC_news \n▶ 공식 페이스북 : https://www.facebook.com/jtbcnews \n\n과자 하나가 이렇게까지 큰 화제가 됐던 적이 있었나 싶습니다. 라면은 한 번 있었던 것 같은데 과자는 처음인 것 같고요. 소문이 한참 퍼지더니 이젠 괴담까지 퍼져나가는 양상입니다. 오늘(3일)은 이와 관련된 이야기 짚어보도록 하겠습니다.",
+      "publishedAt": "2014-12-03T14:21:16Z",
+      "duration": "PT9M8S",
+      "viewCount": 139563,
+      "likeCount": 430,
+      "commentCount": 147,
+      "tags": [
+        "JTBC",
+        "JTBC NEWS",
+        "JTBC뉴스",
+        "손석희뉴스",
+        "손석희",
+        "뉴스룸",
+        "뉴스9",
+        "팩트체크",
+        "김필규",
+        "허니버터칩",
+        "해태",
+        "과자",
+        "인기과자"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2014-12-03T14:21:16Z",
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "collectedAt": "2025-08-25T21:08:22Z"
     }
   },
   "channels": {
@@ -401,9 +432,36 @@
       "viewCount": 1280577570,
       "videoCount": 19124,
       "lastUpdated": "2025-08-24T21:54:59.453081Z"
+    },
+    "UCsU-I-vHLiaMfV_ceaYz5rQ": {
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "channelUrl": "@jtbc_news",
+      "channelDescription": "진실에 닿을 때까지 멈추지 않는 질문, JTBC News\nWelcome to the official JTBC News Channel.\n\n▶ https://news.jtbc.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 4670000,
+      "viewCount": 14817048106,
+      "videoCount": 261473,
+      "lastUpdated": "2025-08-25T21:08:22.897173Z"
     }
   },
-  "lastUpdated": "2025-08-24T21:54:59.454133Z",
-  "totalVideos": 14,
-  "totalChannels": 3
+  "lastUpdated": "2025-08-25T21:08:22.898169Z",
+  "totalVideos": 15,
+  "totalChannels": 4
 }

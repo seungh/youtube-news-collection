@@ -179,6 +179,30 @@
       "channelId": "UC4Aa3OPkMenwTANpf0oWVRQ",
       "channelName": "CBS 김현정의 뉴스쇼",
       "collectedAt": "2025-08-22T14:03:33Z"
+    },
+    "K_hSsEOmtSU": {
+      "videoId": "K_hSsEOmtSU",
+      "title": "[사건플러스] 아내가 결혼했다?...유부녀의 황당 사기",
+      "description": "방송사 : JTBC http://www.jtbc.co.kr\r\n▶ JTBC 뉴스9 월~금 21시00분 방송\r\n▶ 홈페이지 : http://news.jtbc.co.kr\r\n▶ 공식 트위터 : https://twitter.com/JTBC_news\r\n▶ 공식 페이스북 : https://www.facebook.com/jtbcnews\r\n\r\n사건플러스, 남편과 딸까지 있는 30대 여성이 사기 결혼을 해 1억여 원을 가로챈 사건 짚어보겠습니다.\r\n\r\n강나현 기자의 보도 보시고, 자세한 얘기 해보겠습니다.",
+      "publishedAt": "2014-03-17T07:41:30Z",
+      "duration": "PT7M44S",
+      "viewCount": 27083,
+      "likeCount": 46,
+      "commentCount": 8,
+      "tags": [
+        "사기 결혼",
+        "결혼 사기",
+        "JTBC",
+        "JTBC NEWS",
+        "제이티비씨 뉴스",
+        "제이티비씨"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2014-03-17T07:41:30Z",
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "collectedAt": "2025-08-25T21:08:23Z"
     }
   },
   "channels": {
@@ -235,9 +259,36 @@
       "viewCount": 1280577570,
       "videoCount": 19124,
       "lastUpdated": "2025-08-24T21:55:08.526408Z"
+    },
+    "UCsU-I-vHLiaMfV_ceaYz5rQ": {
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "channelUrl": "@jtbc_news",
+      "channelDescription": "진실에 닿을 때까지 멈추지 않는 질문, JTBC News\nWelcome to the official JTBC News Channel.\n\n▶ https://news.jtbc.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 4670000,
+      "viewCount": 14817048106,
+      "videoCount": 261473,
+      "lastUpdated": "2025-08-25T21:08:23.796766Z"
     }
   },
-  "lastUpdated": "2025-08-24T21:55:08.528402Z",
-  "totalVideos": 5,
-  "totalChannels": 2
+  "lastUpdated": "2025-08-25T21:08:23.797763Z",
+  "totalVideos": 6,
+  "totalChannels": 3
 }

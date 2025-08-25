@@ -135,6 +135,30 @@
       "channelId": "UC4Aa3OPkMenwTANpf0oWVRQ",
       "channelName": "CBS 김현정의 뉴스쇼",
       "collectedAt": "2025-08-22T14:03:39Z"
+    },
+    "Hv7FrYsHqn0": {
+      "videoId": "Hv7FrYsHqn0",
+      "title": "[JTBC 탐사코드] 중국 현지 취재, 북한 해커 실체를 파헤친다",
+      "description": "\"북한의 해킹 능력은 세계 상위권이며 약 3천명 이상의 해커를 보유하고 있다 - 탈북 해커\"\n\n북한이 3차 핵실험 강행, 1호 전투태세 등 연일 한반도의 평화를 위협하는 협박을 하는 시점에서 사이버 테러를 감행할 가능성은 점점 높아져 가고 있다. '사이버 테러'로 인해 우리에게 주어진 과제를 얘기하는 52회 진실 추적자 탐사코드는 29일 금요일 밤 11시 5분에 방송된다.",
+      "publishedAt": "2013-03-29T03:24:13Z",
+      "duration": "PT58S",
+      "viewCount": 1402,
+      "likeCount": 2,
+      "commentCount": 0,
+      "tags": [
+        "JTBC",
+        "탐사코드",
+        "북한 해커",
+        "북한 해킹",
+        "사이버 테러",
+        "북한 테러"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2013-03-29T03:24:13Z",
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "collectedAt": "2025-08-25T21:08:24Z"
     }
   },
   "channels": {
@@ -191,9 +215,36 @@
       "viewCount": 1280577570,
       "videoCount": 19124,
       "lastUpdated": "2025-08-24T21:55:18.869089Z"
+    },
+    "UCsU-I-vHLiaMfV_ceaYz5rQ": {
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "channelUrl": "@jtbc_news",
+      "channelDescription": "진실에 닿을 때까지 멈추지 않는 질문, JTBC News\nWelcome to the official JTBC News Channel.\n\n▶ https://news.jtbc.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 4670000,
+      "viewCount": 14817048106,
+      "videoCount": 261473,
+      "lastUpdated": "2025-08-25T21:08:24.738590Z"
     }
   },
-  "lastUpdated": "2025-08-24T21:55:18.870086Z",
-  "totalVideos": 5,
-  "totalChannels": 2
+  "lastUpdated": "2025-08-25T21:08:24.738590Z",
+  "totalVideos": 6,
+  "totalChannels": 3
 }

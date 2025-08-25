@@ -146,6 +146,23 @@
       "channelId": "UC4Aa3OPkMenwTANpf0oWVRQ",
       "channelName": "CBS 김현정의 뉴스쇼",
       "collectedAt": "2025-08-22T14:03:34Z"
+    },
+    "QgkYAtEchJ8": {
+      "videoId": "QgkYAtEchJ8",
+      "title": "[긴급출동] \"일당 30만 원\" 대학생 전과자 만든 알바",
+      "description": "겨울방학이 시작되면서 아르바이트 구하는 대학생들이 많은데요, 고소득을 보장한다는 광고에 현혹돼서 해서는 안 되는 불법 아르바이트에 손을 뻗는 학생들도 있다고 합니다. 조금이라도 돈을 많이 벌려는 욕심에 대학생 신분으로 전과자가 돼버리는 경우도 있다고 하는데요.\n\n오늘(17일)의 긴급출동에서는 불법 고액 아르바이트의 유혹, 취재했습니다.",
+      "publishedAt": "2013-12-17T00:59:45Z",
+      "duration": "PT5M3S",
+      "viewCount": 14027,
+      "likeCount": 16,
+      "commentCount": 15,
+      "tags": [],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2013-12-17T00:59:45Z",
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "collectedAt": "2025-08-25T21:08:24Z"
     }
   },
   "channels": {
@@ -202,9 +219,36 @@
       "viewCount": 1280577570,
       "videoCount": 19124,
       "lastUpdated": "2025-08-24T21:55:11.253625Z"
+    },
+    "UCsU-I-vHLiaMfV_ceaYz5rQ": {
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "channelUrl": "@jtbc_news",
+      "channelDescription": "진실에 닿을 때까지 멈추지 않는 질문, JTBC News\nWelcome to the official JTBC News Channel.\n\n▶ https://news.jtbc.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 4670000,
+      "viewCount": 14817048106,
+      "videoCount": 261473,
+      "lastUpdated": "2025-08-25T21:08:24.193709Z"
     }
   },
-  "lastUpdated": "2025-08-24T21:55:11.255130Z",
-  "totalVideos": 5,
-  "totalChannels": 2
+  "lastUpdated": "2025-08-25T21:08:24.194706Z",
+  "totalVideos": 6,
+  "totalChannels": 3
 }

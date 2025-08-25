@@ -318,6 +318,40 @@
       "channelId": "UC4Aa3OPkMenwTANpf0oWVRQ",
       "channelName": "CBS 김현정의 뉴스쇼",
       "collectedAt": "2025-08-22T14:03:21Z"
+    },
+    "ASq4lCYFMck": {
+      "videoId": "ASq4lCYFMck",
+      "title": "[팩트체크] \"과하다\"…외국인노동자 최저임금 적용 논란",
+      "description": "방송사 : JTBC http://www.jtbc.co.kr \n▶ JTBC 뉴스룸 월~일 20시00분 방송 \n▶ 홈페이지 : http://news.jtbc.co.kr \n▶ 공식 트위터 : https://twitter.com/JTBC_news \n▶ 공식 페이스북 : https://www.facebook.com/jtbcnews \n\n팩트체크 시작하겠습니다. 지난주 최저임금위원회에서 내년도 최저임금을 450원 올린 6030원으로 결정했습니다. 적당하다, 턱도 없다… 논란이 있죠. 그런데 국회에선 또 다른 논란이 생겼습니다. 오늘(13일) 어느 국회의원의 발언을 중심으로, 그 말이 맞는지 틀리는지를 한번 봐야 할 것 같습니다. 무슨 얘기냐 하면, \"외국인 노동자들에게도 그대로 적용하는 게 과하지 않느냐\", 너무 후한 것이다, 이런 문제가 제기됐습니다. 오늘 팩트체크에서 이 부분을 짚어보겠습니다.",
+      "publishedAt": "2015-07-13T13:54:08Z",
+      "duration": "PT6M44S",
+      "viewCount": 49692,
+      "likeCount": 150,
+      "commentCount": 179,
+      "tags": [
+        "JTBC",
+        "JTBC NEWS",
+        "JTBC 뉴스",
+        "제이티비씨 뉴스",
+        "제이티비씨",
+        "손석희",
+        "손석희 뉴스",
+        "뉴스룸",
+        "팩트체크",
+        "김필규",
+        "최저임금",
+        "외국인노동자",
+        "외국인 임금",
+        "외국인노동자 임금",
+        "외극인 근로자",
+        "복리후생"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2015-07-13T13:54:08Z",
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "collectedAt": "2025-08-25T21:08:20Z"
     }
   },
   "channels": {
@@ -428,9 +462,36 @@
       "viewCount": 1280577570,
       "videoCount": 19124,
       "lastUpdated": "2025-08-24T21:54:53.958173Z"
+    },
+    "UCsU-I-vHLiaMfV_ceaYz5rQ": {
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "channelUrl": "@jtbc_news",
+      "channelDescription": "진실에 닿을 때까지 멈추지 않는 질문, JTBC News\nWelcome to the official JTBC News Channel.\n\n▶ https://news.jtbc.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 4670000,
+      "viewCount": 14817048106,
+      "videoCount": 261473,
+      "lastUpdated": "2025-08-25T21:08:20.487305Z"
     }
   },
-  "lastUpdated": "2025-08-24T21:54:53.960168Z",
-  "totalVideos": 13,
-  "totalChannels": 4
+  "lastUpdated": "2025-08-25T21:08:20.488302Z",
+  "totalVideos": 14,
+  "totalChannels": 5
 }

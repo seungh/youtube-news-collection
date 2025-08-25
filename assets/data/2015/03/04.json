@@ -692,6 +692,78 @@
       "channelId": "UC4Aa3OPkMenwTANpf0oWVRQ",
       "channelName": "CBS 김현정의 뉴스쇼",
       "collectedAt": "2025-08-22T14:03:25Z"
+    },
+    "y6z_jXx1coM": {
+      "videoId": "y6z_jXx1coM",
+      "title": "[팩트체크] 서울 옷값, 세계에서 가장 비싸다…진실은?",
+      "description": "방송사 : JTBC http://www.jtbc.co.kr \n▶ JTBC 뉴스룸 월~일 20시00분 방송 \n▶ 홈페이지 : http://news.jtbc.co.kr \n▶ 공식 트위터 : https://twitter.com/JTBC_news \n▶ 공식 페이스북 : https://www.facebook.com/jtbcnews \n\n서울이 옷값이 싸다고 난리인데 왜 제일 비싼 도시라는 조사 결과가 나왔을까요? 어제(3일) 저희 뉴스룸에서도 전해드린 바 있죠. 싸지는 않을 거라 생각했지만 이 정도일 줄은 몰랐다는 이야기도 나오는 것 같습니다.\n\n오늘 팩트체크에서는 그동안 나온 이야기들과 조금 다른 내용을 준비했다고 하는데, 들어보겠습니다.",
+      "publishedAt": "2015-03-04T13:56:48Z",
+      "duration": "PT8M31S",
+      "viewCount": 63639,
+      "likeCount": 282,
+      "commentCount": 54,
+      "tags": [
+        "JTBC",
+        "JTBC NEWS",
+        "JTBC 뉴스",
+        "제이티비씨",
+        "제이티비씨 뉴스",
+        "손석희 뉴스",
+        "손석희",
+        "뉴스룸",
+        "뉴스9",
+        "팩트체크",
+        "김필규",
+        "서울 옷값",
+        "세계 옷값",
+        "옷값",
+        "이코노미스트",
+        "이코노미스트 인텔리전스 유닛",
+        "EIU",
+        "BBC",
+        "뉴욕 서울",
+        "서울 싱가폴"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2015-03-04T13:56:48Z",
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "collectedAt": "2025-08-25T21:08:21Z"
+    },
+    "y8jP1cUJjNo": {
+      "videoId": "y8jP1cUJjNo",
+      "title": "[탐사플러스] 동난 전세…사교육 1번지 대치동, 새 학기 르포",
+      "description": "방송사 : JTBC http://www.jtbc.co.kr \n▶ JTBC 뉴스룸 월~일 20시00분 방송 \n▶ 홈페이지 : http://news.jtbc.co.kr \n▶ 공식 트위터 : https://twitter.com/JTBC_news \n▶ 공식 페이스북 : https://www.facebook.com/jtbcnews \n\n서울 강남구 대치동 하면 여러분은 제일 먼저 뭐가 떠오르십니까. 아마도 비싼 집값, 대표적인 부촌 이런 것과 함께 학원가가 아닐까 싶습니다. 언제부터인가 우리나라의 사교육 1번지라고 불리는 곳이죠. 오늘(4일)은 도대체 대치동 학원은 어떤 곳인지 뭘 어떻게 가르치기에 전국 각지에서 몰려드는지, 그로 인해 생기는 부작용은 무엇인지 짚어보겠습니다. \n\n먼저 들썩거리는 대치동 전세시장과 학원가 모습을 박소연 기자가 취재했습니다.",
+      "publishedAt": "2015-03-04T13:51:54Z",
+      "duration": "PT4M27S",
+      "viewCount": 4450,
+      "likeCount": 11,
+      "commentCount": 2,
+      "tags": [
+        "JTBC",
+        "JTBC NEWS",
+        "JTBC 뉴스",
+        "제이티비씨",
+        "제이티비씨 뉴스",
+        "손석희 뉴스",
+        "손석희",
+        "뉴스룸",
+        "뉴스9",
+        "탐사플러스",
+        "박소연",
+        "대치동",
+        "사교육",
+        "대치동 학원",
+        "대치동 전세시장",
+        "대치동 학원가"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2015-03-04T13:51:54Z",
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "collectedAt": "2025-08-25T21:08:21Z"
     }
   },
   "channels": {
@@ -829,9 +901,36 @@
       "viewCount": 1280577570,
       "videoCount": 19124,
       "lastUpdated": "2025-08-24T21:54:57.562110Z"
+    },
+    "UCsU-I-vHLiaMfV_ceaYz5rQ": {
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "channelUrl": "@jtbc_news",
+      "channelDescription": "진실에 닿을 때까지 멈추지 않는 질문, JTBC News\nWelcome to the official JTBC News Channel.\n\n▶ https://news.jtbc.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 4670000,
+      "viewCount": 14817048106,
+      "videoCount": 261473,
+      "lastUpdated": "2025-08-25T21:08:21.927811Z"
     }
   },
-  "lastUpdated": "2025-08-24T21:54:57.564106Z",
-  "totalVideos": 26,
-  "totalChannels": 5
+  "lastUpdated": "2025-08-25T21:08:21.928808Z",
+  "totalVideos": 28,
+  "totalChannels": 6
 }

@@ -55,6 +55,32 @@
       "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
       "channelName": "뉴스TVCHOSUN",
       "collectedAt": "2025-08-21T10:46:18Z"
+    },
+    "xqeIUdpAHnE": {
+      "videoId": "xqeIUdpAHnE",
+      "title": "세월호 '쌍둥이 배' 오하마나호, 내부 직접 들어가보니",
+      "description": "방송사 : JTBC http://www.jtbc.co.kr \n▶ JTBC 뉴스9 월~금 21시00분 방송 \n▶ 홈페이지 : http://news.jtbc.co.kr \n▶ 공식 트위터 : https://twitter.com/JTBC_news \n▶ 공식 페이스북 : https://www.facebook.com/jtbcnews \n\n세월호 참사 당시, 왜 300명 넘는 고귀한 목숨을 구해내지 못했는가, 이런 의문의 답을 찾기 위해 JTBC는 당시 상황에 대해 지속적으로 취재해 나가고 있습니다. 오늘(20일)도 저희가 던지는 '왜?'라는 질문입니다. 오늘은 세월호와 쌍둥이 배라고 불리는 오하마나호에 들어가 사고 당시 의문점을 직접 확인해 봤습니다. \n\n박성훈 기자가 다녀왔는데, 이 자리에 나와 있습니다.",
+      "publishedAt": "2014-06-20T15:15:19Z",
+      "duration": "PT5M32S",
+      "viewCount": 111460,
+      "likeCount": 471,
+      "commentCount": 129,
+      "tags": [
+        "JTBC",
+        "JTBC NEWS",
+        "손석희",
+        "박성훈",
+        "세월호",
+        "진도 여객선 좌초",
+        "오하마나호",
+        "쌍둥이 배"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2014-06-20T15:15:19Z",
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "collectedAt": "2025-08-25T21:08:23Z"
     }
   },
   "channels": {
@@ -84,9 +110,36 @@
       "viewCount": 4319423561,
       "videoCount": 150855,
       "lastUpdated": "2025-08-21T10:28:57.482699Z"
+    },
+    "UCsU-I-vHLiaMfV_ceaYz5rQ": {
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "channelUrl": "@jtbc_news",
+      "channelDescription": "진실에 닿을 때까지 멈추지 않는 질문, JTBC News\nWelcome to the official JTBC News Channel.\n\n▶ https://news.jtbc.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 4670000,
+      "viewCount": 14817048106,
+      "videoCount": 261473,
+      "lastUpdated": "2025-08-25T21:08:23.515517Z"
     }
   },
-  "lastUpdated": "2025-08-21T10:46:18.530824Z",
-  "totalVideos": 2,
-  "totalChannels": 1
+  "lastUpdated": "2025-08-25T21:08:23.516514Z",
+  "totalVideos": 3,
+  "totalChannels": 2
 }

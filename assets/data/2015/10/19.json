@@ -304,6 +304,75 @@
       "channelId": "UC4Aa3OPkMenwTANpf0oWVRQ",
       "channelName": "CBS 김현정의 뉴스쇼",
       "collectedAt": "2025-08-22T14:03:19Z"
+    },
+    "WrRIzBpltCo": {
+      "videoId": "WrRIzBpltCo",
+      "title": "[밀착카메라] '쿵짝쿵짝' 고속도로 휴게소 소음앓이",
+      "description": "방송사 : JTBC http://www.jtbc.co.kr \n▶ JTBC 뉴스룸 월~일 20시00분 방송 \n▶ 홈페이지 : http://news.jtbc.co.kr \n▶ 공식 트위터 : https://twitter.com/JTBC_news \n▶ 공식 페이스북 : https://www.facebook.com/jtbcnews \n\n고속도로 휴게소 하면 우선 '시끄럽다'는 기억이 남습니다. 이름만 휴게소일 뿐 더 피곤하다는 분들도 계시는데, 일부 가게에선 음악을 너무 크게 틀어서 대화가 안 될 정도입니다. \n\n밀착카메라 고석승 기자가 현장을 취재했습니다.",
+      "publishedAt": "2015-10-19T14:30:25Z",
+      "duration": "PT4M5S",
+      "viewCount": 7659,
+      "likeCount": 52,
+      "commentCount": 6,
+      "tags": [
+        "JTBC",
+        "JTBC NEWS",
+        "JTBC 뉴스",
+        "제이티비씨 뉴스",
+        "제이티비씨",
+        "손석희",
+        "손석희 뉴스",
+        "뉴스룸",
+        "밀착카메라",
+        "휴게소",
+        "휴게소 소음",
+        "휴게소 음악",
+        "고석승",
+        "소음"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2015-10-19T14:30:25Z",
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "collectedAt": "2025-08-25T21:08:18Z"
+    },
+    "3N_mimOIjMQ": {
+      "videoId": "3N_mimOIjMQ",
+      "title": "[팩트체크] 도박이냐 오락이냐…'불법도박'의 기준은?",
+      "description": "방송사 : JTBC http://www.jtbc.co.kr \n▶ JTBC 뉴스룸 월~일 20시00분 방송 \n▶ 홈페이지 : http://news.jtbc.co.kr \n▶ 공식 트위터 : https://twitter.com/JTBC_news \n▶ 공식 페이스북 : https://www.facebook.com/jtbcnews \n\n프로야구가 포스트시즌에 접어들면서 열기가 뜨거워지는데 찬물을 끼얹는 소식이 전해졌습니다. 현직 프로야구 선수 2명이 해외 불법 원정도박 혐의를 받고 있다는 건데요. 아직 내사 단계라 결과는 더 지켜봐야겠습니다만 이번 사건을 두고 도박 사실은 맞는지, 그렇다면 이게 도박이냐 아니냐는 무엇으로 판단하는지, 과연 불법인 건지, 예를 들면 우리의 경우 강원도 정선에 도박장이 있는데 거기 기준과 왜 이렇게 다르냐, 이런 얘기들도 많이 나오고 있습니다. 짚어보겠습니다.",
+      "publishedAt": "2015-10-19T14:28:14Z",
+      "duration": "PT5M42S",
+      "viewCount": 12081,
+      "likeCount": 39,
+      "commentCount": 9,
+      "tags": [
+        "JTBC",
+        "JTBC NEWS",
+        "JTBC 뉴스",
+        "제이티비씨 뉴스",
+        "제이티비씨",
+        "손석희",
+        "손석희 뉴스",
+        "뉴스룸",
+        "팩트체크",
+        "김필규",
+        "도박",
+        "불법도박",
+        "불법도박 기준",
+        "카지노",
+        "해외 도박",
+        "삼성 도박",
+        "야구 선수 도박",
+        "야구 도박",
+        "원정 도박"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2015-10-19T14:28:14Z",
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "collectedAt": "2025-08-25T21:08:18Z"
     }
   },
   "channels": {
@@ -414,9 +483,36 @@
       "viewCount": 1280577570,
       "videoCount": 19124,
       "lastUpdated": "2025-08-24T21:54:51.432098Z"
+    },
+    "UCsU-I-vHLiaMfV_ceaYz5rQ": {
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "channelUrl": "@jtbc_news",
+      "channelDescription": "진실에 닿을 때까지 멈추지 않는 질문, JTBC News\nWelcome to the official JTBC News Channel.\n\n▶ https://news.jtbc.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 4670000,
+      "viewCount": 14817048106,
+      "videoCount": 261473,
+      "lastUpdated": "2025-08-25T21:08:18.724580Z"
     }
   },
-  "lastUpdated": "2025-08-24T21:54:51.433094Z",
-  "totalVideos": 12,
-  "totalChannels": 4
+  "lastUpdated": "2025-08-25T21:08:18.725577Z",
+  "totalVideos": 14,
+  "totalChannels": 5
 }

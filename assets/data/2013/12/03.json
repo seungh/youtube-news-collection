@@ -182,6 +182,32 @@
       "channelId": "UC4Aa3OPkMenwTANpf0oWVRQ",
       "channelName": "CBS 김현정의 뉴스쇼",
       "collectedAt": "2025-08-22T14:03:34Z"
+    },
+    "VrDDiwEy_30": {
+      "videoId": "VrDDiwEy_30",
+      "title": "\"비아그라·사후피임약, 전화 한 통이면...\"",
+      "description": "심부름센터하면 뒷조사를 해주거나 채무를 받아준다거나 이런 불법업무가 이뤄지는 경우가 많습니다.\n\n최근에는 처방이 필요한 의약품을 배달해주는 곳까지 생겼다고 합니다.\n\n주로 거래가 되는 게 발기부전치료제나 비만치료제처럼 의사의 처방이 꼭 필요한 것들이라고 하는데요. 가짜일 가능성도 높아서 건강과 관련한 부작용도 우려됩니다.\n\n긴급출동에서 전문의약품이 불법 거래되고 있는 심부름센터, 집중 취재했습니다.",
+      "publishedAt": "2013-12-03T06:57:19Z",
+      "duration": "PT5M2S",
+      "viewCount": 6230,
+      "likeCount": 3,
+      "commentCount": 2,
+      "tags": [
+        "심부름센터",
+        "비아그라",
+        "사후피임약",
+        "발기부전치료제",
+        "JTBC NEWS",
+        "JTBC",
+        "제이티비씨 뉴스",
+        "제이티비씨"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2013-12-03T06:57:19Z",
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "collectedAt": "2025-08-25T21:08:24Z"
     }
   },
   "channels": {
@@ -211,9 +237,36 @@
       "viewCount": 1280577570,
       "videoCount": 19124,
       "lastUpdated": "2025-08-24T21:55:11.814098Z"
+    },
+    "UCsU-I-vHLiaMfV_ceaYz5rQ": {
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "channelUrl": "@jtbc_news",
+      "channelDescription": "진실에 닿을 때까지 멈추지 않는 질문, JTBC News\nWelcome to the official JTBC News Channel.\n\n▶ https://news.jtbc.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 4670000,
+      "viewCount": 14817048106,
+      "videoCount": 261473,
+      "lastUpdated": "2025-08-25T21:08:24.277823Z"
     }
   },
-  "lastUpdated": "2025-08-24T21:55:11.815094Z",
-  "totalVideos": 7,
-  "totalChannels": 1
+  "lastUpdated": "2025-08-25T21:08:24.277823Z",
+  "totalVideos": 8,
+  "totalChannels": 2
 }

@@ -315,6 +315,45 @@
       "channelId": "UC4Aa3OPkMenwTANpf0oWVRQ",
       "channelName": "CBS 김현정의 뉴스쇼",
       "collectedAt": "2025-08-22T14:03:25Z"
+    },
+    "3ttZ_ptxHDc": {
+      "videoId": "3ttZ_ptxHDc",
+      "title": "[뉴스 키워드] 반값 담배 부활? 논쟁 중심에 선 '봉초'",
+      "description": "방송사 : JTBC http://www.jtbc.co.kr \n▶ JTBC 뉴스룸 월~일 20시00분 방송 \n▶ 홈페이지 : http://news.jtbc.co.kr \n▶ 공식 트위터 : https://twitter.com/JTBC_news \n▶ 공식 페이스북 : https://www.facebook.com/jtbcnews \n\n담뱃값 논란은 해가 바뀐 지 두 달이 지나면서도 여전히 뜨겁습니다. 정치권이 저가담배 얘기를 꺼내면서 다시 불이 붙은 면도 있는데요. 저가담배 얘기 중에 나온 것이 봉초였습니다. 그런데 과연 정부가 주장해온 국민건강 증진과 맞는 얘기인가…\n\n매주 금요일 이 시간에 파고들어 보는 이지은 기자의 뉴스 키워드, 오늘(27일) 봉초의 모든 것을 알려드립니다.",
+      "publishedAt": "2015-02-27T12:48:05Z",
+      "duration": "PT4M36S",
+      "viewCount": 87622,
+      "likeCount": 118,
+      "commentCount": 56,
+      "tags": [
+        "JTBC",
+        "JTBC NEWS",
+        "JTBC 뉴스",
+        "제이티비씨",
+        "제이티비씨 뉴스",
+        "손석희 뉴스",
+        "손석희",
+        "뉴스룸",
+        "뉴스9",
+        "이지은",
+        "뉴스키워드",
+        "담배",
+        "담뱃값",
+        "담뱃값 인상",
+        "저가 담배",
+        "봉초",
+        "봉초 담배",
+        "타바코",
+        "롤링 타바코",
+        "담뱃세",
+        "반값 담배"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2015-02-27T12:48:05Z",
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "collectedAt": "2025-08-25T21:08:21Z"
     }
   },
   "channels": {
@@ -425,9 +464,36 @@
       "viewCount": 1280577570,
       "videoCount": 19124,
       "lastUpdated": "2025-08-24T21:54:57.699077Z"
+    },
+    "UCsU-I-vHLiaMfV_ceaYz5rQ": {
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "channelUrl": "@jtbc_news",
+      "channelDescription": "진실에 닿을 때까지 멈추지 않는 질문, JTBC News\nWelcome to the official JTBC News Channel.\n\n▶ https://news.jtbc.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 4670000,
+      "viewCount": 14817048106,
+      "videoCount": 261473,
+      "lastUpdated": "2025-08-25T21:08:21.967704Z"
     }
   },
-  "lastUpdated": "2025-08-24T21:54:57.700074Z",
-  "totalVideos": 12,
-  "totalChannels": 4
+  "lastUpdated": "2025-08-25T21:08:21.967704Z",
+  "totalVideos": 13,
+  "totalChannels": 5
 }

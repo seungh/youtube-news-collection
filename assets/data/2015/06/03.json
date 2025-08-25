@@ -229,6 +229,41 @@
       "channelId": "UC4Aa3OPkMenwTANpf0oWVRQ",
       "channelName": "CBS 김현정의 뉴스쇼",
       "collectedAt": "2025-08-22T14:03:22Z"
+    },
+    "zofigcdEm0w": {
+      "videoId": "zofigcdEm0w",
+      "title": "[팩트체크] 한국 vs 사우디 정부, 메르스 대책 비교하니",
+      "description": "방송사 : JTBC http://www.jtbc.co.kr \n▶ JTBC 뉴스룸 월~일 20시00분 방송 \n▶ 홈페이지 : http://news.jtbc.co.kr \n▶ 공식 트위터 : https://twitter.com/JTBC_news \n▶ 공식 페이스북 : https://www.facebook.com/jtbcnews \n\n2003년 사스가 발병했을 때만 해도 세계보건기구로부터 사스 예방 모범국이란 칭찬을 받았던 우리인데. 잘못하면 오히려 민폐국이 되지 않을까 하는 우려가 요즘 많이 나오고 있습니다. 지금까지 정부 대처를 어떻게 평가할 수 있고 또 잘못된 부분은 무엇인지. 팩트체크에서 짚어보면서 잘못된 부분을 좀 고쳐나갔으면 하는 마음이 상당히 큽니다. \n\n김필규 기자, 불과 12년 전 일인데 방역당국의 대처 방식에 대한 평가가 그때 하고 지금 하고 너무나 달라져 버린 것 같습니다.",
+      "publishedAt": "2015-06-03T13:28:33Z",
+      "duration": "PT6M33S",
+      "viewCount": 9196,
+      "likeCount": 39,
+      "commentCount": 18,
+      "tags": [
+        "JTBC",
+        "JTBC NEWS",
+        "JTBC 뉴스",
+        "제이티비씨 뉴스",
+        "제이티비씨",
+        "손석희",
+        "손석희 뉴스",
+        "뉴스룸",
+        "팩트체크",
+        "김필규",
+        "사스",
+        "메르스",
+        "메르스 대책",
+        "사우디 메르스",
+        "한국 메르스",
+        "세계보건기구",
+        "메르스 방역"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2015-06-03T13:28:33Z",
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "collectedAt": "2025-08-25T21:08:20Z"
     }
   },
   "channels": {
@@ -339,9 +374,36 @@
       "viewCount": 1280577570,
       "videoCount": 19124,
       "lastUpdated": "2025-08-24T21:54:54.807124Z"
+    },
+    "UCsU-I-vHLiaMfV_ceaYz5rQ": {
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "channelUrl": "@jtbc_news",
+      "channelDescription": "진실에 닿을 때까지 멈추지 않는 질문, JTBC News\nWelcome to the official JTBC News Channel.\n\n▶ https://news.jtbc.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 4670000,
+      "viewCount": 14817048106,
+      "videoCount": 261473,
+      "lastUpdated": "2025-08-25T21:08:20.751424Z"
     }
   },
-  "lastUpdated": "2025-08-24T21:54:54.807124Z",
-  "totalVideos": 9,
-  "totalChannels": 4
+  "lastUpdated": "2025-08-25T21:08:20.752421Z",
+  "totalVideos": 10,
+  "totalChannels": 5
 }

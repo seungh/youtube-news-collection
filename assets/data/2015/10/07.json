@@ -417,6 +417,44 @@
       "channelId": "UC4Aa3OPkMenwTANpf0oWVRQ",
       "channelName": "CBS 김현정의 뉴스쇼",
       "collectedAt": "2025-08-22T14:03:19Z"
+    },
+    "YL5kyx-vtkY": {
+      "videoId": "YL5kyx-vtkY",
+      "title": "[팩트체크] 철갑둥어 등장한 동해안…한반도 아열대화 신호?",
+      "description": "방송사 : JTBC http://www.jtbc.co.kr \n▶ JTBC 뉴스룸 월~일 20시00분 방송 \n▶ 홈페이지 : http://news.jtbc.co.kr \n▶ 공식 트위터 : https://twitter.com/JTBC_news \n▶ 공식 페이스북 : https://www.facebook.com/jtbcnews \n\n\n팩트체크 시간입니다. 지금 제 뒤로 고래상어 모습이 나오고 있는데요. 저희 JTBC에 컴퓨터그래픽디자이너 김민호 씨가 직접 찍은 고래상어의 모습입니다. 컴퓨터그래픽이 아니고 실제로 찍은 겁니다. 필리핀 해역에서 찍었다고 하는데, 원래 스킨스쿠버를 잘 하기 때문에 이렇게 찍었는데요. \n\n오늘(7일) 그 얘기를 하려는 것이 아니라, 이 고래상어가 원래 아열대 해역에서만 산다고 하지요. 그런데 이 고래상어가 지난달 말 동해안에서 잡혔습니다. 그러자, 이제 한국이 정말 아열대기후가 됐구나 하는 이야기가 나왔죠. 오늘 팩트체크에서는 정말 그런 건지 한번 짚어보겠습니다.",
+      "publishedAt": "2015-10-07T13:14:59Z",
+      "duration": "PT7M28S",
+      "viewCount": 3311,
+      "likeCount": 20,
+      "commentCount": 0,
+      "tags": [
+        "JTBC",
+        "JTBC NEWS",
+        "JTBC 뉴스",
+        "제이티비씨 뉴스",
+        "제이티비씨",
+        "손석희",
+        "손석희 뉴스",
+        "뉴스룸",
+        "팩트체크",
+        "김필규",
+        "동해",
+        "동해 고래상어",
+        "고래상어",
+        "흉상어",
+        "철갑둥어",
+        "아열대 어종",
+        "아열대",
+        "아열대 기후",
+        "동해 아열대",
+        "열대어"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2015-10-07T13:14:59Z",
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "collectedAt": "2025-08-25T21:08:20Z"
     }
   },
   "channels": {
@@ -527,9 +565,36 @@
       "viewCount": 1280577570,
       "videoCount": 19124,
       "lastUpdated": "2025-08-24T21:54:51.615096Z"
+    },
+    "UCsU-I-vHLiaMfV_ceaYz5rQ": {
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "channelUrl": "@jtbc_news",
+      "channelDescription": "진실에 닿을 때까지 멈추지 않는 질문, JTBC News\nWelcome to the official JTBC News Channel.\n\n▶ https://news.jtbc.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 4670000,
+      "viewCount": 14817048106,
+      "videoCount": 261473,
+      "lastUpdated": "2025-08-25T21:08:20.172579Z"
     }
   },
-  "lastUpdated": "2025-08-24T21:54:51.617092Z",
-  "totalVideos": 16,
-  "totalChannels": 4
+  "lastUpdated": "2025-08-25T21:08:20.172579Z",
+  "totalVideos": 17,
+  "totalChannels": 5
 }

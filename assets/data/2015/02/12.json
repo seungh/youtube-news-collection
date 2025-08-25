@@ -215,6 +215,76 @@
       "channelId": "UC4Aa3OPkMenwTANpf0oWVRQ",
       "channelName": "CBS 김현정의 뉴스쇼",
       "collectedAt": "2025-08-22T14:03:25Z"
+    },
+    "r0hTKgydNMI": {
+      "videoId": "r0hTKgydNMI",
+      "title": "[팩트체크] 최대 규모 '추돌사고', 3대 궁금증 살펴보니…",
+      "description": "방송사 : JTBC http://www.jtbc.co.kr \n▶ JTBC 뉴스룸 월~일 20시00분 방송 \n▶ 홈페이지 : http://news.jtbc.co.kr \n▶ 공식 트위터 : https://twitter.com/JTBC_news \n▶ 공식 페이스북 : https://www.facebook.com/jtbcnews \n\n역대 최대 규모의 연쇄 추돌사고가 발생하자 이와 관련한 여러 궁금증들이 나오고 있습니다. 오늘(12일) 팩트체크에서 이런 궁금증들 모아서 전문가에게 물어보기도 하고, 확인을 해봤습니다. 민감한 사안에 대해선 대답이 엇갈리기도 했는데, 하나하나 짚어보겠습니다.",
+      "publishedAt": "2015-02-12T14:52:03Z",
+      "duration": "PT9M34S",
+      "viewCount": 13885,
+      "likeCount": 50,
+      "commentCount": 4,
+      "tags": [
+        "JTBC",
+        "JTBC NEWS",
+        "JTBC 뉴스",
+        "제이티비씨 뉴스",
+        "제이티비씨",
+        "손석희",
+        "손석희 뉴스",
+        "뉴스룸",
+        "뉴스9",
+        "팩트체크",
+        "김필규",
+        "영종대교 사고",
+        "영종대교",
+        "추돌사고",
+        "교통사고",
+        "영종대교 추돌사고",
+        "추돌사고 배상",
+        "영종대교 사고 배상"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2015-02-12T14:52:03Z",
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "collectedAt": "2025-08-25T21:08:22Z"
+    },
+    "yRSBuwPJvCE": {
+      "videoId": "yRSBuwPJvCE",
+      "title": "[탐사플러스] \"하루에 닭 500마리씩 죽어\"…AI 부르는 '음식물 사료'",
+      "description": "방송사 : JTBC http://www.jtbc.co.kr \n▶ JTBC 뉴스룸 월~일 20시00분 방송 \n▶ 홈페이지 : http://news.jtbc.co.kr \n▶ 공식 트위터 : https://twitter.com/JTBC_news \n▶ 공식 페이스북 : https://www.facebook.com/jtbcnews \n\n조류독감, 즉 AI 확인 지역이 늘고 있습니다. 처음으로 서울에서도 AI가 확인됐습니다. 정부가 양계 농가 관리에 만전을 기해야 할 때임에는 틀림없는데요. 그런데 취재 결과 현실은 우려스러웠습니다. 닭 사료로 무차별 공급되고 있는 '남은 음식물' 흔히 잔반, 또 속으로는 짬밥이라고 하죠. 이게 결정적인 문제였다고 합니다.\n\n먼저 임진택 기자가 취재해봤습니다.",
+      "publishedAt": "2015-02-12T14:38:01Z",
+      "duration": "PT5M1S",
+      "viewCount": 4077,
+      "likeCount": 15,
+      "commentCount": 11,
+      "tags": [
+        "JTBC",
+        "JTBC NEWS",
+        "JTBC 뉴스",
+        "제이티비씨 뉴스",
+        "제이티비씨",
+        "손석희",
+        "손석희 뉴스",
+        "뉴스룸",
+        "뉴스9",
+        "탐사플러스",
+        "탐사",
+        "임진택",
+        "조류독감",
+        "AI",
+        "사료",
+        "서울 AI"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2015-02-12T14:38:01Z",
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "collectedAt": "2025-08-25T21:08:22Z"
     }
   },
   "channels": {
@@ -298,9 +368,36 @@
       "viewCount": 1280577570,
       "videoCount": 19124,
       "lastUpdated": "2025-08-24T21:54:58.008042Z"
+    },
+    "UCsU-I-vHLiaMfV_ceaYz5rQ": {
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "channelUrl": "@jtbc_news",
+      "channelDescription": "진실에 닿을 때까지 멈추지 않는 질문, JTBC News\nWelcome to the official JTBC News Channel.\n\n▶ https://news.jtbc.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 4670000,
+      "viewCount": 14817048106,
+      "videoCount": 261473,
+      "lastUpdated": "2025-08-25T21:08:22.108331Z"
     }
   },
-  "lastUpdated": "2025-08-24T21:54:58.008042Z",
-  "totalVideos": 9,
-  "totalChannels": 3
+  "lastUpdated": "2025-08-25T21:08:22.108331Z",
+  "totalVideos": 11,
+  "totalChannels": 4
 }

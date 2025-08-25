@@ -315,6 +315,78 @@
       "channelId": "UC4Aa3OPkMenwTANpf0oWVRQ",
       "channelName": "CBS 김현정의 뉴스쇼",
       "collectedAt": "2025-08-22T14:03:18Z"
+    },
+    "r1XGWHzQ4xA": {
+      "videoId": "r1XGWHzQ4xA",
+      "title": "[밀착카메라] 서해대교가 생계인데…지역민들 '막막'",
+      "description": "방송사 : JTBC http://www.jtbc.co.kr\n▶ JTBC 뉴스룸 월~일 20시00분 방송\n▶ 홈페이지 : http://news.jtbc.co.kr\n▶ 공식 트위터 : https://twitter.com/JTBC_news\n▶ 공식 페이스북 : https://www.facebook.com/jtbcnews\n\n화재로 케이블이 끊어지며 폐쇄된 서해대교는 빨라도 이달 말이나 돼야 통행이 가능하게 됩니다. 복구비용은 도로공사에서 부담한다지만 서해대교를 우회하느라 발생한 2차 피해는 고스란히 지역 주민에게 돌아가고 있습니다. \n\n 밀착카메라 박소연 기자가 현장을 다녀왔습니다.",
+      "publishedAt": "2015-12-08T14:05:33Z",
+      "duration": "PT4M6S",
+      "viewCount": 21431,
+      "likeCount": 94,
+      "commentCount": 10,
+      "tags": [
+        "JTBC",
+        "JTBC NEWS",
+        "JTBC 뉴스",
+        "뉴스룸",
+        "뉴스9",
+        "손석희",
+        "손석희 뉴스",
+        "서해대교",
+        "낙뢰",
+        "서해대교 화재",
+        "케이블",
+        "행담도",
+        "개점휴업",
+        "서해대교 유회",
+        "밀착",
+        "밀착카메라"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2015-12-08T14:05:33Z",
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "collectedAt": "2025-08-25T21:08:18Z"
+    },
+    "cIzhvLykdlY": {
+      "videoId": "cIzhvLykdlY",
+      "title": "[팩트체크] '저유가', 한국 경제에 축복인가? 재앙인가?",
+      "description": "방송사 : JTBC http://www.jtbc.co.kr\n▶ JTBC 뉴스룸 월~일 20시00분 방송\n▶ 홈페이지 : http://news.jtbc.co.kr\n▶ 공식 트위터 : https://twitter.com/JTBC_news\n▶ 공식 페이스북 : https://www.facebook.com/jtbcnews\n\n저유가 상태가 이어지면서 아까 제가 말씀드릴 때 기름값이 높을 때는 높아서 위기라고 하더니 낮을 때는 또 낮아서 위기라는 얘기가 나오고 있다, 과연 이번에는 왜 그런 것이냐, 그러니까 저유가가 우리에게는 축복이냐, 아니냐… 이걸 좀 짚어보기로 했습니다.\n\n김필규 기자, 원래 \"기름값 때문에 위기다\" 이런 이야기는 보통 국제유가가 급등했을 때 나왔잖아요?",
+      "publishedAt": "2015-12-08T14:03:40Z",
+      "duration": "PT5M39S",
+      "viewCount": 29990,
+      "likeCount": 128,
+      "commentCount": 38,
+      "tags": [
+        "JTBC",
+        "JTBC NEWS",
+        "JTBC 뉴스",
+        "뉴스룸",
+        "뉴스9",
+        "손석희",
+        "손석희 뉴스",
+        "저유가",
+        "기름값",
+        "석유파동",
+        "국제유가",
+        "수출",
+        "금리",
+        "환율",
+        "유가",
+        "고유가",
+        "디플레이션",
+        "팩트체크",
+        "김필규",
+        "팩트체커"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2015-12-08T14:03:40Z",
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "collectedAt": "2025-08-25T21:08:18Z"
     }
   },
   "channels": {
@@ -425,9 +497,36 @@
       "viewCount": 1280577570,
       "videoCount": 19124,
       "lastUpdated": "2025-08-24T21:54:50.439107Z"
+    },
+    "UCsU-I-vHLiaMfV_ceaYz5rQ": {
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "channelUrl": "@jtbc_news",
+      "channelDescription": "진실에 닿을 때까지 멈추지 않는 질문, JTBC News\nWelcome to the official JTBC News Channel.\n\n▶ https://news.jtbc.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 4670000,
+      "viewCount": 14817048106,
+      "videoCount": 261473,
+      "lastUpdated": "2025-08-25T21:08:18.348562Z"
     }
   },
-  "lastUpdated": "2025-08-24T21:54:50.447085Z",
-  "totalVideos": 13,
-  "totalChannels": 4
+  "lastUpdated": "2025-08-25T21:08:18.348562Z",
+  "totalVideos": 15,
+  "totalChannels": 5
 }

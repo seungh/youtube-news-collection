@@ -437,6 +437,41 @@
       "channelId": "UC4Aa3OPkMenwTANpf0oWVRQ",
       "channelName": "CBS 김현정의 뉴스쇼",
       "collectedAt": "2025-08-22T14:03:20Z"
+    },
+    "LEzVjejy-wk": {
+      "videoId": "LEzVjejy-wk",
+      "title": "[팩트체크] GDP 대비 나라빚 40%…국가재정 정말 괜찮나?",
+      "description": "방송사 : JTBC http://www.jtbc.co.kr \n▶ JTBC 뉴스룸 월~일 20시00분 방송 \n▶ 홈페이지 : http://news.jtbc.co.kr \n▶ 공식 트위터 : https://twitter.com/JTBC_news \n▶ 공식 페이스북 : https://www.facebook.com/jtbcnews \n\n어제(8일) 우리나라의 GDP 대비 국가채무비율이 사상 처음으로 40%를 넘게 됐다는 소식 전해드렸습니다. 많은 분들이 이 문제를 걱정하고 있다는 소식도 전해드렸는데, 사실 20년 전만 해도 10%대였던 게 40%로 뛰다 보니 '이거 괜찮은 거냐' 걱정의 목소리가 많습니다. 그런데 정부에선 '아직 안심해도 된다'며 여러 가지 설명을 내놨는데요. 오늘 팩트체크에서 하나하나 짚어보겠습니다.",
+      "publishedAt": "2015-09-09T14:05:07Z",
+      "duration": "PT6M9S",
+      "viewCount": 57157,
+      "likeCount": 256,
+      "commentCount": 113,
+      "tags": [
+        "JTBC",
+        "JTBC NEWS",
+        "JTBC 뉴스",
+        "제이티비씨 뉴스",
+        "제이티비씨",
+        "손석희",
+        "손석희 뉴스",
+        "뉴스룸",
+        "팩트체크",
+        "김필규",
+        "GDP",
+        "국가 채무",
+        "나라빚",
+        "우리나라 빚",
+        "국가재정",
+        "우리나라 재정",
+        "박근혜 정부"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2015-09-09T14:05:07Z",
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "collectedAt": "2025-08-25T21:08:20Z"
     }
   },
   "channels": {
@@ -547,9 +582,36 @@
       "viewCount": 1280577570,
       "videoCount": 19124,
       "lastUpdated": "2025-08-24T21:54:52.301075Z"
+    },
+    "UCsU-I-vHLiaMfV_ceaYz5rQ": {
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "channelUrl": "@jtbc_news",
+      "channelDescription": "진실에 닿을 때까지 멈추지 않는 질문, JTBC News\nWelcome to the official JTBC News Channel.\n\n▶ https://news.jtbc.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 4670000,
+      "viewCount": 14817048106,
+      "videoCount": 261473,
+      "lastUpdated": "2025-08-25T21:08:20.242922Z"
     }
   },
-  "lastUpdated": "2025-08-24T21:54:52.302072Z",
-  "totalVideos": 17,
-  "totalChannels": 4
+  "lastUpdated": "2025-08-25T21:08:20.243921Z",
+  "totalVideos": 18,
+  "totalChannels": 5
 }

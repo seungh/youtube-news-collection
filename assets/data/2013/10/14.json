@@ -205,6 +205,61 @@
       "channelId": "UC4Aa3OPkMenwTANpf0oWVRQ",
       "channelName": "CBS 김현정의 뉴스쇼",
       "collectedAt": "2025-08-22T14:03:35Z"
+    },
+    "5zV_Zovc5Lk": {
+      "videoId": "5zV_Zovc5Lk",
+      "title": "[탐사+] 유산 탕진한 뒤 목숨마저...파멸의 '도박 중독'",
+      "description": "강원도 정선에 있는 내국인 카지노 강원랜드가 시설을 대폭 늘린 지 100일이 지났습니다.\n\n게임 테이블이 부족해 노숙자가 자리를 차지하고 돈을 요구하는 등 각종 부작용을 줄이기 위해서 확장한건데요.\n\nJTBC 탐사+ 팀이 현장을 돌아봤는데 심각한 문제들은 여전했습니다.\n\n손용석, 신혜원 기자가 집중 취재했습니다.",
+      "publishedAt": "2013-10-14T06:22:41Z",
+      "duration": "PT13M11S",
+      "viewCount": 618551,
+      "likeCount": 961,
+      "commentCount": 318,
+      "tags": [
+        "강원랜드",
+        "강원랜드 카지노",
+        "도박 중독",
+        "카지노 중독",
+        "강원랜드 노숙자",
+        "JTBC 뉴스",
+        "JTBC NEWS",
+        "JTBC",
+        "제이티비씨",
+        "JTBC 주말뉴스"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2013-10-14T06:22:41Z",
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "collectedAt": "2025-08-25T21:08:24Z"
+    },
+    "o_CEdb_gYts": {
+      "videoId": "o_CEdb_gYts",
+      "title": "[단독] 중국에서조차 금지된 발암물질 든 닭꼬치 유통",
+      "description": "지난해 국내에 판매된 닭꼬치용 고기입니다.\n\n원산지가 중국산으로 표기돼 있습니다.\n\n부산에 있는 한 식품회사가 지난해 3월 중순 중국의 도축 가공장에서 315톤을 수입했습니다.\n\n그런데 검역 당국은 그로부터 한 달이 지난 뒤 해당 제품을 검사했습니다.\n\n그 결과 이 닭꼬치용 고기에서 니트로푸란이란 발암 물질이 나왔습니다.\n\n방부제로 쓰이는 이 물질은, 인체에 쌓일 경우 암 등을 일으킬 수 있는 독성 물질입니다.\n\n중국에서조차 사용이 금지돼 있습니다.",
+      "publishedAt": "2013-10-14T06:15:06Z",
+      "duration": "PT1M46S",
+      "viewCount": 1785,
+      "likeCount": 0,
+      "commentCount": 2,
+      "tags": [
+        "닭꼬치 발암물질",
+        "닭꼬치",
+        "니트로푸란",
+        "닭꼬치 니트로푸란",
+        "JTBC 뉴스",
+        "JTBC NEWS",
+        "JTBC",
+        "제이티비씨 뉴스",
+        "JTBC 주말뉴스"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2013-10-14T06:15:06Z",
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "collectedAt": "2025-08-25T21:08:24Z"
     }
   },
   "channels": {
@@ -288,9 +343,36 @@
       "viewCount": 1280577570,
       "videoCount": 19124,
       "lastUpdated": "2025-08-24T21:55:12.953032Z"
+    },
+    "UCsU-I-vHLiaMfV_ceaYz5rQ": {
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "channelUrl": "@jtbc_news",
+      "channelDescription": "진실에 닿을 때까지 멈추지 않는 질문, JTBC News\nWelcome to the official JTBC News Channel.\n\n▶ https://news.jtbc.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 4670000,
+      "viewCount": 14817048106,
+      "videoCount": 261473,
+      "lastUpdated": "2025-08-25T21:08:24.435401Z"
     }
   },
-  "lastUpdated": "2025-08-24T21:55:12.954080Z",
-  "totalVideos": 6,
-  "totalChannels": 3
+  "lastUpdated": "2025-08-25T21:08:24.437398Z",
+  "totalVideos": 8,
+  "totalChannels": 4
 }

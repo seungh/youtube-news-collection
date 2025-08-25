@@ -152,6 +152,37 @@
       "channelId": "UC4Aa3OPkMenwTANpf0oWVRQ",
       "channelName": "CBS 김현정의 뉴스쇼",
       "collectedAt": "2025-08-22T14:03:35Z"
+    },
+    "pTeFHd8TtsU": {
+      "videoId": "pTeFHd8TtsU",
+      "title": "[단독] 삼성그룹 '노조 무력화 전략' 담긴 문건 입수",
+      "description": "1위 기업인 삼성에는 빛도 있지만 그늘도 있습니다. 삼성그룹은 그동안 무노조 경영, 즉 노조가 없어도 될 정도의 경영을 실현해서 세계적 기업으로 성장할 수 있었다고 자부해 왔습니다. 그러나 그런 빛 뒤에는 무노조 전략이 갖는 그늘도 있어왔습니다. \n그 동안 말로만 전해지던 내용을 문건으로 JTBC가 단독 입수했습니다. 노조를 어떻게 무력화할지가 주된 내용이어서 파장이 예상됩니다. 관련소식을 전해드리고 이 문건을 입수한 정의당 심상정 의원도 인터뷰하겠습니다.",
+      "publishedAt": "2013-10-15T01:06:42Z",
+      "duration": "PT13M49S",
+      "viewCount": 4257,
+      "likeCount": 25,
+      "commentCount": 8,
+      "tags": [
+        "JTBC",
+        "JTBC NEWS",
+        "JTBC NEWS9",
+        "뉴스나인",
+        "뉴스9",
+        "손석희",
+        "심상정",
+        "심상정 의원",
+        "삼성",
+        "Samsung",
+        "삼성 노조",
+        "에버렌드",
+        "JTBC 단독보도"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2013-10-15T01:06:42Z",
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "collectedAt": "2025-08-25T21:08:25Z"
     }
   },
   "channels": {
@@ -181,9 +212,36 @@
       "viewCount": 1280577570,
       "videoCount": 19124,
       "lastUpdated": "2025-08-24T21:55:12.923075Z"
+    },
+    "UCsU-I-vHLiaMfV_ceaYz5rQ": {
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "channelUrl": "@jtbc_news",
+      "channelDescription": "진실에 닿을 때까지 멈추지 않는 질문, JTBC News\nWelcome to the official JTBC News Channel.\n\n▶ https://news.jtbc.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 4670000,
+      "viewCount": 14817048106,
+      "videoCount": 261473,
+      "lastUpdated": "2025-08-25T21:08:25.218306Z"
     }
   },
-  "lastUpdated": "2025-08-24T21:55:12.923600Z",
-  "totalVideos": 4,
-  "totalChannels": 1
+  "lastUpdated": "2025-08-25T21:08:25.219304Z",
+  "totalVideos": 5,
+  "totalChannels": 2
 }

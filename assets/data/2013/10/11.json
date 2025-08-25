@@ -313,6 +313,35 @@
       "channelId": "UC4Aa3OPkMenwTANpf0oWVRQ",
       "channelName": "CBS 김현정의 뉴스쇼",
       "collectedAt": "2025-08-22T14:03:35Z"
+    },
+    "p-M6BhmaahY": {
+      "videoId": "p-M6BhmaahY",
+      "title": "[집중 인터뷰] 유시민 \"박 대통령, 임기 때만 노인복지 인심 쓰겠다는 것\"",
+      "description": "기초연금 후퇴 논란. 애초 공약보다 물러섰다. 또 국민연금 가입자 역차별이다, 논란이 \n끊이지 않고 있습니다. 게다가 지난 2007년 기초노령연금법. 현재 시행하고 있는 제도입니다. 이걸 만든 유시민 전 보건복지부 장관은 박근혜 정부의 기초연금 눈속임이다. 당장 몇 년은 달콤할지 몰라도 시간이 흐를수록 점점 액수가 줄어드는 구조다, 이런 지적을 했는데요. 어떤 이야기인지 꼼꼼히 따져보기 위해서 유시민 전 장관을 초대했습니다.",
+      "publishedAt": "2013-10-11T03:05:49Z",
+      "duration": "PT25M59S",
+      "viewCount": 172494,
+      "likeCount": 591,
+      "commentCount": 75,
+      "tags": [
+        "JTBC",
+        "JTBC NEWS",
+        "JTBC 정관용 라이브",
+        "정관용라이브",
+        "정관용 라이브",
+        "유시민",
+        "국민연금",
+        "기초연금",
+        "공약 후퇴",
+        "유시민 전 장관",
+        "보건복지부"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2013-10-11T03:05:49Z",
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "collectedAt": "2025-08-25T21:08:16Z"
     }
   },
   "channels": {
@@ -369,9 +398,36 @@
       "viewCount": 1280577570,
       "videoCount": 19124,
       "lastUpdated": "2025-08-24T21:55:12.986042Z"
+    },
+    "UCsU-I-vHLiaMfV_ceaYz5rQ": {
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "channelUrl": "@jtbc_news",
+      "channelDescription": "진실에 닿을 때까지 멈추지 않는 질문, JTBC News\nWelcome to the official JTBC News Channel.\n\n▶ https://news.jtbc.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 4670000,
+      "viewCount": 14817048106,
+      "videoCount": 261473,
+      "lastUpdated": "2025-08-25T21:08:16.945603Z"
     }
   },
-  "lastUpdated": "2025-08-24T21:55:12.987038Z",
-  "totalVideos": 10,
-  "totalChannels": 2
+  "lastUpdated": "2025-08-25T21:08:16.946599Z",
+  "totalVideos": 11,
+  "totalChannels": 3
 }

@@ -251,6 +251,60 @@
       "channelId": "UC4Aa3OPkMenwTANpf0oWVRQ",
       "channelName": "CBS 김현정의 뉴스쇼",
       "collectedAt": "2025-08-22T14:03:28Z"
+    },
+    "ezCDVw_djJc": {
+      "videoId": "ezCDVw_djJc",
+      "title": "[단독] '장군'의 아들까지…병역 기피 위해 '해외 체류'",
+      "description": "방송사 : JTBC http://www.jtbc.co.kr\n▶ JTBC 뉴스9 월~금 21시00분 방송\n▶ 홈페이지 : http://news.jtbc.co.kr\n▶ 공식 트위터 : https://twitter.com/JTBC_news\n▶ 공식 페이스북 : https://www.facebook.com/jtbcnews\n\n현직 국방부 고위 간부의 자녀가 외국에 체류하면서 징병 검사에 응하지 않다가 고발당한 것으로 확인됐습니다. 법무부 간부의 자녀 역시 함께 고발됐습니다. \n\n이 소식 먼저 구동회 기자가 단독 보도해 드리고 이어서 사회 지도층 자녀가 군대 대신 스스로 '해외 낭인'의 길을 선택하는 실태를 짚어보겠습니다.",
+      "publishedAt": "2014-10-02T14:22:32Z",
+      "duration": "PT1M38S",
+      "viewCount": 4263,
+      "likeCount": 17,
+      "commentCount": 11,
+      "tags": [
+        "JTBC",
+        "JTBC NEWS",
+        "JTBC 뉴스",
+        "손석희",
+        "구동회",
+        "병역 기피",
+        "군대",
+        "장군",
+        "JTBC 단독"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2014-10-02T14:22:32Z",
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "collectedAt": "2025-08-25T21:08:23Z"
+    },
+    "v4lsfWYKhY4": {
+      "videoId": "v4lsfWYKhY4",
+      "title": "[팩트체크] 검찰의 사이버 수사, 그 기준 살펴보니…",
+      "description": "방송사 : JTBC http://www.jtbc.co.kr\n▶ JTBC 뉴스9 월~금 21시00분 방송\n▶ 홈페이지 : http://news.jtbc.co.kr\n▶ 공식 트위터 : https://twitter.com/JTBC_news\n▶ 공식 페이스북 : https://www.facebook.com/jtbcnews\n\n며칠째 계속 논란이 되고 있는 사안입니다. 오늘(2일) 이 문제로 두 분을 모시고 토론할 계획인데요, 그 전에 팩트체크에서 김필규 기자와 함께 몇 가지 따져보고 그다음 토론에 들어가야 할 것 같습니다.\n\n김필규 기자, 정말 다 들여다보는 거냐, 어디까지냐…아직까지도 정확하게 잡혀있지 않은데요. 그것부터 좀 따져볼까요?",
+      "publishedAt": "2014-10-02T14:28:39Z",
+      "duration": "PT6M54S",
+      "viewCount": 2894,
+      "likeCount": 9,
+      "commentCount": 1,
+      "tags": [
+        "JTBC",
+        "JTBC NEWS",
+        "JTBC 뉴스",
+        "손석희",
+        "김필규",
+        "뉴스룸",
+        "팩트체크",
+        "사이버 검열",
+        "실시간 모니터링"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2014-10-02T14:28:39Z",
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "collectedAt": "2025-08-25T21:08:23Z"
     }
   },
   "channels": {
@@ -334,9 +388,36 @@
       "viewCount": 1280577570,
       "videoCount": 19124,
       "lastUpdated": "2025-08-24T21:55:00.990127Z"
+    },
+    "UCsU-I-vHLiaMfV_ceaYz5rQ": {
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "channelUrl": "@jtbc_news",
+      "channelDescription": "진실에 닿을 때까지 멈추지 않는 질문, JTBC News\nWelcome to the official JTBC News Channel.\n\n▶ https://news.jtbc.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 4670000,
+      "viewCount": 14817048106,
+      "videoCount": 261473,
+      "lastUpdated": "2025-08-25T21:08:23.315054Z"
     }
   },
-  "lastUpdated": "2025-08-24T21:55:00.990127Z",
-  "totalVideos": 10,
-  "totalChannels": 3
+  "lastUpdated": "2025-08-25T21:08:23.316051Z",
+  "totalVideos": 12,
+  "totalChannels": 4
 }

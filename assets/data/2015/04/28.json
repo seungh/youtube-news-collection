@@ -367,6 +367,41 @@
       "channelId": "UC4Aa3OPkMenwTANpf0oWVRQ",
       "channelName": "CBS 김현정의 뉴스쇼",
       "collectedAt": "2025-08-22T14:03:23Z"
+    },
+    "bSEoIt6LfA4": {
+      "videoId": "bSEoIt6LfA4",
+      "title": "[밀착카메라] 찾다가 골든타임 놓칠 판…무용지물 제세동기",
+      "description": "방송사 : JTBC http://www.jtbc.co.kr \n▶ JTBC 뉴스룸 월~일 20시00분 방송 \n▶ 홈페이지 : http://news.jtbc.co.kr \n▶ 공식 트위터 : https://twitter.com/JTBC_news \n▶ 공식 페이스북 : https://www.facebook.com/jtbcnews \n\nAED 들어보셨나요? 자동제세동기 역시 들어보셨는지요? 둘다 어려운 말입니다. 사실 여기서 모든 문제가 출발하기도 하는데, 흔히 말하는 심장충격기입니다. 골든타임에 사용하면 생존할 확률이 2.7배 이상 높아집니다. 그래서 일반인도 이용할 수 있는 AED가 전국에 2만대 가까이 설치돼 있습니다. 245억 원이 들었습니다. 그런데 대부분 무용지물입니다. 사용법을 일단 모르고, 있다고 했는데 가보니 없는 곳도 많습니다.\n\n안지현 기자가 밀착카메라로 취재했습니다.",
+      "publishedAt": "2015-04-28T13:38:40Z",
+      "duration": "PT5M25S",
+      "viewCount": 7074,
+      "likeCount": 25,
+      "commentCount": 3,
+      "tags": [
+        "JTBC",
+        "JTBC NEWS",
+        "JTBC 뉴스",
+        "제이티비씨 뉴스",
+        "제이티비씨",
+        "손석희",
+        "손석희 뉴스",
+        "뉴스룸",
+        "밀착카메라",
+        "안지현",
+        "김관",
+        "AED",
+        "자동제세동기",
+        "제세동기",
+        "심장충격기",
+        "심정지",
+        "제세동기 사용법"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2015-04-28T13:38:40Z",
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "collectedAt": "2025-08-25T21:08:21Z"
     }
   },
   "channels": {
@@ -477,9 +512,36 @@
       "viewCount": 1280577570,
       "videoCount": 19124,
       "lastUpdated": "2025-08-24T21:54:56.026137Z"
+    },
+    "UCsU-I-vHLiaMfV_ceaYz5rQ": {
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "channelUrl": "@jtbc_news",
+      "channelDescription": "진실에 닿을 때까지 멈추지 않는 질문, JTBC News\nWelcome to the official JTBC News Channel.\n\n▶ https://news.jtbc.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 4670000,
+      "viewCount": 14817048106,
+      "videoCount": 261473,
+      "lastUpdated": "2025-08-25T21:08:21.270038Z"
     }
   },
-  "lastUpdated": "2025-08-24T21:54:56.075150Z",
-  "totalVideos": 15,
-  "totalChannels": 4
+  "lastUpdated": "2025-08-25T21:08:21.273034Z",
+  "totalVideos": 16,
+  "totalChannels": 5
 }

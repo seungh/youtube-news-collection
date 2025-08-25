@@ -418,6 +418,73 @@
       "channelId": "UCkinYTS9IHqOEwR1Sze2JTw",
       "channelName": "SBS 뉴스",
       "collectedAt": "2025-08-24T21:54:51Z"
+    },
+    "L6RM-Ud3PKI": {
+      "videoId": "L6RM-Ud3PKI",
+      "title": "[밀착카메라] '토하고 먹고…' 이상해진 '동물 친구들'",
+      "description": "방송사 : JTBC http://www.jtbc.co.kr \n▶ JTBC 뉴스룸 월~일 20시00분 방송 \n▶ 홈페이지 : http://news.jtbc.co.kr \n▶ 공식 트위터 : https://twitter.com/JTBC_news \n▶ 공식 페이스북 : https://www.facebook.com/jtbcnews \n\n벽에 반복적으로 몸을 부딪치고 먹은 걸 토하고 토사물을 다시 먹고, 얼핏 봐도 정상은 아닌 행동들이죠. 지방의 소규모 동물원에 사는 동물들의 모습입니다. 지금도 열악한데 이런 동물원마저 문을 닫게 돼 사람 말로 치면 그야말로 길바닥에 나앉게 된 상황인데요.\n\n밀착카메라 안지현 기자가 취재했습니다.",
+      "publishedAt": "2015-10-05T13:36:48Z",
+      "duration": "PT4M58S",
+      "viewCount": 63564,
+      "likeCount": 271,
+      "commentCount": 77,
+      "tags": [
+        "JTBC",
+        "JTBC NEWS",
+        "JTBC 뉴스",
+        "제이티비씨 뉴스",
+        "제이티비씨",
+        "손석희",
+        "손석희 뉴스",
+        "뉴스룸",
+        "안지현",
+        "밀착카메라",
+        "동물원",
+        "동물",
+        "동물 학대",
+        "동물원 문제",
+        "동물 보호"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2015-10-05T13:36:48Z",
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "collectedAt": "2025-08-25T21:08:19Z"
+    },
+    "eTQGzBH0iLU": {
+      "videoId": "eTQGzBH0iLU",
+      "title": "[팩트체크] 악취나는 은행 열매에 대한 '오해와 진실'",
+      "description": "방송사 : JTBC http://www.jtbc.co.kr \n▶ JTBC 뉴스룸 월~일 20시00분 방송 \n▶ 홈페이지 : http://news.jtbc.co.kr \n▶ 공식 트위터 : https://twitter.com/JTBC_news \n▶ 공식 페이스북 : https://www.facebook.com/jtbcnews \n\n지금 제 뒤로 보이고 있는 화면, 은행나무입니다. 저희가 작년에 드론으로 찍은 화면인데요. 굉장히 멋지죠. 은행나뭇길… 가을의 전령이라 할 수 있을 겁니다. \n\n그런데 불청객도 있습니다. 바로 이 은행나무 중에, 떨어지는 열매라고 해야 하나요? 보기엔 이렇게 아름다운데, 그 밑을 가보면 열매에서 나는 악취가 사실 대단합니다. 그러다 보니 이에 대한 시민들의 불만도 상당한데요, 먼저 직접 들어보시죠.",
+      "publishedAt": "2015-10-05T13:37:24Z",
+      "duration": "PT8M8S",
+      "viewCount": 101821,
+      "likeCount": 417,
+      "commentCount": 33,
+      "tags": [
+        "JTBC",
+        "JTBC NEWS",
+        "JTBC 뉴스",
+        "제이티비씨 뉴스",
+        "제이티비씨",
+        "손석희",
+        "손석희 뉴스",
+        "뉴스룸",
+        "팩트체크",
+        "김필규",
+        "은행",
+        "은행나무",
+        "가을",
+        "가로수",
+        "은행 오해",
+        "은행 악취"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2015-10-05T13:37:24Z",
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "collectedAt": "2025-08-25T21:08:19Z"
     }
   },
   "channels": {
@@ -555,9 +622,36 @@
       "viewCount": 14985058976,
       "videoCount": 297368,
       "lastUpdated": "2025-08-24T21:54:51.700165Z"
+    },
+    "UCsU-I-vHLiaMfV_ceaYz5rQ": {
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "channelUrl": "@jtbc_news",
+      "channelDescription": "진실에 닿을 때까지 멈추지 않는 질문, JTBC News\nWelcome to the official JTBC News Channel.\n\n▶ https://news.jtbc.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 4670000,
+      "viewCount": 14817048106,
+      "videoCount": 261473,
+      "lastUpdated": "2025-08-25T21:08:19.361876Z"
     }
   },
-  "lastUpdated": "2025-08-24T21:54:51.700165Z",
-  "totalVideos": 16,
-  "totalChannels": 5
+  "lastUpdated": "2025-08-25T21:08:19.362873Z",
+  "totalVideos": 18,
+  "totalChannels": 6
 }

@@ -270,6 +270,43 @@
       "channelId": "UC4Aa3OPkMenwTANpf0oWVRQ",
       "channelName": "CBS 김현정의 뉴스쇼",
       "collectedAt": "2025-08-22T14:03:16Z"
+    },
+    "cX2A9CfnvV8": {
+      "videoId": "cX2A9CfnvV8",
+      "title": "[팩트체크] 해고지침, 노사갈등 줄인다? 확인해보니 …",
+      "description": "방송사 : JTBC http://www.jtbc.co.kr \n▶ JTBC 뉴스룸 월~일 20시00분 방송 \n▶ 홈페이지 : http://news.jtbc.co.kr \n▶ 공식 트위터 : https://twitter.com/JTBC_news \n▶ 공식 페이스북 : https://www.facebook.com/jtbcnews \n\n팩트체크를 시작하겠습니다. 지난주 고용노동부가 발표한 양대 노동지침이 여전히 논란거리인데요. 이기권 노동부 장관은 \"일자리 위기를 극복해달라는 국민과 노사의 바람을 더 이상 미룰 수 없어서 행정지침을 먼저 내놓게 됐다\"고 했는데, 그러면서 또 이렇게 덧붙이기도 했습니다.\n\n그러니까 불확실성을 없애고, 해고를 둘러싼 갈등을 줄이기 위한 정부지침이다. 실제 어떤지 오늘(25일) 팩트체크에서 짚어볼 텐데요. 쉽지 않은 과제이긴 합니다마는, 김필규 기자가 독감에서 해방돼 오늘 짚어보도록 하겠습니다.\n\n그러니까 그동안 이런 지침이 없었기 때문에 혼란이 심했고, 그래서 해고를 둘러싼 분쟁도 많았다, 이렇게 해석해야 한다는 겁니까?",
+      "publishedAt": "2016-01-25T14:57:53Z",
+      "duration": "PT6M49S",
+      "viewCount": 7546,
+      "likeCount": 60,
+      "commentCount": 8,
+      "tags": [
+        "JTBC",
+        "JTBC NEWS",
+        "JTBC 뉴스",
+        "뉴스룸",
+        "뉴스9",
+        "손석희",
+        "손석희 뉴스",
+        "노동지침",
+        "고용노동부",
+        "이기권",
+        "노사갈등",
+        "노동개혁 공방",
+        "해고",
+        "부당해고",
+        "일반해고",
+        "통상임금",
+        "김필규",
+        "팩트",
+        "팩트체크"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2016-01-25T14:57:53Z",
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "collectedAt": "2025-08-25T21:08:20Z"
     }
   },
   "channels": {
@@ -380,9 +417,36 @@
       "viewCount": 1280577570,
       "videoCount": 19124,
       "lastUpdated": "2025-08-24T21:54:49.425106Z"
+    },
+    "UCsU-I-vHLiaMfV_ceaYz5rQ": {
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "channelUrl": "@jtbc_news",
+      "channelDescription": "진실에 닿을 때까지 멈추지 않는 질문, JTBC News\nWelcome to the official JTBC News Channel.\n\n▶ https://news.jtbc.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 4670000,
+      "viewCount": 14817048106,
+      "videoCount": 261473,
+      "lastUpdated": "2025-08-25T21:08:20.106756Z"
     }
   },
-  "lastUpdated": "2025-08-24T21:54:49.427123Z",
-  "totalVideos": 12,
-  "totalChannels": 4
+  "lastUpdated": "2025-08-25T21:08:20.107754Z",
+  "totalVideos": 13,
+  "totalChannels": 5
 }

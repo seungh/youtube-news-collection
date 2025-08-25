@@ -377,6 +377,81 @@
       "channelId": "UC4Aa3OPkMenwTANpf0oWVRQ",
       "channelName": "CBS 김현정의 뉴스쇼",
       "collectedAt": "2025-08-22T14:03:21Z"
+    },
+    "qTse3JJNB7s": {
+      "videoId": "qTse3JJNB7s",
+      "title": "[밀착카메라] 비만 오면 두려운 그 동네…생존 위협도",
+      "description": "방송사 : JTBC http://www.jtbc.co.kr \n▶ JTBC 뉴스룸 월~일 20시00분 방송 \n▶ 홈페이지 : http://news.jtbc.co.kr \n공식 트위터 : https://twitter.com/JTBC_news \n▶ 공식 페이스북 : https://www.facebook.com/jtbcnews \n\n이번 태풍들은 그 진로를 좀 지켜봐야겠습니다. 그런데 올해는 강도가 센 태풍이 더 많이 불 것이라고 하죠. 태풍이 아니라 적은 비에도 말 그대로 생존에 위협을 느끼는 사람들이 있습니다. 위험 요소는 분명한 데 안전 책임을 지는 데는 없는 곳들입니다.  \n\n안지현 기자의 밀착카메라입니다.",
+      "publishedAt": "2015-07-06T14:12:38Z",
+      "duration": "PT4M26S",
+      "viewCount": 6488,
+      "likeCount": 33,
+      "commentCount": 1,
+      "tags": [
+        "JTBC",
+        "JTBC NEWS",
+        "JTBC 뉴스",
+        "제이티비씨",
+        "손석희",
+        "손석희 뉴스",
+        "뉴스룸",
+        "밀착카메라",
+        "안지현",
+        "장마",
+        "태풍",
+        "태풍 피해",
+        "폭우",
+        "폭우 피해",
+        "안전",
+        "안전 사고",
+        "사고",
+        "철거촌",
+        "빈민촌"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2015-07-06T14:12:38Z",
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "collectedAt": "2025-08-25T21:08:17Z"
+    },
+    "yjGagfcojRI": {
+      "videoId": "yjGagfcojRI",
+      "title": "[팩트체크] 강제노역 인정 안 했다는 일본, 정말일까?",
+      "description": "방송사 : JTBC http://www.jtbc.co.kr \n▶ JTBC 뉴스룸 월~일 20시00분 방송 \n▶ 홈페이지 : http://news.jtbc.co.kr \n▶ 공식 트위터 : https://twitter.com/JTBC_news \n▶ 공식 페이스북 : https://www.facebook.com/jtbcnews \n\n갑자기 영어 문장 하나가 한일 양국 외교의 논란거리가 됐습니다. 일본 근대 산업시설이 세계문화유산으로 등재될 때만 해도 조선인의 강제노역을 인정한 것으로 알려졌는데, 정작 결정이 난 직후 일본 정부에서 인정한 적 없다, 이렇게 얘기를 내놓는 바람에 논란이 되고 있는 거죠. 영어 해석을 놓고 입장차가 나온 건데, 오늘(6일) 팩트체크에서는 이 문제 짚어보겠습니다.",
+      "publishedAt": "2015-07-06T14:11:24Z",
+      "duration": "PT7M50S",
+      "viewCount": 3008,
+      "likeCount": 20,
+      "commentCount": 4,
+      "tags": [
+        "JTBC",
+        "JTBC NEWS",
+        "JTBC 뉴스",
+        "제이티비씨 뉴스",
+        "제이티비씨",
+        "손석희",
+        "손석희 뉴스",
+        "뉴스룸",
+        "팩트체크",
+        "김필규",
+        "강제노역",
+        "강제징용",
+        "조선인 강제징용",
+        "조선인 강제노역",
+        "일본 식민지배",
+        "일제강점기",
+        "일본",
+        "일본 과거사",
+        "한일 과거사",
+        "한일협정"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2015-07-06T14:11:24Z",
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "collectedAt": "2025-08-25T21:08:17Z"
     }
   },
   "channels": {
@@ -487,9 +562,36 @@
       "viewCount": 1280577570,
       "videoCount": 19124,
       "lastUpdated": "2025-08-24T21:54:54.102118Z"
+    },
+    "UCsU-I-vHLiaMfV_ceaYz5rQ": {
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "channelUrl": "@jtbc_news",
+      "channelDescription": "진실에 닿을 때까지 멈추지 않는 질문, JTBC News\nWelcome to the official JTBC News Channel.\n\n▶ https://news.jtbc.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 4670000,
+      "viewCount": 14817048106,
+      "videoCount": 261473,
+      "lastUpdated": "2025-08-25T21:08:17.810312Z"
     }
   },
-  "lastUpdated": "2025-08-24T21:54:54.103115Z",
-  "totalVideos": 15,
-  "totalChannels": 4
+  "lastUpdated": "2025-08-25T21:08:17.810312Z",
+  "totalVideos": 17,
+  "totalChannels": 5
 }

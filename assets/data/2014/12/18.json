@@ -294,6 +294,68 @@
       "channelId": "UC4Aa3OPkMenwTANpf0oWVRQ",
       "channelName": "CBS 김현정의 뉴스쇼",
       "collectedAt": "2025-08-22T14:03:26Z"
+    },
+    "EVuHpks7Q28": {
+      "videoId": "EVuHpks7Q28",
+      "title": "[팩트체크] 회항 논란 '대한항공', 이름 바꿔야 한다?",
+      "description": "방송사 : JTBC http://www.jtbc.co.kr \n▶ JTBC 뉴스룸 월~일 20시00분 방송 \n▶ 홈페이지 : http://news.jtbc.co.kr \n▶ 공식 트위터 : https://twitter.com/JTBC_news \n▶ 공식 페이스북 : https://www.facebook.com/jtbcnews \n\n대한항공 회항 사건으로 여론이 나빠지면서 이제는 '대한항공' '코리안 에어'라는 사명을 회수해야 한다는 이야기까지 나옵니다. 그만큼 한국에 대한 이미지가 실추되고 있다는 이유에서일 텐데요. 오늘(18일) 팩트체크에서 이 문제가 과연 가능한 얘기인지, 현실적으로 불가능한 것인지 짚어보도록 하겠습니다.",
+      "publishedAt": "2014-12-18T14:53:35Z",
+      "duration": "PT9M18S",
+      "viewCount": 91944,
+      "likeCount": 390,
+      "commentCount": 206,
+      "tags": [
+        "JTBC",
+        "JTBC NEWS",
+        "JTBC뉴스",
+        "손석희뉴스",
+        "손석희",
+        "뉴스룸",
+        "뉴스9",
+        "팩트체크",
+        "김필규",
+        "대한항공",
+        "Korean"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2014-12-18T14:53:35Z",
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "collectedAt": "2025-08-25T21:08:22Z"
+    },
+    "2cRhN4yvf4c": {
+      "videoId": "2cRhN4yvf4c",
+      "title": "[단독] 대한항공 노조 \"날림 정비\" 주장, 직접 확인하니…",
+      "description": "방송사 : JTBC http://www.jtbc.co.kr \n▶ JTBC 뉴스룸 월~일 20시00분 방송 \n▶ 홈페이지 : http://news.jtbc.co.kr \n▶ 공식 트위터 : https://twitter.com/JTBC_news \n▶ 공식 페이스북 : https://www.facebook.com/jtbcnews \n\n대한항공이 정비에 들어가는 비용을 지나치게 줄이는 바람에 날림 정비가 있었다, 어제(17일) 인터넷을 달군 내용입니다. 실제 JTBC가 입수한 안전점검 문건을 확인해보니 대한항공 정비 운영 상태가 최근 크게 악화한 것으로 드러났습니다. 이렇게 될 경우 대한항공의 문제는 운항안전문제로까지 확대되는 셈인데요.\n\n박영우 기자의 단독 보도입니다.",
+      "publishedAt": "2014-12-18T14:41:43Z",
+      "duration": "PT1M46S",
+      "viewCount": 11599,
+      "likeCount": 36,
+      "commentCount": 5,
+      "tags": [
+        "JTBC",
+        "JTBC NEWS",
+        "JTBC뉴스",
+        "손석희뉴스",
+        "손석희",
+        "뉴스룸",
+        "뉴스9",
+        "JTBC 단독",
+        "단독보도",
+        "대한항공",
+        "땅콩회항",
+        "블라인드",
+        "대한항공 정비",
+        "대한항공 정비 운영",
+        "대한항공 안전"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2014-12-18T14:41:43Z",
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "collectedAt": "2025-08-25T21:08:22Z"
     }
   },
   "channels": {
@@ -377,9 +439,36 @@
       "viewCount": 1280577570,
       "videoCount": 19124,
       "lastUpdated": "2025-08-24T21:54:59.255140Z"
+    },
+    "UCsU-I-vHLiaMfV_ceaYz5rQ": {
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "channelUrl": "@jtbc_news",
+      "channelDescription": "진실에 닿을 때까지 멈추지 않는 질문, JTBC News\nWelcome to the official JTBC News Channel.\n\n▶ https://news.jtbc.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 4670000,
+      "viewCount": 14817048106,
+      "videoCount": 261473,
+      "lastUpdated": "2025-08-25T21:08:22.592990Z"
     }
   },
-  "lastUpdated": "2025-08-24T21:54:59.255140Z",
-  "totalVideos": 12,
-  "totalChannels": 3
+  "lastUpdated": "2025-08-25T21:08:22.593984Z",
+  "totalVideos": 14,
+  "totalChannels": 4
 }

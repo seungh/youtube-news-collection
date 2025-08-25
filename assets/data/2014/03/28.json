@@ -257,6 +257,56 @@
       "channelId": "UC4Aa3OPkMenwTANpf0oWVRQ",
       "channelName": "CBS 김현정의 뉴스쇼",
       "collectedAt": "2025-08-22T14:03:32Z"
+    },
+    "vo9Vx6jpk7s": {
+      "videoId": "vo9Vx6jpk7s",
+      "title": "[단독] 300억 냈다가 돌려받아...허재호 '수상한 기부금'",
+      "description": "방송사 : JTBC http://www.jtbc.co.kr \r\n▶ JTBC 뉴스9 월~금 21시00분 방송 \r\n▶ 홈페이지 : http://news.jtbc.co.kr \r\n▶ 공식 트위터 : https://twitter.com/JTBC_news \r\n▶ 공식 페이스북 : https://www.facebook.com/jtbcnews \r\n\r\n또 다른 의혹이 발견됐습니다. 법원이 허 전 회장을 선처한 이유 중 하나가 천주교에 사재를 기부했다는 것인데요. 허 전 회장이 기부를 약속했던 돈 가운데 상당 부분을 다시 돌려받은 사실이 JTBC 취재 결과 확인됐습니다.\r\n\r\n이가혁 기자가 단독 보도합니다.",
+      "publishedAt": "2014-03-27T15:14:59Z",
+      "duration": "PT1M40S",
+      "viewCount": 1207,
+      "likeCount": 3,
+      "commentCount": 0,
+      "tags": [
+        "JTBC",
+        "JTBC NEWS",
+        "손석희",
+        "5억 노역",
+        "허재호"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2014-03-27T15:14:59Z",
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "collectedAt": "2025-08-25T21:08:23Z"
+    },
+    "FT_1dfgvmtc": {
+      "videoId": "FT_1dfgvmtc",
+      "title": "[단독] 검찰, 허재호 전 회장 숨은 재산 '강제 집행' 착수",
+      "description": "방송사 : JTBC http://www.jtbc.co.kr\r\n▶ JTBC 뉴스9 월~금 21시00분 방송\r\n▶ 홈페이지 : http://news.jtbc.co.kr\r\n▶ 공식 트위터 : https://twitter.com/JTBC_news\r\n▶ 공식 페이스북 : https://www.facebook.com/jtbcnews\r\n\r\n이른바 황제노역 사건은 돈과 인맥, 그리고 사법제도의 문제까지 우리사회가 노출할 수 있는 대부분의 문제점들을 노출시킨 것 같습니다. 오늘(27일) 관련 소식들을 JTBC가 취재한 단독 보도들로 채워서 전해드리겠습니다.\r\n\r\n일당 5억 노역으로 논란을 빚고 있는 허재호 전 대주그룹 회장의 벌금 미납과 관련해, 검찰이 허 전 회장 관련 재산에 대해 강제 집행에 착수한 것으로 확인됐습니다. 그러나 허 전 회장 측이 협조하지 않아 국고가 투입돼야 하는 상황입니다.\r\n\r\n서복현 기자의 단독 보도입니다.",
+      "publishedAt": "2014-03-28T01:08:23Z",
+      "duration": "PT1M57S",
+      "viewCount": 965,
+      "likeCount": 0,
+      "commentCount": 0,
+      "tags": [
+        "jtbc",
+        "jtbc news",
+        "jtbc 뉴스",
+        "뉴스9",
+        "손석희",
+        "jtbc 단독",
+        "허재호",
+        "허재호 재산",
+        "허재호 구속"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2014-03-28T01:08:23Z",
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "collectedAt": "2025-08-25T21:08:23Z"
     }
   },
   "channels": {
@@ -313,9 +363,36 @@
       "viewCount": 1280577570,
       "videoCount": 19124,
       "lastUpdated": "2025-08-24T21:55:08.137059Z"
+    },
+    "UCsU-I-vHLiaMfV_ceaYz5rQ": {
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "channelUrl": "@jtbc_news",
+      "channelDescription": "진실에 닿을 때까지 멈추지 않는 질문, JTBC News\nWelcome to the official JTBC News Channel.\n\n▶ https://news.jtbc.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 4670000,
+      "viewCount": 14817048106,
+      "videoCount": 261473,
+      "lastUpdated": "2025-08-25T21:08:23.715981Z"
     }
   },
-  "lastUpdated": "2025-08-24T21:55:08.137059Z",
-  "totalVideos": 10,
-  "totalChannels": 2
+  "lastUpdated": "2025-08-25T21:08:23.716979Z",
+  "totalVideos": 12,
+  "totalChannels": 3
 }

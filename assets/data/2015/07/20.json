@@ -385,6 +385,40 @@
       "channelId": "UC4Aa3OPkMenwTANpf0oWVRQ",
       "channelName": "CBS 김현정의 뉴스쇼",
       "collectedAt": "2025-08-22T14:03:21Z"
+    },
+    "2CxeMJx8Hec": {
+      "videoId": "2CxeMJx8Hec",
+      "title": "[팩트체크] 도로의 무법자 '보복운전'…처벌범위 어디까지?",
+      "description": "방송사 : JTBC http://www.jtbc.co.kr \n▶ JTBC 뉴스룸 월~일 20시00분 방송 \n▶ 홈페이지 : http://news.jtbc.co.kr \n▶ 공식 트위터 : https://twitter.com/JTBC_news \n▶ 공식 페이스북 : https://www.facebook.com/jtbcnews \n\n팩트체크를 맡고 있는 김필규 기자가 자리를 좀 비웠습니다. 런던에서 전 세계에서 팩트체크를 맡고 있는 언론인들이 모여 콘퍼런스를 하는데, 거기에 우리 대표 선수가 빠지기는 좀 그래서 김필규 기자를 출장을 보냈습니다. 일주일 동안 다녀옵니다.\n\n그래서 평소 사회부에서 탐사보도로 열심히 활동해왔던 박소연 기자가 대신 나오게 됐습니다. 어서 오십시오. 첫 팩트체크 어떤 주제를 준비했습니까?",
+      "publishedAt": "2015-07-20T13:51:59Z",
+      "duration": "PT7M27S",
+      "viewCount": 6015,
+      "likeCount": 23,
+      "commentCount": 1,
+      "tags": [
+        "JTBC",
+        "JTBC NEWS",
+        "JTBC 뉴스",
+        "제이티비씨 뉴스",
+        "제이티비씨",
+        "손석희",
+        "손석희 뉴스",
+        "뉴스룸",
+        "팩트체크",
+        "보복운전",
+        "운전",
+        "교통사고",
+        "김필규",
+        "박소연",
+        "보복운전 위험",
+        "보복운전 처벌"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2015-07-20T13:51:59Z",
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "collectedAt": "2025-08-25T21:08:20Z"
     }
   },
   "channels": {
@@ -495,9 +529,36 @@
       "viewCount": 1280577570,
       "videoCount": 19124,
       "lastUpdated": "2025-08-24T21:54:53.831094Z"
+    },
+    "UCsU-I-vHLiaMfV_ceaYz5rQ": {
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "channelUrl": "@jtbc_news",
+      "channelDescription": "진실에 닿을 때까지 멈추지 않는 질문, JTBC News\nWelcome to the official JTBC News Channel.\n\n▶ https://news.jtbc.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 4670000,
+      "viewCount": 14817048106,
+      "videoCount": 261473,
+      "lastUpdated": "2025-08-25T21:08:20.448407Z"
     }
   },
-  "lastUpdated": "2025-08-24T21:54:53.833088Z",
-  "totalVideos": 15,
-  "totalChannels": 4
+  "lastUpdated": "2025-08-25T21:08:20.449405Z",
+  "totalVideos": 16,
+  "totalChannels": 5
 }

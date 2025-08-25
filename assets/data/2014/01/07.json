@@ -144,6 +144,53 @@
       "channelId": "UC4Aa3OPkMenwTANpf0oWVRQ",
       "channelName": "CBS 김현정의 뉴스쇼",
       "collectedAt": "2025-08-22T14:03:34Z"
+    },
+    "9Jp7SQwCwJs": {
+      "videoId": "9Jp7SQwCwJs",
+      "title": "[단독] '사찰 의혹' 이재명 측-국정원 직원 통화내용 입수",
+      "description": "방송사 : JTBC http://www.jtbc.co.kr\r\n▶ JTBC 뉴스9 월~금 21시00분 방송\r\n▶ 홈페이지 : http://news.jtbc.co.kr\r\n▶ 공식 트위터 : https://twitter.com/JTBC_news\r\n▶ 공식 페이스북 : https://www.facebook.com/jtbcnews\r\n\r\n이재명 성남시장이 국가정보원이 정치사찰을 하고 지방선거에 개입했다는 의혹을 제기했습니다. 이와 관련해 이 시장측과 국정원 직원 등이 통화한 내용을 JTBC가 단독 입수했습니다.",
+      "publishedAt": "2014-01-07T14:28:58Z",
+      "duration": "PT1M54S",
+      "viewCount": 7675,
+      "likeCount": 99,
+      "commentCount": 7,
+      "tags": [
+        "JTBC",
+        "jtbc",
+        "JTBC뉴스9",
+        "손석희 뉴스9",
+        "손석희",
+        "국정원 사찰",
+        "이재명",
+        "국정원"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2014-01-07T14:28:58Z",
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "collectedAt": "2025-08-25T21:08:25Z"
+    },
+    "-tsuyntFacw": {
+      "videoId": "-tsuyntFacw",
+      "title": "[단독] '전 남편 청부 살인' 녹취록으로 본 사건 전말",
+      "description": "방송사 : JTBC http://www.jtbc.co.kr\r\n▶ JTBC 뉴스9 월~금 21시00분 방송\r\n▶ 홈페이지 : http://news.jtbc.co.kr\r\n▶ 공식 트위터 : https://twitter.com/JTBC_news\r\n▶ 공식 페이스북 : https://www.facebook.com/jtbcnews\r\n\r\n지난 4일, 40대 남성이 대낮에 차량으로 납치된 뒤 살해된 사건, 보도해 드렸는데요, 범인은 사실혼 관계에 있던 전 부인이었습니다. 이 둘 간에 어떤 사연이 있었던 건지, 살해 당한 전 남편과 부인이 다퉜던 음성 파일을 JTBC가 단독으로 입수했습니다.",
+      "publishedAt": "2014-01-07T05:14:38Z",
+      "duration": "PT1M31S",
+      "viewCount": 7041,
+      "likeCount": 11,
+      "commentCount": 0,
+      "tags": [
+        "JTBC",
+        "jtbc news 9",
+        "뉴스 9"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2014-01-07T05:14:38Z",
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "collectedAt": "2025-08-25T21:08:25Z"
     }
   },
   "channels": {
@@ -200,9 +247,36 @@
       "viewCount": 1280577570,
       "videoCount": 19124,
       "lastUpdated": "2025-08-24T21:55:10.920093Z"
+    },
+    "UCsU-I-vHLiaMfV_ceaYz5rQ": {
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "channelUrl": "@jtbc_news",
+      "channelDescription": "진실에 닿을 때까지 멈추지 않는 질문, JTBC News\nWelcome to the official JTBC News Channel.\n\n▶ https://news.jtbc.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 4670000,
+      "viewCount": 14817048106,
+      "videoCount": 261473,
+      "lastUpdated": "2025-08-25T21:08:25.086659Z"
     }
   },
-  "lastUpdated": "2025-08-24T21:55:10.921089Z",
-  "totalVideos": 5,
-  "totalChannels": 2
+  "lastUpdated": "2025-08-25T21:08:25.086659Z",
+  "totalVideos": 7,
+  "totalChannels": 3
 }

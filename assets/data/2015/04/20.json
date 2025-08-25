@@ -570,6 +570,42 @@
       "channelId": "UCkinYTS9IHqOEwR1Sze2JTw",
       "channelName": "SBS 뉴스",
       "collectedAt": "2025-08-24T21:54:56Z"
+    },
+    "Lc9kZCsBVT0": {
+      "videoId": "Lc9kZCsBVT0",
+      "title": "[팩트체크] 광화문으로 간 시위대, 왜 불법집회 됐나?",
+      "description": "방송사 : JTBC http://www.jtbc.co.kr\n▶ JTBC 뉴스룸 월~일 20시00분 방송\n▶ 홈페이지 : http://news.jtbc.co.kr\n▶ 공식 트위터 : https://twitter.com/JTBC_news\n▶ 공식 페이스북 : https://www.facebook.com/jtbcnews\n\n세월호 추모집회에 대한 대대적인 구속수사나 과잉진압 논란. 경찰이 불법집회로 간주하면서 이를 막아섰기 때문에 이런 일이 벌어진 거죠. 그렇다면 서울광장에서는 허용됐던 집회가 광화문에서는 왜 불법이 됐는지 하는 의문도 나옵니다. 오늘(20일) 팩트체크에서는 이를 포함해 몇 가지 짚어보겠습니다. \n\n김필규 기자. 경찰이 광화문에 차벽을 설치하고 시위대를 막은 건, 광화문에서 집회 자체가 불법이라고 판단했기 때문이라면서요?",
+      "publishedAt": "2015-04-20T14:49:13Z",
+      "duration": "PT7M49S",
+      "viewCount": 23458,
+      "likeCount": 113,
+      "commentCount": 101,
+      "tags": [
+        "JTBC",
+        "JTBC NEWS",
+        "JTBC 뉴스",
+        "손석희",
+        "손석희 뉴스",
+        "김필규",
+        "JTBC 뉴스룸",
+        "뉴스9",
+        "세월호",
+        "세월호 추모집회",
+        "집시법",
+        "집회",
+        "과잉진압 논란",
+        "차벽",
+        "시위대",
+        "광화문",
+        "서울광장",
+        "팩트체크"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2015-04-20T14:49:13Z",
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "collectedAt": "2025-08-25T21:08:21Z"
     }
   },
   "channels": {
@@ -707,9 +743,36 @@
       "viewCount": 14985058976,
       "videoCount": 297368,
       "lastUpdated": "2025-08-24T21:54:56.356140Z"
+    },
+    "UCsU-I-vHLiaMfV_ceaYz5rQ": {
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "channelUrl": "@jtbc_news",
+      "channelDescription": "진실에 닿을 때까지 멈추지 않는 질문, JTBC News\nWelcome to the official JTBC News Channel.\n\n▶ https://news.jtbc.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 4670000,
+      "viewCount": 14817048106,
+      "videoCount": 261473,
+      "lastUpdated": "2025-08-25T21:08:21.370769Z"
     }
   },
-  "lastUpdated": "2025-08-24T21:54:56.357137Z",
-  "totalVideos": 22,
-  "totalChannels": 5
+  "lastUpdated": "2025-08-25T21:08:21.373765Z",
+  "totalVideos": 23,
+  "totalChannels": 6
 }

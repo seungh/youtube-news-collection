@@ -161,6 +161,38 @@
       "channelId": "UC4Aa3OPkMenwTANpf0oWVRQ",
       "channelName": "CBS 김현정의 뉴스쇼",
       "collectedAt": "2025-08-22T14:03:34Z"
+    },
+    "iESQtiJzfuU": {
+      "videoId": "iESQtiJzfuU",
+      "title": "[단독] '국정원-군 연계' 전직 사이버사 간부 증언본 입수",
+      "description": "사이버사령부 출신의 현직 군인인 제보자는 국정원이 대선을 1년가량 앞두고 사이버사령부 심리전단의 지휘체계를 국정원에 통합하려 했다고 주장합니다.\n\n[전직 사이버사령부 간부 : 이명박 정부 마지막에 마스터플랜을 빌미로 530단, 그러니까 사이버사령부 심리전단을 공식적으로 국정원 밑으로다가 끌어들이려고 그랬어요.]\n\n또 청와대, 국정원과 함께 주기적으로 회의를 했다고도 말합니다. \n\n[전직 사이버사령부 간부 : 3개월에 한 번씩인가, 분기에 한 번씩 청와대에서 회의를 해요. 청와대하고 국정원이 주도해서 거기서 그랬지.]\n\n또 당시 중립을 지키려했던 초대 사령관이 한직으로 밀려났고, 연제욱 현 청와대 국방비서관이 부임하면서 국정원과 더욱 긴밀히 협조하게 됐다는 주장도 했습니다. \n\n[전직 사이버사령부 간부 : 장군님도 쫓겨난 거거든요. 얘네들이 몰아냈어요. \n이걸 딱 바꿔놓고 나서는 한마디로 자기 세상이 열리게 됐다, 지금은 기무사령부 사람들도 마음대로 들락날락하고 있어요.]\n\nJTBC가 접촉한 당시 사령관은 그러나 정치 중립을 지키려한 것은 맞지만 그 때문에 인사조치가 된 것은 아니라고 강하게 부인했습니다. \n\nJTBC 이런 내용이 담긴 두시간여 분량의 녹취파일을 입수했습니다. \n\n하지만 국정원이 사이버사령부에 심리전 지침을 내렸는지에 대한 명시적인 언급은 없습니다.",
+      "publishedAt": "2013-11-21T01:52:43Z",
+      "duration": "PT1M34S",
+      "viewCount": 1118,
+      "likeCount": 3,
+      "commentCount": 0,
+      "tags": [
+        "사이버사령부",
+        "사이버사령부 간부 증언",
+        "사이버사",
+        "국정원 사이버사령부",
+        "심리전단",
+        "대선 개입 의혹",
+        "JTBC NEWS9",
+        "제이티비씨뉴스9",
+        "JTBC 뉴스나인",
+        "손석희 뉴스",
+        "손석희",
+        "JTBC 단독",
+        "제이티비씨",
+        "JTBC"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2013-11-21T01:52:43Z",
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "collectedAt": "2025-08-25T21:08:25Z"
     }
   },
   "channels": {
@@ -190,9 +222,36 @@
       "viewCount": 1280577570,
       "videoCount": 19124,
       "lastUpdated": "2025-08-24T21:55:12.012059Z"
+    },
+    "UCsU-I-vHLiaMfV_ceaYz5rQ": {
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "channelUrl": "@jtbc_news",
+      "channelDescription": "진실에 닿을 때까지 멈추지 않는 질문, JTBC News\nWelcome to the official JTBC News Channel.\n\n▶ https://news.jtbc.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 4670000,
+      "viewCount": 14817048106,
+      "videoCount": 261473,
+      "lastUpdated": "2025-08-25T21:08:25.117576Z"
     }
   },
-  "lastUpdated": "2025-08-24T21:55:12.014129Z",
-  "totalVideos": 4,
-  "totalChannels": 1
+  "lastUpdated": "2025-08-25T21:08:25.117576Z",
+  "totalVideos": 5,
+  "totalChannels": 2
 }

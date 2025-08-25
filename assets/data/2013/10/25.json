@@ -233,6 +233,64 @@
       "channelId": "UC4Aa3OPkMenwTANpf0oWVRQ",
       "channelName": "CBS 김현정의 뉴스쇼",
       "collectedAt": "2025-08-22T14:03:35Z"
+    },
+    "LGDRkDRoeBs": {
+      "videoId": "LGDRkDRoeBs",
+      "title": "[긴급출동] '툭' 쳤더니 구멍...아파트 부실시공 논란",
+      "description": "아파트 벽을 치면 쉽게 구멍이 뚫리는 아파트가 있습니다. 마감처리를 허술하게 해서 스티로폼 아파트라고 불리는 곳들입니다. 부실시공 논란에, 안전사고에 대한 우려도 커지면서 이런 아파트를 분양받은 사람들이 분통을 떠뜨리고 있습니다.",
+      "publishedAt": "2013-10-25T04:35:24Z",
+      "duration": "PT4M55S",
+      "viewCount": 426964,
+      "likeCount": 824,
+      "commentCount": 476,
+      "tags": [
+        "JTBC",
+        "JTBC NEWS",
+        "JTBC 아침&",
+        "아침&",
+        "JTBC 아침뉴스",
+        "아침뉴스",
+        "긴급출동",
+        "아파트",
+        "부실",
+        "부실시공",
+        "아파트 분양"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2013-10-25T04:35:24Z",
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "collectedAt": "2025-08-25T21:08:24Z"
+    },
+    "PgB8fGkpVBE": {
+      "videoId": "PgB8fGkpVBE",
+      "title": "[단독] \"사이버사령부, 4팀으로 나눠 조직적 댓글 활동\"",
+      "description": "민주당 진상조사단이 사이버 사령부의 심리전단에 최소한 4개 정도의 댓글 관련 조직이 존재했다는 현직 군인의 제보를 입수했다고 밝혔습니다. 새누리당은 내부에 불만을 품은 자의 거짓 폭로라고 반응했습니다.",
+      "publishedAt": "2013-10-25T04:27:43Z",
+      "duration": "PT1M41S",
+      "viewCount": 2552,
+      "likeCount": 27,
+      "commentCount": 5,
+      "tags": [
+        "JTBC NEWS",
+        "JTBC",
+        "JTBC NEWS9",
+        "NEWS9",
+        "뉴스나인",
+        "뉴스9",
+        "손석희",
+        "JTBC 단독",
+        "민주당",
+        "새누리당",
+        "사이버사령부"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2013-10-25T04:27:43Z",
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "collectedAt": "2025-08-25T21:08:24Z"
     }
   },
   "channels": {
@@ -316,9 +374,36 @@
       "viewCount": 1280577570,
       "videoCount": 19124,
       "lastUpdated": "2025-08-24T21:55:12.615062Z"
+    },
+    "UCsU-I-vHLiaMfV_ceaYz5rQ": {
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "channelUrl": "@jtbc_news",
+      "channelDescription": "진실에 닿을 때까지 멈추지 않는 질문, JTBC News\nWelcome to the official JTBC News Channel.\n\n▶ https://news.jtbc.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 4670000,
+      "viewCount": 14817048106,
+      "videoCount": 261473,
+      "lastUpdated": "2025-08-25T21:08:24.356612Z"
     }
   },
-  "lastUpdated": "2025-08-24T21:55:12.616059Z",
-  "totalVideos": 7,
-  "totalChannels": 3
+  "lastUpdated": "2025-08-25T21:08:24.357612Z",
+  "totalVideos": 9,
+  "totalChannels": 4
 }

@@ -149,6 +149,63 @@
       "channelId": "UC4Aa3OPkMenwTANpf0oWVRQ",
       "channelName": "CBS 김현정의 뉴스쇼",
       "collectedAt": "2025-08-22T14:03:35Z"
+    },
+    "h5-twh3uaj4": {
+      "videoId": "h5-twh3uaj4",
+      "title": "[긴급출동] \"'푹'하고 땅이...\" 싱크홀에 떠는 주민들",
+      "description": "갑자기 폭삭 주저앉아 큰 구멍이 생기는 걸, 싱크홀 현상이라고 하죠. 미국을 비롯해서 세계 곳곳에서 벌어지고 있는데, 우리나라도 예외가 아니라고 합니다. 충북 청원에서인데요, 자연재해인 건지, 인근 개발 작업 때문인 건지 그렇다면 정부의 보상은 어디까지 이뤄져야하는지 논란이 커지고 있습니다. 충북 청원의 싱크홀, 29일 긴급출동에서 취재했습니다.",
+      "publishedAt": "2013-10-29T04:56:16Z",
+      "duration": "PT5M",
+      "viewCount": 49065,
+      "likeCount": 41,
+      "commentCount": 6,
+      "tags": [
+        "긴급출동",
+        "JTBC NEWS",
+        "JTBC",
+        "JTBC 아침&",
+        "아침&",
+        "JTBC 아침뉴스",
+        "싱크홀",
+        "청원",
+        "청원 싱크홀",
+        "싱크홀 현상",
+        "자연재해"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2013-10-29T04:56:16Z",
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "collectedAt": "2025-08-25T21:08:24Z"
+    },
+    "zsXy2DNnR5U": {
+      "videoId": "zsXy2DNnR5U",
+      "title": "[단독] 100번중 10번 뚫려도 OK? '무인 철책' 허술한 기준",
+      "description": "외부인이 철책에 접촉하자 마자 경고음이 요란스레 울립니다. \n\n곧이어 CCTV로 상황을 살피던 경계병이 달려오고 침입자는 체포됩니다. \n\n군은 이같은 첨단 무인경계시스템을 2015년까지 전방철책선에 도입키로 했습니다.\n\n올 들어 군이 발주한 사업구간은 중서부 전선 248km로, 예산만 798억 원에 이릅니다.\n\n그런데 방위사업청 자료를 확인해보니 사업 곳곳이 부실투성이였습니다.\n\n무엇보다 가장 중요한 탐지 성능의 합격 기준이 90%에 불과합니다.\n\n침입 시도가 100번 있었을 때 10번은 뚫려도 된다는 뜻으로 사업초기 99%에서 크게 낮아진 겁니다.",
+      "publishedAt": "2013-10-29T04:52:07Z",
+      "duration": "PT1M48S",
+      "viewCount": 1028,
+      "likeCount": 6,
+      "commentCount": 1,
+      "tags": [
+        "무인철책시스템",
+        "무인철책",
+        "첨단경계시스템",
+        "군 첨단경계시스템",
+        "뉴스9",
+        "손석희 뉴스",
+        "JTBC NEWS",
+        "JTBC",
+        "제이티비씨 뉴스",
+        "제이티비씨"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2013-10-29T04:52:07Z",
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "collectedAt": "2025-08-25T21:08:24Z"
     }
   },
   "channels": {
@@ -178,9 +235,36 @@
       "viewCount": 1280577570,
       "videoCount": 19124,
       "lastUpdated": "2025-08-24T21:55:12.555071Z"
+    },
+    "UCsU-I-vHLiaMfV_ceaYz5rQ": {
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "channelUrl": "@jtbc_news",
+      "channelDescription": "진실에 닿을 때까지 멈추지 않는 질문, JTBC News\nWelcome to the official JTBC News Channel.\n\n▶ https://news.jtbc.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 4670000,
+      "viewCount": 14817048106,
+      "videoCount": 261473,
+      "lastUpdated": "2025-08-25T21:08:24.336664Z"
     }
   },
-  "lastUpdated": "2025-08-24T21:55:12.556069Z",
-  "totalVideos": 4,
-  "totalChannels": 1
+  "lastUpdated": "2025-08-25T21:08:24.337662Z",
+  "totalVideos": 6,
+  "totalChannels": 2
 }

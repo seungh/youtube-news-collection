@@ -603,6 +603,42 @@
       "channelId": "UC4Aa3OPkMenwTANpf0oWVRQ",
       "channelName": "CBS 김현정의 뉴스쇼",
       "collectedAt": "2025-08-22T14:03:23Z"
+    },
+    "c04SKq6K_PA": {
+      "videoId": "c04SKq6K_PA",
+      "title": "[팩트체크] '임을 위한 행진곡' 둘러싼 논란, 진실은?",
+      "description": "방송사 : JTBC http://www.jtbc.co.kr\n▶ JTBC 뉴스룸 월~일 20시00분 방송\n▶ 홈페이지 : http://news.jtbc.co.kr\n▶ 공식 트위터 : https://twitter.com/JTBC_news\n▶ 공식 페이스북 : https://www.facebook.com/jtbcnews\n\n국가보훈처에서는 5.18민주화운동 기념식에서 '임을 위한 행진곡' 합창은 되지만 제창은 안 된다, 오늘(18일) 하루종일 뉴스가 됐습니다. 기념곡 지정은 더군다나 안 된다는 건데, 오늘 팩트체크에서 어떤 이유에서 그런 주장이 나오는 건지, 그 이유가 합당한 건지 하나하나 따져보겠습니다. \n\n김필규 기자, 보훈처가 이례적으로 보도자료까지 내면서 제창 불허 이유를 공개했죠?",
+      "publishedAt": "2015-05-18T14:52:30Z",
+      "duration": "PT7M8S",
+      "viewCount": 58501,
+      "likeCount": 470,
+      "commentCount": 62,
+      "tags": [
+        "JTBC",
+        "JTBC NEWS",
+        "JTBC 뉴스",
+        "뉴스룸",
+        "JTBC 뉴스룸",
+        "손석희",
+        "손석희 뉴스",
+        "임을 위한 행진곡",
+        "5·18",
+        "518",
+        "518 민주화운동",
+        "국가보훈처",
+        "제창",
+        "합창",
+        "518 기념식",
+        "광주민주화운동",
+        "팩트체크",
+        "JTBC 팩트체크"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2015-05-18T14:52:30Z",
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "collectedAt": "2025-08-25T21:08:21Z"
     }
   },
   "channels": {
@@ -713,9 +749,36 @@
       "viewCount": 1280577570,
       "videoCount": 19124,
       "lastUpdated": "2025-08-24T21:54:55.192162Z"
+    },
+    "UCsU-I-vHLiaMfV_ceaYz5rQ": {
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "channelUrl": "@jtbc_news",
+      "channelDescription": "진실에 닿을 때까지 멈추지 않는 질문, JTBC News\nWelcome to the official JTBC News Channel.\n\n▶ https://news.jtbc.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 4670000,
+      "viewCount": 14817048106,
+      "videoCount": 261473,
+      "lastUpdated": "2025-08-25T21:08:21.115452Z"
     }
   },
-  "lastUpdated": "2025-08-24T21:54:55.193159Z",
-  "totalVideos": 24,
-  "totalChannels": 4
+  "lastUpdated": "2025-08-25T21:08:21.116449Z",
+  "totalVideos": 25,
+  "totalChannels": 5
 }

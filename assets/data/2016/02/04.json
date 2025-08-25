@@ -455,6 +455,77 @@
       "channelId": "UC4Aa3OPkMenwTANpf0oWVRQ",
       "channelName": "CBS 김현정의 뉴스쇼",
       "collectedAt": "2025-08-22T14:03:16Z"
+    },
+    "GL4NaCf2gDo": {
+      "videoId": "GL4NaCf2gDo",
+      "title": "[밀착카메라] 손자 잃은 곳에서 사망…불안한 '죽음의 도로'",
+      "description": "방송사 : JTBC http://www.jtbc.co.kr\n▶ JTBC 뉴스룸 월~일 20시00분 방송\n▶ 홈페이지 : http://news.jtbc.co.kr\n▶ 공식 트위터 : https://twitter.com/JTBC_news\n▶ 공식 페이스북 : https://www.facebook.com/jtbcnews\n\n전국의 국도 가운데 '죽음의 도로'로 불리는 곳이 있습니다. 그만큼 사고가 자주 발생하기 때문인데요. 얼마 전 이 도로를 건너던 한 할머니가 10년 전에, 손주를 잃은 곳에서, 안타깝게 숨진 사고도 있었습니다.\n \n밀착카메라 안지현 기자가 취재했습니다.",
+      "publishedAt": "2016-02-04T14:55:59Z",
+      "duration": "PT4M6S",
+      "viewCount": 5514,
+      "likeCount": 26,
+      "commentCount": 7,
+      "tags": [
+        "JTBC",
+        "JTBC NEWS",
+        "JTBC 뉴스",
+        "뉴스룸",
+        "뉴스9",
+        "손석희",
+        "손석희 뉴스",
+        "죽음의 도로",
+        "국도",
+        "교통사고",
+        "사고",
+        "신호 위반",
+        "횡단보도",
+        "과속",
+        "밀착",
+        "밀착카메라"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2016-02-04T14:55:59Z",
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "collectedAt": "2025-08-25T21:08:17Z"
+    },
+    "jF_ptesKPRs": {
+      "videoId": "jF_ptesKPRs",
+      "title": "[팩트체크] 초봉, 일본 보다 너무 많다? 확인해보니…",
+      "description": "방송사 : JTBC http://www.jtbc.co.kr\n▶ JTBC 뉴스룸 월~일 20시00분 방송\n▶ 홈페이지 : http://news.jtbc.co.kr\n▶ 공식 트위터 : https://twitter.com/JTBC_news\n▶ 공식 페이스북 : https://www.facebook.com/jtbcnews\n\n한국경영자총협회 경총이 그제(2일) 내놓은 자료 하나가 큰 논란을 부르고 있습니다. \"한국 대기업 대졸 신입들의 초임이 일본과 비교해 너무 높다. 올해는 이걸 좀 낮춰서 신규 채용을 더 늘릴 수 있도록 해야 한다\" 이런 내용인데요. 과연 이게 맞는 내용인지, 오늘 팩트체크에서 김필규 기자와 하나하나 짚어보겠습니다.\n\n김필규 기자, 일단 자료 내용을 전해주실까요.",
+      "publishedAt": "2016-02-04T14:53:36Z",
+      "duration": "PT7M13S",
+      "viewCount": 85495,
+      "likeCount": 412,
+      "commentCount": 140,
+      "tags": [
+        "JTBC",
+        "JTBC NEWS",
+        "JTBC 뉴스",
+        "뉴스룸",
+        "뉴스9",
+        "손석희",
+        "손석희 뉴스",
+        "초봉",
+        "대기업",
+        "신입사원 연봉",
+        "경총",
+        "한국경영자총협회",
+        "임금조정",
+        "일본 초봉",
+        "상용직",
+        "정규직",
+        "김필규",
+        "팩트",
+        "팩트체크"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2016-02-04T14:53:36Z",
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "collectedAt": "2025-08-25T21:08:17Z"
     }
   },
   "channels": {
@@ -538,9 +609,36 @@
       "viewCount": 1280577570,
       "videoCount": 19124,
       "lastUpdated": "2025-08-24T21:54:48.699119Z"
+    },
+    "UCsU-I-vHLiaMfV_ceaYz5rQ": {
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "channelUrl": "@jtbc_news",
+      "channelDescription": "진실에 닿을 때까지 멈추지 않는 질문, JTBC News\nWelcome to the official JTBC News Channel.\n\n▶ https://news.jtbc.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 4670000,
+      "viewCount": 14817048106,
+      "videoCount": 261473,
+      "lastUpdated": "2025-08-25T21:08:17.827267Z"
     }
   },
-  "lastUpdated": "2025-08-24T21:54:48.700116Z",
-  "totalVideos": 18,
-  "totalChannels": 3
+  "lastUpdated": "2025-08-25T21:08:17.828264Z",
+  "totalVideos": 20,
+  "totalChannels": 4
 }

@@ -250,6 +250,80 @@
       "channelId": "UC4Aa3OPkMenwTANpf0oWVRQ",
       "channelName": "CBS 김현정의 뉴스쇼",
       "collectedAt": "2025-08-22T14:03:23Z"
+    },
+    "LG3wRurcf4Y": {
+      "videoId": "LG3wRurcf4Y",
+      "title": "[팩트체크] '장외 홈런볼' 내 차에 맞았다면…누구 책임?",
+      "description": "방송사 : JTBC http://www.jtbc.co.kr \n▶ JTBC 뉴스룸 월~일 20시00분 방송 \n▶ 홈페이지 : http://news.jtbc.co.kr \n▶ 공식 트위터 : https://twitter.com/JTBC_news \n▶ 공식 페이스북 : https://www.facebook.com/jtbcnews \n\n야구 경기 잘 보고 나왔는데 내 자동차가 저렇게 되었다. 굉장히 좀 당혹스러울 것 같습니다. 그런데 책임소재가 누구한테 있는 것인가 이 문제를 팩트체크에서 점검을 해보죠.",
+      "publishedAt": "2015-05-28T14:11:12Z",
+      "duration": "PT7M46S",
+      "viewCount": 160008,
+      "likeCount": 451,
+      "commentCount": 258,
+      "tags": [
+        "JTBC",
+        "JTBC NEWS",
+        "JTBC 뉴스",
+        "제이티비씨",
+        "손석희",
+        "손석희 뉴스",
+        "뉴스룸",
+        "김필규",
+        "팩트체크",
+        "장외 홈런볼",
+        "홈런볼 피해",
+        "야구장 피해",
+        "장외 홈런",
+        "홈런",
+        "파울볼",
+        "야구장 부주의",
+        "야구장 안전",
+        "프로야구 안전",
+        "프로야구",
+        "야구",
+        "야구장",
+        "야구장 사고"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2015-05-28T14:11:12Z",
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "collectedAt": "2025-08-25T21:08:20Z"
+    },
+    "rOqTIVLM08k": {
+      "videoId": "rOqTIVLM08k",
+      "title": "[밀착카메라] '무덤' 된 자전거 주차장…애물단지 전락",
+      "description": "방송사 : JTBC http://www.jtbc.co.kr\n▶ JTBC 뉴스룸 월~일 20시00분 방송\n▶ 홈페이지 : http://news.jtbc.co.kr\n▶ 공식 트위터 : https://twitter.com/JTBC_news\n▶ 공식 페이스북 : https://www.facebook.com/jtbcnews\n\n주로 지하철 역 근처에 자전거 주차장이 많이 마련돼 있습니다. 자전거 이용자를 위해 만든 편의 시설인데요. 그런데 버려진 자전거가 쌓이면서 폐자전거 무덤처럼 돼 버렸다고 합니다. \n\n안지현 기자의 밀착 카메라입니다.",
+      "publishedAt": "2015-05-28T14:08:44Z",
+      "duration": "PT4M4S",
+      "viewCount": 14045,
+      "likeCount": 51,
+      "commentCount": 35,
+      "tags": [
+        "JTBC",
+        "JTBC NEWS",
+        "JTBC 뉴스",
+        "제이티비씨",
+        "손석희",
+        "손석희 뉴스",
+        "뉴스룸",
+        "밀착카메라",
+        "뉴스룸 밀착카메라",
+        "안지현",
+        "자전거 주차장",
+        "자전거",
+        "서울 자전거",
+        "자전거 도난",
+        "자전거 무덤",
+        "폐자전거"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2015-05-28T14:08:44Z",
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "collectedAt": "2025-08-25T21:08:20Z"
     }
   },
   "channels": {
@@ -360,9 +434,36 @@
       "viewCount": 1280577570,
       "videoCount": 19124,
       "lastUpdated": "2025-08-24T21:54:54.947513Z"
+    },
+    "UCsU-I-vHLiaMfV_ceaYz5rQ": {
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "channelUrl": "@jtbc_news",
+      "channelDescription": "진실에 닿을 때까지 멈추지 않는 질문, JTBC News\nWelcome to the official JTBC News Channel.\n\n▶ https://news.jtbc.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 4670000,
+      "viewCount": 14817048106,
+      "videoCount": 261473,
+      "lastUpdated": "2025-08-25T21:08:20.816250Z"
     }
   },
-  "lastUpdated": "2025-08-24T21:54:54.948511Z",
-  "totalVideos": 10,
-  "totalChannels": 4
+  "lastUpdated": "2025-08-25T21:08:20.816250Z",
+  "totalVideos": 12,
+  "totalChannels": 5
 }

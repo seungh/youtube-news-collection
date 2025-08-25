@@ -27,6 +27,87 @@
       "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
       "channelName": "뉴스TVCHOSUN",
       "collectedAt": "2025-08-21T10:46:40Z"
+    },
+    "AkNDhnGAyYs": {
+      "videoId": "AkNDhnGAyYs",
+      "title": "[탐사+] 여전한 호통에 졸기까지...국정감사 '요지경'",
+      "description": "해마다 이맘 때면 국정감사가 열리면서 국민적 관심이 집중되는데요. 성과도 있지만 매년 반복되는 구태도 여전합니다. 심지어 국정감사 '무용론'까지 나오는 상황입니다. 국정감사의 이면, 영상으로 보시죠.",
+      "publishedAt": "2013-10-19T12:58:28Z",
+      "duration": "PT10M8S",
+      "viewCount": 2311,
+      "likeCount": 3,
+      "commentCount": 0,
+      "tags": [
+        "JTBC NEWS",
+        "JTBC",
+        "JTBC 주말뉴스",
+        "주말뉴스",
+        "탐사+",
+        "탐사플러스",
+        "국정감사",
+        "국회",
+        "국정 감사",
+        "국회의원"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2013-10-19T12:58:28Z",
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "collectedAt": "2025-08-25T21:08:24Z"
+    },
+    "3cUugwIPFdA": {
+      "videoId": "3cUugwIPFdA",
+      "title": "[단독] 도로 위 돈다발에 '우르르'...잃어버린 양심",
+      "description": "충북 진천의 한 도로 위에 5만 원권 수십 장이 날리면서 사람들이 차를 세우고 돈을 줍는 진풍경이 벌어졌습니다. JTBC의 단독보도입니다.",
+      "publishedAt": "2013-10-19T13:01:45Z",
+      "duration": "PT1M17S",
+      "viewCount": 3604,
+      "likeCount": 5,
+      "commentCount": 0,
+      "tags": [
+        "돈",
+        "5만원",
+        "50000원",
+        "돈다발",
+        "JTBC",
+        "JTBC NEWS",
+        "JTBC 주말뉴스",
+        "시민 의식"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2013-10-19T13:01:45Z",
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "collectedAt": "2025-08-25T21:08:24Z"
+    },
+    "6RhmYpqYJYY": {
+      "videoId": "6RhmYpqYJYY",
+      "title": "[단독] 북한 13개 '경제개발구' 추진...남북경협 영향 줄 듯",
+      "description": "북한이 외자 유치를 위해 이른바 경제개발구 13곳을 추진하는 것으로 확인됐습니다. JTBC의 단독보도입니다.",
+      "publishedAt": "2013-10-19T09:04:33Z",
+      "duration": "PT1M24S",
+      "viewCount": 625,
+      "likeCount": 2,
+      "commentCount": 0,
+      "tags": [
+        "JTBC",
+        "JTBC NEWS",
+        "JTBC NEWS9",
+        "뉴스9",
+        "뉴스나인",
+        "손석희",
+        "북한",
+        "북한 경제",
+        "JTBC 단독보도"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2013-10-19T09:04:33Z",
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "collectedAt": "2025-08-25T21:08:24Z"
     }
   },
   "channels": {
@@ -56,9 +137,36 @@
       "viewCount": 4319423561,
       "videoCount": 150855,
       "lastUpdated": "2025-08-21T10:29:13.861224Z"
+    },
+    "UCsU-I-vHLiaMfV_ceaYz5rQ": {
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "channelUrl": "@jtbc_news",
+      "channelDescription": "진실에 닿을 때까지 멈추지 않는 질문, JTBC News\nWelcome to the official JTBC News Channel.\n\n▶ https://news.jtbc.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 4670000,
+      "viewCount": 14817048106,
+      "videoCount": 261473,
+      "lastUpdated": "2025-08-25T21:08:24.411465Z"
     }
   },
-  "lastUpdated": "2025-08-21T10:46:40.047686Z",
-  "totalVideos": 1,
-  "totalChannels": 1
+  "lastUpdated": "2025-08-25T21:08:24.412462Z",
+  "totalVideos": 4,
+  "totalChannels": 2
 }

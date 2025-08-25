@@ -151,6 +151,32 @@
       "channelId": "UC4Aa3OPkMenwTANpf0oWVRQ",
       "channelName": "CBS 김현정의 뉴스쇼",
       "collectedAt": "2025-08-22T14:03:37Z"
+    },
+    "r5uzMAu5qaI": {
+      "videoId": "r5uzMAu5qaI",
+      "title": "[JTBC 탐사코드] 범죄 피해자 '살아남은 자들의 고통'",
+      "description": "\"낮에는 범인을 죽이는 생각, 밤에는 죽은 딸들 생각에 미치는 거죠.\" - 울산자매살인사건 피해자 아버지\n\n'유영철 사건', '울산 자매살인사건.', '논현동 묻지마 살인사건', '대구 학교폭력 자살사건', '안양 초등생 납치사건'등 우리 사회를 뒤흔들었던 강력범죄! 그 피해자 가족들은 어떠한 삶을 살고 있는 것인가? 사건 후 짧게는 1년 길게는 10년이 지났지만 취재진이 만나서 확인한 유가족들의 현실은 충격적이었다. \n\nhttp://culture.jtbc.co.kr/codej1",
+      "publishedAt": "2013-06-13T00:57:49Z",
+      "duration": "PT56S",
+      "viewCount": 3020,
+      "likeCount": 5,
+      "commentCount": 0,
+      "tags": [
+        "탐사코드",
+        "울산자매살인",
+        "유영철 사건",
+        "논현동 묻지마 살인",
+        "묻지마 살인",
+        "학교폭력 자살",
+        "대구 학교폭력",
+        "안양 초등생 납치사건"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2013-06-13T00:57:49Z",
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "collectedAt": "2025-08-25T21:08:24Z"
     }
   },
   "channels": {
@@ -180,9 +206,36 @@
       "viewCount": 1280577570,
       "videoCount": 19124,
       "lastUpdated": "2025-08-24T21:55:16.503604Z"
+    },
+    "UCsU-I-vHLiaMfV_ceaYz5rQ": {
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "channelUrl": "@jtbc_news",
+      "channelDescription": "진실에 닿을 때까지 멈추지 않는 질문, JTBC News\nWelcome to the official JTBC News Channel.\n\n▶ https://news.jtbc.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 4670000,
+      "viewCount": 14817048106,
+      "videoCount": 261473,
+      "lastUpdated": "2025-08-25T21:08:24.528153Z"
     }
   },
-  "lastUpdated": "2025-08-24T21:55:16.509105Z",
-  "totalVideos": 4,
-  "totalChannels": 1
+  "lastUpdated": "2025-08-25T21:08:24.529158Z",
+  "totalVideos": 5,
+  "totalChannels": 2
 }

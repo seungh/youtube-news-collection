@@ -256,6 +256,65 @@
       "channelId": "UC4Aa3OPkMenwTANpf0oWVRQ",
       "channelName": "CBS 김현정의 뉴스쇼",
       "collectedAt": "2025-08-22T14:03:28Z"
+    },
+    "UC0sc_7sRDM": {
+      "videoId": "UC0sc_7sRDM",
+      "title": "JTBC 뉴스룸 티저 - '진실이 뉴스가 됩니다' 편",
+      "description": "JTBC 뉴스9이라는 이름을 내려놓겠습니다\n한 걸음 먼저 시작하기 위해\n\n뉴스는 한 시간이라는 생각도 버리겠습니다\n한 걸음 더 깊이 들어가기 위해\n\n저녁 8시부터 100분동안\nJTBC 뉴스룸이 문을 엽니다\n\n9월 22일 월요일 저녁 8시\nJTBC 뉴스룸에서는 진실이 뉴스가 됩니다",
+      "publishedAt": "2014-09-15T15:05:50Z",
+      "duration": "PT30S",
+      "viewCount": 155221,
+      "likeCount": 480,
+      "commentCount": 57,
+      "tags": [
+        "JTBC",
+        "JTBC뉴스",
+        "JTBC뉴스룸",
+        "손석희 뉴스",
+        "손석희 뉴스룸",
+        "JTBC뉴스9",
+        "뉴스9",
+        "손석희 뉴스9",
+        "손석희 티저",
+        "뉴스룸 티저",
+        "뉴스룸"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2014-09-15T15:05:50Z",
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "collectedAt": "2025-08-25T21:08:25Z"
+    },
+    "bFkLu9U4LXo": {
+      "videoId": "bFkLu9U4LXo",
+      "title": "JTBC 뉴스룸 티저 -  '진실이 뉴스가 됩니다' Text ver",
+      "description": "JTBC 뉴스9이라는 이름을 내려놓겠습니다\n한 걸음 먼저 시작하기 위해\n\n뉴스는 한 시간이라는 생각도 버리겠습니다\n한 걸음 더 깊이 들어가기 위해\n\n저녁 8시부터 100분동안\nJTBC 뉴스룸이 문을 엽니다\n\n9월 22일 월요일 저녁 8시\nJTBC 뉴스룸에서는 진실이 뉴스가 됩니다",
+      "publishedAt": "2014-09-16T04:51:30Z",
+      "duration": "PT34S",
+      "viewCount": 16144,
+      "likeCount": 100,
+      "commentCount": 16,
+      "tags": [
+        "JTBC",
+        "JTBC뉴스",
+        "JTBC뉴스룸",
+        "JTBC뉴스9",
+        "손석희 뉴스룸",
+        "손석희 JTBC",
+        "JTBC 손석희",
+        "손석희 뉴스룸 티저",
+        "뉴스룸 티저",
+        "뉴스9",
+        "손석희",
+        "손석희 앵커"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2014-09-16T04:51:30Z",
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "collectedAt": "2025-08-25T21:08:25Z"
     }
   },
   "channels": {
@@ -339,9 +398,36 @@
       "viewCount": 1280577570,
       "videoCount": 19124,
       "lastUpdated": "2025-08-24T21:55:01.374137Z"
+    },
+    "UCsU-I-vHLiaMfV_ceaYz5rQ": {
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "channelUrl": "@jtbc_news",
+      "channelDescription": "진실에 닿을 때까지 멈추지 않는 질문, JTBC News\nWelcome to the official JTBC News Channel.\n\n▶ https://news.jtbc.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 4670000,
+      "viewCount": 14817048106,
+      "videoCount": 261473,
+      "lastUpdated": "2025-08-25T21:08:25.351949Z"
     }
   },
-  "lastUpdated": "2025-08-24T21:55:01.375127Z",
-  "totalVideos": 10,
-  "totalChannels": 3
+  "lastUpdated": "2025-08-25T21:08:25.351949Z",
+  "totalVideos": 12,
+  "totalChannels": 4
 }

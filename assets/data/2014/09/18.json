@@ -281,6 +281,75 @@
       "channelId": "UC4Aa3OPkMenwTANpf0oWVRQ",
       "channelName": "CBS 김현정의 뉴스쇼",
       "collectedAt": "2025-08-22T14:03:28Z"
+    },
+    "5olfFE7WJuA": {
+      "videoId": "5olfFE7WJuA",
+      "title": "베일 벗기도 전에 '부글부글'…공무원 반발 넘어설까?",
+      "description": "방송사 : JTBC http://www.jtbc.co.kr\n▶ JTBC 뉴스9 월~금 21시00분 방송\n▶ 홈페이지 : http://news.jtbc.co.kr\n▶ 공식 트위터 : https://twitter.com/JTBC_news\n▶ 공식 페이스북 : https://www.facebook.com/jtbcnews\n\n보신 것처럼 연금학회의 개혁안이 강도가 상당히 세보이는데요. 취재기자와 함께 공무원 연금개혁에 대해 자세히 들어가 보겠습니다.\n\n이한주 기자, 이번 연금학회의 개혁안이 어느 정도 비중이 있는 걸로 봐야 하나요?",
+      "publishedAt": "2014-09-17T15:22:14Z",
+      "duration": "PT4M",
+      "viewCount": 2696,
+      "likeCount": 12,
+      "commentCount": 4,
+      "tags": [
+        "JTBC",
+        "JTBC NEWS",
+        "전용우",
+        "이한주",
+        "공무원연금 개혁안",
+        "공무원연금",
+        "공무원연금 개혁"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2014-09-17T15:22:14Z",
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "collectedAt": "2025-08-25T21:08:23Z"
+    },
+    "IlxRjhPGZ14": {
+      "videoId": "IlxRjhPGZ14",
+      "title": "뉴스룸 티저 - 손석희 앵커의 메시지",
+      "description": "온라인 시청자 여러분, 청취자 여러분. 손석희입니다.\n\n9월 22일부터 뉴스9이 뉴스룸으로 이름을 바꾸고, 저녁 8시부터 100분 동안 여러분을 찾아갑니다.\n\n한 걸음 더 깊이있는 뉴스로 9월22일 월요일에 찾아뵙겠습니다.\n\n- JTBC뉴스룸 9.22 PM8:00 진실이 뉴스가 됩니다.",
+      "publishedAt": "2014-09-18T02:50:02Z",
+      "duration": "PT50S",
+      "viewCount": 31684,
+      "likeCount": 163,
+      "commentCount": 16,
+      "tags": [
+        "JTBC뉴스",
+        "JTBC뉴스룸",
+        "뉴스룸",
+        "뉴스9",
+        "손석희 뉴스룸",
+        "손석희 뉴스",
+        "뉴스룸 티저",
+        "손석희 티저",
+        "JTBC 뉴스룸 티저"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2014-09-18T02:50:02Z",
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "collectedAt": "2025-08-25T21:08:23Z"
+    },
+    "dS0F6tSNCqU": {
+      "videoId": "dS0F6tSNCqU",
+      "title": "'보고합니다! 정치부회의' 더욱 새로워집니다!",
+      "description": "오피니언 리더들을 TV 앞으로 불러 모으는 방송.\n대한민국 방송 혁명! '정치부회의'가 5시에 새롭게 시작합니다.\n\n청와대 반장 남궁욱, 야당 반장 이성대, 국회 반장 양원보, 여당 반장 오대영\n\n보고합니다! 정치부회의가 더욱 새로워집니다.\n보다 발 빠르게, 보다 더 재미있게!\n베테랑 정치부 기자들의 정곡을 찌르는 정치 분석\n\n9월 22일 월요일 오후 5시!  많은 기대 바랍니다.",
+      "publishedAt": "2014-09-18T08:32:49Z",
+      "duration": "PT32S",
+      "viewCount": 5030,
+      "likeCount": 16,
+      "commentCount": 0,
+      "tags": [],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2014-09-18T08:32:49Z",
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "collectedAt": "2025-08-25T21:08:23Z"
     }
   },
   "channels": {
@@ -337,9 +406,36 @@
       "viewCount": 1280577570,
       "videoCount": 19124,
       "lastUpdated": "2025-08-24T21:55:01.304196Z"
+    },
+    "UCsU-I-vHLiaMfV_ceaYz5rQ": {
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "channelUrl": "@jtbc_news",
+      "channelDescription": "진실에 닿을 때까지 멈추지 않는 질문, JTBC News\nWelcome to the official JTBC News Channel.\n\n▶ https://news.jtbc.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 4670000,
+      "viewCount": 14817048106,
+      "videoCount": 261473,
+      "lastUpdated": "2025-08-25T21:08:23.413789Z"
     }
   },
-  "lastUpdated": "2025-08-24T21:55:01.305183Z",
-  "totalVideos": 11,
-  "totalChannels": 2
+  "lastUpdated": "2025-08-25T21:08:23.413789Z",
+  "totalVideos": 14,
+  "totalChannels": 3
 }

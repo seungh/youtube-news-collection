@@ -280,6 +280,41 @@
       "channelId": "UC4Aa3OPkMenwTANpf0oWVRQ",
       "channelName": "CBS 김현정의 뉴스쇼",
       "collectedAt": "2025-08-22T14:03:23Z"
+    },
+    "I2Tuo59c7sA": {
+      "videoId": "I2Tuo59c7sA",
+      "title": "[팩트체크] '메르스 병원' 비공개 논란…해외 사례는?",
+      "description": "방송사 : JTBC http://www.jtbc.co.kr\n▶ JTBC 뉴스룸 월~일 20시00분 방송\n▶ 홈페이지 : http://news.jtbc.co.kr\n▶ 공식 트위터 : https://twitter.com/JTBC_news\n▶ 공식 페이스북 : https://www.facebook.com/jtbcnews\n\n거리에서 만나본 분들은 100% 병원 이름을 밝혀야 된다 이렇게 얘기를 하고 있습니다. 이거 좀 오늘(2일) 굉장히 문제를 팩트체크에서 다루게 됐는데. 정부가 메르스 관련 병원을 의료진에게만 공개하겠다 이런 방침을 정했죠. 그런데 보시는 것처럼 아무튼 정보가 많이 부족하다고 시민들이 느끼시는 것 같습니다. 홍콩에서도 이 병원들의 이름을 밝히라고 요구하고 나섰는데, 의료기관을 공개하는 게 맞는지 아닌지 오늘 팩트체크에서 짚어보겠습니다.\n\n김필규 기자, 그러니까 정부에서는 메르스 환자가 발생했던 병원, 그리고 환자가 다녀간 병원을 일절 공개하지 않고 있는 거죠?",
+      "publishedAt": "2015-06-02T14:39:20Z",
+      "duration": "PT7M17S",
+      "viewCount": 7684,
+      "likeCount": 31,
+      "commentCount": 6,
+      "tags": [
+        "JTBC",
+        "JTBC NEWS",
+        "JTBC 뉴스",
+        "뉴스룸",
+        "JTBC 뉴스룸",
+        "뉴스9",
+        "손석희",
+        "손석희 뉴스",
+        "메르스",
+        "메르스 확진",
+        "메르스 병원",
+        "메르스 병원 명단",
+        "MERS",
+        "질병관리본부",
+        "메르스 환자",
+        "팩트체크",
+        "JTBC 팩트체크"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2015-06-02T14:39:20Z",
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "collectedAt": "2025-08-25T21:08:20Z"
     }
   },
   "channels": {
@@ -363,9 +398,36 @@
       "viewCount": 1280577570,
       "videoCount": 19124,
       "lastUpdated": "2025-08-24T21:54:54.866189Z"
+    },
+    "UCsU-I-vHLiaMfV_ceaYz5rQ": {
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "channelUrl": "@jtbc_news",
+      "channelDescription": "진실에 닿을 때까지 멈추지 않는 질문, JTBC News\nWelcome to the official JTBC News Channel.\n\n▶ https://news.jtbc.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 4670000,
+      "viewCount": 14817048106,
+      "videoCount": 261473,
+      "lastUpdated": "2025-08-25T21:08:20.778351Z"
     }
   },
-  "lastUpdated": "2025-08-24T21:54:54.867184Z",
-  "totalVideos": 12,
-  "totalChannels": 3
+  "lastUpdated": "2025-08-25T21:08:20.778351Z",
+  "totalVideos": 13,
+  "totalChannels": 4
 }

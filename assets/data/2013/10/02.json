@@ -69,6 +69,65 @@
       "channelId": "UC4Aa3OPkMenwTANpf0oWVRQ",
       "channelName": "CBS 김현정의 뉴스쇼",
       "collectedAt": "2025-08-22T14:03:35Z"
+    },
+    "iWPeg0PNIvM": {
+      "videoId": "iWPeg0PNIvM",
+      "title": "'여성 강간' 정직 6개월? 한전, 성범죄 처벌 시늉만",
+      "description": "한국전력의 내부 감사내용을 담은 최근 3년치 문건을 저희 JTBC가 단독 입수했습니다. 내용을 들여다보니, 직원들 성범죄가 매년 끊이질 않았고 그 행태가 믿기 어려울 정도였습니다. 게다가 이들에 대한 회사의 징계는 솜방망이에 그쳤습니다. 이지은 기자와 유미혜 기자의 보도 전해드립니다.",
+      "publishedAt": "2013-10-02T00:46:38Z",
+      "duration": "PT4M57S",
+      "viewCount": 1579,
+      "likeCount": 3,
+      "commentCount": 2,
+      "tags": [
+        "JTBC",
+        "JTBC NEWS",
+        "JTBC NEWS9",
+        "NEWS9",
+        "뉴스9",
+        "뉴스나인",
+        "손석희",
+        "한국전력",
+        "한전",
+        "한전 성범죄",
+        "한전 감사",
+        "한국전력 감사"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2013-10-02T00:46:38Z",
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "collectedAt": "2025-08-25T21:08:24Z"
+    },
+    "WapPshOUwAo": {
+      "videoId": "WapPshOUwAo",
+      "title": "세종대 전격 압수수색...공기업과 거액 커미션 정황",
+      "description": "검찰이 1일 세종대를 전격 압수수색했습니다. 공공기관에서 연구 프로젝트를 받는 과정에서 공기업과 유착해 비리를 저지른 혐의가 포착됐기 때문인데요. 단독보도입니다.",
+      "publishedAt": "2013-10-02T00:31:57Z",
+      "duration": "PT1M",
+      "viewCount": 780,
+      "likeCount": 1,
+      "commentCount": 0,
+      "tags": [
+        "JTBC",
+        "JTBC NEWS",
+        "NEWS9",
+        "JTBC NEWS9",
+        "뉴스나인",
+        "뉴스9",
+        "손석희",
+        "세종대",
+        "단독보도",
+        "세종대 비리 혐의",
+        "세종대 공기업 유착"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2013-10-02T00:31:57Z",
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "collectedAt": "2025-08-25T21:08:24Z"
     }
   },
   "channels": {
@@ -98,9 +157,36 @@
       "viewCount": 1280577570,
       "videoCount": 19124,
       "lastUpdated": "2025-08-24T21:55:13.170122Z"
+    },
+    "UCsU-I-vHLiaMfV_ceaYz5rQ": {
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "channelUrl": "@jtbc_news",
+      "channelDescription": "진실에 닿을 때까지 멈추지 않는 질문, JTBC News\nWelcome to the official JTBC News Channel.\n\n▶ https://news.jtbc.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 4670000,
+      "viewCount": 14817048106,
+      "videoCount": 261473,
+      "lastUpdated": "2025-08-25T21:08:24.959999Z"
     }
   },
-  "lastUpdated": "2025-08-24T21:55:13.170122Z",
-  "totalVideos": 3,
-  "totalChannels": 1
+  "lastUpdated": "2025-08-25T21:08:24.959999Z",
+  "totalVideos": 5,
+  "totalChannels": 2
 }

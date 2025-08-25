@@ -492,6 +492,42 @@
       "channelId": "UC4Aa3OPkMenwTANpf0oWVRQ",
       "channelName": "CBS 김현정의 뉴스쇼",
       "collectedAt": "2025-08-22T14:03:23Z"
+    },
+    "fMDDmGJFdXs": {
+      "videoId": "fMDDmGJFdXs",
+      "title": "[팩트체크] '영어 발음 조롱'…미 방송 EXID 인종차별 논란",
+      "description": "방송사 : JTBC http://www.jtbc.co.kr \n▶ JTBC 뉴스룸 월~일 20시00분 방송 \n▶ 홈페이지 : http://news.jtbc.co.kr \n▶ 공식 트위터 : https://twitter.com/JTBC_news \n▶ 공식 페이스북 : https://www.facebook.com/jtbcnews \n\n이게 무슨 영상인가 싶으실 텐데, 중간에 나온 걸그룹은 EXID고요, 연휴 동안 이 영상을 두고 논란이 많았던 것 같습니다. 관련 소식을 전하던 한 미국 연예매체 TMZ가 EXID 멤버의 영어 발음을 놀린 것을 두고 인종차별이냐 아니냐는 이야기가 나온 건데, 제가 듣기엔 영어발음 문제없이 참 좋던데, 왜 그걸 가지고 이 사람들은 그렇게 얘기했는지 모르겠습니다마는. 오늘(6일) 팩트체크에서는 이 문제 짚어보겠습니다.",
+      "publishedAt": "2015-05-06T14:34:33Z",
+      "duration": "PT8M10S",
+      "viewCount": 918019,
+      "likeCount": 1734,
+      "commentCount": 1041,
+      "tags": [
+        "JTBC",
+        "JTBC NEWS",
+        "JTBC 뉴스",
+        "제이티비씨 뉴스",
+        "제이티비씨",
+        "손석희",
+        "손석희 뉴스",
+        "뉴스룸",
+        "팩트체크",
+        "김필규",
+        "EXID",
+        "EXID 정화",
+        "EXID 영어",
+        "TMZ",
+        "TMZ 인종차별",
+        "TMZ EXID",
+        "인종차별",
+        "미국 인종차별"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2015-05-06T14:34:33Z",
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "collectedAt": "2025-08-25T21:08:21Z"
     }
   },
   "channels": {
@@ -602,9 +638,36 @@
       "viewCount": 1280577570,
       "videoCount": 19124,
       "lastUpdated": "2025-08-24T21:54:55.549159Z"
+    },
+    "UCsU-I-vHLiaMfV_ceaYz5rQ": {
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "channelUrl": "@jtbc_news",
+      "channelDescription": "진실에 닿을 때까지 멈추지 않는 질문, JTBC News\nWelcome to the official JTBC News Channel.\n\n▶ https://news.jtbc.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 4670000,
+      "viewCount": 14817048106,
+      "videoCount": 261473,
+      "lastUpdated": "2025-08-25T21:08:21.202220Z"
     }
   },
-  "lastUpdated": "2025-08-24T21:54:55.551154Z",
-  "totalVideos": 19,
-  "totalChannels": 4
+  "lastUpdated": "2025-08-25T21:08:21.203217Z",
+  "totalVideos": 20,
+  "totalChannels": 5
 }

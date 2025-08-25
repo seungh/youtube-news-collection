@@ -231,6 +231,33 @@
       "channelId": "UC4Aa3OPkMenwTANpf0oWVRQ",
       "channelName": "CBS 김현정의 뉴스쇼",
       "collectedAt": "2025-08-22T14:03:29Z"
+    },
+    "iVfpeETaZgk": {
+      "videoId": "iVfpeETaZgk",
+      "title": "[인터뷰] 장하준 교수 \"부동산 대출규제 완화, 금융위기 때 위험\"",
+      "description": "방송사 : JTBC http://www.jtbc.co.kr\n▶ JTBC 뉴스9 월~금 21시00분 방송\n▶ 홈페이지 : http://news.jtbc.co.kr\n▶ 공식 트위터 : https://twitter.com/JTBC_news\n▶ 공식 페이스북 : https://www.facebook.com/jtbcnews\n\n오늘(11일) 특별한 분을 모셨습니다. 세계 금융위기가 재발할 것이라는 어두운 전망을 내놓으시기도 했는데요. 장하준 교수는 삼성특별법을 만들자는 파격적인 제안을 내놔서 굉장히 논란의 중심에 서 계시기도 합니다. 오늘 장하준 교수를 스튜디오로 모셨습니다.",
+      "publishedAt": "2014-08-11T14:05:22Z",
+      "duration": "PT9M9S",
+      "viewCount": 81773,
+      "likeCount": 288,
+      "commentCount": 44,
+      "tags": [
+        "JTBC",
+        "JTBC NEWS",
+        "손석희",
+        "장하준",
+        "장하준 케임브리지대 교수",
+        "영국 케임브리지대 경제학과",
+        "세계 금융위기 재발",
+        "삼성특별법",
+        "최경환노믹스"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2014-08-11T14:05:22Z",
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "collectedAt": "2025-08-25T21:08:16Z"
     }
   },
   "channels": {
@@ -314,9 +341,36 @@
       "viewCount": 1280577570,
       "videoCount": 19124,
       "lastUpdated": "2025-08-24T21:55:02.148301Z"
+    },
+    "UCsU-I-vHLiaMfV_ceaYz5rQ": {
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "channelUrl": "@jtbc_news",
+      "channelDescription": "진실에 닿을 때까지 멈추지 않는 질문, JTBC News\nWelcome to the official JTBC News Channel.\n\n▶ https://news.jtbc.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 4670000,
+      "viewCount": 14817048106,
+      "videoCount": 261473,
+      "lastUpdated": "2025-08-25T21:08:16.658371Z"
     }
   },
-  "lastUpdated": "2025-08-24T21:55:02.148301Z",
-  "totalVideos": 9,
-  "totalChannels": 3
+  "lastUpdated": "2025-08-25T21:08:16.658371Z",
+  "totalVideos": 10,
+  "totalChannels": 4
 }

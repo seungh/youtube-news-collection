@@ -363,6 +363,48 @@
       "channelId": "UCkinYTS9IHqOEwR1Sze2JTw",
       "channelName": "SBS 뉴스",
       "collectedAt": "2025-08-24T21:54:54Z"
+    },
+    "9iUCdmA9c80": {
+      "videoId": "9iUCdmA9c80",
+      "title": "[밀착카메라] 엄지손가락만한 대형 하루살이 떼…4대강 탓?",
+      "description": "방송사 : JTBC http://www.jtbc.co.kr \n▶ JTBC 뉴스룸 월~일 20시00분 방송 \n▶ 홈페이지 : http://news.jtbc.co.kr \n▶ 공식 트위터 : https://twitter.com/JTBC_news \n▶ 공식 페이스북 : https://www.facebook.com/jtbcnews\n\n이맘때면 엄지손가락만한 하루살이가 떼로 몰려오는 곳이 있습니다. 시내에 나가면 순식간에 몸에 달라붙고, 상점들은 문을 못 엽니다. 남한강 이포보가 자리한 경기도 여주의 얘기인데, 4대강 사업이 영향을 미쳤다는 지적도 나옵니다.\n\n안지현 기자의 밀착카메라입니다.",
+      "publishedAt": "2015-06-04T13:42:17Z",
+      "duration": "PT4M51S",
+      "viewCount": 188176,
+      "likeCount": 526,
+      "commentCount": 438,
+      "tags": [
+        "JTBC",
+        "JTBC NEWS",
+        "JTBC 뉴스",
+        "제이티비씨 뉴스",
+        "제이티비씨",
+        "손석희",
+        "손석희 뉴스",
+        "뉴스룸",
+        "안지현",
+        "김관",
+        "강신후",
+        "밀착카메라",
+        "뉴스룸 밀착",
+        "4대강",
+        "하루살이",
+        "대형 하루살이",
+        "4대강 하루살이",
+        "남한강 이포보",
+        "여주 하루살이",
+        "여주 4대강",
+        "경기도 여주",
+        "남한강 4대강",
+        "남한강 하루살이",
+        "하루살이 피해"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2015-06-04T13:42:17Z",
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "collectedAt": "2025-08-25T21:08:20Z"
     }
   },
   "channels": {
@@ -500,9 +542,36 @@
       "viewCount": 14985058976,
       "videoCount": 297368,
       "lastUpdated": "2025-08-24T21:54:54.772147Z"
+    },
+    "UCsU-I-vHLiaMfV_ceaYz5rQ": {
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "channelUrl": "@jtbc_news",
+      "channelDescription": "진실에 닿을 때까지 멈추지 않는 질문, JTBC News\nWelcome to the official JTBC News Channel.\n\n▶ https://news.jtbc.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 4670000,
+      "viewCount": 14817048106,
+      "videoCount": 261473,
+      "lastUpdated": "2025-08-25T21:08:20.732474Z"
     }
   },
-  "lastUpdated": "2025-08-24T21:54:54.772147Z",
-  "totalVideos": 14,
-  "totalChannels": 5
+  "lastUpdated": "2025-08-25T21:08:20.733472Z",
+  "totalVideos": 15,
+  "totalChannels": 6
 }

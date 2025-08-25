@@ -518,6 +518,43 @@
       "channelId": "UC4Aa3OPkMenwTANpf0oWVRQ",
       "channelName": "CBS 김현정의 뉴스쇼",
       "collectedAt": "2025-08-22T14:03:21Z"
+    },
+    "zBGkLsl_nJs": {
+      "videoId": "zBGkLsl_nJs",
+      "title": "[팩트체크] 정부기관의 '해킹의혹'…외국은 어떤가?",
+      "description": "방송사 : JTBC http://www.jtbc.co.kr \n▶ JTBC 뉴스룸 월~일 20시00분 방송 \n▶ 홈페이지 : http://news.jtbc.co.kr \n▶ 공식 트위터 : https://twitter.com/JTBC_news \n▶ 공식 페이스북 : https://www.facebook.com/jtbcnews \n\n국정원의 감청프로그램 구입 논란이 이어지면서 \"국가의 정보기관을 흔들지 마라\" \"다른 나라도 정보활동의 중요성을 인정해 의혹 보도를 자제하고 있다\" 이런 이야기들이 많이 나오고 있습니다. 국정원에서 그걸 주장한 바도 있고요. 실제 다른 나라의 상황은 어떨까요, 그리고 이와 관련한 국정원의 이야기는 맞는 건지, 오늘(28일) 팩트체크에서 짚어보겠습니다.",
+      "publishedAt": "2015-07-28T13:39:39Z",
+      "duration": "PT7M32S",
+      "viewCount": 2695,
+      "likeCount": 27,
+      "commentCount": 1,
+      "tags": [
+        "JTBC",
+        "JTBC NEWS",
+        "JTBC 뉴스",
+        "제이티비씨 뉴스",
+        "제이티비씨",
+        "손석희",
+        "손석희 뉴스",
+        "뉴스룸",
+        "팩트체크",
+        "김필규",
+        "국정원",
+        "국정원 감청",
+        "국정원 해킹",
+        "해킹",
+        "감청",
+        "감청장비",
+        "국정원 사찰",
+        "사찰",
+        "민간인 사찰"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2015-07-28T13:39:39Z",
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "collectedAt": "2025-08-25T21:08:20Z"
     }
   },
   "channels": {
@@ -628,9 +665,36 @@
       "viewCount": 1280577570,
       "videoCount": 19124,
       "lastUpdated": "2025-08-24T21:54:53.632154Z"
+    },
+    "UCsU-I-vHLiaMfV_ceaYz5rQ": {
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "channelUrl": "@jtbc_news",
+      "channelDescription": "진실에 닿을 때까지 멈추지 않는 질문, JTBC News\nWelcome to the official JTBC News Channel.\n\n▶ https://news.jtbc.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 4670000,
+      "viewCount": 14817048106,
+      "videoCount": 261473,
+      "lastUpdated": "2025-08-25T21:08:20.395027Z"
     }
   },
-  "lastUpdated": "2025-08-24T21:54:53.633667Z",
-  "totalVideos": 21,
-  "totalChannels": 4
+  "lastUpdated": "2025-08-25T21:08:20.395027Z",
+  "totalVideos": 22,
+  "totalChannels": 5
 }

@@ -706,6 +706,41 @@
       "channelId": "UCkinYTS9IHqOEwR1Sze2JTw",
       "channelName": "SBS 뉴스",
       "collectedAt": "2025-08-24T21:54:50Z"
+    },
+    "Ch04k-Dyfxs": {
+      "videoId": "Ch04k-Dyfxs",
+      "title": "[밀착카메라] 누군가에겐 생존수단…줄어드는 나눔의 연탄",
+      "description": "방송사 : JTBC http://www.jtbc.co.kr\n▶ JTBC 뉴스룸 월~일 20시00분 방송\n▶ 홈페이지 : http://news.jtbc.co.kr\n▶ 공식 트위터 : https://twitter.com/JTBC_news\n▶ 공식 페이스북 : https://www.facebook.com/jtbcnews\n\n구공탄, 기억하시나요? 촘촘히 구멍이 뚫린 추억의 연탄이죠. 지금도 연탄으로 겨울을 나는 사람은 16만 가구가 넘지만 기부의 손길은 점점 줄고 있다고 합니다. \n\n밀착카메라 안지현 기자가 그 현장을 다녀왔습니다.",
+      "publishedAt": "2015-12-02T14:12:18Z",
+      "duration": "PT4M18S",
+      "viewCount": 3271,
+      "likeCount": 29,
+      "commentCount": 1,
+      "tags": [
+        "JTBC",
+        "JTBC NEWS",
+        "JTBC 뉴스",
+        "뉴스룸",
+        "뉴스9",
+        "손석희",
+        "손석희 뉴스",
+        "연탄",
+        "구공탄",
+        "연탄은행",
+        "자원봉사",
+        "연탄 기부",
+        "겨울",
+        "추위",
+        "난방",
+        "밀착",
+        "밀착카메라"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2015-12-02T14:12:18Z",
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "collectedAt": "2025-08-25T21:08:18Z"
     }
   },
   "channels": {
@@ -843,9 +878,36 @@
       "viewCount": 14985058976,
       "videoCount": 297368,
       "lastUpdated": "2025-08-24T21:54:50.583620Z"
+    },
+    "UCsU-I-vHLiaMfV_ceaYz5rQ": {
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "channelUrl": "@jtbc_news",
+      "channelDescription": "진실에 닿을 때까지 멈추지 않는 질문, JTBC News\nWelcome to the official JTBC News Channel.\n\n▶ https://news.jtbc.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 4670000,
+      "viewCount": 14817048106,
+      "videoCount": 261473,
+      "lastUpdated": "2025-08-25T21:08:18.385463Z"
     }
   },
-  "lastUpdated": "2025-08-24T21:54:50.584145Z",
-  "totalVideos": 26,
-  "totalChannels": 5
+  "lastUpdated": "2025-08-25T21:08:18.386461Z",
+  "totalVideos": 27,
+  "totalChannels": 6
 }

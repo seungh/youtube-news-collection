@@ -88,6 +88,34 @@
       "channelId": "UC4Aa3OPkMenwTANpf0oWVRQ",
       "channelName": "CBS 김현정의 뉴스쇼",
       "collectedAt": "2025-08-22T14:03:34Z"
+    },
+    "m_0KasvUekA": {
+      "videoId": "m_0KasvUekA",
+      "title": "[긴급출동] 인간 욕심이 낳은 '괴물쥐'의 역습",
+      "description": "낙동강 유역이 몸 길이가 1미터가 넘는 뉴트리아 때문에 몸살을 앓고 있습니다. 농작물이 자라고 있는 밭을 파헤쳐놓는 것은 물론, 생태계 특별 보호구역인 우포늪까지 파괴하고 있습니다. 1980년대 들여온 이 뉴트리아는 한때 농민들의 고수익 사업으로 알려져서 인기를 끌기도 했었다는데요, 지금은 기하급수적으로 늘고 있는 뉴트리아에 대한 집중 포획작업이 한창입니다. \n\n긴급출동에서 취재했습니다.",
+      "publishedAt": "2013-12-04T01:54:07Z",
+      "duration": "PT5M41S",
+      "viewCount": 156185,
+      "likeCount": 204,
+      "commentCount": 166,
+      "tags": [
+        "JTBC",
+        "JTBC NEWS",
+        "JTBC 아침&",
+        "아침&",
+        "긴급출동",
+        "뉴트리아",
+        "쥐",
+        "괴물쥐",
+        "낙동강",
+        "낙동강 쥐"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2013-12-04T01:54:07Z",
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "collectedAt": "2025-08-25T21:08:24Z"
     }
   },
   "channels": {
@@ -117,9 +145,36 @@
       "viewCount": 1280577570,
       "videoCount": 19124,
       "lastUpdated": "2025-08-24T21:55:11.739108Z"
+    },
+    "UCsU-I-vHLiaMfV_ceaYz5rQ": {
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "channelUrl": "@jtbc_news",
+      "channelDescription": "진실에 닿을 때까지 멈추지 않는 질문, JTBC News\nWelcome to the official JTBC News Channel.\n\n▶ https://news.jtbc.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 4670000,
+      "viewCount": 14817048106,
+      "videoCount": 261473,
+      "lastUpdated": "2025-08-25T21:08:24.212659Z"
     }
   },
-  "lastUpdated": "2025-08-24T21:55:11.739108Z",
-  "totalVideos": 3,
-  "totalChannels": 1
+  "lastUpdated": "2025-08-25T21:08:24.213655Z",
+  "totalVideos": 4,
+  "totalChannels": 2
 }

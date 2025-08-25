@@ -192,6 +192,29 @@
       "channelId": "UC4Aa3OPkMenwTANpf0oWVRQ",
       "channelName": "CBS 김현정의 뉴스쇼",
       "collectedAt": "2025-08-22T14:03:38Z"
+    },
+    "kDbZQis1Hz4": {
+      "videoId": "kDbZQis1Hz4",
+      "title": "[JTBC 탐사코드] 왜 가족을 죽여야만 했나? 패륜의 진실",
+      "description": "□ 왜 가족을 죽여야만 했나? 패륜의 진실!\n\n지난 1월 30일, 전주에서 일가족이 연탄가스에 질식사한 사건이 발생했다. 수사 초기에는 형이 저지른 일가족 자살사건으로 좁혀졌으나 알고 보니 막내 아들 박수혁(가명)이 저지른 범행이었다. 일명 전주 일가족 살인 사건! 그 후 30여일 뒤인 3월 3일, 광주에서는 김형식(가명)이 자신의 부모를 무시하는 친척들에게 앙심을 품고 흉기를 휘두른 사건이 발생했다. 끝내 작은 아버지는 사망했고 7명의 친척들은 상해를 입게 된 비극적인 친족 살해 사건이었다. \n\n그들은 왜 가족을 무참히 살해하는 극단적인 방법을 택해야만 했을까? 전주 일가족 살해범 박수혁(가명)은 조사 과정중 경찰관계자에게 자신의 가정을 \"속은 썩을 대로 썩은 가족이다\"라고 진술했다. 그리고 광주 친족 살해범 김형식(가명)은 평소 아버지와의 관계에 대해 \"수백 번을 질문한 것 같은데 한 번도 대답 안 하셨어요\"라며 취재진에게 울먹이며 힘든 심경을 토로했다. \n\n자신의 가족을 죽여야만 했던 살인마! 과연 이들에겐 무슨 사연이 있는 것일까? 4월 12일 금요일 밤 11시 5분 JTBC '진실추적자 탐사코드'에서는 '왜 가족을 죽여야만 했나? 패륜의 진실!' 그 이면을 추적해보았다. \n\nhttp://culture.jtbc.co.kr/codej1",
+      "publishedAt": "2013-04-10T10:46:09Z",
+      "duration": "PT56S",
+      "viewCount": 4843,
+      "likeCount": 8,
+      "commentCount": 1,
+      "tags": [
+        "JTBC",
+        "JTBCNEWS",
+        "뉴스9",
+        "탐사코드",
+        "진실추적자"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2013-04-10T10:46:09Z",
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "collectedAt": "2025-08-25T21:08:24Z"
     }
   },
   "channels": {
@@ -248,9 +271,36 @@
       "viewCount": 1280577570,
       "videoCount": 19124,
       "lastUpdated": "2025-08-24T21:55:18.629060Z"
+    },
+    "UCsU-I-vHLiaMfV_ceaYz5rQ": {
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "channelUrl": "@jtbc_news",
+      "channelDescription": "진실에 닿을 때까지 멈추지 않는 질문, JTBC News\nWelcome to the official JTBC News Channel.\n\n▶ https://news.jtbc.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 4670000,
+      "viewCount": 14817048106,
+      "videoCount": 261473,
+      "lastUpdated": "2025-08-25T21:08:24.712659Z"
     }
   },
-  "lastUpdated": "2025-08-24T21:55:18.632056Z",
-  "totalVideos": 6,
-  "totalChannels": 2
+  "lastUpdated": "2025-08-25T21:08:24.713656Z",
+  "totalVideos": 7,
+  "totalChannels": 3
 }

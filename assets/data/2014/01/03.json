@@ -292,6 +292,34 @@
       "channelId": "UC4Aa3OPkMenwTANpf0oWVRQ",
       "channelName": "CBS 김현정의 뉴스쇼",
       "collectedAt": "2025-08-22T14:03:34Z"
+    },
+    "LxGd-zeoL2k": {
+      "videoId": "LxGd-zeoL2k",
+      "title": "[긴급출동] 환영·한숨의 '금연법'...끝나지 않는 논쟁",
+      "description": "150제곱미터 이상의 음식점과 주점에서 담배를 피울 수 없었던 것이 올해부터는 100제곱미터 이상으로 확대가 됐습니다. 실내에서 담배 연기 안 맡으니까 비흡연자들은 환영이지만 흡연자들은 흡연자대로 고충이 많습니다. 그래서 거리로 나와서 담배를 피우는 사람들도 더 눈에 많이 띄고요, 흡연구역을 따로 마련하기 힘든 영세상인들은 손님이 줄지 않을까 걱정이 큽니다.",
+      "publishedAt": "2014-01-03T05:00:10Z",
+      "duration": "PT4M3S",
+      "viewCount": 1830,
+      "likeCount": 2,
+      "commentCount": 0,
+      "tags": [
+        "JTBC",
+        "JTBC NEWS",
+        "JTBC 아침&",
+        "아침&",
+        "긴급출동",
+        "JTBC 긴급출동",
+        "흡연자",
+        "금연",
+        "흡연",
+        "금연 PC"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2014-01-03T05:00:10Z",
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "collectedAt": "2025-08-25T21:08:24Z"
     }
   },
   "channels": {
@@ -375,9 +403,36 @@
       "viewCount": 1280577570,
       "videoCount": 19124,
       "lastUpdated": "2025-08-24T21:55:10.999109Z"
+    },
+    "UCsU-I-vHLiaMfV_ceaYz5rQ": {
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "channelUrl": "@jtbc_news",
+      "channelDescription": "진실에 닿을 때까지 멈추지 않는 질문, JTBC News\nWelcome to the official JTBC News Channel.\n\n▶ https://news.jtbc.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 4670000,
+      "viewCount": 14817048106,
+      "videoCount": 261473,
+      "lastUpdated": "2025-08-25T21:08:24.148829Z"
     }
   },
-  "lastUpdated": "2025-08-24T21:55:11.000106Z",
-  "totalVideos": 10,
-  "totalChannels": 3
+  "lastUpdated": "2025-08-25T21:08:24.148829Z",
+  "totalVideos": 11,
+  "totalChannels": 4
 }

@@ -527,6 +527,79 @@
       "channelId": "UC4Aa3OPkMenwTANpf0oWVRQ",
       "channelName": "CBS 김현정의 뉴스쇼",
       "collectedAt": "2025-08-22T14:03:25Z"
+    },
+    "w9iXZD7_kgk": {
+      "videoId": "w9iXZD7_kgk",
+      "title": "[단독] MB정부, '깡통회사'를 국내기업에 떠넘기려 했다",
+      "description": "방송사 : JTBC http://www.jtbc.co.kr \n▶ JTBC 뉴스룸 월~일 20시00분 방송 \n▶ 홈페이지 : http://news.jtbc.co.kr \n▶ 공식 트위터 : https://twitter.com/JTBC_news \n▶ 공식 페이스북 : https://www.facebook.com/jtbcnews \n\n어제(29일) 저희들은 비교적 많은 시간을 이명박 전 대통령의 회고록 검증에 할애했습니다. 특히 자원외교와 4대강 사업 부분이었습니다. 오늘 한 가지 더 검증하겠습니다. 이명박 전 대통령은 회고록에서 자원외교가 수익성 높은 투자였다고 주장했는데요. 하지만 JTBC가 확인한 결과 대표적인 자원외교 사업이었던 캐나다 하베스트의 자회사 '날'을 임기 중 국내 대기업에 떠넘기려 했던 것으로 확인됐습니다.\n \n윤정식 기자의 단독보도입니다.",
+      "publishedAt": "2015-01-30T12:59:17Z",
+      "duration": "PT1M47S",
+      "viewCount": 4840,
+      "likeCount": 24,
+      "commentCount": 9,
+      "tags": [
+        "JTBC",
+        "JTBC NEWS",
+        "JTBC 뉴스",
+        "제이티비씨",
+        "제이티비씨 뉴스",
+        "손석희 뉴스",
+        "손석희",
+        "뉴스룸",
+        "뉴스9",
+        "JTBC단독",
+        "단독",
+        "단독 보도",
+        "윤정식",
+        "MB",
+        "이명박",
+        "이명박 정부",
+        "자원외교",
+        "하베스트",
+        "이명박 자원외교",
+        "이명박 회고록",
+        "MB 회고록"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2015-01-30T12:59:17Z",
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "collectedAt": "2025-08-25T21:08:22Z"
+    },
+    "MSqWhIo-O08": {
+      "videoId": "MSqWhIo-O08",
+      "title": "[MB 회고록 집중분석/4대강] '그린뉴딜'로 금융위기 극복?…\"말도 안 된다\"",
+      "description": "방송사 : JTBC http://www.jtbc.co.kr \n▶ JTBC 뉴스룸 월~일 20시00분 방송 \n▶ 홈페이지 : http://news.jtbc.co.kr \n▶ 공식 트위터 : https://twitter.com/JTBC_news \n▶ 공식 페이스북 : https://www.facebook.com/jtbcnews \n\n이번에는 그동안 4대강 문제를 꾸준히 취재해온 기자와 한걸음 더 들어가 보겠습니다. 작년에 6개월 동안 4대강 현장을 쫓아다닌 이호진 기자입니다.",
+      "publishedAt": "2015-01-29T15:05:10Z",
+      "duration": "PT7M15S",
+      "viewCount": 5748,
+      "likeCount": 47,
+      "commentCount": 7,
+      "tags": [
+        "JTBC",
+        "JTBC NEWS",
+        "JTBC 뉴스",
+        "제이티비씨 뉴스",
+        "제이티비씨",
+        "손석희",
+        "손석희 뉴스",
+        "이명박",
+        "이명박 회고록",
+        "MB 회고록",
+        "회고록",
+        "4대강",
+        "큰빗이끼벌레",
+        "그린뉴딜",
+        "대운하",
+        "이호진"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2015-01-29T15:05:10Z",
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "collectedAt": "2025-08-25T21:08:22Z"
     }
   },
   "channels": {
@@ -637,9 +710,36 @@
       "viewCount": 1280577570,
       "videoCount": 19124,
       "lastUpdated": "2025-08-24T21:54:58.264086Z"
+    },
+    "UCsU-I-vHLiaMfV_ceaYz5rQ": {
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "channelUrl": "@jtbc_news",
+      "channelDescription": "진실에 닿을 때까지 멈추지 않는 질문, JTBC News\nWelcome to the official JTBC News Channel.\n\n▶ https://news.jtbc.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 4670000,
+      "viewCount": 14817048106,
+      "videoCount": 261473,
+      "lastUpdated": "2025-08-25T21:08:22.212050Z"
     }
   },
-  "lastUpdated": "2025-08-24T21:54:58.266080Z",
-  "totalVideos": 21,
-  "totalChannels": 4
+  "lastUpdated": "2025-08-25T21:08:22.213048Z",
+  "totalVideos": 23,
+  "totalChannels": 5
 }

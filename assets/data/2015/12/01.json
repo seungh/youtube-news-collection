@@ -304,6 +304,78 @@
       "channelId": "UC4Aa3OPkMenwTANpf0oWVRQ",
       "channelName": "CBS 김현정의 뉴스쇼",
       "collectedAt": "2025-08-22T14:03:18Z"
+    },
+    "soHsrWOR29I": {
+      "videoId": "soHsrWOR29I",
+      "title": "[밀착카메라] 훼손되고 사라지는…'일그러진 문화재'",
+      "description": "방송사 : JTBC http://www.jtbc.co.kr\n▶ JTBC 뉴스룸 월~일 20시00분 방송\n▶ 홈페이지 : http://news.jtbc.co.kr\n▶ 공식 트위터 : https://twitter.com/JTBC_news\n▶ 공식 페이스북 : https://www.facebook.com/jtbcnews\n\n역사의 얼굴이라 할 수 있는 문화재 관리, 아무리 강조해도 지나치지 않을 겁니다. 그런데 최근 지자체들이 관리하는 문화재가 훼손되고 도난당하는 사례가 늘고 있습니다.\n\n밀착카메라 고석승 기자가 문화재에 대한 부실한 관리 실태를 취재했습니다.",
+      "publishedAt": "2015-12-01T14:10:16Z",
+      "duration": "PT4M15S",
+      "viewCount": 22847,
+      "likeCount": 107,
+      "commentCount": 30,
+      "tags": [
+        "JTBC",
+        "JTBC NEWS",
+        "JTBC 뉴스",
+        "뉴스룸",
+        "뉴스9",
+        "손석희",
+        "손석희 뉴스",
+        "문화재",
+        "문화재관리",
+        "만정리 고인돌",
+        "죽산리석불입상",
+        "유네스코",
+        "세계문화유산",
+        "수원화성",
+        "고분군",
+        "밀착",
+        "밀착카메라"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2015-12-01T14:10:16Z",
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "collectedAt": "2025-08-25T21:08:18Z"
+    },
+    "EZPVO9Q_wos": {
+      "videoId": "EZPVO9Q_wos",
+      "title": "[팩트체크] 논란의 프로야구 선수 '몸값'…거품인가 아닌가",
+      "description": "방송사 : JTBC http://www.jtbc.co.kr\n▶ JTBC 뉴스룸 월~일 20시00분 방송\n▶ 홈페이지 : http://news.jtbc.co.kr\n▶ 공식 트위터 : https://twitter.com/JTBC_news\n▶ 공식 페이스북 : https://www.facebook.com/jtbcnews\n\n어제 96억 원, 84억 원에 계약을 했다는 프로야구 선수들 소식 전해드렸는데, 이제 몸값이 100억 원인 선수도 조만간 나오는 게 아니냐, 이런 얘기도 나오죠. 그러다 보니 이런 보수가 과연 적당한 거냐 논란도 많은데… 우리 프로야구 선수들 몸값, 거품인지 아닌지 오늘(1일) 팩트체크에서 짚어보겠습니다.\n\n김필규 기자, 저 액수로 계약을 했다고 해서 한 번에 지급하는 것은 아니죠?",
+      "publishedAt": "2015-12-01T14:13:17Z",
+      "duration": "PT7M40S",
+      "viewCount": 35080,
+      "likeCount": 120,
+      "commentCount": 33,
+      "tags": [
+        "JTBC",
+        "JTBC NEWS",
+        "JTBC 뉴스",
+        "뉴스룸",
+        "뉴스9",
+        "손석희",
+        "손석희 뉴스",
+        "야구",
+        "프로야구",
+        "FA",
+        "박석민",
+        "정우람",
+        "메이저리그",
+        "야구선수 연봉",
+        "몸값",
+        "김필규",
+        "팩트",
+        "팩트체커",
+        "팩트체크"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2015-12-01T14:13:17Z",
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "collectedAt": "2025-08-25T21:08:18Z"
     }
   },
   "channels": {
@@ -414,9 +486,36 @@
       "viewCount": 1280577570,
       "videoCount": 19124,
       "lastUpdated": "2025-08-24T21:54:50.615109Z"
+    },
+    "UCsU-I-vHLiaMfV_ceaYz5rQ": {
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "channelUrl": "@jtbc_news",
+      "channelDescription": "진실에 닿을 때까지 멈추지 않는 질문, JTBC News\nWelcome to the official JTBC News Channel.\n\n▶ https://news.jtbc.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 4670000,
+      "viewCount": 14817048106,
+      "videoCount": 261473,
+      "lastUpdated": "2025-08-25T21:08:18.406408Z"
     }
   },
-  "lastUpdated": "2025-08-24T21:54:50.616106Z",
-  "totalVideos": 12,
-  "totalChannels": 4
+  "lastUpdated": "2025-08-25T21:08:18.407405Z",
+  "totalVideos": 14,
+  "totalChannels": 5
 }

@@ -424,6 +424,40 @@
       "channelId": "UC4Aa3OPkMenwTANpf0oWVRQ",
       "channelName": "CBS 김현정의 뉴스쇼",
       "collectedAt": "2025-08-22T14:03:25Z"
+    },
+    "wsUAhQmuEcg": {
+      "videoId": "wsUAhQmuEcg",
+      "title": "[팩트체크] 박근혜 정부 집권 3년차…대통령 공약검증 1탄",
+      "description": "방송사 : JTBC http://www.jtbc.co.kr \n▶ JTBC 뉴스룸 월~일 20시00분 방송 \n▶ 홈페이지 : http://news.jtbc.co.kr \n▶ 공식 트위터 : https://twitter.com/JTBC_news \n▶ 공식 페이스북 : https://www.facebook.com/jtbcnews \n\n설 연휴를 마치고 나면 이제 집권 3년차, 임기 중반에 들어섭니다. 오늘(16일)과 내일 저희들이 체크해볼 일이 있는데요, 워싱턴포스트 등 팩트체크 코너를 운영하고 있는 미국의 유력매체나 기관에서도 대통령에 대한 상시적인 공약검증은 가장 중요한 부분인데요. 오늘과 내일 팩트체크에서는 만 2년 동안의 공약 이행상황을 집중적으로 짚어보도록 하겠습니다.\n\n몇 가지 뜻이 있습니다. 우선 제대로 되고 있는가를 짚어보는 것이고, 두 번째는 혹시 안 되고 있는 부분이 있다면 앞으로도 꼭 이뤄주십사 하는 의미도 있습니다. 앞에 있는 게 대선공약집이죠? 2년 만에 보는 것 같습니다. 당시 공약이 세부적으로 600개가 넘었죠?",
+      "publishedAt": "2015-02-16T14:44:16Z",
+      "duration": "PT9M28S",
+      "viewCount": 26295,
+      "likeCount": 149,
+      "commentCount": 42,
+      "tags": [
+        "JTBC",
+        "JTBC NEWS",
+        "JTBC 뉴스",
+        "뉴스룸",
+        "뉴스9",
+        "손석희 뉴스",
+        "손석희",
+        "김필규",
+        "팩트체크",
+        "공약",
+        "대통령 공약",
+        "박근혜 정부 공약",
+        "공약검증",
+        "공약이행율",
+        "대선공약집",
+        "JTBC 팩트체크"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2015-02-16T14:44:16Z",
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "collectedAt": "2025-08-25T21:08:22Z"
     }
   },
   "channels": {
@@ -534,9 +568,36 @@
       "viewCount": 1280577570,
       "videoCount": 19124,
       "lastUpdated": "2025-08-24T21:54:57.939109Z"
+    },
+    "UCsU-I-vHLiaMfV_ceaYz5rQ": {
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "channelUrl": "@jtbc_news",
+      "channelDescription": "진실에 닿을 때까지 멈추지 않는 질문, JTBC News\nWelcome to the official JTBC News Channel.\n\n▶ https://news.jtbc.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 4670000,
+      "viewCount": 14817048106,
+      "videoCount": 261473,
+      "lastUpdated": "2025-08-25T21:08:22.047492Z"
     }
   },
-  "lastUpdated": "2025-08-24T21:54:57.940108Z",
-  "totalVideos": 17,
-  "totalChannels": 4
+  "lastUpdated": "2025-08-25T21:08:22.047492Z",
+  "totalVideos": 18,
+  "totalChannels": 5
 }

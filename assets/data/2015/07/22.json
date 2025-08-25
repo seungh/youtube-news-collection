@@ -556,6 +556,42 @@
       "channelId": "UC4Aa3OPkMenwTANpf0oWVRQ",
       "channelName": "CBS 김현정의 뉴스쇼",
       "collectedAt": "2025-08-22T14:03:21Z"
+    },
+    "gCMgqkX-nR0": {
+      "videoId": "gCMgqkX-nR0",
+      "title": "[팩트체크] \"홈페이지 접속해주세요\" 매달리는 기업들 어떻게 해야할까?",
+      "description": "방송사 : JTBC http://www.jtbc.co.kr \n▶ JTBC 뉴스룸 월~일 20시00분 방송 \n▶ 홈페이지 : http://news.jtbc.co.kr \n▶ 공식 트위터 : https://twitter.com/JTBC_news \n▶ 공식 페이스북 : https://www.facebook.com/jtbcnews \n\n팩트체크 시작하겠습니다. 오늘(22일) 팩트체크 주제는 지금 화면에 보이는 개인메일함과 관련된 이야기라고 합니다. 누구의 개인메일함인지는 잠시 후에 밝혀드리겠습니다. 보낸 사람은 다 다른 것 같은데 제목들이 비슷합니다. 개인정보 유효기간, 이런 단어가 눈에 띄네요. 저도 이런 메일들 많이 받고 있는데요. 이게 다 이유가 있다고 합니다. \n\n또 말씀을 안 드렸는데 이번 주에 김필규 기자 출장이기 때문에 박소연 기자가 3일째 계속하고 있습니다. 많이 익숙해졌나요? (아직도 떨립니다) 그런가요? 그런 것 같지는 않은데요. 알겠습니다. 그러니까 이 메일들이 평범한 스팸메일은 아니다, 이런 얘기죠?",
+      "publishedAt": "2015-07-22T13:42:23Z",
+      "duration": "PT6M32S",
+      "viewCount": 3991,
+      "likeCount": 22,
+      "commentCount": 1,
+      "tags": [
+        "JTBC",
+        "JTBC NEWS",
+        "JTBC 뉴스",
+        "제이티비씨 뉴스",
+        "제이티비씨",
+        "손석희",
+        "손석희 뉴스",
+        "뉴스룸",
+        "팩트체크",
+        "김필규",
+        "박소연",
+        "개인정보",
+        "홈페이지",
+        "스팸메일",
+        "개인정보 유효기간",
+        "개인정보 분리보관",
+        "휴면계정",
+        "정보통신망법"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2015-07-22T13:42:23Z",
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "collectedAt": "2025-08-25T21:08:20Z"
     }
   },
   "channels": {
@@ -666,9 +702,36 @@
       "viewCount": 1280577570,
       "videoCount": 19124,
       "lastUpdated": "2025-08-24T21:54:53.759115Z"
+    },
+    "UCsU-I-vHLiaMfV_ceaYz5rQ": {
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "channelUrl": "@jtbc_news",
+      "channelDescription": "진실에 닿을 때까지 멈추지 않는 질문, JTBC News\nWelcome to the official JTBC News Channel.\n\n▶ https://news.jtbc.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 4670000,
+      "viewCount": 14817048106,
+      "videoCount": 261473,
+      "lastUpdated": "2025-08-25T21:08:20.431453Z"
     }
   },
-  "lastUpdated": "2025-08-24T21:54:53.761115Z",
-  "totalVideos": 21,
-  "totalChannels": 4
+  "lastUpdated": "2025-08-25T21:08:20.431453Z",
+  "totalVideos": 22,
+  "totalChannels": 5
 }

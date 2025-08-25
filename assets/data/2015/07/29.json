@@ -479,6 +479,75 @@
       "channelId": "UC4Aa3OPkMenwTANpf0oWVRQ",
       "channelName": "CBS 김현정의 뉴스쇼",
       "collectedAt": "2025-08-22T14:03:21Z"
+    },
+    "mB5T8GfIzK0": {
+      "videoId": "mB5T8GfIzK0",
+      "title": "[밀착카메라] 방치된 빈집 80만여곳…\"슬럼화 가속\"",
+      "description": "방송사 : JTBC http://www.jtbc.co.kr \n▶ JTBC 뉴스룸 월~일 20시00분 방송 \n▶ 홈페이지 : http://news.jtbc.co.kr \n▶ 공식 트위터 : https://twitter.com/JTBC_news \n▶ 공식 페이스북 : https://www.facebook.com/jtbcnews \n\n전설의 고향… 오늘(29일) 밀착카메라가 본의아니게 전설의 고향처럼 될지도 모르겠습니다. 대개 전설의 고향의 배경은 허름한 흉가죠. 전국에 사람이 살고 있지 않은 빈집 80만여 곳이나 됩니다. 지역의 슬럼화를 만드는 등 여러 가지 문제가 많다고 합니다. \n\n밀착카메라 안지현 기자가 다녀왔습니다.",
+      "publishedAt": "2015-07-29T13:42:24Z",
+      "duration": "PT4M38S",
+      "viewCount": 566214,
+      "likeCount": 1577,
+      "commentCount": 330,
+      "tags": [
+        "JTBC",
+        "JTBC NEWS",
+        "JTBC 뉴스",
+        "제이티비씨 뉴스",
+        "제이티비씨",
+        "손석희",
+        "손석희 뉴스",
+        "뉴스룸",
+        "밀착카메라",
+        "안지현",
+        "흉가",
+        "폐가",
+        "빈집",
+        "슬럼",
+        "슬럼가",
+        "귀신",
+        "전설의 고향",
+        "귀신의 집"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2015-07-29T13:42:24Z",
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "collectedAt": "2025-08-25T21:08:18Z"
+    },
+    "eTrPUcVxIho": {
+      "videoId": "eTrPUcVxIho",
+      "title": "[팩트체크] 우리나라 기상청 '날씨 예보' 성적 어땠나",
+      "description": "방송사 : JTBC http://www.jtbc.co.kr \n▶ JTBC 뉴스룸 월~일 20시00분 방송 \n▶ 홈페이지 : http://news.jtbc.co.kr \n▶ 공식 트위터 : https://twitter.com/JTBC_news \n▶ 공식 페이스북 : https://www.facebook.com/jtbcnews \n\n오늘(29일) 팩트체크의 김필규 기자가 어찌 보면 쉬워 보이지만, 가만히 생각하면 굉장히 어려운 과제에 도전하고 있는 것 같은데요. 즉, 우리 기상청이 내놓고 있는 기상예보가 믿을 만하냐 하는 문제입니다. 쉬운 것 같지만 어려운 문제임이 틀림없는 것 같습니다. \n\n당장 최근의 태풍 예측에서 우리 기상청의 성적이 어땠습니까?",
+      "publishedAt": "2015-07-29T13:47:04Z",
+      "duration": "PT7M39S",
+      "viewCount": 12559,
+      "likeCount": 65,
+      "commentCount": 9,
+      "tags": [
+        "JTBC",
+        "JTBC NEWS",
+        "JTBC 뉴스",
+        "제이티비씨 뉴스",
+        "제이티비씨",
+        "손석희",
+        "손석희 뉴스",
+        "뉴스룸",
+        "팩트체크",
+        "김필규",
+        "날씨",
+        "기상청",
+        "할롤라",
+        "태풍",
+        "케이웨더"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2015-07-29T13:47:04Z",
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "collectedAt": "2025-08-25T21:08:18Z"
     }
   },
   "channels": {
@@ -589,9 +658,36 @@
       "viewCount": 1280577570,
       "videoCount": 19124,
       "lastUpdated": "2025-08-24T21:54:53.600124Z"
+    },
+    "UCsU-I-vHLiaMfV_ceaYz5rQ": {
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "channelUrl": "@jtbc_news",
+      "channelDescription": "진실에 닿을 때까지 멈추지 않는 질문, JTBC News\nWelcome to the official JTBC News Channel.\n\n▶ https://news.jtbc.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 4670000,
+      "viewCount": 14817048106,
+      "videoCount": 261473,
+      "lastUpdated": "2025-08-25T21:08:18.827306Z"
     }
   },
-  "lastUpdated": "2025-08-24T21:54:53.601124Z",
-  "totalVideos": 18,
-  "totalChannels": 4
+  "lastUpdated": "2025-08-25T21:08:18.827306Z",
+  "totalVideos": 20,
+  "totalChannels": 5
 }

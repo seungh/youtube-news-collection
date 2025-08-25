@@ -383,6 +383,43 @@
       "channelId": "UC4Aa3OPkMenwTANpf0oWVRQ",
       "channelName": "CBS 김현정의 뉴스쇼",
       "collectedAt": "2025-08-22T14:03:23Z"
+    },
+    "4q5cPbMTSlE": {
+      "videoId": "4q5cPbMTSlE",
+      "title": "[탐사플러스] '재가동' 월성1호기…비공개 내부 보고서 입수",
+      "description": "방송사 : JTBC http://www.jtbc.co.kr \n▶ JTBC 뉴스룸 월~일 20시00분 방송 \n▶ 홈페이지 : http://news.jtbc.co.kr \n▶ 공식 트위터 : https://twitter.com/JTBC_news \n▶ 공식 페이스북 : https://www.facebook.com/jtbcnews \n\n두 달 전 정부는 설계수명이 다 돼 운행을 정지했던 월성1호기의 재가동 결정을 내린 바 있습니다. 재가동 결정과는 별개로 안전을 둘러싼 논란은 여전히 계속되고 있는 상황이죠. 이와 관련해 한수원, 한국수력원자력의 비공개 내부 보고서를 저희 JTBC가 단독으로 입수했습니다. 그런데 상황이 좀 심각했습니다. 그런데 이 자료에 따르면 반드시 포함돼야 할 안전검사 내용이 상당 부분 포함되지 않았습니다. 그럼 이 재가동 결정은 어떻게 되는 걸까요? 전면적인 재검토가 필요하다는 지적이 나옵니다. \n \n임진택 기자가 취재했습니다.",
+      "publishedAt": "2015-05-07T14:15:44Z",
+      "duration": "PT6M9S",
+      "viewCount": 1492,
+      "likeCount": 17,
+      "commentCount": 0,
+      "tags": [
+        "JTBC",
+        "JTBC NEWS",
+        "JTBC 뉴스",
+        "제이티비씨",
+        "손석희",
+        "손석희 뉴스",
+        "뉴스룸",
+        "탐사",
+        "탐사플러스",
+        "뉴스룸 탐사",
+        "월성",
+        "월성1호기",
+        "원전",
+        "원자력발전소",
+        "한수원",
+        "한국수력원자력",
+        "월성1호기 재가동",
+        "JTBC 단독",
+        "임진택"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2015-05-07T14:15:44Z",
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "collectedAt": "2025-08-25T21:08:21Z"
     }
   },
   "channels": {
@@ -493,9 +530,36 @@
       "viewCount": 1280577570,
       "videoCount": 19124,
       "lastUpdated": "2025-08-24T21:54:55.468135Z"
+    },
+    "UCsU-I-vHLiaMfV_ceaYz5rQ": {
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "channelUrl": "@jtbc_news",
+      "channelDescription": "진실에 닿을 때까지 멈추지 않는 질문, JTBC News\nWelcome to the official JTBC News Channel.\n\n▶ https://news.jtbc.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 4670000,
+      "viewCount": 14817048106,
+      "videoCount": 261473,
+      "lastUpdated": "2025-08-25T21:08:21.174297Z"
     }
   },
-  "lastUpdated": "2025-08-24T21:54:55.475147Z",
-  "totalVideos": 15,
-  "totalChannels": 4
+  "lastUpdated": "2025-08-25T21:08:21.174297Z",
+  "totalVideos": 16,
+  "totalChannels": 5
 }

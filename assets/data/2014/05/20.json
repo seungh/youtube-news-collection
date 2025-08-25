@@ -232,6 +232,34 @@
       "channelId": "UC4Aa3OPkMenwTANpf0oWVRQ",
       "channelName": "CBS 김현정의 뉴스쇼",
       "collectedAt": "2025-08-22T14:03:31Z"
+    },
+    "XdodviGoRFE": {
+      "videoId": "XdodviGoRFE",
+      "title": "[단독] 6천톤급 선박이면 화물도 6천톤? 기본도 몰랐던 직원들",
+      "description": "방송사 : JTBC http://www.jtbc.co.kr\n▶ JTBC 뉴스9 월~금 21시00분 방송\n▶ 홈페이지 : http://news.jtbc.co.kr\n▶ 공식 트위터 : https://twitter.com/JTBC_news\n▶ 공식 페이스북 : https://www.facebook.com/jtbcnews\n\n'6천 톤급 선박에는 화물을 6천 톤을 싣을 수 있는 것 아니냐' 이 말은 청해진 해운의 화물업무 담당자가 한 말이라고 합니다. 진심으로 한 얘기라면 한심한 얘기이고, 그게 아니라면 이 참사를 놓고 농담을 했다는 얘기가 되겠지요. 이 담당자 주장대로라면 세월호는 화물을 과적한 것이 아니라 한참 덜 실었다는 얘기가 됩니다. 이 기막힌 얘기는 합수부 수사과정에서 나왔습니다.\n",
+      "publishedAt": "2014-05-20T14:41:28Z",
+      "duration": "PT1M29S",
+      "viewCount": 1960,
+      "likeCount": 7,
+      "commentCount": 0,
+      "tags": [
+        "손석희",
+        "jtbc",
+        "jtbc news",
+        "세월호",
+        "선박",
+        "화물",
+        "고박",
+        "결박",
+        "참사",
+        "평형수"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2014-05-20T14:41:28Z",
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "collectedAt": "2025-08-25T21:08:19Z"
     }
   },
   "channels": {
@@ -315,9 +343,36 @@
       "viewCount": 1280577570,
       "videoCount": 19124,
       "lastUpdated": "2025-08-24T21:55:05.778139Z"
+    },
+    "UCsU-I-vHLiaMfV_ceaYz5rQ": {
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "channelUrl": "@jtbc_news",
+      "channelDescription": "진실에 닿을 때까지 멈추지 않는 질문, JTBC News\nWelcome to the official JTBC News Channel.\n\n▶ https://news.jtbc.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 4670000,
+      "viewCount": 14817048106,
+      "videoCount": 261473,
+      "lastUpdated": "2025-08-25T21:08:19.423710Z"
     }
   },
-  "lastUpdated": "2025-08-24T21:55:05.779136Z",
-  "totalVideos": 10,
-  "totalChannels": 3
+  "lastUpdated": "2025-08-25T21:08:19.424708Z",
+  "totalVideos": 11,
+  "totalChannels": 4
 }

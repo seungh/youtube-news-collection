@@ -207,6 +207,74 @@
       "channelId": "UC4Aa3OPkMenwTANpf0oWVRQ",
       "channelName": "CBS 김현정의 뉴스쇼",
       "collectedAt": "2025-08-22T14:03:18Z"
+    },
+    "ZpBc7ZmNUjY": {
+      "videoId": "ZpBc7ZmNUjY",
+      "title": "[밀착카메라] 여전히 널려 있는 '카드 NO, 현금 OK'",
+      "description": "방송사 : JTBC http://www.jtbc.co.kr\n▶ JTBC 뉴스룸 월~일 20시00분 방송\n▶ 홈페이지 : http://news.jtbc.co.kr\n▶ 공식 트위터 : https://twitter.com/JTBC_news\n▶ 공식 페이스북 : https://www.facebook.com/jtbcnews\n\n요즘엔 거의 몇천 원도 카드로 결제할 정도로 카드 사용이 일상화됐습니다. 그런데 아직까지도 현금만 고집하는 곳이 있습니다. 아니 이런 곳이 꽤 많습니다. 상인들은 배짱영업이라 부르고 싶겠지만 엄연히 불법영업입니다.\n\n밀착카메라 박소연 기자입니다.",
+      "publishedAt": "2015-11-18T14:11:31Z",
+      "duration": "PT4M29S",
+      "viewCount": 21453,
+      "likeCount": 107,
+      "commentCount": 72,
+      "tags": [
+        "JTBC",
+        "JTBC NEWS",
+        "JTBC 뉴스",
+        "뉴스룸",
+        "뉴스9",
+        "손석희",
+        "손석희 뉴스",
+        "카드",
+        "카드 결제",
+        "신용카드",
+        "현금가",
+        "카드가",
+        "카드 수수료",
+        "카드 거부",
+        "밀착",
+        "밀착카메라"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2015-11-18T14:11:31Z",
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "collectedAt": "2025-08-25T21:08:18Z"
+    },
+    "CGMVzbaE35o": {
+      "videoId": "CGMVzbaE35o",
+      "title": "[팩트체크] \"미국선 폴리스라인 넘으면 팬다\" 사실일까?",
+      "description": "방송사 : JTBC http://www.jtbc.co.kr\n▶ JTBC 뉴스룸 월~일 20시00분 방송\n▶ 홈페이지 : http://news.jtbc.co.kr\n▶ 공식 트위터 : https://twitter.com/JTBC_news\n▶ 공식 페이스북 : https://www.facebook.com/jtbcnews\n\n미국에서는 시위대가 폴리스라인을 벗어나면 바로 패 버린다… 말을 옮기기가 좀 그렇습니다마는. 그리고 경찰이 시민을 향해 총을 쏴 시민이 죽어도 8~90%는 정당하다고 인정받는다, 그게 선진국의 공권력이다. 새누리당 이완영 의원의 발언이 나온 지 며칠 됐는데, 그 며칠 사이에 저희 팩트체크에서 과연 그것이 맞는 건지 체크를 좀 해봤습니다. 그 결과를 오늘(18일) 김필규 기자가 가지고 나왔습니다.\n\n김필규 기자, '미국에선 폴리스라인을 벗어나면 시위대를 그대로 패 버린다' 어떻습니까?",
+      "publishedAt": "2015-11-18T14:09:44Z",
+      "duration": "PT7M31S",
+      "viewCount": 103377,
+      "likeCount": 486,
+      "commentCount": 223,
+      "tags": [
+        "JTBC",
+        "JTBC NEWS",
+        "JTBC 뉴스",
+        "뉴스룸",
+        "뉴스9",
+        "손석희",
+        "손석희 뉴스",
+        "시위",
+        "폴리스라인",
+        "경찰",
+        "공권력",
+        "집회",
+        "팩트체크",
+        "김필규",
+        "진압",
+        "광화문"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2015-11-18T14:09:44Z",
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "collectedAt": "2025-08-25T21:08:18Z"
     }
   },
   "channels": {
@@ -317,9 +385,36 @@
       "viewCount": 1280577570,
       "videoCount": 19124,
       "lastUpdated": "2025-08-24T21:54:50.849097Z"
+    },
+    "UCsU-I-vHLiaMfV_ceaYz5rQ": {
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "channelUrl": "@jtbc_news",
+      "channelDescription": "진실에 닿을 때까지 멈추지 않는 질문, JTBC News\nWelcome to the official JTBC News Channel.\n\n▶ https://news.jtbc.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 4670000,
+      "viewCount": 14817048106,
+      "videoCount": 261473,
+      "lastUpdated": "2025-08-25T21:08:18.488189Z"
     }
   },
-  "lastUpdated": "2025-08-24T21:54:50.850101Z",
-  "totalVideos": 9,
-  "totalChannels": 4
+  "lastUpdated": "2025-08-25T21:08:18.488189Z",
+  "totalVideos": 11,
+  "totalChannels": 5
 }

@@ -245,6 +245,40 @@
       "channelId": "UC4Aa3OPkMenwTANpf0oWVRQ",
       "channelName": "CBS 김현정의 뉴스쇼",
       "collectedAt": "2025-08-22T14:03:24Z"
+    },
+    "yYM-mKF2RR0": {
+      "videoId": "yYM-mKF2RR0",
+      "title": "[팩트체크] 수학시간에 계산기를…'수포자' 줄어들까?",
+      "description": "방송사 : JTBC http://www.jtbc.co.kr \n▶ JTBC 뉴스룸 월~일 20시00분 방송 \n▶ 홈페이지 : http://news.jtbc.co.kr \n▶ 공식 트위터 : https://twitter.com/JTBC_news \n▶ 공식 페이스북 : https://www.facebook.com/jtbcnews \n\n\n교육부가 어제(15일) 수학교육 종합계획을 내놨는데 수학시간에 계산기를 사용하는 방안도 포함됐습니다. 지금 보신 것처럼 학부모들 사이에선 부정적인 반응도 많은데, 아무래도 우리에게는 익숙하지 않은 일이겠죠. 이 문제 오늘 팩트체크에서 짚어보겠습니다. 도움이 되는 것인지, 아닌지… 물론 딱 결론 내긴 어려울지도 모르겠으나, 대상으로 올려보죠.",
+      "publishedAt": "2015-03-16T13:31:59Z",
+      "duration": "PT8M49S",
+      "viewCount": 75662,
+      "likeCount": 325,
+      "commentCount": 435,
+      "tags": [
+        "JTBC",
+        "JTBC NEWS",
+        "JTBC 뉴스",
+        "제이티비씨",
+        "제이티비씨 뉴스",
+        "손석희 뉴스",
+        "손석희",
+        "뉴스룸",
+        "팩트체크",
+        "김필규",
+        "수포자",
+        "수학",
+        "공학용계산기",
+        "수학시간 계산기",
+        "한국 수학",
+        "OECD 수학"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2015-03-16T13:31:59Z",
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "collectedAt": "2025-08-25T21:08:21Z"
     }
   },
   "channels": {
@@ -355,9 +389,36 @@
       "viewCount": 1280577570,
       "videoCount": 19124,
       "lastUpdated": "2025-08-24T21:54:57.185087Z"
+    },
+    "UCsU-I-vHLiaMfV_ceaYz5rQ": {
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "channelUrl": "@jtbc_news",
+      "channelDescription": "진실에 닿을 때까지 멈추지 않는 질문, JTBC News\nWelcome to the official JTBC News Channel.\n\n▶ https://news.jtbc.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 4670000,
+      "viewCount": 14817048106,
+      "videoCount": 261473,
+      "lastUpdated": "2025-08-25T21:08:21.780738Z"
     }
   },
-  "lastUpdated": "2025-08-24T21:54:57.186084Z",
-  "totalVideos": 10,
-  "totalChannels": 4
+  "lastUpdated": "2025-08-25T21:08:21.781736Z",
+  "totalVideos": 11,
+  "totalChannels": 5
 }

@@ -151,6 +151,38 @@
       "channelId": "UC4Aa3OPkMenwTANpf0oWVRQ",
       "channelName": "CBS 김현정의 뉴스쇼",
       "collectedAt": "2025-08-22T14:03:35Z"
+    },
+    "vwpMlhxpBUs": {
+      "videoId": "vwpMlhxpBUs",
+      "title": "[긴급출동] 된장녀 저리가라! 명품 치장 '된장견' 논란",
+      "description": "분에 넘치게 명품으로 치장하는 '된장녀'라고 하죠. 그런데 초고가 애견용품으로 치장한 이른바 '된장견'도 있다고 합니다. 유명 명품 브랜드 제품은 못 팔 정도라고 하고요, 최고급 보양식까지 있다고 하는데요. 이들 보는 불편한 시선들이 많습니다.",
+      "publishedAt": "2013-10-30T05:09:27Z",
+      "duration": "PT3M16S",
+      "viewCount": 2768,
+      "likeCount": 1,
+      "commentCount": 2,
+      "tags": [
+        "JTBC",
+        "JTBC NEWS",
+        "JTBC 아침&",
+        "아침&",
+        "긴급출동",
+        "된장녀",
+        "된장견",
+        "강아지",
+        "개",
+        "명품견",
+        "호화 견공",
+        "견공",
+        "강아지 명품",
+        "명품"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2013-10-30T05:09:27Z",
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "collectedAt": "2025-08-25T21:08:24Z"
     }
   },
   "channels": {
@@ -180,9 +212,36 @@
       "viewCount": 1280577570,
       "videoCount": 19124,
       "lastUpdated": "2025-08-24T21:55:12.531040Z"
+    },
+    "UCsU-I-vHLiaMfV_ceaYz5rQ": {
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "channelUrl": "@jtbc_news",
+      "channelDescription": "진실에 닿을 때까지 멈추지 않는 질문, JTBC News\nWelcome to the official JTBC News Channel.\n\n▶ https://news.jtbc.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 4670000,
+      "viewCount": 14817048106,
+      "videoCount": 261473,
+      "lastUpdated": "2025-08-25T21:08:24.304751Z"
     }
   },
-  "lastUpdated": "2025-08-24T21:55:12.532038Z",
-  "totalVideos": 4,
-  "totalChannels": 1
+  "lastUpdated": "2025-08-25T21:08:24.305747Z",
+  "totalVideos": 5,
+  "totalChannels": 2
 }

@@ -83,6 +83,49 @@
       "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
       "channelName": "뉴스TVCHOSUN",
       "collectedAt": "2025-08-21T10:46:19Z"
+    },
+    "u08b0srVWUk": {
+      "videoId": "u08b0srVWUk",
+      "title": "[14/05/17 정오뉴스] 시신 1구 추가 수습...수색 난항 속 잠수부 1명 병원 이송",
+      "description": "오늘 새벽 3시 반부터 1시간 반 동안 수색작업이 진행됐는데요. 4층 선수 왼쪽 격벽에서 남학생으로 추정되는 시신 1구가 추가로 수습됐습니다. 이에 따라 현재까지 집계된 사망자는 285명, 실종자는 19명입니다. ⓒ MBC&iMBC 무단 전재, 재배포 및 이용(AI학습 포함)금지",
+      "publishedAt": "2014-05-17T06:56:37Z",
+      "duration": "PT1M21S",
+      "viewCount": 6436,
+      "likeCount": 8,
+      "commentCount": 1,
+      "tags": [
+        "MBC",
+        "세월호",
+        "수색"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2014-05-17T06:56:37Z",
+      "channelId": "UCF4Wxdo3inmxP-Y59wXDsFw",
+      "channelName": "MBCNEWS",
+      "collectedAt": "2025-08-25T21:07:54Z"
+    },
+    "9-Cs_VFV5FQ": {
+      "videoId": "9-Cs_VFV5FQ",
+      "title": "[14/05/17 뉴스투데이] 새벽 세월호 수색작업 재개...시신 한 구 추가 수습",
+      "description": "세월호 침몰 사고 32일째, 어제 오후 4시 이후 중단됐던 수색작업은 오늘 새벽 3시 반부터 재개됐습니다. 이 과정에서 남성 시신 1구가 추가로 발견됐습니다. 진도해역은 현재 1년 중 물살이 가장 거세다는 대조기입니다. 선체 내부 붕괴가 진행되고 잔해들이 쌓여 있어 수색에 어려움을 겪었습니다. 현재 사망자는 285명, 실종자는 19명인데요. 오늘도 합동 수색팀은 기존에 수색을 벌였던 곳을 다시 한번 확인하는 2차 수색을 진행할 예정입니다. ⓒ MBC&iMBC 무단 전재, 재배포 및 이용(AI학습 포함)금지",
+      "publishedAt": "2014-05-17T02:06:38Z",
+      "duration": "PT1M21S",
+      "viewCount": 3964,
+      "likeCount": 8,
+      "commentCount": 0,
+      "tags": [
+        "MBC",
+        "세월호",
+        "진도해역",
+        "대조기"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2014-05-17T02:06:38Z",
+      "channelId": "UCF4Wxdo3inmxP-Y59wXDsFw",
+      "channelName": "MBCNEWS",
+      "collectedAt": "2025-08-25T21:07:54Z"
     }
   },
   "channels": {
@@ -112,9 +155,36 @@
       "viewCount": 4319423561,
       "videoCount": 150855,
       "lastUpdated": "2025-08-21T10:28:58.965989Z"
+    },
+    "UCF4Wxdo3inmxP-Y59wXDsFw": {
+      "channelId": "UCF4Wxdo3inmxP-Y59wXDsFw",
+      "channelName": "MBCNEWS",
+      "channelUrl": "@mbcnews11",
+      "channelDescription": "MBC 뉴스 공식 유튜브 채널입니다. 시청자 여러분의 의견과 제보를 항상 기다립니다. \r\n세상과 소통하는 시간, MBC 뉴스와 함께 하세요!",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_nKpBrT7zzqTfdlfUHzw60wMU5KqV-kBmiFjU9dvMI8ePo=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_nKpBrT7zzqTfdlfUHzw60wMU5KqV-kBmiFjU9dvMI8ePo=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_nKpBrT7zzqTfdlfUHzw60wMU5KqV-kBmiFjU9dvMI8ePo=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 5930000,
+      "viewCount": 24230949851,
+      "videoCount": 332919,
+      "lastUpdated": "2025-08-25T21:07:54.738271Z"
     }
   },
-  "lastUpdated": "2025-08-21T10:46:19.682698Z",
-  "totalVideos": 3,
-  "totalChannels": 1
+  "lastUpdated": "2025-08-25T21:07:54.744190Z",
+  "totalVideos": 5,
+  "totalChannels": 2
 }

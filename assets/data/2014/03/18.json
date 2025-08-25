@@ -252,6 +252,64 @@
       "channelId": "UC4Aa3OPkMenwTANpf0oWVRQ",
       "channelName": "CBS 김현정의 뉴스쇼",
       "collectedAt": "2025-08-22T14:03:32Z"
+    },
+    "YwAB98_RT0w": {
+      "videoId": "YwAB98_RT0w",
+      "title": "JTBC '밤샘토론' 8회 - 신당&국정원, 지방선거 최대 쟁점은?",
+      "description": "JTBC '밤샘토론' 8회 - 신당과 국정원\n\n▶ 방송사 : JTBC \n▶ 프로그램명 : 밤샘토론\n▶ 홈페이지 : http://culture.jtbc.joins.com/nightdebate \n▶ 공식 트위터 : https://twitter.com/JTBClove\n▶ 공식 페이스북 : https://www.facebook.com/JTBClove",
+      "publishedAt": "2014-03-18T04:30:28Z",
+      "duration": "PT3H16M25S",
+      "viewCount": 12885,
+      "likeCount": 11,
+      "commentCount": 5,
+      "tags": [
+        "Joongang Tongyang Broadcasting Company (TV Network)",
+        "JTBC",
+        "토론",
+        "밤샘토론",
+        "신예리",
+        "국민대 토론동아리",
+        "토론동아리",
+        "국민대학교",
+        "100초발언",
+        "김태흠",
+        "김기식",
+        "박진규"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2014-03-18T04:30:28Z",
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "collectedAt": "2025-08-25T21:08:20Z"
+    },
+    "R_unlSNlTEI": {
+      "videoId": "R_unlSNlTEI",
+      "title": "[긴급출동] 환영 받지 못하는 대치 경찰지구대, 왜?",
+      "description": "방송사 : JTBC http://www.jtbc.co.kr\r\n▶ JTBC 뉴스9 월~금 21시00분 방송\r\n▶ 홈페이지 : http://news.jtbc.co.kr\r\n▶ 공식 트위터 : https://twitter.com/JTBC_news\r\n▶ 공식 페이스북 : https://www.facebook.com/jtbcnews\r\n\r\n주민들의 환영을 받지 못하는 이른바 혐오시설들이 몇 가지 있죠. 그런데 서울 강남의 경찰지구대가 주민들의 반발로 이전을 하지 못하고 있습니다. 지금 사용하고 있는 지구대 건물이 많이 낡아서 이사를 해야하는데, 주민들은 주차문제나 취객들의 소음 문제 이런 것 때문에 거부를 하고 있는 상황인데요.\r\n\r\n긴급출동에서 이 사연 들어보겠습니다.",
+      "publishedAt": "2014-03-18T00:28:54Z",
+      "duration": "PT5M49S",
+      "viewCount": 3799,
+      "likeCount": 7,
+      "commentCount": 5,
+      "tags": [
+        "jtbc",
+        "jtbc news",
+        "jtbc 뉴스",
+        "아침뉴스",
+        "손석희",
+        "긴급출동",
+        "대치동",
+        "대치동 지구대",
+        "경찰지구대",
+        "혐오시설"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2014-03-18T00:28:54Z",
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "collectedAt": "2025-08-25T21:08:20Z"
     }
   },
   "channels": {
@@ -308,9 +366,36 @@
       "viewCount": 1280577570,
       "videoCount": 19124,
       "lastUpdated": "2025-08-24T21:55:08.446620Z"
+    },
+    "UCsU-I-vHLiaMfV_ceaYz5rQ": {
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "channelUrl": "@jtbc_news",
+      "channelDescription": "진실에 닿을 때까지 멈추지 않는 질문, JTBC News\nWelcome to the official JTBC News Channel.\n\n▶ https://news.jtbc.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 4670000,
+      "viewCount": 14817048106,
+      "videoCount": 261473,
+      "lastUpdated": "2025-08-25T21:08:20.062873Z"
     }
   },
-  "lastUpdated": "2025-08-24T21:55:08.447618Z",
-  "totalVideos": 8,
-  "totalChannels": 2
+  "lastUpdated": "2025-08-25T21:08:20.062873Z",
+  "totalVideos": 10,
+  "totalChannels": 3
 }

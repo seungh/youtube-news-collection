@@ -250,6 +250,46 @@
       "channelId": "UC4Aa3OPkMenwTANpf0oWVRQ",
       "channelName": "CBS 김현정의 뉴스쇼",
       "collectedAt": "2025-08-22T14:03:28Z"
+    },
+    "ZlhNxbiF5Ig": {
+      "videoId": "ZlhNxbiF5Ig",
+      "title": "3시 상황실, 사건반장",
+      "description": "매주 월~금 오후 3시 방송\n\n사건 사고를 통해 대한민국을 본다\n사회 이슈에 집중된 뉴스쇼\n뉴스를 분석하는 5가지 시선\n박종권 사건대기자의 날선 이야기",
+      "publishedAt": "2014-09-24T15:28:25Z",
+      "duration": "PT40S",
+      "viewCount": 12446,
+      "likeCount": 37,
+      "commentCount": 2,
+      "tags": [
+        "JTBC",
+        "JTBC뉴스",
+        "3시 상황실 사건반장",
+        "박종권",
+        "JTBC뉴스룸"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2014-09-24T15:28:25Z",
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "collectedAt": "2025-08-25T21:08:25Z"
+    },
+    "DGAh_M7ReOE": {
+      "videoId": "DGAh_M7ReOE",
+      "title": "JTBC 뉴스 현장",
+      "description": "월~금 오후 4시/ 토~일 오후 12시 30분 방송\n\n신뢰도 1등 JTBC 뉴스를 뉴스현장이 이어갑니다\n거침없는 직격토크, 촌철살인 논평, 속 시원한 해설\n생생한 뉴스의 현장\n진실이 뉴스가 되는 시간\nJTBC 뉴스 현장",
+      "publishedAt": "2014-09-24T15:30:27Z",
+      "duration": "PT26S",
+      "viewCount": 6546,
+      "likeCount": 32,
+      "commentCount": 2,
+      "tags": [],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2014-09-24T15:30:27Z",
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "collectedAt": "2025-08-25T21:08:25Z"
     }
   },
   "channels": {
@@ -306,9 +346,36 @@
       "viewCount": 1280577570,
       "videoCount": 19124,
       "lastUpdated": "2025-08-24T21:55:01.156170Z"
+    },
+    "UCsU-I-vHLiaMfV_ceaYz5rQ": {
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "channelUrl": "@jtbc_news",
+      "channelDescription": "진실에 닿을 때까지 멈추지 않는 질문, JTBC News\nWelcome to the official JTBC News Channel.\n\n▶ https://news.jtbc.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 4670000,
+      "viewCount": 14817048106,
+      "videoCount": 261473,
+      "lastUpdated": "2025-08-25T21:08:25.371895Z"
     }
   },
-  "lastUpdated": "2025-08-24T21:55:01.157176Z",
-  "totalVideos": 10,
-  "totalChannels": 2
+  "lastUpdated": "2025-08-25T21:08:25.371895Z",
+  "totalVideos": 12,
+  "totalChannels": 3
 }

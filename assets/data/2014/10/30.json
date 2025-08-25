@@ -194,6 +194,41 @@
       "channelId": "UC4Aa3OPkMenwTANpf0oWVRQ",
       "channelName": "CBS 김현정의 뉴스쇼",
       "collectedAt": "2025-08-22T14:03:27Z"
+    },
+    "r6BkJVWqngA": {
+      "videoId": "r6BkJVWqngA",
+      "title": "[탐사플러스] 입 헹구는 치과 위생수, 점검해보니 '충격'",
+      "description": "방송사 : JTBC http://www.jtbc.co.kr \n▶ JTBC 뉴스룸 월~일 20시00분 방송 \n▶ 홈페이지 : http://news.jtbc.co.kr \n▶ 공식 트위터 : https://twitter.com/JTBC_news \n▶ 공식 페이스북 : https://www.facebook.com/jtbcnews \n\n일전에 한 조사를 보니 병원 가운데 치과에 가는 걸 환자들이 가장 무서워한다고 하는 내용이 있었습니다. 별것 아닌데 왠지 치과에 가면 아플 거라고 지레 겁을 먹는 경우도 물론 있죠. 그런데 실제로 치과에 가는 걸 겁내야 하는 이유가 따로 있었습니다. JTBC 취재팀이 치과에서 사용하는 진료용 물의 실태를 점검해보니 충격적인 결과가 나왔습니다. 상당수 치과에서 일반 세균이 다량으로 검출됐습니다. 많게는 수돗물의 100배에 이르렀는데요.\n\n우선 심수미 기자의 보도를 보시고 취재기자와 한 걸음 더 들어가 문제점을 짚어보겠습니다.",
+      "publishedAt": "2014-10-29T16:09:59Z",
+      "duration": "PT5M30S",
+      "viewCount": 23533,
+      "likeCount": 62,
+      "commentCount": 7,
+      "tags": [
+        "JTBC",
+        "JTBC NEWS",
+        "JTBC 뉴스",
+        "뉴스룸",
+        "뉴스9",
+        "손석희",
+        "탐사플러스",
+        "탐사+",
+        "심수미",
+        "치위생",
+        "치과",
+        "위생수",
+        "수돗물",
+        "치과 위생수 세균",
+        "임플란트",
+        "치과 치료",
+        "병원"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2014-10-29T16:09:59Z",
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "collectedAt": "2025-08-25T21:08:23Z"
     }
   },
   "channels": {
@@ -250,9 +285,36 @@
       "viewCount": 1280577570,
       "videoCount": 19124,
       "lastUpdated": "2025-08-24T21:55:00.271130Z"
+    },
+    "UCsU-I-vHLiaMfV_ceaYz5rQ": {
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "channelUrl": "@jtbc_news",
+      "channelDescription": "진실에 닿을 때까지 멈추지 않는 질문, JTBC News\nWelcome to the official JTBC News Channel.\n\n▶ https://news.jtbc.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 4670000,
+      "viewCount": 14817048106,
+      "videoCount": 261473,
+      "lastUpdated": "2025-08-25T21:08:23.083673Z"
     }
   },
-  "lastUpdated": "2025-08-24T21:55:00.272127Z",
-  "totalVideos": 8,
-  "totalChannels": 2
+  "lastUpdated": "2025-08-25T21:08:23.083673Z",
+  "totalVideos": 9,
+  "totalChannels": 3
 }

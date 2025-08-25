@@ -237,6 +237,58 @@
       "channelId": "UC4Aa3OPkMenwTANpf0oWVRQ",
       "channelName": "CBS 김현정의 뉴스쇼",
       "collectedAt": "2025-08-22T14:03:34Z"
+    },
+    "rk5hUzO6V8A": {
+      "videoId": "rk5hUzO6V8A",
+      "title": "교학사 회장 \"다른 교과서, 샅샅이 보지 않아 수정 적은 것\"",
+      "description": "방송사 : JTBC http://www.jtbc.co.kr\n▶ JTBC 뉴스9 월~금 21시00분 방송\n▶ 홈페이지 : http://news.jtbc.co.kr\n▶ 공식 트위터 : https://twitter.com/JTBC_news\n▶ 공식 페이스북 : https://www.facebook.com/jtbcnews\n\n역사 교과서를 둘러싼 논란에 대한 입장.",
+      "publishedAt": "2014-01-15T03:01:46Z",
+      "duration": "PT6M43S",
+      "viewCount": 26374,
+      "likeCount": 60,
+      "commentCount": 83,
+      "tags": [
+        "JTBC",
+        "JTBC NEWS 9",
+        "JTBC 아침&",
+        "JTBC 손석희",
+        "손석희",
+        "양철우",
+        "교학사 회장",
+        "교학사",
+        "역사교과서",
+        "한국사교과서",
+        "한국사 교과서 논란"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2014-01-15T03:01:46Z",
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "collectedAt": "2025-08-25T21:08:16Z"
+    },
+    "QYqT7u5Lq_o": {
+      "videoId": "QYqT7u5Lq_o",
+      "title": "[긴급출동] 해법 못 찾는 '압구정동 길고양이' 분쟁",
+      "description": "방송사 : JTBC http://www.jtbc.co.kr\r\n▶ JTBC 뉴스9 월~금 21시00분 방송\r\n▶ 홈페이지 : http://news.jtbc.co.kr\r\n▶ 공식 트위터 : https://twitter.com/JTBC_news\r\n▶ 공식 페이스북 : https://www.facebook.com/jtbcnews\r\n서울 강남의 한 아파트에서, 지하실에 몰려든 길고양이 문제 때문에 주민들과, 동물단체의 갈등이 계속되고 있습니다. 벌써 2년째입니다. 주민들은 지하실에 있는 고양이로 인한 피해를 호소하지만, 동물보호단체에서는 고양이가 있는 지하실 통로를 막고 방역을 하는 건 동물학대라는 입장인데요, 서로의 주장이 평행선을 달리고 있습니다.",
+      "publishedAt": "2014-01-15T02:00:07Z",
+      "duration": "PT5M17S",
+      "viewCount": 12857,
+      "likeCount": 50,
+      "commentCount": 97,
+      "tags": [
+        "JTBC",
+        "JTBC NEWS 9",
+        "JTBC 아침&",
+        "JTBC 손석희",
+        "손석희"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2014-01-15T02:00:07Z",
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "collectedAt": "2025-08-25T21:08:16Z"
     }
   },
   "channels": {
@@ -293,9 +345,36 @@
       "viewCount": 1280577570,
       "videoCount": 19124,
       "lastUpdated": "2025-08-24T21:55:10.505118Z"
+    },
+    "UCsU-I-vHLiaMfV_ceaYz5rQ": {
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "channelUrl": "@jtbc_news",
+      "channelDescription": "진실에 닿을 때까지 멈추지 않는 질문, JTBC News\nWelcome to the official JTBC News Channel.\n\n▶ https://news.jtbc.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 4670000,
+      "viewCount": 14817048106,
+      "videoCount": 261473,
+      "lastUpdated": "2025-08-25T21:08:16.799992Z"
     }
   },
-  "lastUpdated": "2025-08-24T21:55:10.510105Z",
-  "totalVideos": 8,
-  "totalChannels": 2
+  "lastUpdated": "2025-08-25T21:08:16.884766Z",
+  "totalVideos": 10,
+  "totalChannels": 3
 }

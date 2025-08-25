@@ -441,6 +441,76 @@
       "channelId": "UC4Aa3OPkMenwTANpf0oWVRQ",
       "channelName": "CBS 김현정의 뉴스쇼",
       "collectedAt": "2025-08-22T14:03:25Z"
+    },
+    "TZfX8iH7PDg": {
+      "videoId": "TZfX8iH7PDg",
+      "title": "[팩트체크] 신년 기자회견에서 '대통령 소통' 어땠나?",
+      "description": "방송사 : JTBC http://www.jtbc.co.kr \n▶ JTBC 뉴스룸 월~일 20시00분 방송 \n▶ 홈페이지 : http://news.jtbc.co.kr \n▶ 공식 트위터 : https://twitter.com/JTBC_news \n▶ 공식 페이스북 : https://www.facebook.com/jtbcnews \n\n어제(12일) 대통령 신년기자회견에 대한 평가는 지금 보시는 것처럼 분분합니다. 그런데 의혹에 대한 명확한 설명은 없었다는 지적도 있는데, 어떤 부분이 그랬는지 오늘 팩트체크에서 짚어보겠습니다.",
+      "publishedAt": "2015-01-13T14:06:04Z",
+      "duration": "PT9M8S",
+      "viewCount": 17912,
+      "likeCount": 107,
+      "commentCount": 22,
+      "tags": [
+        "JTBC",
+        "JTBC NEWS",
+        "JTBC 뉴스",
+        "손석희",
+        "손석희 뉴스",
+        "뉴스룸",
+        "뉴스9",
+        "뉴스나인",
+        "제이티비씨",
+        "제이티비씨 뉴스",
+        "팩트체크",
+        "김필규",
+        "박근혜",
+        "박근혜 대통령",
+        "박근혜 대통령 신년기자회견",
+        "신년기자회견"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2015-01-13T14:06:04Z",
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "collectedAt": "2025-08-25T21:08:22Z"
+    },
+    "LnALVpmzDi8": {
+      "videoId": "LnALVpmzDi8",
+      "title": "[탐사플러스] 한라산 허리 깎는 중국 자본…난개발로 몸살",
+      "description": "방송사 : JTBC http://www.jtbc.co.kr \n▶ JTBC 뉴스룸 월~일 20시00분 방송 \n▶ 홈페이지 : http://news.jtbc.co.kr \n▶ 공식 트위터 : https://twitter.com/JTBC_news \n▶ 공식 페이스북 : https://www.facebook.com/jtbcnews \n\n어제(12일)는 롯데월드에 대한 얘기를 자세하게 해드렸는데요, 오늘은 제주도 얘기를 좀 하겠습니다. 우리나라에 제주도가 없었다면…하는 생각들을 많이들 하시더군요. 세계 자연유산입니다. 유네스코에 등재돼있고, 세계 7대 자연경관에 선정될 만큼 풍광이 뛰어난 곳이지요. 하루 이틀로는 제주의 아름다운 자연을 다 접하기 힘들 정도로 둘러볼 곳도 많습니다. 그런데 최근 제주도를 가보신 분들은 아시겠지만, 여기저기 산을 깎고 파헤치고 곳곳이 공사장입니다. 중국 사람들의 투자가 급격히 늘어나면서 제주도 곳곳에서 개발붐이 일고 있기 때문인데요.\n\n섬 전체가 공사장이 돼버린 제주도의 현실태를 먼저 정제윤 기자가 보도해드립니다.",
+      "publishedAt": "2015-01-13T14:00:00Z",
+      "duration": "PT5M40S",
+      "viewCount": 13358,
+      "likeCount": 59,
+      "commentCount": 22,
+      "tags": [
+        "JTBC",
+        "JTBC NEWS",
+        "JTBC 뉴스",
+        "손석희",
+        "손석희 뉴스",
+        "제이티비씨",
+        "제이티비씨 뉴스",
+        "뉴스룸",
+        "뉴스9",
+        "뉴스나인",
+        "탐사플러스",
+        "탐사+",
+        "제주도",
+        "중국인",
+        "제주도 중국인",
+        "제주도 관광",
+        "제주도 개발",
+        "부동산투자이민제"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2015-01-13T14:00:00Z",
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "collectedAt": "2025-08-25T21:08:22Z"
     }
   },
   "channels": {
@@ -551,9 +621,36 @@
       "viewCount": 1280577570,
       "videoCount": 19124,
       "lastUpdated": "2025-08-24T21:54:58.594127Z"
+    },
+    "UCsU-I-vHLiaMfV_ceaYz5rQ": {
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "channelUrl": "@jtbc_news",
+      "channelDescription": "진실에 닿을 때까지 멈추지 않는 질문, JTBC News\nWelcome to the official JTBC News Channel.\n\n▶ https://news.jtbc.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 4670000,
+      "viewCount": 14817048106,
+      "videoCount": 261473,
+      "lastUpdated": "2025-08-25T21:08:22.349636Z"
     }
   },
-  "lastUpdated": "2025-08-24T21:54:58.595125Z",
-  "totalVideos": 17,
-  "totalChannels": 4
+  "lastUpdated": "2025-08-25T21:08:22.349636Z",
+  "totalVideos": 19,
+  "totalChannels": 5
 }

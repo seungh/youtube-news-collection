@@ -489,6 +489,46 @@
       "channelId": "UC4Aa3OPkMenwTANpf0oWVRQ",
       "channelName": "CBS 김현정의 뉴스쇼",
       "collectedAt": "2025-08-22T14:03:25Z"
+    },
+    "_dVW3JlR5Vk": {
+      "videoId": "_dVW3JlR5Vk",
+      "title": "[뉴스키워드] 천문학적 수수료?…'무기중개상'의 실체",
+      "description": "방송사 : JTBC http://www.jtbc.co.kr \n▶ JTBC 뉴스룸 월~일 20시00분 방송 \n▶ 홈페이지 : http://news.jtbc.co.kr \n▶ 공식 트위터 : https://twitter.com/JTBC_news \n▶ 공식 페이스북 : https://www.facebook.com/jtbcnews \n\n매주 금요일 전해드리는 뉴스 키워드 시간입니다. 오늘(13일)밤 구속 여부가 결정되는 일광그룹 이규태 회장. 이른바 1세대 무기중개상으로 알려진 인물이죠. 오늘 소개해드릴 내용이 바로 '무기중개상'입니다. 천문학적인 액수의 무기를 사고 팔며 엄청난 수수료를 받는다고는 알려져 있지만 그 존재는 매우 비밀스럽기만 한데요. 그 베일을 한번 벗겨보겠습니다. \n\n뉴스 키워드, 이지은 기자입니다.",
+      "publishedAt": "2015-03-13T12:50:24Z",
+      "duration": "PT5M36S",
+      "viewCount": 4794,
+      "likeCount": 16,
+      "commentCount": 0,
+      "tags": [
+        "JTBC",
+        "JTBC NEWS",
+        "JTBC 뉴스",
+        "제이티비씨",
+        "제이티비씨 뉴스",
+        "손석희 뉴스",
+        "손석희",
+        "뉴스룸",
+        "뉴스9",
+        "뉴스키워드",
+        "이지은",
+        "린다김",
+        "이규태",
+        "무기중개",
+        "무기중개상",
+        "로드오브워",
+        "빅토르 부트",
+        "바실 자하로프",
+        "로비스트",
+        "방산비리",
+        "일광그룹",
+        "일광공영"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2015-03-13T12:50:24Z",
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "collectedAt": "2025-08-25T21:08:21Z"
     }
   },
   "channels": {
@@ -599,9 +639,36 @@
       "viewCount": 1280577570,
       "videoCount": 19124,
       "lastUpdated": "2025-08-24T21:54:57.218080Z"
+    },
+    "UCsU-I-vHLiaMfV_ceaYz5rQ": {
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "channelUrl": "@jtbc_news",
+      "channelDescription": "진실에 닿을 때까지 멈추지 않는 질문, JTBC News\nWelcome to the official JTBC News Channel.\n\n▶ https://news.jtbc.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 4670000,
+      "viewCount": 14817048106,
+      "videoCount": 261473,
+      "lastUpdated": "2025-08-25T21:08:21.798693Z"
     }
   },
-  "lastUpdated": "2025-08-24T21:54:57.221072Z",
-  "totalVideos": 20,
-  "totalChannels": 4
+  "lastUpdated": "2025-08-25T21:08:21.799688Z",
+  "totalVideos": 21,
+  "totalChannels": 5
 }

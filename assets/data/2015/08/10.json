@@ -495,6 +495,73 @@
       "channelId": "UC4Aa3OPkMenwTANpf0oWVRQ",
       "channelName": "CBS 김현정의 뉴스쇼",
       "collectedAt": "2025-08-22T14:03:20Z"
+    },
+    "bwkGEGIKzJ8": {
+      "videoId": "bwkGEGIKzJ8",
+      "title": "[밀착카메라] 밝은 벽화 뒤엔…도시재생사업 '짙은 그림자'",
+      "description": "방송사 : JTBC http://www.jtbc.co.kr \n▶ JTBC 뉴스룸 월~일 20시00분 방송 \n▶ 홈페이지 : http://news.jtbc.co.kr \n▶ 공식 트위터 : https://twitter.com/JTBC_news \n▶ 공식 페이스북 : https://www.facebook.com/jtbcnews \n\n도시재생사업. 말이 좀 어렵긴 합니다만, 그냥 쉽게 얘기하면 마을의 역사라든가 이런 것을 관광자원화 하고, 벽화를 그린다든가 해서 새단장을 하는 것인데요. 관광객이 너무 많이 몰려와서 망가지는 경우가 있는가하면, 애초부터 잘 되지 않는 지역도 있는 것 같습니다.\n\n고석승 기자의 밀착카메라입니다.",
+      "publishedAt": "2015-08-10T13:33:33Z",
+      "duration": "PT4M9S",
+      "viewCount": 5825,
+      "likeCount": 29,
+      "commentCount": 2,
+      "tags": [
+        "JTBC",
+        "JTBC NEWS",
+        "JTBC 뉴스",
+        "제이티비씨 뉴스",
+        "제이티비씨",
+        "손석희",
+        "손석희 뉴스",
+        "뉴스룸",
+        "밀착카메라",
+        "고석승",
+        "벽화",
+        "도시재생",
+        "도시재생사업",
+        "벽화마을",
+        "개미마을",
+        "동화마을"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2015-08-10T13:33:33Z",
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "collectedAt": "2025-08-25T21:08:18Z"
+    },
+    "5ZJ7lqav55E": {
+      "videoId": "5ZJ7lqav55E",
+      "title": "[팩트체크] '표준시' 변경한 북한…한국은 못 바꾸나?",
+      "description": "방송사 : JTBC http://www.jtbc.co.kr \n▶ JTBC 뉴스룸 월~일 20시00분 방송 \n▶ 홈페이지 : http://news.jtbc.co.kr \n▶ 공식 트위터 : https://twitter.com/JTBC_news \n▶ 공식 페이스북 : https://www.facebook.com/jtbcnews \n\n북한의 표준시 변경 문제. 이른바 일제 잔재를 없앤다는 차원에서 일본을 지나는 표준자오선, 그러니까 표준시의 기준이 되는 선을 쓰지 않고 대신 한반도를 지나는 선을 쓰기로 했다, 이런 얘기인데. 그렇다면 왜 우리나라는 그렇게 안 해 왔는지에 대해서도 의문도 생기고요. 그런 논의가 전혀 없었는가 하는 점도 궁금하고 그렇습니다. 오늘(10일) 팩트체크에서 이 문제를 짚어보도록 하겠습니다.",
+      "publishedAt": "2015-08-10T14:08:20Z",
+      "duration": "PT7M16S",
+      "viewCount": 276788,
+      "likeCount": 1312,
+      "commentCount": 493,
+      "tags": [
+        "JTBC",
+        "JTBC NEWS",
+        "JTBC 뉴스",
+        "제이티비씨 뉴스",
+        "제이티비씨",
+        "손석희",
+        "손석희 뉴스",
+        "뉴스룸",
+        "팩트체크",
+        "김필규",
+        "표준시",
+        "한국 표준시",
+        "서울 표준시",
+        "한국 시간",
+        "표준자오선"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2015-08-10T14:08:20Z",
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "collectedAt": "2025-08-25T21:08:18Z"
     }
   },
   "channels": {
@@ -605,9 +672,36 @@
       "viewCount": 1280577570,
       "videoCount": 19124,
       "lastUpdated": "2025-08-24T21:54:53.393122Z"
+    },
+    "UCsU-I-vHLiaMfV_ceaYz5rQ": {
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "channelUrl": "@jtbc_news",
+      "channelDescription": "진실에 닿을 때까지 멈추지 않는 질문, JTBC News\nWelcome to the official JTBC News Channel.\n\n▶ https://news.jtbc.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 4670000,
+      "viewCount": 14817048106,
+      "videoCount": 261473,
+      "lastUpdated": "2025-08-25T21:08:18.876175Z"
     }
   },
-  "lastUpdated": "2025-08-24T21:54:53.396122Z",
-  "totalVideos": 19,
-  "totalChannels": 4
+  "lastUpdated": "2025-08-25T21:08:18.877172Z",
+  "totalVideos": 21,
+  "totalChannels": 5
 }

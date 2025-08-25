@@ -473,6 +473,74 @@
       "channelId": "UC4Aa3OPkMenwTANpf0oWVRQ",
       "channelName": "CBS 김현정의 뉴스쇼",
       "collectedAt": "2025-08-22T14:03:20Z"
+    },
+    "8iIqQwZhwPE": {
+      "videoId": "8iIqQwZhwPE",
+      "title": "[밀착카메라] '내일로' 취지 좋지만…'난리' 난 열차",
+      "description": "방송사 : JTBC http://www.jtbc.co.kr \n▶ JTBC 뉴스룸 월~일 20시00분 방송 \n▶ 홈페이지 : http://news.jtbc.co.kr \n▶ 공식 트위터 : https://twitter.com/JTBC_news \n▶ 공식 페이스북 : https://www.facebook.com/jtbcnews \n\n코레일이 KTX를 제외한 전국의 모든 열차를 무제한으로 이용할 수 있는 티켓을 판매해 젊은 층들의 큰 호응을 얻고 있습니다. 그런데 너무 많이 몰리다 보니 피란 열차 같다, 이런 얘기까지 나오고 있다고 하는데요.\n\n어찌된 일인지 밀착카메라 강신후 기자가 현장 취재했습니다.",
+      "publishedAt": "2015-08-11T13:44:06Z",
+      "duration": "PT4M14S",
+      "viewCount": 111203,
+      "likeCount": 371,
+      "commentCount": 174,
+      "tags": [
+        "JTBC",
+        "JTBC NEWS",
+        "JTBC 뉴스",
+        "제이티비씨 뉴스",
+        "제이티비씨",
+        "손석희",
+        "손석희 뉴스",
+        "뉴스룸",
+        "내일로",
+        "코레일",
+        "기차여행",
+        "내일로 여행",
+        "밀착카메라",
+        "강신후"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2015-08-11T13:44:06Z",
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "collectedAt": "2025-08-25T21:08:18Z"
+    },
+    "CFxAVO8eT7I": {
+      "videoId": "CFxAVO8eT7I",
+      "title": "[팩트체크] '롯데 사태'로 불거진 국민연금 역할론…득실은?",
+      "description": "방송사 : JTBC http://www.jtbc.co.kr \n▶ JTBC 뉴스룸 월~일 20시00분 방송 \n▶ 홈페이지 : http://news.jtbc.co.kr \n▶ 공식 트위터 : https://twitter.com/JTBC_news \n▶ 공식 페이스북 : https://www.facebook.com/jtbcnews \n\n저희가 1부에 롯데 상황에 대해서 보도해드렸습니다만, 롯데 사태에 국민연금이 적극적으로 나서야 한다고 했던 새누리당 김무성 대표. 조금 전에도 김영란법과 관련해서 말을 바꿨다고 했습니다만, 이것도 사흘 만에 없던 일로 얘기를 바꾼 바 있죠. 일단 이렇게 해프닝으로 끝나긴 했지만 국민연금의 역할론, 다시 부각이 됐습니다. 다른 나라에선 실제로 이런 경우가 있다고 하니까요. 자신이 대주주인 기업 경영에 적극적으로 나서야 하느냐 말아야 하느냐… 오늘(11일) 팩트체크에서 이에 대해 짚어보겠습니다.",
+      "publishedAt": "2015-08-11T13:51:05Z",
+      "duration": "PT6M58S",
+      "viewCount": 2884,
+      "likeCount": 14,
+      "commentCount": 3,
+      "tags": [
+        "JTBC",
+        "JTBC NEWS",
+        "JTBC 뉴스",
+        "제이티비씨 뉴스",
+        "제이티비씨",
+        "손석희",
+        "손석희 뉴스",
+        "뉴스룸",
+        "팩트체크",
+        "김필규",
+        "롯데",
+        "롯데 형제의 난",
+        "신동빈",
+        "신동주",
+        "국민연금",
+        "롯데 국민연금",
+        "신격호",
+        "롯데그룹"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2015-08-11T13:51:05Z",
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "collectedAt": "2025-08-25T21:08:18Z"
     }
   },
   "channels": {
@@ -583,9 +651,36 @@
       "viewCount": 1280577570,
       "videoCount": 19124,
       "lastUpdated": "2025-08-24T21:54:53.355134Z"
+    },
+    "UCsU-I-vHLiaMfV_ceaYz5rQ": {
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "channelUrl": "@jtbc_news",
+      "channelDescription": "진실에 닿을 때까지 멈추지 않는 질문, JTBC News\nWelcome to the official JTBC News Channel.\n\n▶ https://news.jtbc.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 4670000,
+      "viewCount": 14817048106,
+      "videoCount": 261473,
+      "lastUpdated": "2025-08-25T21:08:18.894128Z"
     }
   },
-  "lastUpdated": "2025-08-24T21:54:53.355134Z",
-  "totalVideos": 18,
-  "totalChannels": 4
+  "lastUpdated": "2025-08-25T21:08:18.894128Z",
+  "totalVideos": 20,
+  "totalChannels": 5
 }

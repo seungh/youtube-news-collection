@@ -401,6 +401,87 @@
       "channelId": "UC4Aa3OPkMenwTANpf0oWVRQ",
       "channelName": "CBS 김현정의 뉴스쇼",
       "collectedAt": "2025-08-22T14:03:25Z"
+    },
+    "dnveJon3msE": {
+      "videoId": "dnveJon3msE",
+      "title": "[팩트체크] 스타벅스 '쇼트 사이즈' 표기, 한국에만 없다?!",
+      "description": "방송사 : JTBC http://www.jtbc.co.kr \n▶ JTBC 뉴스룸 월~일 20시00분 방송 \n▶ 홈페이지 : http://news.jtbc.co.kr \n▶ 공식 트위터 : https://twitter.com/JTBC_news \n▶ 공식 페이스북 : https://www.facebook.com/jtbcnews \n\n제일 작은 사이즈 제품이 있는데도 메뉴에는 표시를 하지 않고 있다. 스타벅스 관련해 그동안 몇 번 문제가 제기됐는데 급기야 한 시민단체에서 식품위생법 위반으로 고발했습니다. 소비자들이 의심하고 있는 내용과 스타벅스 측 설명에 차이가 많아 보이는데요, 오늘(28일) 팩트체크에서 이 문제 따져보겠습니다.",
+      "publishedAt": "2015-01-28T14:15:32Z",
+      "duration": "PT8M5S",
+      "viewCount": 61414,
+      "likeCount": 245,
+      "commentCount": 56,
+      "tags": [
+        "JTBC",
+        "JTBC NEWS",
+        "JTBC 뉴스",
+        "제이티비씨 뉴스",
+        "제이티비씨",
+        "손석희",
+        "손석희 뉴스",
+        "팩트체크",
+        "김필규",
+        "스타벅스",
+        "쇼트 사이즈",
+        "숏 사이즈",
+        "스타벅스 사이즈",
+        "하워드 슐츠",
+        "커피",
+        "커피 전문점",
+        "커피 프랜차이즈",
+        "STARBUCKS",
+        "스타벅스 커피",
+        "스타벅스 코리아",
+        "스타벅스 종류",
+        "스타벅스 메뉴"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2015-01-28T14:15:32Z",
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "collectedAt": "2025-08-25T21:08:22Z"
+    },
+    "26Mzhpe6jFg": {
+      "videoId": "26Mzhpe6jFg",
+      "title": "[단독] 판교 개발정보 미리 알고 땅 매입?…커지는 의혹",
+      "description": "방송사 : JTBC http://www.jtbc.co.kr \n▶ JTBC 뉴스룸 월~일 20시00분 방송 \n▶ 홈페이지 : http://news.jtbc.co.kr \n▶ 공식 트위터 : https://twitter.com/JTBC_news \n▶ 공식 페이스북 : https://www.facebook.com/jtbcnews \n\n의문은 결국, 이 후보가 어떤 근거로 \"땅이 좋아질 것\"이라고 말했느냐 하는 데에 모아지고 있습니다. 이 후보자는 2001년 당시 공동 여당이던 자민련 원내총무였습니다. 분당 땅이 포함된 판교신도시 계획은 바로 그 해 6월 당정 협의를 거쳐 발표됐고, 석 달 뒤에 최종 확정됐습니다. \n\n이주찬 기자가 단독 보도합니다.",
+      "publishedAt": "2015-01-28T14:08:18Z",
+      "duration": "PT1M58S",
+      "viewCount": 1707,
+      "likeCount": 3,
+      "commentCount": 2,
+      "tags": [
+        "JTBC",
+        "JTBC NEWS",
+        "JTBC 뉴스",
+        "제이티비씨 뉴스",
+        "제이티비씨",
+        "손석희",
+        "손석희 뉴스",
+        "이완구",
+        "총리 후보자",
+        "총리",
+        "청문회",
+        "이완구 차남",
+        "이완구 판교",
+        "이완구 땅",
+        "판교",
+        "자민련",
+        "판교 신도시",
+        "분당 신도시",
+        "땅 투기",
+        "JTBC단독",
+        "단독보도",
+        "단독",
+        "이주찬"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2015-01-28T14:08:18Z",
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "collectedAt": "2025-08-25T21:08:22Z"
     }
   },
   "channels": {
@@ -511,9 +592,36 @@
       "viewCount": 1280577570,
       "videoCount": 19124,
       "lastUpdated": "2025-08-24T21:54:58.333558Z"
+    },
+    "UCsU-I-vHLiaMfV_ceaYz5rQ": {
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "channelUrl": "@jtbc_news",
+      "channelDescription": "진실에 닿을 때까지 멈추지 않는 질문, JTBC News\nWelcome to the official JTBC News Channel.\n\n▶ https://news.jtbc.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 4670000,
+      "viewCount": 14817048106,
+      "videoCount": 261473,
+      "lastUpdated": "2025-08-25T21:08:22.248391Z"
     }
   },
-  "lastUpdated": "2025-08-24T21:54:58.336061Z",
-  "totalVideos": 16,
-  "totalChannels": 4
+  "lastUpdated": "2025-08-25T21:08:22.248391Z",
+  "totalVideos": 18,
+  "totalChannels": 5
 }

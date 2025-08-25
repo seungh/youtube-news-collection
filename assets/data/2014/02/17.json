@@ -166,6 +166,57 @@
       "channelId": "UC4Aa3OPkMenwTANpf0oWVRQ",
       "channelName": "CBS 김현정의 뉴스쇼",
       "collectedAt": "2025-08-22T14:03:33Z"
+    },
+    "gpXTHQEyEo8": {
+      "videoId": "gpXTHQEyEo8",
+      "title": "[긴급출동] \"자신의 뺨 10대씩\"...텔레마케터의 눈물",
+      "description": "방송사 : JTBC http://www.jtbc.co.kr \r\n▶ JTBC 뉴스9 월~금 21시00분 방송 \r\n▶ 홈페이지 : http://news.jtbc.co.kr \r\n▶ 공식 트위터 : https://twitter.com/JTBC_news \r\n▶ 공식 페이스북 : https://www.facebook.com/jtbcnews \r\n\r\n전화로 영업을 하는 텔레마케터들의 열악한 근무 실태, 요즘 많이 알려지고 있는데요. 이들에 대한 폭행 장면 영상이 입수됐습니다. 매출이 부진하다고 팀장이 여성 직원들을 무차별 폭행한건데요. \r\n\r\n오늘(17일) 긴급출동에서 박소연 기자가 취재했습니다.",
+      "publishedAt": "2014-02-17T00:46:47Z",
+      "duration": "PT6M",
+      "viewCount": 125265,
+      "likeCount": 146,
+      "commentCount": 65,
+      "tags": [
+        "JTBC",
+        "JTBC NEWS",
+        "JTBC 뉴스",
+        "손석희",
+        "텔레마케터",
+        "텔레마케터 폭행",
+        "폭행 영상",
+        "긴급출동",
+        "아침&"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2014-02-17T00:46:47Z",
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "collectedAt": "2025-08-25T21:08:24Z"
+    },
+    "7P38rbbSwLM": {
+      "videoId": "7P38rbbSwLM",
+      "title": "가혹행위 당한 텔레마케터 또 있다? \"다른 팀도 매 맞아\"",
+      "description": "방송사 : JTBC http://www.jtbc.co.kr\n▶ JTBC 뉴스9 월~금 21시00분 방송\n▶ 홈페이지 : http://news.jtbc.co.kr\n▶ 공식 트위터 : https://twitter.com/JTBC_news\n▶ 공식 페이스북 : https://www.facebook.com/jtbcnews\n\n어제(16일) 일요일밤 10시에 방송된 저희 보도국의 탐사프로그램인 전진배의 탐사플러스에서는 매출 부진을 이유로 한 텔레마케터 팀장이 팀원들을 학대하는 영상을 보도해 드렸습니다. 내용이 충격적이었습니다. 그런데 같은 회사의 또다른 팀에서도 가혹행위가 있었다는 주장이 나왔습니다.",
+      "publishedAt": "2014-02-17T14:08:49Z",
+      "duration": "PT1M56S",
+      "viewCount": 13280,
+      "likeCount": 22,
+      "commentCount": 8,
+      "tags": [
+        "jtbc",
+        "jtbc news 9",
+        "jtbc 손석희",
+        "손석희",
+        "텔레마케터",
+        "텔레마케터 가혹행위"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2014-02-17T14:08:49Z",
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "collectedAt": "2025-08-25T21:08:24Z"
     }
   },
   "channels": {
@@ -222,9 +273,36 @@
       "viewCount": 1280577570,
       "videoCount": 19124,
       "lastUpdated": "2025-08-24T21:55:09.483061Z"
+    },
+    "UCsU-I-vHLiaMfV_ceaYz5rQ": {
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "channelUrl": "@jtbc_news",
+      "channelDescription": "진실에 닿을 때까지 멈추지 않는 질문, JTBC News\nWelcome to the official JTBC News Channel.\n\n▶ https://news.jtbc.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 4670000,
+      "viewCount": 14817048106,
+      "videoCount": 261473,
+      "lastUpdated": "2025-08-25T21:08:24.066051Z"
     }
   },
-  "lastUpdated": "2025-08-24T21:55:09.484117Z",
-  "totalVideos": 5,
-  "totalChannels": 2
+  "lastUpdated": "2025-08-25T21:08:24.067048Z",
+  "totalVideos": 7,
+  "totalChannels": 3
 }

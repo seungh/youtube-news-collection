@@ -379,6 +379,44 @@
       "channelId": "UC4Aa3OPkMenwTANpf0oWVRQ",
       "channelName": "CBS 김현정의 뉴스쇼",
       "collectedAt": "2025-08-22T14:03:23Z"
+    },
+    "i6BAMOdyq_c": {
+      "videoId": "i6BAMOdyq_c",
+      "title": "[팩트체크] 담뱃값 인상 3개월, '금연효과' 나타나나?",
+      "description": "방송사 : JTBC http://www.jtbc.co.kr \n▶ JTBC 뉴스룸 월~일 20시00분 방송 \n▶ 홈페이지 : http://news.jtbc.co.kr \n▶ 공식 트위터 : https://twitter.com/JTBC_news \n▶ 공식 페이스북 : https://www.facebook.com/jtbcnews \n\n주변에 보시면 이렇게 담뱃값 인상 이후에 담배를 끊었다는 분도 있고 다시 피기 시작했다는 분도 계십니다. 금연효과에 대해 의견이 분분합니다. 일단 복지부에서는 벌써부터 상당한 효과가 나타났다며 고무된 모습인데, 어제(21일) 이 뉴스를 전해드리면서 정말로 그럴까 하는 의구심이 자꾸 생겼습니다. 왜냐하면 제 주변에 담배를 끊었다는 사람들도 요즘 도로 다 피우고 있거든요. 그래서 정말로 그런 건지 오늘 팩트체크에서 짚어보겠습니다.",
+      "publishedAt": "2015-04-22T13:50:08Z",
+      "duration": "PT7M51S",
+      "viewCount": 3124,
+      "likeCount": 10,
+      "commentCount": 5,
+      "tags": [
+        "JTBC",
+        "JTBC NEWS",
+        "JTBC 뉴스",
+        "제이티비씨 뉴스",
+        "제이티비씨",
+        "손석희",
+        "손석희 뉴스",
+        "뉴스룸",
+        "뉴스9",
+        "팩트체크",
+        "김필규",
+        "담뱃값",
+        "담뱃값 인상",
+        "담배 가격",
+        "담뱃값 세금",
+        "담뱃세",
+        "담뱃값 금연",
+        "금연효과",
+        "금연",
+        "증세"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2015-04-22T13:50:08Z",
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "collectedAt": "2025-08-25T21:08:21Z"
     }
   },
   "channels": {
@@ -489,9 +527,36 @@
       "viewCount": 1280577570,
       "videoCount": 19124,
       "lastUpdated": "2025-08-24T21:54:56.269119Z"
+    },
+    "UCsU-I-vHLiaMfV_ceaYz5rQ": {
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "channelUrl": "@jtbc_news",
+      "channelDescription": "진실에 닿을 때까지 멈추지 않는 질문, JTBC News\nWelcome to the official JTBC News Channel.\n\n▶ https://news.jtbc.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 4670000,
+      "viewCount": 14817048106,
+      "videoCount": 261473,
+      "lastUpdated": "2025-08-25T21:08:21.331874Z"
     }
   },
-  "lastUpdated": "2025-08-24T21:54:56.270117Z",
-  "totalVideos": 15,
-  "totalChannels": 4
+  "lastUpdated": "2025-08-25T21:08:21.332870Z",
+  "totalVideos": 16,
+  "totalChannels": 5
 }

@@ -221,6 +221,76 @@
       "channelId": "UC4Aa3OPkMenwTANpf0oWVRQ",
       "channelName": "CBS 김현정의 뉴스쇼",
       "collectedAt": "2025-08-22T14:03:17Z"
+    },
+    "txRex63-pdE": {
+      "videoId": "txRex63-pdE",
+      "title": "[밀착카메라] 고단한 삶 가득…'심야 버스' 동승해보니",
+      "description": "방송사 : JTBC http://www.jtbc.co.kr \n▶ JTBC 뉴스룸 월~일 20시00분 방송 \n▶ 홈페이지 : http://news.jtbc.co.kr \n▶ 공식 트위터 : https://twitter.com/JTBC_news \n▶ 공식 페이스북 : https://www.facebook.com/jtbcnews \n\n심야버스, 일명 올빼미 버스라고 들어보셨나요? 자가용이나 택시 외에는 교통 수단이 없는 심야시간에 운행하는 버스인데, 버스마다 만차라고 합니다. 그만큼 잠 못 드는 서민들이 많다는 이야기겠죠.\n\n밀착카메라 박소연 기자가 올빼미 버스에 동승해 봤습니다.",
+      "publishedAt": "2016-01-18T14:01:58Z",
+      "duration": "PT4M28S",
+      "viewCount": 83474,
+      "likeCount": 401,
+      "commentCount": 92,
+      "tags": [
+        "JTBC",
+        "JTBC NEWS",
+        "JTBC 뉴스",
+        "뉴스룸",
+        "뉴스9",
+        "제이티비씨",
+        "손석희",
+        "손석희 뉴스",
+        "버스",
+        "심야 버스",
+        "올빼미 버스",
+        "만차",
+        "배차 간격",
+        "밀착",
+        "밀착카메라"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2016-01-18T14:01:58Z",
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "collectedAt": "2025-08-25T21:08:18Z"
+    },
+    "OYr2nKmyuEI": {
+      "videoId": "OYr2nKmyuEI",
+      "title": "[팩트체크] '쯔위 사태'로 본 대만국기, 왜 문제가 됐나",
+      "description": "방송사 : JTBC http://www.jtbc.co.kr \n▶ JTBC 뉴스룸 월~일 20시00분 방송 \n▶ 홈페이지 : http://news.jtbc.co.kr \n▶ 공식 트위터 : https://twitter.com/JTBC_news \n▶ 공식 페이스북 : https://www.facebook.com/jtbcnews \n\n앞서 대만 출신 한 걸그룹 멤버가 대만 국기를 국내 인터넷방송에서 흔들었다가 엄청난 논란이 벌어졌단 소식 많이 전해지고 있습니다. 그런데 어떤 배경이 있기에 이렇게 큰 논란으로 이어지는 건지, 그러면 예를 들면 국내에서는 누구라도 이 대만기를 드러내서는 안 되는 건지 여러 가지 궁금증이 나오고 있습니다. 오늘(18일) 팩트체크에서 좀 이 문제를 짚어보겠습니다.\n\n김필규 기자, \"대만 사람이 대만 국기를 흔든 게 왜 문제가 되느냐? 이해하기 힘들다\" 이런 의견들도 일단 많이 있습니다.",
+      "publishedAt": "2016-01-18T14:05:44Z",
+      "duration": "PT8M8S",
+      "viewCount": 239988,
+      "likeCount": 1011,
+      "commentCount": 671,
+      "tags": [
+        "JTBC",
+        "JTBC NEWS",
+        "JTBC 뉴스",
+        "뉴스룸",
+        "뉴스9",
+        "손석희",
+        "손석희 뉴스",
+        "대만기",
+        "청천백일기",
+        "대만",
+        "쯔위",
+        "JYP",
+        "양안 관계",
+        "대만 총통 선거",
+        "차이잉원",
+        "국민당",
+        "민진당",
+        "중국",
+        "중화인민공화국"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2016-01-18T14:05:44Z",
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "collectedAt": "2025-08-25T21:08:18Z"
     }
   },
   "channels": {
@@ -304,9 +374,36 @@
       "viewCount": 1280577570,
       "videoCount": 19124,
       "lastUpdated": "2025-08-24T21:54:49.633593Z"
+    },
+    "UCsU-I-vHLiaMfV_ceaYz5rQ": {
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "channelUrl": "@jtbc_news",
+      "channelDescription": "진실에 닿을 때까지 멈추지 않는 질문, JTBC News\nWelcome to the official JTBC News Channel.\n\n▶ https://news.jtbc.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 4670000,
+      "viewCount": 14817048106,
+      "videoCount": 261473,
+      "lastUpdated": "2025-08-25T21:08:18.115186Z"
     }
   },
-  "lastUpdated": "2025-08-24T21:54:49.634098Z",
-  "totalVideos": 10,
-  "totalChannels": 3
+  "lastUpdated": "2025-08-25T21:08:18.115186Z",
+  "totalVideos": 12,
+  "totalChannels": 4
 }

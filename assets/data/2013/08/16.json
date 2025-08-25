@@ -178,6 +178,32 @@
       "channelId": "UC4Aa3OPkMenwTANpf0oWVRQ",
       "channelName": "CBS 김현정의 뉴스쇼",
       "collectedAt": "2025-08-22T14:03:36Z"
+    },
+    "Fu8EwVfb3oc": {
+      "videoId": "Fu8EwVfb3oc",
+      "title": "[단독] 일본 극우의 숨겨진 성지 '순국칠사묘' 가보니...",
+      "description": "이렇게 야스쿠니 신사 참배 문제로 매번 시끄럽지만 일본 우익들의 진짜 성지는 따로 있습니다. A급 전범 7명의 유골을 모아놓은 순국7사묘인데요, 전범들의 위패만 있는 야스쿠니보다 더 신성시되는 곳입니다.\n\nJTBC 김현기 특파원이 그 현장을 단독 취재했습니다.\n\n기사원문보기☞ http://bit.ly/1dchHmw",
+      "publishedAt": "2013-08-16T06:25:08Z",
+      "duration": "PT2M14S",
+      "viewCount": 2247,
+      "likeCount": 16,
+      "commentCount": 8,
+      "tags": [
+        "일본 극우",
+        "일본 우익",
+        "일본 극우단체",
+        "일본 A급 전범",
+        "일본 야스쿠니",
+        "靖國神社",
+        "やすくにじんじゃ",
+        "야스쿠니 신사"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2013-08-16T06:25:08Z",
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "collectedAt": "2025-08-25T21:08:25Z"
     }
   },
   "channels": {
@@ -234,9 +260,36 @@
       "viewCount": 1280577570,
       "videoCount": 19124,
       "lastUpdated": "2025-08-24T21:55:14.557292Z"
+    },
+    "UCsU-I-vHLiaMfV_ceaYz5rQ": {
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "channelUrl": "@jtbc_news",
+      "channelDescription": "진실에 닿을 때까지 멈추지 않는 질문, JTBC News\nWelcome to the official JTBC News Channel.\n\n▶ https://news.jtbc.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 4670000,
+      "viewCount": 14817048106,
+      "videoCount": 261473,
+      "lastUpdated": "2025-08-25T21:08:25.045768Z"
     }
   },
-  "lastUpdated": "2025-08-24T21:55:14.557292Z",
-  "totalVideos": 5,
-  "totalChannels": 2
+  "lastUpdated": "2025-08-25T21:08:25.045768Z",
+  "totalVideos": 6,
+  "totalChannels": 3
 }

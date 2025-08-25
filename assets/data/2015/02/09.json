@@ -353,6 +353,41 @@
       "channelId": "UC4Aa3OPkMenwTANpf0oWVRQ",
       "channelName": "CBS 김현정의 뉴스쇼",
       "collectedAt": "2025-08-22T14:03:25Z"
+    },
+    "OcWZGeUx170": {
+      "videoId": "OcWZGeUx170",
+      "title": "[팩트체크] '복지 과잉' 논란…한국, 그리스처럼 될까?",
+      "description": "방송사 : JTBC http://www.jtbc.co.kr \n▶ JTBC 뉴스룸 월~일 20시00분 방송 \n▶ 홈페이지 : http://news.jtbc.co.kr \n▶ 공식 트위터 : https://twitter.com/JTBC_news \n▶ 공식 페이스북 : https://www.facebook.com/jtbcnews \n\n지난주 새누리당 김무성 대표가 그리스 이야기를 많이 했습니다. 사실 김 대표가 아니더라도 그리스 얘기는 많이 나오죠. 경제위기에 빠져 있는 그리스의 예를 들어 과잉복지의 위험성을 경고한 것인데요, 오늘(9일) 팩트체크에서는 그리스는 과연 복지 때문에 국민성이 나태해진 건지, 우리에게 시사점이 있는지 하나하나 짚어보겠습니다. \n\n김필규 기자, 일단 최근의 증세 논란과 맞물려 복지를 과도하게 늘리는 것을 경계해야 한다는 차원에서 이야기를 꺼낸 건 맞죠?",
+      "publishedAt": "2015-02-09T14:42:51Z",
+      "duration": "PT8M2S",
+      "viewCount": 120112,
+      "likeCount": 781,
+      "commentCount": 381,
+      "tags": [
+        "JTBC",
+        "JTBC NEWS",
+        "JTBC 뉴스룸",
+        "뉴스룸",
+        "손석희",
+        "김필규",
+        "복지 과잉",
+        "복지",
+        "김무성",
+        "국민 나태",
+        "그리스",
+        "복지 비율",
+        "과잉 복지",
+        "유로존",
+        "국민성",
+        "팩트체크",
+        "JTBC 팩트체크"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2015-02-09T14:42:51Z",
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "collectedAt": "2025-08-25T21:08:22Z"
     }
   },
   "channels": {
@@ -436,9 +471,36 @@
       "viewCount": 1280577570,
       "videoCount": 19124,
       "lastUpdated": "2025-08-24T21:54:58.057047Z"
+    },
+    "UCsU-I-vHLiaMfV_ceaYz5rQ": {
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "channelUrl": "@jtbc_news",
+      "channelDescription": "진실에 닿을 때까지 멈추지 않는 질문, JTBC News\nWelcome to the official JTBC News Channel.\n\n▶ https://news.jtbc.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 4670000,
+      "viewCount": 14817048106,
+      "videoCount": 261473,
+      "lastUpdated": "2025-08-25T21:08:22.145229Z"
     }
   },
-  "lastUpdated": "2025-08-24T21:54:58.058042Z",
-  "totalVideos": 14,
-  "totalChannels": 3
+  "lastUpdated": "2025-08-25T21:08:22.145229Z",
+  "totalVideos": 15,
+  "totalChannels": 4
 }

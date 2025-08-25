@@ -151,6 +151,33 @@
       "channelId": "UC4Aa3OPkMenwTANpf0oWVRQ",
       "channelName": "CBS 김현정의 뉴스쇼",
       "collectedAt": "2025-08-22T14:03:38Z"
+    },
+    "YclKjP29rcU": {
+      "videoId": "YclKjP29rcU",
+      "title": "[JTBC 탐사코드] 부활하는 군국주의, 일본 우경화 밀착취재",
+      "description": "- 부활하는 군국주의, 일본 우경화 밀착취재\n- 당신의 아이가 어린이집에서 맞고 배고픔에 허덕인다면...?\n'진실 추적자 탐사코드' 5월 10일 밤 11시",
+      "publishedAt": "2013-05-08T13:32:06Z",
+      "duration": "PT58S",
+      "viewCount": 1689,
+      "likeCount": 7,
+      "commentCount": 3,
+      "tags": [
+        "아베",
+        "우경화",
+        "극우",
+        "JTBC",
+        "NEWS",
+        "어린이집",
+        "반한",
+        "혐한",
+        "야스쿠니"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2013-05-08T13:32:06Z",
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "collectedAt": "2025-08-25T21:08:24Z"
     }
   },
   "channels": {
@@ -180,9 +207,36 @@
       "viewCount": 1280577570,
       "videoCount": 19124,
       "lastUpdated": "2025-08-24T21:55:17.792051Z"
+    },
+    "UCsU-I-vHLiaMfV_ceaYz5rQ": {
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "channelUrl": "@jtbc_news",
+      "channelDescription": "진실에 닿을 때까지 멈추지 않는 질문, JTBC News\nWelcome to the official JTBC News Channel.\n\n▶ https://news.jtbc.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 4670000,
+      "viewCount": 14817048106,
+      "videoCount": 261473,
+      "lastUpdated": "2025-08-25T21:08:24.637859Z"
     }
   },
-  "lastUpdated": "2025-08-24T21:55:17.793047Z",
-  "totalVideos": 4,
-  "totalChannels": 1
+  "lastUpdated": "2025-08-25T21:08:24.638857Z",
+  "totalVideos": 5,
+  "totalChannels": 2
 }

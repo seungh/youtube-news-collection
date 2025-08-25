@@ -448,6 +448,38 @@
       "channelId": "UC4Aa3OPkMenwTANpf0oWVRQ",
       "channelName": "CBS 김현정의 뉴스쇼",
       "collectedAt": "2025-08-22T14:03:23Z"
+    },
+    "OCnGOSzOtKA": {
+      "videoId": "OCnGOSzOtKA",
+      "title": "[팩트체크] 유죄? 무죄? 오락가락 '도촬 판결'…기준 없나?",
+      "description": "방송사 : JTBC http://www.jtbc.co.kr\n▶ JTBC 뉴스룸 월~일 20시00분 방송\n▶ 홈페이지 : http://news.jtbc.co.kr\n▶ 공식 트위터 : https://twitter.com/JTBC_news\n▶ 공식 페이스북 : https://www.facebook.com/jtbcnews\n\n1부에도 보셨듯이 지하철 성범죄가 해마다 증가하는 추세인데, 그 중 대표적인 게 스마트폰을 이용한 몰래카메라 범죄라고 합니다. 그런데 이렇게 말씀드리면서 자꾸 뒷머리가 당기는데요. 조금 전에 나갔던 그 화면들도 뉴스라고는 하지만 이렇게 찍어도 되는가 하는 걱정도 좀 들기는 듭니다. 사실 뉴스에서 이런 장면들이 많이 나오는데, 저희들은 앞으로 자제하도록 하겠습니다. 그동안 나온 법원 판결에 많이 헛갈려 하시는 분들이 계실 것 같습니다. 오늘(20일) 팩트체크에서 자세히 짚어보도록 하겠습니다.\n\n김필규 기자, 최근에 서울북부지법이었죠, 이런 사건과 관련해서 무죄 판결이 나와서 논란이 되고 있는데 어떤 내용인가요?",
+      "publishedAt": "2015-05-20T14:39:34Z",
+      "duration": "PT7M4S",
+      "viewCount": 8276,
+      "likeCount": 30,
+      "commentCount": 7,
+      "tags": [
+        "JTBC",
+        "JTBC NEWS",
+        "JTBC 뉴스",
+        "뉴스룸",
+        "JTBC 뉴스룸",
+        "손석희",
+        "손석희 뉴스",
+        "뉴스9",
+        "도촬",
+        "스마트폰 도촬",
+        "지하철 성범죄",
+        "몰래카메라",
+        "팩트체크",
+        "JTBC 팩트체크"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2015-05-20T14:39:34Z",
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "collectedAt": "2025-08-25T21:08:21Z"
     }
   },
   "channels": {
@@ -558,9 +590,36 @@
       "viewCount": 1280577570,
       "videoCount": 19124,
       "lastUpdated": "2025-08-24T21:54:55.153197Z"
+    },
+    "UCsU-I-vHLiaMfV_ceaYz5rQ": {
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "channelUrl": "@jtbc_news",
+      "channelDescription": "진실에 닿을 때까지 멈추지 않는 질문, JTBC News\nWelcome to the official JTBC News Channel.\n\n▶ https://news.jtbc.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 4670000,
+      "viewCount": 14817048106,
+      "videoCount": 261473,
+      "lastUpdated": "2025-08-25T21:08:21.095505Z"
     }
   },
-  "lastUpdated": "2025-08-24T21:54:55.154196Z",
-  "totalVideos": 17,
-  "totalChannels": 4
+  "lastUpdated": "2025-08-25T21:08:21.096503Z",
+  "totalVideos": 18,
+  "totalChannels": 5
 }

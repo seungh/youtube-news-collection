@@ -157,6 +157,33 @@
       "channelId": "UC4Aa3OPkMenwTANpf0oWVRQ",
       "channelName": "CBS 김현정의 뉴스쇼",
       "collectedAt": "2025-08-22T14:03:35Z"
+    },
+    "jUHMdnLG0uY": {
+      "videoId": "jUHMdnLG0uY",
+      "title": "[탐사+] 중국 취업에 구걸까지...북한 외화벌이 총력전",
+      "description": "2년 전 김정일 국방위원장의 사망으로 김정은 체제가 갑자기 들어섰죠. 처음엔 군사 대결을 강조하며 강경 일변도였지만, 미국의 농구선수 데니스 로드먼을 초청하는 등 아버지 시대와는 차별화된 개방적인 면모도 과시하고 있습니다. 이런 북한 내부의 변화가 국경선을 넘어 북한과 중국의 접경지대로 번지고 있습니다.",
+      "publishedAt": "2013-10-07T04:43:48Z",
+      "duration": "PT10M35S",
+      "viewCount": 37646,
+      "likeCount": 30,
+      "commentCount": 7,
+      "tags": [
+        "북한 외화벌이",
+        "북한 달러벌이",
+        "김정은 체제",
+        "북한 경제",
+        "JTBC 뉴스",
+        "JTBC 주말뉴스",
+        "JTBC NEWS",
+        "JTBC 탐사플러스",
+        "JTBC 탐사+"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2013-10-07T04:43:48Z",
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "collectedAt": "2025-08-25T21:08:24Z"
     }
   },
   "channels": {
@@ -186,9 +213,36 @@
       "viewCount": 1280577570,
       "videoCount": 19124,
       "lastUpdated": "2025-08-24T21:55:13.123065Z"
+    },
+    "UCsU-I-vHLiaMfV_ceaYz5rQ": {
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "channelUrl": "@jtbc_news",
+      "channelDescription": "진실에 닿을 때까지 멈추지 않는 질문, JTBC News\nWelcome to the official JTBC News Channel.\n\n▶ https://news.jtbc.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 4670000,
+      "viewCount": 14817048106,
+      "videoCount": 261473,
+      "lastUpdated": "2025-08-25T21:08:24.458340Z"
     }
   },
-  "lastUpdated": "2025-08-24T21:55:13.123585Z",
-  "totalVideos": 4,
-  "totalChannels": 1
+  "lastUpdated": "2025-08-25T21:08:24.459338Z",
+  "totalVideos": 5,
+  "totalChannels": 2
 }

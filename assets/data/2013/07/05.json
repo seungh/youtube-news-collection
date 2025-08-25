@@ -193,6 +193,26 @@
       "channelId": "UC4Aa3OPkMenwTANpf0oWVRQ",
       "channelName": "CBS 김현정의 뉴스쇼",
       "collectedAt": "2025-08-22T14:03:37Z"
+    },
+    "71zjG36zh2k": {
+      "videoId": "71zjG36zh2k",
+      "title": "[JTBC 탐사코드]  '나는 죽이지 않았다' -어느 용의자의 절규",
+      "description": "'목격자를 찾습니다' 그리고 포상금 1000만원 \n\n5월 26일 경주 한 저수지에서 변사체로 발견된 20대 여대생. 사건의 '유력한 용의자'로 실종 전 여성을 태웠던 택시 기사가 지목 됐다. 경찰은 수사력을 총동원 시켰고 사건 발생 6일 만에 '택시기사' 정영일(가명)씨를 긴급 체포했다. 하지만 만 하루도 채 안 돼 진범이 밝혀지며 택시 기사는 풀려났다. \n\n사건의 결정적인 증언을 했던 마지막 목격자. 하지만 그는 살인사건의 피의자로 몰려 경찰 조사까지 받았다. 이후 그는 한 인터넷 게시판에 '4일 동안 먹지도 잠을 자지도 못했다'는 글을 남겼다. 제작진은 오랜 설득 끝에 사건의 후유증에서 쉽게 벗어나지 못하고 있는 그를 만날 수 있었다. 지금도 죄책감으로 잠을 잘 수 없다는 영일씨. 그는 왜 아직도 충격에서 벗어나지 못하는 걸까? \n\n7월 6일 금요일 23시5분 방송.\nhttp://newson.jtbc.co.kr/codej",
+      "publishedAt": "2013-07-04T16:13:50Z",
+      "duration": "PT53S",
+      "viewCount": 1641,
+      "likeCount": 0,
+      "commentCount": 0,
+      "tags": [
+        "탐사코드",
+        "여대생 살인"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2013-07-04T16:13:50Z",
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "collectedAt": "2025-08-25T21:08:24Z"
     }
   },
   "channels": {
@@ -249,9 +269,36 @@
       "viewCount": 1280577570,
       "videoCount": 19124,
       "lastUpdated": "2025-08-24T21:55:15.873108Z"
+    },
+    "UCsU-I-vHLiaMfV_ceaYz5rQ": {
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "channelUrl": "@jtbc_news",
+      "channelDescription": "진실에 닿을 때까지 멈추지 않는 질문, JTBC News\nWelcome to the official JTBC News Channel.\n\n▶ https://news.jtbc.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 4670000,
+      "viewCount": 14817048106,
+      "videoCount": 261473,
+      "lastUpdated": "2025-08-25T21:08:24.499232Z"
     }
   },
-  "lastUpdated": "2025-08-24T21:55:15.876101Z",
-  "totalVideos": 5,
-  "totalChannels": 2
+  "lastUpdated": "2025-08-25T21:08:24.499232Z",
+  "totalVideos": 6,
+  "totalChannels": 3
 }

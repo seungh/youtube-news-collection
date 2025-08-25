@@ -542,6 +542,41 @@
       "channelId": "UC4Aa3OPkMenwTANpf0oWVRQ",
       "channelName": "CBS 김현정의 뉴스쇼",
       "collectedAt": "2025-08-22T14:03:20Z"
+    },
+    "XWqmukhcOYw": {
+      "videoId": "XWqmukhcOYw",
+      "title": "[팩트체크] 대기업 '청년 일자리' 봇물 터졌나?…실상은",
+      "description": "방송사 : JTBC http://www.jtbc.co.kr \n▶ JTBC 뉴스룸 월~일 20시00분 방송 \n▶ 홈페이지 : http://news.jtbc.co.kr \n▶ 공식 트위터 : https://twitter.com/JTBC_news \n▶ 공식 페이스북 : https://www.facebook.com/jtbcnews \n\n팩트체크 시간입니다. 팩트체크 시간이 왜 있는가를 오늘(1일) 증명해드릴 수 있을 것 같습니다. 제가 너무 크게 얘기했나요? (아닙니다) 알겠습니다. 최근 여러 매체에서 나온 기사제목인데 한번 보실까요? \n\n'기업들 투자 확대로 일자리 늘린다' '대기업 고용대책 봇물' '청년 일자리 창출 팔 걷은 OO그룹'. 여러 대기업들이 한꺼번에 채용계획을 내놓으면서 이런 기사들이 나온 건데, 정말 봇물이 터진 거냐, 제대로 보면 그렇지 않다는 여러 이야기가 나오고 있습니다. 오늘 팩트체크에서는 이 부분을 따져보겠습니다.",
+      "publishedAt": "2015-09-01T13:35:13Z",
+      "duration": "PT8M9S",
+      "viewCount": 4035,
+      "likeCount": 26,
+      "commentCount": 0,
+      "tags": [
+        "JTBC",
+        "JTBC NEWS",
+        "JTBC 뉴스",
+        "제이티비씨 뉴스",
+        "제이티비씨",
+        "손석희",
+        "손석희 뉴스",
+        "뉴스룸",
+        "팩트체크",
+        "김필규",
+        "청년실업",
+        "공채",
+        "취업",
+        "취업난",
+        "대기업",
+        "고용대책",
+        "임금피크제"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2015-09-01T13:35:13Z",
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "collectedAt": "2025-08-25T21:08:20Z"
     }
   },
   "channels": {
@@ -652,9 +687,36 @@
       "viewCount": 1280577570,
       "videoCount": 19124,
       "lastUpdated": "2025-08-24T21:54:52.488243Z"
+    },
+    "UCsU-I-vHLiaMfV_ceaYz5rQ": {
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "channelUrl": "@jtbc_news",
+      "channelDescription": "진실에 닿을 때까지 멈추지 않는 질문, JTBC News\nWelcome to the official JTBC News Channel.\n\n▶ https://news.jtbc.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 4670000,
+      "viewCount": 14817048106,
+      "videoCount": 261473,
+      "lastUpdated": "2025-08-25T21:08:20.279823Z"
     }
   },
-  "lastUpdated": "2025-08-24T21:54:52.489241Z",
-  "totalVideos": 21,
-  "totalChannels": 4
+  "lastUpdated": "2025-08-25T21:08:20.279823Z",
+  "totalVideos": 22,
+  "totalChannels": 5
 }

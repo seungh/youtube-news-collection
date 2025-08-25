@@ -354,6 +354,33 @@
       "channelId": "UC4Aa3OPkMenwTANpf0oWVRQ",
       "channelName": "CBS 김현정의 뉴스쇼",
       "collectedAt": "2025-08-22T14:03:26Z"
+    },
+    "M1hitpq-wPM": {
+      "videoId": "M1hitpq-wPM",
+      "title": "[팩트체크] 1인당 국민총소득 3만불시대…정말일까?",
+      "description": "방송사 : JTBC http://www.jtbc.co.kr \n▶ JTBC 뉴스룸 월~일 20시00분 방송 \n▶ 홈페이지 : http://news.jtbc.co.kr \n▶ 공식 트위터 : https://twitter.com/JTBC_news \n▶ 공식 페이스북 : https://www.facebook.com/jtbcnews \n\n연말이 되면서 올해 경제성적이 어땠는지 속속 나오고 있죠. 그중 오늘(29일) 나온 1인당 GNI, 즉 국민총소득. 총소득 전망치가 화제가 되고 있습니다. 좋은 뜻에서 화제가 되는 것 같지는 않은데요, 내년에 3만달러를 넘길 수 있다, 이런 분석도 우선 상당히 놀랍지만 오르는 만큼 왜 내 생활에서는 체감이 안 되느냐. 남들만 돈을 버나 이런 논란입니다. 오늘 팩트체크에서 이 문제 짚어보겠습니다. 여기에는 분명히 이 통계에는 함정이 있다, 이런 얘기가 될 것 같은데요. 1인당 GNI가 얼마냐 하면 3만 달러, 아직 그것보다는 조금 안 되는 걸로 나왔습니다마는. 어떤 의미가 있습니까?",
+      "publishedAt": "2014-12-29T14:55:52Z",
+      "duration": "PT9M45S",
+      "viewCount": 38750,
+      "likeCount": 147,
+      "commentCount": 88,
+      "tags": [
+        "JTBC",
+        "JTBC NEWS",
+        "JTBC 뉴스룸",
+        "손석희",
+        "김필규",
+        "GNI",
+        "국민총소득",
+        "GNI 3만불",
+        "팩트체크"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2014-12-29T14:55:52Z",
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "collectedAt": "2025-08-25T21:08:22Z"
     }
   },
   "channels": {
@@ -437,9 +464,36 @@
       "viewCount": 1280577570,
       "videoCount": 19124,
       "lastUpdated": "2025-08-24T21:54:59.071082Z"
+    },
+    "UCsU-I-vHLiaMfV_ceaYz5rQ": {
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "channelUrl": "@jtbc_news",
+      "channelDescription": "진실에 닿을 때까지 멈추지 않는 질문, JTBC News\nWelcome to the official JTBC News Channel.\n\n▶ https://news.jtbc.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 4670000,
+      "viewCount": 14817048106,
+      "videoCount": 261473,
+      "lastUpdated": "2025-08-25T21:08:22.535141Z"
     }
   },
-  "lastUpdated": "2025-08-24T21:54:59.071082Z",
-  "totalVideos": 16,
-  "totalChannels": 3
+  "lastUpdated": "2025-08-25T21:08:22.536137Z",
+  "totalVideos": 17,
+  "totalChannels": 4
 }

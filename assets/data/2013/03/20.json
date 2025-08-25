@@ -106,6 +106,34 @@
       "channelId": "UC4Aa3OPkMenwTANpf0oWVRQ",
       "channelName": "CBS 김현정의 뉴스쇼",
       "collectedAt": "2025-08-22T14:03:39Z"
+    },
+    "IX2_r5ZWhkA": {
+      "videoId": "IX2_r5ZWhkA",
+      "title": "[JTBC 탐사코드] '연예인 예비군' 백만 명...숨겨진 99.9%의 진실",
+      "description": "□ 스포츠 스타를 옥죈 덫 '승부조작' \n강동희 전 프로농구 감독의 구속으로 다시 불거진 '승부조작'. 선수들을 유혹하는 그 검은 그림자를 진단해본다. \n\n□ 연예인 예비군 백만 명 숨겨진 99.9%의 진실 \n한류와 오디션 열풍을 타고 급성한 엔터테인먼트 산업! 연예인을 꿈꾸는 지망생도 백만 명이 넘을 것으로 추정된다. 그러나 이들 중 스타가 될 확률은 단 0.1%! 치열한 경쟁의 관문을 뚫지 못한 이들은 어디로 가는 걸까? 연예인 지망생 백만 시대, 그 화려함 뒤에 가려진 99.9%의 진실은 무엇일까?",
+      "publishedAt": "2013-03-20T11:15:10Z",
+      "duration": "PT1M6S",
+      "viewCount": 1741,
+      "likeCount": 1,
+      "commentCount": 0,
+      "tags": [
+        "탐사코드",
+        "연예인",
+        "강동희",
+        "연습생",
+        "기획사",
+        "가수",
+        "연예인 스폰서",
+        "JTBC",
+        "JTBC NEWS",
+        "연예계"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2013-03-20T11:15:10Z",
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "collectedAt": "2025-08-25T21:08:24Z"
     }
   },
   "channels": {
@@ -135,9 +163,36 @@
       "viewCount": 1280577570,
       "videoCount": 19124,
       "lastUpdated": "2025-08-24T21:55:19.102054Z"
+    },
+    "UCsU-I-vHLiaMfV_ceaYz5rQ": {
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "channelUrl": "@jtbc_news",
+      "channelDescription": "진실에 닿을 때까지 멈추지 않는 질문, JTBC News\nWelcome to the official JTBC News Channel.\n\n▶ https://news.jtbc.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 4670000,
+      "viewCount": 14817048106,
+      "videoCount": 261473,
+      "lastUpdated": "2025-08-25T21:08:24.747565Z"
     }
   },
-  "lastUpdated": "2025-08-24T21:55:19.103629Z",
-  "totalVideos": 4,
-  "totalChannels": 1
+  "lastUpdated": "2025-08-25T21:08:24.747565Z",
+  "totalVideos": 5,
+  "totalChannels": 2
 }

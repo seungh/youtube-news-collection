@@ -294,6 +294,71 @@
       "channelId": "UC4Aa3OPkMenwTANpf0oWVRQ",
       "channelName": "CBS 김현정의 뉴스쇼",
       "collectedAt": "2025-08-22T14:03:26Z"
+    },
+    "5hVkOhy0eqk": {
+      "videoId": "5hVkOhy0eqk",
+      "title": "[탐사플러스] '성추행' 고통의 13년…모든 걸 잃은 건 '피해자'",
+      "description": "방송사 : JTBC http://www.jtbc.co.kr \n▶ JTBC 뉴스룸 월~일 20시00분 방송 \n▶ 홈페이지 : http://news.jtbc.co.kr \n▶ 공식 트위터 : https://twitter.com/JTBC_news \n▶ 공식 페이스북 : https://www.facebook.com/jtbcnews \n\n어제(3일) 서울대 강모 교수가 학생들을 상습 성추행한 혐의로 구속됐습니다. 서울대뿐 아니라 학생 성추행 사건이 잇따르고 있습니다. 사실 저희한테는 굉장히 많은 제보들이 들어오고 있는데요. \n\n이 피해 학생들이 안고 살아야 할 고통은 얼마나 큰 것일까요? 저희들은 오늘, 지난 2001년 벌써 13년 전입니다. 그때 자신의 은사에게 성추행을 당한 당시 대학원생을 어렵게 만나 심경을 들을 수 있었습니다. 13년이 지났지만, 지금도 잊을 수 없는 고통 속에 살고 있었습니다.\n\n김지아 기자의 보도로 보시겠습니다.",
+      "publishedAt": "2014-12-04T14:22:18Z",
+      "duration": "PT3M54S",
+      "viewCount": 4438,
+      "likeCount": 29,
+      "commentCount": 8,
+      "tags": [
+        "JTBC",
+        "JTBC NEWS",
+        "JTBC뉴스",
+        "손석희뉴스",
+        "손석희",
+        "뉴스룸",
+        "뉴스9",
+        "탐사플러스",
+        "탐사+",
+        "김지아",
+        "성추행",
+        "성희롱",
+        "교수성추행",
+        "교수성희롱",
+        "대학교성추행"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2014-12-04T14:22:18Z",
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "collectedAt": "2025-08-25T21:08:22Z"
+    },
+    "cr3x4sSBI_U": {
+      "videoId": "cr3x4sSBI_U",
+      "title": "[팩트체크] 관피아 방지법이 '직업 선택의 자유' 침해인가?",
+      "description": "[팩트체크] 또 빠진 담뱃갑 '경고그림'…실효성 없다?\n\n \n\n방송사 : JTBC http://www.jtbc.co.kr \n▶ JTBC 뉴스룸 월~일 20시00분 방송 \n▶ 홈페이지 : http://news.jtbc.co.kr \n▶ 공식 트위터 : https://twitter.com/JTBC_news \n▶ 공식 페이스북 : https://www.facebook.com/jtbcnews \n\n세월호 참사 이후 대한민국을 완전히 뜯어고치려면 고위공무원들의 낙하산 문제를 해결해야 한다 해서 추진된 게 이른바 '관피아 방지법'이었습니다. 그런데 조금 전에 안의근 기자가 보도해드린 것처럼 이 방지법은 어떻게 된 건지 통과되지 않고, 어제(3일) 법사위에서 결국 제동이 걸렸습니다. 일부 의원들이 문제가 있다며 막아선 건데요. 오늘 팩트체크에서 과연 문제가 있는지, 짚어보도록 하겠습니다.",
+      "publishedAt": "2014-12-04T14:08:59Z",
+      "duration": "PT8M21S",
+      "viewCount": 2826,
+      "likeCount": 21,
+      "commentCount": 0,
+      "tags": [
+        "JTBC",
+        "JTBC NEWS",
+        "JTBC뉴스",
+        "손석희뉴스",
+        "손석희",
+        "뉴스룸",
+        "뉴스9",
+        "팩트체크",
+        "김필규",
+        "관피아",
+        "관피아방지법",
+        "김영란법",
+        "낙하산",
+        "고위공무원낙하산"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2014-12-04T14:08:59Z",
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "collectedAt": "2025-08-25T21:08:22Z"
     }
   },
   "channels": {
@@ -377,9 +442,36 @@
       "viewCount": 1280577570,
       "videoCount": 19124,
       "lastUpdated": "2025-08-24T21:54:59.410099Z"
+    },
+    "UCsU-I-vHLiaMfV_ceaYz5rQ": {
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "channelUrl": "@jtbc_news",
+      "channelDescription": "진실에 닿을 때까지 멈추지 않는 질문, JTBC News\nWelcome to the official JTBC News Channel.\n\n▶ https://news.jtbc.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 4670000,
+      "viewCount": 14817048106,
+      "videoCount": 261473,
+      "lastUpdated": "2025-08-25T21:08:22.854286Z"
     }
   },
-  "lastUpdated": "2025-08-24T21:54:59.410099Z",
-  "totalVideos": 12,
-  "totalChannels": 3
+  "lastUpdated": "2025-08-25T21:08:22.857280Z",
+  "totalVideos": 14,
+  "totalChannels": 4
 }

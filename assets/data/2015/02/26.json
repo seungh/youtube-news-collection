@@ -306,6 +306,40 @@
       "channelId": "UC4Aa3OPkMenwTANpf0oWVRQ",
       "channelName": "CBS 김현정의 뉴스쇼",
       "collectedAt": "2025-08-22T14:03:25Z"
+    },
+    "XVYky4qDUoE": {
+      "videoId": "XVYky4qDUoE",
+      "title": "[탐사플러스] '아동음란물' 실시간 추격…'100% 검거작전'",
+      "description": "방송사 : JTBC http://www.jtbc.co.kr \n▶ JTBC 뉴스룸 월~일 20시00분 방송 \n▶ 홈페이지 : http://news.jtbc.co.kr \n▶ 공식 트위터 : https://twitter.com/JTBC_news \n▶ 공식 페이스북 : https://www.facebook.com/jtbcnews \n\n최근 아동과 청소년을 대상으로 한 성범죄가 늘면서 그 원인으로 꼽히는 아동음란물 단속과 처벌도 강화되고 있습니다. 문제는 아동음란물을 올리는 수법도 갈수록 교묘해지고 진화되고 있다는 건데요. 아동음란물을 올리는 사람들도 예전에는 전문업자들이 주로 했는데 요즘은 학생과 직장인 등으로 다양해지고 있습니다. 또 경찰을 피하기 위해 각종 수법들이 동원되고 있는데요.\n\n아동음란물을 올리는 사람들과 이를 단속하는 경찰의 쫓고 쫓기는 싸움을 먼저 손용석 기자가 전해드립니다.",
+      "publishedAt": "2015-02-26T13:46:00Z",
+      "duration": "PT5M16S",
+      "viewCount": 148289,
+      "likeCount": 191,
+      "commentCount": 206,
+      "tags": [
+        "JTBC",
+        "JTBC NEWS",
+        "JTBC 뉴스",
+        "제이티비씨 뉴스",
+        "제이티비씨",
+        "손석희",
+        "손석희 뉴스",
+        "뉴스룸",
+        "뉴스9",
+        "탐사플러스",
+        "탐사",
+        "손용석",
+        "아동음란물",
+        "음란물",
+        "아동음란물 처벌",
+        "음란물 유포"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2015-02-26T13:46:00Z",
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "collectedAt": "2025-08-25T21:08:21Z"
     }
   },
   "channels": {
@@ -416,9 +450,36 @@
       "viewCount": 1280577570,
       "videoCount": 19124,
       "lastUpdated": "2025-08-24T21:54:57.726048Z"
+    },
+    "UCsU-I-vHLiaMfV_ceaYz5rQ": {
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "channelUrl": "@jtbc_news",
+      "channelDescription": "진실에 닿을 때까지 멈추지 않는 질문, JTBC News\nWelcome to the official JTBC News Channel.\n\n▶ https://news.jtbc.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 4670000,
+      "viewCount": 14817048106,
+      "videoCount": 261473,
+      "lastUpdated": "2025-08-25T21:08:21.987651Z"
     }
   },
-  "lastUpdated": "2025-08-24T21:54:57.727045Z",
-  "totalVideos": 12,
-  "totalChannels": 4
+  "lastUpdated": "2025-08-25T21:08:21.988649Z",
+  "totalVideos": 13,
+  "totalChannels": 5
 }

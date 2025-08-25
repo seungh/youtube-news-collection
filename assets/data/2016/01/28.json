@@ -207,6 +207,74 @@
       "channelId": "UC4Aa3OPkMenwTANpf0oWVRQ",
       "channelName": "CBS 김현정의 뉴스쇼",
       "collectedAt": "2025-08-22T14:03:16Z"
+    },
+    "-M9ddZ9HZKY": {
+      "videoId": "-M9ddZ9HZKY",
+      "title": "[밀착카메라] 범죄·화재…도심 속 방치된 '유령마을'",
+      "description": "방송사 : JTBC http://www.jtbc.co.kr \n▶ JTBC 뉴스룸 월~일 20시00분 방송 \n▶ 홈페이지 : http://news.jtbc.co.kr \n▶ 공식 트위터 : https://twitter.com/JTBC_news \n▶ 공식 페이스북 : https://www.facebook.com/jtbcnews \n\n사람이 사는 집도 손길이 닿지 않으면 금세 온기가 사라지는데요. 하물며 재개발이 중단돼 방치된 집들은 폐가처럼 스산하기까지 합니다. 범죄나 화재 우려도 높아서 인근 마을 주민들은 불안함 속에서 보내고 있습니다.\n\n밀착카메라 고석승 기자가 현장을 직접 둘러봤습니다.",
+      "publishedAt": "2016-01-28T13:58:45Z",
+      "duration": "PT4M12S",
+      "viewCount": 2287,
+      "likeCount": 20,
+      "commentCount": 2,
+      "tags": [
+        "JTBC",
+        "JTBC NEWS",
+        "JTBC 뉴스",
+        "뉴스룸",
+        "뉴스9",
+        "손석희",
+        "손석희 뉴스",
+        "빈집",
+        "유령마을",
+        "폐가",
+        "재개발",
+        "방치된 마을",
+        "밀착",
+        "밀착카메라"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2016-01-28T13:58:45Z",
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "collectedAt": "2025-08-25T21:08:18Z"
+    },
+    "WBmcq7Zay5c": {
+      "videoId": "WBmcq7Zay5c",
+      "title": "[팩트체크] '천만' 서명운동, 효력있나? 확인해보니…",
+      "description": "방송사 : JTBC http://www.jtbc.co.kr \n▶ JTBC 뉴스룸 월~일 20시00분 방송 \n▶ 홈페이지 : http://news.jtbc.co.kr \n▶ 공식 트위터 : https://twitter.com/JTBC_news \n▶ 공식 페이스북 : https://www.facebook.com/jtbcnews \n\n대한상공회의소에서 주관하고 있는 '민생구하기 입법촉구 천만 서명운동', 대통령과 일부 국회의원들도 참여하면서 서명자가 30만 명을 넘었다는 이야기도 나오고 있는데요. 그러면서 \"중복서명이 가능하더라\" \"서명에 동원이 됐다\"는 논란도 계속 불거지고 있습니다. 그렇다면 이런 서명운동의 신뢰성은 어떻게 확인할 수 있는 것인지, 또 효력은 있는 것인지 오늘(28일) 팩트체크에서 짚어보겠습니다.\n \n김필규 기자, 저희도 관련 내용에 대해 보도해드린 바 있는데 주로 제기되는 건, 온라인으로 서명을 받다 보니 신뢰도에 문제가 있다, 중복 서명이 된다, 이런 얘기들이 많이 나오더군요?",
+      "publishedAt": "2016-01-28T13:56:50Z",
+      "duration": "PT6M4S",
+      "viewCount": 18674,
+      "likeCount": 177,
+      "commentCount": 19,
+      "tags": [
+        "JTBC",
+        "JTBC NEWS",
+        "JTBC 뉴스",
+        "뉴스룸",
+        "뉴스9",
+        "손석희",
+        "손석희 뉴스",
+        "서명운동",
+        "민생구하기",
+        "입법촉구",
+        "천만 서명운동",
+        "서명",
+        "대한상공회의소",
+        "주민소환",
+        "입법청원",
+        "김필규",
+        "팩트",
+        "팩트체크"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2016-01-28T13:56:50Z",
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "collectedAt": "2025-08-25T21:08:18Z"
     }
   },
   "channels": {
@@ -290,9 +358,36 @@
       "viewCount": 1280577570,
       "videoCount": 19124,
       "lastUpdated": "2025-08-24T21:54:49.117076Z"
+    },
+    "UCsU-I-vHLiaMfV_ceaYz5rQ": {
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "channelUrl": "@jtbc_news",
+      "channelDescription": "진실에 닿을 때까지 멈추지 않는 질문, JTBC News\nWelcome to the official JTBC News Channel.\n\n▶ https://news.jtbc.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 4670000,
+      "viewCount": 14817048106,
+      "videoCount": 261473,
+      "lastUpdated": "2025-08-25T21:08:18.028177Z"
     }
   },
-  "lastUpdated": "2025-08-24T21:54:49.118073Z",
-  "totalVideos": 9,
-  "totalChannels": 3
+  "lastUpdated": "2025-08-25T21:08:18.028177Z",
+  "totalVideos": 11,
+  "totalChannels": 4
 }

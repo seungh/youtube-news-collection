@@ -275,6 +275,37 @@
       "channelId": "UC4Aa3OPkMenwTANpf0oWVRQ",
       "channelName": "CBS 김현정의 뉴스쇼",
       "collectedAt": "2025-08-22T14:03:34Z"
+    },
+    "LaMKG0uWSuw": {
+      "videoId": "LaMKG0uWSuw",
+      "title": "이재오 \"당내 소외감? 비주류의 목소리도 있는 것\"",
+      "description": "방송사 : JTBC http://www.jtbc.co.kr \r\n▶ JTBC 뉴스9 월~금 21시00분 방송 \r\n▶ 홈페이지 : http://news.jtbc.co.kr \r\n▶ 공식 트위터 : https://twitter.com/JTBC_news \r\n▶ 공식 페이스북 : https://www.facebook.com/jtbcnews \r\n\r\n당청과 보조를 맞추지 않고 엇박자를 내는 여당 중진 이재오의원의 발언이 여권 내 파장을 일으키고 있습니다. 이 의원은 연초 대통령의 개헌 '블랙홀' 발언에 제동을 건 데 이어서 정당공천과 전당대회 시기 등을 놓고 사사건건 당청과 충돌하는 모양새인데요. 급기야 27일 여당 최고위에서는 '자해적 발언'이니 자제해달라는 주문까지 나왔습니다. 당사자의 반응을 직접 들어보겠습니다.",
+      "publishedAt": "2014-01-28T02:32:59Z",
+      "duration": "PT9M35S",
+      "viewCount": 4952,
+      "likeCount": 20,
+      "commentCount": 2,
+      "tags": [
+        "JTBC",
+        "JTBC NEWS",
+        "손석희",
+        "이재오",
+        "개헌",
+        "정당공천",
+        "4대강",
+        "새누리당",
+        "박근혜",
+        "중진",
+        "당청",
+        "블랙홀",
+        "비주류"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2014-01-28T02:32:59Z",
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "collectedAt": "2025-08-25T21:08:16Z"
     }
   },
   "channels": {
@@ -331,9 +362,36 @@
       "viewCount": 1280577570,
       "videoCount": 19124,
       "lastUpdated": "2025-08-24T21:55:10.237091Z"
+    },
+    "UCsU-I-vHLiaMfV_ceaYz5rQ": {
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "channelUrl": "@jtbc_news",
+      "channelDescription": "진실에 닿을 때까지 멈추지 않는 질문, JTBC News\nWelcome to the official JTBC News Channel.\n\n▶ https://news.jtbc.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 4670000,
+      "viewCount": 14817048106,
+      "videoCount": 261473,
+      "lastUpdated": "2025-08-25T21:08:16.693277Z"
     }
   },
-  "lastUpdated": "2025-08-24T21:55:10.237091Z",
-  "totalVideos": 9,
-  "totalChannels": 2
+  "lastUpdated": "2025-08-25T21:08:16.694275Z",
+  "totalVideos": 10,
+  "totalChannels": 3
 }

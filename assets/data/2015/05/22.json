@@ -278,6 +278,41 @@
       "channelId": "UC4Aa3OPkMenwTANpf0oWVRQ",
       "channelName": "CBS 김현정의 뉴스쇼",
       "collectedAt": "2025-08-22T14:03:23Z"
+    },
+    "Z0yi2so6ImI": {
+      "videoId": "Z0yi2so6ImI",
+      "title": "[뉴스키워드] 한국까지 온 신종 전염병 메르스, 위험성은?",
+      "description": "방송사 : JTBC http://www.jtbc.co.kr \n▶ JTBC 뉴스룸 월~일 20시00분 방송 \n▶ 홈페이지 : http://news.jtbc.co.kr \n▶ 공식 트위터 : https://twitter.com/JTBC_news \n▶ 공식 페이스북 : https://www.facebook.com/jtbcnews \n\n파라인플루엔자 바이러스만 문제가 아니죠. 국내 메르스 확진 환자가 3명으로 늘면서 이게 도대체 어떤 신종 바이러스냐, 관심이 모아지고 있습니다. 중동에서 건너온 메르스는 2003년 전 세계에 큰 충격을 안긴 사스와 유사해, 사스의 먼 친척으로도 불리고 있는데요, 매주 금요일에 전해드리는 뉴스키워드. 오늘(22일) 이 메르스를 자세히 전해드리겠습니다. \n\n이지은 기자입니다.",
+      "publishedAt": "2015-05-22T13:03:34Z",
+      "duration": "PT4M47S",
+      "viewCount": 62709,
+      "likeCount": 117,
+      "commentCount": 287,
+      "tags": [
+        "JTBC",
+        "JTBC NEWS",
+        "JTBC 뉴스",
+        "제이티비씨 뉴스",
+        "제이티비씨",
+        "손석희",
+        "손석희 뉴스",
+        "뉴스룸",
+        "이지은",
+        "뉴스키워드",
+        "메르스",
+        "중동사스",
+        "중동호흡기증후군",
+        "중동 메르스",
+        "메르스 증상",
+        "메르스 위험",
+        "메르스 치사율"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2015-05-22T13:03:34Z",
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "collectedAt": "2025-08-25T21:08:21Z"
     }
   },
   "channels": {
@@ -361,9 +396,36 @@
       "viewCount": 1280577570,
       "videoCount": 19124,
       "lastUpdated": "2025-08-24T21:54:55.063203Z"
+    },
+    "UCsU-I-vHLiaMfV_ceaYz5rQ": {
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "channelUrl": "@jtbc_news",
+      "channelDescription": "진실에 닿을 때까지 멈추지 않는 질문, JTBC News\nWelcome to the official JTBC News Channel.\n\n▶ https://news.jtbc.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 4670000,
+      "viewCount": 14817048106,
+      "videoCount": 261473,
+      "lastUpdated": "2025-08-25T21:08:21.078551Z"
     }
   },
-  "lastUpdated": "2025-08-24T21:54:55.066195Z",
-  "totalVideos": 11,
-  "totalChannels": 3
+  "lastUpdated": "2025-08-25T21:08:21.078551Z",
+  "totalVideos": 12,
+  "totalChannels": 4
 }

@@ -329,6 +329,40 @@
       "channelId": "UC4Aa3OPkMenwTANpf0oWVRQ",
       "channelName": "CBS 김현정의 뉴스쇼",
       "collectedAt": "2025-08-22T14:01:53Z"
+    },
+    "3HOx0T3lgco": {
+      "videoId": "3HOx0T3lgco",
+      "title": "[팩트체크] \"65세면 청춘?\"…'노인의 자격' 연령 기준은?",
+      "description": "방송사 : JTBC http://www.jtbc.co.kr\n▶ JTBC 뉴스룸 월~일 20시00분 방송\n▶ 홈페이지 : http://news.jtbc.co.kr\n▶ 공식 트위터 : https://twitter.com/JTBC_news\n▶ 공식 페이스북 : https://www.facebook.com/jtbcnews\n\n65세면 아기 축이다? 저는 유아 축에 속할 것 같습니다. 아무튼 요즘은 65세인 분들은 지하철 노약자석에 앉아있으면 어르신 눈치 보인다는 이야기들 하시는데요. 그러다 보니 이제 고령층에서도 노인의 기준을 바꿔야 한다는 목소리가 나오고 있습니다. 오늘(27일) 팩트체크에서는 그렇다면 몇 세부터를 우리 사회에서 노인으로 볼 수 있을 것인지 짚어보도록 하겠습니다.\n\n김필규 기자, 최근 대한노인회에서 이 문제를 언급하면서 관심이 더 높아지게 된 거죠?",
+      "publishedAt": "2015-05-27T14:29:54Z",
+      "duration": "PT7M33S",
+      "viewCount": 10084,
+      "likeCount": 54,
+      "commentCount": 14,
+      "tags": [
+        "JTBC",
+        "JTBC NEWS",
+        "JTBC 뉴스",
+        "뉴스룸",
+        "JTBC 뉴스룸",
+        "뉴스9",
+        "손석희",
+        "손석희 뉴스",
+        "노인 기준",
+        "노인 기준 논란",
+        "노인 연령",
+        "65세",
+        "연금",
+        "기초연금",
+        "팩트체크",
+        "JTBC 팩트체크"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2015-05-27T14:29:54Z",
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "collectedAt": "2025-08-25T21:08:21Z"
     }
   },
   "channels": {
@@ -493,9 +527,36 @@
       "viewCount": 1280577570,
       "videoCount": 19124,
       "lastUpdated": "2025-08-24T21:54:32.318311Z"
+    },
+    "UCsU-I-vHLiaMfV_ceaYz5rQ": {
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "channelUrl": "@jtbc_news",
+      "channelDescription": "진실에 닿을 때까지 멈추지 않는 질문, JTBC News\nWelcome to the official JTBC News Channel.\n\n▶ https://news.jtbc.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 4670000,
+      "viewCount": 14817048106,
+      "videoCount": 261473,
+      "lastUpdated": "2025-08-25T21:08:21.030678Z"
     }
   },
-  "lastUpdated": "2025-08-24T21:54:32.319307Z",
-  "totalVideos": 13,
-  "totalChannels": 6
+  "lastUpdated": "2025-08-25T21:08:21.030678Z",
+  "totalVideos": 14,
+  "totalChannels": 7
 }

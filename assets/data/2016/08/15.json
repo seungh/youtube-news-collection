@@ -177,6 +177,88 @@
       "channelId": "UC4Aa3OPkMenwTANpf0oWVRQ",
       "channelName": "CBS 김현정의 뉴스쇼",
       "collectedAt": "2025-08-22T14:03:12Z"
+    },
+    "wh0XhXFKEdE": {
+      "videoId": "wh0XhXFKEdE",
+      "title": "[16/08/15 뉴스투데이] 박 대통령 광복절 메시지 '국민단합' 담길 듯",
+      "description": "근혜 대통령이 오늘 제71주년 광복절을 맞아 경축 메시지를 밝힙니다. 박 대통령은 변화와 혁신을 통한 제2의 도약을 위해 국민적 단합의 중요성을 강조하고 창조경제, 문화융성 추진과 4대 개혁 완수를 위해 힘을 모아줄 것을 당부할 것으로 보입니다. ⓒ MBC&iMBC 무단 전재, 재배포 및 이용(AI학습 포함)금지",
+      "publishedAt": "2016-08-15T08:45:10Z",
+      "duration": "PT31S",
+      "viewCount": 100,
+      "likeCount": 0,
+      "commentCount": 0,
+      "tags": [
+        "MBC",
+        "MBC뉴스",
+        "뉴스데스크",
+        "newsdesk",
+        "뉴스투데이",
+        "newstoday",
+        "8시뉴스",
+        "아침뉴스",
+        "뉴스",
+        "정오뉴스",
+        "news",
+        "박상권",
+        "김소영",
+        "도인태",
+        "강다솜",
+        "이상현",
+        "임현주",
+        "이진",
+        "박창현",
+        "최대현",
+        "이혜민",
+        "박용찬",
+        "서인"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2016-08-15T08:45:10Z",
+      "channelId": "UCF4Wxdo3inmxP-Y59wXDsFw",
+      "channelName": "MBCNEWS",
+      "collectedAt": "2025-08-25T21:08:03Z"
+    },
+    "TKDRNe_R9n0": {
+      "videoId": "TKDRNe_R9n0",
+      "title": "[16/08/15 뉴스투데이] 여야 의원 10명, 광복절 맞아 독도 방문",
+      "description": "여야의 국회의원 10명이 오늘 제71주년 8·15 광복절을 맞아 독도를 방문합니다. 국회 외교통일위원장을 지낸 새누리당 나경원 의원을 단장으로 한 국회 독도방문단은 헬기를 타고 독도에 들어가 경비대원들을 격려하고 시설과 해양 생태 등을 둘러봅니다. 새누리당에서 나경원 의원을 비롯해 강효상, 김성태, 박명재, 성일종, 윤종필, 이종명 의원 등 7명이, 더불어민주당에서는 김종민, 황희 의원, 국민의당은 장정숙 의원이 참여합니다. ⓒ MBC&iMBC 무단 전재, 재배포 및 이용(AI학습 포함)금지",
+      "publishedAt": "2016-08-15T08:45:09Z",
+      "duration": "PT32S",
+      "viewCount": 98,
+      "likeCount": 0,
+      "commentCount": 1,
+      "tags": [
+        "MBC",
+        "MBC뉴스",
+        "뉴스데스크",
+        "newsdesk",
+        "뉴스투데이",
+        "newstoday",
+        "8시뉴스",
+        "아침뉴스",
+        "뉴스",
+        "정오뉴스",
+        "news",
+        "박상권",
+        "김소영",
+        "도인태",
+        "강다솜",
+        "이상현",
+        "임현주",
+        "이진",
+        "박창현",
+        "최대현",
+        "이혜민",
+        "박용찬",
+        "서인"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2016-08-15T08:45:09Z",
+      "channelId": "UCF4Wxdo3inmxP-Y59wXDsFw",
+      "channelName": "MBCNEWS",
+      "collectedAt": "2025-08-25T21:08:03Z"
     }
   },
   "channels": {
@@ -233,9 +315,36 @@
       "viewCount": 1280577570,
       "videoCount": 19124,
       "lastUpdated": "2025-08-24T21:54:44.416138Z"
+    },
+    "UCF4Wxdo3inmxP-Y59wXDsFw": {
+      "channelId": "UCF4Wxdo3inmxP-Y59wXDsFw",
+      "channelName": "MBCNEWS",
+      "channelUrl": "@mbcnews11",
+      "channelDescription": "MBC 뉴스 공식 유튜브 채널입니다. 시청자 여러분의 의견과 제보를 항상 기다립니다. \r\n세상과 소통하는 시간, MBC 뉴스와 함께 하세요!",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_nKpBrT7zzqTfdlfUHzw60wMU5KqV-kBmiFjU9dvMI8ePo=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_nKpBrT7zzqTfdlfUHzw60wMU5KqV-kBmiFjU9dvMI8ePo=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_nKpBrT7zzqTfdlfUHzw60wMU5KqV-kBmiFjU9dvMI8ePo=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 5930000,
+      "viewCount": 24230949851,
+      "videoCount": 332919,
+      "lastUpdated": "2025-08-25T21:08:03.901746Z"
     }
   },
-  "lastUpdated": "2025-08-24T21:54:44.417137Z",
-  "totalVideos": 7,
-  "totalChannels": 2
+  "lastUpdated": "2025-08-25T21:08:03.902743Z",
+  "totalVideos": 9,
+  "totalChannels": 3
 }

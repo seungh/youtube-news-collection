@@ -258,6 +258,58 @@
       "channelId": "UC4Aa3OPkMenwTANpf0oWVRQ",
       "channelName": "CBS 김현정의 뉴스쇼",
       "collectedAt": "2025-08-22T14:03:33Z"
+    },
+    "8eT8B8iqG60": {
+      "videoId": "8eT8B8iqG60",
+      "title": "[사건플러스] 주유기 조작 '7초면 뚝딱'...82억 챙겨",
+      "description": "방송사 : JTBC http://www.jtbc.co.kr\r\n▶ JTBC 뉴스9 월~금 21시00분 방송\r\n▶ 홈페이지 : http://news.jtbc.co.kr\r\n▶ 공식 트위터 : https://twitter.com/JTBC_news\r\n▶ 공식 페이스북 : https://www.facebook.com/jtbcnews\r\n\r\n기름양이 속여 팔아서, 2년 동안 82억 원의 부당 이득을 챙긴 주유소들이 적발됐습니다.\r\n\r\n주유기를 조작하는 프로그램을 설치했기 때문인데요, 한영익 기자의 보도 먼저 보시고 자세한 얘기 해보겠습니다.",
+      "publishedAt": "2014-03-13T03:28:08Z",
+      "duration": "PT8M13S",
+      "viewCount": 4623,
+      "likeCount": 13,
+      "commentCount": 7,
+      "tags": [
+        "jtbc",
+        "jtbc news",
+        "jtbc 뉴스",
+        "사건플러스",
+        "손석희",
+        "주유기 조작",
+        "주유소 조작",
+        "주유소"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2014-03-13T03:28:08Z",
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "collectedAt": "2025-08-25T21:08:23Z"
+    },
+    "AJ4Gj8ih8pM": {
+      "videoId": "AJ4Gj8ih8pM",
+      "title": "[긴급출동] 샤워하던 중 '와장창'...공포의 강화유리",
+      "description": "방송사 : JTBC http://www.jtbc.co.kr\r\n▶ JTBC 뉴스9 월~금 21시00분 방송\r\n▶ 홈페이지 : http://news.jtbc.co.kr\r\n▶ 공식 트위터 : https://twitter.com/JTBC_news\r\n▶ 공식 페이스북 : https://www.facebook.com/jtbcnews\r\n\r\n강화유리가 갑자기 부서져 깨지면서, 사고를 입는 경우가 있습니다. 특히 샤워부스에서 이런 일이 많이 일어난다고 하죠? 하지만, 소비자들에게 책임을 넘길 뿐 강화유리에 대한 안전기준도 마련돼 있지 않은데요, 오늘 긴급출동에서 취재했습니다.",
+      "publishedAt": "2014-03-13T03:33:23Z",
+      "duration": "PT5M20S",
+      "viewCount": 21407,
+      "likeCount": 55,
+      "commentCount": 11,
+      "tags": [
+        "jtbc",
+        "jtbc news",
+        "jtbc 뉴스",
+        "손석희",
+        "긴급출동",
+        "강화유리",
+        "강화유리 파손",
+        "강화유리 사고"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2014-03-13T03:33:23Z",
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "collectedAt": "2025-08-25T21:08:23Z"
     }
   },
   "channels": {
@@ -314,9 +366,36 @@
       "viewCount": 1280577570,
       "videoCount": 19124,
       "lastUpdated": "2025-08-24T21:55:08.596263Z"
+    },
+    "UCsU-I-vHLiaMfV_ceaYz5rQ": {
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "channelUrl": "@jtbc_news",
+      "channelDescription": "진실에 닿을 때까지 멈추지 않는 질문, JTBC News\nWelcome to the official JTBC News Channel.\n\n▶ https://news.jtbc.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 4670000,
+      "viewCount": 14817048106,
+      "videoCount": 261473,
+      "lastUpdated": "2025-08-25T21:08:23.995240Z"
     }
   },
-  "lastUpdated": "2025-08-24T21:55:08.597262Z",
-  "totalVideos": 8,
-  "totalChannels": 2
+  "lastUpdated": "2025-08-25T21:08:23.996237Z",
+  "totalVideos": 10,
+  "totalChannels": 3
 }

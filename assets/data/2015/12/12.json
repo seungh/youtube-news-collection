@@ -55,6 +55,31 @@
       "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
       "channelName": "뉴스TVCHOSUN",
       "collectedAt": "2025-08-21T10:46:37Z"
+    },
+    "bgLByfpL0aU": {
+      "videoId": "bgLByfpL0aU",
+      "title": "밤샘토론 38회 - 기로에 선 새정치연합, 분당이냐 통합이냐",
+      "description": "올빼미 논객들과 함께 하는 JTBC 밤샘토론 은 이번 주 금요일 밤 12시 30분, \"기로에 선 새정치연합, 분당이냐 통합이냐\"라는 주제로 위기에 빠진 야당의 현 주소를 짚어본다.\n\n문재인 대표와 안철수 전 공동대표 간의 혁신 갈등으로 촉발된 이번 야당 내홍은 이후 주류와 비주류 간의 대결로 번지면서 일부 의원들의 집단 탈당 및 분당 가능성이 그 어느 때보다도 높게 거론되고 있다.\n\n지난 대선 당시, '아름다운 단일화'에 실패한 문재인 대표와 안철수 전 공동대표는 이후 당 혁신안의 방향성을 놓고 이견을 보이면서 대립 구도를 형성해 왔다, 그후 '친노 패권주의'라는 비주류 계의 비판 속에 사퇴 압박까지 받던 문재인 대표는 '문-안-박' 연대를 통해 리더십 논란을 잠재우려 했지만, 안철수 전 대표는 혁신 전대안을 제시하면서 논란은 증폭 됐는데...\n\n과연 '문-안-박' 연대는 위기의 야당을 구원할 수 있는 히든카드였을까?\n총선을 불과 4개월여 앞두고 혁신전대론을 꺼내든 안철수 전 대표의 카드는 적절한 것인가?\n\n일부 비주류 인사들의 당직사퇴·당무거부까지 벌어지면서 사태가 확산되는 가운데, 문제 해결을 위해 야당 중진들까지 나섰지만, 뚜렷한 해법이 나올 수 있을 지는 미지수인데… \n\n친문 주류진영의  김경협 새정치연합 의원, 문-안연대를 주장하는 중도계의 박용진 전 새정치연합 대변인, 안철수 진심캠프의 상황실장을 지냈던 윤태곤 더모아 정치분석실장과 날카로운 비평의 박상병 정치 평론가가  출연해 위기에 빠진 제 1 야당의 문제점을 심층진단 해 본다.",
+      "publishedAt": "2015-12-12T03:39:00Z",
+      "duration": "PT2H13M32S",
+      "viewCount": 37034,
+      "likeCount": 72,
+      "commentCount": 50,
+      "tags": [
+        "JTBC",
+        "밤샘토론",
+        "새정치연합",
+        "분당",
+        "통합",
+        "문재인",
+        "안철수"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2015-12-12T03:39:00Z",
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "collectedAt": "2025-08-25T21:08:19Z"
     }
   },
   "channels": {
@@ -84,9 +109,36 @@
       "viewCount": 4319423561,
       "videoCount": 150855,
       "lastUpdated": "2025-08-21T10:29:11.695328Z"
+    },
+    "UCsU-I-vHLiaMfV_ceaYz5rQ": {
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "channelUrl": "@jtbc_news",
+      "channelDescription": "진실에 닿을 때까지 멈추지 않는 질문, JTBC News\nWelcome to the official JTBC News Channel.\n\n▶ https://news.jtbc.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 4670000,
+      "viewCount": 14817048106,
+      "videoCount": 261473,
+      "lastUpdated": "2025-08-25T21:08:19.541397Z"
     }
   },
-  "lastUpdated": "2025-08-21T10:46:37.548202Z",
-  "totalVideos": 2,
-  "totalChannels": 1
+  "lastUpdated": "2025-08-25T21:08:19.542393Z",
+  "totalVideos": 3,
+  "totalChannels": 2
 }

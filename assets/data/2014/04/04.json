@@ -281,6 +281,34 @@
       "channelId": "UC4Aa3OPkMenwTANpf0oWVRQ",
       "channelName": "CBS 김현정의 뉴스쇼",
       "collectedAt": "2025-08-22T14:03:32Z"
+    },
+    "EAgkIjjjCrQ": {
+      "videoId": "EAgkIjjjCrQ",
+      "title": "[사건+] 추적장치만 버리면 끝...전자발찌 '무용지물'",
+      "description": "방송사 : JTBC http://www.jtbc.co.kr\n▶ JTBC 뉴스9 월~금 21시00분 방송\n▶ 홈페이지 : http://news.jtbc.co.kr\n▶ 공식 트위터 : https://twitter.com/JTBC_news\n▶ 공식 페이스북 : https://www.facebook.com/jtbcnews\n\n그제(2일) 저녁에 전자발찌를 끊고 도주했었던 전과 16범의 30대 성범죄자가 오늘 아침에 경찰에 붙잡혔습니다. 이렇게 전자발찌를 차고 있던 성범죄자가 전자발찌를 스스로 끊거나, 위치 추적장치를 버리고 달아나는 일이 잇따르고 있는데요. 오늘 사건플러스에서는 이 전자발찌의 문제점 짚어보겠습니다.",
+      "publishedAt": "2014-04-04T00:53:44Z",
+      "duration": "PT8M52S",
+      "viewCount": 4445,
+      "likeCount": 7,
+      "commentCount": 5,
+      "tags": [
+        "jtbc",
+        "jtbc news",
+        "jtbc 뉴스",
+        "뉴스9",
+        "손석희",
+        "사건플러스",
+        "전자발찌",
+        "성범죄자",
+        "성범죄 전자발찌",
+        "전자발찌 추적"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2014-04-04T00:53:44Z",
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "collectedAt": "2025-08-25T21:08:23Z"
     }
   },
   "channels": {
@@ -337,9 +365,36 @@
       "viewCount": 1280577570,
       "videoCount": 19124,
       "lastUpdated": "2025-08-24T21:55:07.915087Z"
+    },
+    "UCsU-I-vHLiaMfV_ceaYz5rQ": {
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "channelUrl": "@jtbc_news",
+      "channelDescription": "진실에 닿을 때까지 멈추지 않는 질문, JTBC News\nWelcome to the official JTBC News Channel.\n\n▶ https://news.jtbc.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 4670000,
+      "viewCount": 14817048106,
+      "videoCount": 261473,
+      "lastUpdated": "2025-08-25T21:08:23.667112Z"
     }
   },
-  "lastUpdated": "2025-08-24T21:55:07.916083Z",
-  "totalVideos": 11,
-  "totalChannels": 2
+  "lastUpdated": "2025-08-25T21:08:23.667112Z",
+  "totalVideos": 12,
+  "totalChannels": 3
 }

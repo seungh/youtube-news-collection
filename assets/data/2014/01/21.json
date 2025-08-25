@@ -137,6 +137,56 @@
       "channelId": "UC4Aa3OPkMenwTANpf0oWVRQ",
       "channelName": "CBS 김현정의 뉴스쇼",
       "collectedAt": "2025-08-22T14:03:34Z"
+    },
+    "Aw7fxE4SKTE": {
+      "videoId": "Aw7fxE4SKTE",
+      "title": "[긴급출동] 살인·폭행·협박...일그러진 사랑 '스토킹'",
+      "description": "방송사 : JTBC http://www.jtbc.co.kr\r\n▶ JTBC 뉴스9 월~금 21시00분 방송\r\n▶ 홈페이지 : http://news.jtbc.co.kr\r\n▶ 공식 트위터 : https://twitter.com/JTBC_news\r\n▶ 공식 페이스북 : https://www.facebook.com/jtbcnews\r\n\r\n최근에  고등학교때부터 선생님을 짝사랑했던 20대 남성이 이 선생님을 살해한 사건이 있었죠. 스토킹이 살인으로까지 이어진 경우였습니다. 스토킹을 당한 피해자들, 그 정신적 고통이 상당한데요, 스토킹 처벌법이 시행됐지만 8만 원의 범칙금 부과 정도여서 실효성이 없다는 지적입니다.",
+      "publishedAt": "2014-01-21T02:03:21Z",
+      "duration": "PT5M13S",
+      "viewCount": 4310,
+      "likeCount": 9,
+      "commentCount": 0,
+      "tags": [
+        "jtbc",
+        "jtbc news 9",
+        "jtbc 아침&",
+        "jtbc 손석희",
+        "손석희",
+        "스토커",
+        "살인",
+        "폭행"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2014-01-21T02:03:21Z",
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "collectedAt": "2025-08-25T21:08:24Z"
+    },
+    "a3g-hyhDXe0": {
+      "videoId": "a3g-hyhDXe0",
+      "title": "[단독] 구청장실 CCTV 하드디스크 교체...은폐하려 했나",
+      "description": "방송사 : JTBC http://www.jtbc.co.kr\r\n▶ JTBC 뉴스9 월~금 21시00분 방송\r\n▶ 홈페이지 : http://news.jtbc.co.kr\r\n▶ 공식 트위터 : https://twitter.com/JTBC_news\r\n▶ 공식 페이스북 : https://www.facebook.com/jtbcnews\r\n\r\n채동욱 전 검찰총장과 관련한 개인정보 불법 유출 의혹이 서초구청장실로 번지고 있습니다. JTBC 취재 결과 검찰이 구청장실 CCTV를 압수수색하기 전에 비서실에서 CCTV가 저장된 하드디스크를 교체해 은폐하려한 정황이 포착됐습니다. 취재 기자 연결하겠습니다.",
+      "publishedAt": "2014-01-21T01:48:58Z",
+      "duration": "PT3M8S",
+      "viewCount": 1606,
+      "likeCount": 6,
+      "commentCount": 0,
+      "tags": [
+        "jtbc",
+        "jtbc news 9",
+        "jtbc 아침&",
+        "jtbc 손석희",
+        "손석희",
+        "채동욱"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2014-01-21T01:48:58Z",
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "collectedAt": "2025-08-25T21:08:24Z"
     }
   },
   "channels": {
@@ -193,9 +243,36 @@
       "viewCount": 1280577570,
       "videoCount": 19124,
       "lastUpdated": "2025-08-24T21:55:10.389074Z"
+    },
+    "UCsU-I-vHLiaMfV_ceaYz5rQ": {
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "channelUrl": "@jtbc_news",
+      "channelDescription": "진실에 닿을 때까지 멈추지 않는 질문, JTBC News\nWelcome to the official JTBC News Channel.\n\n▶ https://news.jtbc.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 4670000,
+      "viewCount": 14817048106,
+      "videoCount": 261473,
+      "lastUpdated": "2025-08-25T21:08:24.118909Z"
     }
   },
-  "lastUpdated": "2025-08-24T21:55:10.412100Z",
-  "totalVideos": 4,
-  "totalChannels": 2
+  "lastUpdated": "2025-08-25T21:08:24.118909Z",
+  "totalVideos": 6,
+  "totalChannels": 3
 }

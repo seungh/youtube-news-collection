@@ -358,6 +358,78 @@
       "channelId": "UC4Aa3OPkMenwTANpf0oWVRQ",
       "channelName": "CBS 김현정의 뉴스쇼",
       "collectedAt": "2025-08-22T14:03:24Z"
+    },
+    "nA5X78y_Sjc": {
+      "videoId": "nA5X78y_Sjc",
+      "title": "[팩트체크] 수사 대상 오른 현직 총리, 사퇴 필요한가",
+      "description": "방송사 : JTBC http://www.jtbc.co.kr \n▶ JTBC 뉴스룸 월~일 20시00분 방송 \n▶ 홈페이지 : http://news.jtbc.co.kr \n▶ 공식 트위터 : https://twitter.com/JTBC_news \n▶ 공식 페이스북 : https://www.facebook.com/jtbcnews \n\n요 며칠 팩트체크를 전해드리지 못했는데, 오늘(15일) 이 문제를 다뤄야 될 것 같아서 김필규 기자가 팩트체크를 준비했습니다. 헌정 사상 최초로 현직 총리에 대한 검찰수사가 진행될 것 같습니다. 여야 할 것 없이 정치권에서도 수사를 촉구하고 총리 본인도 받겠다는 의사를 밝힌 바 있습니다. 그렇다면 문제는 수사에 앞서 총리직을 내려놔야 하느냐 아니냐 하는 것으로 관점이 모아지고 있습니다. 오늘 팩트체크에서는 이 부분을 짚어보겠습니다.",
+      "publishedAt": "2015-04-15T14:48:55Z",
+      "duration": "PT8M11S",
+      "viewCount": 5364,
+      "likeCount": 27,
+      "commentCount": 6,
+      "tags": [
+        "JTBC",
+        "JTBC NEWS",
+        "JTBC 뉴스",
+        "제이티비씨",
+        "손석희",
+        "손석희 뉴스",
+        "뉴스룸",
+        "팩트체크",
+        "김필규",
+        "이완구",
+        "성완종",
+        "성완종 회장",
+        "경남기업",
+        "성완종 뇌물",
+        "이완구 뇌물",
+        "이완구 3천만원",
+        "이완구 사퇴",
+        "이완구 총리",
+        "총리 검찰"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2015-04-15T14:48:55Z",
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "collectedAt": "2025-08-25T21:08:21Z"
+    },
+    "zbIOO9AsjN4": {
+      "videoId": "zbIOO9AsjN4",
+      "title": "[밀착카메라] 옹벽에 떨고 범죄에 떨고…불안한 주택가",
+      "description": "방송사 : JTBC http://www.jtbc.co.kr \n▶ JTBC 뉴스룸 월~일 20시00분 방송 \n▶ 홈페이지 : http://news.jtbc.co.kr \n▶ 공식 트위터 : https://twitter.com/JTBC_news \n▶ 공식 페이스북 : https://www.facebook.com/jtbcnews \n\n오늘(14일) 밀착카메라는 인천의 주택가 두 곳을 갔습니다. 한 곳은 금방이라도 무너질 위기에, 다른 한곳은 범죄와 방화의 위험에 처해 있습니다. 상황이 이런데도, 정부와 지자체가 내놓은 대응을 보면, 이런 걸 대응이라고 할 수 있을지 모르겠습니다.\n\n김관 기자입니다.",
+      "publishedAt": "2015-04-15T14:16:08Z",
+      "duration": "PT4M15S",
+      "viewCount": 1898,
+      "likeCount": 11,
+      "commentCount": 2,
+      "tags": [
+        "JTBC",
+        "JTBC NEWS",
+        "JTBC 뉴스",
+        "제이티비씨",
+        "손석희",
+        "손석희 뉴스",
+        "뉴스룸",
+        "뉴스9",
+        "밀착카메라",
+        "김관",
+        "인천",
+        "인천 주택가",
+        "인천 범죄 위험",
+        "인천 붕괴 위험",
+        "인천 남구",
+        "인천 범죄",
+        "인천 방화"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2015-04-15T14:16:08Z",
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "collectedAt": "2025-08-25T21:08:21Z"
     }
   },
   "channels": {
@@ -441,9 +513,36 @@
       "viewCount": 1280577570,
       "videoCount": 19124,
       "lastUpdated": "2025-08-24T21:54:56.440101Z"
+    },
+    "UCsU-I-vHLiaMfV_ceaYz5rQ": {
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "channelUrl": "@jtbc_news",
+      "channelDescription": "진실에 닿을 때까지 멈추지 않는 질문, JTBC News\nWelcome to the official JTBC News Channel.\n\n▶ https://news.jtbc.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 4670000,
+      "viewCount": 14817048106,
+      "videoCount": 261473,
+      "lastUpdated": "2025-08-25T21:08:21.403681Z"
     }
   },
-  "lastUpdated": "2025-08-24T21:54:56.441098Z",
-  "totalVideos": 14,
-  "totalChannels": 3
+  "lastUpdated": "2025-08-25T21:08:21.406674Z",
+  "totalVideos": 16,
+  "totalChannels": 4
 }
