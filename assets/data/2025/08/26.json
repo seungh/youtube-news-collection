@@ -7,7 +7,7 @@
       "publishedAt": "2025-08-25T12:10:10Z",
       "duration": "P0D",
       "viewCount": 0,
-      "likeCount": 4,
+      "likeCount": 5,
       "commentCount": 0,
       "tags": [
         "SBS NEWS",
@@ -40,7 +40,27 @@
       "actualPubAt": "2025-08-25T21:00:00Z",
       "channelId": "UCkinYTS9IHqOEwR1Sze2JTw",
       "channelName": "SBS 뉴스",
-      "collectedAt": "2025-08-25T13:03:40Z"
+      "collectedAt": "2025-08-25T14:36:13Z"
+    },
+    "oAFDmvFx388": {
+      "videoId": "oAFDmvFx388",
+      "title": "[LIVE/JTBC 뉴스특보] 2025 한미 정상회담 (25.8.26)",
+      "description": "· 잠시 뒤 이 대통령-트럼프 첫 정상회담\n· 한·미 정상회담 '새벽 1시 15분' 개최\n \n8월 26일 (화) JTBC 뉴스특보\n\n📢 지금, 이슈의 현장을 실시간으로!\n☞JTBC 모바일라이브 시청하기 https://www.youtube.com/@jtbc_news/streams\n\n☞JTBC유튜브 구독하기 (https://www.youtube.com/user/JTBC10news)\n☞JTBC유튜브 커뮤니티 (https://www.youtube.com/user/JTBC10news/community)\n\n#JTBC뉴스 공식 페이지 https://news.jtbc.co.kr\n\n페이스북 https://www.facebook.com/jtbcnews\nX(트위터) https://twitter.com/JTBC_news\n인스타그램 https://www.instagram.com/jtbcnews\n\n☏ 제보하기 https://news.jtbc.co.kr/report\n방송사 : JTBC (https://jtbc.co.kr)",
+      "publishedAt": "2025-08-25T08:13:27Z",
+      "duration": "P0D",
+      "viewCount": 0,
+      "likeCount": 0,
+      "commentCount": 0,
+      "tags": [],
+      "liveBroadcastContent": "upcoming",
+      "liveStreamingDetails": {
+        "scheduledStartTime": "2025-08-25T15:40:00Z",
+        "activeLiveChatId": "Cg0KC29BRkRtdkZ4Mzg4KicKGFVDc1UtSS12SExpYU1mVl9jZWFZejVyURILb0FGRG12RngzODg"
+      },
+      "actualPubAt": "2025-08-25T15:40:00Z",
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "collectedAt": "2025-08-25T14:36:13Z"
     }
   },
   "channels": {
@@ -68,11 +88,38 @@
       },
       "subscriberCount": 4990000,
       "viewCount": 14991172725,
-      "videoCount": 297522,
-      "lastUpdated": "2025-08-25T14:13:00.338833Z"
+      "videoCount": 297527,
+      "lastUpdated": "2025-08-25T14:36:13.272793Z"
+    },
+    "UCsU-I-vHLiaMfV_ceaYz5rQ": {
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "channelUrl": "@jtbc_news",
+      "channelDescription": "진실에 닿을 때까지 멈추지 않는 질문, JTBC News\nWelcome to the official JTBC News Channel.\n\n▶ https://news.jtbc.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 4670000,
+      "viewCount": 14814869673,
+      "videoCount": 261449,
+      "lastUpdated": "2025-08-25T14:36:13.269994Z"
     }
   },
-  "lastUpdated": "2025-08-25T14:13:00.338961Z",
-  "totalVideos": 1,
-  "totalChannels": 1
+  "lastUpdated": "2025-08-25T14:36:13.272992Z",
+  "totalVideos": 2,
+  "totalChannels": 2
 }
