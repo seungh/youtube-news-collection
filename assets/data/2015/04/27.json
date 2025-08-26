@@ -404,6 +404,33 @@
       "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
       "channelName": "JTBC News",
       "collectedAt": "2025-08-25T21:08:21Z"
+    },
+    "-DJcWnf_Gpo": {
+      "videoId": "-DJcWnf_Gpo",
+      "title": "[단독] 중국 무술 압도한 북한 전투 무술 ‘격술’ / KBS뉴스(News)",
+      "description": "앵커 멘트\n\n 북한 특수부대원들이 주로 쓴다는 '격술'은 맨손 살인을 할 정도로 잔인한 무술로 유명한데요.\n\n 전군은 물론 경찰에까지 보급돼 있다고 합니다.\n\n 북한 경찰 대학생들이 중국에서 선보인 격술 동영상을 KBS가 입수했습니다.\n\n 홍수진 기자입니다.\n\n 리포트\n\n 맨몸에 내리친 두꺼운 각목들이 부러져 나갑니다.\n\n 커다란 기왓장을 산산이 부수고 벽돌 수십 개도 눈 깜짝할 사이에 격파합니다.\n\n 권총이나 칼을 든 상대방을 맨손으로 제압하는 건 기본입니다.\n\n 우리 경찰대에 해당하는 김정일 인민보안대학 학생들이 중국 공안에 선보인  격술 시범입니다.\n\n 중국의 무술 시범이  '우슈' 형태의  볼거리 위주인 반면 북한의 격술은  상대방에게 치명상을 주는  실질적인 전투 기술을  강조한 게 특징입니다.\n\n 녹취 장세율(겨레얼통일연대 대표) : \"중국 무술과도 태권도하고도 다른사람을 실제 죽일 수 있고 적을 실제로 제압할 수 있게 만들어진 최상급의 격술이라고 그렇게 지칭을 하죠.\"\n\n 북한은 이 장면을  동영상으로 제작해  주민들에게 보급하고 있습니다.\n\n 군, 경찰에 대한 자부심과 함께  공권력에 대한 공포를 동시에 심어주려는 의도라는 분석입니다.\n\n 녹취 동영상 : \"선군태양을 모신 무적 필승의 용사들을 당할자 이 세상에 없다라고...\"\n\n 난이도에 따라 4단계로 나눠져 있는 '격술'은 군사대학과 경찰대학의 필수 과목으로 지정돼 있습니다.\n\n 북한은 특히 군과 경찰에 별도로 격술 연구소를 만들어 새로운 기술 개발에도  주력하고 있는 것으로  전해졌습니다.\n\n KBS 뉴스 홍수진입니다.",
+      "publishedAt": "2015-04-27T00:02:51Z",
+      "duration": "PT1M44S",
+      "viewCount": 2357157,
+      "likeCount": 1252,
+      "commentCount": 1068,
+      "tags": [
+        "중국무술",
+        "북한",
+        "북한전투",
+        "북한무술",
+        "북한 격술",
+        "북한 격술시범",
+        "KBS",
+        "뉴스",
+        "뉴스광장"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2015-04-27T00:02:51Z",
+      "channelId": "UCcQTRi69dsVYHN3exePtZ1A",
+      "channelName": "KBS News",
+      "collectedAt": "2025-08-26T12:49:37Z"
     }
   },
   "channels": {
@@ -541,9 +568,36 @@
       "viewCount": 14817048106,
       "videoCount": 261473,
       "lastUpdated": "2025-08-25T21:08:21.290983Z"
+    },
+    "UCcQTRi69dsVYHN3exePtZ1A": {
+      "channelId": "UCcQTRi69dsVYHN3exePtZ1A",
+      "channelName": "KBS News",
+      "channelUrl": "@newskbs",
+      "channelDescription": "수신료로 만들어가는 KBS 뉴스",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/LIRDgU59ID6x9CqOQQR5TO9WsaenXRWOwD5kj4pwY4mz24hRW6qxIiKZl1JSso-u6auqakRj0g=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/LIRDgU59ID6x9CqOQQR5TO9WsaenXRWOwD5kj4pwY4mz24hRW6qxIiKZl1JSso-u6auqakRj0g=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/LIRDgU59ID6x9CqOQQR5TO9WsaenXRWOwD5kj4pwY4mz24hRW6qxIiKZl1JSso-u6auqakRj0g=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 3410000,
+      "viewCount": 9236631168,
+      "videoCount": 394045,
+      "lastUpdated": "2025-08-26T12:49:37.382823Z"
     }
   },
-  "lastUpdated": "2025-08-25T21:08:21.291979Z",
-  "totalVideos": 15,
-  "totalChannels": 5
+  "lastUpdated": "2025-08-26T12:49:37.439841Z",
+  "totalVideos": 16,
+  "totalChannels": 6
 }

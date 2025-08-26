@@ -327,6 +327,28 @@
       "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
       "channelName": "JTBC News",
       "collectedAt": "2025-08-25T21:08:20Z"
+    },
+    "31MAEiNLTOs": {
+      "videoId": "31MAEiNLTOs",
+      "title": "[단독] 고양이에게 생선…게임 단속기관이 정보 누설?",
+      "description": "앵커 멘트\n\n온라인 게임에서 하루에 10만 원어치의 게임 머니를 잃으면 24시간 동안 게임을 할 수 없도록 지난해 관련 법령이 개정됐는데요.\n\n이를 단속해야 할 게임물관리위원회에서 단속 정보를 게임 업체에 미리 알려서 처벌을 피하게 했다는 의혹이 일고 있습니다.\n\n김지숙 기자가 단독 보도합니다.\n\n 리포트\n\n 대형 게임 업체인 NHN 엔터테인먼트가 운영하는 온라인 포커 게임입니다.\n\n 지난 3월, 이 게임 이용자들이 현금 10만 원어치의 게임 머니를 잃고도 게임을 계속할 수 있다는 사실이 게임물관리위원회에 적발됐습니다.\n\n녹취 게임위 관계자 : \"일일 손실 한도를 초과했고요. 기준이 (게임 머니로) 55억인데 60억이 손실된 걸 확인했습니다.\"\n\n 지나친 사행 행위 방지를 위해 하루 손실 한도액을 10만 원으로 정한 법령을 어긴 것입니다.\n\n 규정대로라면  해당 게임을 이용할 수 없도록 게임 등급 취소 처분을 내리거나  경고 처분을 내려야 하지만,  업체는 아무런 제재도 받지 않았습니다.\n\n 위반 업체를 처벌해야 할 게임위 사무국장 등 3명이  오히려 업체에 적발 사실을 알려 업체가 다음날 위반 사항을 수정했기 때문입니다.\n\n녹취 게임위 관계자 : \"위원회 보고 당시에는 이 문제됐던 사항들이 원복이 됐기 때문에 사실상 어떤 위반 사실이 없는 상황이었습니다. 그래서 부득이하게 (단순) 시정 요청을 할 수밖에 없었습니다.\"\n\n 사무국장 등은 업체에 전화로 알려준 사실은 인정하면서도 상위 기관인 문체부 사무관의 지시를 받아 빨리 시정하기 위한 것이었다고 해명하고 있습니다.\n\n 하지만 결과적으로 아무런 제재도 받지 않게 돼  대형 업체에 대한  특혜 논란이 일고 있습니다.\n\n 게임위는 자체 감사를 통해 이 같은 사실을 확인하고 사무국장 등 3명을 징계위원회에 회부했습니다.\n\n KBS 뉴스 김지숙입니다.",
+      "publishedAt": "2015-07-27T13:12:15Z",
+      "duration": "PT1M43S",
+      "viewCount": 563,
+      "likeCount": 4,
+      "commentCount": 3,
+      "tags": [
+        "NEWS",
+        "KBS",
+        "뉴스9",
+        "KBS 뉴스9"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2015-07-27T13:12:15Z",
+      "channelId": "UCcQTRi69dsVYHN3exePtZ1A",
+      "channelName": "KBS News",
+      "collectedAt": "2025-08-26T12:49:37Z"
     }
   },
   "channels": {
@@ -437,9 +459,36 @@
       "viewCount": 14817048106,
       "videoCount": 261473,
       "lastUpdated": "2025-08-25T21:08:20.412980Z"
+    },
+    "UCcQTRi69dsVYHN3exePtZ1A": {
+      "channelId": "UCcQTRi69dsVYHN3exePtZ1A",
+      "channelName": "KBS News",
+      "channelUrl": "@newskbs",
+      "channelDescription": "수신료로 만들어가는 KBS 뉴스",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/LIRDgU59ID6x9CqOQQR5TO9WsaenXRWOwD5kj4pwY4mz24hRW6qxIiKZl1JSso-u6auqakRj0g=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/LIRDgU59ID6x9CqOQQR5TO9WsaenXRWOwD5kj4pwY4mz24hRW6qxIiKZl1JSso-u6auqakRj0g=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/LIRDgU59ID6x9CqOQQR5TO9WsaenXRWOwD5kj4pwY4mz24hRW6qxIiKZl1JSso-u6auqakRj0g=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 3410000,
+      "viewCount": 9236631168,
+      "videoCount": 394045,
+      "lastUpdated": "2025-08-26T12:49:37.093826Z"
     }
   },
-  "lastUpdated": "2025-08-25T21:08:20.413976Z",
-  "totalVideos": 12,
-  "totalChannels": 4
+  "lastUpdated": "2025-08-26T12:49:37.094823Z",
+  "totalVideos": 13,
+  "totalChannels": 5
 }

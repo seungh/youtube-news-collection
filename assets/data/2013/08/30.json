@@ -212,6 +212,32 @@
       "channelId": "UC4Aa3OPkMenwTANpf0oWVRQ",
       "channelName": "CBS 김현정의 뉴스쇼",
       "collectedAt": "2025-08-22T14:03:35Z"
+    },
+    "h5dOlcoLlQ0": {
+      "videoId": "h5dOlcoLlQ0",
+      "title": "탈북자에 北 김정은 지지율 물었더니...'뜻밖의 결과'_130829_채널A NEWS",
+      "description": "\"[종합뉴스] 북한 주민들은 김정은 체제를 얼마나 지지할까요? 탈북자들을 대상으로 설문 조사를 했더니, 뜻밖의 결과가 나왔습니다. 지지율은 생각보다 높았고, 북한의 식량 사정도 조금씩 좋아지고있다고 합니다.\nhttp://news.ichannela.com/tv/totala/3/all/20130829/57313661/1\" ○ 기사 보기\n\n▶채널A뉴스 구독\nhttps://www.youtube.com/tvchanews?sub_confirmation=1\n\n[채널A 뉴스·시사 프로그램｜유튜브 라이브 방송시간]\n\n〈평일〉\n08시 00분 라디오쇼 정치시그널 (유튜브 라이브)\n08시 50분 김진의 돌직구 쇼\n10시 20분 김진의 더라방 (유튜브 라이브)\n12시 00분 뉴스A 라이브\n15시 50분 강력한 4팀\n17시 20분 뉴스TOP10\n19시 00분 뉴스A\n\n〈주말〉\n12시 00분 토요랭킹쇼·뉴스A 라이브\n17시 40분 뉴스TOP10\n19시 00분 뉴스A\n\n# # #채널A뉴스 \n\n▷ 홈페이지 http://www.ichannela.com/news/main/news_main.do\n▷ 페이스북 https://www.facebook.com/channelanews\n▷ 카카오스토리 https://story.kakao.com/ch/channelanews",
+      "publishedAt": "2013-08-30T10:03:01Z",
+      "duration": "PT1M41S",
+      "viewCount": 125458,
+      "likeCount": 76,
+      "commentCount": 41,
+      "tags": [
+        "채널A",
+        "종합뉴스",
+        "북한",
+        "김정은",
+        "탈북자",
+        "종북",
+        "이석기",
+        "Kim Jong-un (Politician)"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2013-08-30T10:03:01Z",
+      "channelId": "UCfq4V1DAuaojnr2ryvWNysw",
+      "channelName": "채널A News",
+      "collectedAt": "2025-08-26T12:50:36Z"
     }
   },
   "channels": {
@@ -295,9 +321,36 @@
       "viewCount": 1280577570,
       "videoCount": 19124,
       "lastUpdated": "2025-08-24T21:55:14.140089Z"
+    },
+    "UCfq4V1DAuaojnr2ryvWNysw": {
+      "channelId": "UCfq4V1DAuaojnr2ryvWNysw",
+      "channelName": "채널A News",
+      "channelUrl": "@channela-news",
+      "channelDescription": "당신의 목소리, 채널A News",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/Pjh8brk90jdspfc5dKpfxq7DliuPRH3j5UIlX13b5HGe4eK0_PSFLqRdySsHYA_McUwKM2F_8g=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/Pjh8brk90jdspfc5dKpfxq7DliuPRH3j5UIlX13b5HGe4eK0_PSFLqRdySsHYA_McUwKM2F_8g=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/Pjh8brk90jdspfc5dKpfxq7DliuPRH3j5UIlX13b5HGe4eK0_PSFLqRdySsHYA_McUwKM2F_8g=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 3260000,
+      "viewCount": 6198116921,
+      "videoCount": 143713,
+      "lastUpdated": "2025-08-26T12:50:36.418682Z"
     }
   },
-  "lastUpdated": "2025-08-24T21:55:14.140089Z",
-  "totalVideos": 6,
-  "totalChannels": 3
+  "lastUpdated": "2025-08-26T12:50:36.420711Z",
+  "totalVideos": 7,
+  "totalChannels": 4
 }
