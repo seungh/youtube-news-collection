@@ -126,6 +126,7 @@ class YouTubeDataCollector:
             with self.lock:
                 self.stats["errors"].append(f"{channel_name}: {str(e)}")
             return None
+
         except Exception as e:
             logger.error(f"❌ {channel_name} unexpected error: {e}")
             with self.lock:
@@ -225,7 +226,7 @@ class YouTubeDataCollector:
                 with self.lock:
                     self.stats["errors"].append(f"Date {date_str} processing error: {str(e)}")
     
-    def collect_all_data(self, max_workers: int = 4) -> None:
+    def collect_all_data(self) -> None:
         """
         Collect data from all channels and update files.
         """
@@ -241,6 +242,7 @@ class YouTubeDataCollector:
         
         # Collect channel data in parallel
         all_channel_data = []
+        max_workers = self.settings.get("maxWorkers", 4)
         with ThreadPoolExecutor(max_workers=max_workers) as executor:
             future_to_channel = {
                 executor.submit(self.collect_channel_data, channel): channel
@@ -281,7 +283,6 @@ class YouTubeDataCollector:
         # Completion statistics
         end_time = datetime.now()
         duration = end_time - start_time
-        
         logger.info("=== Data collection completed ===")
         logger.info("="*60)
         logger.info(" YouTube Data Collection Results Summary")
@@ -297,7 +298,6 @@ class YouTubeDataCollector:
             logger.warning("Errors encountered:")
             for error in self.stats["errors"]:
                 logger.warning(f"  - {error}")
-
         logger.info("="*60)
         logger.info(" Youtube Data API v3 Quota Summary")
         logger.info("="*60)
@@ -316,6 +316,7 @@ def main():
     """
     # Get API key from environment variable
     api_key = os.getenv("YOUTUBE_API_KEY")
+    api_key = "AIzaSyDgfcukaj2knToOExnYpKMs8Ql1XVTyGcg"
     if not api_key:
         logger.error("YOUTUBE_API_KEY is not configured. Please set the environment variable.")
         sys.exit(1)

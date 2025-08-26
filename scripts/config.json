@@ -219,6 +219,7 @@
     }
   ],
   "settings": {
+    "maxWorkers": 8,
     "timezone": "Asia/Seoul",
     "retryAttempts": 3,
     "retryDelay": 2,
