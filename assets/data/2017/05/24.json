@@ -2366,6 +2366,83 @@
       "channelId": "UCfq4V1DAuaojnr2ryvWNysw",
       "channelName": "채널A News",
       "collectedAt": "2025-08-26T12:50:07Z"
+    },
+    "5A3vdpblauo": {
+      "videoId": "5A3vdpblauo",
+      "title": "김주하의 5월 24일 '이 한 장의 사진'",
+      "description": "며칠 전 부천의 한 경찰지구대에 주운 봉투를 든 50대 남성이 찾아왔습니다.\n봉투 안에는 1억 원짜리 수표가 들어있었지요.\n돈을 찾은 사람이 보상금을 건네도 한사코 거절하며, 오히려 사례를 할거면 고마운 경찰한테 수박이나 한 통 사주라고 하고 가신 이 분은… 알고 보니 기초생활 수급자였습니다.\n넉넉하지 않은 형편에도 '당연한 일을 했을 뿐'이었다는 이 분의 말, 왠지 이 저녁이 따뜻해집니다.\n'이 한장의 사진' 더 보기\n☞ http://me2.do/GRbr5mCd",
+      "publishedAt": "2017-05-24T12:56:36Z",
+      "duration": "PT43S",
+      "viewCount": 1416,
+      "likeCount": 4,
+      "commentCount": 1,
+      "tags": [],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2017-05-24T12:56:36Z",
+      "channelId": "UCG9aFJTZ-lMCHAiO1KJsirg",
+      "channelName": "MBN News",
+      "collectedAt": "2025-08-27T19:05:24Z"
+    },
+    "TiaMBiFJvlc": {
+      "videoId": "TiaMBiFJvlc",
+      "title": "물을 많이 마시면 피부가 좋아진다 vs 상관없다",
+      "description": "피부를 위해서는 물 섭취보다 비장과 폐를 건강하게 만드는 것이 중요",
+      "publishedAt": "2017-05-24T07:29:29Z",
+      "duration": "PT1M50S",
+      "viewCount": 6922,
+      "likeCount": 20,
+      "commentCount": 3,
+      "tags": [
+        "MBN",
+        "물",
+        "수분",
+        "수분부족",
+        "물섭취",
+        "물마시기",
+        "물효능",
+        "하루물권장량",
+        "물부족",
+        "하루물섭취량",
+        "물많이마시면좋은점",
+        "물마시는방법"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2017-05-24T07:29:29Z",
+      "channelId": "UCG9aFJTZ-lMCHAiO1KJsirg",
+      "channelName": "MBN News",
+      "collectedAt": "2025-08-27T19:05:24Z"
+    },
+    "khdd6Ee0PcY": {
+      "videoId": "khdd6Ee0PcY",
+      "title": "서서 하는 종아리 스트레칭으로 종아리를 활성화시켜라!",
+      "description": "서서 하는 종아리 스트레칭을 배워보자!",
+      "publishedAt": "2017-05-24T07:25:20Z",
+      "duration": "PT3M5S",
+      "viewCount": 32343,
+      "likeCount": 176,
+      "commentCount": 7,
+      "tags": [
+        "MBN",
+        "엄지의제왕",
+        "종아리",
+        "종아리스트레칭",
+        "여름다이어트",
+        "종아리운동",
+        "종아리알",
+        "종아리마사지",
+        "종아리얇아지는운동",
+        "종아리근육",
+        "종아리알빼는법",
+        "종아리근육얇아지는법"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2017-05-24T07:25:20Z",
+      "channelId": "UCG9aFJTZ-lMCHAiO1KJsirg",
+      "channelName": "MBN News",
+      "collectedAt": "2025-08-27T19:05:24Z"
     }
   },
   "channels": {
@@ -2530,9 +2607,36 @@
       "viewCount": 6198116921,
       "videoCount": 143713,
       "lastUpdated": "2025-08-26T12:50:07.074087Z"
+    },
+    "UCG9aFJTZ-lMCHAiO1KJsirg": {
+      "channelId": "UCG9aFJTZ-lMCHAiO1KJsirg",
+      "channelName": "MBN News",
+      "channelUrl": "@mbn",
+      "channelDescription": "「공정 신뢰 품격」이 있는 MBN 뉴스 ! \n유튜브 MBN NEWS로 여러분께 한발 더 다가갑니다.",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/UBR0COW1X-RPnea8iGVXy6Jl3iOMhEASJHVDOlR7GJ9G0N4d0B1CCWPPATal58moPvAz4SBrFA=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/UBR0COW1X-RPnea8iGVXy6Jl3iOMhEASJHVDOlR7GJ9G0N4d0B1CCWPPATal58moPvAz4SBrFA=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/UBR0COW1X-RPnea8iGVXy6Jl3iOMhEASJHVDOlR7GJ9G0N4d0B1CCWPPATal58moPvAz4SBrFA=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 2490000,
+      "viewCount": 3277338867,
+      "videoCount": 233128,
+      "lastUpdated": "2025-08-27T19:05:24.057740Z"
     }
   },
-  "lastUpdated": "2025-08-26T12:50:07.076083Z",
-  "totalVideos": 79,
-  "totalChannels": 6
+  "lastUpdated": "2025-08-27T19:05:24.057740Z",
+  "totalVideos": 82,
+  "totalChannels": 7
 }

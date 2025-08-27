@@ -977,6 +977,27 @@
       "channelId": "UCfq4V1DAuaojnr2ryvWNysw",
       "channelName": "채널A News",
       "collectedAt": "2025-08-26T12:50:33Z"
+    },
+    "39XPDex27ug": {
+      "videoId": "39XPDex27ug",
+      "title": "원주 옻칠액 / YTN",
+      "description": "[YTN 기사원문] http://www.ytn.co.kr/_pn/1016_201408170653385318\n■ 강원도 원주시 소초면 교항리 629-5번지원주 옻칠액은 주성분인 옻산(Urushiol) 함유량이 평균 72.5%로 항암작용 등 면역력 강화, 심장병, 결핵, 신경통, 늑막염, 위궤양에 좋은 약리현상이 있는 것으로 알려졌다.또 높은 강도와 우수한 광택, 좋은 색깔과 향기 등으로 상품화의 최적 조건을 모두 갖춘 것으로 보고되었다...",
+      "publishedAt": "2014-08-17T18:02:31Z",
+      "duration": "PT1M",
+      "viewCount": 756,
+      "likeCount": 0,
+      "commentCount": 0,
+      "tags": [
+        "YTN",
+        "프로그램",
+        "테마영상"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2014-08-17T18:02:31Z",
+      "channelId": "UChlgI3UHCOnwUGzWzbJ3H5w",
+      "channelName": " YTN",
+      "collectedAt": "2025-08-27T19:05:14Z"
     }
   },
   "channels": {
@@ -1087,9 +1108,36 @@
       "viewCount": 6198116921,
       "videoCount": 143713,
       "lastUpdated": "2025-08-26T12:50:33.241103Z"
+    },
+    "UChlgI3UHCOnwUGzWzbJ3H5w": {
+      "channelId": "UChlgI3UHCOnwUGzWzbJ3H5w",
+      "channelName": " YTN",
+      "channelUrl": "@ytnnews24",
+      "channelDescription": "24시간 생중계되는 대한민국 대표 뉴스\nYTN 공식채널을 지금 바로 구독하세요\n\n▶ 구독하기 : http://goo.gl/Ytb5SZ\n\n▶ YTN 기사제보 안내\n- 홈페이지: https://mj.ytn.co.kr/mj/mj_write.php?sort=0\n- 모바일: YTN 앱의 제보하기\n- 이메일: social@ytn.co.kr\n- 전화: 02-398-8282 또는 8585 \n\n▶ 라이브 스트리밍 대체광고 및 콘텐츠 협업 문의\n - 이메일 : ljk@ytn.co.kr\n\n▶ 영상 사용 및 구매 문의\n - https://www.ytn.co.kr/business/sell_program.php\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/Sd77hfGXNh1K4VgLCnYVrzWVkUKh04N5VDClPweoP-sbaZXzH3llUz2W1N_-Z4RX5_XauYpvSQ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/Sd77hfGXNh1K4VgLCnYVrzWVkUKh04N5VDClPweoP-sbaZXzH3llUz2W1N_-Z4RX5_XauYpvSQ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/Sd77hfGXNh1K4VgLCnYVrzWVkUKh04N5VDClPweoP-sbaZXzH3llUz2W1N_-Z4RX5_XauYpvSQ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 5150000,
+      "viewCount": 17635969172,
+      "videoCount": 889907,
+      "lastUpdated": "2025-08-27T19:05:14.328895Z"
     }
   },
-  "lastUpdated": "2025-08-26T12:50:33.241827Z",
-  "totalVideos": 27,
-  "totalChannels": 4
+  "lastUpdated": "2025-08-27T19:05:14.328895Z",
+  "totalVideos": 28,
+  "totalChannels": 5
 }

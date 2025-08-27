@@ -548,6 +548,23 @@
       "channelId": "UCfq4V1DAuaojnr2ryvWNysw",
       "channelName": "채널A News",
       "collectedAt": "2025-08-26T12:49:56Z"
+    },
+    "VTPY9zAqV24": {
+      "videoId": "VTPY9zAqV24",
+      "title": "김주하의 10월 4일 '이 한 장의 사진'",
+      "description": "뉴스8이 선정한 '이 한 장의 사진'입니다.\n\n북한도 오늘은 추석입니다. \n\n하지만 연휴는 없고, 딱 오늘 하루만 휴일입니다. \n\n북한의 10월 달력에서 또 주목되는 건 10일, 북한의 노동당 창건일입니다.\n\n이 날을 전후해 북한이 또 도발할 수 있다는 불안감이 점점 커지고 있죠. \n\n같은 추석달을 보며 이런 불안감을 가질 수 밖에 없는 현실이 안타깝습니다.",
+      "publishedAt": "2017-10-04T13:22:07Z",
+      "duration": "PT35S",
+      "viewCount": 687,
+      "likeCount": 3,
+      "commentCount": 1,
+      "tags": [],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2017-10-04T13:22:07Z",
+      "channelId": "UCG9aFJTZ-lMCHAiO1KJsirg",
+      "channelName": "MBN News",
+      "collectedAt": "2025-08-27T19:05:23Z"
     }
   },
   "channels": {
@@ -685,9 +702,36 @@
       "viewCount": 6198116921,
       "videoCount": 143713,
       "lastUpdated": "2025-08-26T12:49:56.260164Z"
+    },
+    "UCG9aFJTZ-lMCHAiO1KJsirg": {
+      "channelId": "UCG9aFJTZ-lMCHAiO1KJsirg",
+      "channelName": "MBN News",
+      "channelUrl": "@mbn",
+      "channelDescription": "「공정 신뢰 품격」이 있는 MBN 뉴스 ! \n유튜브 MBN NEWS로 여러분께 한발 더 다가갑니다.",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/UBR0COW1X-RPnea8iGVXy6Jl3iOMhEASJHVDOlR7GJ9G0N4d0B1CCWPPATal58moPvAz4SBrFA=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/UBR0COW1X-RPnea8iGVXy6Jl3iOMhEASJHVDOlR7GJ9G0N4d0B1CCWPPATal58moPvAz4SBrFA=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/UBR0COW1X-RPnea8iGVXy6Jl3iOMhEASJHVDOlR7GJ9G0N4d0B1CCWPPATal58moPvAz4SBrFA=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 2490000,
+      "viewCount": 3277338867,
+      "videoCount": 233128,
+      "lastUpdated": "2025-08-27T19:05:23.955019Z"
     }
   },
-  "lastUpdated": "2025-08-26T12:49:56.260164Z",
-  "totalVideos": 23,
-  "totalChannels": 5
+  "lastUpdated": "2025-08-27T19:05:23.955019Z",
+  "totalVideos": 24,
+  "totalChannels": 6
 }

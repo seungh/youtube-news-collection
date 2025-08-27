@@ -2169,6 +2169,23 @@
       "channelId": "UCfq4V1DAuaojnr2ryvWNysw",
       "channelName": "채널A News",
       "collectedAt": "2025-08-26T12:49:51Z"
+    },
+    "e5C42ko11fU": {
+      "videoId": "e5C42ko11fU",
+      "title": "김주하의 8월 31일 '이 한 장의 사진'",
+      "description": "최근 미국을 강타한 허리케인 하비 때문에 영원히 이별한 엄마와 세 살 난 딸입니다.\n주차장으로 들이닥친 물에 엄마는 아이를 등에 업어 살리고, 자신은 익사를 했다고 합니다.\n엄마 등에 매달려 덜덜 떠는 모습으로 발견된 딸….\n세상이 변했다, 험하다 해도 모성애는 위대합니다.\n'이 한장의 사진' 더 보기\n☞ http://me2.do/GRbr5mCd",
+      "publishedAt": "2017-08-31T12:25:18Z",
+      "duration": "PT34S",
+      "viewCount": 399,
+      "likeCount": 1,
+      "commentCount": 1,
+      "tags": [],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2017-08-31T12:25:18Z",
+      "channelId": "UCG9aFJTZ-lMCHAiO1KJsirg",
+      "channelName": "MBN News",
+      "collectedAt": "2025-08-27T19:05:23Z"
     }
   },
   "channels": {
@@ -2333,9 +2350,36 @@
       "viewCount": 6198116921,
       "videoCount": 143713,
       "lastUpdated": "2025-08-26T12:49:51.119236Z"
+    },
+    "UCG9aFJTZ-lMCHAiO1KJsirg": {
+      "channelId": "UCG9aFJTZ-lMCHAiO1KJsirg",
+      "channelName": "MBN News",
+      "channelUrl": "@mbn",
+      "channelDescription": "「공정 신뢰 품격」이 있는 MBN 뉴스 ! \n유튜브 MBN NEWS로 여러분께 한발 더 다가갑니다.",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/UBR0COW1X-RPnea8iGVXy6Jl3iOMhEASJHVDOlR7GJ9G0N4d0B1CCWPPATal58moPvAz4SBrFA=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/UBR0COW1X-RPnea8iGVXy6Jl3iOMhEASJHVDOlR7GJ9G0N4d0B1CCWPPATal58moPvAz4SBrFA=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/UBR0COW1X-RPnea8iGVXy6Jl3iOMhEASJHVDOlR7GJ9G0N4d0B1CCWPPATal58moPvAz4SBrFA=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 2490000,
+      "viewCount": 3277338867,
+      "videoCount": 233128,
+      "lastUpdated": "2025-08-27T19:05:23.979944Z"
     }
   },
-  "lastUpdated": "2025-08-26T12:49:51.120234Z",
-  "totalVideos": 72,
-  "totalChannels": 6
+  "lastUpdated": "2025-08-27T19:05:23.979944Z",
+  "totalVideos": 73,
+  "totalChannels": 7
 }

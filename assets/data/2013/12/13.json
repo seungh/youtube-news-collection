@@ -115,6 +115,32 @@
       "channelId": "UC4Aa3OPkMenwTANpf0oWVRQ",
       "channelName": "CBS 김현정의 뉴스쇼",
       "collectedAt": "2025-08-22T14:03:34Z"
+    },
+    "3ANNTHGQUmY": {
+      "videoId": "3ANNTHGQUmY",
+      "title": "北, 장성택 처형 직전 끌려나가는 장면까지 공개 / YTN",
+      "description": "[YTN 기사원문] http://www.ytn.co.kr/_ln/0101_201312132219320345\n[앵커]북한이 장성택 전 국방위원회 부위원장에 대해 특별군사재판을 열고 사형을 판결한 뒤 곧바로 처형했습니다.지난 8일 당 정치국 확대회의에서 숙청이 공개된 지 나흘 만에 전격적으로 이뤄진 겁니다.김준영 기자의 보도입니다.[기자]북한 장성택의 처형 직전 모습입니다.법정에서 국가안전보위부 요원들에게 형장으로...",
+      "publishedAt": "2013-12-13T14:55:45Z",
+      "duration": "PT2M40S",
+      "viewCount": 5398928,
+      "likeCount": 8999,
+      "commentCount": 1790,
+      "tags": [
+        "한국",
+        "Korea",
+        "북한",
+        "YTN",
+        "North Korea",
+        "탈북",
+        "정치",
+        "뉴스"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2013-12-13T14:55:45Z",
+      "channelId": "UChlgI3UHCOnwUGzWzbJ3H5w",
+      "channelName": " YTN",
+      "collectedAt": "2025-08-27T19:04:10Z"
     }
   },
   "channels": {
@@ -171,9 +197,36 @@
       "viewCount": 1280577570,
       "videoCount": 19124,
       "lastUpdated": "2025-08-24T21:55:11.512085Z"
+    },
+    "UChlgI3UHCOnwUGzWzbJ3H5w": {
+      "channelId": "UChlgI3UHCOnwUGzWzbJ3H5w",
+      "channelName": " YTN",
+      "channelUrl": "@ytnnews24",
+      "channelDescription": "24시간 생중계되는 대한민국 대표 뉴스\nYTN 공식채널을 지금 바로 구독하세요\n\n▶ 구독하기 : http://goo.gl/Ytb5SZ\n\n▶ YTN 기사제보 안내\n- 홈페이지: https://mj.ytn.co.kr/mj/mj_write.php?sort=0\n- 모바일: YTN 앱의 제보하기\n- 이메일: social@ytn.co.kr\n- 전화: 02-398-8282 또는 8585 \n\n▶ 라이브 스트리밍 대체광고 및 콘텐츠 협업 문의\n - 이메일 : ljk@ytn.co.kr\n\n▶ 영상 사용 및 구매 문의\n - https://www.ytn.co.kr/business/sell_program.php\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/Sd77hfGXNh1K4VgLCnYVrzWVkUKh04N5VDClPweoP-sbaZXzH3llUz2W1N_-Z4RX5_XauYpvSQ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/Sd77hfGXNh1K4VgLCnYVrzWVkUKh04N5VDClPweoP-sbaZXzH3llUz2W1N_-Z4RX5_XauYpvSQ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/Sd77hfGXNh1K4VgLCnYVrzWVkUKh04N5VDClPweoP-sbaZXzH3llUz2W1N_-Z4RX5_XauYpvSQ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 5150000,
+      "viewCount": 17635969172,
+      "videoCount": 889907,
+      "lastUpdated": "2025-08-27T19:04:10.065713Z"
     }
   },
-  "lastUpdated": "2025-08-24T21:55:11.513082Z",
-  "totalVideos": 4,
-  "totalChannels": 2
+  "lastUpdated": "2025-08-27T19:04:10.065713Z",
+  "totalVideos": 5,
+  "totalChannels": 3
 }

@@ -204,6 +204,27 @@
       "channelId": "UC4Aa3OPkMenwTANpf0oWVRQ",
       "channelName": "CBS 김현정의 뉴스쇼",
       "collectedAt": "2025-08-22T14:03:32Z"
+    },
+    "ICM2mi8wpQs": {
+      "videoId": "ICM2mi8wpQs",
+      "title": "'사냥당할 것인가?, 사냥할 것인가?'...'유아 넥스트' / YTN",
+      "description": "[YTN 기사원문] http://www.ytn.co.kr/_pn/0109_201403311218591852\n긴장감을 놓칠 수 없는 공포와 통쾌하고 짜릿한 서바이벌 액션이 어우러진 영화 '유아 넥스트'의 메인 예고편이 공개됐습니다.영화 '유아 넥스트'는 정체불명의 괴한으로부터 무차별 공격을 받게 된 '에린(샤니 빈슨)'이 살인마에게 통쾌한 반격을 가하며 벌어지는 이야기를 그린 작품입니다.부모님의 결혼기념일을 축하하...",
+      "publishedAt": "2014-03-31T04:24:00Z",
+      "duration": "PT1M55S",
+      "viewCount": 613,
+      "likeCount": 1,
+      "commentCount": 0,
+      "tags": [
+        "YTN",
+        "프로그램",
+        "미공개 영상"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2014-03-31T04:24:00Z",
+      "channelId": "UChlgI3UHCOnwUGzWzbJ3H5w",
+      "channelName": " YTN",
+      "collectedAt": "2025-08-27T19:05:19Z"
     }
   },
   "channels": {
@@ -260,9 +281,36 @@
       "viewCount": 1280577570,
       "videoCount": 19124,
       "lastUpdated": "2025-08-24T21:55:08.103084Z"
+    },
+    "UChlgI3UHCOnwUGzWzbJ3H5w": {
+      "channelId": "UChlgI3UHCOnwUGzWzbJ3H5w",
+      "channelName": " YTN",
+      "channelUrl": "@ytnnews24",
+      "channelDescription": "24시간 생중계되는 대한민국 대표 뉴스\nYTN 공식채널을 지금 바로 구독하세요\n\n▶ 구독하기 : http://goo.gl/Ytb5SZ\n\n▶ YTN 기사제보 안내\n- 홈페이지: https://mj.ytn.co.kr/mj/mj_write.php?sort=0\n- 모바일: YTN 앱의 제보하기\n- 이메일: social@ytn.co.kr\n- 전화: 02-398-8282 또는 8585 \n\n▶ 라이브 스트리밍 대체광고 및 콘텐츠 협업 문의\n - 이메일 : ljk@ytn.co.kr\n\n▶ 영상 사용 및 구매 문의\n - https://www.ytn.co.kr/business/sell_program.php\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/Sd77hfGXNh1K4VgLCnYVrzWVkUKh04N5VDClPweoP-sbaZXzH3llUz2W1N_-Z4RX5_XauYpvSQ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/Sd77hfGXNh1K4VgLCnYVrzWVkUKh04N5VDClPweoP-sbaZXzH3llUz2W1N_-Z4RX5_XauYpvSQ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/Sd77hfGXNh1K4VgLCnYVrzWVkUKh04N5VDClPweoP-sbaZXzH3llUz2W1N_-Z4RX5_XauYpvSQ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 5150000,
+      "viewCount": 17635969172,
+      "videoCount": 889907,
+      "lastUpdated": "2025-08-27T19:05:19.861960Z"
     }
   },
-  "lastUpdated": "2025-08-24T21:55:08.109071Z",
-  "totalVideos": 8,
-  "totalChannels": 2
+  "lastUpdated": "2025-08-27T19:05:19.862957Z",
+  "totalVideos": 9,
+  "totalChannels": 3
 }

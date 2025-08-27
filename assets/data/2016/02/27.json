@@ -447,6 +447,27 @@
       "channelId": "UCfq4V1DAuaojnr2ryvWNysw",
       "channelName": "채널A News",
       "collectedAt": "2025-08-26T12:50:18Z"
+    },
+    "oPEmXAZOUyU": {
+      "videoId": "oPEmXAZOUyU",
+      "title": "2월 27일 시청자의 눈 / YTN",
+      "description": "시청자 여러분 안녕하십니까?\n\n시청자들을 위한 YTN 옴부즈만 프로그램 '시청자의 눈'입니다.\n\n1. 2월 시청자위원회\n\n이번 주에는 지난 23일에 있었던 'YTN 2월 시청자위원회' 소식부터 전해드리겠습니다.\n \n이번엔 '뉴스출발'과 'YTN 뉴스' 전반에 대한 의견을 나눴습니다.\n\n2. 내가 본 마이티엔\n\n지상파 디엠비 채널인 YTN DMB 프로그램을 평가하는 '내가 본 마이티엔' 순서입니다. \n\n이번 주엔 '이지 사이언스'와 '신율의 시사탕탕'에 대한 곽정래 평가원의 의견을 들어보겠습니다.\n\n▶ 기사 원문 : http://www.ytn.co.kr/_pn/0429_201602270028268083\n▶ 제보 안내 : http://goo.gl/gEvsAL, 모바일앱, 8585@ytn.co.kr, #2424\n\n▣ YTN 유튜브 채널 구독 : http://goo.gl/Ytb5SZ\n\n[ 한국 뉴스 채널 와이티엔 / Korea News Channel YTN ]",
+      "publishedAt": "2016-02-26T17:44:41Z",
+      "duration": "PT25M11S",
+      "viewCount": 557,
+      "likeCount": 1,
+      "commentCount": 0,
+      "tags": [
+        "YTN",
+        "프로그램",
+        "시청자의 눈"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2016-02-26T17:44:41Z",
+      "channelId": "UChlgI3UHCOnwUGzWzbJ3H5w",
+      "channelName": " YTN",
+      "collectedAt": "2025-08-27T19:05:01Z"
     }
   },
   "channels": {
@@ -557,9 +578,36 @@
       "viewCount": 6198116921,
       "videoCount": 143713,
       "lastUpdated": "2025-08-26T12:50:18.270134Z"
+    },
+    "UChlgI3UHCOnwUGzWzbJ3H5w": {
+      "channelId": "UChlgI3UHCOnwUGzWzbJ3H5w",
+      "channelName": " YTN",
+      "channelUrl": "@ytnnews24",
+      "channelDescription": "24시간 생중계되는 대한민국 대표 뉴스\nYTN 공식채널을 지금 바로 구독하세요\n\n▶ 구독하기 : http://goo.gl/Ytb5SZ\n\n▶ YTN 기사제보 안내\n- 홈페이지: https://mj.ytn.co.kr/mj/mj_write.php?sort=0\n- 모바일: YTN 앱의 제보하기\n- 이메일: social@ytn.co.kr\n- 전화: 02-398-8282 또는 8585 \n\n▶ 라이브 스트리밍 대체광고 및 콘텐츠 협업 문의\n - 이메일 : ljk@ytn.co.kr\n\n▶ 영상 사용 및 구매 문의\n - https://www.ytn.co.kr/business/sell_program.php\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/Sd77hfGXNh1K4VgLCnYVrzWVkUKh04N5VDClPweoP-sbaZXzH3llUz2W1N_-Z4RX5_XauYpvSQ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/Sd77hfGXNh1K4VgLCnYVrzWVkUKh04N5VDClPweoP-sbaZXzH3llUz2W1N_-Z4RX5_XauYpvSQ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/Sd77hfGXNh1K4VgLCnYVrzWVkUKh04N5VDClPweoP-sbaZXzH3llUz2W1N_-Z4RX5_XauYpvSQ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 5150000,
+      "viewCount": 17635969172,
+      "videoCount": 889907,
+      "lastUpdated": "2025-08-27T19:05:01.009424Z"
     }
   },
-  "lastUpdated": "2025-08-26T12:50:18.271900Z",
-  "totalVideos": 15,
-  "totalChannels": 4
+  "lastUpdated": "2025-08-27T19:05:01.010164Z",
+  "totalVideos": 16,
+  "totalChannels": 5
 }

@@ -760,6 +760,48 @@
       "channelId": "UCfq4V1DAuaojnr2ryvWNysw",
       "channelName": "채널A News",
       "collectedAt": "2025-08-26T12:50:31Z"
+    },
+    "vutsijVg6zw": {
+      "videoId": "vutsijVg6zw",
+      "title": "'전기를 통제하는 디스토피아'...'일렉트릭시티' / YTN",
+      "description": "[YTN 기사원문] http://www.ytn.co.kr/_pn/0109_201406111601583970\n톰 행크스가 감독을 맡아 화제를 모으고 있는 애니메이션 '일렉트릭시티'가 6월 12일 개봉을 확정 짓고 예고편을 공개했다.'일렉트릭시티'는 개인이 마음대로 전기를 생산하거나 사용할 수 없는, 즉 전기에 의해 통제되는 사회 '일렉트릭시티'를 배경으로 한 작품.일렉트릭시티의 통제를 유지하려는 정부와 메시지가 담긴 ...",
+      "publishedAt": "2014-06-11T07:08:30Z",
+      "duration": "PT29S",
+      "viewCount": 635,
+      "likeCount": 6,
+      "commentCount": 0,
+      "tags": [
+        "YTN",
+        "프로그램",
+        "미공개 영상"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2014-06-11T07:08:30Z",
+      "channelId": "UChlgI3UHCOnwUGzWzbJ3H5w",
+      "channelName": " YTN",
+      "collectedAt": "2025-08-27T19:05:19Z"
+    },
+    "sRykvu0wp0k": {
+      "videoId": "sRykvu0wp0k",
+      "title": "'인간과 좀비의 쫓고 쫓기는 추격전'...'코드 레드' / YTN",
+      "description": "[YTN 기사원문] http://www.ytn.co.kr/_pn/0109_201406111408448070\n'월드워Z' 제작진이 호흡을 맞춘 재난 영화 '코드 레드'가 6월 19일 개봉을 확정 짓고 예고편을 공개했다영화 '코드 레드'는 제2차 세계대전 당시 기밀 사항이었던 생화학 무기가 70년 만에 분출되면서 벌어지는 이야기를 그린 작품.특수요원 존과 군의관 안나가 폐쇄된 감염지역을 탈출하기 위해 좀비 군단을 상대로 사투...",
+      "publishedAt": "2014-06-11T06:02:20Z",
+      "duration": "PT1M",
+      "viewCount": 3633,
+      "likeCount": 3,
+      "commentCount": 0,
+      "tags": [
+        "YTN",
+        "프로그램",
+        "미공개 영상"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2014-06-11T06:02:20Z",
+      "channelId": "UChlgI3UHCOnwUGzWzbJ3H5w",
+      "channelName": " YTN",
+      "collectedAt": "2025-08-27T19:05:19Z"
     }
   },
   "channels": {
@@ -870,9 +912,36 @@
       "viewCount": 6198116921,
       "videoCount": 143713,
       "lastUpdated": "2025-08-26T12:50:31.337069Z"
+    },
+    "UChlgI3UHCOnwUGzWzbJ3H5w": {
+      "channelId": "UChlgI3UHCOnwUGzWzbJ3H5w",
+      "channelName": " YTN",
+      "channelUrl": "@ytnnews24",
+      "channelDescription": "24시간 생중계되는 대한민국 대표 뉴스\nYTN 공식채널을 지금 바로 구독하세요\n\n▶ 구독하기 : http://goo.gl/Ytb5SZ\n\n▶ YTN 기사제보 안내\n- 홈페이지: https://mj.ytn.co.kr/mj/mj_write.php?sort=0\n- 모바일: YTN 앱의 제보하기\n- 이메일: social@ytn.co.kr\n- 전화: 02-398-8282 또는 8585 \n\n▶ 라이브 스트리밍 대체광고 및 콘텐츠 협업 문의\n - 이메일 : ljk@ytn.co.kr\n\n▶ 영상 사용 및 구매 문의\n - https://www.ytn.co.kr/business/sell_program.php\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/Sd77hfGXNh1K4VgLCnYVrzWVkUKh04N5VDClPweoP-sbaZXzH3llUz2W1N_-Z4RX5_XauYpvSQ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/Sd77hfGXNh1K4VgLCnYVrzWVkUKh04N5VDClPweoP-sbaZXzH3llUz2W1N_-Z4RX5_XauYpvSQ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/Sd77hfGXNh1K4VgLCnYVrzWVkUKh04N5VDClPweoP-sbaZXzH3llUz2W1N_-Z4RX5_XauYpvSQ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 5150000,
+      "viewCount": 17635969172,
+      "videoCount": 889907,
+      "lastUpdated": "2025-08-27T19:05:19.642610Z"
     }
   },
-  "lastUpdated": "2025-08-26T12:50:31.337069Z",
-  "totalVideos": 23,
-  "totalChannels": 4
+  "lastUpdated": "2025-08-27T19:05:19.642610Z",
+  "totalVideos": 25,
+  "totalChannels": 5
 }

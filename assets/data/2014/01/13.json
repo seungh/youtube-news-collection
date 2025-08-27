@@ -200,6 +200,48 @@
       "channelId": "UC4Aa3OPkMenwTANpf0oWVRQ",
       "channelName": "CBS 김현정의 뉴스쇼",
       "collectedAt": "2025-08-22T14:03:34Z"
+    },
+    "zKPqrqTLoV8": {
+      "videoId": "zKPqrqTLoV8",
+      "title": "직지심체요절 (유네스코 등재) / YTN",
+      "description": "[YTN 기사원문] http://www.ytn.co.kr/_pn/1016_201401130401521588\n직지심체요절 (유네스코 등재)",
+      "publishedAt": "2014-01-12T19:11:55Z",
+      "duration": "PT50S",
+      "viewCount": 1090,
+      "likeCount": 2,
+      "commentCount": 0,
+      "tags": [
+        "YTN",
+        "프로그램",
+        "테마영상"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2014-01-12T19:11:55Z",
+      "channelId": "UChlgI3UHCOnwUGzWzbJ3H5w",
+      "channelName": " YTN",
+      "collectedAt": "2025-08-27T19:05:14Z"
+    },
+    "K9udMTr3pbE": {
+      "videoId": "K9udMTr3pbE",
+      "title": "덕유산휴양림 / YTN",
+      "description": "[YTN 기사원문] http://www.ytn.co.kr/_pn/1016_201401130103035847\n전라북도 무주군 무풍면 구천동로 530-62 번지.덕유산자연휴양림은 덕유산 국립공원 연접지역으로 무주구천동 계곡입구로부터 4㎞지점에 위치하며, 낙엽송 및 잣나무가 울창하고 주변경관이 수려하여 휴식공간의 최적지로서 휴양림내 임도는 숲속 자전거 타기를 즐길 수 있고 인근 지역에 무주리조트, 덕유산 국립공원, 라...",
+      "publishedAt": "2014-01-12T16:12:26Z",
+      "duration": "PT50S",
+      "viewCount": 1477,
+      "likeCount": 0,
+      "commentCount": 0,
+      "tags": [
+        "YTN",
+        "프로그램",
+        "테마영상"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2014-01-12T16:12:26Z",
+      "channelId": "UChlgI3UHCOnwUGzWzbJ3H5w",
+      "channelName": " YTN",
+      "collectedAt": "2025-08-27T19:05:14Z"
     }
   },
   "channels": {
@@ -256,9 +298,36 @@
       "viewCount": 1280577570,
       "videoCount": 19124,
       "lastUpdated": "2025-08-24T21:55:10.539539Z"
+    },
+    "UChlgI3UHCOnwUGzWzbJ3H5w": {
+      "channelId": "UChlgI3UHCOnwUGzWzbJ3H5w",
+      "channelName": " YTN",
+      "channelUrl": "@ytnnews24",
+      "channelDescription": "24시간 생중계되는 대한민국 대표 뉴스\nYTN 공식채널을 지금 바로 구독하세요\n\n▶ 구독하기 : http://goo.gl/Ytb5SZ\n\n▶ YTN 기사제보 안내\n- 홈페이지: https://mj.ytn.co.kr/mj/mj_write.php?sort=0\n- 모바일: YTN 앱의 제보하기\n- 이메일: social@ytn.co.kr\n- 전화: 02-398-8282 또는 8585 \n\n▶ 라이브 스트리밍 대체광고 및 콘텐츠 협업 문의\n - 이메일 : ljk@ytn.co.kr\n\n▶ 영상 사용 및 구매 문의\n - https://www.ytn.co.kr/business/sell_program.php\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/Sd77hfGXNh1K4VgLCnYVrzWVkUKh04N5VDClPweoP-sbaZXzH3llUz2W1N_-Z4RX5_XauYpvSQ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/Sd77hfGXNh1K4VgLCnYVrzWVkUKh04N5VDClPweoP-sbaZXzH3llUz2W1N_-Z4RX5_XauYpvSQ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/Sd77hfGXNh1K4VgLCnYVrzWVkUKh04N5VDClPweoP-sbaZXzH3llUz2W1N_-Z4RX5_XauYpvSQ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 5150000,
+      "viewCount": 17635969172,
+      "videoCount": 889907,
+      "lastUpdated": "2025-08-27T19:05:14.564731Z"
     }
   },
-  "lastUpdated": "2025-08-24T21:55:10.539539Z",
-  "totalVideos": 6,
-  "totalChannels": 2
+  "lastUpdated": "2025-08-27T19:05:14.565729Z",
+  "totalVideos": 8,
+  "totalChannels": 3
 }

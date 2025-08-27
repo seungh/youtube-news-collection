@@ -222,6 +222,48 @@
       "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
       "channelName": "JTBC News",
       "collectedAt": "2025-08-25T21:08:24Z"
+    },
+    "g3bqK46-WYs": {
+      "videoId": "g3bqK46-WYs",
+      "title": "금강산도 (한국의 민화) / YTN",
+      "description": "[YTN 기사원문] http://www.ytn.co.kr/_pn/1016_201402240359562206\n금강산도 (한국의 민화)",
+      "publishedAt": "2014-02-23T19:13:52Z",
+      "duration": "PT50S",
+      "viewCount": 866,
+      "likeCount": 4,
+      "commentCount": 0,
+      "tags": [
+        "YTN",
+        "프로그램",
+        "테마영상"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2014-02-23T19:13:52Z",
+      "channelId": "UChlgI3UHCOnwUGzWzbJ3H5w",
+      "channelName": " YTN",
+      "collectedAt": "2025-08-27T19:05:14Z"
+    },
+    "A6Cm09gkQvA": {
+      "videoId": "A6Cm09gkQvA",
+      "title": "[한국의 휴양림] 국립검봉산자연휴양림 / YTN",
+      "description": "[YTN 기사원문] http://www.ytn.co.kr/_ln/0106_201402240059311806\n강원도 삼척시 원덕읍 임원안길 525-145번지검봉산(劍奉山)은 해발 681.6m 재량폭포를 휘몰아 승지골 천봉 사금산 응봉산 육백산으로 장쾌하게 연결되는 산능성길이는 그 웅장함을 가능할 수 있으며 MTB 매니아에겐 도전의 대상이되고 있다.산능선엔 철쭉과 솔붓꽃, 애기풀, 제비꽃등의 꽃들이 아기자기하게 피어 있다.검봉...",
+      "publishedAt": "2014-02-23T16:08:28Z",
+      "duration": "PT50S",
+      "viewCount": 1127,
+      "likeCount": 1,
+      "commentCount": 0,
+      "tags": [
+        "YTN",
+        "뉴스",
+        "문화"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2014-02-23T16:08:28Z",
+      "channelId": "UChlgI3UHCOnwUGzWzbJ3H5w",
+      "channelName": " YTN",
+      "collectedAt": "2025-08-27T19:05:14Z"
     }
   },
   "channels": {
@@ -305,9 +347,36 @@
       "viewCount": 14817048106,
       "videoCount": 261473,
       "lastUpdated": "2025-08-25T21:08:24.392517Z"
+    },
+    "UChlgI3UHCOnwUGzWzbJ3H5w": {
+      "channelId": "UChlgI3UHCOnwUGzWzbJ3H5w",
+      "channelName": " YTN",
+      "channelUrl": "@ytnnews24",
+      "channelDescription": "24시간 생중계되는 대한민국 대표 뉴스\nYTN 공식채널을 지금 바로 구독하세요\n\n▶ 구독하기 : http://goo.gl/Ytb5SZ\n\n▶ YTN 기사제보 안내\n- 홈페이지: https://mj.ytn.co.kr/mj/mj_write.php?sort=0\n- 모바일: YTN 앱의 제보하기\n- 이메일: social@ytn.co.kr\n- 전화: 02-398-8282 또는 8585 \n\n▶ 라이브 스트리밍 대체광고 및 콘텐츠 협업 문의\n - 이메일 : ljk@ytn.co.kr\n\n▶ 영상 사용 및 구매 문의\n - https://www.ytn.co.kr/business/sell_program.php\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/Sd77hfGXNh1K4VgLCnYVrzWVkUKh04N5VDClPweoP-sbaZXzH3llUz2W1N_-Z4RX5_XauYpvSQ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/Sd77hfGXNh1K4VgLCnYVrzWVkUKh04N5VDClPweoP-sbaZXzH3llUz2W1N_-Z4RX5_XauYpvSQ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/Sd77hfGXNh1K4VgLCnYVrzWVkUKh04N5VDClPweoP-sbaZXzH3llUz2W1N_-Z4RX5_XauYpvSQ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 5150000,
+      "viewCount": 17635969172,
+      "videoCount": 889907,
+      "lastUpdated": "2025-08-27T19:05:14.508634Z"
     }
   },
-  "lastUpdated": "2025-08-25T21:08:24.393513Z",
-  "totalVideos": 7,
-  "totalChannels": 3
+  "lastUpdated": "2025-08-27T19:05:14.508634Z",
+  "totalVideos": 9,
+  "totalChannels": 4
 }

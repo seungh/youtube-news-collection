@@ -83,6 +83,48 @@
       "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
       "channelName": "뉴스TVCHOSUN",
       "collectedAt": "2025-08-21T10:46:22Z"
+    },
+    "iQXzSHmGghc": {
+      "videoId": "iQXzSHmGghc",
+      "title": "도심 속 거리 박물관 / YTN",
+      "description": "[YTN 기사원문] http://www.ytn.co.kr/_pn/1204_201402152033164160\n도심 속 거리 박물관",
+      "publishedAt": "2014-02-15T19:12:43Z",
+      "duration": "PT35S",
+      "viewCount": 89,
+      "likeCount": 0,
+      "commentCount": 0,
+      "tags": [
+        "YTN",
+        "프로그램",
+        "글로벌 영상"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2014-02-15T19:12:43Z",
+      "channelId": "UChlgI3UHCOnwUGzWzbJ3H5w",
+      "channelName": " YTN",
+      "collectedAt": "2025-08-27T19:05:15Z"
+    },
+    "ZjkT-IQAu1w": {
+      "videoId": "ZjkT-IQAu1w",
+      "title": "'젓가락'을 문화 상품으로.. 박연옥 대표 / YTN",
+      "description": "[YTN 기사원문] http://www.ytn.co.kr/_pn/1202_201402152035115594\n[앵커]젓가락은 우리 식생활에서 절대 빼놓을 수 없는 것이죠. 그런데 너무나 가까이 있기 때문에 우리가 젓가락에 담겨 있는 이야기를 놓치고 있는 게 아닌가 하는 생각이 듭니다.오늘은 우리나라에서 처음으로 젓가락 갤러리를 연, 박연옥 대표와 함께 젓가락에 얽혀있는 다양한 이야기들을 풀어보도록 하겠습니다. 안녕...",
+      "publishedAt": "2014-02-15T19:25:31Z",
+      "duration": "PT6M35S",
+      "viewCount": 370,
+      "likeCount": 0,
+      "commentCount": 0,
+      "tags": [
+        "YTN",
+        "프로그램",
+        "코리안 커뮤니티"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2014-02-15T19:25:31Z",
+      "channelId": "UChlgI3UHCOnwUGzWzbJ3H5w",
+      "channelName": " YTN",
+      "collectedAt": "2025-08-27T19:05:15Z"
     }
   },
   "channels": {
@@ -112,9 +154,36 @@
       "viewCount": 4319423561,
       "videoCount": 150855,
       "lastUpdated": "2025-08-21T10:29:00.261697Z"
+    },
+    "UChlgI3UHCOnwUGzWzbJ3H5w": {
+      "channelId": "UChlgI3UHCOnwUGzWzbJ3H5w",
+      "channelName": " YTN",
+      "channelUrl": "@ytnnews24",
+      "channelDescription": "24시간 생중계되는 대한민국 대표 뉴스\nYTN 공식채널을 지금 바로 구독하세요\n\n▶ 구독하기 : http://goo.gl/Ytb5SZ\n\n▶ YTN 기사제보 안내\n- 홈페이지: https://mj.ytn.co.kr/mj/mj_write.php?sort=0\n- 모바일: YTN 앱의 제보하기\n- 이메일: social@ytn.co.kr\n- 전화: 02-398-8282 또는 8585 \n\n▶ 라이브 스트리밍 대체광고 및 콘텐츠 협업 문의\n - 이메일 : ljk@ytn.co.kr\n\n▶ 영상 사용 및 구매 문의\n - https://www.ytn.co.kr/business/sell_program.php\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/Sd77hfGXNh1K4VgLCnYVrzWVkUKh04N5VDClPweoP-sbaZXzH3llUz2W1N_-Z4RX5_XauYpvSQ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/Sd77hfGXNh1K4VgLCnYVrzWVkUKh04N5VDClPweoP-sbaZXzH3llUz2W1N_-Z4RX5_XauYpvSQ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/Sd77hfGXNh1K4VgLCnYVrzWVkUKh04N5VDClPweoP-sbaZXzH3llUz2W1N_-Z4RX5_XauYpvSQ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 5150000,
+      "viewCount": 17635969172,
+      "videoCount": 889907,
+      "lastUpdated": "2025-08-27T19:05:15.306490Z"
     }
   },
-  "lastUpdated": "2025-08-21T10:46:22.410773Z",
-  "totalVideos": 3,
-  "totalChannels": 1
+  "lastUpdated": "2025-08-27T19:05:15.306490Z",
+  "totalVideos": 5,
+  "totalChannels": 2
 }

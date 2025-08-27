@@ -55,6 +55,48 @@
       "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
       "channelName": "뉴스TVCHOSUN",
       "collectedAt": "2025-08-21T10:46:22Z"
+    },
+    "SkP0k5OfnpA": {
+      "videoId": "SkP0k5OfnpA",
+      "title": "봄을 부르는 꽃 '활짝' / YTN",
+      "description": "[YTN 기사원문] http://www.ytn.co.kr/_pn/1204_201402061146252479\n봄을 부르는 꽃 '활짝'",
+      "publishedAt": "2014-02-08T19:22:11Z",
+      "duration": "PT34S",
+      "viewCount": 66,
+      "likeCount": 0,
+      "commentCount": 0,
+      "tags": [
+        "YTN",
+        "프로그램",
+        "글로벌 영상"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2014-02-08T19:22:11Z",
+      "channelId": "UChlgI3UHCOnwUGzWzbJ3H5w",
+      "channelName": " YTN",
+      "collectedAt": "2025-08-27T19:05:15Z"
+    },
+    "47cWC07ZWE8": {
+      "videoId": "47cWC07ZWE8",
+      "title": "한복 입고 세계 일주...사진 작가 전명진 / YTN",
+      "description": "[YTN 기사원문] http://www.ytn.co.kr/_pn/1202_201402061001288260\n[앵커] 젊은이들에게 기성세대는 '패기를 갖고 도전하라'는 말을 자주 하죠?대기업 입사 대신 한복을 입고 세계 50개국을 누빈 젊은이라면 이 '도전'이라는 말이 참 잘 어울리지 않을까 싶은데요. 오늘 초대석에는 여행하는 사진작가 전명진 씨를 초대했습니다. 안녕하세요![앵커]한복을 입고 세계를 여행하는 이른바 '한복...",
+      "publishedAt": "2014-02-08T19:15:11Z",
+      "duration": "PT6M59S",
+      "viewCount": 3478,
+      "likeCount": 24,
+      "commentCount": 1,
+      "tags": [
+        "YTN",
+        "프로그램",
+        "코리안 커뮤니티"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2014-02-08T19:15:11Z",
+      "channelId": "UChlgI3UHCOnwUGzWzbJ3H5w",
+      "channelName": " YTN",
+      "collectedAt": "2025-08-27T19:05:15Z"
     }
   },
   "channels": {
@@ -84,9 +126,36 @@
       "viewCount": 4319423561,
       "videoCount": 150855,
       "lastUpdated": "2025-08-21T10:29:00.320144Z"
+    },
+    "UChlgI3UHCOnwUGzWzbJ3H5w": {
+      "channelId": "UChlgI3UHCOnwUGzWzbJ3H5w",
+      "channelName": " YTN",
+      "channelUrl": "@ytnnews24",
+      "channelDescription": "24시간 생중계되는 대한민국 대표 뉴스\nYTN 공식채널을 지금 바로 구독하세요\n\n▶ 구독하기 : http://goo.gl/Ytb5SZ\n\n▶ YTN 기사제보 안내\n- 홈페이지: https://mj.ytn.co.kr/mj/mj_write.php?sort=0\n- 모바일: YTN 앱의 제보하기\n- 이메일: social@ytn.co.kr\n- 전화: 02-398-8282 또는 8585 \n\n▶ 라이브 스트리밍 대체광고 및 콘텐츠 협업 문의\n - 이메일 : ljk@ytn.co.kr\n\n▶ 영상 사용 및 구매 문의\n - https://www.ytn.co.kr/business/sell_program.php\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/Sd77hfGXNh1K4VgLCnYVrzWVkUKh04N5VDClPweoP-sbaZXzH3llUz2W1N_-Z4RX5_XauYpvSQ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/Sd77hfGXNh1K4VgLCnYVrzWVkUKh04N5VDClPweoP-sbaZXzH3llUz2W1N_-Z4RX5_XauYpvSQ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/Sd77hfGXNh1K4VgLCnYVrzWVkUKh04N5VDClPweoP-sbaZXzH3llUz2W1N_-Z4RX5_XauYpvSQ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 5150000,
+      "viewCount": 17635969172,
+      "videoCount": 889907,
+      "lastUpdated": "2025-08-27T19:05:15.313287Z"
     }
   },
-  "lastUpdated": "2025-08-21T10:46:22.550808Z",
-  "totalVideos": 2,
-  "totalChannels": 1
+  "lastUpdated": "2025-08-27T19:05:15.314906Z",
+  "totalVideos": 4,
+  "totalChannels": 2
 }

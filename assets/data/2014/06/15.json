@@ -195,6 +195,27 @@
       "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
       "channelName": "뉴스TVCHOSUN",
       "collectedAt": "2025-08-21T10:46:18Z"
+    },
+    "d4rpvDT1E28": {
+      "videoId": "d4rpvDT1E28",
+      "title": "한복디자이너 박술녀 / YTN",
+      "description": "[YTN 기사원문] http://www.ytn.co.kr/_pn/1202_201406120943529974\n[앵커]한국의 멋!'선'과 '색' 한복의 아름다움을 표현!대한민국 한복의 아름다움을 세계에 알리는 장인 '박술녀'박목월 시인의 시 '한복'에는 이런 구절이 있습니다.'품이 낭낭해서 좋다. 바지저고리에 두루막을 걸치면 그 푸근한 입성 옷 안에 내가 푹 싸이는 그 안도감은 어디에서 오는 걸까'우리의 정서와 문화가 고스란...",
+      "publishedAt": "2014-06-14T19:55:36Z",
+      "duration": "PT7M17S",
+      "viewCount": 5395,
+      "likeCount": 12,
+      "commentCount": 0,
+      "tags": [
+        "YTN",
+        "프로그램",
+        "코리안 커뮤니티"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2014-06-14T19:55:36Z",
+      "channelId": "UChlgI3UHCOnwUGzWzbJ3H5w",
+      "channelName": " YTN",
+      "collectedAt": "2025-08-27T19:05:15Z"
     }
   },
   "channels": {
@@ -224,9 +245,36 @@
       "viewCount": 4319423561,
       "videoCount": 150855,
       "lastUpdated": "2025-08-21T10:28:57.737223Z"
+    },
+    "UChlgI3UHCOnwUGzWzbJ3H5w": {
+      "channelId": "UChlgI3UHCOnwUGzWzbJ3H5w",
+      "channelName": " YTN",
+      "channelUrl": "@ytnnews24",
+      "channelDescription": "24시간 생중계되는 대한민국 대표 뉴스\nYTN 공식채널을 지금 바로 구독하세요\n\n▶ 구독하기 : http://goo.gl/Ytb5SZ\n\n▶ YTN 기사제보 안내\n- 홈페이지: https://mj.ytn.co.kr/mj/mj_write.php?sort=0\n- 모바일: YTN 앱의 제보하기\n- 이메일: social@ytn.co.kr\n- 전화: 02-398-8282 또는 8585 \n\n▶ 라이브 스트리밍 대체광고 및 콘텐츠 협업 문의\n - 이메일 : ljk@ytn.co.kr\n\n▶ 영상 사용 및 구매 문의\n - https://www.ytn.co.kr/business/sell_program.php\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/Sd77hfGXNh1K4VgLCnYVrzWVkUKh04N5VDClPweoP-sbaZXzH3llUz2W1N_-Z4RX5_XauYpvSQ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/Sd77hfGXNh1K4VgLCnYVrzWVkUKh04N5VDClPweoP-sbaZXzH3llUz2W1N_-Z4RX5_XauYpvSQ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/Sd77hfGXNh1K4VgLCnYVrzWVkUKh04N5VDClPweoP-sbaZXzH3llUz2W1N_-Z4RX5_XauYpvSQ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 5150000,
+      "viewCount": 17635969172,
+      "videoCount": 889907,
+      "lastUpdated": "2025-08-27T19:05:15.569208Z"
     }
   },
-  "lastUpdated": "2025-08-21T10:46:18.696024Z",
-  "totalVideos": 7,
-  "totalChannels": 1
+  "lastUpdated": "2025-08-27T19:05:15.569208Z",
+  "totalVideos": 8,
+  "totalChannels": 2
 }

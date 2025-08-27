@@ -190,6 +190,48 @@
       "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
       "channelName": "JTBC News",
       "collectedAt": "2025-08-25T21:08:24Z"
+    },
+    "59aDPkfXJuU": {
+      "videoId": "59aDPkfXJuU",
+      "title": "운현궁 전통음식축제 / YTN",
+      "description": "[YTN 기사원문] http://www.ytn.co.kr/_pn/1204_201310060832264359\n운현궁 전통음식축제",
+      "publishedAt": "2013-10-08T01:46:00Z",
+      "duration": "PT38S",
+      "viewCount": 45,
+      "likeCount": 0,
+      "commentCount": 0,
+      "tags": [
+        "YTN",
+        "프로그램",
+        "글로벌 영상"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2013-10-08T01:46:00Z",
+      "channelId": "UChlgI3UHCOnwUGzWzbJ3H5w",
+      "channelName": " YTN",
+      "collectedAt": "2025-08-27T19:05:15Z"
+    },
+    "s-b3URPdUGM": {
+      "videoId": "s-b3URPdUGM",
+      "title": "패션에 한글을 입히다...이상봉 디자이너 / YTN",
+      "description": "[YTN 기사원문] http://www.ytn.co.kr/_pn/1202_201310060832540326\n[앵커] 한글 패션 하면 가장 먼저 떠오르는 분이죠.우리 대한민국을 대표하는 이상봉 디자이너 나오셨습니다.안녕하세요.오늘도 트레이드 마크인 둥근 안경을 쓰고 나오셨네요. 요즘에는 파리컬렉션 하고 참 바쁘시죠?[앵커]정말 바쁘시네요. 더 인터뷰에 응해주신걸 감사하게 생각해야 되는...[앵커]처음에 한글을 패션에 ...",
+      "publishedAt": "2013-10-08T01:58:51Z",
+      "duration": "PT6M41S",
+      "viewCount": 1777,
+      "likeCount": 10,
+      "commentCount": 0,
+      "tags": [
+        "YTN",
+        "프로그램",
+        "코리안 커뮤니티"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2013-10-08T01:58:51Z",
+      "channelId": "UChlgI3UHCOnwUGzWzbJ3H5w",
+      "channelName": " YTN",
+      "collectedAt": "2025-08-27T19:05:15Z"
     }
   },
   "channels": {
@@ -273,9 +315,36 @@
       "viewCount": 14817048106,
       "videoCount": 261473,
       "lastUpdated": "2025-08-25T21:08:24.916114Z"
+    },
+    "UChlgI3UHCOnwUGzWzbJ3H5w": {
+      "channelId": "UChlgI3UHCOnwUGzWzbJ3H5w",
+      "channelName": " YTN",
+      "channelUrl": "@ytnnews24",
+      "channelDescription": "24시간 생중계되는 대한민국 대표 뉴스\nYTN 공식채널을 지금 바로 구독하세요\n\n▶ 구독하기 : http://goo.gl/Ytb5SZ\n\n▶ YTN 기사제보 안내\n- 홈페이지: https://mj.ytn.co.kr/mj/mj_write.php?sort=0\n- 모바일: YTN 앱의 제보하기\n- 이메일: social@ytn.co.kr\n- 전화: 02-398-8282 또는 8585 \n\n▶ 라이브 스트리밍 대체광고 및 콘텐츠 협업 문의\n - 이메일 : ljk@ytn.co.kr\n\n▶ 영상 사용 및 구매 문의\n - https://www.ytn.co.kr/business/sell_program.php\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/Sd77hfGXNh1K4VgLCnYVrzWVkUKh04N5VDClPweoP-sbaZXzH3llUz2W1N_-Z4RX5_XauYpvSQ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/Sd77hfGXNh1K4VgLCnYVrzWVkUKh04N5VDClPweoP-sbaZXzH3llUz2W1N_-Z4RX5_XauYpvSQ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/Sd77hfGXNh1K4VgLCnYVrzWVkUKh04N5VDClPweoP-sbaZXzH3llUz2W1N_-Z4RX5_XauYpvSQ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 5150000,
+      "viewCount": 17635969172,
+      "videoCount": 889907,
+      "lastUpdated": "2025-08-27T19:05:15.408624Z"
     }
   },
-  "lastUpdated": "2025-08-25T21:08:24.917112Z",
-  "totalVideos": 6,
-  "totalChannels": 3
+  "lastUpdated": "2025-08-27T19:05:15.408624Z",
+  "totalVideos": 8,
+  "totalChannels": 4
 }

@@ -1,0 +1,78 @@
+{
+  "videos": {
+    "mENOZWu12YQ": {
+      "videoId": "mENOZWu12YQ",
+      "title": "겨울의 길목에서...남이섬 / YTN",
+      "description": "[YTN 기사원문] http://www.ytn.co.kr/_pn/1204_201311301923482100\n겨울의 길목에서...남이섬",
+      "publishedAt": "2013-12-01T08:28:35Z",
+      "duration": "PT34S",
+      "viewCount": 307,
+      "likeCount": 1,
+      "commentCount": 0,
+      "tags": [
+        "YTN",
+        "프로그램",
+        "글로벌 영상"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2013-12-01T08:28:35Z",
+      "channelId": "UChlgI3UHCOnwUGzWzbJ3H5w",
+      "channelName": " YTN",
+      "collectedAt": "2025-08-27T19:05:15Z"
+    },
+    "sNX3uYptpBY": {
+      "videoId": "sNX3uYptpBY",
+      "title": "대한택견연맹 회장 이용복 / YTN",
+      "description": "[YTN 기사원문] http://www.ytn.co.kr/_pn/1202_201311301941171346\n[앵커]우리의 전통무예 택견을 전 세계에 알리기 위해 힘쓰는 분입니다.대한택견연맹 이용복 회장 나오셨습니다.안녕하세요.[인터뷰]네, 반갑습니다.[앵커]많은 민속학자가 택견의 기원을 삼국시대 이전으로 보던데요.오랜 역사를 가진 택견을 어떤 무술이라고 설명할 수 있을까요?[인터뷰]택견은 원시시대 때부터 우리 민...",
+      "publishedAt": "2013-12-01T08:40:50Z",
+      "duration": "PT6M53S",
+      "viewCount": 2703,
+      "likeCount": 15,
+      "commentCount": 7,
+      "tags": [
+        "YTN",
+        "프로그램",
+        "코리안 커뮤니티"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2013-12-01T08:40:50Z",
+      "channelId": "UChlgI3UHCOnwUGzWzbJ3H5w",
+      "channelName": " YTN",
+      "collectedAt": "2025-08-27T19:05:15Z"
+    }
+  },
+  "channels": {
+    "UChlgI3UHCOnwUGzWzbJ3H5w": {
+      "channelId": "UChlgI3UHCOnwUGzWzbJ3H5w",
+      "channelName": " YTN",
+      "channelUrl": "@ytnnews24",
+      "channelDescription": "24시간 생중계되는 대한민국 대표 뉴스\nYTN 공식채널을 지금 바로 구독하세요\n\n▶ 구독하기 : http://goo.gl/Ytb5SZ\n\n▶ YTN 기사제보 안내\n- 홈페이지: https://mj.ytn.co.kr/mj/mj_write.php?sort=0\n- 모바일: YTN 앱의 제보하기\n- 이메일: social@ytn.co.kr\n- 전화: 02-398-8282 또는 8585 \n\n▶ 라이브 스트리밍 대체광고 및 콘텐츠 협업 문의\n - 이메일 : ljk@ytn.co.kr\n\n▶ 영상 사용 및 구매 문의\n - https://www.ytn.co.kr/business/sell_program.php\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/Sd77hfGXNh1K4VgLCnYVrzWVkUKh04N5VDClPweoP-sbaZXzH3llUz2W1N_-Z4RX5_XauYpvSQ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/Sd77hfGXNh1K4VgLCnYVrzWVkUKh04N5VDClPweoP-sbaZXzH3llUz2W1N_-Z4RX5_XauYpvSQ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/Sd77hfGXNh1K4VgLCnYVrzWVkUKh04N5VDClPweoP-sbaZXzH3llUz2W1N_-Z4RX5_XauYpvSQ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 5150000,
+      "viewCount": 17635969172,
+      "videoCount": 889907,
+      "lastUpdated": "2025-08-27T19:05:15.354490Z"
+    }
+  },
+  "lastUpdated": "2025-08-27T19:05:15.355487Z",
+  "totalVideos": 2,
+  "totalChannels": 1
+}

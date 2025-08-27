@@ -139,6 +139,48 @@
       "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
       "channelName": "뉴스TVCHOSUN",
       "collectedAt": "2025-08-21T10:46:29Z"
+    },
+    "VMORnQXrpKU": {
+      "videoId": "VMORnQXrpKU",
+      "title": "국립중앙박물관 전시회 / YTN",
+      "description": "[YTN 기사원문] http://www.ytn.co.kr/_pn/1204_201401110806511750\n국립중앙박물관 전시회",
+      "publishedAt": "2014-01-11T19:12:37Z",
+      "duration": "PT36S",
+      "viewCount": 210,
+      "likeCount": 0,
+      "commentCount": 0,
+      "tags": [
+        "YTN",
+        "프로그램",
+        "글로벌 영상"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2014-01-11T19:12:37Z",
+      "channelId": "UChlgI3UHCOnwUGzWzbJ3H5w",
+      "channelName": " YTN",
+      "collectedAt": "2025-08-27T19:05:15Z"
+    },
+    "PqudXRoJ2jg": {
+      "videoId": "PqudXRoJ2jg",
+      "title": "한글지킴이 방송인 서경석 / YTN",
+      "description": "[YTN 기사원문] http://www.ytn.co.kr/_pn/1202_201401110810415823\n[앵커]공부면 공부, 예능이면 예능. 정말 다재다능한 방송인이 전 세계에 한글을 전파하는데 힘쓰고 있습니다.방송인 서경석 씨 나오셨습니다. 안녕하세요.[인터뷰]안녕하세요. 반갑습니다. [앵커]요즘에 정말 바쁘시죠?[인터뷰]아닙니다. 적당해요.[앵커]군대도 자주 갔다 오시고요.[인터뷰]네, 한 달에 한 번씩 가죠.[앵...",
+      "publishedAt": "2014-01-11T19:35:14Z",
+      "duration": "PT6M48S",
+      "viewCount": 441,
+      "likeCount": 0,
+      "commentCount": 0,
+      "tags": [
+        "YTN",
+        "프로그램",
+        "코리안 커뮤니티"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2014-01-11T19:35:14Z",
+      "channelId": "UChlgI3UHCOnwUGzWzbJ3H5w",
+      "channelName": " YTN",
+      "collectedAt": "2025-08-27T19:05:15Z"
     }
   },
   "channels": {
@@ -168,9 +210,36 @@
       "viewCount": 4319423561,
       "videoCount": 150855,
       "lastUpdated": "2025-08-21T10:29:06.126945Z"
+    },
+    "UChlgI3UHCOnwUGzWzbJ3H5w": {
+      "channelId": "UChlgI3UHCOnwUGzWzbJ3H5w",
+      "channelName": " YTN",
+      "channelUrl": "@ytnnews24",
+      "channelDescription": "24시간 생중계되는 대한민국 대표 뉴스\nYTN 공식채널을 지금 바로 구독하세요\n\n▶ 구독하기 : http://goo.gl/Ytb5SZ\n\n▶ YTN 기사제보 안내\n- 홈페이지: https://mj.ytn.co.kr/mj/mj_write.php?sort=0\n- 모바일: YTN 앱의 제보하기\n- 이메일: social@ytn.co.kr\n- 전화: 02-398-8282 또는 8585 \n\n▶ 라이브 스트리밍 대체광고 및 콘텐츠 협업 문의\n - 이메일 : ljk@ytn.co.kr\n\n▶ 영상 사용 및 구매 문의\n - https://www.ytn.co.kr/business/sell_program.php\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/Sd77hfGXNh1K4VgLCnYVrzWVkUKh04N5VDClPweoP-sbaZXzH3llUz2W1N_-Z4RX5_XauYpvSQ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/Sd77hfGXNh1K4VgLCnYVrzWVkUKh04N5VDClPweoP-sbaZXzH3llUz2W1N_-Z4RX5_XauYpvSQ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/Sd77hfGXNh1K4VgLCnYVrzWVkUKh04N5VDClPweoP-sbaZXzH3llUz2W1N_-Z4RX5_XauYpvSQ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 5150000,
+      "viewCount": 17635969172,
+      "videoCount": 889907,
+      "lastUpdated": "2025-08-27T19:05:15.333999Z"
     }
   },
-  "lastUpdated": "2025-08-21T10:46:29.637045Z",
-  "totalVideos": 5,
-  "totalChannels": 1
+  "lastUpdated": "2025-08-27T19:05:15.333999Z",
+  "totalVideos": 7,
+  "totalChannels": 2
 }

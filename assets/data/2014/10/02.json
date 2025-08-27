@@ -1111,6 +1111,48 @@
       "channelId": "UCfq4V1DAuaojnr2ryvWNysw",
       "channelName": "채널A News",
       "collectedAt": "2025-08-26T12:50:28Z"
+    },
+    "GKJUT_WCAf8": {
+      "videoId": "GKJUT_WCAf8",
+      "title": "[돌발 플러스] 개인적인 방문 / YTN",
+      "description": "[YTN 기사원문] http://www.ytn.co.kr/_pn/0949_201410020920256576\n[돌발 플러스] 개인적인 방문",
+      "publishedAt": "2014-10-02T03:02:37Z",
+      "duration": "PT1M33S",
+      "viewCount": 303,
+      "likeCount": 1,
+      "commentCount": 0,
+      "tags": [
+        "YTN",
+        "프로그램",
+        "돌발 플러스"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2014-10-02T03:02:37Z",
+      "channelId": "UChlgI3UHCOnwUGzWzbJ3H5w",
+      "channelName": " YTN",
+      "collectedAt": "2025-08-27T19:05:16Z"
+    },
+    "4ixiojk4sfY": {
+      "videoId": "4ixiojk4sfY",
+      "title": "[아침신문 1면] \"정년 늘려야 해 청년 채용 줄입니다\" / YTN",
+      "description": "[YTN 기사원문] http://www.ytn.co.kr/_ln/0102_201410020554262588\n[앵커]오늘 신문입니다.우리가 중국이 설립을 주도하고 있는 아시아 인프라 투자은행에 올해 안에 가입하는 것을 미국의 압력에 유보했다는 내용입니다.외교장관 회담에서 미국이 이같이 요구하자, AIIB 가입을 적극 검토하던 정부 기류는 급선회했다고 합니다.청와대는 중국과의 실무 협의 중단을 지시했고요, 기획재정부...",
+      "publishedAt": "2014-10-01T21:24:54Z",
+      "duration": "PT2M43S",
+      "viewCount": 308,
+      "likeCount": 0,
+      "commentCount": 0,
+      "tags": [
+        "YTN",
+        "뉴스",
+        "경제"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2014-10-01T21:24:54Z",
+      "channelId": "UChlgI3UHCOnwUGzWzbJ3H5w",
+      "channelName": " YTN",
+      "collectedAt": "2025-08-27T19:05:16Z"
     }
   },
   "channels": {
@@ -1248,9 +1290,36 @@
       "viewCount": 6198116921,
       "videoCount": 143713,
       "lastUpdated": "2025-08-26T12:50:28.845245Z"
+    },
+    "UChlgI3UHCOnwUGzWzbJ3H5w": {
+      "channelId": "UChlgI3UHCOnwUGzWzbJ3H5w",
+      "channelName": " YTN",
+      "channelUrl": "@ytnnews24",
+      "channelDescription": "24시간 생중계되는 대한민국 대표 뉴스\nYTN 공식채널을 지금 바로 구독하세요\n\n▶ 구독하기 : http://goo.gl/Ytb5SZ\n\n▶ YTN 기사제보 안내\n- 홈페이지: https://mj.ytn.co.kr/mj/mj_write.php?sort=0\n- 모바일: YTN 앱의 제보하기\n- 이메일: social@ytn.co.kr\n- 전화: 02-398-8282 또는 8585 \n\n▶ 라이브 스트리밍 대체광고 및 콘텐츠 협업 문의\n - 이메일 : ljk@ytn.co.kr\n\n▶ 영상 사용 및 구매 문의\n - https://www.ytn.co.kr/business/sell_program.php\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/Sd77hfGXNh1K4VgLCnYVrzWVkUKh04N5VDClPweoP-sbaZXzH3llUz2W1N_-Z4RX5_XauYpvSQ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/Sd77hfGXNh1K4VgLCnYVrzWVkUKh04N5VDClPweoP-sbaZXzH3llUz2W1N_-Z4RX5_XauYpvSQ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/Sd77hfGXNh1K4VgLCnYVrzWVkUKh04N5VDClPweoP-sbaZXzH3llUz2W1N_-Z4RX5_XauYpvSQ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 5150000,
+      "viewCount": 17635969172,
+      "videoCount": 889907,
+      "lastUpdated": "2025-08-27T19:05:16.708435Z"
     }
   },
-  "lastUpdated": "2025-08-26T12:50:28.847883Z",
-  "totalVideos": 33,
-  "totalChannels": 5
+  "lastUpdated": "2025-08-27T19:05:16.708435Z",
+  "totalVideos": 35,
+  "totalChannels": 6
 }

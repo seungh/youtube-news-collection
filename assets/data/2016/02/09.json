@@ -240,6 +240,23 @@
       "channelId": "UCfq4V1DAuaojnr2ryvWNysw",
       "channelName": "채널A News",
       "collectedAt": "2025-08-26T12:50:18Z"
+    },
+    "Un8utGUWQSw": {
+      "videoId": "Un8utGUWQSw",
+      "title": "김주하의 2월 9일 '이 한 장의 사진'",
+      "description": "뉴스8이 선정한 '이 한 장의 사진'입니다.\n설을 마치고 서울로 돌아오는 사람들로 서울역이 가득차 있습니다. 하지만 이번 설도 어떤이에겐 힘들고 괴로웠을 수 있었겠지요. \n한국 여성민우회가 설 연휴를 앞두고 공개한 몇 장의 포스트잇을 보면 그 이유를 알 수 있습니다. 명절 때 마다 친척들이 물어오는 질문에 대한 스트레스가 느껴지는 말도 있고 여자에게만 집중되는 음식 장만과 뒷정리에 대한 불만. 시댁과 처가를 놓고 어디를 가야하는지에 대한 고민, 그리고 그저 푹 쉬고 싶다는 소망이 담긴 말까지….\n가족들이 오랜만에 만나 덕담을 나누는 설 명절이 언제부터인가 누군가에게는 스트레스 자체가 되고 있네요. 스트레스 없는 명절은 찾기 힘들텐데, 빨리 푸시길 기원하며 뉴스 마치겠습니다.\n카톡 친구 맺고 클로징 참여하기 ☞ http://me2.do/xJ0NdwMo",
+      "publishedAt": "2016-02-09T13:13:07Z",
+      "duration": "PT1M11S",
+      "viewCount": 214,
+      "likeCount": 0,
+      "commentCount": 0,
+      "tags": [],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2016-02-09T13:13:07Z",
+      "channelId": "UCG9aFJTZ-lMCHAiO1KJsirg",
+      "channelName": "MBN News",
+      "collectedAt": "2025-08-27T19:05:24Z"
     }
   },
   "channels": {
@@ -323,9 +340,36 @@
       "viewCount": 6198116921,
       "videoCount": 143713,
       "lastUpdated": "2025-08-26T12:50:18.421928Z"
+    },
+    "UCG9aFJTZ-lMCHAiO1KJsirg": {
+      "channelId": "UCG9aFJTZ-lMCHAiO1KJsirg",
+      "channelName": "MBN News",
+      "channelUrl": "@mbn",
+      "channelDescription": "「공정 신뢰 품격」이 있는 MBN 뉴스 ! \n유튜브 MBN NEWS로 여러분께 한발 더 다가갑니다.",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/UBR0COW1X-RPnea8iGVXy6Jl3iOMhEASJHVDOlR7GJ9G0N4d0B1CCWPPATal58moPvAz4SBrFA=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/UBR0COW1X-RPnea8iGVXy6Jl3iOMhEASJHVDOlR7GJ9G0N4d0B1CCWPPATal58moPvAz4SBrFA=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/UBR0COW1X-RPnea8iGVXy6Jl3iOMhEASJHVDOlR7GJ9G0N4d0B1CCWPPATal58moPvAz4SBrFA=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 2490000,
+      "viewCount": 3277338867,
+      "videoCount": 233128,
+      "lastUpdated": "2025-08-27T19:05:24.230275Z"
     }
   },
-  "lastUpdated": "2025-08-26T12:50:18.423474Z",
-  "totalVideos": 9,
-  "totalChannels": 3
+  "lastUpdated": "2025-08-27T19:05:24.230275Z",
+  "totalVideos": 10,
+  "totalChannels": 4
 }

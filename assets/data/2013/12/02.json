@@ -1,0 +1,78 @@
+{
+  "videos": {
+    "qKs-iOqKMRI": {
+      "videoId": "qKs-iOqKMRI",
+      "title": "동의보감 25권 25책 / YTN",
+      "description": "[YTN 기사원문] http://www.ytn.co.kr/_pn/1016_201312020453345775\n동의보감 25권 25책",
+      "publishedAt": "2013-12-01T20:25:01Z",
+      "duration": "PT50S",
+      "viewCount": 658,
+      "likeCount": 0,
+      "commentCount": 0,
+      "tags": [
+        "YTN",
+        "프로그램",
+        "테마영상"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2013-12-01T20:25:01Z",
+      "channelId": "UChlgI3UHCOnwUGzWzbJ3H5w",
+      "channelName": " YTN",
+      "collectedAt": "2025-08-27T19:05:14Z"
+    },
+    "orRJxCreKJY": {
+      "videoId": "orRJxCreKJY",
+      "title": "[한국의 휴양림] 국립지리산자연휴양림 / YTN",
+      "description": "[YTN 기사원문] http://www.ytn.co.kr/_ln/0106_201312020130166678\n경상남도 함양군 마천면 음정길 152번지.지리산 자연휴양림의 위치는 행정구역상 경상남도 함양군 마천면 삼정리 음정에 속하며, 마천면은 하동군 화개면, 산청군 심장면, 함양군의 함양읍과 휴천면, 남원군의 산내면을 경계로 하고 있다.휴양림의 남쪽에는 지리산의 주 능선 중 벽소령(1,392m), 형제봉(1,433m), 삼각고지...",
+      "publishedAt": "2013-12-01T16:56:44Z",
+      "duration": "PT50S",
+      "viewCount": 1464,
+      "likeCount": 5,
+      "commentCount": 0,
+      "tags": [
+        "YTN",
+        "뉴스",
+        "문화"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2013-12-01T16:56:44Z",
+      "channelId": "UChlgI3UHCOnwUGzWzbJ3H5w",
+      "channelName": " YTN",
+      "collectedAt": "2025-08-27T19:05:14Z"
+    }
+  },
+  "channels": {
+    "UChlgI3UHCOnwUGzWzbJ3H5w": {
+      "channelId": "UChlgI3UHCOnwUGzWzbJ3H5w",
+      "channelName": " YTN",
+      "channelUrl": "@ytnnews24",
+      "channelDescription": "24시간 생중계되는 대한민국 대표 뉴스\nYTN 공식채널을 지금 바로 구독하세요\n\n▶ 구독하기 : http://goo.gl/Ytb5SZ\n\n▶ YTN 기사제보 안내\n- 홈페이지: https://mj.ytn.co.kr/mj/mj_write.php?sort=0\n- 모바일: YTN 앱의 제보하기\n- 이메일: social@ytn.co.kr\n- 전화: 02-398-8282 또는 8585 \n\n▶ 라이브 스트리밍 대체광고 및 콘텐츠 협업 문의\n - 이메일 : ljk@ytn.co.kr\n\n▶ 영상 사용 및 구매 문의\n - https://www.ytn.co.kr/business/sell_program.php\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/Sd77hfGXNh1K4VgLCnYVrzWVkUKh04N5VDClPweoP-sbaZXzH3llUz2W1N_-Z4RX5_XauYpvSQ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/Sd77hfGXNh1K4VgLCnYVrzWVkUKh04N5VDClPweoP-sbaZXzH3llUz2W1N_-Z4RX5_XauYpvSQ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/Sd77hfGXNh1K4VgLCnYVrzWVkUKh04N5VDClPweoP-sbaZXzH3llUz2W1N_-Z4RX5_XauYpvSQ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 5150000,
+      "viewCount": 17635969172,
+      "videoCount": 889907,
+      "lastUpdated": "2025-08-27T19:05:14.590145Z"
+    }
+  },
+  "lastUpdated": "2025-08-27T19:05:14.591142Z",
+  "totalVideos": 2,
+  "totalChannels": 1
+}

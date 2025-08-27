@@ -139,6 +139,48 @@
       "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
       "channelName": "뉴스TVCHOSUN",
       "collectedAt": "2025-08-21T10:46:21Z"
+    },
+    "CfWNJ1F23WE": {
+      "videoId": "CfWNJ1F23WE",
+      "title": "나비 '훨훨'...봄은 '성큼' / YTN",
+      "description": "[YTN 기사원문] http://www.ytn.co.kr/_pn/1204_201403271002405449\n나비 '훨훨'...봄은 '성큼'",
+      "publishedAt": "2014-03-29T19:02:37Z",
+      "duration": "PT29S",
+      "viewCount": 181,
+      "likeCount": 0,
+      "commentCount": 0,
+      "tags": [
+        "YTN",
+        "프로그램",
+        "글로벌 영상"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2014-03-29T19:02:37Z",
+      "channelId": "UChlgI3UHCOnwUGzWzbJ3H5w",
+      "channelName": " YTN",
+      "collectedAt": "2025-08-27T19:05:15Z"
+    },
+    "D9iOmCqFQxQ": {
+      "videoId": "D9iOmCqFQxQ",
+      "title": "한국 만화계의 거장, 이현세의 인생 이야기  / YTN",
+      "description": "[YTN 기사원문] http://www.ytn.co.kr/_pn/1202_201403271008101988\n[앵커]사오십 대 이상 중년들에게는 어린 시절에 동네 만화방에서 시간 가는 줄 모르고 만화책을 읽었던 추억이 있을 텐데요.지금은 그렇지 않지만 예전에는 만화책을 보는 것을 웬지 불량식품처럼 금기시했던 시절도 있었습니다.그런데 이 분이 등장하면서 만화에 대한 부정적인 선입견이 많이 없어지고 한국 만화의 전성...",
+      "publishedAt": "2014-03-29T19:24:50Z",
+      "duration": "PT8M55S",
+      "viewCount": 3329,
+      "likeCount": 17,
+      "commentCount": 5,
+      "tags": [
+        "YTN",
+        "프로그램",
+        "코리안 커뮤니티"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2014-03-29T19:24:50Z",
+      "channelId": "UChlgI3UHCOnwUGzWzbJ3H5w",
+      "channelName": " YTN",
+      "collectedAt": "2025-08-27T19:05:15Z"
     }
   },
   "channels": {
@@ -168,9 +210,36 @@
       "viewCount": 4319423561,
       "videoCount": 150855,
       "lastUpdated": "2025-08-21T10:28:59.536463Z"
+    },
+    "UChlgI3UHCOnwUGzWzbJ3H5w": {
+      "channelId": "UChlgI3UHCOnwUGzWzbJ3H5w",
+      "channelName": " YTN",
+      "channelUrl": "@ytnnews24",
+      "channelDescription": "24시간 생중계되는 대한민국 대표 뉴스\nYTN 공식채널을 지금 바로 구독하세요\n\n▶ 구독하기 : http://goo.gl/Ytb5SZ\n\n▶ YTN 기사제보 안내\n- 홈페이지: https://mj.ytn.co.kr/mj/mj_write.php?sort=0\n- 모바일: YTN 앱의 제보하기\n- 이메일: social@ytn.co.kr\n- 전화: 02-398-8282 또는 8585 \n\n▶ 라이브 스트리밍 대체광고 및 콘텐츠 협업 문의\n - 이메일 : ljk@ytn.co.kr\n\n▶ 영상 사용 및 구매 문의\n - https://www.ytn.co.kr/business/sell_program.php\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/Sd77hfGXNh1K4VgLCnYVrzWVkUKh04N5VDClPweoP-sbaZXzH3llUz2W1N_-Z4RX5_XauYpvSQ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/Sd77hfGXNh1K4VgLCnYVrzWVkUKh04N5VDClPweoP-sbaZXzH3llUz2W1N_-Z4RX5_XauYpvSQ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/Sd77hfGXNh1K4VgLCnYVrzWVkUKh04N5VDClPweoP-sbaZXzH3llUz2W1N_-Z4RX5_XauYpvSQ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 5150000,
+      "viewCount": 17635969172,
+      "videoCount": 889907,
+      "lastUpdated": "2025-08-27T19:05:15.240769Z"
     }
   },
-  "lastUpdated": "2025-08-21T10:46:21.090737Z",
-  "totalVideos": 5,
-  "totalChannels": 1
+  "lastUpdated": "2025-08-27T19:05:15.240769Z",
+  "totalVideos": 7,
+  "totalChannels": 2
 }

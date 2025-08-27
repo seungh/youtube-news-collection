@@ -1437,6 +1437,40 @@
       "channelId": "UCfq4V1DAuaojnr2ryvWNysw",
       "channelName": "채널A News",
       "collectedAt": "2025-08-26T12:50:05Z"
+    },
+    "Yor7v5v15QY": {
+      "videoId": "Yor7v5v15QY",
+      "title": "김주하의 11월 9일 '이 한 장의 사진'",
+      "description": "한·일 군사정보보호협정 체결을 위한 2차 실무 협의를 위해 일본측 실무단이 국방부에 들어서고 있습니다.\n  최순실 사태로 나라가 정신이 없다보니 한일군사보호협정이 일사천리로 진행되고 있는거죠. \n  북한의 핵위협이 고조되고 있는 상황에서 주변 국가들과의 정보공조가 필요해져 서두른다지만, \n  이럴 경우, 우리는 일본과 준 군사동맹을 체결하는 셈이고 동북아는 한미일과 북중러의 세력균형의 장으로 변화할 것이라는 우려가 큽니다.\n  이런 중요한 협정이 충분한 논의없이 진행되고 있는 지금 우리나라 현실이 너무 안타깝습니다.\n'이 한장의 사진' 더 보기\n☞ http://me2.do/GRbr5mCd",
+      "publishedAt": "2016-11-09T12:49:17Z",
+      "duration": "PT53S",
+      "viewCount": 339,
+      "likeCount": 2,
+      "commentCount": 0,
+      "tags": [],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2016-11-09T12:49:17Z",
+      "channelId": "UCG9aFJTZ-lMCHAiO1KJsirg",
+      "channelName": "MBN News",
+      "collectedAt": "2025-08-27T19:05:24Z"
+    },
+    "O7nCqc0RP54": {
+      "videoId": "O7nCqc0RP54",
+      "title": "김주하의 11월 8일 '이 한 장의 사진'",
+      "description": "한 초등학교에서 이른바 '밥상머리 교육' 차원으로 학생들에게 추수체험을 시키는 행사가 열렸습니다.\n쌀 한 톨까지도 소중하게 챙기는 아이들의 손길이 아주 예쁘죠.\n이렇게 애지중지 수확한 쌀인데, 올해 공공비축미 가격은 지난해보다7천 원 하락한 4만 5천 원에 그친다고 합니다.\n\"내가 이러려고 농사지었나\"하는 자괴감이 들 것 같습니다.\n'이 한장의 사진' 더 보기\n☞ http://me2.do/GRbr5mCd",
+      "publishedAt": "2016-11-08T17:32:15Z",
+      "duration": "PT46S",
+      "viewCount": 561,
+      "likeCount": 0,
+      "commentCount": 1,
+      "tags": [],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2016-11-08T17:32:15Z",
+      "channelId": "UCG9aFJTZ-lMCHAiO1KJsirg",
+      "channelName": "MBN News",
+      "collectedAt": "2025-08-27T19:05:24Z"
     }
   },
   "channels": {
@@ -1682,9 +1716,36 @@
       "viewCount": 6198116921,
       "videoCount": 143713,
       "lastUpdated": "2025-08-26T12:50:05.085856Z"
+    },
+    "UCG9aFJTZ-lMCHAiO1KJsirg": {
+      "channelId": "UCG9aFJTZ-lMCHAiO1KJsirg",
+      "channelName": "MBN News",
+      "channelUrl": "@mbn",
+      "channelDescription": "「공정 신뢰 품격」이 있는 MBN 뉴스 ! \n유튜브 MBN NEWS로 여러분께 한발 더 다가갑니다.",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/UBR0COW1X-RPnea8iGVXy6Jl3iOMhEASJHVDOlR7GJ9G0N4d0B1CCWPPATal58moPvAz4SBrFA=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/UBR0COW1X-RPnea8iGVXy6Jl3iOMhEASJHVDOlR7GJ9G0N4d0B1CCWPPATal58moPvAz4SBrFA=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/UBR0COW1X-RPnea8iGVXy6Jl3iOMhEASJHVDOlR7GJ9G0N4d0B1CCWPPATal58moPvAz4SBrFA=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 2490000,
+      "viewCount": 3277338867,
+      "videoCount": 233128,
+      "lastUpdated": "2025-08-27T19:05:24.144504Z"
     }
   },
-  "lastUpdated": "2025-08-26T12:50:05.086851Z",
-  "totalVideos": 52,
-  "totalChannels": 9
+  "lastUpdated": "2025-08-27T19:05:24.144504Z",
+  "totalVideos": 54,
+  "totalChannels": 10
 }

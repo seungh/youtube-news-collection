@@ -1372,6 +1372,48 @@
       "channelId": "UCfq4V1DAuaojnr2ryvWNysw",
       "channelName": "채널A News",
       "collectedAt": "2025-08-26T12:50:32Z"
+    },
+    "isH8QlS5n1s": {
+      "videoId": "isH8QlS5n1s",
+      "title": "[한국의 임산물] 청양 구기자 / YTN",
+      "description": "[YTN 기사원문] http://www.ytn.co.kr/_ln/0106_201410271121379337\n■ 충청남도 청양군 청양읍 읍내리 330번지구기자는 다년생낙엽식물로 한국, 중국, 일본 등에 분포되어 있습니다.청양군은 깨끗한 물, 맑은공기, 밝은태양의 충남의 알프스라 불리는 칠갑산을 중심으로 구릉이 발달, 임야 70%가 산간지역으로 작은 분지형태에 부식질이 많고 배수가 잘되어 구기자 재배에 최적의 장소입니다....",
+      "publishedAt": "2014-10-27T02:27:07Z",
+      "duration": "PT1M",
+      "viewCount": 2288,
+      "likeCount": 11,
+      "commentCount": 0,
+      "tags": [
+        "YTN",
+        "뉴스",
+        "문화"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2014-10-27T02:27:07Z",
+      "channelId": "UChlgI3UHCOnwUGzWzbJ3H5w",
+      "channelName": " YTN",
+      "collectedAt": "2025-08-27T19:05:14Z"
+    },
+    "42oMO6o37iQ": {
+      "videoId": "42oMO6o37iQ",
+      "title": "[아침신문 1면] 김우중 골프장 은닉재산 포착 / YTN",
+      "description": "[YTN 기사원문] http://www.ytn.co.kr/_ln/0103_201410270510219986\n[앵커]오늘 아침 신문 1면 살펴보겠습니다.먼저 국민일보입니다. 김우중 전 대우그룹 회장이 추징금을 피하기 위해 차명으로 갖고 있던 골프장 지분을 몰래 매각했다는 의혹을 다루고 있습니다.해당 골프장은 경남 양산시에 있는 이원컨트리클럽입니다.김 전 회장의 전 변호인이 2003년 골프장 주식을 샀다가 7년 뒤, 8억 6...",
+      "publishedAt": "2014-10-26T20:49:15Z",
+      "duration": "PT3M25S",
+      "viewCount": 625,
+      "likeCount": 5,
+      "commentCount": 0,
+      "tags": [
+        "YTN",
+        "뉴스",
+        "사회"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2014-10-26T20:49:15Z",
+      "channelId": "UChlgI3UHCOnwUGzWzbJ3H5w",
+      "channelName": " YTN",
+      "collectedAt": "2025-08-27T19:05:14Z"
     }
   },
   "channels": {
@@ -1509,9 +1551,36 @@
       "viewCount": 6198116921,
       "videoCount": 143713,
       "lastUpdated": "2025-08-26T12:50:32.482763Z"
+    },
+    "UChlgI3UHCOnwUGzWzbJ3H5w": {
+      "channelId": "UChlgI3UHCOnwUGzWzbJ3H5w",
+      "channelName": " YTN",
+      "channelUrl": "@ytnnews24",
+      "channelDescription": "24시간 생중계되는 대한민국 대표 뉴스\nYTN 공식채널을 지금 바로 구독하세요\n\n▶ 구독하기 : http://goo.gl/Ytb5SZ\n\n▶ YTN 기사제보 안내\n- 홈페이지: https://mj.ytn.co.kr/mj/mj_write.php?sort=0\n- 모바일: YTN 앱의 제보하기\n- 이메일: social@ytn.co.kr\n- 전화: 02-398-8282 또는 8585 \n\n▶ 라이브 스트리밍 대체광고 및 콘텐츠 협업 문의\n - 이메일 : ljk@ytn.co.kr\n\n▶ 영상 사용 및 구매 문의\n - https://www.ytn.co.kr/business/sell_program.php\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/Sd77hfGXNh1K4VgLCnYVrzWVkUKh04N5VDClPweoP-sbaZXzH3llUz2W1N_-Z4RX5_XauYpvSQ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/Sd77hfGXNh1K4VgLCnYVrzWVkUKh04N5VDClPweoP-sbaZXzH3llUz2W1N_-Z4RX5_XauYpvSQ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/Sd77hfGXNh1K4VgLCnYVrzWVkUKh04N5VDClPweoP-sbaZXzH3llUz2W1N_-Z4RX5_XauYpvSQ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 5150000,
+      "viewCount": 17635969172,
+      "videoCount": 889907,
+      "lastUpdated": "2025-08-27T19:05:14.128559Z"
     }
   },
-  "lastUpdated": "2025-08-26T12:50:32.482763Z",
-  "totalVideos": 37,
-  "totalChannels": 5
+  "lastUpdated": "2025-08-27T19:05:14.128559Z",
+  "totalVideos": 39,
+  "totalChannels": 6
 }

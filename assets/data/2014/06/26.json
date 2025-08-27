@@ -643,6 +643,27 @@
       "channelId": "UCfq4V1DAuaojnr2ryvWNysw",
       "channelName": "채널A News",
       "collectedAt": "2025-08-26T12:50:30Z"
+    },
+    "WVLNvyxIzmg": {
+      "videoId": "WVLNvyxIzmg",
+      "title": "'예견된 죽음을 막아라'...'오드 토머스' / YTN",
+      "description": "[YTN 기사원문] http://www.ytn.co.kr/_pn/0109_201406261329407333\n영화 '미이라'로 많은 관객의 사랑을 받아온 스티븐 소머즈 감독의 신작 '오드 토머스'가 7월 30일 개봉을 앞두고 메인 예고편을 공개했다.영화 '오드 토머스'는 전 세계 3억 2천만 부 이상의 판매고를 올린 베스트셀러 작가 '딘 쿤츠'의 소설 '살인예언자'를 원작으로 한 작품.살인을 예견하는 능력을 가진 주인공 '오드 ...",
+      "publishedAt": "2014-06-26T04:53:35Z",
+      "duration": "PT1M23S",
+      "viewCount": 2465,
+      "likeCount": 3,
+      "commentCount": 0,
+      "tags": [
+        "YTN",
+        "뉴스",
+        "SNS세상"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2014-06-26T04:53:35Z",
+      "channelId": "UChlgI3UHCOnwUGzWzbJ3H5w",
+      "channelName": " YTN",
+      "collectedAt": "2025-08-27T19:05:19Z"
     }
   },
   "channels": {
@@ -753,9 +774,36 @@
       "viewCount": 6198116921,
       "videoCount": 143713,
       "lastUpdated": "2025-08-26T12:50:30.989911Z"
+    },
+    "UChlgI3UHCOnwUGzWzbJ3H5w": {
+      "channelId": "UChlgI3UHCOnwUGzWzbJ3H5w",
+      "channelName": " YTN",
+      "channelUrl": "@ytnnews24",
+      "channelDescription": "24시간 생중계되는 대한민국 대표 뉴스\nYTN 공식채널을 지금 바로 구독하세요\n\n▶ 구독하기 : http://goo.gl/Ytb5SZ\n\n▶ YTN 기사제보 안내\n- 홈페이지: https://mj.ytn.co.kr/mj/mj_write.php?sort=0\n- 모바일: YTN 앱의 제보하기\n- 이메일: social@ytn.co.kr\n- 전화: 02-398-8282 또는 8585 \n\n▶ 라이브 스트리밍 대체광고 및 콘텐츠 협업 문의\n - 이메일 : ljk@ytn.co.kr\n\n▶ 영상 사용 및 구매 문의\n - https://www.ytn.co.kr/business/sell_program.php\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/Sd77hfGXNh1K4VgLCnYVrzWVkUKh04N5VDClPweoP-sbaZXzH3llUz2W1N_-Z4RX5_XauYpvSQ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/Sd77hfGXNh1K4VgLCnYVrzWVkUKh04N5VDClPweoP-sbaZXzH3llUz2W1N_-Z4RX5_XauYpvSQ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/Sd77hfGXNh1K4VgLCnYVrzWVkUKh04N5VDClPweoP-sbaZXzH3llUz2W1N_-Z4RX5_XauYpvSQ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 5150000,
+      "viewCount": 17635969172,
+      "videoCount": 889907,
+      "lastUpdated": "2025-08-27T19:05:19.500987Z"
     }
   },
-  "lastUpdated": "2025-08-26T12:50:30.990933Z",
-  "totalVideos": 20,
-  "totalChannels": 4
+  "lastUpdated": "2025-08-27T19:05:19.500987Z",
+  "totalVideos": 21,
+  "totalChannels": 5
 }

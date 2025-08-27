@@ -154,6 +154,48 @@
       "channelId": "UC4Aa3OPkMenwTANpf0oWVRQ",
       "channelName": "CBS 김현정의 뉴스쇼",
       "collectedAt": "2025-08-22T14:03:35Z"
+    },
+    "mK9MQkYnFnU": {
+      "videoId": "mK9MQkYnFnU",
+      "title": "동궐도 [국보 제 249호] / YTN",
+      "description": "[YTN 기사원문] http://www.ytn.co.kr/_pn/1016_201310210354297060\n동궐도 [국보 제 249호]",
+      "publishedAt": "2013-10-20T19:21:07Z",
+      "duration": "PT1M",
+      "viewCount": 454,
+      "likeCount": 2,
+      "commentCount": 0,
+      "tags": [
+        "YTN",
+        "프로그램",
+        "테마영상"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2013-10-20T19:21:07Z",
+      "channelId": "UChlgI3UHCOnwUGzWzbJ3H5w",
+      "channelName": " YTN",
+      "collectedAt": "2025-08-27T19:05:14Z"
+    },
+    "dLBlcOjB_EU": {
+      "videoId": "dLBlcOjB_EU",
+      "title": "[한국의 휴양림] 국립신불산자연휴양림 / YTN",
+      "description": "[YTN 기사원문] http://www.ytn.co.kr/_ln/0106_201310210058133227\n울산광역시 울주군 상북면 억새벌길 200-78번지해발 1천m 이상의 7개 산국이 수려한 산세와 풍광을 자랑하는 영남알프스의 두 번째 고봉인 신불산(1,159m) 자락에 위치하고 있다.주 계곡은 기암괴석과 다양한 수종의 천연림으로 어우러져 태고적 비경을 간직하고 있고, 청정수가 흐르는 계곡 중간에 위치한 파래소폭포는 폭...",
+      "publishedAt": "2013-10-20T16:19:49Z",
+      "duration": "PT50S",
+      "viewCount": 903,
+      "likeCount": 0,
+      "commentCount": 0,
+      "tags": [
+        "YTN",
+        "뉴스",
+        "문화"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2013-10-20T16:19:49Z",
+      "channelId": "UChlgI3UHCOnwUGzWzbJ3H5w",
+      "channelName": " YTN",
+      "collectedAt": "2025-08-27T19:05:14Z"
     }
   },
   "channels": {
@@ -183,9 +225,36 @@
       "viewCount": 1280577570,
       "videoCount": 19124,
       "lastUpdated": "2025-08-24T21:55:12.797070Z"
+    },
+    "UChlgI3UHCOnwUGzWzbJ3H5w": {
+      "channelId": "UChlgI3UHCOnwUGzWzbJ3H5w",
+      "channelName": " YTN",
+      "channelUrl": "@ytnnews24",
+      "channelDescription": "24시간 생중계되는 대한민국 대표 뉴스\nYTN 공식채널을 지금 바로 구독하세요\n\n▶ 구독하기 : http://goo.gl/Ytb5SZ\n\n▶ YTN 기사제보 안내\n- 홈페이지: https://mj.ytn.co.kr/mj/mj_write.php?sort=0\n- 모바일: YTN 앱의 제보하기\n- 이메일: social@ytn.co.kr\n- 전화: 02-398-8282 또는 8585 \n\n▶ 라이브 스트리밍 대체광고 및 콘텐츠 협업 문의\n - 이메일 : ljk@ytn.co.kr\n\n▶ 영상 사용 및 구매 문의\n - https://www.ytn.co.kr/business/sell_program.php\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/Sd77hfGXNh1K4VgLCnYVrzWVkUKh04N5VDClPweoP-sbaZXzH3llUz2W1N_-Z4RX5_XauYpvSQ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/Sd77hfGXNh1K4VgLCnYVrzWVkUKh04N5VDClPweoP-sbaZXzH3llUz2W1N_-Z4RX5_XauYpvSQ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/Sd77hfGXNh1K4VgLCnYVrzWVkUKh04N5VDClPweoP-sbaZXzH3llUz2W1N_-Z4RX5_XauYpvSQ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 5150000,
+      "viewCount": 17635969172,
+      "videoCount": 889907,
+      "lastUpdated": "2025-08-27T19:05:14.638402Z"
     }
   },
-  "lastUpdated": "2025-08-24T21:55:12.806047Z",
-  "totalVideos": 4,
-  "totalChannels": 1
+  "lastUpdated": "2025-08-27T19:05:14.638402Z",
+  "totalVideos": 6,
+  "totalChannels": 2
 }

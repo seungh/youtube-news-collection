@@ -144,6 +144,69 @@
       "channelId": "UC4Aa3OPkMenwTANpf0oWVRQ",
       "channelName": "CBS 김현정의 뉴스쇼",
       "collectedAt": "2025-08-22T14:03:32Z"
+    },
+    "8WrVtcyo-uQ": {
+      "videoId": "8WrVtcyo-uQ",
+      "title": "우죽 (탄은 이점) / YTN",
+      "description": "[YTN 기사원문] http://www.ytn.co.kr/_pn/1016_201403240400189825\n우죽 (탄은 이점)",
+      "publishedAt": "2014-03-23T19:12:14Z",
+      "duration": "PT50S",
+      "viewCount": 320,
+      "likeCount": 2,
+      "commentCount": 0,
+      "tags": [
+        "YTN",
+        "프로그램",
+        "테마영상"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2014-03-23T19:12:14Z",
+      "channelId": "UChlgI3UHCOnwUGzWzbJ3H5w",
+      "channelName": " YTN",
+      "collectedAt": "2025-08-27T19:05:14Z"
+    },
+    "9l2XhvkMA_0": {
+      "videoId": "9l2XhvkMA_0",
+      "title": "백운산 휴양림 / YTN",
+      "description": "[YTN 기사원문] http://www.ytn.co.kr/_pn/1016_201403240259314357\n강원도 원주시 판부면 백운산길81 번지백운산 정상에서 북쪽으로 흐르는 계곡을 용수골이라 한다.용의 전설이 서린 대용소와 소용소가 있으며 울창한 숲과 맑은 물, 기암괴석이 어우러져 비경을 이룬다.용수골의 하류는 계곡물이 넓게 흐르고 수량이 많아 사계절 가족단위 휴양공간으로 각광받아 왔다.백운산자연휴양림내에...",
+      "publishedAt": "2014-03-23T18:14:06Z",
+      "duration": "PT51S",
+      "viewCount": 677,
+      "likeCount": 2,
+      "commentCount": 0,
+      "tags": [
+        "YTN",
+        "프로그램",
+        "테마영상"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2014-03-23T18:14:06Z",
+      "channelId": "UChlgI3UHCOnwUGzWzbJ3H5w",
+      "channelName": " YTN",
+      "collectedAt": "2025-08-27T19:05:14Z"
+    },
+    "UWeQptVG6bc": {
+      "videoId": "UWeQptVG6bc",
+      "title": "[돌발 플러스] 두 번의 인사 / YTN",
+      "description": "[YTN 기사원문] http://www.ytn.co.kr/_pn/0949_201403240927029429\n[돌발 플러스] 두 번의 인사",
+      "publishedAt": "2014-03-24T02:32:41Z",
+      "duration": "PT1M36S",
+      "viewCount": 186,
+      "likeCount": 0,
+      "commentCount": 0,
+      "tags": [
+        "YTN",
+        "프로그램",
+        "돌발 플러스"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2014-03-24T02:32:41Z",
+      "channelId": "UChlgI3UHCOnwUGzWzbJ3H5w",
+      "channelName": " YTN",
+      "collectedAt": "2025-08-27T19:05:14Z"
     }
   },
   "channels": {
@@ -200,9 +263,36 @@
       "viewCount": 1280577570,
       "videoCount": 19124,
       "lastUpdated": "2025-08-24T21:55:08.319041Z"
+    },
+    "UChlgI3UHCOnwUGzWzbJ3H5w": {
+      "channelId": "UChlgI3UHCOnwUGzWzbJ3H5w",
+      "channelName": " YTN",
+      "channelUrl": "@ytnnews24",
+      "channelDescription": "24시간 생중계되는 대한민국 대표 뉴스\nYTN 공식채널을 지금 바로 구독하세요\n\n▶ 구독하기 : http://goo.gl/Ytb5SZ\n\n▶ YTN 기사제보 안내\n- 홈페이지: https://mj.ytn.co.kr/mj/mj_write.php?sort=0\n- 모바일: YTN 앱의 제보하기\n- 이메일: social@ytn.co.kr\n- 전화: 02-398-8282 또는 8585 \n\n▶ 라이브 스트리밍 대체광고 및 콘텐츠 협업 문의\n - 이메일 : ljk@ytn.co.kr\n\n▶ 영상 사용 및 구매 문의\n - https://www.ytn.co.kr/business/sell_program.php\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/Sd77hfGXNh1K4VgLCnYVrzWVkUKh04N5VDClPweoP-sbaZXzH3llUz2W1N_-Z4RX5_XauYpvSQ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/Sd77hfGXNh1K4VgLCnYVrzWVkUKh04N5VDClPweoP-sbaZXzH3llUz2W1N_-Z4RX5_XauYpvSQ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/Sd77hfGXNh1K4VgLCnYVrzWVkUKh04N5VDClPweoP-sbaZXzH3llUz2W1N_-Z4RX5_XauYpvSQ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 5150000,
+      "viewCount": 17635969172,
+      "videoCount": 889907,
+      "lastUpdated": "2025-08-27T19:05:14.470341Z"
     }
   },
-  "lastUpdated": "2025-08-24T21:55:08.320038Z",
-  "totalVideos": 5,
-  "totalChannels": 2
+  "lastUpdated": "2025-08-27T19:05:14.470341Z",
+  "totalVideos": 8,
+  "totalChannels": 3
 }

@@ -2804,6 +2804,83 @@
       "channelId": "UCfq4V1DAuaojnr2ryvWNysw",
       "channelName": "채널A News",
       "collectedAt": "2025-08-26T12:49:58Z"
+    },
+    "U0Kws_vmXOM": {
+      "videoId": "U0Kws_vmXOM",
+      "title": "김주하의 7월 12일 '이 한 장의 사진'",
+      "description": "뉴스8이 선정한 '이 한 장의 사진'입니다.\n\n미국 플로리다 해변에서 피서객 80여 명이 손에 손을 잡았습니다.\n\n조류에 휩쓸려 익사 위기에 처한 일가족 9명을 구조하려고, 100미터에 달하는 '인간띠'를 만든 겁니다.\n\n덕분에 단 한 명의 사망자 없이 조난자 모두를 구조될 수 있었죠.\n\n'따뜻한 마음'과 '용기'가 있다면 이렇게 우리는 기적을 만들 수 있습니다.\n\n'이 한장의 사진' 더 보기\n☞ http://mbn.mk.co.kr/pages/vod/programContents.php?progCode=703&menuCode=4503",
+      "publishedAt": "2017-07-12T12:31:29Z",
+      "duration": "PT33S",
+      "viewCount": 812,
+      "likeCount": 4,
+      "commentCount": 0,
+      "tags": [],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2017-07-12T12:31:29Z",
+      "channelId": "UCG9aFJTZ-lMCHAiO1KJsirg",
+      "channelName": "MBN News",
+      "collectedAt": "2025-08-27T19:05:24Z"
+    },
+    "H9qjVm8wsdk": {
+      "videoId": "H9qjVm8wsdk",
+      "title": "이런 사람, 콩팥 질환에 특히 더 주의해라?!",
+      "description": "고혈압, 당뇨, 비만인 사람들은 비교적 콩팥 질환에 걸리기 쉽다?!",
+      "publishedAt": "2017-07-12T06:19:11Z",
+      "duration": "PT3M14S",
+      "viewCount": 27297,
+      "likeCount": 132,
+      "commentCount": 2,
+      "tags": [
+        "MBN",
+        "엄지의제왕",
+        "콩팥",
+        "고혈압",
+        "당뇨",
+        "비만",
+        "콩팥건강",
+        "투석",
+        "콩팥병",
+        "당뇨병",
+        "고혈당"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2017-07-12T06:19:11Z",
+      "channelId": "UCG9aFJTZ-lMCHAiO1KJsirg",
+      "channelName": "MBN News",
+      "collectedAt": "2025-08-27T19:05:24Z"
+    },
+    "dn-7SlT12KA": {
+      "videoId": "dn-7SlT12KA",
+      "title": "대통령 주치의들이 공통적으로 추천한 여름 제철 채소는?!",
+      "description": "대통령 주치의들이 추천한 염증 잡는 채소, 부추!",
+      "publishedAt": "2017-07-12T06:15:53Z",
+      "duration": "PT2M14S",
+      "viewCount": 727,
+      "likeCount": 1,
+      "commentCount": 0,
+      "tags": [
+        "MBN",
+        "천기누설",
+        "대통령주치의",
+        "주치의",
+        "대통령",
+        "여름",
+        "여름채소",
+        "열무",
+        "부추",
+        "건강",
+        "염증",
+        "베타카로틴",
+        "활성산소"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2017-07-12T06:15:53Z",
+      "channelId": "UCG9aFJTZ-lMCHAiO1KJsirg",
+      "channelName": "MBN News",
+      "collectedAt": "2025-08-27T19:05:24Z"
     }
   },
   "channels": {
@@ -3022,9 +3099,36 @@
       "viewCount": 6198116921,
       "videoCount": 143713,
       "lastUpdated": "2025-08-26T12:49:58.543438Z"
+    },
+    "UCG9aFJTZ-lMCHAiO1KJsirg": {
+      "channelId": "UCG9aFJTZ-lMCHAiO1KJsirg",
+      "channelName": "MBN News",
+      "channelUrl": "@mbn",
+      "channelDescription": "「공정 신뢰 품격」이 있는 MBN 뉴스 ! \n유튜브 MBN NEWS로 여러분께 한발 더 다가갑니다.",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/UBR0COW1X-RPnea8iGVXy6Jl3iOMhEASJHVDOlR7GJ9G0N4d0B1CCWPPATal58moPvAz4SBrFA=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/UBR0COW1X-RPnea8iGVXy6Jl3iOMhEASJHVDOlR7GJ9G0N4d0B1CCWPPATal58moPvAz4SBrFA=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/UBR0COW1X-RPnea8iGVXy6Jl3iOMhEASJHVDOlR7GJ9G0N4d0B1CCWPPATal58moPvAz4SBrFA=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 2490000,
+      "viewCount": 3277338867,
+      "videoCount": 233128,
+      "lastUpdated": "2025-08-27T19:05:24.006873Z"
     }
   },
-  "lastUpdated": "2025-08-26T12:49:58.546978Z",
-  "totalVideos": 85,
-  "totalChannels": 8
+  "lastUpdated": "2025-08-27T19:05:24.007870Z",
+  "totalVideos": 88,
+  "totalChannels": 9
 }

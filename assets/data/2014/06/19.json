@@ -869,6 +869,48 @@
       "channelId": "UCfq4V1DAuaojnr2ryvWNysw",
       "channelName": "채널A News",
       "collectedAt": "2025-08-26T12:50:31Z"
+    },
+    "HPFgLYMEs_c": {
+      "videoId": "HPFgLYMEs_c",
+      "title": "[돌발 플러스] 대통령의 성과... / YTN",
+      "description": "[YTN 기사원문] http://www.ytn.co.kr/_pn/0949_201406190915090611\n[돌발 플러스] 대통령의 성과...",
+      "publishedAt": "2014-06-19T02:22:39Z",
+      "duration": "PT1M45S",
+      "viewCount": 182,
+      "likeCount": 0,
+      "commentCount": 0,
+      "tags": [
+        "YTN",
+        "프로그램",
+        "돌발 플러스"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2014-06-19T02:22:39Z",
+      "channelId": "UChlgI3UHCOnwUGzWzbJ3H5w",
+      "channelName": " YTN",
+      "collectedAt": "2025-08-27T19:05:17Z"
+    },
+    "oEX9AZxfFqE": {
+      "videoId": "oEX9AZxfFqE",
+      "title": "'당신의 기억은 행복한가요?'...마담 프루스트의 비밀정원 / YTN",
+      "description": "[YTN 기사원문] http://www.ytn.co.kr/_pn/0109_201406191420315956\n애니메이션 '일루셔니스트'로 주목받은 '실뱅 쇼메' 감독의 첫 장편 실사 영화 '마담 프루스트의 비밀정원'이 7월 24일 개봉을 확정 짓고 티저 예고편을 공개했다.영화 '마담 프루스트의 비밀정원'은 2013년 토론토국제영화제와 2014년 전주국제영화제, 상상마당 음악영화제 등에 출품하며 관객들에게 큰 호응을 얻은 작품....",
+      "publishedAt": "2014-06-19T06:07:17Z",
+      "duration": "PT38S",
+      "viewCount": 3160,
+      "likeCount": 7,
+      "commentCount": 0,
+      "tags": [
+        "YTN",
+        "뉴스",
+        "SNS세상"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2014-06-19T06:07:17Z",
+      "channelId": "UChlgI3UHCOnwUGzWzbJ3H5w",
+      "channelName": " YTN",
+      "collectedAt": "2025-08-27T19:05:17Z"
     }
   },
   "channels": {
@@ -979,9 +1021,36 @@
       "viewCount": 6198116921,
       "videoCount": 143713,
       "lastUpdated": "2025-08-26T12:50:31.153680Z"
+    },
+    "UChlgI3UHCOnwUGzWzbJ3H5w": {
+      "channelId": "UChlgI3UHCOnwUGzWzbJ3H5w",
+      "channelName": " YTN",
+      "channelUrl": "@ytnnews24",
+      "channelDescription": "24시간 생중계되는 대한민국 대표 뉴스\nYTN 공식채널을 지금 바로 구독하세요\n\n▶ 구독하기 : http://goo.gl/Ytb5SZ\n\n▶ YTN 기사제보 안내\n- 홈페이지: https://mj.ytn.co.kr/mj/mj_write.php?sort=0\n- 모바일: YTN 앱의 제보하기\n- 이메일: social@ytn.co.kr\n- 전화: 02-398-8282 또는 8585 \n\n▶ 라이브 스트리밍 대체광고 및 콘텐츠 협업 문의\n - 이메일 : ljk@ytn.co.kr\n\n▶ 영상 사용 및 구매 문의\n - https://www.ytn.co.kr/business/sell_program.php\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/Sd77hfGXNh1K4VgLCnYVrzWVkUKh04N5VDClPweoP-sbaZXzH3llUz2W1N_-Z4RX5_XauYpvSQ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/Sd77hfGXNh1K4VgLCnYVrzWVkUKh04N5VDClPweoP-sbaZXzH3llUz2W1N_-Z4RX5_XauYpvSQ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/Sd77hfGXNh1K4VgLCnYVrzWVkUKh04N5VDClPweoP-sbaZXzH3llUz2W1N_-Z4RX5_XauYpvSQ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 5150000,
+      "viewCount": 17635969172,
+      "videoCount": 889907,
+      "lastUpdated": "2025-08-27T19:05:17.402344Z"
     }
   },
-  "lastUpdated": "2025-08-26T12:50:31.154677Z",
-  "totalVideos": 28,
-  "totalChannels": 4
+  "lastUpdated": "2025-08-27T19:05:17.403344Z",
+  "totalVideos": 30,
+  "totalChannels": 5
 }

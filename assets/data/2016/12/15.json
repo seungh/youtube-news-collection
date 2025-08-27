@@ -1601,6 +1601,23 @@
       "channelId": "UCfq4V1DAuaojnr2ryvWNysw",
       "channelName": "채널A News",
       "collectedAt": "2025-08-26T12:50:03Z"
+    },
+    "4tRwQdsKmJE": {
+      "videoId": "4tRwQdsKmJE",
+      "title": "김주하의 12월 15일 '이 한 장의 사진'",
+      "description": "당직자로 출발해 3선 의원과 청와대 수석, 그리고 대표까지 오른 이정현 대표.\n사무처 직원들에게는 신화적 존재였던 그가 지도부 즉각 사퇴와 윤리위 원상복구를 촉구하며 10년 만에 파업에 들어간 후배들 앞을 눈을 감은 채 지나고 있습니다.\n이 대표는 후배들에게 면목이 없다면서도 오늘 친박 성향 윤리위원 8명의 임명을 강행했습니다. 대통령 출당을 막기 위해선데 후배들을 두 번 울린 셈이 된거죠.\n'이 한장의 사진' 더 보기\n☞ http://me2.do/GRbr5mCd",
+      "publishedAt": "2016-12-15T12:53:25Z",
+      "duration": "PT44S",
+      "viewCount": 604,
+      "likeCount": 1,
+      "commentCount": 0,
+      "tags": [],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2016-12-15T12:53:25Z",
+      "channelId": "UCG9aFJTZ-lMCHAiO1KJsirg",
+      "channelName": "MBN News",
+      "collectedAt": "2025-08-27T19:05:24Z"
     }
   },
   "channels": {
@@ -1765,9 +1782,36 @@
       "viewCount": 6198116921,
       "videoCount": 143713,
       "lastUpdated": "2025-08-26T12:50:03.826832Z"
+    },
+    "UCG9aFJTZ-lMCHAiO1KJsirg": {
+      "channelId": "UCG9aFJTZ-lMCHAiO1KJsirg",
+      "channelName": "MBN News",
+      "channelUrl": "@mbn",
+      "channelDescription": "「공정 신뢰 품격」이 있는 MBN 뉴스 ! \n유튜브 MBN NEWS로 여러분께 한발 더 다가갑니다.",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/UBR0COW1X-RPnea8iGVXy6Jl3iOMhEASJHVDOlR7GJ9G0N4d0B1CCWPPATal58moPvAz4SBrFA=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/UBR0COW1X-RPnea8iGVXy6Jl3iOMhEASJHVDOlR7GJ9G0N4d0B1CCWPPATal58moPvAz4SBrFA=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/UBR0COW1X-RPnea8iGVXy6Jl3iOMhEASJHVDOlR7GJ9G0N4d0B1CCWPPATal58moPvAz4SBrFA=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 2490000,
+      "viewCount": 3277338867,
+      "videoCount": 233128,
+      "lastUpdated": "2025-08-27T19:05:24.122563Z"
     }
   },
-  "lastUpdated": "2025-08-26T12:50:03.829813Z",
-  "totalVideos": 58,
-  "totalChannels": 6
+  "lastUpdated": "2025-08-27T19:05:24.122563Z",
+  "totalVideos": 59,
+  "totalChannels": 7
 }

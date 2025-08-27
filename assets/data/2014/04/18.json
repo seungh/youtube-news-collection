@@ -679,6 +679,48 @@
       "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
       "channelName": "JTBC News",
       "collectedAt": "2025-08-25T21:08:19Z"
+    },
+    "M_ZKcxrqZ8Y": {
+      "videoId": "M_ZKcxrqZ8Y",
+      "title": "세월호 인양에 '플로팅 도크' 투입 거론 / YTN",
+      "description": "[YTN 기사원문] http://www.ytn.co.kr/_pn/0109_201404181100177033\n침몰 여객선 세월호를 인양하기 위해 대형 크레인이 속속 현장에 도착하고 있는 가운데 인양 지원에 '플로팅 도크(Floating Dock)'의 투입이 거론되고 있습니다.'플로팅 도크(Floating Dock)'는 해상에서 선박을 건조할 수 있도록 고안된 바지선 형태의 구조물로, 크레인이 가라앉은 배를 도크가 들어갈 정도만 끌어올리면 ...",
+      "publishedAt": "2014-04-18T10:10:08Z",
+      "duration": "PT50S",
+      "viewCount": 8751,
+      "likeCount": 7,
+      "commentCount": 0,
+      "tags": [
+        "YTN",
+        "프로그램",
+        "미공개 영상"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2014-04-18T10:10:08Z",
+      "channelId": "UChlgI3UHCOnwUGzWzbJ3H5w",
+      "channelName": " YTN",
+      "collectedAt": "2025-08-27T19:05:19Z"
+    },
+    "EeACFj0Jxe8": {
+      "videoId": "EeACFj0Jxe8",
+      "title": "'가족의 진정한 화해'...'비밀과 거짓말' / YTN",
+      "description": "[YTN 기사원문] http://www.ytn.co.kr/_pn/0109_201404180921406190\n아카데미 5개 부문 노미네이트, 칸 영화제 3개 부문 수상으로 화제를 모으고 있는 영화 '비밀과 거짓말' 예고편이 공개됐습니다.이번에 공개된 예고편에는 저마다의 아픔과 비밀을 품고 사는 가족을 향한 '마이크 리' 감독 만의 따스한 시선이 담겨 있습니다.영화 '비밀과 거짓말'은 런던에 사는 젊고 지적인 흑인 여성 호...",
+      "publishedAt": "2014-04-18T01:33:39Z",
+      "duration": "PT33S",
+      "viewCount": 945,
+      "likeCount": 3,
+      "commentCount": 0,
+      "tags": [
+        "YTN",
+        "프로그램",
+        "미공개 영상"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2014-04-18T01:33:39Z",
+      "channelId": "UChlgI3UHCOnwUGzWzbJ3H5w",
+      "channelName": " YTN",
+      "collectedAt": "2025-08-27T19:05:19Z"
     }
   },
   "channels": {
@@ -735,9 +777,36 @@
       "viewCount": 14817048106,
       "videoCount": 261473,
       "lastUpdated": "2025-08-25T21:08:19.490532Z"
+    },
+    "UChlgI3UHCOnwUGzWzbJ3H5w": {
+      "channelId": "UChlgI3UHCOnwUGzWzbJ3H5w",
+      "channelName": " YTN",
+      "channelUrl": "@ytnnews24",
+      "channelDescription": "24시간 생중계되는 대한민국 대표 뉴스\nYTN 공식채널을 지금 바로 구독하세요\n\n▶ 구독하기 : http://goo.gl/Ytb5SZ\n\n▶ YTN 기사제보 안내\n- 홈페이지: https://mj.ytn.co.kr/mj/mj_write.php?sort=0\n- 모바일: YTN 앱의 제보하기\n- 이메일: social@ytn.co.kr\n- 전화: 02-398-8282 또는 8585 \n\n▶ 라이브 스트리밍 대체광고 및 콘텐츠 협업 문의\n - 이메일 : ljk@ytn.co.kr\n\n▶ 영상 사용 및 구매 문의\n - https://www.ytn.co.kr/business/sell_program.php\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/Sd77hfGXNh1K4VgLCnYVrzWVkUKh04N5VDClPweoP-sbaZXzH3llUz2W1N_-Z4RX5_XauYpvSQ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/Sd77hfGXNh1K4VgLCnYVrzWVkUKh04N5VDClPweoP-sbaZXzH3llUz2W1N_-Z4RX5_XauYpvSQ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/Sd77hfGXNh1K4VgLCnYVrzWVkUKh04N5VDClPweoP-sbaZXzH3llUz2W1N_-Z4RX5_XauYpvSQ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 5150000,
+      "viewCount": 17635969172,
+      "videoCount": 889907,
+      "lastUpdated": "2025-08-27T19:05:19.780179Z"
     }
   },
-  "lastUpdated": "2025-08-25T21:08:19.493524Z",
-  "totalVideos": 19,
-  "totalChannels": 2
+  "lastUpdated": "2025-08-27T19:05:19.781177Z",
+  "totalVideos": 21,
+  "totalChannels": 3
 }

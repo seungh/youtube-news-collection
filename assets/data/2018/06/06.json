@@ -5568,6 +5568,29 @@
       "channelId": "UCfq4V1DAuaojnr2ryvWNysw",
       "channelName": "채널A News",
       "collectedAt": "2025-08-26T12:49:32Z"
+    },
+    "X3ht8EctAMI": {
+      "videoId": "X3ht8EctAMI",
+      "title": "현충일 맑고 더워…영남·강원 산지 오후 소나기",
+      "description": "[1] 현충일이자 절기 망종인 오늘은 다시 더위가 찾아옵니다. 서울의 낮 기온 29도, 광주 30도까지 오르겠습니다. 특히 영남내륙과 강원 북부 동해안에서는 더위가 심해지겠습니다. 바로 서풍이 불어오며 동쪽지역이 더 뜨겁게 달궈지기 때문입니다. 고성과 대구 32도, 의성 33도까지 치솟겠습니다. 이들 지역에서는 오늘 11시를 기해서는 폭염주의보도 발효 되겠습니다. 특보는 금요일까지 지속 될 가능성이 크겠습니다.\n\n  [2] 볕이 강해지는 만큼 낮에는 전국적으로 자외선지수가 매우 높음 단계까지 오르겠습니다. 여기에 오존 농도 또한 짙어질 것으로 보입니다. 미세먼지 농도는 서쪽지역과 영남에서 높게 나타나겠습니다.\n\n  [위성] 지금 중부지방은 대체로 맑고, 남부지방은 구름 많이 지나고 있습니다. \n\n  [중부] 오늘 전국이 대체로 맑겠습니다. 단, 대기 불안정으로 강원 남부 산지와\n\n  [남부] 일부 영남내륙에서는 오후에 소나기가 지나겠습니다.\n\n  [현재] 지금 전국 대부분 지역 20도 안팎으로 출발합니다.\n\n  [최고] 낮에는 서울 29도, 강릉 31도, 전주 30도까지 오르겠습니다.\n\n  [주간] 토요일까지는 맑고 더운 날씨가 이어지겠습니다. 일요일에는 전국에서 비가 내리면서 더위도 한풀 꺾일 전망입니다. 날씨였습니다.",
+      "publishedAt": "2018-06-06T00:08:43Z",
+      "duration": "PT1M22S",
+      "viewCount": 732,
+      "likeCount": 6,
+      "commentCount": 2,
+      "tags": [
+        "MBN",
+        "굿모닝MBN",
+        "날씨",
+        "동영상일기예보",
+        "일기예보"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2018-06-06T00:08:43Z",
+      "channelId": "UCG9aFJTZ-lMCHAiO1KJsirg",
+      "channelName": "MBN News",
+      "collectedAt": "2025-08-27T19:05:24Z"
     }
   },
   "channels": {
@@ -5813,9 +5836,36 @@
       "viewCount": 6198116921,
       "videoCount": 143713,
       "lastUpdated": "2025-08-26T12:49:32.415843Z"
+    },
+    "UCG9aFJTZ-lMCHAiO1KJsirg": {
+      "channelId": "UCG9aFJTZ-lMCHAiO1KJsirg",
+      "channelName": "MBN News",
+      "channelUrl": "@mbn",
+      "channelDescription": "「공정 신뢰 품격」이 있는 MBN 뉴스 ! \n유튜브 MBN NEWS로 여러분께 한발 더 다가갑니다.",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/UBR0COW1X-RPnea8iGVXy6Jl3iOMhEASJHVDOlR7GJ9G0N4d0B1CCWPPATal58moPvAz4SBrFA=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/UBR0COW1X-RPnea8iGVXy6Jl3iOMhEASJHVDOlR7GJ9G0N4d0B1CCWPPATal58moPvAz4SBrFA=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/UBR0COW1X-RPnea8iGVXy6Jl3iOMhEASJHVDOlR7GJ9G0N4d0B1CCWPPATal58moPvAz4SBrFA=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 2490000,
+      "viewCount": 3277338867,
+      "videoCount": 233128,
+      "lastUpdated": "2025-08-27T19:05:24.357954Z"
     }
   },
-  "lastUpdated": "2025-08-26T12:49:32.417897Z",
-  "totalVideos": 161,
-  "totalChannels": 9
+  "lastUpdated": "2025-08-27T19:05:24.357954Z",
+  "totalVideos": 162,
+  "totalChannels": 10
 }

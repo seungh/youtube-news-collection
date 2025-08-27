@@ -260,6 +260,27 @@
       "channelId": "UCF4Wxdo3inmxP-Y59wXDsFw",
       "channelName": "MBCNEWS",
       "collectedAt": "2025-08-25T21:08:05Z"
+    },
+    "T1x4ktStXfI": {
+      "videoId": "T1x4ktStXfI",
+      "title": "5월 15일 시청자의 눈 / YTN (Yes! Top News)",
+      "description": "[앵커]\n여러분 안녕하십니까?\n\nYTN 시청자를 위한 옴부즈만 프로그램 '시청자의 눈'입니다.\n\n1. 뉴스 진단\n먼저 '뉴스 진단' 시간입니다.\n\n이번 주엔 '북한 7차 노동당 대회 관련 보도'를 모니터했습니다.\n\n이정남 시청자 평가원과 정치부 이선아 기자 나오셨습니다.\n\n2. 내가 본 마이티엔\n지상파 디엠비 채널인 YTN DMB 프로그램을 평가하는 '내가 본 마이티엔' 순서입니다. \n\n이번 주엔 '캐스터들의 수다'와 '뉴스 통'에 대한 곽정래 평가원의 의견을 들어보겠습니다.\n\n3. 모니터 보고\n이번 순서는 시청자들의 지적 사항을 정리한 '모니터 보고' 시간입니다.\n\nYTN 뉴스를 시청하다 보면 자막에 포함된 부적절해 보이는 도표나, 기사 내용과 어울리지 않는 화면이 종종 나타나는데, 시청자들은 좀 더 세심한 주의를 요구했습니다.\n\n4. 매체 비평\n언론 전문가로부터 우리 언론의 문제점과 발전 방향 등을 들어 보는 '매체 비평' 시간입니다.\n\n오늘은 이철한 동국대학교 교수로부터 '20대 국회의원 여론조사 보도의 문제점과 개선방향'이라는 주제의 논평을 들어보겠습니다.\n\n▶ 기사 원문 : http://www.ytn.co.kr/_pn/0429_201605150152597863\n▶ 제보 안내 : http://goo.gl/gEvsAL, 모바일앱, 8585@ytn.co.kr, #2424\n\n▣ YTN 유튜브 채널 구독 : http://goo.gl/Ytb5SZ\n\n[ 한국 뉴스 채널 와이티엔 / Korea News Channel YTN ]",
+      "publishedAt": "2016-05-14T17:37:29Z",
+      "duration": "PT23M32S",
+      "viewCount": 646,
+      "likeCount": 0,
+      "commentCount": 0,
+      "tags": [
+        "YTN",
+        "프로그램",
+        "시청자의 눈"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2016-05-14T17:37:29Z",
+      "channelId": "UChlgI3UHCOnwUGzWzbJ3H5w",
+      "channelName": " YTN",
+      "collectedAt": "2025-08-27T19:05:00Z"
     }
   },
   "channels": {
@@ -343,9 +364,36 @@
       "viewCount": 24230949851,
       "videoCount": 332919,
       "lastUpdated": "2025-08-25T21:08:05.972234Z"
+    },
+    "UChlgI3UHCOnwUGzWzbJ3H5w": {
+      "channelId": "UChlgI3UHCOnwUGzWzbJ3H5w",
+      "channelName": " YTN",
+      "channelUrl": "@ytnnews24",
+      "channelDescription": "24시간 생중계되는 대한민국 대표 뉴스\nYTN 공식채널을 지금 바로 구독하세요\n\n▶ 구독하기 : http://goo.gl/Ytb5SZ\n\n▶ YTN 기사제보 안내\n- 홈페이지: https://mj.ytn.co.kr/mj/mj_write.php?sort=0\n- 모바일: YTN 앱의 제보하기\n- 이메일: social@ytn.co.kr\n- 전화: 02-398-8282 또는 8585 \n\n▶ 라이브 스트리밍 대체광고 및 콘텐츠 협업 문의\n - 이메일 : ljk@ytn.co.kr\n\n▶ 영상 사용 및 구매 문의\n - https://www.ytn.co.kr/business/sell_program.php\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/Sd77hfGXNh1K4VgLCnYVrzWVkUKh04N5VDClPweoP-sbaZXzH3llUz2W1N_-Z4RX5_XauYpvSQ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/Sd77hfGXNh1K4VgLCnYVrzWVkUKh04N5VDClPweoP-sbaZXzH3llUz2W1N_-Z4RX5_XauYpvSQ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/Sd77hfGXNh1K4VgLCnYVrzWVkUKh04N5VDClPweoP-sbaZXzH3llUz2W1N_-Z4RX5_XauYpvSQ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 5150000,
+      "viewCount": 17635969172,
+      "videoCount": 889907,
+      "lastUpdated": "2025-08-27T19:05:00.991613Z"
     }
   },
-  "lastUpdated": "2025-08-25T21:08:05.972234Z",
-  "totalVideos": 7,
-  "totalChannels": 3
+  "lastUpdated": "2025-08-27T19:05:00.992633Z",
+  "totalVideos": 8,
+  "totalChannels": 4
 }

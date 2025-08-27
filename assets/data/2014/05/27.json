@@ -171,6 +171,69 @@
       "channelId": "UC4Aa3OPkMenwTANpf0oWVRQ",
       "channelName": "CBS 김현정의 뉴스쇼",
       "collectedAt": "2025-08-22T14:03:31Z"
+    },
+    "GPZUrrFD1Rk": {
+      "videoId": "GPZUrrFD1Rk",
+      "title": "[돌발 플러스] 조건부 약속 / YTN",
+      "description": "[YTN 기사원문] http://www.ytn.co.kr/_pn/0949_201405270842338287\n[돌발 플러스] 조건부 약속",
+      "publishedAt": "2014-05-27T02:53:39Z",
+      "duration": "PT1M33S",
+      "viewCount": 223,
+      "likeCount": 0,
+      "commentCount": 0,
+      "tags": [
+        "YTN",
+        "프로그램",
+        "돌발 플러스"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2014-05-27T02:53:39Z",
+      "channelId": "UChlgI3UHCOnwUGzWzbJ3H5w",
+      "channelName": " YTN",
+      "collectedAt": "2025-08-27T19:05:17Z"
+    },
+    "i8mfUv6DVn4": {
+      "videoId": "i8mfUv6DVn4",
+      "title": "'매트릭스' 세계가 우주로 확장된다...'주피터 어센딩' / YTN",
+      "description": "[YTN 기사원문] http://www.ytn.co.kr/_pn/0109_201405271453521258\n'매트릭스' 시리즈를 탄생시킨 워쇼스키 남매의 신작 '주피터 어센딩'의 2차 예고편이 공개됐다. 인류를 구원할 운명을 모른 채 지구에 살고 있는 '주피터'의 이야기를 그린 SF 블록버스터.본인들 특유의 장기를 살려 인류를 구원할 거대한 운명을 갖고 태어난 인간과 우주의 질서와 균형에 대해 논한다.2차 예고편에서는 \"...",
+      "publishedAt": "2014-05-27T08:52:45Z",
+      "duration": "PT1M23S",
+      "viewCount": 1623,
+      "likeCount": 5,
+      "commentCount": 0,
+      "tags": [
+        "YTN",
+        "프로그램",
+        "미공개 영상"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2014-05-27T08:52:45Z",
+      "channelId": "UChlgI3UHCOnwUGzWzbJ3H5w",
+      "channelName": " YTN",
+      "collectedAt": "2025-08-27T19:05:17Z"
+    },
+    "SLu4fVSFzds": {
+      "videoId": "SLu4fVSFzds",
+      "title": "'창문넘어 도망친 100세 노인'...전 세계를 휩쓴 다이너마이트급 코미디 / YTN",
+      "description": "[YTN 기사원문] http://www.ytn.co.kr/_pn/0109_201405270924368800\n스웨덴의 세계적 베스트셀러 작가 요나스 요나손의 동명 소설을 원작으로 한 '창문넘어 도망친 100세 노인'의 예고편이 공개됐다.영화 '창문넘어 도망친 100세 노인'은 지난 100년간 스탈린과 김일성, 아인슈타인의 멘토로 20세기 역사를 들었다 놨다 한 숨겨진 능력자 알란 할배가 100세 생일을 맞아 요양원을 탈출하며 벌...",
+      "publishedAt": "2014-05-27T04:31:34Z",
+      "duration": "PT1M56S",
+      "viewCount": 20131,
+      "likeCount": 32,
+      "commentCount": 0,
+      "tags": [
+        "YTN",
+        "프로그램",
+        "미공개 영상"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2014-05-27T04:31:34Z",
+      "channelId": "UChlgI3UHCOnwUGzWzbJ3H5w",
+      "channelName": " YTN",
+      "collectedAt": "2025-08-27T19:05:17Z"
     }
   },
   "channels": {
@@ -227,9 +290,36 @@
       "viewCount": 1280577570,
       "videoCount": 19124,
       "lastUpdated": "2025-08-24T21:55:05.526117Z"
+    },
+    "UChlgI3UHCOnwUGzWzbJ3H5w": {
+      "channelId": "UChlgI3UHCOnwUGzWzbJ3H5w",
+      "channelName": " YTN",
+      "channelUrl": "@ytnnews24",
+      "channelDescription": "24시간 생중계되는 대한민국 대표 뉴스\nYTN 공식채널을 지금 바로 구독하세요\n\n▶ 구독하기 : http://goo.gl/Ytb5SZ\n\n▶ YTN 기사제보 안내\n- 홈페이지: https://mj.ytn.co.kr/mj/mj_write.php?sort=0\n- 모바일: YTN 앱의 제보하기\n- 이메일: social@ytn.co.kr\n- 전화: 02-398-8282 또는 8585 \n\n▶ 라이브 스트리밍 대체광고 및 콘텐츠 협업 문의\n - 이메일 : ljk@ytn.co.kr\n\n▶ 영상 사용 및 구매 문의\n - https://www.ytn.co.kr/business/sell_program.php\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/Sd77hfGXNh1K4VgLCnYVrzWVkUKh04N5VDClPweoP-sbaZXzH3llUz2W1N_-Z4RX5_XauYpvSQ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/Sd77hfGXNh1K4VgLCnYVrzWVkUKh04N5VDClPweoP-sbaZXzH3llUz2W1N_-Z4RX5_XauYpvSQ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/Sd77hfGXNh1K4VgLCnYVrzWVkUKh04N5VDClPweoP-sbaZXzH3llUz2W1N_-Z4RX5_XauYpvSQ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 5150000,
+      "viewCount": 17635969172,
+      "videoCount": 889907,
+      "lastUpdated": "2025-08-27T19:05:17.579792Z"
     }
   },
-  "lastUpdated": "2025-08-24T21:55:05.527109Z",
-  "totalVideos": 7,
-  "totalChannels": 2
+  "lastUpdated": "2025-08-27T19:05:17.580793Z",
+  "totalVideos": 10,
+  "totalChannels": 3
 }

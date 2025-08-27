@@ -1121,6 +1121,23 @@
       "channelId": "UCfq4V1DAuaojnr2ryvWNysw",
       "channelName": "채널A News",
       "collectedAt": "2025-08-26T12:50:01Z"
+    },
+    "FVTHYaqQw84": {
+      "videoId": "FVTHYaqQw84",
+      "title": "김주하의 1월 27일 '이 한 장의 사진'",
+      "description": "김주하의 1월 27일 '이 한 장의 사진'\n설을 하루 앞두고, 오늘 서울 광화문 광장은 텅 비어버렸습니다.\n고향으로 떠난 분들도 있고, 설 준비에 모두 바빠서겠지요.\n하지만 여기, 서울 노원구의 한 복권 판매점에는 많은 사람들이 줄을 서있습니다.\n'새해 복 많이 받으세요' 라는 덕담을 듣기보다는 직접 복을 찾아나선 분들인 듯 합니다.\n시청자 여러분도 새해 복 많이 찾으시길 바랍니다.\n'이 한장의 사진' 더 보기\n☞ http://me2.do/GRbr5mCd",
+      "publishedAt": "2017-01-27T14:10:35Z",
+      "duration": "PT36S",
+      "viewCount": 968,
+      "likeCount": 3,
+      "commentCount": 0,
+      "tags": [],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2017-01-27T14:10:35Z",
+      "channelId": "UCG9aFJTZ-lMCHAiO1KJsirg",
+      "channelName": "MBN News",
+      "collectedAt": "2025-08-27T19:05:24Z"
     }
   },
   "channels": {
@@ -1231,9 +1248,36 @@
       "viewCount": 6198116921,
       "videoCount": 143713,
       "lastUpdated": "2025-08-26T12:50:01.774839Z"
+    },
+    "UCG9aFJTZ-lMCHAiO1KJsirg": {
+      "channelId": "UCG9aFJTZ-lMCHAiO1KJsirg",
+      "channelName": "MBN News",
+      "channelUrl": "@mbn",
+      "channelDescription": "「공정 신뢰 품격」이 있는 MBN 뉴스 ! \n유튜브 MBN NEWS로 여러분께 한발 더 다가갑니다.",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/UBR0COW1X-RPnea8iGVXy6Jl3iOMhEASJHVDOlR7GJ9G0N4d0B1CCWPPATal58moPvAz4SBrFA=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/UBR0COW1X-RPnea8iGVXy6Jl3iOMhEASJHVDOlR7GJ9G0N4d0B1CCWPPATal58moPvAz4SBrFA=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/UBR0COW1X-RPnea8iGVXy6Jl3iOMhEASJHVDOlR7GJ9G0N4d0B1CCWPPATal58moPvAz4SBrFA=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 2490000,
+      "viewCount": 3277338867,
+      "videoCount": 233128,
+      "lastUpdated": "2025-08-27T19:05:24.102617Z"
     }
   },
-  "lastUpdated": "2025-08-26T12:50:01.775320Z",
-  "totalVideos": 38,
-  "totalChannels": 4
+  "lastUpdated": "2025-08-27T19:05:24.104612Z",
+  "totalVideos": 39,
+  "totalChannels": 5
 }

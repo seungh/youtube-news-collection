@@ -2543,6 +2543,23 @@
       "channelId": "UCfq4V1DAuaojnr2ryvWNysw",
       "channelName": "채널A News",
       "collectedAt": "2025-08-26T12:49:59Z"
+    },
+    "aQCEMIMsF_I": {
+      "videoId": "aQCEMIMsF_I",
+      "title": "김주하의 6월 7일 '이 한 장의 사진'",
+      "description": "한 남성이 아들의 대학등록금 90만 원이 담긴 돈 봉투를 떨어뜨렸습니다. \n그런데 이걸 주은 여성이 갖고 있던 봉투엔 85만 원 뿐이라 돈 주인은 돈을 돌려받지 못할 뻔했습니다. \n5만 원을 다른 사람이 주워 갔던거죠.\n사연을 안타깝게 여긴 한 경찰관이 주변 CCTV를 샅샅이 뒤진 덕에, 이런 민중의 지팡이 덕에 한 사람이 웃을 수 있었습니다.\n'이 한장의 사진' 더 보기\n☞ http://me2.do/GRbr5mCd",
+      "publishedAt": "2017-06-07T12:10:58Z",
+      "duration": "PT40S",
+      "viewCount": 1922,
+      "likeCount": 4,
+      "commentCount": 0,
+      "tags": [],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2017-06-07T12:10:58Z",
+      "channelId": "UCG9aFJTZ-lMCHAiO1KJsirg",
+      "channelName": "MBN News",
+      "collectedAt": "2025-08-27T19:05:24Z"
     }
   },
   "channels": {
@@ -2734,9 +2751,36 @@
       "viewCount": 6198116921,
       "videoCount": 143713,
       "lastUpdated": "2025-08-26T12:49:59.274884Z"
+    },
+    "UCG9aFJTZ-lMCHAiO1KJsirg": {
+      "channelId": "UCG9aFJTZ-lMCHAiO1KJsirg",
+      "channelName": "MBN News",
+      "channelUrl": "@mbn",
+      "channelDescription": "「공정 신뢰 품격」이 있는 MBN 뉴스 ! \n유튜브 MBN NEWS로 여러분께 한발 더 다가갑니다.",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/UBR0COW1X-RPnea8iGVXy6Jl3iOMhEASJHVDOlR7GJ9G0N4d0B1CCWPPATal58moPvAz4SBrFA=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/UBR0COW1X-RPnea8iGVXy6Jl3iOMhEASJHVDOlR7GJ9G0N4d0B1CCWPPATal58moPvAz4SBrFA=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/UBR0COW1X-RPnea8iGVXy6Jl3iOMhEASJHVDOlR7GJ9G0N4d0B1CCWPPATal58moPvAz4SBrFA=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 2490000,
+      "viewCount": 3277338867,
+      "videoCount": 233128,
+      "lastUpdated": "2025-08-27T19:05:24.030808Z"
     }
   },
-  "lastUpdated": "2025-08-26T12:49:59.274884Z",
-  "totalVideos": 90,
-  "totalChannels": 7
+  "lastUpdated": "2025-08-27T19:05:24.031805Z",
+  "totalVideos": 91,
+  "totalChannels": 8
 }
