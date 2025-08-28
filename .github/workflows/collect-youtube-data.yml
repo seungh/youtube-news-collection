@@ -28,7 +28,7 @@ jobs:
           git init
           git remote add origin https://github.com/${{ github.repository }}.git
           git config core.sparseCheckout true
-          echo "assets/data/2025/" >> .git/info/sparse-checkout
+          echo "assets/data/2025/ scripts/" >> .git/info/sparse-checkout
           git pull origin ${{ github.ref }} --depth=1
 
       - name: Set up Python
