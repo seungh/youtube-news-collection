@@ -23,14 +23,11 @@ jobs:
           echo "ref: ${{ github.ref }}"
           date -u
 
-      - name: Checkout
-        run: |
-          git init
-          git remote add origin https://github.com/${{ github.repository }}.git
-          git config core.sparseCheckout true
-          echo "assets/data/2025/" >> .git/info/sparse-checkout
-          echo "scripts/" >> .git/info/sparse-checkout
-          git pull origin ${{ github.ref }} --depth=1
+      - name: Checkout (with push credentials)
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+          fetch-depth: 1
 
       - name: Set up Python
         uses: actions/setup-python@v5
