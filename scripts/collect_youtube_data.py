@@ -277,8 +277,8 @@ class YouTubeDataCollector:
         self.update_data_files(videos_by_date)
         
         # Create summary file
-        logger.info("Generating data summary file...")
-        self.file_manager.create_summary_file()
+        # logger.info("Generating data summary file...")
+        # self.file_manager.create_summary_file()
         
         # Completion statistics
         end_time = datetime.now()

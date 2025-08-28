@@ -55,7 +55,7 @@ class FileManager:
                 if "totalChannels" not in data:
                     data["totalChannels"] = len(data["channels"])
                 
-            logger.info(f"Loaded existing data: {len(data['videos'])} videos, {len(data['channels'])} channels from {file_path}")
+            logger.debug(f"Loaded existing data: {len(data['videos'])} videos, {len(data['channels'])} channels from {file_path}")
             return data
                 
         except (json.JSONDecodeError, FileNotFoundError) as e:
@@ -76,8 +76,8 @@ class FileManager:
             # Move temporary file to actual file
             temp_path.replace(file_path)
             
-            logger.info(f"Data saved successfully: {file_path}")
-            logger.info(f"Total {data['totalVideos']} videos, {data['totalChannels']} channels")
+            logger.debug(f"Data saved successfully: {file_path}")
+            logger.debug(f"Total {data['totalVideos']} videos, {data['totalChannels']} channels")
             
             return True
             
@@ -119,7 +119,7 @@ class FileManager:
             is_updated(existing_data["channels"][channel_id], channel_info, ["lastUpdated"])):
             existing_data["channels"][channel_id] = channel_info
             updated = True
-            logger.info(f"Updated channel info: {channel_data['channelName']}")
+            logger.debug(f"Updated channel info: {channel_data['channelName']}")
         
         # Update video information
         new_videos_count = 0
@@ -149,10 +149,10 @@ class FileManager:
                 updated = True
         
         if new_videos_count > 0:
-            logger.info(f"Added {new_videos_count} new videos")
+            logger.debug(f"Added {new_videos_count} new videos")
         
         if updated_videos_count > 0:
-            logger.info(f"Updated {updated_videos_count} existing videos")
+            logger.debug(f"Updated {updated_videos_count} existing videos")
         
         # Update metadata
         if updated:
@@ -189,7 +189,7 @@ class FileManager:
                 logger.warning(f"Failed to parse date for video ({video.get('videoId', 'unknown')}): {e}")
                 continue
         
-        logger.info(f"Organized videos into {len(grouped_videos)} date groups")
+        logger.debug(f"Organized videos into {len(grouped_videos)} date groups")
         return grouped_videos
     
     def get_existing_files(self) -> List[Path]:

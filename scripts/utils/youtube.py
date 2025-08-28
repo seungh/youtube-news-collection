@@ -88,7 +88,7 @@ class YouTubeAPI:
             request_key = self._create_request_key(endpoint, params)
             stored_etag, cached_data = self.cache_manager.get_etag(request_key)
             if stored_etag:
-                logger.info(f"Using etag for request: {request_key}")
+                logger.debug(f"Using etag for request: {request_key}")
                 headers['If-None-Match'] = stored_etag
 
         url = f"{self.base_url}/{endpoint}"
@@ -112,7 +112,7 @@ class YouTubeAPI:
                         etag = data.get('etag')
                         if etag:
                             self.cache_manager.save_etag(request_key, etag, data)
-                            logger.info(f"Saved ETag({etag}) for request: {request_key}")
+                            logger.debug(f"Saved ETag({etag}) for request: {request_key}")
                         self.quota_tracker.add_request(endpoint, False)
 
                     logger.debug(f"API request successful: {endpoint}")
@@ -120,7 +120,7 @@ class YouTubeAPI:
                 
                 elif response.status_code == 304:
                     # Not modified - return cached data
-                    logger.info(f"Data not modified (304). Using cached data for: {request_key}")
+                    logger.debug(f"Data not modified (304). Using cached data for: {request_key}")
                     if self.use_cache and cached_data:
                         self.quota_tracker.add_request(endpoint, True)
                         return cached_data
@@ -193,7 +193,7 @@ class YouTubeAPI:
         try:
             video_ids = []
             next_page_token = None
-            logger.info(f"Searching video IDs..: {playlist_id}")
+            logger.info(f"Searching video IDs from {playlist_id}")
             
             while len(video_ids) < max_results:
                 response = self._make_request("playlistItems", {
