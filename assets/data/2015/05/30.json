@@ -243,6 +243,25 @@
       "channelId": "UChlgI3UHCOnwUGzWzbJ3H5w",
       "channelName": " YTN",
       "collectedAt": "2025-08-27T19:04:46Z"
+    },
+    "Mg8j04K2ojQ": {
+      "videoId": "Mg8j04K2ojQ",
+      "title": "[하모니] 찬아네 가족의 희망일기 - 네번째 이야기",
+      "description": "[하모니] 찬아네 가족의 희망일기 - 네번째 이야기\r\n\r\n연합뉴스TV 제보:02-398-4409, yjebo@yna.co.kr\r\n\r\n(끝)",
+      "publishedAt": "2015-05-30T00:38:27Z",
+      "duration": "PT11M54S",
+      "viewCount": 2862,
+      "likeCount": 19,
+      "commentCount": 0,
+      "tags": [
+        "Yonhapnews TV"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2015-05-30T00:38:27Z",
+      "channelId": "UCTHCOPwqNfZ0uiKOvFyhGwg",
+      "channelName": "연합뉴스TV",
+      "collectedAt": "2025-08-29T02:43:16Z"
     }
   },
   "channels": {
@@ -323,12 +342,39 @@
         }
       },
       "subscriberCount": 5150000,
-      "viewCount": 17635969172,
-      "videoCount": 889907,
-      "lastUpdated": "2025-08-27T19:04:46.628235Z"
+      "viewCount": 17649222300,
+      "videoCount": 890317,
+      "lastUpdated": "2025-08-29T02:43:16.932309Z"
+    },
+    "UCTHCOPwqNfZ0uiKOvFyhGwg": {
+      "channelId": "UCTHCOPwqNfZ0uiKOvFyhGwg",
+      "channelName": "연합뉴스TV",
+      "channelUrl": "@yonhapnewstv23",
+      "channelDescription": "대한민국 뉴스의 시작, 24시간 뉴스 채널 연합뉴스TV\n실시간 뉴스 생방송, 생생한 뉴스의 현장을 LIVE로 시청하세요.\n이 채널은 연합뉴스TV의 Youtube 유튜브 공식 채널 입니다.",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_kFqbmXOoxJIaLVQYrJMB8gR8_LTF7Wm1lDpZbCmqhJh3U=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_kFqbmXOoxJIaLVQYrJMB8gR8_LTF7Wm1lDpZbCmqhJh3U=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_kFqbmXOoxJIaLVQYrJMB8gR8_LTF7Wm1lDpZbCmqhJh3U=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 2080000,
+      "viewCount": 3351994752,
+      "videoCount": 627296,
+      "lastUpdated": "2025-08-29T02:43:16.932309Z"
     }
   },
-  "lastUpdated": "2025-08-27T19:04:46.628235Z",
-  "totalVideos": 12,
-  "totalChannels": 3
+  "lastUpdated": "2025-08-29T02:43:16.932309Z",
+  "totalVideos": 13,
+  "totalChannels": 4
 }

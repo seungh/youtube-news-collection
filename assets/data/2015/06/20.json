@@ -83,6 +83,25 @@
       "channelId": "UChlgI3UHCOnwUGzWzbJ3H5w",
       "channelName": " YTN",
       "collectedAt": "2025-08-27T19:05:12Z"
+    },
+    "5Q9Vx8iXvck": {
+      "videoId": "5Q9Vx8iXvck",
+      "title": "[하모니] 웃어라! 문 자매 - 세 번째 이야기",
+      "description": "[하모니] 웃어라! 문 자매 - 세 번째 이야기\r\n\r\n전북 무주군 안성면에 사는 문한슬(11세) 한별 (10세) 자매.\r\n\r\n부모님과 할머니가 함께 살고 있지만 자매를 먹이고 씻기는 손길은 찾아보기 힘들다.\r\n\r\n엄마 이영이 씨는 청각, 시각, 지적 장애를 함께 가지고 있고 할머니는 치매를 앓고 있으며 아빠는 농사 일로 바쁘기 때문이다. \r\n\r\n아이들은 아침밥도 못 먹고 씻지도 못 하고 감지 않은 머리에서는 머릿니가 늘어가는 실정. \r\n\r\n한슬이는 행여 머릿니라도 옮길까 걱정돼 친구들과 어울리지 못하고 주변만 맴돈다. \r\n\r\n학교 선생님의 상담 전화에 한슬이와 한별이의 목욕을 시키기로 한 부부. \r\n\r\n물을 데우기 위해 마당 아궁이에 불을 지피기 시작하는데… \r\n\r\n웃어라! 문자매. \r\n\r\n세 번째 이야기를 만나봅니다.\r\n    \r\n연합뉴스TV 제보:02-398-4409, yjebo@yna.co.kr\r\n\r\n(끝)",
+      "publishedAt": "2015-06-20T00:14:40Z",
+      "duration": "PT12M10S",
+      "viewCount": 12828,
+      "likeCount": 31,
+      "commentCount": 5,
+      "tags": [
+        "Yonhapnews TV"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2015-06-20T00:14:40Z",
+      "channelId": "UCTHCOPwqNfZ0uiKOvFyhGwg",
+      "channelName": "연합뉴스TV",
+      "collectedAt": "2025-08-29T02:43:47Z"
     }
   },
   "channels": {
@@ -109,12 +128,39 @@
         }
       },
       "subscriberCount": 5150000,
-      "viewCount": 17635969172,
-      "videoCount": 889907,
-      "lastUpdated": "2025-08-27T19:05:12.228298Z"
+      "viewCount": 17649222300,
+      "videoCount": 890317,
+      "lastUpdated": "2025-08-29T02:43:47.512144Z"
+    },
+    "UCTHCOPwqNfZ0uiKOvFyhGwg": {
+      "channelId": "UCTHCOPwqNfZ0uiKOvFyhGwg",
+      "channelName": "연합뉴스TV",
+      "channelUrl": "@yonhapnewstv23",
+      "channelDescription": "대한민국 뉴스의 시작, 24시간 뉴스 채널 연합뉴스TV\n실시간 뉴스 생방송, 생생한 뉴스의 현장을 LIVE로 시청하세요.\n이 채널은 연합뉴스TV의 Youtube 유튜브 공식 채널 입니다.",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_kFqbmXOoxJIaLVQYrJMB8gR8_LTF7Wm1lDpZbCmqhJh3U=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_kFqbmXOoxJIaLVQYrJMB8gR8_LTF7Wm1lDpZbCmqhJh3U=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_kFqbmXOoxJIaLVQYrJMB8gR8_LTF7Wm1lDpZbCmqhJh3U=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 2080000,
+      "viewCount": 3351994752,
+      "videoCount": 627296,
+      "lastUpdated": "2025-08-29T02:43:47.512144Z"
     }
   },
-  "lastUpdated": "2025-08-27T19:05:12.233848Z",
-  "totalVideos": 4,
-  "totalChannels": 1
+  "lastUpdated": "2025-08-29T02:43:47.512144Z",
+  "totalVideos": 5,
+  "totalChannels": 2
 }

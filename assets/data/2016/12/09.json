@@ -1650,6 +1650,46 @@
       "channelId": "UCG9aFJTZ-lMCHAiO1KJsirg",
       "channelName": "MBN News",
       "collectedAt": "2025-08-27T19:05:11Z"
+    },
+    "g9K-UwL5VLM": {
+      "videoId": "g9K-UwL5VLM",
+      "title": "하모니 - 한 지붕 다섯 식구 3부",
+      "description": "- 12월10일 오전 8시40분 방송 \n\n▲ 한 지붕 다섯 식구 3부\n3년 전 재혼으로 새 가정을 꾸리게 된 송고성, 이기옥 부부는 전라남도 장흥의 한 시골 마을에서 세 아이를 키우며 살고 있습니다. 작년 11월에 막내 딸 지민이까지 태어나면서 한 지붕 다섯 식구가 됐죠. 아빠의 적은 소득으로 생활에 불편함이 많습니다. 보일러까지 고장난 상황에서 시작된 하모니 솔루션! 재혼가정이 한 가족이 되어가는 특별한 사연을 '하모니'에서 만나보시죠.",
+      "publishedAt": "2016-12-09T12:38:38Z",
+      "duration": "PT48S",
+      "viewCount": 55,
+      "likeCount": 0,
+      "commentCount": 0,
+      "tags": [
+        "연합뉴스TV",
+        "하모니"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2016-12-09T12:38:38Z",
+      "channelId": "UCTHCOPwqNfZ0uiKOvFyhGwg",
+      "channelName": "연합뉴스TV",
+      "collectedAt": "2025-08-29T02:43:46Z"
+    },
+    "oBoCBOqxVjg": {
+      "videoId": "oBoCBOqxVjg",
+      "title": "트렌드 지금 여기! - 서해, 겨울을 만나다",
+      "description": "- 12월11일 오전 9시20분 방송\n\n▲ 서해, 겨울을 만나다\n당신만을 위한 소설같은 섬 소야도. 양 많고 값싼 삼길포항 선상횟집과 게르마늄 풍부한 청정갯벌에서 잡은 무안낙지. 추운 겨울에 딱, 건강만점 함평 해수찜까지! 겨울 서해여행의 매력, 쉼이 있어 따뜻한 서해의 겨울풍경을 '트렌드 지금 여기'서 만나보시죠!",
+      "publishedAt": "2016-12-09T12:26:49Z",
+      "duration": "PT43S",
+      "viewCount": 124,
+      "likeCount": 0,
+      "commentCount": 0,
+      "tags": [
+        "연합뉴스TV",
+        "트렌드 지금 여기"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2016-12-09T12:26:49Z",
+      "channelId": "UCTHCOPwqNfZ0uiKOvFyhGwg",
+      "channelName": "연합뉴스TV",
+      "collectedAt": "2025-08-29T02:43:46Z"
     }
   },
   "channels": {
@@ -1838,9 +1878,9 @@
         }
       },
       "subscriberCount": 5150000,
-      "viewCount": 17635969172,
-      "videoCount": 889907,
-      "lastUpdated": "2025-08-27T19:05:11.333123Z"
+      "viewCount": 17649222300,
+      "videoCount": 890317,
+      "lastUpdated": "2025-08-29T02:43:46.682101Z"
     },
     "UCG9aFJTZ-lMCHAiO1KJsirg": {
       "channelId": "UCG9aFJTZ-lMCHAiO1KJsirg",
@@ -1865,12 +1905,39 @@
         }
       },
       "subscriberCount": 2490000,
-      "viewCount": 3277338867,
-      "videoCount": 233128,
-      "lastUpdated": "2025-08-27T19:05:11.333123Z"
+      "viewCount": 3278386064,
+      "videoCount": 233358,
+      "lastUpdated": "2025-08-29T02:43:46.682101Z"
+    },
+    "UCTHCOPwqNfZ0uiKOvFyhGwg": {
+      "channelId": "UCTHCOPwqNfZ0uiKOvFyhGwg",
+      "channelName": "연합뉴스TV",
+      "channelUrl": "@yonhapnewstv23",
+      "channelDescription": "대한민국 뉴스의 시작, 24시간 뉴스 채널 연합뉴스TV\n실시간 뉴스 생방송, 생생한 뉴스의 현장을 LIVE로 시청하세요.\n이 채널은 연합뉴스TV의 Youtube 유튜브 공식 채널 입니다.",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_kFqbmXOoxJIaLVQYrJMB8gR8_LTF7Wm1lDpZbCmqhJh3U=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_kFqbmXOoxJIaLVQYrJMB8gR8_LTF7Wm1lDpZbCmqhJh3U=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_kFqbmXOoxJIaLVQYrJMB8gR8_LTF7Wm1lDpZbCmqhJh3U=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 2080000,
+      "viewCount": 3351994752,
+      "videoCount": 627296,
+      "lastUpdated": "2025-08-29T02:43:46.682101Z"
     }
   },
-  "lastUpdated": "2025-08-27T19:05:11.337707Z",
-  "totalVideos": 60,
-  "totalChannels": 8
+  "lastUpdated": "2025-08-29T02:43:46.682101Z",
+  "totalVideos": 62,
+  "totalChannels": 9
 }

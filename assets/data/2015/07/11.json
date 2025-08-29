@@ -372,6 +372,25 @@
       "channelId": "UChlgI3UHCOnwUGzWzbJ3H5w",
       "channelName": " YTN",
       "collectedAt": "2025-08-27T19:04:46Z"
+    },
+    "0gm9-TwQC1U": {
+      "videoId": "0gm9-TwQC1U",
+      "title": "[하모니] 장수7형제의 쨍하고 해뜰날 - 두 번째 이야기",
+      "description": "[하모니] 장수7형제의 쨍하고 해뜰날 - 두 번째 이야기 \r\n\r\n전북 장수군 천천면에 사는 7형제네 집 두 번째 이야기 \r\n\r\n아침부터 아이들과 등교 전쟁을 벌이는 부모님. \r\n\r\n장난감 가지고 학교 가겠다며 떼쓰는 막내를 달래 세 아들을 학교 버스에 태워 보낸 후 엄마는 넷째  복권이가 보고 싶다. \r\n\r\n정신지체가 있어 익산 특수학교에 다니는 복권이는 기숙사에서 생활하다 주말에만 집에 온다. \r\n\r\n아빠는 가끔 들어오는 벌목 일을 하기 위해 집을 나섰고 아이들은 냇가에서 수영을 하면 여름 더위를 식히는 중. \r\n\r\n그런데 엄마의 발 통증이 점점 심해져 걱정이다. \r\n\r\n2년 전 수술을 받았는데 쉬지 못하고 계속 일을 한 탓에 통증은 갈수록 심해지고 있다. 이제는 농사일도 돕지 못하고 내내 절뚝이며 걸어야 하는 상태. \r\n\r\n복지관에서 보내준 반찬 도시락으로 영양 보충을 해야 할 만큼 형편은 어렵지만 함께 있어 힘을 내는 장수 7형제네 집. \r\n\r\n그 두 번째 이야기를 만나본다.\r\n    연합뉴스TV 제보:02-398-4409, yjebo@yna.co.kr\r\n(끝)",
+      "publishedAt": "2015-07-11T02:27:26Z",
+      "duration": "PT12M57S",
+      "viewCount": 9259,
+      "likeCount": 33,
+      "commentCount": 2,
+      "tags": [
+        "Yonhapnews TV"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2015-07-11T02:27:26Z",
+      "channelId": "UCTHCOPwqNfZ0uiKOvFyhGwg",
+      "channelName": "연합뉴스TV",
+      "collectedAt": "2025-08-29T02:43:16Z"
     }
   },
   "channels": {
@@ -479,12 +498,39 @@
         }
       },
       "subscriberCount": 5150000,
-      "viewCount": 17635969172,
-      "videoCount": 889907,
-      "lastUpdated": "2025-08-27T19:04:46.549146Z"
+      "viewCount": 17649222300,
+      "videoCount": 890317,
+      "lastUpdated": "2025-08-29T02:43:16.848091Z"
+    },
+    "UCTHCOPwqNfZ0uiKOvFyhGwg": {
+      "channelId": "UCTHCOPwqNfZ0uiKOvFyhGwg",
+      "channelName": "연합뉴스TV",
+      "channelUrl": "@yonhapnewstv23",
+      "channelDescription": "대한민국 뉴스의 시작, 24시간 뉴스 채널 연합뉴스TV\n실시간 뉴스 생방송, 생생한 뉴스의 현장을 LIVE로 시청하세요.\n이 채널은 연합뉴스TV의 Youtube 유튜브 공식 채널 입니다.",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_kFqbmXOoxJIaLVQYrJMB8gR8_LTF7Wm1lDpZbCmqhJh3U=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_kFqbmXOoxJIaLVQYrJMB8gR8_LTF7Wm1lDpZbCmqhJh3U=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_kFqbmXOoxJIaLVQYrJMB8gR8_LTF7Wm1lDpZbCmqhJh3U=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 2080000,
+      "viewCount": 3351994752,
+      "videoCount": 627296,
+      "lastUpdated": "2025-08-29T02:43:16.848091Z"
     }
   },
-  "lastUpdated": "2025-08-27T19:04:46.553019Z",
-  "totalVideos": 17,
-  "totalChannels": 4
+  "lastUpdated": "2025-08-29T02:43:16.848091Z",
+  "totalVideos": 18,
+  "totalChannels": 5
 }

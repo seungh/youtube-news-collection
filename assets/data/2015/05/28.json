@@ -467,6 +467,28 @@
       "channelId": "UChlgI3UHCOnwUGzWzbJ3H5w",
       "channelName": " YTN",
       "collectedAt": "2025-08-27T19:05:20Z"
+    },
+    "8LRCdUkrl3s": {
+      "videoId": "8LRCdUkrl3s",
+      "title": "명장의 조건 - 종자 명장 박동복",
+      "description": "- 5월30일 오전 9시30분 방송\n\n특별한 기능을 가진 특별한 채소가 있습니다. 암을 이기는 쌈, 혈당을 조절하는 고추, 잠이 잘 오는 상추, 비아그라 고추. 당조고추, 항암배추, 항암쌈채라 불리는 채소를 만든 종자 명장 박동복 씨. 채소와 함께 건강을 지키는 비법을 알려드립니다.",
+      "publishedAt": "2015-05-28T07:38:28Z",
+      "duration": "PT36S",
+      "viewCount": 485,
+      "likeCount": 8,
+      "commentCount": 0,
+      "tags": [
+        "연합뉴스TV",
+        "명장의 조건",
+        "종자",
+        "박동복"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2015-05-28T07:38:28Z",
+      "channelId": "UCTHCOPwqNfZ0uiKOvFyhGwg",
+      "channelName": "연합뉴스TV",
+      "collectedAt": "2025-08-29T02:43:56Z"
     }
   },
   "channels": {
@@ -655,12 +677,39 @@
         }
       },
       "subscriberCount": 5150000,
-      "viewCount": 17635969172,
-      "videoCount": 889907,
-      "lastUpdated": "2025-08-27T19:05:20.505453Z"
+      "viewCount": 17649222300,
+      "videoCount": 890317,
+      "lastUpdated": "2025-08-29T02:43:56.463941Z"
+    },
+    "UCTHCOPwqNfZ0uiKOvFyhGwg": {
+      "channelId": "UCTHCOPwqNfZ0uiKOvFyhGwg",
+      "channelName": "연합뉴스TV",
+      "channelUrl": "@yonhapnewstv23",
+      "channelDescription": "대한민국 뉴스의 시작, 24시간 뉴스 채널 연합뉴스TV\n실시간 뉴스 생방송, 생생한 뉴스의 현장을 LIVE로 시청하세요.\n이 채널은 연합뉴스TV의 Youtube 유튜브 공식 채널 입니다.",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_kFqbmXOoxJIaLVQYrJMB8gR8_LTF7Wm1lDpZbCmqhJh3U=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_kFqbmXOoxJIaLVQYrJMB8gR8_LTF7Wm1lDpZbCmqhJh3U=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_kFqbmXOoxJIaLVQYrJMB8gR8_LTF7Wm1lDpZbCmqhJh3U=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 2080000,
+      "viewCount": 3351994752,
+      "videoCount": 627296,
+      "lastUpdated": "2025-08-29T02:43:56.463941Z"
     }
   },
-  "lastUpdated": "2025-08-27T19:05:20.505453Z",
-  "totalVideos": 19,
-  "totalChannels": 7
+  "lastUpdated": "2025-08-29T02:43:56.463941Z",
+  "totalVideos": 20,
+  "totalChannels": 8
 }

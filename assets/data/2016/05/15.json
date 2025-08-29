@@ -281,6 +281,31 @@
       "channelId": "UChlgI3UHCOnwUGzWzbJ3H5w",
       "channelName": " YTN",
       "collectedAt": "2025-08-27T19:05:00Z"
+    },
+    "nV4rVXOGjHw": {
+      "videoId": "nV4rVXOGjHw",
+      "title": "[기업비사] 60회 : 이병철 딸 & 이건희 딸 / 연합뉴스TV (Yonhapnews TV)",
+      "description": "[기업비사] 60회 : 이병철 딸 & 이건희 딸\n\n연합뉴스TV:02-398-4409(제보) 4441(기사문의), yjebo@yna.co.kr\n\n▶ 연합뉴스TV 유튜브 채널 구독 \nhttps://goo.gl/VuCJMi\n\n▶ 대한민국 뉴스의 시작 연합뉴스TV / Yonhap News TV \nhttp://www.yonhapnewstv.co.kr/\n\n#이병철 #이건희",
+      "publishedAt": "2016-05-15T11:11:15Z",
+      "duration": "PT24M44S",
+      "viewCount": 4043909,
+      "likeCount": 16439,
+      "commentCount": 1103,
+      "tags": [
+        "Yonhapnews TV",
+        "이병철",
+        "이건희",
+        "기업비사",
+        "삼성",
+        "이부진",
+        "이명희"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2016-05-15T11:11:15Z",
+      "channelId": "UCTHCOPwqNfZ0uiKOvFyhGwg",
+      "channelName": "연합뉴스TV",
+      "collectedAt": "2025-08-29T02:43:36Z"
     }
   },
   "channels": {
@@ -388,12 +413,39 @@
         }
       },
       "subscriberCount": 5150000,
-      "viewCount": 17635969172,
-      "videoCount": 889907,
-      "lastUpdated": "2025-08-27T19:05:00.991613Z"
+      "viewCount": 17649222300,
+      "videoCount": 890317,
+      "lastUpdated": "2025-08-29T02:43:36.052590Z"
+    },
+    "UCTHCOPwqNfZ0uiKOvFyhGwg": {
+      "channelId": "UCTHCOPwqNfZ0uiKOvFyhGwg",
+      "channelName": "연합뉴스TV",
+      "channelUrl": "@yonhapnewstv23",
+      "channelDescription": "대한민국 뉴스의 시작, 24시간 뉴스 채널 연합뉴스TV\n실시간 뉴스 생방송, 생생한 뉴스의 현장을 LIVE로 시청하세요.\n이 채널은 연합뉴스TV의 Youtube 유튜브 공식 채널 입니다.",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_kFqbmXOoxJIaLVQYrJMB8gR8_LTF7Wm1lDpZbCmqhJh3U=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_kFqbmXOoxJIaLVQYrJMB8gR8_LTF7Wm1lDpZbCmqhJh3U=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_kFqbmXOoxJIaLVQYrJMB8gR8_LTF7Wm1lDpZbCmqhJh3U=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 2080000,
+      "viewCount": 3351994752,
+      "videoCount": 627296,
+      "lastUpdated": "2025-08-29T02:43:36.052590Z"
     }
   },
-  "lastUpdated": "2025-08-27T19:05:00.992633Z",
-  "totalVideos": 8,
-  "totalChannels": 4
+  "lastUpdated": "2025-08-29T02:43:36.052590Z",
+  "totalVideos": 9,
+  "totalChannels": 5
 }

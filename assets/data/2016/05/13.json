@@ -4206,6 +4206,46 @@
       "channelId": "UCG9aFJTZ-lMCHAiO1KJsirg",
       "channelName": "MBN News",
       "collectedAt": "2025-08-27T19:04:10Z"
+    },
+    "n1rEDcD0SvA": {
+      "videoId": "n1rEDcD0SvA",
+      "title": "트렌드 지금 여기! - 이런 소, 어떻소?",
+      "description": "- 5월15일 오전 9시30분 / 5월16일 오전 1시20분 방송\n\n▲ 이런 소, 어떻소?\n한국인이 사랑하는 맛! 특별한 날 빠질 수 없는 소고기죠! 마블링과 건강을 둘러싼 새로운 이슈들! 소고기 맛을 결정하는 새로운 기준과 미처 알지 못했던 소고기의 매력까지. 맛과 건강, 그 화제의 중심에 선 소고기 이야기를 '트렌드 지금 여기'에서 만나보시죠.",
+      "publishedAt": "2016-05-13T10:01:07Z",
+      "duration": "PT37S",
+      "viewCount": 211,
+      "likeCount": 0,
+      "commentCount": 0,
+      "tags": [
+        "연합뉴스TV",
+        "트렌드 지금 여기"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2016-05-13T10:01:07Z",
+      "channelId": "UCTHCOPwqNfZ0uiKOvFyhGwg",
+      "channelName": "연합뉴스TV",
+      "collectedAt": "2025-08-29T02:42:34Z"
+    },
+    "W80OzbfSnuc": {
+      "videoId": "W80OzbfSnuc",
+      "title": "미니다큐 오늘 - 짜장으로 나누는 부처님의 자비, 운천스님",
+      "description": "- 5월14일 오후 7시40분 방송\n\n7년째 이웃 사랑을 나누는 남원 선원사 주지 운천 스님. 불러주는 곳이 있다면 전국 어디든 직접 만든 짜장면을 들고 달려가는 스님의 바람을 '미니다큐 오늘'에서 만나보시죠.",
+      "publishedAt": "2016-05-13T10:01:07Z",
+      "duration": "PT9M21S",
+      "viewCount": 724,
+      "likeCount": 3,
+      "commentCount": 1,
+      "tags": [
+        "연합뉴스TV",
+        "미니다큐 오늘"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2016-05-13T10:01:07Z",
+      "channelId": "UCTHCOPwqNfZ0uiKOvFyhGwg",
+      "channelName": "연합뉴스TV",
+      "collectedAt": "2025-08-29T02:42:34Z"
     }
   },
   "channels": {
@@ -4421,9 +4461,9 @@
         }
       },
       "subscriberCount": 5150000,
-      "viewCount": 17635969172,
-      "videoCount": 889907,
-      "lastUpdated": "2025-08-27T19:04:10.550628Z"
+      "viewCount": 17649222300,
+      "videoCount": 890317,
+      "lastUpdated": "2025-08-29T02:42:34.487155Z"
     },
     "UCG9aFJTZ-lMCHAiO1KJsirg": {
       "channelId": "UCG9aFJTZ-lMCHAiO1KJsirg",
@@ -4448,12 +4488,39 @@
         }
       },
       "subscriberCount": 2490000,
-      "viewCount": 3277338867,
-      "videoCount": 233128,
-      "lastUpdated": "2025-08-27T19:04:10.551625Z"
+      "viewCount": 3278386064,
+      "videoCount": 233358,
+      "lastUpdated": "2025-08-29T02:42:34.487155Z"
+    },
+    "UCTHCOPwqNfZ0uiKOvFyhGwg": {
+      "channelId": "UCTHCOPwqNfZ0uiKOvFyhGwg",
+      "channelName": "연합뉴스TV",
+      "channelUrl": "@yonhapnewstv23",
+      "channelDescription": "대한민국 뉴스의 시작, 24시간 뉴스 채널 연합뉴스TV\n실시간 뉴스 생방송, 생생한 뉴스의 현장을 LIVE로 시청하세요.\n이 채널은 연합뉴스TV의 Youtube 유튜브 공식 채널 입니다.",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_kFqbmXOoxJIaLVQYrJMB8gR8_LTF7Wm1lDpZbCmqhJh3U=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_kFqbmXOoxJIaLVQYrJMB8gR8_LTF7Wm1lDpZbCmqhJh3U=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_kFqbmXOoxJIaLVQYrJMB8gR8_LTF7Wm1lDpZbCmqhJh3U=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 2080000,
+      "viewCount": 3351994752,
+      "videoCount": 627296,
+      "lastUpdated": "2025-08-29T02:42:34.487155Z"
     }
   },
-  "lastUpdated": "2025-08-27T19:04:10.552623Z",
-  "totalVideos": 177,
-  "totalChannels": 9
+  "lastUpdated": "2025-08-29T02:42:34.487155Z",
+  "totalVideos": 179,
+  "totalChannels": 10
 }

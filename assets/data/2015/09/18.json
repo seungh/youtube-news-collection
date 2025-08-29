@@ -1167,6 +1167,47 @@
       "channelId": "UCG9aFJTZ-lMCHAiO1KJsirg",
       "channelName": "MBN News",
       "collectedAt": "2025-08-27T19:05:06Z"
+    },
+    "3lWf1jvfYYs": {
+      "videoId": "3lWf1jvfYYs",
+      "title": "미니다큐 오늘 - \"산성시장 떡집 삼형제\"",
+      "description": "- 9월19일 오후 7시40분 방송\n\n공주를 대표하는 산성시장, 그 곳에 큰 덩치에 어울리지 않는 날쌘 손놀림으로 떡집을 운영하는 삼형제가 있습니다. 풍으로 쓰러지신 아버지를 대신해 홀로 생활전선에 뛰어들어 가정을 일으킨 어머니 최영순 씨. 어머니를 도와 떡집을 운영하고 있는 이재원, 이기원, 이래원 씨 삼형제. 추석 명절을 앞두고 그 어느 때 보다 바쁜 삼형제 떡집. 공주를 대표하는 떡을 만들고 싶다는 공주 산성시장 떡집 삼형제를 '미니다큐 오늘'에서 만나보시죠.",
+      "publishedAt": "2015-09-18T09:44:02Z",
+      "duration": "PT37S",
+      "viewCount": 608,
+      "likeCount": 1,
+      "commentCount": 0,
+      "tags": [
+        "연합뉴스TV",
+        "미니다큐 오늘",
+        "산성시장 떡집"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2015-09-18T09:44:02Z",
+      "channelId": "UCTHCOPwqNfZ0uiKOvFyhGwg",
+      "channelName": "연합뉴스TV",
+      "collectedAt": "2025-08-29T02:43:42Z"
+    },
+    "lv3vWEnEN8M": {
+      "videoId": "lv3vWEnEN8M",
+      "title": "[예고] 하모니 - 달려라! 의령 아지매 4부",
+      "description": "- 9월19일 08:40 / 20일 02:40 방송\n\n▲ 달려라! 의령 아지매 4부\n경남 의령에 사는 박해란씨는 19년 전 중국 길림성에서 한국으로 시집왔습니다. 현재 초중고에 다니는 세 아이를 키우며 살아가고 있죠. 해란씨 가족은 경제적으로 어렵지만 서로 양보하고 보듬으며 살아가고 있습니다. 남편 치료비로 생긴 빚 때문에 허덕이는 상황. 어려운 환경에도 웃음을 잃지 않는 박해란씨와 보물 같은 삼남매 이야기를 '하모니'에서 만나보시죠.",
+      "publishedAt": "2015-09-18T09:44:02Z",
+      "duration": "PT42S",
+      "viewCount": 98,
+      "likeCount": 0,
+      "commentCount": 0,
+      "tags": [
+        "연합뉴스TV",
+        "하모니"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2015-09-18T09:44:02Z",
+      "channelId": "UCTHCOPwqNfZ0uiKOvFyhGwg",
+      "channelName": "연합뉴스TV",
+      "collectedAt": "2025-08-29T02:43:42Z"
     }
   },
   "channels": {
@@ -1328,9 +1369,9 @@
         }
       },
       "subscriberCount": 5150000,
-      "viewCount": 17635969172,
-      "videoCount": 889907,
-      "lastUpdated": "2025-08-27T19:05:06.812215Z"
+      "viewCount": 17649222300,
+      "videoCount": 890317,
+      "lastUpdated": "2025-08-29T02:43:42.390758Z"
     },
     "UCG9aFJTZ-lMCHAiO1KJsirg": {
       "channelId": "UCG9aFJTZ-lMCHAiO1KJsirg",
@@ -1355,12 +1396,39 @@
         }
       },
       "subscriberCount": 2490000,
-      "viewCount": 3277338867,
-      "videoCount": 233128,
-      "lastUpdated": "2025-08-27T19:05:06.813116Z"
+      "viewCount": 3278386064,
+      "videoCount": 233358,
+      "lastUpdated": "2025-08-29T02:43:42.390758Z"
+    },
+    "UCTHCOPwqNfZ0uiKOvFyhGwg": {
+      "channelId": "UCTHCOPwqNfZ0uiKOvFyhGwg",
+      "channelName": "연합뉴스TV",
+      "channelUrl": "@yonhapnewstv23",
+      "channelDescription": "대한민국 뉴스의 시작, 24시간 뉴스 채널 연합뉴스TV\n실시간 뉴스 생방송, 생생한 뉴스의 현장을 LIVE로 시청하세요.\n이 채널은 연합뉴스TV의 Youtube 유튜브 공식 채널 입니다.",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_kFqbmXOoxJIaLVQYrJMB8gR8_LTF7Wm1lDpZbCmqhJh3U=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_kFqbmXOoxJIaLVQYrJMB8gR8_LTF7Wm1lDpZbCmqhJh3U=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_kFqbmXOoxJIaLVQYrJMB8gR8_LTF7Wm1lDpZbCmqhJh3U=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 2080000,
+      "viewCount": 3351994752,
+      "videoCount": 627296,
+      "lastUpdated": "2025-08-29T02:43:42.390758Z"
     }
   },
-  "lastUpdated": "2025-08-27T19:05:06.813116Z",
-  "totalVideos": 44,
-  "totalChannels": 7
+  "lastUpdated": "2025-08-29T02:43:42.390758Z",
+  "totalVideos": 46,
+  "totalChannels": 8
 }

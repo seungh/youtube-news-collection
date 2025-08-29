@@ -455,6 +455,26 @@
       "channelId": "UChlgI3UHCOnwUGzWzbJ3H5w",
       "channelName": " YTN",
       "collectedAt": "2025-08-27T19:05:23Z"
+    },
+    "yM8Pm19HKFs": {
+      "videoId": "yM8Pm19HKFs",
+      "title": "하모니 - 찬아네 가족의 희망일기 3부",
+      "description": "- 5월23일 08:30 / 24일 02:30 방송\n\n▲ 찬아네 가족의 희망일기 3부\n베트남 출신 웽티몽투 씨는 남편과 딸 찬아, 아들 성규와 함께 세종시 전동면에서 살고 있습니다. 몸무게 15kg, 또래보다 한참 작은 아홉 살 찬아는 이상행동을 보여 발달장애가 의심되는 상황입니다. 남편 박노택 씨는 아이들 알림장의 글씨조차 안 보인다며 시력저하를 호소하고 있죠. 생애 첫 건강검진을 받게 된 웽티몽투 가족의 이야기를 만나보시죠.",
+      "publishedAt": "2015-05-22T08:59:03Z",
+      "duration": "PT43S",
+      "viewCount": 97,
+      "likeCount": 1,
+      "commentCount": 0,
+      "tags": [
+        "연합뉴스TV",
+        "하모니"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2015-05-22T08:59:03Z",
+      "channelId": "UCTHCOPwqNfZ0uiKOvFyhGwg",
+      "channelName": "연합뉴스TV",
+      "collectedAt": "2025-08-29T02:43:59Z"
     }
   },
   "channels": {
@@ -616,12 +636,39 @@
         }
       },
       "subscriberCount": 5150000,
-      "viewCount": 17635969172,
-      "videoCount": 889907,
-      "lastUpdated": "2025-08-27T19:05:23.089553Z"
+      "viewCount": 17649222300,
+      "videoCount": 890317,
+      "lastUpdated": "2025-08-29T02:43:59.365014Z"
+    },
+    "UCTHCOPwqNfZ0uiKOvFyhGwg": {
+      "channelId": "UCTHCOPwqNfZ0uiKOvFyhGwg",
+      "channelName": "연합뉴스TV",
+      "channelUrl": "@yonhapnewstv23",
+      "channelDescription": "대한민국 뉴스의 시작, 24시간 뉴스 채널 연합뉴스TV\n실시간 뉴스 생방송, 생생한 뉴스의 현장을 LIVE로 시청하세요.\n이 채널은 연합뉴스TV의 Youtube 유튜브 공식 채널 입니다.",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_kFqbmXOoxJIaLVQYrJMB8gR8_LTF7Wm1lDpZbCmqhJh3U=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_kFqbmXOoxJIaLVQYrJMB8gR8_LTF7Wm1lDpZbCmqhJh3U=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_kFqbmXOoxJIaLVQYrJMB8gR8_LTF7Wm1lDpZbCmqhJh3U=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 2080000,
+      "viewCount": 3351994752,
+      "videoCount": 627296,
+      "lastUpdated": "2025-08-29T02:43:59.365014Z"
     }
   },
-  "lastUpdated": "2025-08-27T19:05:23.090545Z",
-  "totalVideos": 19,
-  "totalChannels": 6
+  "lastUpdated": "2025-08-29T02:43:59.365014Z",
+  "totalVideos": 20,
+  "totalChannels": 7
 }

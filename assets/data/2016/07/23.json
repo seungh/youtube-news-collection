@@ -442,6 +442,25 @@
       "channelId": "UChlgI3UHCOnwUGzWzbJ3H5w",
       "channelName": " YTN",
       "collectedAt": "2025-08-27T19:04:45Z"
+    },
+    "ODaJqHMa9MI": {
+      "videoId": "ODaJqHMa9MI",
+      "title": "[하모니] 선우야 사랑해…그래도 웃는다",
+      "description": "[하모니] 선우야 사랑해…그래도 웃는다\r\n\r\n통영에 사는 정희숙 씨 가족이야기로 남편과 이혼 후 친정집에서 세 아이를 키우는 한부모 가정입니다. \r\n\r\n엄마 정희숙 (34세) 삼 남매 윤선우(초3) 예진(초1) 혜랑(6세).\r\n\r\n남편과 이혼 후 친정에서 세 아이를 키우면 사는 정희숙 씨. \r\n\r\n2년 전 뇌전증이 발병해 치료를 받는 선우는 약물 치료 외에도 뇌에 생긴 종양을 치료해야 한다. \r\n\r\n종양의 크기가 커지는지 지속적으로 검사와 관찰이 필요하지만 검사 비용이 부담돼 못 받고 있는 상황. \r\n\r\n하모니가 적십자 병원을 통해 선우의 상태를 확인해보기로 한다. \r\n\r\n한편 네일숍에서 일하는 희숙씨는 밤늦게 끝나는 날이 종종 생기고 아이들은 엄마를 기다리다 얼굴도 못 보고 잠에 든다. \r\n\r\n홀로 아픈 선우와 두 딸을 키우는 희숙씨의 희망일기 두 번째 이야기를 하모니에서 만나본다.\r\n\r\n연합뉴스TV : 02-398-4409(제보) 4441(기사문의), 카톡/라인 jebo23\r\n\r\n(끝)",
+      "publishedAt": "2016-07-23T00:05:51Z",
+      "duration": "PT14M2S",
+      "viewCount": 2534,
+      "likeCount": 9,
+      "commentCount": 0,
+      "tags": [
+        "Yonhapnews TV"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2016-07-23T00:05:51Z",
+      "channelId": "UCTHCOPwqNfZ0uiKOvFyhGwg",
+      "channelName": "연합뉴스TV",
+      "collectedAt": "2025-08-29T02:43:15Z"
     }
   },
   "channels": {
@@ -522,12 +541,39 @@
         }
       },
       "subscriberCount": 5150000,
-      "viewCount": 17635969172,
-      "videoCount": 889907,
-      "lastUpdated": "2025-08-27T19:04:45.614236Z"
+      "viewCount": 17649222300,
+      "videoCount": 890317,
+      "lastUpdated": "2025-08-29T02:43:15.953987Z"
+    },
+    "UCTHCOPwqNfZ0uiKOvFyhGwg": {
+      "channelId": "UCTHCOPwqNfZ0uiKOvFyhGwg",
+      "channelName": "연합뉴스TV",
+      "channelUrl": "@yonhapnewstv23",
+      "channelDescription": "대한민국 뉴스의 시작, 24시간 뉴스 채널 연합뉴스TV\n실시간 뉴스 생방송, 생생한 뉴스의 현장을 LIVE로 시청하세요.\n이 채널은 연합뉴스TV의 Youtube 유튜브 공식 채널 입니다.",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_kFqbmXOoxJIaLVQYrJMB8gR8_LTF7Wm1lDpZbCmqhJh3U=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_kFqbmXOoxJIaLVQYrJMB8gR8_LTF7Wm1lDpZbCmqhJh3U=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_kFqbmXOoxJIaLVQYrJMB8gR8_LTF7Wm1lDpZbCmqhJh3U=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 2080000,
+      "viewCount": 3351994752,
+      "videoCount": 627296,
+      "lastUpdated": "2025-08-29T02:43:15.953987Z"
     }
   },
-  "lastUpdated": "2025-08-27T19:04:45.614236Z",
-  "totalVideos": 15,
-  "totalChannels": 3
+  "lastUpdated": "2025-08-29T02:43:15.953987Z",
+  "totalVideos": 16,
+  "totalChannels": 4
 }

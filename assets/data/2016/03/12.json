@@ -510,6 +510,25 @@
       "channelId": "UChlgI3UHCOnwUGzWzbJ3H5w",
       "channelName": " YTN",
       "collectedAt": "2025-08-27T19:04:46Z"
+    },
+    "tW1Op9usURc": {
+      "videoId": "tW1Op9usURc",
+      "title": "[하모니] 명선씨의 봄날…엄마의 하루 - 첫 번째 이야기",
+      "description": "[하모니] 명선씨의 봄날…엄마의 하루 - 첫 번째 이야기\r\n\r\n하루 18시간 동안 커피 12잔을 마시며 종이상자를 300개에서 500개 접는 부업을 하는 성명선씨. \r\n\r\n남편이 씽크대 배달 일을 하지만 수입이 일정치 않고 한창 자라는 4명의 아이들을 뒷바라지 하느라 시작한 부업이다. \r\n\r\n이런 엄마의 마음을 헤아려 집안일을 돕는 큰딸 한별이와 착하게 잘 자라주는 아이들이 있어 희망을 품고 살아가는 명선씨.\r\n\r\n하지만 엄마의 손길이 닿지 않은 집안은 지저분하게 변해가고 엄마의 건강에도 적신호가 켜졌다. \r\n\r\n점점 지쳐가는 명선씨에게 봄날은 언제쯤 찾아올까? \r\n\r\n따뜻한 인생의 봄날을 기다리는 명선씨 가족의 이야기를 하모니에서 함께 한다.\r\n\r\n연합뉴스TV : 02-398-4409(제보) 4441(기사문의), 카톡/라인 jebo23\r\n \r\n(끝)",
+      "publishedAt": "2016-03-12T00:15:29Z",
+      "duration": "PT13M57S",
+      "viewCount": 23323,
+      "likeCount": 56,
+      "commentCount": 3,
+      "tags": [
+        "Yonhapnews TV"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2016-03-12T00:15:29Z",
+      "channelId": "UCTHCOPwqNfZ0uiKOvFyhGwg",
+      "channelName": "연합뉴스TV",
+      "collectedAt": "2025-08-29T02:43:16Z"
     }
   },
   "channels": {
@@ -617,12 +636,39 @@
         }
       },
       "subscriberCount": 5150000,
-      "viewCount": 17635969172,
-      "videoCount": 889907,
-      "lastUpdated": "2025-08-27T19:04:46.047453Z"
+      "viewCount": 17649222300,
+      "videoCount": 890317,
+      "lastUpdated": "2025-08-29T02:43:16.303866Z"
+    },
+    "UCTHCOPwqNfZ0uiKOvFyhGwg": {
+      "channelId": "UCTHCOPwqNfZ0uiKOvFyhGwg",
+      "channelName": "연합뉴스TV",
+      "channelUrl": "@yonhapnewstv23",
+      "channelDescription": "대한민국 뉴스의 시작, 24시간 뉴스 채널 연합뉴스TV\n실시간 뉴스 생방송, 생생한 뉴스의 현장을 LIVE로 시청하세요.\n이 채널은 연합뉴스TV의 Youtube 유튜브 공식 채널 입니다.",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_kFqbmXOoxJIaLVQYrJMB8gR8_LTF7Wm1lDpZbCmqhJh3U=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_kFqbmXOoxJIaLVQYrJMB8gR8_LTF7Wm1lDpZbCmqhJh3U=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_kFqbmXOoxJIaLVQYrJMB8gR8_LTF7Wm1lDpZbCmqhJh3U=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 2080000,
+      "viewCount": 3351994752,
+      "videoCount": 627296,
+      "lastUpdated": "2025-08-29T02:43:16.304863Z"
     }
   },
-  "lastUpdated": "2025-08-27T19:04:46.047453Z",
-  "totalVideos": 17,
-  "totalChannels": 4
+  "lastUpdated": "2025-08-29T02:43:16.304863Z",
+  "totalVideos": 18,
+  "totalChannels": 5
 }

@@ -1137,6 +1137,27 @@
       "channelId": "UChlgI3UHCOnwUGzWzbJ3H5w",
       "channelName": " YTN",
       "collectedAt": "2025-08-27T19:05:07Z"
+    },
+    "efyObQAarkg": {
+      "videoId": "efyObQAarkg",
+      "title": "미니다큐 오늘 - 잊지 않겠습니다, 국립 현충원을 가다",
+      "description": "- 6월6일 오후 7시40분 방송\n\n순국선열과 호국영령을 기리는 현충일! 나라를 위해 목숨을 바친 영혼들이 깃든 국립 대전 현충원은 이른 아침부터 밀려오는 방문객들로 쉴 틈이 없습니다. 국가에 목숨을 바친 이들을 추모하기 위해 보이지 않는 곳에서 힘쓰는 국민들과 관람객들! 호국영령의 공과 은혜에 보답하기 위한 현충원 사람들의 48시간을 '미니다큐 오늘'에서 만나봅니다. \n\n▣ 연합뉴스TV 유튜브 채널 구독\nhttps://goo.gl/VuCJMi\n\n▣ 대한민국 뉴스의 시작 연합뉴스TV / Yonhap News TV\nhttp://www.yonhapnewstv.co.kr/",
+      "publishedAt": "2017-06-06T06:51:55Z",
+      "duration": "PT31S",
+      "viewCount": 125,
+      "likeCount": 1,
+      "commentCount": 0,
+      "tags": [
+        "연합뉴스TV",
+        "미니다큐 오늘",
+        "현충원"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2017-06-06T06:51:55Z",
+      "channelId": "UCTHCOPwqNfZ0uiKOvFyhGwg",
+      "channelName": "연합뉴스TV",
+      "collectedAt": "2025-08-29T02:43:42Z"
     }
   },
   "channels": {
@@ -1298,12 +1319,39 @@
         }
       },
       "subscriberCount": 5150000,
-      "viewCount": 17635969172,
-      "videoCount": 889907,
-      "lastUpdated": "2025-08-27T19:05:07.259518Z"
+      "viewCount": 17649222300,
+      "videoCount": 890317,
+      "lastUpdated": "2025-08-29T02:43:42.823234Z"
+    },
+    "UCTHCOPwqNfZ0uiKOvFyhGwg": {
+      "channelId": "UCTHCOPwqNfZ0uiKOvFyhGwg",
+      "channelName": "연합뉴스TV",
+      "channelUrl": "@yonhapnewstv23",
+      "channelDescription": "대한민국 뉴스의 시작, 24시간 뉴스 채널 연합뉴스TV\n실시간 뉴스 생방송, 생생한 뉴스의 현장을 LIVE로 시청하세요.\n이 채널은 연합뉴스TV의 Youtube 유튜브 공식 채널 입니다.",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_kFqbmXOoxJIaLVQYrJMB8gR8_LTF7Wm1lDpZbCmqhJh3U=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_kFqbmXOoxJIaLVQYrJMB8gR8_LTF7Wm1lDpZbCmqhJh3U=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_kFqbmXOoxJIaLVQYrJMB8gR8_LTF7Wm1lDpZbCmqhJh3U=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 2080000,
+      "viewCount": 3351994752,
+      "videoCount": 627296,
+      "lastUpdated": "2025-08-29T02:43:42.823234Z"
     }
   },
-  "lastUpdated": "2025-08-27T19:05:07.259518Z",
-  "totalVideos": 44,
-  "totalChannels": 6
+  "lastUpdated": "2025-08-29T02:43:42.823234Z",
+  "totalVideos": 45,
+  "totalChannels": 7
 }

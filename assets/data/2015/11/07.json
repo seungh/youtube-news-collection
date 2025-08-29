@@ -175,6 +175,25 @@
       "channelId": "UChlgI3UHCOnwUGzWzbJ3H5w",
       "channelName": " YTN",
       "collectedAt": "2025-08-27T19:04:46Z"
+    },
+    "YsBgS71ZSUg": {
+      "videoId": "YsBgS71ZSUg",
+      "title": "[하모니] 할머니의 소망 - 첫 번째 이야기",
+      "description": "[하모니] 할머니의 소망 - 첫 번째 이야기\r\n\r\n경남 고성군 삼산면에 사는 김점이 할머니(70세)는 손주 셋을 홀로 키우며 살고 있다. \r\n\r\n첫째 정수현(고1), 둘째 윤호(중2), 셋째 승규(초5). \r\n\r\n오랜 세월 갯벌을 터전으로 살아온 일흔 살의 김점이 할머니는 몸이 아픈 아들과 막내가 두 살 때 집을 떠난 며느리 대신 10년 전부터 혼자 힘으로 세 손주를 돌보고 있다. \r\n\r\n한창 부모 품이 필요한 아이들에게 할머니는 엄마요, 아빠요, 생계를 책임진 집안의 가장. \r\n\r\n할머니는 갯벌에서 바지락과 굴을 캐 장에 내다 팔아 아이들을 키워왔다. \r\n\r\n이제는 나이가 들어 허리는 굽었고 눈만 뜨면 바다로 일하러 나가다보니 가재도구들은 정신없이 쌓여만 가고 낡은 부엌 가구들은 헌것을 주워다 임시방편 쓰고 있는 실정이다. \r\n\r\n더구나 둘째 윤호는 간이 굳어가는 윌슨병을 앓고 있어 간 이식을 해야 하는 상태. \r\n\r\n어려운 환경 속에서도 소박한 꿈을 키우며 살아가는 고성 할머니와 세 아이들의 이야기를 하모니에서 만나본다. \r\n\r\n(끝)",
+      "publishedAt": "2015-11-07T00:53:50Z",
+      "duration": "PT12M12S",
+      "viewCount": 2310,
+      "likeCount": 8,
+      "commentCount": 1,
+      "tags": [
+        "Yonhapnews TV"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2015-11-07T00:53:50Z",
+      "channelId": "UCTHCOPwqNfZ0uiKOvFyhGwg",
+      "channelName": "연합뉴스TV",
+      "collectedAt": "2025-08-29T02:43:16Z"
     }
   },
   "channels": {
@@ -228,12 +247,39 @@
         }
       },
       "subscriberCount": 5150000,
-      "viewCount": 17635969172,
-      "videoCount": 889907,
-      "lastUpdated": "2025-08-27T19:04:46.282032Z"
+      "viewCount": 17649222300,
+      "videoCount": 890317,
+      "lastUpdated": "2025-08-29T02:43:16.581149Z"
+    },
+    "UCTHCOPwqNfZ0uiKOvFyhGwg": {
+      "channelId": "UCTHCOPwqNfZ0uiKOvFyhGwg",
+      "channelName": "연합뉴스TV",
+      "channelUrl": "@yonhapnewstv23",
+      "channelDescription": "대한민국 뉴스의 시작, 24시간 뉴스 채널 연합뉴스TV\n실시간 뉴스 생방송, 생생한 뉴스의 현장을 LIVE로 시청하세요.\n이 채널은 연합뉴스TV의 Youtube 유튜브 공식 채널 입니다.",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_kFqbmXOoxJIaLVQYrJMB8gR8_LTF7Wm1lDpZbCmqhJh3U=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_kFqbmXOoxJIaLVQYrJMB8gR8_LTF7Wm1lDpZbCmqhJh3U=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_kFqbmXOoxJIaLVQYrJMB8gR8_LTF7Wm1lDpZbCmqhJh3U=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 2080000,
+      "viewCount": 3351994752,
+      "videoCount": 627296,
+      "lastUpdated": "2025-08-29T02:43:16.581149Z"
     }
   },
-  "lastUpdated": "2025-08-27T19:04:46.283029Z",
-  "totalVideos": 8,
-  "totalChannels": 2
+  "lastUpdated": "2025-08-29T02:43:16.581149Z",
+  "totalVideos": 9,
+  "totalChannels": 3
 }

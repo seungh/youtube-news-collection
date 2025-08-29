@@ -313,6 +313,25 @@
       "channelId": "UChlgI3UHCOnwUGzWzbJ3H5w",
       "channelName": " YTN",
       "collectedAt": "2025-08-27T19:04:46Z"
+    },
+    "VH4OA8dBINo": {
+      "videoId": "VH4OA8dBINo",
+      "title": "[하모니] 가족의 봄 - 첫번째 이야기",
+      "description": "[하모니] 가족의 봄 - 첫번째 이야기\r\n\r\n도움이 필요한 다문화 가정에 다양한 솔루션을 제공하며 다문화 가족의 희망이 되어준 '하모니'.\r\n\r\n주거환경 개선으로 하모니 가족들은 새 보금자리에서 희망을 꿈꾸게 되었는데…\r\n\r\n지난겨울 특별했던 하모니 희망의 집 주인공들을 만나본다.\r\n\r\n하모니 28번째 주인공으로 지난 2월에 처음 만났던 한송희(42) 씨는 16년 전, 필리핀에서 전라북도 무주군의 한적한 시골 마을로 시집 왔다.\r\n\r\n귀여운 삼 남매와 시어머니를 모시며 지은 지 70년이 지난 낡은 집에서 생활하는 부부.\r\n\r\n송희 씨는 매일 아침이면 아궁이에 불을 때며 하루를 시작한다.\r\n\r\n열악하고 불편한 환경이지만 빠듯한 형편에 집을 수리할 수 없었던 가족들…\r\n\r\n하모니의 도움으로 드디어 지난 3월 주거환경 개선을 시작했다!\r\n\r\n낡았던 집은 깨끗하게 화장실부터 아이들의 공부방까지 완전히 새 단장을 했다는데…\r\n\r\n고마운 마음에 직접 집들이 겸 작은 잔치를 준비한 송희 씨네 가족.\r\n\r\n대한적십자사 봉사원들과 동네 주민까지 모두 모여 행복한 잔치가 열렸다!\r\n\r\n하모니 가족의 희망찬 봄 이야기\r\n\r\n이번 주 토요일 하모니에서 만나보자\r\n\r\n연합뉴스TV 제보:02-398-4409, yjebo@yna.co.kr\r\n\r\n(끝)",
+      "publishedAt": "2015-04-25T00:35:12Z",
+      "duration": "PT23M34S",
+      "viewCount": 15656,
+      "likeCount": 57,
+      "commentCount": 8,
+      "tags": [
+        "Yonhapnews TV"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2015-04-25T00:35:12Z",
+      "channelId": "UCTHCOPwqNfZ0uiKOvFyhGwg",
+      "channelName": "연합뉴스TV",
+      "collectedAt": "2025-08-29T02:43:17Z"
     }
   },
   "channels": {
@@ -366,12 +385,39 @@
         }
       },
       "subscriberCount": 5150000,
-      "viewCount": 17635969172,
-      "videoCount": 889907,
-      "lastUpdated": "2025-08-27T19:04:46.699551Z"
+      "viewCount": 17649222300,
+      "videoCount": 890317,
+      "lastUpdated": "2025-08-29T02:43:17.121135Z"
+    },
+    "UCTHCOPwqNfZ0uiKOvFyhGwg": {
+      "channelId": "UCTHCOPwqNfZ0uiKOvFyhGwg",
+      "channelName": "연합뉴스TV",
+      "channelUrl": "@yonhapnewstv23",
+      "channelDescription": "대한민국 뉴스의 시작, 24시간 뉴스 채널 연합뉴스TV\n실시간 뉴스 생방송, 생생한 뉴스의 현장을 LIVE로 시청하세요.\n이 채널은 연합뉴스TV의 Youtube 유튜브 공식 채널 입니다.",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_kFqbmXOoxJIaLVQYrJMB8gR8_LTF7Wm1lDpZbCmqhJh3U=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_kFqbmXOoxJIaLVQYrJMB8gR8_LTF7Wm1lDpZbCmqhJh3U=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_kFqbmXOoxJIaLVQYrJMB8gR8_LTF7Wm1lDpZbCmqhJh3U=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 2080000,
+      "viewCount": 3351994752,
+      "videoCount": 627296,
+      "lastUpdated": "2025-08-29T02:43:17.125172Z"
     }
   },
-  "lastUpdated": "2025-08-27T19:04:46.700549Z",
-  "totalVideos": 15,
-  "totalChannels": 2
+  "lastUpdated": "2025-08-29T02:43:17.125172Z",
+  "totalVideos": 16,
+  "totalChannels": 3
 }

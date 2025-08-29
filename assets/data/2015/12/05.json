@@ -142,6 +142,25 @@
       "channelId": "UChlgI3UHCOnwUGzWzbJ3H5w",
       "channelName": " YTN",
       "collectedAt": "2025-08-27T19:04:46Z"
+    },
+    "8Gc4TWnzhvM": {
+      "videoId": "8Gc4TWnzhvM",
+      "title": "[하모니] 할머니의 소망 - 네 번째 이야기",
+      "description": "[하모니] 할머니의 소망 - 네 번째 이야기\r\n\r\n경남 고성군 삼산면에 사는 김점이 할머니(70세)는 손주 셋을 홀로 키우며 살고 있다. \r\n\r\n첫째 정수현(고1) 둘째 윤호(중2) 셋째 승규(초5). \r\n\r\n겨울이 시작되는 시기. \r\n\r\n할머니는 막내 손주 승규와 함께 전통시장에 나섰다.\r\n\r\n아이들을 위한 월동준비, 내복을 사기 위해서다. \r\n\r\n캐릭터 내복이 맘에 드는 승규, 손주들 내복 마련에 마음이 든든한 할머니다. \r\n\r\n그날 저녁 윤호가 할머니에게 마음을 담은 편지를 쓴다. \r\n\r\n그 속에는 10년째 자신들을 위해 밥하고 일해 온 할머니에게 전하는 미안함과 고마움이 담겨 있다. \r\n\r\n하모니의 프로젝트도 시작됐다. \r\n\r\n생계지원비와 화장실과 부엌을 수리하는 일. \r\n\r\n집과 떨어진 곳에 있는 재래식 화장실을 써야했던 아이들이 무엇보다 반가워하는 건 바로 화장실이다. \r\n\r\n따뜻한 겨울을 준비하는 김점이 할머니와 손주들.\r\n\r\n그 마지막 이야기를 하모니에서 만나본다.  \r\n\r\n연합뉴스TV : 02-398-4409(제보) 4441(기사문의), yjebo@yna.co.kr\r\n\r\n(끝)",
+      "publishedAt": "2015-12-05T00:38:38Z",
+      "duration": "PT12M3S",
+      "viewCount": 2854,
+      "likeCount": 14,
+      "commentCount": 0,
+      "tags": [
+        "Yonhapnews TV"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2015-12-05T00:38:38Z",
+      "channelId": "UCTHCOPwqNfZ0uiKOvFyhGwg",
+      "channelName": "연합뉴스TV",
+      "collectedAt": "2025-08-29T02:43:16Z"
     }
   },
   "channels": {
@@ -195,12 +214,39 @@
         }
       },
       "subscriberCount": 5150000,
-      "viewCount": 17635969172,
-      "videoCount": 889907,
-      "lastUpdated": "2025-08-27T19:04:46.230036Z"
+      "viewCount": 17649222300,
+      "videoCount": 890317,
+      "lastUpdated": "2025-08-29T02:43:16.507001Z"
+    },
+    "UCTHCOPwqNfZ0uiKOvFyhGwg": {
+      "channelId": "UCTHCOPwqNfZ0uiKOvFyhGwg",
+      "channelName": "연합뉴스TV",
+      "channelUrl": "@yonhapnewstv23",
+      "channelDescription": "대한민국 뉴스의 시작, 24시간 뉴스 채널 연합뉴스TV\n실시간 뉴스 생방송, 생생한 뉴스의 현장을 LIVE로 시청하세요.\n이 채널은 연합뉴스TV의 Youtube 유튜브 공식 채널 입니다.",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_kFqbmXOoxJIaLVQYrJMB8gR8_LTF7Wm1lDpZbCmqhJh3U=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_kFqbmXOoxJIaLVQYrJMB8gR8_LTF7Wm1lDpZbCmqhJh3U=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_kFqbmXOoxJIaLVQYrJMB8gR8_LTF7Wm1lDpZbCmqhJh3U=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 2080000,
+      "viewCount": 3351994752,
+      "videoCount": 627296,
+      "lastUpdated": "2025-08-29T02:43:16.507001Z"
     }
   },
-  "lastUpdated": "2025-08-27T19:04:46.230036Z",
-  "totalVideos": 7,
-  "totalChannels": 2
+  "lastUpdated": "2025-08-29T02:43:16.507001Z",
+  "totalVideos": 8,
+  "totalChannels": 3
 }

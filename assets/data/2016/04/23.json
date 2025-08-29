@@ -505,6 +505,25 @@
       "channelId": "UChlgI3UHCOnwUGzWzbJ3H5w",
       "channelName": " YTN",
       "collectedAt": "2025-08-27T19:04:45Z"
+    },
+    "tJ2eCYl-OK8": {
+      "videoId": "tJ2eCYl-OK8",
+      "title": "[하모니] 그날의 기억…새로운 출발 - 세 번째 이야기",
+      "description": "[하모니] 그날의 기억…새로운 출발 - 세 번째 이야기\r\n\r\n전북 진안에 사는 염선숙 씨 가족. \r\n\r\n염선숙(엄마. 66년생), 첫째 영란(출가), 둘째 송경란, 셋째 선란, 넷째 정민(고2).\r\n\r\n지난 해 발생한 화재로 인해 집과 남편을 잃은 염선숙 씨. \r\n\r\n겨울 짐을 청소하다 빛바랜 앨범에서 지난 날 가족의 모습을 발견한다. \r\n\r\n사진 속에는 젊은 시절의 남편이 웃고 있고 아이였던 딸들은 어느새 숙녀로 자랐다. \r\n\r\n오랜만에 딸들과 마이산을 찾아 지난 추억을 돌아보고 돌아오는 길에 화재로 사라진 옛 집터를 들른 염선숙 씨. \r\n\r\n매화나무는 그대로인데 집은 온데간데 없는 서글픈 상황이다. \r\n\r\n이런 가족을 돕기 위해 하모니가 새집 짓기 프로젝트를 시작한다. \r\n\r\n옛 집터에 들어서는 새 집은 어떤 모습일까. \r\n\r\n집이 완성되면 아픔도 조금 덜해질까. \r\n\r\n슬픔 속에서 희망을 그려가는 염선숙 씨 가족의 이야기를 하모니에서 만나본다.\r\n    \r\n연합뉴스TV : 02-398-4409(제보) 4441(기사문의), 카톡/라인 jebo23\r\n\r\n(끝)",
+      "publishedAt": "2016-04-23T00:06:40Z",
+      "duration": "PT12M17S",
+      "viewCount": 156,
+      "likeCount": 0,
+      "commentCount": 0,
+      "tags": [
+        "Yonhapnews TV"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2016-04-23T00:06:40Z",
+      "channelId": "UCTHCOPwqNfZ0uiKOvFyhGwg",
+      "channelName": "연합뉴스TV",
+      "collectedAt": "2025-08-29T02:43:16Z"
     }
   },
   "channels": {
@@ -612,12 +631,39 @@
         }
       },
       "subscriberCount": 5150000,
-      "viewCount": 17635969172,
-      "videoCount": 889907,
-      "lastUpdated": "2025-08-27T19:04:45.830323Z"
+      "viewCount": 17649222300,
+      "videoCount": 890317,
+      "lastUpdated": "2025-08-29T02:43:16.166926Z"
+    },
+    "UCTHCOPwqNfZ0uiKOvFyhGwg": {
+      "channelId": "UCTHCOPwqNfZ0uiKOvFyhGwg",
+      "channelName": "연합뉴스TV",
+      "channelUrl": "@yonhapnewstv23",
+      "channelDescription": "대한민국 뉴스의 시작, 24시간 뉴스 채널 연합뉴스TV\n실시간 뉴스 생방송, 생생한 뉴스의 현장을 LIVE로 시청하세요.\n이 채널은 연합뉴스TV의 Youtube 유튜브 공식 채널 입니다.",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_kFqbmXOoxJIaLVQYrJMB8gR8_LTF7Wm1lDpZbCmqhJh3U=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_kFqbmXOoxJIaLVQYrJMB8gR8_LTF7Wm1lDpZbCmqhJh3U=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_kFqbmXOoxJIaLVQYrJMB8gR8_LTF7Wm1lDpZbCmqhJh3U=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 2080000,
+      "viewCount": 3351994752,
+      "videoCount": 627296,
+      "lastUpdated": "2025-08-29T02:43:16.166926Z"
     }
   },
-  "lastUpdated": "2025-08-27T19:04:45.830323Z",
-  "totalVideos": 19,
-  "totalChannels": 4
+  "lastUpdated": "2025-08-29T02:43:16.166926Z",
+  "totalVideos": 20,
+  "totalChannels": 5
 }

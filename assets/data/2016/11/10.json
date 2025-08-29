@@ -1369,6 +1369,26 @@
       "channelId": "UCG9aFJTZ-lMCHAiO1KJsirg",
       "channelName": "MBN News",
       "collectedAt": "2025-08-27T19:05:11Z"
+    },
+    "7Z33AXyjQWM": {
+      "videoId": "7Z33AXyjQWM",
+      "title": "트렌드 지금 여기! - 1석 3조 산지직거래",
+      "description": "- 11월06일 오전 9시30분\n\n▲ 1석 3조 산지직거래\n품질 좋고, 값도 싸고, 인심은 덤, 산지직거래! 한우 농가에서 만나는 저렴한 한우와 토굴에서 숙성시킨 새우젓, 친환경으로 재배한 농작물 직거래까지! 산지직거래의 매력, '트렌드 지금 여기'서 만나보시죠!",
+      "publishedAt": "2016-11-10T10:43:11Z",
+      "duration": "PT40S",
+      "viewCount": 94,
+      "likeCount": 0,
+      "commentCount": 0,
+      "tags": [
+        "연합뉴스TV",
+        "트렌드 지금 여기"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2016-11-10T10:43:11Z",
+      "channelId": "UCTHCOPwqNfZ0uiKOvFyhGwg",
+      "channelName": "연합뉴스TV",
+      "collectedAt": "2025-08-29T02:43:46Z"
     }
   },
   "channels": {
@@ -1584,9 +1604,9 @@
         }
       },
       "subscriberCount": 5150000,
-      "viewCount": 17635969172,
-      "videoCount": 889907,
-      "lastUpdated": "2025-08-27T19:05:11.568608Z"
+      "viewCount": 17649222300,
+      "videoCount": 890317,
+      "lastUpdated": "2025-08-29T02:43:46.897910Z"
     },
     "UCG9aFJTZ-lMCHAiO1KJsirg": {
       "channelId": "UCG9aFJTZ-lMCHAiO1KJsirg",
@@ -1611,12 +1631,39 @@
         }
       },
       "subscriberCount": 2490000,
-      "viewCount": 3277338867,
-      "videoCount": 233128,
-      "lastUpdated": "2025-08-27T19:05:11.568608Z"
+      "viewCount": 3278386064,
+      "videoCount": 233358,
+      "lastUpdated": "2025-08-29T02:43:46.897910Z"
+    },
+    "UCTHCOPwqNfZ0uiKOvFyhGwg": {
+      "channelId": "UCTHCOPwqNfZ0uiKOvFyhGwg",
+      "channelName": "연합뉴스TV",
+      "channelUrl": "@yonhapnewstv23",
+      "channelDescription": "대한민국 뉴스의 시작, 24시간 뉴스 채널 연합뉴스TV\n실시간 뉴스 생방송, 생생한 뉴스의 현장을 LIVE로 시청하세요.\n이 채널은 연합뉴스TV의 Youtube 유튜브 공식 채널 입니다.",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_kFqbmXOoxJIaLVQYrJMB8gR8_LTF7Wm1lDpZbCmqhJh3U=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_kFqbmXOoxJIaLVQYrJMB8gR8_LTF7Wm1lDpZbCmqhJh3U=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_kFqbmXOoxJIaLVQYrJMB8gR8_LTF7Wm1lDpZbCmqhJh3U=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 2080000,
+      "viewCount": 3351994752,
+      "videoCount": 627296,
+      "lastUpdated": "2025-08-29T02:43:46.897910Z"
     }
   },
-  "lastUpdated": "2025-08-27T19:05:11.571338Z",
-  "totalVideos": 49,
-  "totalChannels": 9
+  "lastUpdated": "2025-08-29T02:43:46.897910Z",
+  "totalVideos": 50,
+  "totalChannels": 10
 }

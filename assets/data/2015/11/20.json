@@ -1154,6 +1154,46 @@
       "channelId": "UCG9aFJTZ-lMCHAiO1KJsirg",
       "channelName": "MBN News",
       "collectedAt": "2025-08-27T19:05:10Z"
+    },
+    "7FFUeFH9h2g": {
+      "videoId": "7FFUeFH9h2g",
+      "title": "트렌드, 지금 여기! - 이런 시장, 처음이죠?",
+      "description": "- 11월22일 오전 9시30분 / 23일 오전 1시20분 방송\n\n▲ 이런 시장, 처음이죠?\n전통시장이 변하고 있습니다. 시장에서 배달 서비스를 이용하고 전통화폐로 구경도 하고, 외국인도 즐겨 찾는다죠. 전통시장 시장 속에 숨어 있는 청년들의 공간까지, '트렌드, 지금 여기'서 확인하세요.",
+      "publishedAt": "2015-11-20T09:23:29Z",
+      "duration": "PT37S",
+      "viewCount": 86,
+      "likeCount": 0,
+      "commentCount": 0,
+      "tags": [
+        "연합뉴스TV",
+        "트렌드 지금 여기"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2015-11-20T09:23:29Z",
+      "channelId": "UCTHCOPwqNfZ0uiKOvFyhGwg",
+      "channelName": "연합뉴스TV",
+      "collectedAt": "2025-08-29T02:43:45Z"
+    },
+    "WrbzdGcP-Ow": {
+      "videoId": "WrbzdGcP-Ow",
+      "title": "미니다큐 오늘 - 노량진 고시촌 쌀국수 부부",
+      "description": "- 11월21일 오후 7시40분 방송\n\n배고픈 수험생과 고시생들로 가득한 노량진 고시촌. 그곳에 3,500원짜리 쌀국수를 파는 부부가 있습니다. 6년 전 베트남에서 한국으로 시집온 전티마이씨와 남편 전나옥씨가 그 주인공! 노량진의 배고픈 사람들에게 3,500원 쌀국수를 오래오래 팔고 싶다는 이 부부의 이야기를 '미니다큐 오늘'에서 만나보시죠.",
+      "publishedAt": "2015-11-20T09:06:21Z",
+      "duration": "PT41S",
+      "viewCount": 339,
+      "likeCount": 1,
+      "commentCount": 0,
+      "tags": [
+        "연합뉴스TV",
+        "미니다큐 오늘"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2015-11-20T09:06:21Z",
+      "channelId": "UCTHCOPwqNfZ0uiKOvFyhGwg",
+      "channelName": "연합뉴스TV",
+      "collectedAt": "2025-08-29T02:43:45Z"
     }
   },
   "channels": {
@@ -1288,9 +1328,9 @@
         }
       },
       "subscriberCount": 5150000,
-      "viewCount": 17635969172,
-      "videoCount": 889907,
-      "lastUpdated": "2025-08-27T19:05:10.430917Z"
+      "viewCount": 17649222300,
+      "videoCount": 890317,
+      "lastUpdated": "2025-08-29T02:43:45.815471Z"
     },
     "UCG9aFJTZ-lMCHAiO1KJsirg": {
       "channelId": "UCG9aFJTZ-lMCHAiO1KJsirg",
@@ -1315,12 +1355,39 @@
         }
       },
       "subscriberCount": 2490000,
-      "viewCount": 3277338867,
-      "videoCount": 233128,
-      "lastUpdated": "2025-08-27T19:05:10.431605Z"
+      "viewCount": 3278386064,
+      "videoCount": 233358,
+      "lastUpdated": "2025-08-29T02:43:45.815471Z"
+    },
+    "UCTHCOPwqNfZ0uiKOvFyhGwg": {
+      "channelId": "UCTHCOPwqNfZ0uiKOvFyhGwg",
+      "channelName": "연합뉴스TV",
+      "channelUrl": "@yonhapnewstv23",
+      "channelDescription": "대한민국 뉴스의 시작, 24시간 뉴스 채널 연합뉴스TV\n실시간 뉴스 생방송, 생생한 뉴스의 현장을 LIVE로 시청하세요.\n이 채널은 연합뉴스TV의 Youtube 유튜브 공식 채널 입니다.",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_kFqbmXOoxJIaLVQYrJMB8gR8_LTF7Wm1lDpZbCmqhJh3U=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_kFqbmXOoxJIaLVQYrJMB8gR8_LTF7Wm1lDpZbCmqhJh3U=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_kFqbmXOoxJIaLVQYrJMB8gR8_LTF7Wm1lDpZbCmqhJh3U=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 2080000,
+      "viewCount": 3351994752,
+      "videoCount": 627296,
+      "lastUpdated": "2025-08-29T02:43:45.816468Z"
     }
   },
-  "lastUpdated": "2025-08-27T19:05:10.432164Z",
-  "totalVideos": 38,
-  "totalChannels": 6
+  "lastUpdated": "2025-08-29T02:43:45.816468Z",
+  "totalVideos": 40,
+  "totalChannels": 7
 }

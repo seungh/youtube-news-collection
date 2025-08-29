@@ -1072,6 +1072,64 @@
       "channelId": "UCG9aFJTZ-lMCHAiO1KJsirg",
       "channelName": "MBN News",
       "collectedAt": "2025-08-27T19:05:06Z"
+    },
+    "7k8IqX-svLc": {
+      "videoId": "7k8IqX-svLc",
+      "title": "미니다큐 오늘 9월5일 방송 예고",
+      "description": "",
+      "publishedAt": "2015-09-04T09:11:29Z",
+      "duration": "PT41S",
+      "viewCount": 21,
+      "likeCount": 0,
+      "commentCount": 0,
+      "tags": [],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2015-09-04T09:11:29Z",
+      "channelId": "UCTHCOPwqNfZ0uiKOvFyhGwg",
+      "channelName": "연합뉴스TV",
+      "collectedAt": "2025-08-29T02:43:42Z"
+    },
+    "nsZ6rvbv5zI": {
+      "videoId": "nsZ6rvbv5zI",
+      "title": "트렌드, 지금 여기! - 간식의 모든 것",
+      "description": "- 9월5일 저녁 8시20분 / 7일 오전 1시20분 방송\n\n▲ 간식의 모든 것\n입도 만족하고 눈은 더 만족하는, 특별한 간식의 세계로 여러분을 초대합니다.",
+      "publishedAt": "2015-09-04T09:09:30Z",
+      "duration": "PT32S",
+      "viewCount": 31,
+      "likeCount": 0,
+      "commentCount": 0,
+      "tags": [
+        "연합뉴스TV",
+        "트렌드 지금 여기",
+        "간식"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2015-09-04T09:09:30Z",
+      "channelId": "UCTHCOPwqNfZ0uiKOvFyhGwg",
+      "channelName": "연합뉴스TV",
+      "collectedAt": "2025-08-29T02:43:42Z"
+    },
+    "w7b02B5AUYs": {
+      "videoId": "w7b02B5AUYs",
+      "title": "하모니 - 달려라! 의령 아지매 2부",
+      "description": "- 9월5일 08:40 / 6일 02:40 방송\n\n▲ 달려라! 의령 아지매 2부\n경남 의령에 사는 박해란씨는 19년 전 중국 길림성에서 한국으로 시집왔습니다. 현재 초중고에 다니는 세 아이를 키우며 살아가고 있죠. 어려운 환경에도 웃음을 잃지 않는 박해란씨와 보물 같은 삼남매 이야기를 '하모니'에서 만나보시죠.",
+      "publishedAt": "2015-09-04T08:43:30Z",
+      "duration": "PT42S",
+      "viewCount": 68,
+      "likeCount": 0,
+      "commentCount": 0,
+      "tags": [
+        "연합뉴스TV",
+        "하모니"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2015-09-04T08:43:30Z",
+      "channelId": "UCTHCOPwqNfZ0uiKOvFyhGwg",
+      "channelName": "연합뉴스TV",
+      "collectedAt": "2025-08-29T02:43:42Z"
     }
   },
   "channels": {
@@ -1233,9 +1291,9 @@
         }
       },
       "subscriberCount": 5150000,
-      "viewCount": 17635969172,
-      "videoCount": 889907,
-      "lastUpdated": "2025-08-27T19:05:06.895549Z"
+      "viewCount": 17649222300,
+      "videoCount": 890317,
+      "lastUpdated": "2025-08-29T02:43:42.512484Z"
     },
     "UCG9aFJTZ-lMCHAiO1KJsirg": {
       "channelId": "UCG9aFJTZ-lMCHAiO1KJsirg",
@@ -1260,12 +1318,39 @@
         }
       },
       "subscriberCount": 2490000,
-      "viewCount": 3277338867,
-      "videoCount": 233128,
-      "lastUpdated": "2025-08-27T19:05:06.895549Z"
+      "viewCount": 3278386064,
+      "videoCount": 233358,
+      "lastUpdated": "2025-08-29T02:43:42.512484Z"
+    },
+    "UCTHCOPwqNfZ0uiKOvFyhGwg": {
+      "channelId": "UCTHCOPwqNfZ0uiKOvFyhGwg",
+      "channelName": "연합뉴스TV",
+      "channelUrl": "@yonhapnewstv23",
+      "channelDescription": "대한민국 뉴스의 시작, 24시간 뉴스 채널 연합뉴스TV\n실시간 뉴스 생방송, 생생한 뉴스의 현장을 LIVE로 시청하세요.\n이 채널은 연합뉴스TV의 Youtube 유튜브 공식 채널 입니다.",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_kFqbmXOoxJIaLVQYrJMB8gR8_LTF7Wm1lDpZbCmqhJh3U=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_kFqbmXOoxJIaLVQYrJMB8gR8_LTF7Wm1lDpZbCmqhJh3U=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_kFqbmXOoxJIaLVQYrJMB8gR8_LTF7Wm1lDpZbCmqhJh3U=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 2080000,
+      "viewCount": 3351994752,
+      "videoCount": 627296,
+      "lastUpdated": "2025-08-29T02:43:42.512484Z"
     }
   },
-  "lastUpdated": "2025-08-27T19:05:06.896565Z",
-  "totalVideos": 42,
-  "totalChannels": 7
+  "lastUpdated": "2025-08-29T02:43:42.512484Z",
+  "totalVideos": 45,
+  "totalChannels": 8
 }

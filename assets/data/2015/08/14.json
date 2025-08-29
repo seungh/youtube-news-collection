@@ -296,6 +296,49 @@
       "channelId": "UChlgI3UHCOnwUGzWzbJ3H5w",
       "channelName": " YTN",
       "collectedAt": "2025-08-27T19:05:00Z"
+    },
+    "drJijvoVXIM": {
+      "videoId": "drJijvoVXIM",
+      "title": "미니다큐 오늘 - \"여름보다 뜨거운 아시아 유소년 축구축제\"",
+      "description": "- 8월15일 오후 7시40분 방송\n\n유·청소년과 온 가족이 함께 참여할 수 있는 흥겨운 여름 축구 이야기! 국내 유·청소년 300여 개 팀과 아시아 20개국 80여 개 팀이 참여하는 축구축제를 만나보시죠.",
+      "publishedAt": "2015-08-14T09:43:26Z",
+      "duration": "PT36S",
+      "viewCount": 337,
+      "likeCount": 1,
+      "commentCount": 0,
+      "tags": [
+        "연합뉴스TV",
+        "미니다큐 오늘",
+        "아시아 유소년 축구축제"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2015-08-14T09:43:26Z",
+      "channelId": "UCTHCOPwqNfZ0uiKOvFyhGwg",
+      "channelName": "연합뉴스TV",
+      "collectedAt": "2025-08-29T02:43:33Z"
+    },
+    "hylO_1aTgCE": {
+      "videoId": "hylO_1aTgCE",
+      "title": "트렌드, 지금 여기 - 단맛의 유혹",
+      "description": "- 8월15일 오후 8시30분/ 17일 오전 1시20분 방송\n\n▲ 단맛의 유혹\n단맛에 빠진 대한민국, 설탕의 변신은 어디까지?",
+      "publishedAt": "2015-08-14T09:29:26Z",
+      "duration": "PT47S",
+      "viewCount": 47,
+      "likeCount": 0,
+      "commentCount": 0,
+      "tags": [
+        "연합뉴스TV",
+        "트렌드 지금 여기",
+        "단맛",
+        "설탕"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2015-08-14T09:29:26Z",
+      "channelId": "UCTHCOPwqNfZ0uiKOvFyhGwg",
+      "channelName": "연합뉴스TV",
+      "collectedAt": "2025-08-29T02:43:33Z"
     }
   },
   "channels": {
@@ -430,12 +473,39 @@
         }
       },
       "subscriberCount": 5150000,
-      "viewCount": 17635969172,
-      "videoCount": 889907,
-      "lastUpdated": "2025-08-27T19:05:00.740023Z"
+      "viewCount": 17649222300,
+      "videoCount": 890317,
+      "lastUpdated": "2025-08-29T02:43:33.185192Z"
+    },
+    "UCTHCOPwqNfZ0uiKOvFyhGwg": {
+      "channelId": "UCTHCOPwqNfZ0uiKOvFyhGwg",
+      "channelName": "연합뉴스TV",
+      "channelUrl": "@yonhapnewstv23",
+      "channelDescription": "대한민국 뉴스의 시작, 24시간 뉴스 채널 연합뉴스TV\n실시간 뉴스 생방송, 생생한 뉴스의 현장을 LIVE로 시청하세요.\n이 채널은 연합뉴스TV의 Youtube 유튜브 공식 채널 입니다.",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_kFqbmXOoxJIaLVQYrJMB8gR8_LTF7Wm1lDpZbCmqhJh3U=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_kFqbmXOoxJIaLVQYrJMB8gR8_LTF7Wm1lDpZbCmqhJh3U=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_kFqbmXOoxJIaLVQYrJMB8gR8_LTF7Wm1lDpZbCmqhJh3U=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 2080000,
+      "viewCount": 3351994752,
+      "videoCount": 627296,
+      "lastUpdated": "2025-08-29T02:43:33.186798Z"
     }
   },
-  "lastUpdated": "2025-08-27T19:05:00.741020Z",
-  "totalVideos": 13,
-  "totalChannels": 5
+  "lastUpdated": "2025-08-29T02:43:33.186798Z",
+  "totalVideos": 15,
+  "totalChannels": 6
 }

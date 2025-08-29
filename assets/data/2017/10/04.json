@@ -565,6 +565,30 @@
       "channelId": "UCG9aFJTZ-lMCHAiO1KJsirg",
       "channelName": "MBN News",
       "collectedAt": "2025-08-27T19:05:23Z"
+    },
+    "UirsBp1ntj4": {
+      "videoId": "UirsBp1ntj4",
+      "title": "[하모니] 다시 찾아온 가을, 그리고 희망 / 연합뉴스TV (YonhapnewsTV)",
+      "description": "[하모니] 다시 찾아온 가을, 그리고 희망\r\n\r\n가을이 한껏 찾아온 전라남도 함평군의 한 작은 마을. \r\n\r\n이 곳에 홀로 30년을 산 원점열 할아버지가 계십니다.\r\n\r\n가축과 약초를 키우며 근근이 살아가신 할아버지. \r\n\r\n하지만 어느 날 찾아온 갖은 병들로 인해 가지치기와 풀을 메는 간단한 일조차 녹록치 않게 되었는데요.\r\n\r\n수도까지 고장 난 할아버지는 간단한 세수는 물론이고 식수조차 구하기 힘든 상황입니다.\r\n\r\n이런 원점열 할아버지를 돕기 위해 하모니 솔루션 팀과 물사랑 나눔단 봉사원들이 할아버지 댁을 방문하였는데요. \r\n\r\n이름 하여 원점열 할아버지 주거개선 프로젝트!\r\n\r\n5일 뒤 벌어지는 마법 같은 변화! \r\n\r\n추석특집 하모니에서 확인하세요!\r\n    \r\n연합뉴스TV : 02-398-4441(기사문의·제보) 카톡/라인 jebo23\r\n\r\n▣ 연합뉴스TV 유튜브 채널 구독\r\nhttps://goo.gl/VuCJMi\r\n▣ 대한민국 뉴스의 시작 연합뉴스TV / Yonhap News TV\r\nhttp://www.yonhapnewstv.co.kr/",
+      "publishedAt": "2017-10-04T11:10:59Z",
+      "duration": "PT17M3S",
+      "viewCount": 498,
+      "likeCount": 4,
+      "commentCount": 1,
+      "tags": [
+        "Yonhapnews TV",
+        "News",
+        "실시간",
+        "Live",
+        "생방송",
+        "뉴스"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2017-10-04T11:10:59Z",
+      "channelId": "UCTHCOPwqNfZ0uiKOvFyhGwg",
+      "channelName": "연합뉴스TV",
+      "collectedAt": "2025-08-29T02:44:01Z"
     }
   },
   "channels": {
@@ -726,12 +750,39 @@
         }
       },
       "subscriberCount": 2490000,
-      "viewCount": 3277338867,
-      "videoCount": 233128,
-      "lastUpdated": "2025-08-27T19:05:23.955019Z"
+      "viewCount": 3278386064,
+      "videoCount": 233358,
+      "lastUpdated": "2025-08-29T02:44:01.125702Z"
+    },
+    "UCTHCOPwqNfZ0uiKOvFyhGwg": {
+      "channelId": "UCTHCOPwqNfZ0uiKOvFyhGwg",
+      "channelName": "연합뉴스TV",
+      "channelUrl": "@yonhapnewstv23",
+      "channelDescription": "대한민국 뉴스의 시작, 24시간 뉴스 채널 연합뉴스TV\n실시간 뉴스 생방송, 생생한 뉴스의 현장을 LIVE로 시청하세요.\n이 채널은 연합뉴스TV의 Youtube 유튜브 공식 채널 입니다.",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_kFqbmXOoxJIaLVQYrJMB8gR8_LTF7Wm1lDpZbCmqhJh3U=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_kFqbmXOoxJIaLVQYrJMB8gR8_LTF7Wm1lDpZbCmqhJh3U=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_kFqbmXOoxJIaLVQYrJMB8gR8_LTF7Wm1lDpZbCmqhJh3U=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 2080000,
+      "viewCount": 3351994752,
+      "videoCount": 627296,
+      "lastUpdated": "2025-08-29T02:44:01.125702Z"
     }
   },
-  "lastUpdated": "2025-08-27T19:05:23.955019Z",
-  "totalVideos": 24,
-  "totalChannels": 6
+  "lastUpdated": "2025-08-29T02:44:01.125702Z",
+  "totalVideos": 25,
+  "totalChannels": 7
 }

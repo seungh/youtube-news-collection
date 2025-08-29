@@ -506,6 +506,48 @@
       "channelId": "UChlgI3UHCOnwUGzWzbJ3H5w",
       "channelName": " YTN",
       "collectedAt": "2025-08-27T19:05:21Z"
+    },
+    "3CHvnlTnlEw": {
+      "videoId": "3CHvnlTnlEw",
+      "title": "미니다큐 오늘 - 성북동 이발사, 명랑 할머니",
+      "description": "- 6월20일 오후 7시40분 방송\n\n▲ 성북동 이발사, 명랑 할머니\n서울 성북동에는 특별한 이발소가 있습니다. 동네 주민들의 사랑방이자 사람마다 받는 이발요금이 제각각이죠. 5평 정도 되는 작은 이발소를 대를 이어 수십 년째 운영해오고 있는 우리나라 최초 여성 이발사, 이덕훈 할머니. 성북동 이발사이자 명랑 할머니인 이덕훈 씨를 만나보시죠.",
+      "publishedAt": "2015-06-19T08:26:49Z",
+      "duration": "PT33S",
+      "viewCount": 1143,
+      "likeCount": 3,
+      "commentCount": 1,
+      "tags": [
+        "연합뉴스TV",
+        "미니다큐 오늘"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2015-06-19T08:26:49Z",
+      "channelId": "UCTHCOPwqNfZ0uiKOvFyhGwg",
+      "channelName": "연합뉴스TV",
+      "collectedAt": "2025-08-29T02:43:57Z"
+    },
+    "coOuEENKdtU": {
+      "videoId": "coOuEENKdtU",
+      "title": "기업비사 - 빵의 대중화 시대를 연 삼립식품 허창성 회장",
+      "description": "- 6월21일 저녁 7시20분 방송\n\n▲ 빈손으로 떠난 기업가, 유한양행 유일한 회장\n언제 어디서든 똑같은 맛으로 국민들의 허기를 달래주던 살살 녹는 하얀 크림의 크림빵, 겨울이면 생각나는 호빵. 제과점을 넘어 첫 공장빵 시대를 연 삼립. 빵의 대중화 시대를 연 삼립식품 허창성 회장을 만나보시죠.",
+      "publishedAt": "2015-06-19T07:53:09Z",
+      "duration": "PT49S",
+      "viewCount": 1973,
+      "likeCount": 17,
+      "commentCount": 0,
+      "tags": [
+        "연합뉴스TV",
+        "기업비사",
+        "삼립식품",
+        "허창성"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2015-06-19T07:53:09Z",
+      "channelId": "UCTHCOPwqNfZ0uiKOvFyhGwg",
+      "channelName": "연합뉴스TV",
+      "collectedAt": "2025-08-29T02:43:57Z"
     }
   },
   "channels": {
@@ -667,12 +709,39 @@
         }
       },
       "subscriberCount": 5150000,
-      "viewCount": 17635969172,
-      "videoCount": 889907,
-      "lastUpdated": "2025-08-27T19:05:21.756118Z"
+      "viewCount": 17649222300,
+      "videoCount": 890317,
+      "lastUpdated": "2025-08-29T02:43:57.720663Z"
+    },
+    "UCTHCOPwqNfZ0uiKOvFyhGwg": {
+      "channelId": "UCTHCOPwqNfZ0uiKOvFyhGwg",
+      "channelName": "연합뉴스TV",
+      "channelUrl": "@yonhapnewstv23",
+      "channelDescription": "대한민국 뉴스의 시작, 24시간 뉴스 채널 연합뉴스TV\n실시간 뉴스 생방송, 생생한 뉴스의 현장을 LIVE로 시청하세요.\n이 채널은 연합뉴스TV의 Youtube 유튜브 공식 채널 입니다.",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_kFqbmXOoxJIaLVQYrJMB8gR8_LTF7Wm1lDpZbCmqhJh3U=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_kFqbmXOoxJIaLVQYrJMB8gR8_LTF7Wm1lDpZbCmqhJh3U=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_kFqbmXOoxJIaLVQYrJMB8gR8_LTF7Wm1lDpZbCmqhJh3U=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 2080000,
+      "viewCount": 3351994752,
+      "videoCount": 627296,
+      "lastUpdated": "2025-08-29T02:43:57.720663Z"
     }
   },
-  "lastUpdated": "2025-08-27T19:05:21.757115Z",
-  "totalVideos": 23,
-  "totalChannels": 6
+  "lastUpdated": "2025-08-29T02:43:57.720663Z",
+  "totalVideos": 25,
+  "totalChannels": 7
 }

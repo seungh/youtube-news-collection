@@ -1736,6 +1736,48 @@
       "channelId": "UCG9aFJTZ-lMCHAiO1KJsirg",
       "channelName": "MBN News",
       "collectedAt": "2025-08-27T19:05:06Z"
+    },
+    "FfMa1A8qTzw": {
+      "videoId": "FfMa1A8qTzw",
+      "title": "하모니 - 그날의 기억 4부",
+      "description": "- 4월30일 08:40 / 5월1일일 02:40 방송\n\n▲ 그날의 기억 4부\n홀로된 염선숙씨와 자녀들을 위한 하모니 프로젝트가 시작됩니다. 불타 사라진 옛 집터에 새로 집을 짓기로 한 것이죠. 집과 아버지를 잃은 아픔을 딛고 일어서 새 집에서 새 희망을 키워가는 엄마 선숙씨와 세 딸들. 그들의 마지막 이야기를 만나보시죠.",
+      "publishedAt": "2016-04-29T09:57:11Z",
+      "duration": "PT51S",
+      "viewCount": 62,
+      "likeCount": 2,
+      "commentCount": 0,
+      "tags": [
+        "연합뉴스TV",
+        "하모니"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2016-04-29T09:57:11Z",
+      "channelId": "UCTHCOPwqNfZ0uiKOvFyhGwg",
+      "channelName": "연합뉴스TV",
+      "collectedAt": "2025-08-29T02:43:41Z"
+    },
+    "Bm0YgyT5uJE": {
+      "videoId": "Bm0YgyT5uJE",
+      "title": "여행과 풍경 - 고창",
+      "description": "- 4월30일 오후 2시40분 방송\n\n▲ 고창\n무병장수의 둘레길, 고창읍성. 민물과 바닷물의 깊은 맛, 풍천장어. 국내 최대의 고인돌 밀집 지역. 지역민들의 자부심이자 청량한 봄의 물결, 고창 청보리밭 축제. 청량한 대지의 기운이 활기를 더하는 고창을 '여행과 풍경'에서 만나보시죠.",
+      "publishedAt": "2016-04-29T09:48:34Z",
+      "duration": "PT35S",
+      "viewCount": 89,
+      "likeCount": 1,
+      "commentCount": 0,
+      "tags": [
+        "연합뉴스TV",
+        "고창",
+        "전라남도",
+        "고인돌"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2016-04-29T09:48:34Z",
+      "channelId": "UCTHCOPwqNfZ0uiKOvFyhGwg",
+      "channelName": "연합뉴스TV",
+      "collectedAt": "2025-08-29T02:43:41Z"
     }
   },
   "channels": {
@@ -1951,9 +1993,9 @@
         }
       },
       "subscriberCount": 5150000,
-      "viewCount": 17635969172,
-      "videoCount": 889907,
-      "lastUpdated": "2025-08-27T19:05:06.176232Z"
+      "viewCount": 17649222300,
+      "videoCount": 890317,
+      "lastUpdated": "2025-08-29T02:43:41.785791Z"
     },
     "UCG9aFJTZ-lMCHAiO1KJsirg": {
       "channelId": "UCG9aFJTZ-lMCHAiO1KJsirg",
@@ -1978,12 +2020,39 @@
         }
       },
       "subscriberCount": 2490000,
-      "viewCount": 3277338867,
-      "videoCount": 233128,
-      "lastUpdated": "2025-08-27T19:05:06.177228Z"
+      "viewCount": 3278386064,
+      "videoCount": 233358,
+      "lastUpdated": "2025-08-29T02:43:41.785791Z"
+    },
+    "UCTHCOPwqNfZ0uiKOvFyhGwg": {
+      "channelId": "UCTHCOPwqNfZ0uiKOvFyhGwg",
+      "channelName": "연합뉴스TV",
+      "channelUrl": "@yonhapnewstv23",
+      "channelDescription": "대한민국 뉴스의 시작, 24시간 뉴스 채널 연합뉴스TV\n실시간 뉴스 생방송, 생생한 뉴스의 현장을 LIVE로 시청하세요.\n이 채널은 연합뉴스TV의 Youtube 유튜브 공식 채널 입니다.",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_kFqbmXOoxJIaLVQYrJMB8gR8_LTF7Wm1lDpZbCmqhJh3U=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_kFqbmXOoxJIaLVQYrJMB8gR8_LTF7Wm1lDpZbCmqhJh3U=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_kFqbmXOoxJIaLVQYrJMB8gR8_LTF7Wm1lDpZbCmqhJh3U=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 2080000,
+      "viewCount": 3351994752,
+      "videoCount": 627296,
+      "lastUpdated": "2025-08-29T02:43:41.786785Z"
     }
   },
-  "lastUpdated": "2025-08-27T19:05:06.177228Z",
-  "totalVideos": 67,
-  "totalChannels": 9
+  "lastUpdated": "2025-08-29T02:43:41.786785Z",
+  "totalVideos": 69,
+  "totalChannels": 10
 }

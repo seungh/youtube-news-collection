@@ -308,6 +308,25 @@
       "channelId": "UChlgI3UHCOnwUGzWzbJ3H5w",
       "channelName": " YTN",
       "collectedAt": "2025-08-27T19:04:46Z"
+    },
+    "kY5srirH4FQ": {
+      "videoId": "kY5srirH4FQ",
+      "title": "[하모니] 사찌꼬 씨 가족의 희망 찾기 -두번째 이야기",
+      "description": "[하모니] 사찌꼬 씨 가족의 희망 찾기 -두번째 이야기\r\n\r\n강원도 고성군의 공기 좋은 어촌마을에 살고 있는 사찌꼬(49) 씨.\r\n\r\n남편 오원창(53) 씨를 만나 도쿄에서 시집온 지도 18년이 흘렀다.\r\n\r\n아들 승현(15)이와 함께 행복한 가정을 꿈꿨지만, 지난 결혼생활은 남편의 알코올의존증으로 상처만 가득했다.\r\n\r\n생업을 포기한 채 술만 마시던 남편은 폭력을 일삼았고, 결국 별거 생활을 하게 됐다.\r\n\r\n불안정한 가정환경에서 자란 승현이는 점점 내성적인 성격으로 변했고, 무책임한 아버지를 향한 적대심은 하루하루 커져만 가는데...\r\n\r\n4년 전, 갑자기 쓰러져 뇌전증 판정까지 받았지만 술을 끊지 못하고 있는 남편.\r\n\r\n해가 지면 술친구를 만나느라 제대로 약을 챙겨 먹지 않아 건강이 점점 악화되고 있다는데...\r\n\r\n시어머니 김동선(88) 씨는 이런 아들 때문에 마음을 놓을 틈이 없다.\r\n\r\n그리고 못난 아들 곁에서 묵묵히 자리를 지켜준 든든한 며느리가 고맙다.\r\n\r\n부족한 생활에 보탬이 되고자 직접 생선을 손질해 5일장에 나가 판매하시는 시어머니.\r\n\r\n그러나 사찌꼬 씨는 고마움보다 연로한 시어머니의 건강이 더 걱정이라는데...\r\n\r\n연합뉴스TV 제보:02-398-4409, yjebo@yna.co.kr\r\n\r\n(끝)",
+      "publishedAt": "2015-03-21T00:16:58Z",
+      "duration": "PT24M4S",
+      "viewCount": 38556,
+      "likeCount": 136,
+      "commentCount": 33,
+      "tags": [
+        "Yonhapnews TV"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2015-03-21T00:16:58Z",
+      "channelId": "UCTHCOPwqNfZ0uiKOvFyhGwg",
+      "channelName": "연합뉴스TV",
+      "collectedAt": "2025-08-29T02:43:17Z"
     }
   },
   "channels": {
@@ -361,12 +380,39 @@
         }
       },
       "subscriberCount": 5150000,
-      "viewCount": 17635969172,
-      "videoCount": 889907,
-      "lastUpdated": "2025-08-27T19:04:46.828169Z"
+      "viewCount": 17649222300,
+      "videoCount": 890317,
+      "lastUpdated": "2025-08-29T02:43:17.381649Z"
+    },
+    "UCTHCOPwqNfZ0uiKOvFyhGwg": {
+      "channelId": "UCTHCOPwqNfZ0uiKOvFyhGwg",
+      "channelName": "연합뉴스TV",
+      "channelUrl": "@yonhapnewstv23",
+      "channelDescription": "대한민국 뉴스의 시작, 24시간 뉴스 채널 연합뉴스TV\n실시간 뉴스 생방송, 생생한 뉴스의 현장을 LIVE로 시청하세요.\n이 채널은 연합뉴스TV의 Youtube 유튜브 공식 채널 입니다.",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_kFqbmXOoxJIaLVQYrJMB8gR8_LTF7Wm1lDpZbCmqhJh3U=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_kFqbmXOoxJIaLVQYrJMB8gR8_LTF7Wm1lDpZbCmqhJh3U=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_kFqbmXOoxJIaLVQYrJMB8gR8_LTF7Wm1lDpZbCmqhJh3U=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 2080000,
+      "viewCount": 3351994752,
+      "videoCount": 627296,
+      "lastUpdated": "2025-08-29T02:43:17.381649Z"
     }
   },
-  "lastUpdated": "2025-08-27T19:04:46.828169Z",
-  "totalVideos": 15,
-  "totalChannels": 2
+  "lastUpdated": "2025-08-29T02:43:17.381649Z",
+  "totalVideos": 16,
+  "totalChannels": 3
 }

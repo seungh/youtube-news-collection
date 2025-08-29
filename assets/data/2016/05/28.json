@@ -551,6 +551,25 @@
       "channelId": "UChlgI3UHCOnwUGzWzbJ3H5w",
       "channelName": " YTN",
       "collectedAt": "2025-08-27T19:04:45Z"
+    },
+    "C6tqAuhYtg8": {
+      "videoId": "C6tqAuhYtg8",
+      "title": "[하모니] 힘을 내요~ 병표 씨!…아빠라서 행복해",
+      "description": "[하모니] 힘을 내요~ 병표 씨!…아빠라서 행복해\r\n\r\n전남 장흥에 사는 노병표(45세), 노이삭, 다니엘(초2).\r\n\r\n과테말라에서 태어나 3년 전 아빠의 고향으로 온 이삭이와 다니엘 축구선수가 꿈이지만 형편상 축구부에 들어가지 못하고 있다. \r\n\r\n아들 둘을 챙기며 집안일까지 모두 하는 아빠 병표 씨는 아이들의 꿈을 지원해 주지 못하는 것이 못내 미안하다.\r\n\r\n한편 신장 합병증으로 힘든 시간을 보내는 병표 씨. \r\n\r\n검진 일이 다가와 홀로 병원으로 향하는데 어떤 검진 결과가 나올지 걱정이 앞선다. \r\n\r\n난소암치료를 위해 외국으로 떠난 엄마를 그리며 영상편지를 쓰는 아이들과 아이들을 위해 힘을 내는 아빠 병표 씨의 두 번째 이야기. \r\n\r\n하모니에서 만나본다.\r\n    \r\n연합뉴스TV : 02-398-4409(제보) 4441(기사문의), 카톡/라인 jebo23\r\n\r\n(끝)",
+      "publishedAt": "2016-05-28T00:06:37Z",
+      "duration": "PT13M13S",
+      "viewCount": 2648,
+      "likeCount": 21,
+      "commentCount": 0,
+      "tags": [
+        "Yonhapnews TV"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2016-05-28T00:06:37Z",
+      "channelId": "UCTHCOPwqNfZ0uiKOvFyhGwg",
+      "channelName": "연합뉴스TV",
+      "collectedAt": "2025-08-29T02:43:16Z"
     }
   },
   "channels": {
@@ -685,12 +704,39 @@
         }
       },
       "subscriberCount": 5150000,
-      "viewCount": 17635969172,
-      "videoCount": 889907,
-      "lastUpdated": "2025-08-27T19:04:45.763179Z"
+      "viewCount": 17649222300,
+      "videoCount": 890317,
+      "lastUpdated": "2025-08-29T02:43:16.094429Z"
+    },
+    "UCTHCOPwqNfZ0uiKOvFyhGwg": {
+      "channelId": "UCTHCOPwqNfZ0uiKOvFyhGwg",
+      "channelName": "연합뉴스TV",
+      "channelUrl": "@yonhapnewstv23",
+      "channelDescription": "대한민국 뉴스의 시작, 24시간 뉴스 채널 연합뉴스TV\n실시간 뉴스 생방송, 생생한 뉴스의 현장을 LIVE로 시청하세요.\n이 채널은 연합뉴스TV의 Youtube 유튜브 공식 채널 입니다.",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_kFqbmXOoxJIaLVQYrJMB8gR8_LTF7Wm1lDpZbCmqhJh3U=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_kFqbmXOoxJIaLVQYrJMB8gR8_LTF7Wm1lDpZbCmqhJh3U=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_kFqbmXOoxJIaLVQYrJMB8gR8_LTF7Wm1lDpZbCmqhJh3U=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 2080000,
+      "viewCount": 3351994752,
+      "videoCount": 627296,
+      "lastUpdated": "2025-08-29T02:43:16.094429Z"
     }
   },
-  "lastUpdated": "2025-08-27T19:04:45.763179Z",
-  "totalVideos": 20,
-  "totalChannels": 5
+  "lastUpdated": "2025-08-29T02:43:16.094429Z",
+  "totalVideos": 21,
+  "totalChannels": 6
 }

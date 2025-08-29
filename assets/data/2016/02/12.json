@@ -1535,6 +1535,26 @@
       "channelId": "UCG9aFJTZ-lMCHAiO1KJsirg",
       "channelName": "MBN News",
       "collectedAt": "2025-08-27T19:05:10Z"
+    },
+    "R78XLH5ETkM": {
+      "videoId": "R78XLH5ETkM",
+      "title": "미니다큐 오늘 - 행복 가수 김용국의 즐거운 인생",
+      "description": "- 2월13일 오후 7시40분 방송\n\n\"똑순이\" \"울 엄마\"를 발표하며 사랑을 받았던 트로트 가수 김용국 씨. 그의 인생은 조금 남다릅니다. TV에 서는 기회가 많지 않은 탓에 트로트 가수들은 대부분 지방을 도며 행사, 공연 등의 수입으로 생계를 이어가죠. 김용국 씨는 생계를 위한 무대를 포기하고 기부행사나 장애인을 위한 공연 등 봉사공연을 다니고 있습니다. 크게 유명세를 누리지 못했어도 26년간 받은 사랑에 보답하고자 어려운 이웃을 위해 노래를 부르고 싶다는 김용국 씨를 만나보시죠.",
+      "publishedAt": "2016-02-12T09:26:13Z",
+      "duration": "PT31S",
+      "viewCount": 276,
+      "likeCount": 7,
+      "commentCount": 1,
+      "tags": [
+        "연합뉴스TV",
+        "미니다큐 오늘"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2016-02-12T09:26:13Z",
+      "channelId": "UCTHCOPwqNfZ0uiKOvFyhGwg",
+      "channelName": "연합뉴스TV",
+      "collectedAt": "2025-08-29T02:43:45Z"
     }
   },
   "channels": {
@@ -1723,9 +1743,9 @@
         }
       },
       "subscriberCount": 5150000,
-      "viewCount": 17635969172,
-      "videoCount": 889907,
-      "lastUpdated": "2025-08-27T19:05:10.408272Z"
+      "viewCount": 17649222300,
+      "videoCount": 890317,
+      "lastUpdated": "2025-08-29T02:43:45.797515Z"
     },
     "UCG9aFJTZ-lMCHAiO1KJsirg": {
       "channelId": "UCG9aFJTZ-lMCHAiO1KJsirg",
@@ -1750,12 +1770,39 @@
         }
       },
       "subscriberCount": 2490000,
-      "viewCount": 3277338867,
-      "videoCount": 233128,
-      "lastUpdated": "2025-08-27T19:05:10.410708Z"
+      "viewCount": 3278386064,
+      "videoCount": 233358,
+      "lastUpdated": "2025-08-29T02:43:45.797515Z"
+    },
+    "UCTHCOPwqNfZ0uiKOvFyhGwg": {
+      "channelId": "UCTHCOPwqNfZ0uiKOvFyhGwg",
+      "channelName": "연합뉴스TV",
+      "channelUrl": "@yonhapnewstv23",
+      "channelDescription": "대한민국 뉴스의 시작, 24시간 뉴스 채널 연합뉴스TV\n실시간 뉴스 생방송, 생생한 뉴스의 현장을 LIVE로 시청하세요.\n이 채널은 연합뉴스TV의 Youtube 유튜브 공식 채널 입니다.",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_kFqbmXOoxJIaLVQYrJMB8gR8_LTF7Wm1lDpZbCmqhJh3U=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_kFqbmXOoxJIaLVQYrJMB8gR8_LTF7Wm1lDpZbCmqhJh3U=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_kFqbmXOoxJIaLVQYrJMB8gR8_LTF7Wm1lDpZbCmqhJh3U=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 2080000,
+      "viewCount": 3351994752,
+      "videoCount": 627296,
+      "lastUpdated": "2025-08-29T02:43:45.797515Z"
     }
   },
-  "lastUpdated": "2025-08-27T19:05:10.410708Z",
-  "totalVideos": 59,
-  "totalChannels": 8
+  "lastUpdated": "2025-08-29T02:43:45.797515Z",
+  "totalVideos": 60,
+  "totalChannels": 9
 }

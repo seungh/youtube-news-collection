@@ -213,6 +213,25 @@
       "channelId": "UChlgI3UHCOnwUGzWzbJ3H5w",
       "channelName": " YTN",
       "collectedAt": "2025-08-27T19:04:46Z"
+    },
+    "vH38Ne2H-nE": {
+      "videoId": "vH38Ne2H-nE",
+      "title": "[하모니] 장수7형제의 쨍하고 해뜰날 - 네 번째 이야기",
+      "description": "[하모니] 장수7형제의 쨍하고 해뜰날 - 네 번째 이야기\r\n\r\n전북 장수군 천천면에 사는 7형제네 집 마지막 이야기 \r\n\r\n발의 통증으로 고생하던 엄마는 하모니의 지원으로 병원을 찾았다. \r\n\r\n2년 전 받은 수술 후유증으로 발 상태가 심각해 수술이 시급한 상태. \r\n\r\n한편 비가 새고 창문 틈으로 바람이 드는 낡은 집을 고쳐주기 위해 하모니 주거 개선 루션이 시작됐다. \r\n\r\n낙서로 가득했던 거실과 찬장이 떨어진 부엌, 변기가 깨진 욕실이 아이들의 안전과 건강을 책임질 따뜻한 보금자리로 대 변신!  \r\n\r\n그리고 아이들의 소원인 가족의 생애 첫 나들이까지 장수 아들부잣집의 쨍하고 해뜰날!  그 마지막 이야기를 만나본다. \r\n\r\n연합뉴스TV 제보:02-398-4409, yjebo@yna.co.kr\r\n\r\n(끝)",
+      "publishedAt": "2015-07-25T11:09:38Z",
+      "duration": "PT12M6S",
+      "viewCount": 7525,
+      "likeCount": 32,
+      "commentCount": 5,
+      "tags": [
+        "Yonhapnews TV"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2015-07-25T11:09:38Z",
+      "channelId": "UCTHCOPwqNfZ0uiKOvFyhGwg",
+      "channelName": "연합뉴스TV",
+      "collectedAt": "2025-08-29T02:43:16Z"
     }
   },
   "channels": {
@@ -320,12 +339,39 @@
         }
       },
       "subscriberCount": 5150000,
-      "viewCount": 17635969172,
-      "videoCount": 889907,
-      "lastUpdated": "2025-08-27T19:04:46.498557Z"
+      "viewCount": 17649222300,
+      "videoCount": 890317,
+      "lastUpdated": "2025-08-29T02:43:16.816948Z"
+    },
+    "UCTHCOPwqNfZ0uiKOvFyhGwg": {
+      "channelId": "UCTHCOPwqNfZ0uiKOvFyhGwg",
+      "channelName": "연합뉴스TV",
+      "channelUrl": "@yonhapnewstv23",
+      "channelDescription": "대한민국 뉴스의 시작, 24시간 뉴스 채널 연합뉴스TV\n실시간 뉴스 생방송, 생생한 뉴스의 현장을 LIVE로 시청하세요.\n이 채널은 연합뉴스TV의 Youtube 유튜브 공식 채널 입니다.",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_kFqbmXOoxJIaLVQYrJMB8gR8_LTF7Wm1lDpZbCmqhJh3U=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_kFqbmXOoxJIaLVQYrJMB8gR8_LTF7Wm1lDpZbCmqhJh3U=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_kFqbmXOoxJIaLVQYrJMB8gR8_LTF7Wm1lDpZbCmqhJh3U=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 2080000,
+      "viewCount": 3351994752,
+      "videoCount": 627296,
+      "lastUpdated": "2025-08-29T02:43:16.818953Z"
     }
   },
-  "lastUpdated": "2025-08-27T19:04:46.498557Z",
-  "totalVideos": 10,
-  "totalChannels": 4
+  "lastUpdated": "2025-08-29T02:43:16.818953Z",
+  "totalVideos": 11,
+  "totalChannels": 5
 }

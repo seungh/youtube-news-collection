@@ -743,6 +743,30 @@
       "channelId": "UChlgI3UHCOnwUGzWzbJ3H5w",
       "channelName": " YTN",
       "collectedAt": "2025-08-27T19:04:44Z"
+    },
+    "6LSEm-d5tfo": {
+      "videoId": "6LSEm-d5tfo",
+      "title": "[하모니] 센 베노! 나의 고향…추억은 방울방울 / 연합뉴스TV (YonhapnewsTV)",
+      "description": "[하모니] 센 베노! 나의 고향…추억은 방울방울\r\n\r\n몽골인 이주여성인 다와소렝 씨가 가족과 함께 태어난 고향을 찾아 떠나는 첫 번째 여행. \r\n\r\n지도에도 없는 길을 따라 초원을 달리던 중 전날 내린 비로 무너져 내린 길과 맞닥뜨리게 됐는데요. \r\n\r\n우여곡절 끝에 몽골제국의 옛 수도인 카라코룸에 사는 고모집을 찾게 된 다와소렝 씨와 가족들.\r\n\r\n그곳에서 다와소렝 씨의 추억과 몽골의 역사를 다시 한 번 되새기게 됩니다.\r\n\r\n다와소렝 가족의 세 번째 몽골 여행기가 '하모니'에서 펼쳐집니다.\r\n    \r\n연합뉴스TV : 02-398-4441(기사문의·제보) 카톡/라인 jebo23\r\n\r\n▣ 연합뉴스TV 유튜브 채널 구독\r\nhttps://goo.gl/VuCJMi\r\n▣ 대한민국 뉴스의 시작 연합뉴스TV / Yonhap News TV\r\nhttp://www.yonhapnewstv.co.kr/",
+      "publishedAt": "2017-10-07T07:05:38Z",
+      "duration": "PT14M26S",
+      "viewCount": 677,
+      "likeCount": 5,
+      "commentCount": 0,
+      "tags": [
+        "Yonhapnews TV",
+        "News",
+        "실시간",
+        "Live",
+        "생방송",
+        "뉴스"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2017-10-07T07:05:38Z",
+      "channelId": "UCTHCOPwqNfZ0uiKOvFyhGwg",
+      "channelName": "연합뉴스TV",
+      "collectedAt": "2025-08-29T02:43:14Z"
     }
   },
   "channels": {
@@ -877,12 +901,39 @@
         }
       },
       "subscriberCount": 5150000,
-      "viewCount": 17635969172,
-      "videoCount": 889907,
-      "lastUpdated": "2025-08-27T19:04:44.198182Z"
+      "viewCount": 17649222300,
+      "videoCount": 890317,
+      "lastUpdated": "2025-08-29T02:43:14.595912Z"
+    },
+    "UCTHCOPwqNfZ0uiKOvFyhGwg": {
+      "channelId": "UCTHCOPwqNfZ0uiKOvFyhGwg",
+      "channelName": "연합뉴스TV",
+      "channelUrl": "@yonhapnewstv23",
+      "channelDescription": "대한민국 뉴스의 시작, 24시간 뉴스 채널 연합뉴스TV\n실시간 뉴스 생방송, 생생한 뉴스의 현장을 LIVE로 시청하세요.\n이 채널은 연합뉴스TV의 Youtube 유튜브 공식 채널 입니다.",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_kFqbmXOoxJIaLVQYrJMB8gR8_LTF7Wm1lDpZbCmqhJh3U=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_kFqbmXOoxJIaLVQYrJMB8gR8_LTF7Wm1lDpZbCmqhJh3U=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_kFqbmXOoxJIaLVQYrJMB8gR8_LTF7Wm1lDpZbCmqhJh3U=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 2080000,
+      "viewCount": 3351994752,
+      "videoCount": 627296,
+      "lastUpdated": "2025-08-29T02:43:14.595912Z"
     }
   },
-  "lastUpdated": "2025-08-27T19:04:44.200518Z",
-  "totalVideos": 30,
-  "totalChannels": 5
+  "lastUpdated": "2025-08-29T02:43:14.595912Z",
+  "totalVideos": 31,
+  "totalChannels": 6
 }

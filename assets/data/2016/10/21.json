@@ -1447,6 +1447,46 @@
       "channelId": "UCG9aFJTZ-lMCHAiO1KJsirg",
       "channelName": "MBN News",
       "collectedAt": "2025-08-27T19:05:05Z"
+    },
+    "_md1ZAohZm8": {
+      "videoId": "_md1ZAohZm8",
+      "title": "미니다큐 오늘 - 3D업종에서 뛰는 청년들",
+      "description": "- 10월22일 오후 7시40분 방송\n\n청소와 세탁 등 '힘들고, 지저분하고, 위험한' 분야에 창업이라는 도전장을 낸 청춘들이 있습니다. 톡톡 튀는 아이디어와 청춘의 패기로 무장한 3D 청춘 기업의 도전기!",
+      "publishedAt": "2016-10-21T08:41:37Z",
+      "duration": "PT34S",
+      "viewCount": 531,
+      "likeCount": 0,
+      "commentCount": 0,
+      "tags": [
+        "연합뉴스TV",
+        "미니다큐 오늘"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2016-10-21T08:41:37Z",
+      "channelId": "UCTHCOPwqNfZ0uiKOvFyhGwg",
+      "channelName": "연합뉴스TV",
+      "collectedAt": "2025-08-29T02:43:41Z"
+    },
+    "Iy4xKgIq_HY": {
+      "videoId": "Iy4xKgIq_HY",
+      "title": "트렌드 지금 여기! - 가을, 참 멋있다",
+      "description": "- 10월23일 오전 9시30분\n\n▲ 아~ 책 읽고 싶어라\n울긋불긋한 단풍이 주는 오대산의 멋스러운 정취와 때론 쓸쓸하고 은근한 멋까지 건네주는 민둥산 억새 그리고 풍성한 수확의 기쁨까지 더해진 가을의 멋을 '트렌드 지금 여기' 에서 확인해보세요!",
+      "publishedAt": "2016-10-21T07:49:12Z",
+      "duration": "PT49S",
+      "viewCount": 49,
+      "likeCount": 0,
+      "commentCount": 0,
+      "tags": [
+        "연합뉴스TV",
+        "트렌드 지금 여기"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2016-10-21T07:49:12Z",
+      "channelId": "UCTHCOPwqNfZ0uiKOvFyhGwg",
+      "channelName": "연합뉴스TV",
+      "collectedAt": "2025-08-29T02:43:41Z"
     }
   },
   "channels": {
@@ -1689,9 +1729,9 @@
         }
       },
       "subscriberCount": 5150000,
-      "viewCount": 17635969172,
-      "videoCount": 889907,
-      "lastUpdated": "2025-08-27T19:05:05.458317Z"
+      "viewCount": 17649222300,
+      "videoCount": 890317,
+      "lastUpdated": "2025-08-29T02:43:41.261905Z"
     },
     "UCG9aFJTZ-lMCHAiO1KJsirg": {
       "channelId": "UCG9aFJTZ-lMCHAiO1KJsirg",
@@ -1716,12 +1756,39 @@
         }
       },
       "subscriberCount": 2490000,
-      "viewCount": 3277338867,
-      "videoCount": 233128,
-      "lastUpdated": "2025-08-27T19:05:05.458317Z"
+      "viewCount": 3278386064,
+      "videoCount": 233358,
+      "lastUpdated": "2025-08-29T02:43:41.261905Z"
+    },
+    "UCTHCOPwqNfZ0uiKOvFyhGwg": {
+      "channelId": "UCTHCOPwqNfZ0uiKOvFyhGwg",
+      "channelName": "연합뉴스TV",
+      "channelUrl": "@yonhapnewstv23",
+      "channelDescription": "대한민국 뉴스의 시작, 24시간 뉴스 채널 연합뉴스TV\n실시간 뉴스 생방송, 생생한 뉴스의 현장을 LIVE로 시청하세요.\n이 채널은 연합뉴스TV의 Youtube 유튜브 공식 채널 입니다.",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_kFqbmXOoxJIaLVQYrJMB8gR8_LTF7Wm1lDpZbCmqhJh3U=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_kFqbmXOoxJIaLVQYrJMB8gR8_LTF7Wm1lDpZbCmqhJh3U=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_kFqbmXOoxJIaLVQYrJMB8gR8_LTF7Wm1lDpZbCmqhJh3U=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 2080000,
+      "viewCount": 3351994752,
+      "videoCount": 627296,
+      "lastUpdated": "2025-08-29T02:43:41.261905Z"
     }
   },
-  "lastUpdated": "2025-08-27T19:05:05.458317Z",
-  "totalVideos": 58,
-  "totalChannels": 10
+  "lastUpdated": "2025-08-29T02:43:41.261905Z",
+  "totalVideos": 60,
+  "totalChannels": 11
 }

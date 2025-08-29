@@ -311,6 +311,25 @@
       "channelId": "UChlgI3UHCOnwUGzWzbJ3H5w",
       "channelName": " YTN",
       "collectedAt": "2025-08-27T19:04:46Z"
+    },
+    "VWcwF9uUydc": {
+      "videoId": "VWcwF9uUydc",
+      "title": "[하모니] 장수7형제의 쨍하고 해뜰날 - 첫 번째 이야기",
+      "description": "[하모니] 장수7형제의 쨍하고 해뜰날 - 첫 번째 이야기 \r\n\r\n전북 장수군 천천면에는 아빠 서재수(56세)씨와 엄마 김정임(43세)씨가 7형제를 키우며 살고 있다. \r\n\r\n몸이 약한 엄마는 아이들 챙기는 것도 몸에 벅찬 상태라 아빠 혼자서 밭을 임대해 농사를 짓는 상황. \r\n\r\n형편이 어렵다보니 한창 먹성 좋은 아이들은 동네 뒷산에서 산딸기를 찾아 먹고 어쩌다 발견한 뱀을 보면 가져다 팔아 볼까 엉뚱한 생각까지 해본다. \r\n\r\n엄마가 개구쟁이 아들들과 시름을 하는 동안 아빠는 집수리에 나섰는데... \r\n\r\n돈이 없어 직접 벽돌을 쌓고 지붕을 올리다보니 벽에선 곰팡이가 피고 창문에선 바람이 새는 상태.  \r\n\r\n가난하지만 형제들이 있어 신나고 힘겹지만 아이들이 있어 행복한 장수7형제네 집. \r\n\r\n그 첫 번째 이야기를 만나본다.\r\n\r\n    연합뉴스TV 제보:02-398-4409, yjebo@yna.co.kr\r\n\r\n(끝)",
+      "publishedAt": "2015-07-04T02:03:17Z",
+      "duration": "PT12M52S",
+      "viewCount": 15059,
+      "likeCount": 65,
+      "commentCount": 8,
+      "tags": [
+        "Yonhapnews TV"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2015-07-04T02:03:17Z",
+      "channelId": "UCTHCOPwqNfZ0uiKOvFyhGwg",
+      "channelName": "연합뉴스TV",
+      "collectedAt": "2025-08-29T02:43:16Z"
     }
   },
   "channels": {
@@ -364,12 +383,39 @@
         }
       },
       "subscriberCount": 5150000,
-      "viewCount": 17635969172,
-      "videoCount": 889907,
-      "lastUpdated": "2025-08-27T19:04:46.569810Z"
+      "viewCount": 17649222300,
+      "videoCount": 890317,
+      "lastUpdated": "2025-08-29T02:43:16.864558Z"
+    },
+    "UCTHCOPwqNfZ0uiKOvFyhGwg": {
+      "channelId": "UCTHCOPwqNfZ0uiKOvFyhGwg",
+      "channelName": "연합뉴스TV",
+      "channelUrl": "@yonhapnewstv23",
+      "channelDescription": "대한민국 뉴스의 시작, 24시간 뉴스 채널 연합뉴스TV\n실시간 뉴스 생방송, 생생한 뉴스의 현장을 LIVE로 시청하세요.\n이 채널은 연합뉴스TV의 Youtube 유튜브 공식 채널 입니다.",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_kFqbmXOoxJIaLVQYrJMB8gR8_LTF7Wm1lDpZbCmqhJh3U=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_kFqbmXOoxJIaLVQYrJMB8gR8_LTF7Wm1lDpZbCmqhJh3U=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_kFqbmXOoxJIaLVQYrJMB8gR8_LTF7Wm1lDpZbCmqhJh3U=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 2080000,
+      "viewCount": 3351994752,
+      "videoCount": 627296,
+      "lastUpdated": "2025-08-29T02:43:16.864558Z"
     }
   },
-  "lastUpdated": "2025-08-27T19:04:46.570808Z",
-  "totalVideos": 15,
-  "totalChannels": 2
+  "lastUpdated": "2025-08-29T02:43:16.864558Z",
+  "totalVideos": 16,
+  "totalChannels": 3
 }

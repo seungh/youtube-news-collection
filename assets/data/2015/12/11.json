@@ -1160,6 +1160,48 @@
       "channelId": "UCG9aFJTZ-lMCHAiO1KJsirg",
       "channelName": "MBN News",
       "collectedAt": "2025-08-27T19:05:06Z"
+    },
+    "gySuKAOxbs8": {
+      "videoId": "gySuKAOxbs8",
+      "title": "하모니 - 그리운 고향집 1부",
+      "description": "- 12월12일 08:40 / 12월13일 02:40 방송\n\n▲ 그리운 고향집 1부 \n필리핀에서 대학까지 나온 재원인 양예린씨는 고향 부모님의 반대에도 무릅쓰고 한국인 이성원씨와 2002년 결혼해 두 딸을 두고 있습니다. 자상했던 남편은 건설현장에서 사고가 난 후 술에 의존해 치료를 받는 중이라 집안의 생계는 양예린씨가 책임지고 있는 상태입니다. 얼마 전 필리핀에 사는 친정 아버지가 심장병으로 건강이 악화됐다는 소식을 전해들은 예린씨. 고향 집에 가서 꼭 한번 만나보고 싶지만 형편상 가지 못하는 안타까운 상황에서 예린씨는 친정아버지를 만날 수 있을까요?",
+      "publishedAt": "2015-12-11T08:45:08Z",
+      "duration": "PT40S",
+      "viewCount": 141,
+      "likeCount": 4,
+      "commentCount": 0,
+      "tags": [
+        "연합뉴스TV",
+        "하모니"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2015-12-11T08:45:08Z",
+      "channelId": "UCTHCOPwqNfZ0uiKOvFyhGwg",
+      "channelName": "연합뉴스TV",
+      "collectedAt": "2025-08-29T02:43:42Z"
+    },
+    "8SQNJGhNBuQ": {
+      "videoId": "8SQNJGhNBuQ",
+      "title": "여행과 풍경 - 인천광역시",
+      "description": "- 12월12일 오후 2시40분 방송\n\n▲ 인천광역시\n풍광이 아름다운 무의도, 중국을 여행하는 듯한 차이나타운, 중국식 정원을 활용한 한중원 쉼터, 자연과 휴식 전통문화가 조화롭게 어우러진 월미공원. 곳곳에 숨은 매력에 빠져들수 밖에 없는 인천 여행을 '여행과 풍경'에서 만나보시죠.",
+      "publishedAt": "2015-12-11T08:59:08Z",
+      "duration": "PT34S",
+      "viewCount": 58,
+      "likeCount": 0,
+      "commentCount": 0,
+      "tags": [
+        "연합뉴스TV",
+        "여행과 풍경",
+        "인천",
+        "인천광역시"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2015-12-11T08:59:08Z",
+      "channelId": "UCTHCOPwqNfZ0uiKOvFyhGwg",
+      "channelName": "연합뉴스TV",
+      "collectedAt": "2025-08-29T02:43:42Z"
     }
   },
   "channels": {
@@ -1294,9 +1336,9 @@
         }
       },
       "subscriberCount": 5150000,
-      "viewCount": 17635969172,
-      "videoCount": 889907,
-      "lastUpdated": "2025-08-27T19:05:06.540628Z"
+      "viewCount": 17649222300,
+      "videoCount": 890317,
+      "lastUpdated": "2025-08-29T02:43:42.117378Z"
     },
     "UCG9aFJTZ-lMCHAiO1KJsirg": {
       "channelId": "UCG9aFJTZ-lMCHAiO1KJsirg",
@@ -1321,12 +1363,39 @@
         }
       },
       "subscriberCount": 2490000,
-      "viewCount": 3277338867,
-      "videoCount": 233128,
-      "lastUpdated": "2025-08-27T19:05:06.541642Z"
+      "viewCount": 3278386064,
+      "videoCount": 233358,
+      "lastUpdated": "2025-08-29T02:43:42.117378Z"
+    },
+    "UCTHCOPwqNfZ0uiKOvFyhGwg": {
+      "channelId": "UCTHCOPwqNfZ0uiKOvFyhGwg",
+      "channelName": "연합뉴스TV",
+      "channelUrl": "@yonhapnewstv23",
+      "channelDescription": "대한민국 뉴스의 시작, 24시간 뉴스 채널 연합뉴스TV\n실시간 뉴스 생방송, 생생한 뉴스의 현장을 LIVE로 시청하세요.\n이 채널은 연합뉴스TV의 Youtube 유튜브 공식 채널 입니다.",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_kFqbmXOoxJIaLVQYrJMB8gR8_LTF7Wm1lDpZbCmqhJh3U=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_kFqbmXOoxJIaLVQYrJMB8gR8_LTF7Wm1lDpZbCmqhJh3U=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_kFqbmXOoxJIaLVQYrJMB8gR8_LTF7Wm1lDpZbCmqhJh3U=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 2080000,
+      "viewCount": 3351994752,
+      "videoCount": 627296,
+      "lastUpdated": "2025-08-29T02:43:42.117378Z"
     }
   },
-  "lastUpdated": "2025-08-27T19:05:06.541642Z",
-  "totalVideos": 42,
-  "totalChannels": 6
+  "lastUpdated": "2025-08-29T02:43:42.117378Z",
+  "totalVideos": 44,
+  "totalChannels": 7
 }

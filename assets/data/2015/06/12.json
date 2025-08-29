@@ -423,6 +423,49 @@
       "channelId": "UChlgI3UHCOnwUGzWzbJ3H5w",
       "channelName": " YTN",
       "collectedAt": "2025-08-27T19:05:20Z"
+    },
+    "ShIUgc77ILE": {
+      "videoId": "ShIUgc77ILE",
+      "title": "하모니 - 웃어라 문자매! 2부",
+      "description": "- 6월 13일 08:40 / 6월 14일 02:40 방송\n\n▲ 웃어라! 문 자매  2부\n아빠가 품을 팔아 근근이 살아가는 어려운 형편. 어느 날 돈이 필요한 아빠는 아이들이 친구처럼 예뻐하는 새끼 염소를 팔기로 합니다. 아이들은 팔지 말라며 애원하지만 결국 끌려 나가는 새끼 염소. 생쌀로 허기를 채우던 한슬이는 아빠의 호통에 눈물을 보이고 맙니다. 무주 한슬이네 두 번째 이야기를 만나봅니다.",
+      "publishedAt": "2015-06-12T10:01:38Z",
+      "duration": "PT51S",
+      "viewCount": 212,
+      "likeCount": 1,
+      "commentCount": 0,
+      "tags": [
+        "연합뉴스TV",
+        "하모니"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2015-06-12T10:01:38Z",
+      "channelId": "UCTHCOPwqNfZ0uiKOvFyhGwg",
+      "channelName": "연합뉴스TV",
+      "collectedAt": "2025-08-29T02:43:56Z"
+    },
+    "SllhsNNa_F0": {
+      "videoId": "SllhsNNa_F0",
+      "title": "기업비사 - 샘표 박규회 회장, 사먹는 간장시대를 열다",
+      "description": "- 6월14일 저녁 7시20분 방송\n\n▲ 샘표 박규회 회장, 사먹는 간장시대를 열다\n부지런한 우리 민족의 '장 담그기'. \"장맛을 보면 그 집안이 보인다\"고 할 정도죠. 햇빛, 바람 그리고 시간이 지날수록 깊어지는 '장맛'. 장독대가 사라진 시대, '사먹는 장'의 시대를 연 기업가가 있습니다. \n주부의 마음을 움직여라! 국내 최초 간장 방문판매를 시작했던 장수기업의 비결은?",
+      "publishedAt": "2015-06-12T09:03:05Z",
+      "duration": "PT50S",
+      "viewCount": 527,
+      "likeCount": 3,
+      "commentCount": 0,
+      "tags": [
+        "연합뉴스TV",
+        "샘표",
+        "박규회 회장",
+        "간장",
+        "기업비사"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2015-06-12T09:03:05Z",
+      "channelId": "UCTHCOPwqNfZ0uiKOvFyhGwg",
+      "channelName": "연합뉴스TV",
+      "collectedAt": "2025-08-29T02:43:56Z"
     }
   },
   "channels": {
@@ -584,12 +627,39 @@
         }
       },
       "subscriberCount": 5150000,
-      "viewCount": 17635969172,
-      "videoCount": 889907,
-      "lastUpdated": "2025-08-27T19:05:20.468550Z"
+      "viewCount": 17649222300,
+      "videoCount": 890317,
+      "lastUpdated": "2025-08-29T02:43:56.411084Z"
+    },
+    "UCTHCOPwqNfZ0uiKOvFyhGwg": {
+      "channelId": "UCTHCOPwqNfZ0uiKOvFyhGwg",
+      "channelName": "연합뉴스TV",
+      "channelUrl": "@yonhapnewstv23",
+      "channelDescription": "대한민국 뉴스의 시작, 24시간 뉴스 채널 연합뉴스TV\n실시간 뉴스 생방송, 생생한 뉴스의 현장을 LIVE로 시청하세요.\n이 채널은 연합뉴스TV의 Youtube 유튜브 공식 채널 입니다.",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_kFqbmXOoxJIaLVQYrJMB8gR8_LTF7Wm1lDpZbCmqhJh3U=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_kFqbmXOoxJIaLVQYrJMB8gR8_LTF7Wm1lDpZbCmqhJh3U=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_kFqbmXOoxJIaLVQYrJMB8gR8_LTF7Wm1lDpZbCmqhJh3U=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 2080000,
+      "viewCount": 3351994752,
+      "videoCount": 627296,
+      "lastUpdated": "2025-08-29T02:43:56.411084Z"
     }
   },
-  "lastUpdated": "2025-08-27T19:05:20.468550Z",
-  "totalVideos": 18,
-  "totalChannels": 6
+  "lastUpdated": "2025-08-29T02:43:56.411084Z",
+  "totalVideos": 20,
+  "totalChannels": 7
 }

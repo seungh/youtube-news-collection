@@ -336,6 +336,25 @@
       "channelId": "UChlgI3UHCOnwUGzWzbJ3H5w",
       "channelName": " YTN",
       "collectedAt": "2025-08-27T19:04:46Z"
+    },
+    "iNNv7EkHL5o": {
+      "videoId": "iNNv7EkHL5o",
+      "title": "[하모니] 찬아네 가족의 희망일기 - 첫번째 이야기",
+      "description": "[하모니] 찬아네 가족의 희망일기 - 첫번째 이야기\r\n\r\n세종시 전동면에 사는 베트남 출신 웽티몽투(36세)씨 \r\n\r\n10년전, 남편 박노택(58세)씨를 만나 한국으로 시집왔다. \r\n\r\n부부에게는 딸 찬아(9세)와 아들 성규(4세)가 있다. \r\n\r\n웽티몽투는 건강이 안좋은 남편을 대신해 2년째 공장에 다니며 집안 생계를 책임지고 있는 실질적인 가장. \r\n\r\n어릴 적 농기계에 다쳐 손가락 3개를 잃은 남편은 일자리를 찾지 못해 집안 살림과 아이들 돌보는 일을 도맡아 하고 있다.\r\n\r\n공장에 나가기 위해 새벽부터 일어나 아침밥과 아이들 등교준비에 바쁜 웽티몽투. \r\n\r\n그런데 또래 아이들보다 작은 체구, 마른 몸을 가진 9살 찬아의 행동이 이상하다. \r\n\r\n엄마가 밥을 일일이 떠 먹여 줘야하고 밥 먹는 동안에 한시도 자리에 앉아 있지 않는다. \r\n\r\n태어난지 3개월만에 심장 이상이 발견돼 심장수술을 2번이나 한 찬아.\r\n\r\n엄마는 아이의 성장발달과 지능이 떨어지는 것을 느끼지만 어려운 가정형편 때문에 검사한번 못 받은 상태.\r\n\r\n몸이 아파 1년 늦게 학교에 들어간 초등학교 1학년 박찬아 학교 생활은 잘 적응하고 있을까? \r\n\r\n행복한 가정을 꿈꾸는 찬아네 가족의 희망일기 그 첫 번째 이야기를 하모니에서 만나본다.\r\n    연합뉴스TV 제보:02-398-4409, yjebo@yna.co.kr\r\n(끝)",
+      "publishedAt": "2015-05-09T01:45:08Z",
+      "duration": "PT12M11S",
+      "viewCount": 6849,
+      "likeCount": 41,
+      "commentCount": 1,
+      "tags": [
+        "Yonhapnews TV"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2015-05-09T01:45:08Z",
+      "channelId": "UCTHCOPwqNfZ0uiKOvFyhGwg",
+      "channelName": "연합뉴스TV",
+      "collectedAt": "2025-08-29T02:43:16Z"
     }
   },
   "channels": {
@@ -416,12 +435,39 @@
         }
       },
       "subscriberCount": 5150000,
-      "viewCount": 17635969172,
-      "videoCount": 889907,
-      "lastUpdated": "2025-08-27T19:04:46.674528Z"
+      "viewCount": 17649222300,
+      "videoCount": 890317,
+      "lastUpdated": "2025-08-29T02:43:16.975729Z"
+    },
+    "UCTHCOPwqNfZ0uiKOvFyhGwg": {
+      "channelId": "UCTHCOPwqNfZ0uiKOvFyhGwg",
+      "channelName": "연합뉴스TV",
+      "channelUrl": "@yonhapnewstv23",
+      "channelDescription": "대한민국 뉴스의 시작, 24시간 뉴스 채널 연합뉴스TV\n실시간 뉴스 생방송, 생생한 뉴스의 현장을 LIVE로 시청하세요.\n이 채널은 연합뉴스TV의 Youtube 유튜브 공식 채널 입니다.",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_kFqbmXOoxJIaLVQYrJMB8gR8_LTF7Wm1lDpZbCmqhJh3U=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_kFqbmXOoxJIaLVQYrJMB8gR8_LTF7Wm1lDpZbCmqhJh3U=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_kFqbmXOoxJIaLVQYrJMB8gR8_LTF7Wm1lDpZbCmqhJh3U=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 2080000,
+      "viewCount": 3351994752,
+      "videoCount": 627296,
+      "lastUpdated": "2025-08-29T02:43:16.975729Z"
     }
   },
-  "lastUpdated": "2025-08-27T19:04:46.674528Z",
-  "totalVideos": 16,
-  "totalChannels": 3
+  "lastUpdated": "2025-08-29T02:43:16.975729Z",
+  "totalVideos": 17,
+  "totalChannels": 4
 }

@@ -413,6 +413,25 @@
       "channelId": "UChlgI3UHCOnwUGzWzbJ3H5w",
       "channelName": " YTN",
       "collectedAt": "2025-08-27T19:04:45Z"
+    },
+    "FWQPbOPBzsY": {
+      "videoId": "FWQPbOPBzsY",
+      "title": "[하모니] 당신은 나의 운명…엄마의 꿈",
+      "description": "[하모니] 당신은 나의 운명…엄마의 꿈\r\n\r\n부산에 사는 이재길 씨 가족이야기입니다. \r\n\r\n남편 이재길 (51세) 팔다리가 없는 1급 장애, 아내 이하은 (37세) 필리핀 출신, 세 딸 예슬(11세) 예향(8세) 예빈 (5세).\r\n\r\n주말 아침. 온 집안이 들썩이게 노는 세 자매. \r\n\r\n아이들의 넘치는 힘을 빼놓기 위해 부부는 주말이면 인근 공원에 간다. \r\n\r\n노는 걸 지켜보는 것도 힘에 부치지만 아이들을 위해서라면 어디든 가고 싶은 게 부모 마음. 하지만 팔다리가 불편한 재길 씨는 버스 타는 게 쉽지 않고 택시는 정원초과라고 안태워주는 답답한 상황이다. \r\n\r\n한편 예향이 생일을 맞아 나이 지긋한 고모들이 총출동했는데 옛날 얘기만 나오면 눈물을 훔치는 엄마 하은 씨. \r\n\r\n도대체 무슨 사연이 있는 걸까? \r\n\r\n부산의 닭살가족 예슬이네 세 번째 이야기를 하모니에서 만나본다.\r\n\r\n연합뉴스TV : 02-398-4409(제보) 4441(기사문의), 카톡/라인 jebo23\r\n\r\n(끝)",
+      "publishedAt": "2016-07-02T00:06:43Z",
+      "duration": "PT14M1S",
+      "viewCount": 3510,
+      "likeCount": 22,
+      "commentCount": 0,
+      "tags": [
+        "Yonhapnews TV"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2016-07-02T00:06:43Z",
+      "channelId": "UCTHCOPwqNfZ0uiKOvFyhGwg",
+      "channelName": "연합뉴스TV",
+      "collectedAt": "2025-08-29T02:43:16Z"
     }
   },
   "channels": {
@@ -520,12 +539,39 @@
         }
       },
       "subscriberCount": 5150000,
-      "viewCount": 17635969172,
-      "videoCount": 889907,
-      "lastUpdated": "2025-08-27T19:04:45.674817Z"
+      "viewCount": 17649222300,
+      "videoCount": 890317,
+      "lastUpdated": "2025-08-29T02:43:16.006939Z"
+    },
+    "UCTHCOPwqNfZ0uiKOvFyhGwg": {
+      "channelId": "UCTHCOPwqNfZ0uiKOvFyhGwg",
+      "channelName": "연합뉴스TV",
+      "channelUrl": "@yonhapnewstv23",
+      "channelDescription": "대한민국 뉴스의 시작, 24시간 뉴스 채널 연합뉴스TV\n실시간 뉴스 생방송, 생생한 뉴스의 현장을 LIVE로 시청하세요.\n이 채널은 연합뉴스TV의 Youtube 유튜브 공식 채널 입니다.",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_kFqbmXOoxJIaLVQYrJMB8gR8_LTF7Wm1lDpZbCmqhJh3U=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_kFqbmXOoxJIaLVQYrJMB8gR8_LTF7Wm1lDpZbCmqhJh3U=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_kFqbmXOoxJIaLVQYrJMB8gR8_LTF7Wm1lDpZbCmqhJh3U=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 2080000,
+      "viewCount": 3351994752,
+      "videoCount": 627296,
+      "lastUpdated": "2025-08-29T02:43:16.006939Z"
     }
   },
-  "lastUpdated": "2025-08-27T19:04:45.674817Z",
-  "totalVideos": 15,
-  "totalChannels": 4
+  "lastUpdated": "2025-08-29T02:43:16.006939Z",
+  "totalVideos": 16,
+  "totalChannels": 5
 }

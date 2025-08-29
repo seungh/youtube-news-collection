@@ -844,6 +844,26 @@
       "channelId": "UCG9aFJTZ-lMCHAiO1KJsirg",
       "channelName": "MBN News",
       "collectedAt": "2025-08-27T19:05:11Z"
+    },
+    "D1dDd9m4Z6s": {
+      "videoId": "D1dDd9m4Z6s",
+      "title": "비즈톡톡 - 아이와 부모 함께 즐겨요",
+      "description": "- 5월5일 저녁 7시40분 방송\n\n▲ 아이와 부모 함께 즐겨요\n저출산시대에도 블루오션으로 떠오르고 있는 키즈산업! 아이와 함께하는 가족복합문화공간에 대한 수요가 늘면서 아이는 물론 부모들의 취향을 공략한 차별화 전략이 눈길을 끌고 있습니다. \n\n가정의 달 5월, 아이와 부모 모두 행복해지는 공간을 '비즈톡톡'이 알아봅니다.\n\n▣ 연합뉴스TV 유튜브 채널 구독\nhttps://goo.gl/VuCJMi\n\n▣ 대한민국 뉴스의 시작 연합뉴스TV / Yonhap News TV\nhttp://www.yonhapnewstv.co.kr/",
+      "publishedAt": "2017-05-05T07:23:44Z",
+      "duration": "PT33S",
+      "viewCount": 44,
+      "likeCount": 0,
+      "commentCount": 0,
+      "tags": [
+        "연합뉴스TV",
+        "비즈톡톡"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2017-05-05T07:23:44Z",
+      "channelId": "UCTHCOPwqNfZ0uiKOvFyhGwg",
+      "channelName": "연합뉴스TV",
+      "collectedAt": "2025-08-29T02:43:46Z"
     }
   },
   "channels": {
@@ -978,9 +998,9 @@
         }
       },
       "subscriberCount": 5150000,
-      "viewCount": 17635969172,
-      "videoCount": 889907,
-      "lastUpdated": "2025-08-27T19:05:11.194245Z"
+      "viewCount": 17649222300,
+      "videoCount": 890317,
+      "lastUpdated": "2025-08-29T02:43:46.555734Z"
     },
     "UCG9aFJTZ-lMCHAiO1KJsirg": {
       "channelId": "UCG9aFJTZ-lMCHAiO1KJsirg",
@@ -1005,12 +1025,39 @@
         }
       },
       "subscriberCount": 2490000,
-      "viewCount": 3277338867,
-      "videoCount": 233128,
-      "lastUpdated": "2025-08-27T19:05:11.194245Z"
+      "viewCount": 3278386064,
+      "videoCount": 233358,
+      "lastUpdated": "2025-08-29T02:43:46.555734Z"
+    },
+    "UCTHCOPwqNfZ0uiKOvFyhGwg": {
+      "channelId": "UCTHCOPwqNfZ0uiKOvFyhGwg",
+      "channelName": "연합뉴스TV",
+      "channelUrl": "@yonhapnewstv23",
+      "channelDescription": "대한민국 뉴스의 시작, 24시간 뉴스 채널 연합뉴스TV\n실시간 뉴스 생방송, 생생한 뉴스의 현장을 LIVE로 시청하세요.\n이 채널은 연합뉴스TV의 Youtube 유튜브 공식 채널 입니다.",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_kFqbmXOoxJIaLVQYrJMB8gR8_LTF7Wm1lDpZbCmqhJh3U=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_kFqbmXOoxJIaLVQYrJMB8gR8_LTF7Wm1lDpZbCmqhJh3U=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_kFqbmXOoxJIaLVQYrJMB8gR8_LTF7Wm1lDpZbCmqhJh3U=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 2080000,
+      "viewCount": 3351994752,
+      "videoCount": 627296,
+      "lastUpdated": "2025-08-29T02:43:46.555734Z"
     }
   },
-  "lastUpdated": "2025-08-27T19:05:11.195243Z",
-  "totalVideos": 36,
-  "totalChannels": 6
+  "lastUpdated": "2025-08-29T02:43:46.555734Z",
+  "totalVideos": 37,
+  "totalChannels": 7
 }

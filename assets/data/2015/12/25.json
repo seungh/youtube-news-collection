@@ -151,6 +151,48 @@
       "channelId": "UC4Aa3OPkMenwTANpf0oWVRQ",
       "channelName": "CBS 김현정의 뉴스쇼",
       "collectedAt": "2025-08-22T14:03:17Z"
+    },
+    "r1xDCLj7dNk": {
+      "videoId": "r1xDCLj7dNk",
+      "title": "미니다큐 오늘 - 홍대 기부 천사 욕쟁이 누님",
+      "description": "- 12월26일 오후 7시40분 방송\n\n매일 밤 12시가 되면 차진 욕이 쏟아지는 홍대의 수상한 가게가 있습니다. '고등어 팔아 기부하는 욕쟁이 누나'로 통하는 천경희 씨가 그 주인공이죠. '욕'기부로 시작된 나눔은 계절마다 일일콘서트를 개최해 전액 기부하고 3곳의 재단, 보육원 등 4곳에도 정기적으로 기부하고 있습니다. 기부의 새로운 지평을 열고 있는 유쾌 상쾌한 마포 김수미, 천경희 씨의 특별한 나눔을 '미니다큐 오늘'에서 만나보시죠.",
+      "publishedAt": "2015-12-25T11:26:09Z",
+      "duration": "PT39S",
+      "viewCount": 112,
+      "likeCount": 1,
+      "commentCount": 0,
+      "tags": [
+        "연합뉴스TV",
+        "미니다큐 오늘",
+        "욕쟁이 누님"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2015-12-25T11:26:09Z",
+      "channelId": "UCTHCOPwqNfZ0uiKOvFyhGwg",
+      "channelName": "연합뉴스TV",
+      "collectedAt": "2025-08-29T02:44:02Z"
+    },
+    "q58sRsiBFdk": {
+      "videoId": "q58sRsiBFdk",
+      "title": "여행과 풍경 - 고흥",
+      "description": "- 12월26일 오후 2시40분 방송\n\n▲ 고흥\n남도의 끝자락 청정미항 녹동항, 범종의 메아리가 울리는 사찰 능가사, 문화예술의 향기가 가득한 남포 미술관, 지역의 풍부한 산림 자원 소재로 가득한 복합 문화 공간 마복산 목재 문화체험장까지. 자연의 순수함이 살아있고 갈대밭의 물결이 울리는 고흥을 '여행과 풍경'에서 만나보시죠.",
+      "publishedAt": "2015-12-25T06:17:54Z",
+      "duration": "PT36S",
+      "viewCount": 112,
+      "likeCount": 1,
+      "commentCount": 0,
+      "tags": [
+        "연합뉴스TV",
+        "여행과 풍경",
+        "고흥"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2015-12-25T06:17:54Z",
+      "channelId": "UCTHCOPwqNfZ0uiKOvFyhGwg",
+      "channelName": "연합뉴스TV",
+      "collectedAt": "2025-08-29T02:44:02Z"
     }
   },
   "channels": {
@@ -207,9 +249,36 @@
       "viewCount": 1280577570,
       "videoCount": 19124,
       "lastUpdated": "2025-08-24T21:54:50.039124Z"
+    },
+    "UCTHCOPwqNfZ0uiKOvFyhGwg": {
+      "channelId": "UCTHCOPwqNfZ0uiKOvFyhGwg",
+      "channelName": "연합뉴스TV",
+      "channelUrl": "@yonhapnewstv23",
+      "channelDescription": "대한민국 뉴스의 시작, 24시간 뉴스 채널 연합뉴스TV\n실시간 뉴스 생방송, 생생한 뉴스의 현장을 LIVE로 시청하세요.\n이 채널은 연합뉴스TV의 Youtube 유튜브 공식 채널 입니다.",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_kFqbmXOoxJIaLVQYrJMB8gR8_LTF7Wm1lDpZbCmqhJh3U=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_kFqbmXOoxJIaLVQYrJMB8gR8_LTF7Wm1lDpZbCmqhJh3U=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_kFqbmXOoxJIaLVQYrJMB8gR8_LTF7Wm1lDpZbCmqhJh3U=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 2080000,
+      "viewCount": 3351994752,
+      "videoCount": 627296,
+      "lastUpdated": "2025-08-29T02:44:02.327218Z"
     }
   },
-  "lastUpdated": "2025-08-24T21:54:50.045108Z",
-  "totalVideos": 7,
-  "totalChannels": 2
+  "lastUpdated": "2025-08-29T02:44:02.327218Z",
+  "totalVideos": 9,
+  "totalChannels": 3
 }

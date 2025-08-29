@@ -246,6 +246,25 @@
       "channelId": "UChlgI3UHCOnwUGzWzbJ3H5w",
       "channelName": " YTN",
       "collectedAt": "2025-08-27T19:04:46Z"
+    },
+    "gVQk-ZizSTE": {
+      "videoId": "gVQk-ZizSTE",
+      "title": "[하모니] 해남 다둥이네 새해맞이…동생이 태어났어요! - 첫 번째 이야기",
+      "description": "[하모니] 해남 다둥이네 새해맞이…동생이 태어났어요! - 첫 번째 이야기\r\n\r\n새해 하모니 주인공은 여섯째 동일이가 태어난 해남 다둥이네 집이다. \r\n\r\n엄마 한이주(1972년생)씨는 필리핀 출신으로 1999년 김행(남편)과 결혼해 김조선, 익선(중학생) 부선, 정선(초등학생) 영일(유치원) 동일(신생아)을 키운다. \r\n\r\n2016년 새해! \r\n\r\n하모니의 주인공을 만나기 위해 찾은 곳은 땅 끝에 자리한 해남. \r\n\r\n깊은 산속 외딴집에 결혼 17년 차 한이주 씨 부부가 2남 4녀를 키우며 산다. \r\n\r\n한이주 씨는 필리핀이 고향. \r\n\r\n보름 전 여섯 째 동일이를 낳고 산후조리 중이다.\r\n\r\n갓 태어난 아기가 신기한지 방학을 맞은 아이들은 늘 아기 주변에 모여들고 딸들은 엄마를 돕기 위해 집안일을 분담하기 시작했다. \r\n\r\n올해 초등학생이 되는 장남 영일에는 아빠를 도와 볏짚 나르기에 도전하는데… \r\n\r\n조그만 시골집에서 시끌벅적 살아가는 해남 다둥이네의 특별한 새해맞이! \r\n\r\n하모니에서 만나봅니다.\r\n    \r\n연합뉴스TV : 02-398-4409(제보) 4441(기사문의), yjebo@yna.co.kr\r\n\r\n(끝)",
+      "publishedAt": "2016-01-09T02:25:40Z",
+      "duration": "PT11M59S",
+      "viewCount": 66920,
+      "likeCount": 178,
+      "commentCount": 54,
+      "tags": [
+        "Yonhapnews TV"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2016-01-09T02:25:40Z",
+      "channelId": "UCTHCOPwqNfZ0uiKOvFyhGwg",
+      "channelName": "연합뉴스TV",
+      "collectedAt": "2025-08-29T02:43:16Z"
     }
   },
   "channels": {
@@ -326,12 +345,39 @@
         }
       },
       "subscriberCount": 5150000,
-      "viewCount": 17635969172,
-      "videoCount": 889907,
-      "lastUpdated": "2025-08-27T19:04:46.168643Z"
+      "viewCount": 17649222300,
+      "videoCount": 890317,
+      "lastUpdated": "2025-08-29T02:43:16.431245Z"
+    },
+    "UCTHCOPwqNfZ0uiKOvFyhGwg": {
+      "channelId": "UCTHCOPwqNfZ0uiKOvFyhGwg",
+      "channelName": "연합뉴스TV",
+      "channelUrl": "@yonhapnewstv23",
+      "channelDescription": "대한민국 뉴스의 시작, 24시간 뉴스 채널 연합뉴스TV\n실시간 뉴스 생방송, 생생한 뉴스의 현장을 LIVE로 시청하세요.\n이 채널은 연합뉴스TV의 Youtube 유튜브 공식 채널 입니다.",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_kFqbmXOoxJIaLVQYrJMB8gR8_LTF7Wm1lDpZbCmqhJh3U=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_kFqbmXOoxJIaLVQYrJMB8gR8_LTF7Wm1lDpZbCmqhJh3U=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_kFqbmXOoxJIaLVQYrJMB8gR8_LTF7Wm1lDpZbCmqhJh3U=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 2080000,
+      "viewCount": 3351994752,
+      "videoCount": 627296,
+      "lastUpdated": "2025-08-29T02:43:16.431245Z"
     }
   },
-  "lastUpdated": "2025-08-27T19:04:46.168643Z",
-  "totalVideos": 11,
-  "totalChannels": 3
+  "lastUpdated": "2025-08-29T02:43:16.431245Z",
+  "totalVideos": 12,
+  "totalChannels": 4
 }

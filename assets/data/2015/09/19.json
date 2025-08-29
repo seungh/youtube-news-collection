@@ -305,6 +305,25 @@
       "channelId": "UChlgI3UHCOnwUGzWzbJ3H5w",
       "channelName": " YTN",
       "collectedAt": "2025-08-27T19:05:12Z"
+    },
+    "Z35_1FOl-lc": {
+      "videoId": "Z35_1FOl-lc",
+      "title": "[하모니] 달려라! 의령 아지매 - 네 번째 이야기",
+      "description": "[하모니] 달려라! 의령 아지매 - 네 번째 이야기\r\n\r\n경남 의령에 사는 박해란 씨(엄마, 46세, 조선족).\r\n\r\n19년 전 중국 지린성에서 한국으로 시집온 해란 씨는 2년 전 간경화로 남편과 사별한 후 초중고에 다니는 세 아이를 키우며 살아가고 있다. \r\n\r\n노지혜(고2) 은혜(중3) 지훈(초3)  \r\n\r\n해란씨 가족의 하모니 솔루션이 시작됐다. \r\n\r\n지난 태풍에 내려앉은 창고 지붕과 합선이 우려되는 두꺼비 집.\r\n\r\n쥐가 제멋대로 들락거리던 부엌은 과연 어떤 모습으로 변신할까? \r\n\r\n조선족 아지매 해란 씨와 삼남매가 안전하고 편안하게 생활할 수 있는 보금자리로 재탄생한 새집을 공개한다. \r\n\r\n그리고 10여년 전 월드컵 때 찍은 사진을 마지막으로 일하느라 바빠서 아이들의 크는 모습을 사진으로 남기지 못했던 엄마에게 아이들과 함께 하는 소중한 추억을 선물하는데…\r\n\r\n의령 아지매와 삼남매의 새집, 새 추억들!\r\n\r\n하모니에서 함께 합니다. \r\n\r\n연합뉴스TV 제보:02-398-4409, yjebo@yna.co.kr\r\n\r\n(끝)",
+      "publishedAt": "2015-09-19T01:06:10Z",
+      "duration": "PT11M12S",
+      "viewCount": 12340,
+      "likeCount": 64,
+      "commentCount": 3,
+      "tags": [
+        "Yonhapnews TV"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2015-09-19T01:06:10Z",
+      "channelId": "UCTHCOPwqNfZ0uiKOvFyhGwg",
+      "channelName": "연합뉴스TV",
+      "collectedAt": "2025-08-29T02:43:47Z"
     }
   },
   "channels": {
@@ -385,12 +404,39 @@
         }
       },
       "subscriberCount": 5150000,
-      "viewCount": 17635969172,
-      "videoCount": 889907,
-      "lastUpdated": "2025-08-27T19:05:12.228298Z"
+      "viewCount": 17649222300,
+      "videoCount": 890317,
+      "lastUpdated": "2025-08-29T02:43:47.500731Z"
+    },
+    "UCTHCOPwqNfZ0uiKOvFyhGwg": {
+      "channelId": "UCTHCOPwqNfZ0uiKOvFyhGwg",
+      "channelName": "연합뉴스TV",
+      "channelUrl": "@yonhapnewstv23",
+      "channelDescription": "대한민국 뉴스의 시작, 24시간 뉴스 채널 연합뉴스TV\n실시간 뉴스 생방송, 생생한 뉴스의 현장을 LIVE로 시청하세요.\n이 채널은 연합뉴스TV의 Youtube 유튜브 공식 채널 입니다.",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_kFqbmXOoxJIaLVQYrJMB8gR8_LTF7Wm1lDpZbCmqhJh3U=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_kFqbmXOoxJIaLVQYrJMB8gR8_LTF7Wm1lDpZbCmqhJh3U=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_kFqbmXOoxJIaLVQYrJMB8gR8_LTF7Wm1lDpZbCmqhJh3U=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 2080000,
+      "viewCount": 3351994752,
+      "videoCount": 627296,
+      "lastUpdated": "2025-08-29T02:43:47.500731Z"
     }
   },
-  "lastUpdated": "2025-08-27T19:05:12.228298Z",
-  "totalVideos": 14,
-  "totalChannels": 3
+  "lastUpdated": "2025-08-29T02:43:47.500731Z",
+  "totalVideos": 15,
+  "totalChannels": 4
 }

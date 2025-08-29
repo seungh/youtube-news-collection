@@ -2126,6 +2126,31 @@
       "channelId": "UCG9aFJTZ-lMCHAiO1KJsirg",
       "channelName": "MBN News",
       "collectedAt": "2025-08-27T19:04:55Z"
+    },
+    "tHcodN3jaIc": {
+      "videoId": "tHcodN3jaIc",
+      "title": "여행과 풍경 - 자연과 호흡하는 고원도시, 태백",
+      "description": "- 6월6일 오후 12시40분 방송\n\n▲ 자연과 호흡하는 고원도시, 태백\n전통의 멋과 맛이 살아 숨 쉬는 유서 깊은 소도시 밀양. 아리랑 가락처럼 흥과 사람 사는 정이 넘쳐나는 밀양에서 전통과 현재의 조화로운 풍경을 만나봅니다. \n\n▣ 연합뉴스TV 유튜브 채널 구독\nhttps://goo.gl/VuCJMi\n\n▣ 대한민국 뉴스의 시작 연합뉴스TV / Yonhap News TV\nhttp://www.yonhapnewstv.co.kr/",
+      "publishedAt": "2017-06-05T10:55:58Z",
+      "duration": "PT45S",
+      "viewCount": 49,
+      "likeCount": 0,
+      "commentCount": 0,
+      "tags": [
+        "연합뉴스TV",
+        "뉴스",
+        "생방송",
+        "라이브",
+        "NEWS",
+        "LIVE",
+        "실시간"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2017-06-05T10:55:58Z",
+      "channelId": "UCTHCOPwqNfZ0uiKOvFyhGwg",
+      "channelName": "연합뉴스TV",
+      "collectedAt": "2025-08-29T02:43:26Z"
     }
   },
   "channels": {
@@ -2341,9 +2366,9 @@
         }
       },
       "subscriberCount": 5150000,
-      "viewCount": 17635969172,
-      "videoCount": 889907,
-      "lastUpdated": "2025-08-27T19:04:55.948392Z"
+      "viewCount": 17649222300,
+      "videoCount": 890317,
+      "lastUpdated": "2025-08-29T02:43:26.788680Z"
     },
     "UCG9aFJTZ-lMCHAiO1KJsirg": {
       "channelId": "UCG9aFJTZ-lMCHAiO1KJsirg",
@@ -2368,12 +2393,39 @@
         }
       },
       "subscriberCount": 2490000,
-      "viewCount": 3277338867,
-      "videoCount": 233128,
-      "lastUpdated": "2025-08-27T19:04:55.948392Z"
+      "viewCount": 3278386064,
+      "videoCount": 233358,
+      "lastUpdated": "2025-08-29T02:43:26.788680Z"
+    },
+    "UCTHCOPwqNfZ0uiKOvFyhGwg": {
+      "channelId": "UCTHCOPwqNfZ0uiKOvFyhGwg",
+      "channelName": "연합뉴스TV",
+      "channelUrl": "@yonhapnewstv23",
+      "channelDescription": "대한민국 뉴스의 시작, 24시간 뉴스 채널 연합뉴스TV\n실시간 뉴스 생방송, 생생한 뉴스의 현장을 LIVE로 시청하세요.\n이 채널은 연합뉴스TV의 Youtube 유튜브 공식 채널 입니다.",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_kFqbmXOoxJIaLVQYrJMB8gR8_LTF7Wm1lDpZbCmqhJh3U=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_kFqbmXOoxJIaLVQYrJMB8gR8_LTF7Wm1lDpZbCmqhJh3U=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_kFqbmXOoxJIaLVQYrJMB8gR8_LTF7Wm1lDpZbCmqhJh3U=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 2080000,
+      "viewCount": 3351994752,
+      "videoCount": 627296,
+      "lastUpdated": "2025-08-29T02:43:26.788680Z"
     }
   },
-  "lastUpdated": "2025-08-27T19:04:55.954270Z",
-  "totalVideos": 73,
-  "totalChannels": 9
+  "lastUpdated": "2025-08-29T02:43:26.788680Z",
+  "totalVideos": 74,
+  "totalChannels": 10
 }

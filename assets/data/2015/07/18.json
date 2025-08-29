@@ -323,6 +323,25 @@
       "channelId": "UChlgI3UHCOnwUGzWzbJ3H5w",
       "channelName": " YTN",
       "collectedAt": "2025-08-27T19:04:46Z"
+    },
+    "mm5IDCrdx_0": {
+      "videoId": "mm5IDCrdx_0",
+      "title": "[하모니] 장수7형제의 쨍하고 해뜰날 - 세 번째 이야기",
+      "description": "[하모니] 장수7형제의 쨍하고 해뜰날 - 세 번째 이야기\r\n\r\n전북 장수군 천천면에 사는 7형제네 집 세 번째 이야기. \r\n\r\n아픈 다리를 이끌고 장수 시내로 간 엄마 정임 씨(43세). \r\n\r\n둘째아들 종권이(21세)가 사고로 다쳐 일도 못 나가고 집에 있다는 소식을 듣고 만나러 가는 길이다. \r\n\r\n종권이는 벌목일을 해 일당을 받아 생활하고 있었는데 얼마 전 무릎과 허리를 다쳐 이마저도 못하고 있다. \r\n\r\n한편 한창 바쁜 농사철에 아빠 농사일을 돕겠다고 나선 넷째 복권이(14세)는 다섯 살 막내와 같이 밭에서 장난만 치다 아빠의 불호령이 떨어진다.  \r\n\r\n수술 후 발의 통증이 심해져 일상생활에도 어려움을 겪는 엄마는 하모니의 지원으로 서울 병원으로 진료를 받기 위해 길을 나서는데…\r\n\r\n과연 심해지는 엄마 발의 통증, 그 원인은 무엇일까? \r\n\r\n하모니에서 만나본다. \r\n \r\n연합뉴스TV 제보:02-398-4409, yjebo@yna.co.kr\r\n\r\n(끝)",
+      "publishedAt": "2015-07-18T01:16:50Z",
+      "duration": "PT11M53S",
+      "viewCount": 7269,
+      "likeCount": 29,
+      "commentCount": 3,
+      "tags": [
+        "Yonhapnews TV"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2015-07-18T01:16:50Z",
+      "channelId": "UCTHCOPwqNfZ0uiKOvFyhGwg",
+      "channelName": "연합뉴스TV",
+      "collectedAt": "2025-08-29T02:43:16Z"
     }
   },
   "channels": {
@@ -403,12 +422,39 @@
         }
       },
       "subscriberCount": 5150000,
-      "viewCount": 17635969172,
-      "videoCount": 889907,
-      "lastUpdated": "2025-08-27T19:04:46.538457Z"
+      "viewCount": 17649222300,
+      "videoCount": 890317,
+      "lastUpdated": "2025-08-29T02:43:16.829962Z"
+    },
+    "UCTHCOPwqNfZ0uiKOvFyhGwg": {
+      "channelId": "UCTHCOPwqNfZ0uiKOvFyhGwg",
+      "channelName": "연합뉴스TV",
+      "channelUrl": "@yonhapnewstv23",
+      "channelDescription": "대한민국 뉴스의 시작, 24시간 뉴스 채널 연합뉴스TV\n실시간 뉴스 생방송, 생생한 뉴스의 현장을 LIVE로 시청하세요.\n이 채널은 연합뉴스TV의 Youtube 유튜브 공식 채널 입니다.",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_kFqbmXOoxJIaLVQYrJMB8gR8_LTF7Wm1lDpZbCmqhJh3U=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_kFqbmXOoxJIaLVQYrJMB8gR8_LTF7Wm1lDpZbCmqhJh3U=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_kFqbmXOoxJIaLVQYrJMB8gR8_LTF7Wm1lDpZbCmqhJh3U=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 2080000,
+      "viewCount": 3351994752,
+      "videoCount": 627296,
+      "lastUpdated": "2025-08-29T02:43:16.829962Z"
     }
   },
-  "lastUpdated": "2025-08-27T19:04:46.538669Z",
-  "totalVideos": 15,
-  "totalChannels": 3
+  "lastUpdated": "2025-08-29T02:43:16.829962Z",
+  "totalVideos": 16,
+  "totalChannels": 4
 }

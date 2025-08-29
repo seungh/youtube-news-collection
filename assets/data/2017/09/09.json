@@ -692,6 +692,30 @@
       "channelId": "UChlgI3UHCOnwUGzWzbJ3H5w",
       "channelName": " YTN",
       "collectedAt": "2025-08-27T19:04:44Z"
+    },
+    "8sUoRVUJfos": {
+      "videoId": "8sUoRVUJfos",
+      "title": "[하모니] 유나의 희망일기…가족, 일 년째 가을 / 연합뉴스TV (YonhapnewsTV)",
+      "description": "[하모니] 유나의 희망일기…가족, 일 년째 가을\r\n\r\n9년 전, 부모님의 이혼으로 필리핀 외할머니 손에서 자란 유나와 용현, 용훈 형제.\r\n\r\n드디어 작년 10월 언제나 엄마와 함께 살기를 기도했던 유나의 소원이 이루어졌는데요.\r\n\r\n한국으로 다시 오게 되면서 드디어 하나가 된 유나네 가족! \r\n\r\n부모님과 오빠들 그리고 사진으로만 보던 세 동생들과 행복한 가족을 꿈꾸는 유나.\r\n\r\n1년이 지난 지금 유나의 가족들은 어떻게 살고 있을까요?\r\n\r\n한 지붕 여섯 아이들이 만들어가는 좌충우돌 적응기가 '하모니'에서 펼쳐집니다.\r\n   \r\n연합뉴스TV : 02-398-4441(기사문의·제보) 카톡/라인 jebo23 \r\n\r\n▣ 연합뉴스TV 유튜브 채널 구독\r\nhttps://goo.gl/VuCJMi\r\n▣ 대한민국 뉴스의 시작 연합뉴스TV / Yonhap News TV\r\nhttp://www.yonhapnewstv.co.kr/",
+      "publishedAt": "2017-09-09T00:40:21Z",
+      "duration": "PT14M47S",
+      "viewCount": 10113,
+      "likeCount": 33,
+      "commentCount": 2,
+      "tags": [
+        "Yonhapnews TV",
+        "News",
+        "실시간",
+        "Live",
+        "생방송",
+        "뉴스"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2017-09-09T00:40:21Z",
+      "channelId": "UCTHCOPwqNfZ0uiKOvFyhGwg",
+      "channelName": "연합뉴스TV",
+      "collectedAt": "2025-08-29T02:43:14Z"
     }
   },
   "channels": {
@@ -826,12 +850,39 @@
         }
       },
       "subscriberCount": 5150000,
-      "viewCount": 17635969172,
-      "videoCount": 889907,
-      "lastUpdated": "2025-08-27T19:04:44.329516Z"
+      "viewCount": 17649222300,
+      "videoCount": 890317,
+      "lastUpdated": "2025-08-29T02:43:14.660972Z"
+    },
+    "UCTHCOPwqNfZ0uiKOvFyhGwg": {
+      "channelId": "UCTHCOPwqNfZ0uiKOvFyhGwg",
+      "channelName": "연합뉴스TV",
+      "channelUrl": "@yonhapnewstv23",
+      "channelDescription": "대한민국 뉴스의 시작, 24시간 뉴스 채널 연합뉴스TV\n실시간 뉴스 생방송, 생생한 뉴스의 현장을 LIVE로 시청하세요.\n이 채널은 연합뉴스TV의 Youtube 유튜브 공식 채널 입니다.",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_kFqbmXOoxJIaLVQYrJMB8gR8_LTF7Wm1lDpZbCmqhJh3U=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_kFqbmXOoxJIaLVQYrJMB8gR8_LTF7Wm1lDpZbCmqhJh3U=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_kFqbmXOoxJIaLVQYrJMB8gR8_LTF7Wm1lDpZbCmqhJh3U=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 2080000,
+      "viewCount": 3351994752,
+      "videoCount": 627296,
+      "lastUpdated": "2025-08-29T02:43:14.660972Z"
     }
   },
-  "lastUpdated": "2025-08-27T19:04:44.329516Z",
-  "totalVideos": 27,
-  "totalChannels": 5
+  "lastUpdated": "2025-08-29T02:43:14.660972Z",
+  "totalVideos": 28,
+  "totalChannels": 6
 }

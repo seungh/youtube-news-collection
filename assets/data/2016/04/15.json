@@ -2044,6 +2044,46 @@
       "channelId": "UCG9aFJTZ-lMCHAiO1KJsirg",
       "channelName": "MBN News",
       "collectedAt": "2025-08-27T19:05:13Z"
+    },
+    "DXtVDwHczh8": {
+      "videoId": "DXtVDwHczh8",
+      "title": "여행과 풍경 - 서울",
+      "description": "- 4월16일 오후 2시40분 방송\n\n▲ 서울\n\n믿음을 위한 순교, 절두산 성지. 한국 디자인의 역사와 매력, 디자인 박물관. 쓰레기 매립지의 아름다운 변신, 하늘공원. 60년 전통의 서서먹는 즐거움, 서서갈비. \n\n다양한 체험과 놀이문화가 발달한 문화도시, 아름다운 자연을 지키며 성장과 변화를 거듭해 가는 서울을 '여행과 풍경'에서 만나보시죠.",
+      "publishedAt": "2016-04-15T07:53:44Z",
+      "duration": "PT35S",
+      "viewCount": 43,
+      "likeCount": 1,
+      "commentCount": 0,
+      "tags": [
+        "연합뉴스TV",
+        "여행과 풍경"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2016-04-15T07:53:44Z",
+      "channelId": "UCTHCOPwqNfZ0uiKOvFyhGwg",
+      "channelName": "연합뉴스TV",
+      "collectedAt": "2025-08-29T02:43:48Z"
+    },
+    "QdpbT91qCIg": {
+      "videoId": "QdpbT91qCIg",
+      "title": "미니다큐 오늘 - 음악과 낭만이 가득, 돌아온 DJ 이영범",
+      "description": "- 4월16일 오후 7시40분 방송\n\n마산의 예술촌이라고 불리는 창동의 한 민속주점. DJ 이영범씨가 30여 년간 직접 모은 LP와 CD 6천여 장이 모여 있습니다. 오랜 연륜의 DJ답게 LP를 단번에 찾는 것은 기본, 아직도 4~5백여 명의 팬이 그를 응원하고 있죠. \n\n음악다방이 쇠퇴하며 DJ들이 설 자리가 없어졌습니다. 영범씨도 20년간 일용직으로 생계를 이어가느라 마이크를 내려놓을 수 밖에 없었죠. 7080 붐이 일어나며 다시 DJ 인생을 되찾은 영범씨. \n\n사람들에게 좋은 음악을 들려주기 위해 꾸준히 LP를 수집하는 영범 씨의 30년 음악 인생을 '미니다큐 오늘'에서 만나보시죠.",
+      "publishedAt": "2016-04-15T07:46:34Z",
+      "duration": "PT43S",
+      "viewCount": 464,
+      "likeCount": 8,
+      "commentCount": 0,
+      "tags": [
+        "연합뉴스TV",
+        "미니다큐 오늘"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2016-04-15T07:46:34Z",
+      "channelId": "UCTHCOPwqNfZ0uiKOvFyhGwg",
+      "channelName": "연합뉴스TV",
+      "collectedAt": "2025-08-29T02:43:48Z"
     }
   },
   "channels": {
@@ -2286,9 +2326,9 @@
         }
       },
       "subscriberCount": 5150000,
-      "viewCount": 17635969172,
-      "videoCount": 889907,
-      "lastUpdated": "2025-08-27T19:05:13.068689Z"
+      "viewCount": 17649222300,
+      "videoCount": 890317,
+      "lastUpdated": "2025-08-29T02:43:48.205392Z"
     },
     "UCG9aFJTZ-lMCHAiO1KJsirg": {
       "channelId": "UCG9aFJTZ-lMCHAiO1KJsirg",
@@ -2313,12 +2353,39 @@
         }
       },
       "subscriberCount": 2490000,
-      "viewCount": 3277338867,
-      "videoCount": 233128,
-      "lastUpdated": "2025-08-27T19:05:13.068689Z"
+      "viewCount": 3278386064,
+      "videoCount": 233358,
+      "lastUpdated": "2025-08-29T02:43:48.205392Z"
+    },
+    "UCTHCOPwqNfZ0uiKOvFyhGwg": {
+      "channelId": "UCTHCOPwqNfZ0uiKOvFyhGwg",
+      "channelName": "연합뉴스TV",
+      "channelUrl": "@yonhapnewstv23",
+      "channelDescription": "대한민국 뉴스의 시작, 24시간 뉴스 채널 연합뉴스TV\n실시간 뉴스 생방송, 생생한 뉴스의 현장을 LIVE로 시청하세요.\n이 채널은 연합뉴스TV의 Youtube 유튜브 공식 채널 입니다.",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_kFqbmXOoxJIaLVQYrJMB8gR8_LTF7Wm1lDpZbCmqhJh3U=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_kFqbmXOoxJIaLVQYrJMB8gR8_LTF7Wm1lDpZbCmqhJh3U=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_kFqbmXOoxJIaLVQYrJMB8gR8_LTF7Wm1lDpZbCmqhJh3U=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 2080000,
+      "viewCount": 3351994752,
+      "videoCount": 627296,
+      "lastUpdated": "2025-08-29T02:43:48.205392Z"
     }
   },
-  "lastUpdated": "2025-08-27T19:05:13.074287Z",
-  "totalVideos": 75,
-  "totalChannels": 10
+  "lastUpdated": "2025-08-29T02:43:48.205392Z",
+  "totalVideos": 77,
+  "totalChannels": 11
 }

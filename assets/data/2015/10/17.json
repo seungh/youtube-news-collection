@@ -335,6 +335,25 @@
       "channelId": "UChlgI3UHCOnwUGzWzbJ3H5w",
       "channelName": " YTN",
       "collectedAt": "2025-08-27T19:04:46Z"
+    },
+    "44CR5zSGgwE": {
+      "videoId": "44CR5zSGgwE",
+      "title": "[하모니] 행복을 꿈꾸는 장수 삼남매 - 두 번째 이야기",
+      "description": "[하모니] 행복을 꿈꾸는 장수 삼남매 - 두 번째 이야기\r\n\r\n전북 장수군에 사는 왕혜영씨와 삼남매.\r\n\r\n어릴 적부터 공부를 잘해 장학생으로 대학에 간 스무 살 영환이.  \r\n\r\n어려운 가정형편을 생각해 밤에는 학원에서 아르바이트를 하며 꿈을 키워나간다. \r\n\r\n하지만 어린 시절부터 엄마에게 돈을 가져가기 위해 폭력을 쓰던 아빠가 결국 대학 장학금도 가져가서 힘든 시간을 보내야 했다. \r\n\r\n한편 중학생인 예지와 고등학생인 지환이는 방이 부족해 한 방을 쓰는 상황. \r\n\r\n예지는 웃통을 벗고 다니는 오빠 때문에 민망할 때가 한 두 번이 아니라며 속상해 한다. \r\n\r\n장남 영환이가 집에 오는 날, 가족들의 화기애애한 분위기가 아빠 얘기가 나오면서 무겁게 가라앉는데 서로를 보듬으며 행복한 내일을 꿈꾸는 혜영씨와 삼남매의 두 번째 이야기를 하모니에서 만나본다. \r\n\r\n연합뉴스TV 제보:02-398-4409, yjebo@yna.co.kr\r\n\r\n(끝)",
+      "publishedAt": "2015-10-17T00:37:54Z",
+      "duration": "PT13M2S",
+      "viewCount": 3426,
+      "likeCount": 10,
+      "commentCount": 2,
+      "tags": [
+        "Yonhapnews TV"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2015-10-17T00:37:54Z",
+      "channelId": "UCTHCOPwqNfZ0uiKOvFyhGwg",
+      "channelName": "연합뉴스TV",
+      "collectedAt": "2025-08-29T02:43:16Z"
     }
   },
   "channels": {
@@ -442,12 +461,39 @@
         }
       },
       "subscriberCount": 5150000,
-      "viewCount": 17635969172,
-      "videoCount": 889907,
-      "lastUpdated": "2025-08-27T19:04:46.330859Z"
+      "viewCount": 17649222300,
+      "videoCount": 890317,
+      "lastUpdated": "2025-08-29T02:43:16.628792Z"
+    },
+    "UCTHCOPwqNfZ0uiKOvFyhGwg": {
+      "channelId": "UCTHCOPwqNfZ0uiKOvFyhGwg",
+      "channelName": "연합뉴스TV",
+      "channelUrl": "@yonhapnewstv23",
+      "channelDescription": "대한민국 뉴스의 시작, 24시간 뉴스 채널 연합뉴스TV\n실시간 뉴스 생방송, 생생한 뉴스의 현장을 LIVE로 시청하세요.\n이 채널은 연합뉴스TV의 Youtube 유튜브 공식 채널 입니다.",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_kFqbmXOoxJIaLVQYrJMB8gR8_LTF7Wm1lDpZbCmqhJh3U=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_kFqbmXOoxJIaLVQYrJMB8gR8_LTF7Wm1lDpZbCmqhJh3U=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_kFqbmXOoxJIaLVQYrJMB8gR8_LTF7Wm1lDpZbCmqhJh3U=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 2080000,
+      "viewCount": 3351994752,
+      "videoCount": 627296,
+      "lastUpdated": "2025-08-29T02:43:16.628792Z"
     }
   },
-  "lastUpdated": "2025-08-27T19:04:46.330859Z",
-  "totalVideos": 15,
-  "totalChannels": 4
+  "lastUpdated": "2025-08-29T02:43:16.628792Z",
+  "totalVideos": 16,
+  "totalChannels": 5
 }

@@ -3159,6 +3159,30 @@
       "channelId": "UChlgI3UHCOnwUGzWzbJ3H5w",
       "channelName": " YTN",
       "collectedAt": "2025-08-27T19:04:38Z"
+    },
+    "T827c5UBZ40": {
+      "videoId": "T827c5UBZ40",
+      "title": "하모니 - 엄마, 이젠 울지마! 3부…여덟 살, 작은 가슴에 담긴 사랑",
+      "description": "11월 18일(토) 오전 8시 40분 방송 \n\n▲엄마, 이젠 울지마! 3부…여덟 살, 작은 가슴에 담긴 사랑\n\n2006년, 고향을 떠나와 경남 창녕에 정착한 조선족 순옥 씨! 현재 이혼 후,홀로 아들을 키우고 있는 그녀에게 1년 전, 류마티스 관절염이라는 청천벽력 같은 진단이 내려졌는데요. 집안의 생계가 모두 끊어진 상황! 아들 지원이는 어려운 형편임을 알지만 친구들과 함께 태권도 승급심사를 보고 싶다는 의사를 순옥 씨에게 전합니다. 자신이 원하는 것을 해주지 못하는 엄마의 미안함을 느꼈는지~ 지원이가 순옥 씨를 위해 특별한 선물을 준비하는데요 세상 하나뿐인 순옥 씨의 유일한 위로, 지원이의 따뜻한 마음을 '하모니'에서 전합니다.\n\n▣ 연합뉴스TV 유튜브 채널 구독\nhttps://goo.gl/VuCJMi\n\n▣ 대한민국 뉴스의 시작 연합뉴스TV / Yonhap News TV\nhttp://www.yonhapnewstv.co.kr/",
+      "publishedAt": "2017-11-17T09:46:29Z",
+      "duration": "PT46S",
+      "viewCount": 215,
+      "likeCount": 2,
+      "commentCount": 0,
+      "tags": [
+        "연합뉴스TV",
+        "하모니",
+        "창녕",
+        "류마티스",
+        "관절염",
+        "엄마"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2017-11-17T09:46:29Z",
+      "channelId": "UCTHCOPwqNfZ0uiKOvFyhGwg",
+      "channelName": "연합뉴스TV",
+      "collectedAt": "2025-08-29T02:43:07Z"
     }
   },
   "channels": {
@@ -3374,12 +3398,39 @@
         }
       },
       "subscriberCount": 5150000,
-      "viewCount": 17635969172,
-      "videoCount": 889907,
-      "lastUpdated": "2025-08-27T19:04:38.292215Z"
+      "viewCount": 17649222300,
+      "videoCount": 890317,
+      "lastUpdated": "2025-08-29T02:43:07.976741Z"
+    },
+    "UCTHCOPwqNfZ0uiKOvFyhGwg": {
+      "channelId": "UCTHCOPwqNfZ0uiKOvFyhGwg",
+      "channelName": "연합뉴스TV",
+      "channelUrl": "@yonhapnewstv23",
+      "channelDescription": "대한민국 뉴스의 시작, 24시간 뉴스 채널 연합뉴스TV\n실시간 뉴스 생방송, 생생한 뉴스의 현장을 LIVE로 시청하세요.\n이 채널은 연합뉴스TV의 Youtube 유튜브 공식 채널 입니다.",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_kFqbmXOoxJIaLVQYrJMB8gR8_LTF7Wm1lDpZbCmqhJh3U=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_kFqbmXOoxJIaLVQYrJMB8gR8_LTF7Wm1lDpZbCmqhJh3U=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_kFqbmXOoxJIaLVQYrJMB8gR8_LTF7Wm1lDpZbCmqhJh3U=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 2080000,
+      "viewCount": 3351994752,
+      "videoCount": 627296,
+      "lastUpdated": "2025-08-29T02:43:07.977788Z"
     }
   },
-  "lastUpdated": "2025-08-27T19:04:38.293212Z",
-  "totalVideos": 106,
-  "totalChannels": 8
+  "lastUpdated": "2025-08-29T02:43:07.977788Z",
+  "totalVideos": 107,
+  "totalChannels": 9
 }

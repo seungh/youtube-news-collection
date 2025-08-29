@@ -2070,6 +2070,47 @@
       "channelId": "UCG9aFJTZ-lMCHAiO1KJsirg",
       "channelName": "MBN News",
       "collectedAt": "2025-08-27T19:05:11Z"
+    },
+    "YWHBbXKfgCY": {
+      "videoId": "YWHBbXKfgCY",
+      "title": "하모니 - 선우야 사랑해 2부",
+      "description": "- 7월23일 08:40 방송\n\n▲ 선우야 사랑해 2부\n남편과 이혼 후 친정에서 세 아이를 키우면 사는 정희숙씨. 2년 전 뇌전증이 발병해 치료를 받는 선우는 약물 치료 외에도 뇌에 생긴 종양을 치료해야 합니다. 종양의 크기가 커지는지 지속적으로 검사와 관찰이 필요하지만 검사 비용이 부담돼 못 받고 있는 상황. 하모니가 적십자 병원을 통해 선우의 상태를 확인해보기로 합니다.",
+      "publishedAt": "2016-07-22T11:56:24Z",
+      "duration": "PT45S",
+      "viewCount": 1044,
+      "likeCount": 2,
+      "commentCount": 0,
+      "tags": [
+        "연합뉴스TV",
+        "하모니",
+        "다문화"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2016-07-22T11:56:24Z",
+      "channelId": "UCTHCOPwqNfZ0uiKOvFyhGwg",
+      "channelName": "연합뉴스TV",
+      "collectedAt": "2025-08-29T02:43:46Z"
+    },
+    "nATcIktTgJg": {
+      "videoId": "nATcIktTgJg",
+      "title": "미니다큐 오늘 - 전문가를 만드는 교육, 2016 대한민국 전문대학 엑스포",
+      "description": "- 7월23일 오후 7시40분 방송\n\n평생직장이란 말이 무색해진 요즘 진로와 적성에 맞는 전문 직업에 대한 관심이 증가하고 있죠. 다양한 전문 직업을 보고 체험하는 전국 최대의 전문 직업박람회가 개최됐습니다. 관광레저 계열, 뷰티계열, 의료보건계열 등으로 나뉘어 같은 과여도 학교별로 어떻게 다른지 비교할 수 있죠. \n갈수록 심화되는 취업난 속에서 다양한 직업을 경험해 보고 선택의 폭을 넓혀주는 2016 대한민국 엑스포 현장을 '미니다큐 오늘'이 만나봅니다. \n\n[예고] 미니다큐 오늘",
+      "publishedAt": "2016-07-22T12:11:05Z",
+      "duration": "PT41S",
+      "viewCount": 95,
+      "likeCount": 0,
+      "commentCount": 0,
+      "tags": [
+        "연합뉴스tv",
+        "미니다큐 오늘"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2016-07-22T12:11:05Z",
+      "channelId": "UCTHCOPwqNfZ0uiKOvFyhGwg",
+      "channelName": "연합뉴스TV",
+      "collectedAt": "2025-08-29T02:43:46Z"
     }
   },
   "channels": {
@@ -2312,9 +2353,9 @@
         }
       },
       "subscriberCount": 5150000,
-      "viewCount": 17635969172,
-      "videoCount": 889907,
-      "lastUpdated": "2025-08-27T19:05:11.524409Z"
+      "viewCount": 17649222300,
+      "videoCount": 890317,
+      "lastUpdated": "2025-08-29T02:43:46.858101Z"
     },
     "UCG9aFJTZ-lMCHAiO1KJsirg": {
       "channelId": "UCG9aFJTZ-lMCHAiO1KJsirg",
@@ -2339,12 +2380,39 @@
         }
       },
       "subscriberCount": 2490000,
-      "viewCount": 3277338867,
-      "videoCount": 233128,
-      "lastUpdated": "2025-08-27T19:05:11.528347Z"
+      "viewCount": 3278386064,
+      "videoCount": 233358,
+      "lastUpdated": "2025-08-29T02:43:46.859098Z"
+    },
+    "UCTHCOPwqNfZ0uiKOvFyhGwg": {
+      "channelId": "UCTHCOPwqNfZ0uiKOvFyhGwg",
+      "channelName": "연합뉴스TV",
+      "channelUrl": "@yonhapnewstv23",
+      "channelDescription": "대한민국 뉴스의 시작, 24시간 뉴스 채널 연합뉴스TV\n실시간 뉴스 생방송, 생생한 뉴스의 현장을 LIVE로 시청하세요.\n이 채널은 연합뉴스TV의 Youtube 유튜브 공식 채널 입니다.",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_kFqbmXOoxJIaLVQYrJMB8gR8_LTF7Wm1lDpZbCmqhJh3U=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_kFqbmXOoxJIaLVQYrJMB8gR8_LTF7Wm1lDpZbCmqhJh3U=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_kFqbmXOoxJIaLVQYrJMB8gR8_LTF7Wm1lDpZbCmqhJh3U=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 2080000,
+      "viewCount": 3351994752,
+      "videoCount": 627296,
+      "lastUpdated": "2025-08-29T02:43:46.859098Z"
     }
   },
-  "lastUpdated": "2025-08-27T19:05:11.529332Z",
-  "totalVideos": 73,
-  "totalChannels": 10
+  "lastUpdated": "2025-08-29T02:43:46.859098Z",
+  "totalVideos": 75,
+  "totalChannels": 11
 }

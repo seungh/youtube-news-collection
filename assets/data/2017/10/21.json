@@ -906,6 +906,49 @@
       "channelId": "UChlgI3UHCOnwUGzWzbJ3H5w",
       "channelName": " YTN",
       "collectedAt": "2025-08-27T19:04:44Z"
+    },
+    "oVvqwjimY8I": {
+      "videoId": "oVvqwjimY8I",
+      "title": "[하모니] 센 베노! 나의 고향…몽골의 자연을 품고 사는 법! / 연합뉴스TV (YonhapnewsTV)",
+      "description": "[하모니] 센 베노! 나의 고향…몽골의 자연을 품고 사는 법!\r\n\r\n가족과 함께 20여 년 만에 몽골의 고향을 찾아 나선 다와소렝 씨!\r\n\r\n그녀는 수도 울란바토르를 떠난 지 3일 만에 그리운 고향에 도착할 수 있었는데요. \r\n\r\n고향에서 보낸 첫날 아침, 오랜만에 가축을 돌보고 우유를 끓이며 어릴 적 추억을 되새겨 본 다와소렝 씨가 남편 동근 씨와 아이들에게 고향의 숨은 명소를 소개하기 위해 나섰습니다. \r\n\r\n그곳 역시 가는 길이 순탄치 않았다고 하는데요. \r\n\r\n과연 그곳은 어디일지!\r\n\r\n'하모니'에서 함께했습니다.\r\n    \r\n연합뉴스TV : 02-398-4441(기사문의ㆍ제보) 카톡/라인 jebo23\r\n\r\n▣ 연합뉴스TV 유튜브 채널 구독\r\nhttps://goo.gl/VuCJMi\r\n▣ 대한민국 뉴스의 시작 연합뉴스TV / Yonhap News TV\r\nhttp://www.yonhapnewstv.co.kr/",
+      "publishedAt": "2017-10-21T00:10:09Z",
+      "duration": "PT15M44S",
+      "viewCount": 1096,
+      "likeCount": 13,
+      "commentCount": 0,
+      "tags": [
+        "Yonhapnews TV",
+        "News",
+        "실시간",
+        "Live",
+        "생방송",
+        "뉴스"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2017-10-21T00:10:09Z",
+      "channelId": "UCTHCOPwqNfZ0uiKOvFyhGwg",
+      "channelName": "연합뉴스TV",
+      "collectedAt": "2025-08-29T02:43:14Z"
+    },
+    "FUXi3URriN8": {
+      "videoId": "FUXi3URriN8",
+      "title": "트렌드 지금 여기 - 가을 산에서 보물찾기",
+      "description": "▣ 연합뉴스TV 유튜브 채널 구독\nhttps://goo.gl/VuCJMi\n\n▣ 대한민국 뉴스의 시작 연합뉴스TV / Yonhap News TV\nhttp://www.yonhapnewstv.co.kr/",
+      "publishedAt": "2017-10-21T08:13:54Z",
+      "duration": "PT45S",
+      "viewCount": 62,
+      "likeCount": 0,
+      "commentCount": 0,
+      "tags": [
+        "연합뉴스TV"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2017-10-21T08:13:54Z",
+      "channelId": "UCTHCOPwqNfZ0uiKOvFyhGwg",
+      "channelName": "연합뉴스TV",
+      "collectedAt": "2025-08-29T02:43:14Z"
     }
   },
   "channels": {
@@ -1013,12 +1056,39 @@
         }
       },
       "subscriberCount": 5150000,
-      "viewCount": 17635969172,
-      "videoCount": 889907,
-      "lastUpdated": "2025-08-27T19:04:44.161314Z"
+      "viewCount": 17649222300,
+      "videoCount": 890317,
+      "lastUpdated": "2025-08-29T02:43:14.556093Z"
+    },
+    "UCTHCOPwqNfZ0uiKOvFyhGwg": {
+      "channelId": "UCTHCOPwqNfZ0uiKOvFyhGwg",
+      "channelName": "연합뉴스TV",
+      "channelUrl": "@yonhapnewstv23",
+      "channelDescription": "대한민국 뉴스의 시작, 24시간 뉴스 채널 연합뉴스TV\n실시간 뉴스 생방송, 생생한 뉴스의 현장을 LIVE로 시청하세요.\n이 채널은 연합뉴스TV의 Youtube 유튜브 공식 채널 입니다.",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_kFqbmXOoxJIaLVQYrJMB8gR8_LTF7Wm1lDpZbCmqhJh3U=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_kFqbmXOoxJIaLVQYrJMB8gR8_LTF7Wm1lDpZbCmqhJh3U=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_kFqbmXOoxJIaLVQYrJMB8gR8_LTF7Wm1lDpZbCmqhJh3U=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 2080000,
+      "viewCount": 3351994752,
+      "videoCount": 627296,
+      "lastUpdated": "2025-08-29T02:43:14.556093Z"
     }
   },
-  "lastUpdated": "2025-08-27T19:04:44.161314Z",
-  "totalVideos": 34,
-  "totalChannels": 4
+  "lastUpdated": "2025-08-29T02:43:14.556093Z",
+  "totalVideos": 36,
+  "totalChannels": 5
 }

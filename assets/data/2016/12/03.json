@@ -455,6 +455,26 @@
       "channelId": "UChlgI3UHCOnwUGzWzbJ3H5w",
       "channelName": " YTN",
       "collectedAt": "2025-08-27T19:04:45Z"
+    },
+    "1Hzvp3sr8WU": {
+      "videoId": "1Hzvp3sr8WU",
+      "title": "[하모니] 한 지붕 다섯 식구…새 가장의 꿈",
+      "description": "[하모니] 한 지붕 다섯 식구…새 가장의 꿈\r\n\r\n3년 전, 재혼을 하게 되면서 새 가정을 꾸리게 된 송고성, 이기옥 부부. \r\n\r\n전라남도 장흥의 한 시골 마을에서 힘들게 세 아이를 키우며 살고 있다.\r\n\r\n작년 11월, 부부 사이에서 막내 딸 지민이가 태어나면서 형편은 더 어려워졌고, 아빠의 일용직 알바를 통해 얻어진 일정치 않은 소득으로 생활 중이라 경제적 어려움을 심하게 겪고 있는 상황이다. \r\n\r\n또, 주거할 공간이 없어 무상 임대 주택에 생활하고 있으나 화장실이 밖에 떨어져 있어 추운 겨울, 많은 불편함을 겪고 있다. \r\n\r\n거기에 보일러 고장으로 뜨거운 물조차 나오지 않는 상황.  \r\n\r\n다섯 식구는 이렇게 행복한 가정을 꾸리며 살고 싶지만 현실은 녹록지 않다. \r\n\r\n과거 친아빠의 가정폭력으로 인해 아직 상처가 아물지 않은 재호와 재현.\r\n\r\n다섯 식구의 생계를 책임져야 하지만, 몸이 좋지 않아 치료가 필요한 상황임에도 치료조차 중단하고 생계를 책임지고 있는 아빠 송고성 씨. \r\n\r\n이런 어려움을 돕기 위해 시작된 하모니 솔루션!\r\n\r\n3년 전, 새롭게 꾸려진 재혼가정이 한 가족이 되어가는 특별한 사연을 하모니에서 만나본다.\r\n\r\n연합뉴스TV : 02-398-4441(기사문의) 4409(제보), 카톡/라인 jebo23 \r\n\r\n(끝)http://www.yonhapnewstv.co.kr/",
+      "publishedAt": "2016-12-03T00:06:57Z",
+      "duration": "PT15M25S",
+      "viewCount": 21002,
+      "likeCount": 60,
+      "commentCount": 9,
+      "tags": [
+        "Yonhapnews TV",
+        "News"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2016-12-03T00:06:57Z",
+      "channelId": "UCTHCOPwqNfZ0uiKOvFyhGwg",
+      "channelName": "연합뉴스TV",
+      "collectedAt": "2025-08-29T02:43:15Z"
     }
   },
   "channels": {
@@ -589,12 +609,39 @@
         }
       },
       "subscriberCount": 5150000,
-      "viewCount": 17635969172,
-      "videoCount": 889907,
-      "lastUpdated": "2025-08-27T19:04:45.038523Z"
+      "viewCount": 17649222300,
+      "videoCount": 890317,
+      "lastUpdated": "2025-08-29T02:43:15.477292Z"
+    },
+    "UCTHCOPwqNfZ0uiKOvFyhGwg": {
+      "channelId": "UCTHCOPwqNfZ0uiKOvFyhGwg",
+      "channelName": "연합뉴스TV",
+      "channelUrl": "@yonhapnewstv23",
+      "channelDescription": "대한민국 뉴스의 시작, 24시간 뉴스 채널 연합뉴스TV\n실시간 뉴스 생방송, 생생한 뉴스의 현장을 LIVE로 시청하세요.\n이 채널은 연합뉴스TV의 Youtube 유튜브 공식 채널 입니다.",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_kFqbmXOoxJIaLVQYrJMB8gR8_LTF7Wm1lDpZbCmqhJh3U=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_kFqbmXOoxJIaLVQYrJMB8gR8_LTF7Wm1lDpZbCmqhJh3U=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_kFqbmXOoxJIaLVQYrJMB8gR8_LTF7Wm1lDpZbCmqhJh3U=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 2080000,
+      "viewCount": 3351994752,
+      "videoCount": 627296,
+      "lastUpdated": "2025-08-29T02:43:15.477292Z"
     }
   },
-  "lastUpdated": "2025-08-27T19:04:45.038523Z",
-  "totalVideos": 18,
-  "totalChannels": 5
+  "lastUpdated": "2025-08-29T02:43:15.477292Z",
+  "totalVideos": 19,
+  "totalChannels": 6
 }

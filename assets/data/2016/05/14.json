@@ -473,6 +473,25 @@
       "channelId": "UChlgI3UHCOnwUGzWzbJ3H5w",
       "channelName": " YTN",
       "collectedAt": "2025-08-27T19:04:45Z"
+    },
+    "7WWUYM2XVRI": {
+      "videoId": "7WWUYM2XVRI",
+      "title": "[하모니] 가정의 달 특집…다둥이 가족에 행복을! - 두 번째 이야기",
+      "description": "[하모니] 가정의 달 특집…다둥이 가족에 행복을! - 두 번째 이야기\r\n\r\n하모니에서는 가정의 달 5월을 맞아 특집 2부작을 준비했다. \r\n\r\n2부는 지난 1년 동안 방송됐던 다둥이 가족 중 해남 6남매와 울주 8남매의 방송 그 후 이야기다. \r\n\r\n가정의 날 특집! \r\n\r\n이 시대를 살아가는 특별한 이웃들, 다둥이네 집.\r\n\r\n먼저 찾아간 곳은 해남군 산이면에 사는 6남매 가족. \r\n\r\n다복하기로 소문난 한이주 씨 집에는 새해둥이 여섯째가 태어나면서 한층 북적댔다. \r\n\r\n다시 만난 6남매는 키가 훌쩍 자랐고 빨래감은 여전히 많았다는 후문.\r\n\r\n어버이날을 맞아 부모님에게 특별한 선물을 준비한 아이들과 필리핀에 있는 친정 부모님을 생각하며 산후 조리 후 다시 봉사활동을 하는 엄마 한이주 씨의 이야기를 만나본다. \r\n\r\n또 하나의 다둥이 가족인 울주의 8남매! \r\n\r\n막내가 어린이 집에 갈 수 있게 되면서 엄마는 일자리를 구했고 덕분에 둘째 은지는 부담을 덜고 자신의 꿈을 위해 생활할 수 있게 됐다. \r\n\r\n외가에서 자라는 두영이도 예전과는 전혀 다른 모습을 보였다는데…\r\n\r\n서로 보듬고 위로하며 행복한 일상을 만들어가는 다둥이 가족들. \r\n\r\n하모니 방송 그 후, 달라진 일상을 가정의 달 특집으로 만나본다.\r\n    \r\n연합뉴스TV : 02-398-4409(제보) 4441(기사문의), 카톡/라인 jebo23\r\n\r\n(끝)",
+      "publishedAt": "2016-05-14T00:06:36Z",
+      "duration": "PT14M40S",
+      "viewCount": 21597,
+      "likeCount": 67,
+      "commentCount": 4,
+      "tags": [
+        "Yonhapnews TV"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2016-05-14T00:06:36Z",
+      "channelId": "UCTHCOPwqNfZ0uiKOvFyhGwg",
+      "channelName": "연합뉴스TV",
+      "collectedAt": "2025-08-29T02:43:16Z"
     }
   },
   "channels": {
@@ -580,12 +599,39 @@
         }
       },
       "subscriberCount": 5150000,
-      "viewCount": 17635969172,
-      "videoCount": 889907,
-      "lastUpdated": "2025-08-27T19:04:45.778686Z"
+      "viewCount": 17649222300,
+      "videoCount": 890317,
+      "lastUpdated": "2025-08-29T02:43:16.114249Z"
+    },
+    "UCTHCOPwqNfZ0uiKOvFyhGwg": {
+      "channelId": "UCTHCOPwqNfZ0uiKOvFyhGwg",
+      "channelName": "연합뉴스TV",
+      "channelUrl": "@yonhapnewstv23",
+      "channelDescription": "대한민국 뉴스의 시작, 24시간 뉴스 채널 연합뉴스TV\n실시간 뉴스 생방송, 생생한 뉴스의 현장을 LIVE로 시청하세요.\n이 채널은 연합뉴스TV의 Youtube 유튜브 공식 채널 입니다.",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_kFqbmXOoxJIaLVQYrJMB8gR8_LTF7Wm1lDpZbCmqhJh3U=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_kFqbmXOoxJIaLVQYrJMB8gR8_LTF7Wm1lDpZbCmqhJh3U=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_kFqbmXOoxJIaLVQYrJMB8gR8_LTF7Wm1lDpZbCmqhJh3U=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 2080000,
+      "viewCount": 3351994752,
+      "videoCount": 627296,
+      "lastUpdated": "2025-08-29T02:43:16.114249Z"
     }
   },
-  "lastUpdated": "2025-08-27T19:04:45.778686Z",
-  "totalVideos": 17,
-  "totalChannels": 4
+  "lastUpdated": "2025-08-29T02:43:16.114249Z",
+  "totalVideos": 18,
+  "totalChannels": 5
 }

@@ -1799,6 +1799,46 @@
       "channelId": "UCG9aFJTZ-lMCHAiO1KJsirg",
       "channelName": "MBN News",
       "collectedAt": "2025-08-27T19:05:10Z"
+    },
+    "vayGHn5AWJw": {
+      "videoId": "vayGHn5AWJw",
+      "title": "하모니 - 당신은 나의 운명 3부",
+      "description": "- 7월2일 08:40 방송\n\n▲ 당신은 나의 운명 3부\n\n장애를 가진 이재길씨. 20살 무렵 감전사고로 팔과 다리의 일부를 잃었습니다. 그의 아내는 필리핀이 고향인 이하은씨. 잘 웃고 자신감 넘쳐보이는 남편의 모습이 마음에 들어 결혼을 결심했고 세 딸을 낳았죠. \n\n주말 아침. 온 집안이 들썩이게 노는 세 자매. 아이들의 넘치는 힘을 빼놓기 위해 부부는 주말이면 인근 공원에 갑니다. 노는 걸 지켜보는 것도 힘에 부치지만 아이들을 위해서라면 어디든 가고 싶은 게 부모 마음이죠. 팔다리가 불편한 재길씨는 버스 타는 게 쉽지 않고 택시는 정원초과라며 안 태워주는 답답한 상황. \n\n부산의 닭살가족 예슬이네 세 번째 이야기를 하모니에서 만나보시죠.",
+      "publishedAt": "2016-07-01T10:23:03Z",
+      "duration": "PT46S",
+      "viewCount": 185,
+      "likeCount": 3,
+      "commentCount": 2,
+      "tags": [
+        "연합뉴스TV",
+        "하모니"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2016-07-01T10:23:03Z",
+      "channelId": "UCTHCOPwqNfZ0uiKOvFyhGwg",
+      "channelName": "연합뉴스TV",
+      "collectedAt": "2025-08-29T02:43:45Z"
+    },
+    "AKiBZkw9ALw": {
+      "videoId": "AKiBZkw9ALw",
+      "title": "미니다큐 오늘 - 정을 배달하는 우편배달부",
+      "description": "- 7월2일 오후 7시40분 방송\n\n충남 당진의 시골 마을에서 28년째 한길을 걷고 있는 문석진 집배원은 어르신들의 만능 도우미입니다. 그가 담당하는 대호지면은 혼자 사는 노인이 많은 동네죠. 우편물을 읽어드리는 등 주민들의 부탁을 기꺼이 들어주는 그의 모습을 보며 자란 아들 문건식 씨도 집배원이 됐습니다. \n\n자식들이 도시에서 보내준 다양한 선물 보따리를 마을 어르신들께 배달할 때 보람이 가장 크다는 문석진씨. 우편물에 정까지 덤으로 가득 실은 오토바이를 '미니다큐 오늘'이 따라가봅니다.",
+      "publishedAt": "2016-07-01T10:56:13Z",
+      "duration": "PT33S",
+      "viewCount": 268,
+      "likeCount": 1,
+      "commentCount": 0,
+      "tags": [
+        "연합뉴스TV",
+        "미니다큐 오늘"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2016-07-01T10:56:13Z",
+      "channelId": "UCTHCOPwqNfZ0uiKOvFyhGwg",
+      "channelName": "연합뉴스TV",
+      "collectedAt": "2025-08-29T02:43:45Z"
     }
   },
   "channels": {
@@ -2041,9 +2081,9 @@
         }
       },
       "subscriberCount": 5150000,
-      "viewCount": 17635969172,
-      "videoCount": 889907,
-      "lastUpdated": "2025-08-27T19:05:10.268203Z"
+      "viewCount": 17649222300,
+      "videoCount": 890317,
+      "lastUpdated": "2025-08-29T02:43:45.673791Z"
     },
     "UCG9aFJTZ-lMCHAiO1KJsirg": {
       "channelId": "UCG9aFJTZ-lMCHAiO1KJsirg",
@@ -2068,12 +2108,39 @@
         }
       },
       "subscriberCount": 2490000,
-      "viewCount": 3277338867,
-      "videoCount": 233128,
-      "lastUpdated": "2025-08-27T19:05:10.268203Z"
+      "viewCount": 3278386064,
+      "videoCount": 233358,
+      "lastUpdated": "2025-08-29T02:43:45.673791Z"
+    },
+    "UCTHCOPwqNfZ0uiKOvFyhGwg": {
+      "channelId": "UCTHCOPwqNfZ0uiKOvFyhGwg",
+      "channelName": "연합뉴스TV",
+      "channelUrl": "@yonhapnewstv23",
+      "channelDescription": "대한민국 뉴스의 시작, 24시간 뉴스 채널 연합뉴스TV\n실시간 뉴스 생방송, 생생한 뉴스의 현장을 LIVE로 시청하세요.\n이 채널은 연합뉴스TV의 Youtube 유튜브 공식 채널 입니다.",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_kFqbmXOoxJIaLVQYrJMB8gR8_LTF7Wm1lDpZbCmqhJh3U=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_kFqbmXOoxJIaLVQYrJMB8gR8_LTF7Wm1lDpZbCmqhJh3U=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_kFqbmXOoxJIaLVQYrJMB8gR8_LTF7Wm1lDpZbCmqhJh3U=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 2080000,
+      "viewCount": 3351994752,
+      "videoCount": 627296,
+      "lastUpdated": "2025-08-29T02:43:45.673791Z"
     }
   },
-  "lastUpdated": "2025-08-27T19:05:10.268203Z",
-  "totalVideos": 60,
-  "totalChannels": 10
+  "lastUpdated": "2025-08-29T02:43:45.673791Z",
+  "totalVideos": 62,
+  "totalChannels": 11
 }

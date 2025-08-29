@@ -148,6 +148,42 @@
       "channelId": "UChlgI3UHCOnwUGzWzbJ3H5w",
       "channelName": " YTN",
       "collectedAt": "2025-08-27T19:04:46Z"
+    },
+    "91YgZ1tehVw": {
+      "videoId": "91YgZ1tehVw",
+      "title": "[하모니] 웃어라! 문 자매 - 두번째 이야기",
+      "description": "[하모니] 웃어라! 문 자매 - 두번째 이야기\r\n\r\n전북 무주군 안성면에 사는 문한슬(11세) 한별(10세) 자매네 집.\r\n\r\n아빠가 품을 팔아 근근이 살아가는 어려운 형편이다. \r\n\r\n어느 날 돈이 필요한 아빠는 아이들이 친구처럼 예뻐하는 새끼 염소를 팔기로 한다. \r\n\r\n아이들은 팔지 말라며 애원하지만 결국 끌려 나가는 새끼 염소. \r\n\r\n생쌀로 허기를 채우던 한슬이는 아빠의 호통에 눈물을 보이고 만다. \r\n\r\n집수리에 나선 아빠 문주환 씨. \r\n\r\n그런데 가족들이 함께 모여 생활하는 사랑채가 허물어지기 직전이다. \r\n\r\n부러진 기둥은 철사로 이어 붙였고 벽에는 커다란 틈이 벌어져 아슬아슬한 상황.\r\n\r\n무주 한슬이네 두 번째 이야기를 만나봅니다. \r\n\r\n연합뉴스TV 제보:02-398-4409, yjebo@yna.co.kr\r\n\r\n(끝)",
+      "publishedAt": "2015-06-13T00:09:01Z",
+      "duration": "PT12M22S",
+      "viewCount": 5900,
+      "likeCount": 27,
+      "commentCount": 0,
+      "tags": [
+        "Yonhapnews TV"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2015-06-13T00:09:01Z",
+      "channelId": "UCTHCOPwqNfZ0uiKOvFyhGwg",
+      "channelName": "연합뉴스TV",
+      "collectedAt": "2025-08-29T02:43:16Z"
+    },
+    "Fa0C8X7e-_Y": {
+      "videoId": "Fa0C8X7e-_Y",
+      "title": "2015 나라사랑 콘서트",
+      "description": "2015 나라사랑 콘서트",
+      "publishedAt": "2015-06-12T15:07:43Z",
+      "duration": "PT46S",
+      "viewCount": 50,
+      "likeCount": 0,
+      "commentCount": 0,
+      "tags": [],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2015-06-12T15:07:43Z",
+      "channelId": "UCTHCOPwqNfZ0uiKOvFyhGwg",
+      "channelName": "연합뉴스TV",
+      "collectedAt": "2025-08-29T02:43:16Z"
     }
   },
   "channels": {
@@ -174,12 +210,39 @@
         }
       },
       "subscriberCount": 5150000,
-      "viewCount": 17635969172,
-      "videoCount": 889907,
-      "lastUpdated": "2025-08-27T19:04:46.596665Z"
+      "viewCount": 17649222300,
+      "videoCount": 890317,
+      "lastUpdated": "2025-08-29T02:43:16.900709Z"
+    },
+    "UCTHCOPwqNfZ0uiKOvFyhGwg": {
+      "channelId": "UCTHCOPwqNfZ0uiKOvFyhGwg",
+      "channelName": "연합뉴스TV",
+      "channelUrl": "@yonhapnewstv23",
+      "channelDescription": "대한민국 뉴스의 시작, 24시간 뉴스 채널 연합뉴스TV\n실시간 뉴스 생방송, 생생한 뉴스의 현장을 LIVE로 시청하세요.\n이 채널은 연합뉴스TV의 Youtube 유튜브 공식 채널 입니다.",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_kFqbmXOoxJIaLVQYrJMB8gR8_LTF7Wm1lDpZbCmqhJh3U=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_kFqbmXOoxJIaLVQYrJMB8gR8_LTF7Wm1lDpZbCmqhJh3U=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_kFqbmXOoxJIaLVQYrJMB8gR8_LTF7Wm1lDpZbCmqhJh3U=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 2080000,
+      "viewCount": 3351994752,
+      "videoCount": 627296,
+      "lastUpdated": "2025-08-29T02:43:16.900709Z"
     }
   },
-  "lastUpdated": "2025-08-27T19:04:46.596665Z",
-  "totalVideos": 7,
-  "totalChannels": 1
+  "lastUpdated": "2025-08-29T02:43:16.900709Z",
+  "totalVideos": 9,
+  "totalChannels": 2
 }

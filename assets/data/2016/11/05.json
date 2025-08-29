@@ -464,6 +464,25 @@
       "channelId": "UChlgI3UHCOnwUGzWzbJ3H5w",
       "channelName": " YTN",
       "collectedAt": "2025-08-27T19:04:45Z"
+    },
+    "9KwEeJBBkKc": {
+      "videoId": "9KwEeJBBkKc",
+      "title": "[하모니] 우리는 한 가족…가족이 늘었어요!",
+      "description": "[하모니] 우리는 한 가족…가족이 늘었어요!\r\n\r\n필리핀이 고향인 이지혜(41세)와 로베르토(41세) 부부. \r\n\r\n파주에서 세 아이를 키우며 살고 있고 필리핀에서 살고 있는 세 아이를 한국에 데리고 올 예정이다. \r\n\r\n남편 로베르토가 필리핀에 가서 아이들을 데리고 귀국하는 날.\r\n\r\n아내 지혜 씨는 아이들과 함께 살게 된 설렘도 있지만 앞으로 여섯 아이를 키우며 살아갈 일이 걱정이다. \r\n\r\n드디어 인천국제공항에 도착한 남편과 아이들. \r\n\r\n춥고 낯설지만 엄마를 만나게 된 기대감을 안고 파주 집으로 향하는데 과연 한 가족이 된 여섯 아이들은 어떻게 적응하고 살아갈 것인가?\r\n\r\n하모니에서 세 번째 이야기를 만나본다.\r\n\r\n연합뉴스TV : 02-398-4441(기사문의) 4409(제보), 카톡/라인 jebo23 \r\n\r\n(끝)",
+      "publishedAt": "2016-11-05T00:02:29Z",
+      "duration": "PT15M56S",
+      "viewCount": 5389,
+      "likeCount": 17,
+      "commentCount": 2,
+      "tags": [
+        "Yonhapnews TV"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2016-11-05T00:02:29Z",
+      "channelId": "UCTHCOPwqNfZ0uiKOvFyhGwg",
+      "channelName": "연합뉴스TV",
+      "collectedAt": "2025-08-29T02:43:15Z"
     }
   },
   "channels": {
@@ -571,12 +590,39 @@
         }
       },
       "subscriberCount": 5150000,
-      "viewCount": 17635969172,
-      "videoCount": 889907,
-      "lastUpdated": "2025-08-27T19:04:45.110504Z"
+      "viewCount": 17649222300,
+      "videoCount": 890317,
+      "lastUpdated": "2025-08-29T02:43:15.553751Z"
+    },
+    "UCTHCOPwqNfZ0uiKOvFyhGwg": {
+      "channelId": "UCTHCOPwqNfZ0uiKOvFyhGwg",
+      "channelName": "연합뉴스TV",
+      "channelUrl": "@yonhapnewstv23",
+      "channelDescription": "대한민국 뉴스의 시작, 24시간 뉴스 채널 연합뉴스TV\n실시간 뉴스 생방송, 생생한 뉴스의 현장을 LIVE로 시청하세요.\n이 채널은 연합뉴스TV의 Youtube 유튜브 공식 채널 입니다.",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_kFqbmXOoxJIaLVQYrJMB8gR8_LTF7Wm1lDpZbCmqhJh3U=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_kFqbmXOoxJIaLVQYrJMB8gR8_LTF7Wm1lDpZbCmqhJh3U=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_kFqbmXOoxJIaLVQYrJMB8gR8_LTF7Wm1lDpZbCmqhJh3U=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 2080000,
+      "viewCount": 3351994752,
+      "videoCount": 627296,
+      "lastUpdated": "2025-08-29T02:43:15.553751Z"
     }
   },
-  "lastUpdated": "2025-08-27T19:04:45.111525Z",
-  "totalVideos": 18,
-  "totalChannels": 4
+  "lastUpdated": "2025-08-29T02:43:15.553751Z",
+  "totalVideos": 19,
+  "totalChannels": 5
 }

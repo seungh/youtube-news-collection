@@ -307,6 +307,50 @@
       "channelId": "UChlgI3UHCOnwUGzWzbJ3H5w",
       "channelName": " YTN",
       "collectedAt": "2025-08-27T19:05:21Z"
+    },
+    "xcKs5yq-dvA": {
+      "videoId": "xcKs5yq-dvA",
+      "title": "기업비사 - SK그룹 최종현 회장, 에너지 강국의 꿈",
+      "description": "- 5월2일 저녁 7시20분 방송\n\n▲ SK그룹 최종현 회장, 에너지 강국의 꿈\n기름 한 방울 나지 않는 나라에서 산유국을 꿈꾸다. '석유에서 섬유까지' 를 주장하며 검은 황금 석유를 찾아 다닌 한 남자. SK 최종현 회장, 대한민국을 산유국으로!",
+      "publishedAt": "2015-05-01T08:56:18Z",
+      "duration": "PT49S",
+      "viewCount": 5265,
+      "likeCount": 9,
+      "commentCount": 1,
+      "tags": [
+        "연합뉴스TV",
+        "기업비사",
+        "Energy (Industry)",
+        "SK Group (Business Operation)"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2015-05-01T08:56:18Z",
+      "channelId": "UCTHCOPwqNfZ0uiKOvFyhGwg",
+      "channelName": "연합뉴스TV",
+      "collectedAt": "2025-08-29T02:43:58Z"
+    },
+    "QFLz1zatDfc": {
+      "videoId": "QFLz1zatDfc",
+      "title": "월드리포트 That's WHY - 쓰레기가 부족한 나라, 노르웨이",
+      "description": "- 5월2일 오후 2시30분 방송\n\n▲ 쓰레기가 부족한 나라, 노르웨이 \n노르웨이에서는 연간 1천만 톤의 쓰레기가 쏟아져 나오고 있고 당연히 재활용과 재사용에 대한 중요성이 국가적인 과제로 부각되고 있죠. 현재 대부분의 국가에서 매립을 선택하고 있는 쓰레기가 노르웨이에서는 에너지로 변환되고 있습니다. 쓰레기로 화석 연료를 대체한다는 전략은 현재 다소 황당한 문제에 직면했습니다. 소각로의 연료로 사용할 폐기물이 부족해진 것이죠. 노르웨이는 이제 쓰레기 수입국이 되려고 합니다.",
+      "publishedAt": "2015-05-01T08:53:30Z",
+      "duration": "PT40S",
+      "viewCount": 608,
+      "likeCount": 0,
+      "commentCount": 0,
+      "tags": [
+        "연합뉴스TV",
+        "월드리포트",
+        "Norway (Country)",
+        "노르웨이"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2015-05-01T08:53:30Z",
+      "channelId": "UCTHCOPwqNfZ0uiKOvFyhGwg",
+      "channelName": "연합뉴스TV",
+      "collectedAt": "2025-08-29T02:43:58Z"
     }
   },
   "channels": {
@@ -441,12 +485,39 @@
         }
       },
       "subscriberCount": 5150000,
-      "viewCount": 17635969172,
-      "videoCount": 889907,
-      "lastUpdated": "2025-08-27T19:05:21.857845Z"
+      "viewCount": 17649222300,
+      "videoCount": 890317,
+      "lastUpdated": "2025-08-29T02:43:58.028022Z"
+    },
+    "UCTHCOPwqNfZ0uiKOvFyhGwg": {
+      "channelId": "UCTHCOPwqNfZ0uiKOvFyhGwg",
+      "channelName": "연합뉴스TV",
+      "channelUrl": "@yonhapnewstv23",
+      "channelDescription": "대한민국 뉴스의 시작, 24시간 뉴스 채널 연합뉴스TV\n실시간 뉴스 생방송, 생생한 뉴스의 현장을 LIVE로 시청하세요.\n이 채널은 연합뉴스TV의 Youtube 유튜브 공식 채널 입니다.",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_kFqbmXOoxJIaLVQYrJMB8gR8_LTF7Wm1lDpZbCmqhJh3U=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_kFqbmXOoxJIaLVQYrJMB8gR8_LTF7Wm1lDpZbCmqhJh3U=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_kFqbmXOoxJIaLVQYrJMB8gR8_LTF7Wm1lDpZbCmqhJh3U=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 2080000,
+      "viewCount": 3351994752,
+      "videoCount": 627296,
+      "lastUpdated": "2025-08-29T02:43:58.028022Z"
     }
   },
-  "lastUpdated": "2025-08-27T19:05:21.857845Z",
-  "totalVideos": 13,
-  "totalChannels": 5
+  "lastUpdated": "2025-08-29T02:43:58.028022Z",
+  "totalVideos": 15,
+  "totalChannels": 6
 }

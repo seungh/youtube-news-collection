@@ -111,6 +111,28 @@
       "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
       "channelName": "뉴스TVCHOSUN",
       "collectedAt": "2025-08-21T10:46:05Z"
+    },
+    "fiGi22UdHL0": {
+      "videoId": "fiGi22UdHL0",
+      "title": "[기업비사] 39회 : LG 그리고 GS…구씨와 허씨의 동업과 결별",
+      "description": "[기업비사] 39회 : LG 그리고 GS…구씨와 허씨의 동업과 결별\r\n\r\n(끝)",
+      "publishedAt": "2015-12-13T11:14:47Z",
+      "duration": "PT25M24S",
+      "viewCount": 1087728,
+      "likeCount": 5351,
+      "commentCount": 527,
+      "tags": [
+        "Yonhapnews TV",
+        "기업비사",
+        "LG",
+        "GS"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2015-12-13T11:14:47Z",
+      "channelId": "UCTHCOPwqNfZ0uiKOvFyhGwg",
+      "channelName": "연합뉴스TV",
+      "collectedAt": "2025-08-29T02:44:02Z"
     }
   },
   "channels": {
@@ -140,9 +162,36 @@
       "viewCount": 4319423561,
       "videoCount": 150855,
       "lastUpdated": "2025-08-21T10:28:42.673873Z"
+    },
+    "UCTHCOPwqNfZ0uiKOvFyhGwg": {
+      "channelId": "UCTHCOPwqNfZ0uiKOvFyhGwg",
+      "channelName": "연합뉴스TV",
+      "channelUrl": "@yonhapnewstv23",
+      "channelDescription": "대한민국 뉴스의 시작, 24시간 뉴스 채널 연합뉴스TV\n실시간 뉴스 생방송, 생생한 뉴스의 현장을 LIVE로 시청하세요.\n이 채널은 연합뉴스TV의 Youtube 유튜브 공식 채널 입니다.",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_kFqbmXOoxJIaLVQYrJMB8gR8_LTF7Wm1lDpZbCmqhJh3U=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_kFqbmXOoxJIaLVQYrJMB8gR8_LTF7Wm1lDpZbCmqhJh3U=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_kFqbmXOoxJIaLVQYrJMB8gR8_LTF7Wm1lDpZbCmqhJh3U=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 2080000,
+      "viewCount": 3351994752,
+      "videoCount": 627296,
+      "lastUpdated": "2025-08-29T02:44:02.296598Z"
     }
   },
-  "lastUpdated": "2025-08-21T10:46:05.831171Z",
-  "totalVideos": 4,
-  "totalChannels": 1
+  "lastUpdated": "2025-08-29T02:44:02.296598Z",
+  "totalVideos": 5,
+  "totalChannels": 2
 }

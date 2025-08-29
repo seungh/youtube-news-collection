@@ -328,6 +328,25 @@
       "channelId": "UCG9aFJTZ-lMCHAiO1KJsirg",
       "channelName": "MBN News",
       "collectedAt": "2025-08-27T19:04:09Z"
+    },
+    "kIYUUP1NgOI": {
+      "videoId": "kIYUUP1NgOI",
+      "title": "[하모니] 우앤투이홍의 홀로서기 - 세 번째 이야기",
+      "description": "[하모니] 우앤투이홍의 홀로서기 - 세 번째 이야기\r\n\r\n강원도 인제군 북면에 사는 베트남 출신 우앤투이홍 (29세) \r\n\r\n작년에 남편과 사별하고 강현우(초1) 민우(6세) 진우(9개월)를 키우며 산다. \r\n\r\n귀화시험을 앞두고 있는 우엔투이홍. \r\n\r\n며칠 앞으로 다가온 시험을 위해 공부에 매진하는데 이제 10개월 된 막내 진우가 영 도와주지 않는다. \r\n\r\n결국 첫째 현우에게 진우를 맡기는데 동생은 뒷전, 현우의 관심은 온통 게임에만 몰려 있다. \r\n\r\n드디어 귀화필기시험 날, 친정엄마는 찹쌀로 지은 밥에 콩과 설탕을 버무려 올린 베트남 음식을 챙겨준다. \r\n\r\n베트남에서 시험 보는 날 합격을 기원하며 주는 음식이다. \r\n\r\n춘천의 필기시험장에 도착한 우엔투이홍. 과연 귀화필기시험에 통과할 수 있을까? \r\n\r\n하면된다는 마음으로 씩씩하게 살아가는 [우앤투이홍의 홀로서기] 3부를 만나본다.\r\n    연합뉴스TV 제보:02-398-4409, yjebo@yna.co.kr\r\n(끝)",
+      "publishedAt": "2015-08-15T01:38:55Z",
+      "duration": "PT11M51S",
+      "viewCount": 8981,
+      "likeCount": 57,
+      "commentCount": 1,
+      "tags": [
+        "Yonhapnews TV"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2015-08-15T01:38:55Z",
+      "channelId": "UCTHCOPwqNfZ0uiKOvFyhGwg",
+      "channelName": "연합뉴스TV",
+      "collectedAt": "2025-08-29T02:42:33Z"
     }
   },
   "channels": {
@@ -435,9 +454,9 @@
         }
       },
       "subscriberCount": 5150000,
-      "viewCount": 17635969172,
-      "videoCount": 889907,
-      "lastUpdated": "2025-08-27T19:04:09.837808Z"
+      "viewCount": 17649222300,
+      "videoCount": 890317,
+      "lastUpdated": "2025-08-29T02:42:33.887080Z"
     },
     "UCG9aFJTZ-lMCHAiO1KJsirg": {
       "channelId": "UCG9aFJTZ-lMCHAiO1KJsirg",
@@ -462,12 +481,39 @@
         }
       },
       "subscriberCount": 2490000,
-      "viewCount": 3277338867,
-      "videoCount": 233128,
-      "lastUpdated": "2025-08-27T19:04:09.837808Z"
+      "viewCount": 3278386064,
+      "videoCount": 233358,
+      "lastUpdated": "2025-08-29T02:42:33.887080Z"
+    },
+    "UCTHCOPwqNfZ0uiKOvFyhGwg": {
+      "channelId": "UCTHCOPwqNfZ0uiKOvFyhGwg",
+      "channelName": "연합뉴스TV",
+      "channelUrl": "@yonhapnewstv23",
+      "channelDescription": "대한민국 뉴스의 시작, 24시간 뉴스 채널 연합뉴스TV\n실시간 뉴스 생방송, 생생한 뉴스의 현장을 LIVE로 시청하세요.\n이 채널은 연합뉴스TV의 Youtube 유튜브 공식 채널 입니다.",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_kFqbmXOoxJIaLVQYrJMB8gR8_LTF7Wm1lDpZbCmqhJh3U=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_kFqbmXOoxJIaLVQYrJMB8gR8_LTF7Wm1lDpZbCmqhJh3U=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_kFqbmXOoxJIaLVQYrJMB8gR8_LTF7Wm1lDpZbCmqhJh3U=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 2080000,
+      "viewCount": 3351994752,
+      "videoCount": 627296,
+      "lastUpdated": "2025-08-29T02:42:33.887080Z"
     }
   },
-  "lastUpdated": "2025-08-27T19:04:09.838806Z",
-  "totalVideos": 14,
-  "totalChannels": 5
+  "lastUpdated": "2025-08-29T02:42:33.887080Z",
+  "totalVideos": 15,
+  "totalChannels": 6
 }

@@ -608,6 +608,25 @@
       "channelId": "UChlgI3UHCOnwUGzWzbJ3H5w",
       "channelName": " YTN",
       "collectedAt": "2025-08-27T19:04:45Z"
+    },
+    "7BPVqdALOmU": {
+      "videoId": "7BPVqdALOmU",
+      "title": "[하모니] 선우야 사랑해…엄마의 손",
+      "description": "[하모니] 선우야 사랑해…엄마의 손\r\n\r\n통영에 사는 정희숙씨 가족이야기로 남편과 이혼 후 친정집에서 세 아이를 키우는 한부모 가정입니다. \r\n\r\n엄마 정희숙 (34세) 삼 남매 윤선우(초3) 예진(초1) 혜랑(6세).\r\n\r\n여름방학을 맞은 선우와 예진이. 하지만 엄마는 일하러 나가고 친구들처럼 학원은 다닐 형편이 안되어 종일 집에서 시간을 보낸다. \r\n\r\n손주들 챙기랴 고추 따랴 바빠진 건 바로 외할머니. \r\n\r\n그러던 중 딸 희숙씨가 일하다 기계에 손을 찔려 다쳤다는 얘기를 듣게 된다. \r\n\r\n신경을 건드렸는지 손가락이 마비된 희숙씨는 병원을 찾고 경과를 기다리는데…\r\n\r\n혼자 일해서 세 아이를 키우고 선우 병원비를 대야하는 희숙씨는 계속 일할 수 있을지도 걱정이다. \r\n\r\n뇌전증을 앓는 선우와 가족들의 세번째 이야기.\r\n\r\n하모니에서 만나본다.\r\n\r\n연합뉴스TV : 02-398-4409(제보) 4441(기사문의), 카톡/라인 jebo23\r\n\r\n(끝)",
+      "publishedAt": "2016-07-30T00:07:03Z",
+      "duration": "PT13M44S",
+      "viewCount": 2357,
+      "likeCount": 6,
+      "commentCount": 2,
+      "tags": [
+        "Yonhapnews TV"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2016-07-30T00:07:03Z",
+      "channelId": "UCTHCOPwqNfZ0uiKOvFyhGwg",
+      "channelName": "연합뉴스TV",
+      "collectedAt": "2025-08-29T02:43:15Z"
     }
   },
   "channels": {
@@ -769,12 +788,39 @@
         }
       },
       "subscriberCount": 5150000,
-      "viewCount": 17635969172,
-      "videoCount": 889907,
-      "lastUpdated": "2025-08-27T19:04:45.595247Z"
+      "viewCount": 17649222300,
+      "videoCount": 890317,
+      "lastUpdated": "2025-08-29T02:43:15.935049Z"
+    },
+    "UCTHCOPwqNfZ0uiKOvFyhGwg": {
+      "channelId": "UCTHCOPwqNfZ0uiKOvFyhGwg",
+      "channelName": "연합뉴스TV",
+      "channelUrl": "@yonhapnewstv23",
+      "channelDescription": "대한민국 뉴스의 시작, 24시간 뉴스 채널 연합뉴스TV\n실시간 뉴스 생방송, 생생한 뉴스의 현장을 LIVE로 시청하세요.\n이 채널은 연합뉴스TV의 Youtube 유튜브 공식 채널 입니다.",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_kFqbmXOoxJIaLVQYrJMB8gR8_LTF7Wm1lDpZbCmqhJh3U=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_kFqbmXOoxJIaLVQYrJMB8gR8_LTF7Wm1lDpZbCmqhJh3U=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_kFqbmXOoxJIaLVQYrJMB8gR8_LTF7Wm1lDpZbCmqhJh3U=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 2080000,
+      "viewCount": 3351994752,
+      "videoCount": 627296,
+      "lastUpdated": "2025-08-29T02:43:15.937044Z"
     }
   },
-  "lastUpdated": "2025-08-27T19:04:45.595247Z",
-  "totalVideos": 21,
-  "totalChannels": 6
+  "lastUpdated": "2025-08-29T02:43:15.937044Z",
+  "totalVideos": 22,
+  "totalChannels": 7
 }

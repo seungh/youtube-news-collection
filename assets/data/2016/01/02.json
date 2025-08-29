@@ -181,6 +181,25 @@
       "channelId": "UChlgI3UHCOnwUGzWzbJ3H5w",
       "channelName": " YTN",
       "collectedAt": "2025-08-27T19:04:46Z"
+    },
+    "NsxDP0OjSd0": {
+      "videoId": "NsxDP0OjSd0",
+      "title": "[하모니] 그리운 고향집…안녕! 나의 고향 - 다섯 번째 이야기",
+      "description": "[하모니] 그리운 고향집…안녕! 나의 고향 - 다섯 번째 이야기\r\n\r\n하모니는 특집으로 다문화가정의 모국방문기를 마련했다. \r\n\r\n주인공은 필리핀에서 시집온 양예린 씨 (37세). \r\n\r\n그리운 고향집을 찾아 5년 만에 부모님을 만났고 고향 마을에서 어린 시절 추억을 되새기며 행복한 시간을 보내고 있다. \r\n\r\n하모니 제작진은 지난 태풍 때 피해를 입은 필리핀 부모님의 집을 안전하고 쾌적한 공간으로 바꾸는 주거 개선 프로젝트를 진행하고 심장병이 심해진 친정 아버지를 모시고 시내 병원을 찾아 진료를 받는다. \r\n\r\n이제 10일 동안의 고향 방문을 마치고 집으로 가야할 시간. \r\n\r\n화사하게 바뀐 부모님 집을 둘러보며 아름다웠던 고향의 추억을 가슴에 담는 양예린 씨, 그리고 그 가족의 이야기를 하모니에서 함께 한다.\r\n    \r\n연합뉴스TV : 02-398-4409(제보) 4441(기사문의), yjebo@yna.co.kr\r\n\r\n(끝)",
+      "publishedAt": "2016-01-02T00:08:48Z",
+      "duration": "PT12M40S",
+      "viewCount": 18084,
+      "likeCount": 54,
+      "commentCount": 2,
+      "tags": [
+        "Yonhapnews TV"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2016-01-02T00:08:48Z",
+      "channelId": "UCTHCOPwqNfZ0uiKOvFyhGwg",
+      "channelName": "연합뉴스TV",
+      "collectedAt": "2025-08-29T02:43:16Z"
     }
   },
   "channels": {
@@ -261,12 +280,39 @@
         }
       },
       "subscriberCount": 5150000,
-      "viewCount": 17635969172,
-      "videoCount": 889907,
-      "lastUpdated": "2025-08-27T19:04:46.181246Z"
+      "viewCount": 17649222300,
+      "videoCount": 890317,
+      "lastUpdated": "2025-08-29T02:43:16.447097Z"
+    },
+    "UCTHCOPwqNfZ0uiKOvFyhGwg": {
+      "channelId": "UCTHCOPwqNfZ0uiKOvFyhGwg",
+      "channelName": "연합뉴스TV",
+      "channelUrl": "@yonhapnewstv23",
+      "channelDescription": "대한민국 뉴스의 시작, 24시간 뉴스 채널 연합뉴스TV\n실시간 뉴스 생방송, 생생한 뉴스의 현장을 LIVE로 시청하세요.\n이 채널은 연합뉴스TV의 Youtube 유튜브 공식 채널 입니다.",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_kFqbmXOoxJIaLVQYrJMB8gR8_LTF7Wm1lDpZbCmqhJh3U=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_kFqbmXOoxJIaLVQYrJMB8gR8_LTF7Wm1lDpZbCmqhJh3U=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_kFqbmXOoxJIaLVQYrJMB8gR8_LTF7Wm1lDpZbCmqhJh3U=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 2080000,
+      "viewCount": 3351994752,
+      "videoCount": 627296,
+      "lastUpdated": "2025-08-29T02:43:16.447097Z"
     }
   },
-  "lastUpdated": "2025-08-27T19:04:46.181246Z",
-  "totalVideos": 7,
-  "totalChannels": 3
+  "lastUpdated": "2025-08-29T02:43:16.447097Z",
+  "totalVideos": 8,
+  "totalChannels": 4
 }

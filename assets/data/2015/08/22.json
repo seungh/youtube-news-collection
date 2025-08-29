@@ -182,6 +182,25 @@
       "channelId": "UChlgI3UHCOnwUGzWzbJ3H5w",
       "channelName": " YTN",
       "collectedAt": "2025-08-27T19:04:46Z"
+    },
+    "_khLH8Bvh5o": {
+      "videoId": "_khLH8Bvh5o",
+      "title": "[하모니] 우앤투이홍의 홀로서기 - 마지막 이야기",
+      "description": "[하모니] 우앤투이홍의 홀로서기 - 마지막 이야기\r\n\r\n하늘이 내린 풍경으로 유명한 강원도 인제에 사는 우엔투이홍(베트남, 29세) \r\n\r\n남편과 사별한 후 세 아이를 키우기 위해 밤낮으로 열심히 일하는 억척 엄마다. \r\n\r\n오래전부터 준비한 귀화필기시험 보는 날, 과연 우엔투이홍은 시험을 통과할 수 있을까? \r\n\r\n한편 어린 세 아이가 자라기에는 비좁고 여기저기 곰팡이가 피어 건강마저 우려됐던 우엔투이홍 가족의 낡은 집을 안전하고 쾌적한 보금자리로 변신하는 하모니 솔루션이 시작된다. 벽으로 막힌 창문과 벌레와 곰팡이가 숨어 있는 주방도 새로 수리하고 겨울에도 아이들이 마음 놓고 씻을 수 있게 내부에 욕실이 들어설 예정. \r\n\r\n씩씩하고 강한 엄마, 우엔투이홍의 홀로서기 마지막 이야기를 만나본다.\r\n    연합뉴스TV 제보:02-398-4409, yjebo@yna.co.kr\r\n\r\n(끝)",
+      "publishedAt": "2015-08-22T06:04:16Z",
+      "duration": "PT12M5S",
+      "viewCount": 11294,
+      "likeCount": 49,
+      "commentCount": 1,
+      "tags": [
+        "Yonhapnews TV"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2015-08-22T06:04:16Z",
+      "channelId": "UCTHCOPwqNfZ0uiKOvFyhGwg",
+      "channelName": "연합뉴스TV",
+      "collectedAt": "2025-08-29T02:43:16Z"
     }
   },
   "channels": {
@@ -235,12 +254,39 @@
         }
       },
       "subscriberCount": 5150000,
-      "viewCount": 17635969172,
-      "videoCount": 889907,
-      "lastUpdated": "2025-08-27T19:04:46.435104Z"
+      "viewCount": 17649222300,
+      "videoCount": 890317,
+      "lastUpdated": "2025-08-29T02:43:16.749953Z"
+    },
+    "UCTHCOPwqNfZ0uiKOvFyhGwg": {
+      "channelId": "UCTHCOPwqNfZ0uiKOvFyhGwg",
+      "channelName": "연합뉴스TV",
+      "channelUrl": "@yonhapnewstv23",
+      "channelDescription": "대한민국 뉴스의 시작, 24시간 뉴스 채널 연합뉴스TV\n실시간 뉴스 생방송, 생생한 뉴스의 현장을 LIVE로 시청하세요.\n이 채널은 연합뉴스TV의 Youtube 유튜브 공식 채널 입니다.",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_kFqbmXOoxJIaLVQYrJMB8gR8_LTF7Wm1lDpZbCmqhJh3U=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_kFqbmXOoxJIaLVQYrJMB8gR8_LTF7Wm1lDpZbCmqhJh3U=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_kFqbmXOoxJIaLVQYrJMB8gR8_LTF7Wm1lDpZbCmqhJh3U=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 2080000,
+      "viewCount": 3351994752,
+      "videoCount": 627296,
+      "lastUpdated": "2025-08-29T02:43:16.749953Z"
     }
   },
-  "lastUpdated": "2025-08-27T19:04:46.435617Z",
-  "totalVideos": 8,
-  "totalChannels": 2
+  "lastUpdated": "2025-08-29T02:43:16.749953Z",
+  "totalVideos": 9,
+  "totalChannels": 3
 }

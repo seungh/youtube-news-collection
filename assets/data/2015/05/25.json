@@ -318,6 +318,63 @@
       "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
       "channelName": "JTBC News",
       "collectedAt": "2025-08-25T21:08:21Z"
+    },
+    "9moR6cc4U7Q": {
+      "videoId": "9moR6cc4U7Q",
+      "title": "[기업비사] 12회 : 현대차 정몽구 회장, 아버지의 그림자를 넘어서라!",
+      "description": "[기업비사] 12회 : 현대차 정몽구 회장, 아버지의 그림자를 넘어서라!\r\n\r\n연합뉴스TV 제보:02-398-4409, yjebo@yna.co.kr\r\n\r\n(끝)",
+      "publishedAt": "2015-05-25T03:39:04Z",
+      "duration": "PT26M16S",
+      "viewCount": 542354,
+      "likeCount": 1732,
+      "commentCount": 208,
+      "tags": [
+        "Yonhapnews TV"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2015-05-25T03:39:04Z",
+      "channelId": "UCTHCOPwqNfZ0uiKOvFyhGwg",
+      "channelName": "연합뉴스TV",
+      "collectedAt": "2025-08-29T02:44:02Z"
+    },
+    "sLT5GZHHmVU": {
+      "videoId": "sLT5GZHHmVU",
+      "title": "[기업비사] 13회 : 한보그룹 정태수, '검은 돈' 로비의 최후",
+      "description": "[기업비사] 13회 : 한보그룹 정태수, '검은 돈' 로비의 최후\r\n\r\n연합뉴스TV 제보:02-398-4409, yjebo@yna.co.kr\r\n\r\n(끝)",
+      "publishedAt": "2015-05-25T02:43:46Z",
+      "duration": "PT26M2S",
+      "viewCount": 126950,
+      "likeCount": 567,
+      "commentCount": 38,
+      "tags": [
+        "Yonhapnews TV"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2015-05-25T02:43:46Z",
+      "channelId": "UCTHCOPwqNfZ0uiKOvFyhGwg",
+      "channelName": "연합뉴스TV",
+      "collectedAt": "2025-08-29T02:44:02Z"
+    },
+    "pbJDu39vDys": {
+      "videoId": "pbJDu39vDys",
+      "title": "[기업비사] 11회 : 농심 신춘호 회장, 빨간 국물로 만든 라면 새역사",
+      "description": "[기업비사] 11회 : 농심 신춘호 회장, 빨간 국물로 만든 라면 새역사\r\n\r\n연합뉴스TV 제보:02-398-4409, yjebo@yna.co.kr\r\n\r\n(끝)",
+      "publishedAt": "2015-05-25T04:05:50Z",
+      "duration": "PT24M59S",
+      "viewCount": 917364,
+      "likeCount": 3413,
+      "commentCount": 1248,
+      "tags": [
+        "Yonhapnews TV"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2015-05-25T04:05:50Z",
+      "channelId": "UCTHCOPwqNfZ0uiKOvFyhGwg",
+      "channelName": "연합뉴스TV",
+      "collectedAt": "2025-08-29T02:44:02Z"
     }
   },
   "channels": {
@@ -428,9 +485,36 @@
       "viewCount": 14817048106,
       "videoCount": 261473,
       "lastUpdated": "2025-08-25T21:08:21.050625Z"
+    },
+    "UCTHCOPwqNfZ0uiKOvFyhGwg": {
+      "channelId": "UCTHCOPwqNfZ0uiKOvFyhGwg",
+      "channelName": "연합뉴스TV",
+      "channelUrl": "@yonhapnewstv23",
+      "channelDescription": "대한민국 뉴스의 시작, 24시간 뉴스 채널 연합뉴스TV\n실시간 뉴스 생방송, 생생한 뉴스의 현장을 LIVE로 시청하세요.\n이 채널은 연합뉴스TV의 Youtube 유튜브 공식 채널 입니다.",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_kFqbmXOoxJIaLVQYrJMB8gR8_LTF7Wm1lDpZbCmqhJh3U=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_kFqbmXOoxJIaLVQYrJMB8gR8_LTF7Wm1lDpZbCmqhJh3U=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_kFqbmXOoxJIaLVQYrJMB8gR8_LTF7Wm1lDpZbCmqhJh3U=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 2080000,
+      "viewCount": 3351994752,
+      "videoCount": 627296,
+      "lastUpdated": "2025-08-29T02:44:02.282200Z"
     }
   },
-  "lastUpdated": "2025-08-25T21:08:21.051623Z",
-  "totalVideos": 12,
-  "totalChannels": 4
+  "lastUpdated": "2025-08-29T02:44:02.282200Z",
+  "totalVideos": 15,
+  "totalChannels": 5
 }
