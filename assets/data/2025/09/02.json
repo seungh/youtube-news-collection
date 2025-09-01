@@ -83,6 +83,26 @@
       "channelId": "UCkinYTS9IHqOEwR1Sze2JTw",
       "channelName": "SBS 뉴스",
       "collectedAt": "2025-09-01T12:40:05Z"
+    },
+    "vRQNuFj4BmY": {
+      "videoId": "vRQNuFj4BmY",
+      "title": "[LIVE/JTBC 특집 다큐] '아무것도 아닌 사람' 김건희 (25.9.2)",
+      "description": "헌정 사상 초유의 대통령·영부인 동시 구속.\n\n\"저같이 아무것도 아닌 사람\"이라던 \n김건희를 둘러싼 지난 3년의 수많은 의혹.\n\n피할 수 없었던 '증거'들까지.\n\nJTBC 특집 다큐에서 집중 조명합니다.\n\n9월 2일 (화) JTBC 특집 다큐 '아무것도 아닌 사람' 김건희\n#JTBC다큐 #아무것도아닌사람 #김건희\n\n📢 지금, 이슈의 현장을 실시간으로!\n☞JTBC 모바일라이브 시청하기 https://www.youtube.com/@jtbc_news/streams\n\n☞JTBC유튜브 구독하기 (https://www.youtube.com/user/JTBC10news)\n☞JTBC유튜브 커뮤니티 (https://www.youtube.com/user/JTBC10news/community)\n\n#JTBC뉴스 공식 페이지 https://news.jtbc.co.kr\n\n페이스북 https://www.facebook.com/jtbcnews\nX(트위터) https://twitter.com/JTBC_news\n인스타그램 https://www.instagram.com/jtbcnews\n\n☏ 제보하기 https://news.jtbc.co.kr/report\n방송사 : JTBC (https://jtbc.co.kr)",
+      "publishedAt": "2025-09-01T08:29:35Z",
+      "duration": "P0D",
+      "viewCount": 0,
+      "likeCount": 3,
+      "commentCount": 0,
+      "tags": [],
+      "liveBroadcastContent": "upcoming",
+      "liveStreamingDetails": {
+        "scheduledStartTime": "2025-09-02T13:00:00Z",
+        "activeLiveChatId": "Cg0KC3ZSUU51Rmo0Qm1ZKicKGFVDc1UtSS12SExpYU1mVl9jZWFZejVyURILdlJRTnVGajRCbVk"
+      },
+      "actualPubAt": "2025-09-02T13:00:00Z",
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "collectedAt": "2025-09-01T14:41:14Z"
     }
   },
   "channels": {
@@ -109,12 +129,39 @@
         }
       },
       "subscriberCount": 5000000,
-      "viewCount": 15049373356,
-      "videoCount": 298642,
-      "lastUpdated": "2025-09-01T14:21:53.042806Z"
+      "viewCount": 15051801038,
+      "videoCount": 298644,
+      "lastUpdated": "2025-09-01T14:41:14.230763Z"
+    },
+    "UCsU-I-vHLiaMfV_ceaYz5rQ": {
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "channelUrl": "@jtbc_news",
+      "channelDescription": "진실에 닿을 때까지 멈추지 않는 질문, JTBC News\nWelcome to the official JTBC News Channel.\n\n▶ https://news.jtbc.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 4680000,
+      "viewCount": 14888771957,
+      "videoCount": 262596,
+      "lastUpdated": "2025-09-01T14:41:14.229399Z"
     }
   },
-  "lastUpdated": "2025-09-01T14:21:53.042845Z",
-  "totalVideos": 2,
-  "totalChannels": 1
+  "lastUpdated": "2025-09-01T14:41:14.230793Z",
+  "totalVideos": 3,
+  "totalChannels": 2
 }
