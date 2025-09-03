@@ -17944,6 +17944,90 @@
       "channelId": "UCTHCOPwqNfZ0uiKOvFyhGwg",
       "channelName": "연합뉴스TV",
       "collectedAt": "2025-08-29T02:42:44Z"
+    },
+    "IR8-bs34K7I": {
+      "videoId": "IR8-bs34K7I",
+      "title": "손대고 기침이라니… 자기 말도 못지킨 박능후 보건복지부 장관",
+      "description": "🔸 조선닷컴 공식 홈페이지 http://www.chosun.com\r\n🔸 조선일보 무료구독체험 : http://bit.ly/2WnNAF7\r\n🔸 조선비즈 공식 홈페이지 http://biz.chosun.com\r\n🔸 공식 페이스북 : https://www.facebook.com/chosun\r\n🔸 공식 트위터 : https://twitter.com/chosun\r\n\r\n◈ 사실에 대한 믿음, 할 말을 하는 용기. 조선일보◈\r\n\r\n#조선일보 #코로나 #박능후",
+      "publishedAt": "2020-03-16T09:15:24Z",
+      "duration": "PT1M16S",
+      "viewCount": 15027,
+      "likeCount": 1036,
+      "commentCount": 110,
+      "tags": [
+        "조선일보",
+        "조선",
+        "언론",
+        "이슈",
+        "신문",
+        "방송",
+        "뉴스",
+        "정치",
+        "코로나",
+        "박능후",
+        "보건복지부",
+        "장관",
+        "질병관리본부",
+        "중앙대책본부",
+        "질본",
+        "정은경",
+        "브리핑",
+        "정부",
+        "문대통령",
+        "청와대",
+        "마스크",
+        "논란",
+        "자화자찬",
+        "발언",
+        "중국",
+        "김광일의 입",
+        "기침",
+        "예방수칙",
+        "감염",
+        "국회",
+        "문재인"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2020-03-16T09:15:24Z",
+      "channelId": "UCdp4_yTBhQmB8E339Lafzow",
+      "channelName": "조선일보",
+      "collectedAt": "2025-09-03T10:02:39Z"
+    },
+    "FMeDVg8yk7I": {
+      "videoId": "FMeDVg8yk7I",
+      "title": "[김광일의 입] 한 번도 경험하지 못한 ‘꼼수 공화국’",
+      "description": "여당도 비례당을 만들고, 야당도 비례당을 만들면서 ‘준연동형비례 대표제’는 있으나마나한 선거법이 되고 말았다. 이해찬 대표의 말마따나 너도 ‘의석 도둑질’ 나도 ‘의석 도둑질’, 이런 상황이면 개정 선거법은 ‘말짱 도묵’이 되고 말았다. 거대 양당이 의회를 둘로 나눠 차지하는 선거법 개정 이전 상황과 거의 비슷한 4월 총선 결과가 예상되고 있다. 그러면서 선거법을 넝마 누더기로 만들고, 사표를 방지하겠다느니, 군소 정당을 키우겠다느니 했던 당초 개정 선거법의 취지는 온데간데없이 사라지고 말았다.\n\n🔸 조선닷컴 공식 홈페이지 http://www.chosun.com\r\n🔸 조선일보 무료구독체험 : http://bit.ly/2WnNAF7\r\n🔸 조선비즈 공식 홈페이지 http://biz.chosun.com\r\n🔸 공식 페이스북 : https://www.facebook.com/chosun\r\n🔸 공식 트위터 : https://twitter.com/chosun\r\n\r\n◈ 사실에 대한 믿음, 할 말을 하는 용기. 조선일보◈\r\n\r\n#조선일보 #뉴스 #속보 #제보",
+      "publishedAt": "2020-03-16T09:00:07Z",
+      "duration": "PT7M43S",
+      "viewCount": 77787,
+      "likeCount": 9609,
+      "commentCount": 232,
+      "tags": [
+        "조선일보",
+        "조선",
+        "언론",
+        "이슈",
+        "신문",
+        "방송",
+        "뉴스",
+        "정치",
+        "비례정당",
+        "비례대표",
+        "총선",
+        "꼼수",
+        "더불어민주당",
+        "미래통합당",
+        "열린민주당",
+        "미래한국당",
+        "정의당"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2020-03-16T09:00:07Z",
+      "channelId": "UCdp4_yTBhQmB8E339Lafzow",
+      "channelName": "조선일보",
+      "collectedAt": "2025-09-03T10:02:39Z"
     }
   },
   "channels": {
@@ -18459,9 +18543,36 @@
       "viewCount": 3351994752,
       "videoCount": 627296,
       "lastUpdated": "2025-08-29T02:42:44.663904Z"
+    },
+    "UCdp4_yTBhQmB8E339Lafzow": {
+      "channelId": "UCdp4_yTBhQmB8E339Lafzow",
+      "channelName": "조선일보",
+      "channelUrl": "@chosunmedia",
+      "channelDescription": " 조선일보 공식 유튜브 채널",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 1700000,
+      "viewCount": 1669752256,
+      "videoCount": 22783,
+      "lastUpdated": "2025-09-03T10:02:39.883026Z"
     }
   },
-  "lastUpdated": "2025-08-29T02:42:44.663904Z",
-  "totalVideos": 483,
-  "totalChannels": 19
+  "lastUpdated": "2025-09-03T10:02:39.883026Z",
+  "totalVideos": 485,
+  "totalChannels": 20
 }

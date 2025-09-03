@@ -11399,6 +11399,23 @@
       "channelId": "UCTHCOPwqNfZ0uiKOvFyhGwg",
       "channelName": "연합뉴스TV",
       "collectedAt": "2025-08-29T02:43:12Z"
+    },
+    "FMVKioNikg4": {
+      "videoId": "FMVKioNikg4",
+      "title": "혜경궁 김씨 사건 어디서 시작해 어디로 가고 있나",
+      "description": "지난 몇 달 동안 포털을 뜨겁게 달궜던 이른바 '혜경궁 김씨' 사건의 검찰 수사가 진행 중이다. 검찰은 곧 혜경궁 김씨 사건의 당사자로 지목된 김혜경 씨에 대한 기소 여부를 결정할 예정이다. 그렇다면 혜경궁 김씨 사건은 무엇이고, 왜 이슈가 됐을까?",
+      "publishedAt": "2018-12-11T01:01:39Z",
+      "duration": "PT4M50S",
+      "viewCount": 1051,
+      "likeCount": 19,
+      "commentCount": 4,
+      "tags": [],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2018-12-11T01:01:39Z",
+      "channelId": "UC1aS5CRRDrN6CmR2VcpmetA",
+      "channelName": "한국일보(hankookilbo.com)",
+      "collectedAt": "2025-09-03T10:01:30Z"
     }
   },
   "channels": {
@@ -11806,9 +11823,36 @@
       "viewCount": 3351994752,
       "videoCount": 627296,
       "lastUpdated": "2025-08-29T02:43:12.002530Z"
+    },
+    "UC1aS5CRRDrN6CmR2VcpmetA": {
+      "channelId": "UC1aS5CRRDrN6CmR2VcpmetA",
+      "channelName": "한국일보(hankookilbo.com)",
+      "channelUrl": "@thehankookilbo",
+      "channelDescription": "'공존, 통합, 사람'의 정신으로 앞장서는 국내 유일 중도 정론지 한국일보입니다.\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ppj3UlPuwNq5DyUWNFz27Vc6WoIrRpRI2IMHc9MZ3UqkNVWcXrT83qJTU3bAweA3BOodFu4Euf0=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ppj3UlPuwNq5DyUWNFz27Vc6WoIrRpRI2IMHc9MZ3UqkNVWcXrT83qJTU3bAweA3BOodFu4Euf0=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ppj3UlPuwNq5DyUWNFz27Vc6WoIrRpRI2IMHc9MZ3UqkNVWcXrT83qJTU3bAweA3BOodFu4Euf0=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 362000,
+      "viewCount": 296027619,
+      "videoCount": 6196,
+      "lastUpdated": "2025-09-03T10:01:30.928064Z"
     }
   },
-  "lastUpdated": "2025-08-29T02:43:12.002530Z",
-  "totalVideos": 333,
-  "totalChannels": 15
+  "lastUpdated": "2025-09-03T10:01:30.928064Z",
+  "totalVideos": 334,
+  "totalChannels": 16
 }

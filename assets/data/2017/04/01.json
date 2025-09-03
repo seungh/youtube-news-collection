@@ -806,6 +806,54 @@
       "channelId": "UCTHCOPwqNfZ0uiKOvFyhGwg",
       "channelName": "연합뉴스TV",
       "collectedAt": "2025-08-29T02:43:48Z"
+    },
+    "hrnxnJC_Ni8": {
+      "videoId": "hrnxnJC_Ni8",
+      "title": "오버워치 참교육, 여자랑 무슨 상관인데?",
+      "description": "오버워치에 성별이 어딨어?.avi\n\n내가 옵치를 잘하든 못하든..\n#여자랑_무슨_상관인건데? #ㅂㄷㅂㄷ",
+      "publishedAt": "2017-04-01T01:00:03Z",
+      "duration": "PT2M35S",
+      "viewCount": 112212,
+      "likeCount": 4807,
+      "commentCount": 1489,
+      "tags": [
+        "오버워치",
+        "여성",
+        "욕설",
+        "욕",
+        "overwatch",
+        "참교육",
+        "실제영상",
+        "패드립",
+        "성희롱",
+        "성차별",
+        "인권",
+        "메르시",
+        "디바",
+        "겐지",
+        "여성인권",
+        "대도서관",
+        "게임",
+        "스타크래프트",
+        "블리자드",
+        "성별",
+        "솔저",
+        "솜브라",
+        "한국남성",
+        "한남",
+        "starcraft",
+        "페미니스트",
+        "feminist",
+        "blizzard",
+        "warcraft",
+        "갓건배"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2017-04-01T01:00:03Z",
+      "channelId": "UC1aS5CRRDrN6CmR2VcpmetA",
+      "channelName": "한국일보(hankookilbo.com)",
+      "collectedAt": "2025-09-03T10:01:43Z"
     }
   },
   "channels": {
@@ -997,9 +1045,36 @@
       "viewCount": 3351994752,
       "videoCount": 627296,
       "lastUpdated": "2025-08-29T02:43:48.318775Z"
+    },
+    "UC1aS5CRRDrN6CmR2VcpmetA": {
+      "channelId": "UC1aS5CRRDrN6CmR2VcpmetA",
+      "channelName": "한국일보(hankookilbo.com)",
+      "channelUrl": "@thehankookilbo",
+      "channelDescription": "'공존, 통합, 사람'의 정신으로 앞장서는 국내 유일 중도 정론지 한국일보입니다.\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ppj3UlPuwNq5DyUWNFz27Vc6WoIrRpRI2IMHc9MZ3UqkNVWcXrT83qJTU3bAweA3BOodFu4Euf0=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ppj3UlPuwNq5DyUWNFz27Vc6WoIrRpRI2IMHc9MZ3UqkNVWcXrT83qJTU3bAweA3BOodFu4Euf0=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ppj3UlPuwNq5DyUWNFz27Vc6WoIrRpRI2IMHc9MZ3UqkNVWcXrT83qJTU3bAweA3BOodFu4Euf0=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 362000,
+      "viewCount": 296027619,
+      "videoCount": 6196,
+      "lastUpdated": "2025-09-03T10:01:43.682082Z"
     }
   },
-  "lastUpdated": "2025-08-29T02:43:48.318775Z",
-  "totalVideos": 29,
-  "totalChannels": 7
+  "lastUpdated": "2025-09-03T10:01:43.682082Z",
+  "totalVideos": 30,
+  "totalChannels": 8
 }

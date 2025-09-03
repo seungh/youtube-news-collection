@@ -147,6 +147,44 @@
       "channelId": "UCTHCOPwqNfZ0uiKOvFyhGwg",
       "channelName": "연합뉴스TV",
       "collectedAt": "2025-08-29T02:43:36Z"
+    },
+    "Pnor0CKwqYI": {
+      "videoId": "Pnor0CKwqYI",
+      "title": "배상문, 그래도 그대는 '슈퍼 문' - 2015 프레지던츠컵 마지막날",
+      "description": "배상문이 11일 인천 송도의 잭 니클라우스 골프클럽 코리아에서 열린 2015 프레지던츠컵 마지막 날 경기를 마친 뒤 호주 출신 응원단 ‘패내틱스’의 단체 티셔츠와 모자를 쓰고 팬과 포옹하고 있다. 갤러리들은 이날 경기 18번홀에서 샷 실수해 패한 배상문을 향해 태극기를 흔들고, 그의 이름을 연호하면서 격려의 응원을 보냈다. /오종찬 기자\n\n땅을 쳤지만… 그대는 수퍼 문\n\nhttp://news.chosun.com/site/data/html_dir/2015/10/12/2015101200235.html",
+      "publishedAt": "2015-10-11T13:46:27Z",
+      "duration": "PT1M10S",
+      "viewCount": 1306,
+      "likeCount": 1,
+      "commentCount": 1,
+      "tags": [
+        "Presidents Cup",
+        "Supermoon",
+        "Golf (Sport)"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2015-10-11T13:46:27Z",
+      "channelId": "UCdp4_yTBhQmB8E339Lafzow",
+      "channelName": "조선일보",
+      "collectedAt": "2025-09-03T10:02:44Z"
+    },
+    "7C--jsc7VbI": {
+      "videoId": "7C--jsc7VbI",
+      "title": "두바퀴로 달리는 신조선통신사",
+      "description": "일본국대한민국대사관과 부산문화재단은 올해 한·일 국교 정상화 50주년 기념사업의 하나로 오는 10월 11일부터 11월 3일까지 '두 바퀴로 달리는 신조선통신사' 행사를 개최했다. / 취재 민봉기 기자 편집 김채호 기자\n\n\"차가워진 韓·日관계… 우리의 두 바퀴로 빛을 비추겠다\"\n\nhttp://news.chosun.com/site/data/html_dir/2015/10/12/2015101200184.html",
+      "publishedAt": "2015-10-11T09:00:21Z",
+      "duration": "PT1M35S",
+      "viewCount": 669,
+      "likeCount": 1,
+      "commentCount": 0,
+      "tags": [],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2015-10-11T09:00:21Z",
+      "channelId": "UCdp4_yTBhQmB8E339Lafzow",
+      "channelName": "조선일보",
+      "collectedAt": "2025-09-03T10:02:44Z"
     }
   },
   "channels": {
@@ -203,9 +241,36 @@
       "viewCount": 17649222300,
       "videoCount": 890317,
       "lastUpdated": "2025-08-29T02:43:36.398016Z"
+    },
+    "UCdp4_yTBhQmB8E339Lafzow": {
+      "channelId": "UCdp4_yTBhQmB8E339Lafzow",
+      "channelName": "조선일보",
+      "channelUrl": "@chosunmedia",
+      "channelDescription": " 조선일보 공식 유튜브 채널",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 1700000,
+      "viewCount": 1669752256,
+      "videoCount": 22783,
+      "lastUpdated": "2025-09-03T10:02:44.671281Z"
     }
   },
-  "lastUpdated": "2025-08-29T02:43:36.398016Z",
-  "totalVideos": 7,
-  "totalChannels": 2
+  "lastUpdated": "2025-09-03T10:02:44.671281Z",
+  "totalVideos": 9,
+  "totalChannels": 3
 }

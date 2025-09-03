@@ -139,6 +139,29 @@
       "channelId": "UCfq4V1DAuaojnr2ryvWNysw",
       "channelName": "채널A News",
       "collectedAt": "2025-08-26T12:50:34Z"
+    },
+    "CNVbX54eccM": {
+      "videoId": "CNVbX54eccM",
+      "title": "[경향신문]어느새 봄이 성큼 '봄꽃 찾아가세요'",
+      "description": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=201304011639391&code=940100\n\n본격적인 봄을 알리는 4월의 첫째날. 도심 한복판에 형형색색 봄꽃과 나무들이 주인들을 기다리고 있다.\n\n1일 서울광장에서 '서울, 꽃으로 피다' 행사의 일환으로 '봄꽃·나무 시장'이 열려 나들이 나온 시민들의 시선을 사로잡았다.\n\n이번 행사는 새집증후군 예방을 위한 실내원예 전시·판매 및 우리 꽃·나무와 가정 원예자재 판매, 사이버 나무심기 체험 등 다양한 볼거리와 체험 거리로 꾸며졌다.\n\n행사장에는 원예 및 임업 전문가들이 꽃·나무의 식재 장소별 종류 선택, 심는 방법, 가꾸는 요령 상담과 기술도 상담해준다. 현장에서 구매한 화분을 이용한 꽃심기, 분갈이 등도 체험할 수 있다. 특히 우수한 품질의 제품을 중간 유통과정 없이 직접 소비자에게 판매해 시중보다 10~20% 저렴하게 구입할 수 있다.\n\n농촌진흥청,서울시 산림조합,(사)한국화훼협회, 한국자생식물생산자협의회가 주관하는 행사는 오는 6일까지 진행된다.\n\n〈채용민 PD〉",
+      "publishedAt": "2013-04-01T07:09:28Z",
+      "duration": "PT1M2S",
+      "viewCount": 3059,
+      "likeCount": 2,
+      "commentCount": 0,
+      "tags": [
+        "경향신문",
+        "서울광장",
+        "봄",
+        "봄꽃",
+        "꽃시장"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2013-04-01T07:09:28Z",
+      "channelId": "UCHXvjavEtkPFJCfGlm0wTXw",
+      "channelName": "경향티비",
+      "collectedAt": "2025-09-03T10:02:31Z"
     }
   },
   "channels": {
@@ -195,9 +218,36 @@
       "viewCount": 6198116921,
       "videoCount": 143713,
       "lastUpdated": "2025-08-26T12:50:34.800635Z"
+    },
+    "UCHXvjavEtkPFJCfGlm0wTXw": {
+      "channelId": "UCHXvjavEtkPFJCfGlm0wTXw",
+      "channelName": "경향티비",
+      "channelUrl": "@thekyunghyangtv",
+      "channelDescription": "더 나은 세상을 위해 우리가 알아야 할 이야기\n경향신문 공식 채널\n\n🚨 [정치비상구] 출구없는 극단 정치, 비상구를 열어드립니다\n🎙️ 매주 월-금 오후 4시 라이브 ｜ 토요특별판 낮 12시\n🎙️ 정치인물사담회 '인물비상구' 일요일 오후 4시\n 📞광고/제휴 문의 : insaps10@gmail.com\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/6Wlbqcuxx1ESFI2U-gQqhHyYpJ-PiWgqyjotWwD9VN5JygRnIuUvZE1LjUMwKNbb5LqRCEM4kpQ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/6Wlbqcuxx1ESFI2U-gQqhHyYpJ-PiWgqyjotWwD9VN5JygRnIuUvZE1LjUMwKNbb5LqRCEM4kpQ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/6Wlbqcuxx1ESFI2U-gQqhHyYpJ-PiWgqyjotWwD9VN5JygRnIuUvZE1LjUMwKNbb5LqRCEM4kpQ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 537000,
+      "viewCount": 354014202,
+      "videoCount": 11630,
+      "lastUpdated": "2025-09-03T10:02:31.208049Z"
     }
   },
-  "lastUpdated": "2025-08-26T12:50:34.804496Z",
-  "totalVideos": 6,
-  "totalChannels": 2
+  "lastUpdated": "2025-09-03T10:02:31.208049Z",
+  "totalVideos": 7,
+  "totalChannels": 3
 }

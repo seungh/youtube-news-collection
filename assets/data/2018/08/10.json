@@ -10556,6 +10556,32 @@
       "channelId": "UCTHCOPwqNfZ0uiKOvFyhGwg",
       "channelName": "연합뉴스TV",
       "collectedAt": "2025-08-29T02:43:19Z"
+    },
+    "wcrsj5yAoCk": {
+      "videoId": "wcrsj5yAoCk",
+      "title": "[부동산 직톡] \"어~ 내 집이 생길 수도\" 결혼 7년 이내라면 주목! 이 아파트",
+      "description": "",
+      "publishedAt": "2018-08-10T10:10:06Z",
+      "duration": "PT10M40S",
+      "viewCount": 2312,
+      "likeCount": 18,
+      "commentCount": 1,
+      "tags": [
+        "신혼희망타운",
+        "신혼부부특별분양",
+        "신혼부부",
+        "청약가점제",
+        "청약아파트",
+        "박원갑",
+        "직톡",
+        "땅집고"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2018-08-10T10:10:06Z",
+      "channelId": "UCdp4_yTBhQmB8E339Lafzow",
+      "channelName": "조선일보",
+      "collectedAt": "2025-09-03T10:02:43Z"
     }
   },
   "channels": {
@@ -10936,9 +10962,36 @@
       "viewCount": 3351994752,
       "videoCount": 627296,
       "lastUpdated": "2025-08-29T02:43:19.665904Z"
+    },
+    "UCdp4_yTBhQmB8E339Lafzow": {
+      "channelId": "UCdp4_yTBhQmB8E339Lafzow",
+      "channelName": "조선일보",
+      "channelUrl": "@chosunmedia",
+      "channelDescription": " 조선일보 공식 유튜브 채널",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 1700000,
+      "viewCount": 1669752256,
+      "videoCount": 22783,
+      "lastUpdated": "2025-09-03T10:02:43.482101Z"
     }
   },
-  "lastUpdated": "2025-08-29T02:43:19.666911Z",
-  "totalVideos": 301,
-  "totalChannels": 14
+  "lastUpdated": "2025-09-03T10:02:43.482101Z",
+  "totalVideos": 302,
+  "totalChannels": 15
 }

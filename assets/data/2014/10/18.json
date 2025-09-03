@@ -41,6 +41,30 @@
       "channelId": "UChlgI3UHCOnwUGzWzbJ3H5w",
       "channelName": " YTN",
       "collectedAt": "2025-08-27T19:05:18Z"
+    },
+    "KX5xBGS8GtE": {
+      "videoId": "KX5xBGS8GtE",
+      "title": "간호사관 생도 ‘나이팅게일’선서",
+      "description": "국군간호사관학교 57기 생도들은 17일 오후 교내 백합관 강당에서 나이팅게일 선서식을 했다. 이날 선서식에서 2학년 생도 81명은 촛불을 밝혀 들고 참된 간호인이자 군인으로서의 임무를 다하겠다고 서약했다. /신현종 기자",
+      "publishedAt": "2014-10-17T16:04:13Z",
+      "duration": "PT1M26S",
+      "viewCount": 17642,
+      "likeCount": 34,
+      "commentCount": 6,
+      "tags": [
+        "국군간호사관학교",
+        "나이팅게일",
+        "간호군인",
+        "간호사관 생도",
+        "신현종",
+        "조선일보"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2014-10-17T16:04:13Z",
+      "channelId": "UCdp4_yTBhQmB8E339Lafzow",
+      "channelName": "조선일보",
+      "collectedAt": "2025-09-03T10:02:45Z"
     }
   },
   "channels": {
@@ -70,9 +94,36 @@
       "viewCount": 17649222300,
       "videoCount": 890317,
       "lastUpdated": "2025-08-29T02:43:54.717482Z"
+    },
+    "UCdp4_yTBhQmB8E339Lafzow": {
+      "channelId": "UCdp4_yTBhQmB8E339Lafzow",
+      "channelName": "조선일보",
+      "channelUrl": "@chosunmedia",
+      "channelDescription": " 조선일보 공식 유튜브 채널",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 1700000,
+      "viewCount": 1669752256,
+      "videoCount": 22783,
+      "lastUpdated": "2025-09-03T10:02:45.611676Z"
     }
   },
-  "lastUpdated": "2025-08-29T02:43:54.717482Z",
-  "totalVideos": 2,
-  "totalChannels": 1
+  "lastUpdated": "2025-09-03T10:02:45.611676Z",
+  "totalVideos": 3,
+  "totalChannels": 2
 }

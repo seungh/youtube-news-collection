@@ -9651,6 +9651,40 @@
       "channelId": "UCTHCOPwqNfZ0uiKOvFyhGwg",
       "channelName": "연합뉴스TV",
       "collectedAt": "2025-08-29T02:43:19Z"
+    },
+    "l96bGFXTTeQ": {
+      "videoId": "l96bGFXTTeQ",
+      "title": "[화정평화재단] 이종석 전 통일부 장관의 '종전선언과 한반도 평화'",
+      "description": "▼ 동아일보 SNS\n\n· 동아일보 네이버 포스트\nhttp://post.naver.com/\n\n· 동아일보 페이스북\nhttps://www.facebook.com/dongamedia/\n\n· 동아일보 인스타그램\nhttps://www.instagram.com/dongailbo/\n\n· 동아일보 카카오스토리\nhttps://story.kakao.com/ch/dongamedia",
+      "publishedAt": "2018-08-27T02:34:01Z",
+      "duration": "PT2M33S",
+      "viewCount": 244,
+      "likeCount": 2,
+      "commentCount": 0,
+      "tags": [],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2018-08-27T02:34:01Z",
+      "channelId": "UCnHyx6H7fhKfUoAAaVGYvxQ",
+      "channelName": "동아일보",
+      "collectedAt": "2025-09-03T10:00:54Z"
+    },
+    "gRnqRm_AEUs": {
+      "videoId": "gRnqRm_AEUs",
+      "title": "가르멜수도회 한국관구장 윤주현 신부",
+      "description": "▼ 동아일보 SNS\n\n· 동아일보 네이버 포스트\nhttp://post.naver.com/\n\n· 동아일보 페이스북\nhttps://www.facebook.com/dongamedia/\n\n· 동아일보 인스타그램\nhttps://www.instagram.com/dongailbo/\n\n· 동아일보 카카오스토리\nhttps://story.kakao.com/ch/dongamedia",
+      "publishedAt": "2018-08-27T01:50:50Z",
+      "duration": "PT1M45S",
+      "viewCount": 2202,
+      "likeCount": 41,
+      "commentCount": 0,
+      "tags": [],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2018-08-27T01:50:50Z",
+      "channelId": "UCnHyx6H7fhKfUoAAaVGYvxQ",
+      "channelName": "동아일보",
+      "collectedAt": "2025-09-03T10:00:54Z"
     }
   },
   "channels": {
@@ -10031,9 +10065,36 @@
       "viewCount": 3351994752,
       "videoCount": 627296,
       "lastUpdated": "2025-08-29T02:43:19.356979Z"
+    },
+    "UCnHyx6H7fhKfUoAAaVGYvxQ": {
+      "channelId": "UCnHyx6H7fhKfUoAAaVGYvxQ",
+      "channelName": "동아일보",
+      "channelUrl": "@donga-ilbo",
+      "channelDescription": "동아일보 공식 유튜브 채널입니다. \n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/S1eWLrew2Jjv-JLrGqkADPNPJF5u7qzpYE3o8_NoLbH7fVTjtFm9TYlxfOjbB3dH5Lw6qKM-MQ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/S1eWLrew2Jjv-JLrGqkADPNPJF5u7qzpYE3o8_NoLbH7fVTjtFm9TYlxfOjbB3dH5Lw6qKM-MQ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/S1eWLrew2Jjv-JLrGqkADPNPJF5u7qzpYE3o8_NoLbH7fVTjtFm9TYlxfOjbB3dH5Lw6qKM-MQ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 107000,
+      "viewCount": 47341564,
+      "videoCount": 4079,
+      "lastUpdated": "2025-09-03T10:00:54.563080Z"
     }
   },
-  "lastUpdated": "2025-08-29T02:43:19.356979Z",
-  "totalVideos": 294,
-  "totalChannels": 14
+  "lastUpdated": "2025-09-03T10:00:54.564077Z",
+  "totalVideos": 296,
+  "totalChannels": 15
 }

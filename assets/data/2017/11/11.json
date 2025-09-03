@@ -814,6 +814,37 @@
       "channelId": "UCTHCOPwqNfZ0uiKOvFyhGwg",
       "channelName": "연합뉴스TV",
       "collectedAt": "2025-08-29T02:43:14Z"
+    },
+    "DulxnHxumhc": {
+      "videoId": "DulxnHxumhc",
+      "title": "[Gender] 트랜스젠더, 미국 주의원에 당선되다",
+      "description": "지난 11월 7일 미국 버지니아, 뉴저지 주(州) 및 뉴욕 시 등 일부 지역에서 '미니 지방선거'가 열렸다. 내년 중간선거 표심을 가늠하는 전초전으로 여겨졌던 이번 선거에서는 민주당이 주요 경합 지역을 싹쓸이하면서 압승을 거뒀다.\n\n'트럼프 정부에 대한 첫 번째 일격'이란 평가를 받은 이번 선거 결과에서 눈길을 끈 이가 따로 있다. 바로 트랜스젠더로는 최초로 미국 연방 하원에 진출한 대니 로엠(33)이 바로 그 주인공이다.\n\n기자 출신으로 2012년 남성으로 성전환 수술을 받은 뒤 이듬해 커밍아웃한 로엠은 지난 26년간 재임한 공화당 현직 밥 마샬(73) 의원을 9% 포인트 차이로 제치고 당선되었다.\n\n로엠은 \"교통 체증은 젠더 정체성과는 무관하다\"며 성소수자뿐만 아니라 모두의 실생활과 연관된 정책을 펼 것이라며 당선 포부를 밝혔다.",
+      "publishedAt": "2017-11-10T22:41:27Z",
+      "duration": "PT1M13S",
+      "viewCount": 2949,
+      "likeCount": 68,
+      "commentCount": 5,
+      "tags": [
+        "트랜스젠더",
+        "트젠",
+        "정치",
+        "미국",
+        "버지니아",
+        "하원의원",
+        "지방선거",
+        "트랜스젠더 정치인",
+        "LGBT",
+        "LGBTQ",
+        "퀴어",
+        "로엠",
+        "대니로엠"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2017-11-10T22:41:27Z",
+      "channelId": "UC1aS5CRRDrN6CmR2VcpmetA",
+      "channelName": "한국일보(hankookilbo.com)",
+      "collectedAt": "2025-09-03T10:01:35Z"
     }
   },
   "channels": {
@@ -1005,9 +1036,36 @@
       "viewCount": 3351994752,
       "videoCount": 627296,
       "lastUpdated": "2025-08-29T02:43:14.462632Z"
+    },
+    "UC1aS5CRRDrN6CmR2VcpmetA": {
+      "channelId": "UC1aS5CRRDrN6CmR2VcpmetA",
+      "channelName": "한국일보(hankookilbo.com)",
+      "channelUrl": "@thehankookilbo",
+      "channelDescription": "'공존, 통합, 사람'의 정신으로 앞장서는 국내 유일 중도 정론지 한국일보입니다.\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ppj3UlPuwNq5DyUWNFz27Vc6WoIrRpRI2IMHc9MZ3UqkNVWcXrT83qJTU3bAweA3BOodFu4Euf0=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ppj3UlPuwNq5DyUWNFz27Vc6WoIrRpRI2IMHc9MZ3UqkNVWcXrT83qJTU3bAweA3BOodFu4Euf0=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ppj3UlPuwNq5DyUWNFz27Vc6WoIrRpRI2IMHc9MZ3UqkNVWcXrT83qJTU3bAweA3BOodFu4Euf0=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 362000,
+      "viewCount": 296027619,
+      "videoCount": 6196,
+      "lastUpdated": "2025-09-03T10:01:35.535135Z"
     }
   },
-  "lastUpdated": "2025-08-29T02:43:14.462632Z",
-  "totalVideos": 31,
-  "totalChannels": 7
+  "lastUpdated": "2025-09-03T10:01:35.535135Z",
+  "totalVideos": 32,
+  "totalChannels": 8
 }

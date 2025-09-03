@@ -4129,6 +4129,28 @@
       "channelId": "UCTHCOPwqNfZ0uiKOvFyhGwg",
       "channelName": "연합뉴스TV",
       "collectedAt": "2025-08-29T02:42:53Z"
+    },
+    "oMfhEBVe5Ek": {
+      "videoId": "oMfhEBVe5Ek",
+      "title": "[기사+]  롯데월드타워 “평화의 불빛, Go. Together!” 불꽃축제",
+      "description": "▼ 동아일보 SNS\n\n· 동아일보 네이버 포스트\nhttp://post.naver.com/my.nhn?memberNo...\n\n· 동아일보 페이스북\nhttps://www.facebook.com/dongamedia/\n\n· 동아일보 인스타그램\nhttps://www.instagram.com/dongailbo/",
+      "publishedAt": "2019-05-05T08:13:01Z",
+      "duration": "PT4M12S",
+      "viewCount": 4062,
+      "likeCount": 1,
+      "commentCount": 0,
+      "tags": [
+        "동아일보",
+        "롯데월드",
+        "불빛",
+        "불꽃축제"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2019-05-05T08:13:01Z",
+      "channelId": "UCnHyx6H7fhKfUoAAaVGYvxQ",
+      "channelName": "동아일보",
+      "collectedAt": "2025-09-03T10:00:51Z"
     }
   },
   "channels": {
@@ -4401,9 +4423,36 @@
       "viewCount": 3278386064,
       "videoCount": 233358,
       "lastUpdated": "2025-08-29T02:42:53.793914Z"
+    },
+    "UCnHyx6H7fhKfUoAAaVGYvxQ": {
+      "channelId": "UCnHyx6H7fhKfUoAAaVGYvxQ",
+      "channelName": "동아일보",
+      "channelUrl": "@donga-ilbo",
+      "channelDescription": "동아일보 공식 유튜브 채널입니다. \n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/S1eWLrew2Jjv-JLrGqkADPNPJF5u7qzpYE3o8_NoLbH7fVTjtFm9TYlxfOjbB3dH5Lw6qKM-MQ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/S1eWLrew2Jjv-JLrGqkADPNPJF5u7qzpYE3o8_NoLbH7fVTjtFm9TYlxfOjbB3dH5Lw6qKM-MQ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/S1eWLrew2Jjv-JLrGqkADPNPJF5u7qzpYE3o8_NoLbH7fVTjtFm9TYlxfOjbB3dH5Lw6qKM-MQ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 107000,
+      "viewCount": 47341564,
+      "videoCount": 4079,
+      "lastUpdated": "2025-09-03T10:00:51.338798Z"
     }
   },
-  "lastUpdated": "2025-08-29T02:42:53.794911Z",
-  "totalVideos": 128,
-  "totalChannels": 10
+  "lastUpdated": "2025-09-03T10:00:51.338798Z",
+  "totalVideos": 129,
+  "totalChannels": 11
 }

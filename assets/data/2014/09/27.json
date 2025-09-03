@@ -706,6 +706,56 @@
       "channelId": "UChlgI3UHCOnwUGzWzbJ3H5w",
       "channelName": " YTN",
       "collectedAt": "2025-08-27T19:05:18Z"
+    },
+    "KEXyyBFjlE4": {
+      "videoId": "KEXyyBFjlE4",
+      "title": "적기를 향해 날아가는 호크미사일",
+      "description": "26일 오전 충남 보령 공군 대공사격장에서 호크 미사일이 발사되고 있다. 이 날 공군은 가상의 적 항공기인 무인표적기에 호크 미사일을 발사해 명중시켰다. /신현종 기자",
+      "publishedAt": "2014-09-26T16:49:21Z",
+      "duration": "PT1M19S",
+      "viewCount": 5617,
+      "likeCount": 9,
+      "commentCount": 1,
+      "tags": [
+        "호크 미사일",
+        "패트리어트 미사일",
+        "공군 화력 시범",
+        "신현종",
+        "조선일보"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2014-09-26T16:49:21Z",
+      "channelId": "UCdp4_yTBhQmB8E339Lafzow",
+      "channelName": "조선일보",
+      "collectedAt": "2025-09-03T10:02:45Z"
+    },
+    "odNlJ_AeQX4": {
+      "videoId": "odNlJ_AeQX4",
+      "title": "공군, 패트리어트 미사일 2발 요격 성공",
+      "description": "26일 오전 충남 보령 공군 대공사격장에서 패트리엇 미사일이 발사되고 있다. 이 날 공군은 가상 적 항공기인 무인표적기에 패트리엇 미사일 2발을 발사해 모두 명중시켰다. /신현종 기자",
+      "publishedAt": "2014-09-26T15:12:19Z",
+      "duration": "PT1M17S",
+      "viewCount": 14334,
+      "likeCount": 17,
+      "commentCount": 0,
+      "tags": [
+        "공군",
+        "패트리엇",
+        "패트리어트 미사일",
+        "요격 미사일",
+        "방공유도탄",
+        "공군 화력시범",
+        "호크 미사일",
+        "신현종",
+        "조선일보"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2014-09-26T15:12:19Z",
+      "channelId": "UCdp4_yTBhQmB8E339Lafzow",
+      "channelName": "조선일보",
+      "collectedAt": "2025-09-03T10:02:45Z"
     }
   },
   "channels": {
@@ -789,9 +839,36 @@
       "viewCount": 17649222300,
       "videoCount": 890317,
       "lastUpdated": "2025-08-29T02:43:54.777278Z"
+    },
+    "UCdp4_yTBhQmB8E339Lafzow": {
+      "channelId": "UCdp4_yTBhQmB8E339Lafzow",
+      "channelName": "조선일보",
+      "channelUrl": "@chosunmedia",
+      "channelDescription": " 조선일보 공식 유튜브 채널",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 1700000,
+      "viewCount": 1669752256,
+      "videoCount": 22783,
+      "lastUpdated": "2025-09-03T10:02:45.669166Z"
     }
   },
-  "lastUpdated": "2025-08-29T02:43:54.777278Z",
-  "totalVideos": 18,
-  "totalChannels": 3
+  "lastUpdated": "2025-09-03T10:02:45.669166Z",
+  "totalVideos": 20,
+  "totalChannels": 4
 }

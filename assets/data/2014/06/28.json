@@ -803,6 +803,82 @@
       "channelId": "UChlgI3UHCOnwUGzWzbJ3H5w",
       "channelName": " YTN",
       "collectedAt": "2025-08-27T19:05:19Z"
+    },
+    "wGAwyHFbiLE": {
+      "videoId": "wGAwyHFbiLE",
+      "title": "송하진 전북지사 당선자,  '300만 전북'시대 부활'",
+      "description": "송하진 전북지사 당선자가 전북 전주시 팔복동 신기술연수센터 5층 당선자 사무실에서 가진 인터뷰에서'사람과 돈이 모이는 300만 시대' '연간 관광객 1억 명 시대' 등 전북의 청사진을 밝혔다. /신현종 기자\n\n\"인구 300만명 회복... 2030년까지 새만금 완공\"\n\nhttp://news.chosun.com/site/data/html_dir/2014/06/27/2014062700250.html",
+      "publishedAt": "2014-06-27T17:19:16Z",
+      "duration": "PT2M37S",
+      "viewCount": 232,
+      "likeCount": 1,
+      "commentCount": 0,
+      "tags": [
+        "송하진",
+        "전북지사",
+        "새정치민주연합",
+        "지방선거",
+        "전라북도",
+        "신현종",
+        "조선일보"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2014-06-27T17:19:16Z",
+      "channelId": "UCdp4_yTBhQmB8E339Lafzow",
+      "channelName": "조선일보",
+      "collectedAt": "2025-09-03T10:02:46Z"
+    },
+    "mt445QoYyJI": {
+      "videoId": "mt445QoYyJI",
+      "title": "터널사고 훈련 '실전방불'",
+      "description": "대전 서구 월평동 도솔터널에서 열린 터널 내 대형 교통사고 대비 훈련에서 현장에 신속하게 출동한 경찰 신속대응팀과 119구급대원들이 중상자를 구조해 이송하고 있다. /신현종 기자",
+      "publishedAt": "2014-06-27T17:15:07Z",
+      "duration": "PT1M17S",
+      "viewCount": 1434,
+      "likeCount": 1,
+      "commentCount": 0,
+      "tags": [
+        "터널사고",
+        "터널화재",
+        "터널교통사고",
+        "실전훈련",
+        "실전방불",
+        "신현종",
+        "조선일보"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2014-06-27T17:15:07Z",
+      "channelId": "UCdp4_yTBhQmB8E339Lafzow",
+      "channelName": "조선일보",
+      "collectedAt": "2025-09-03T10:02:46Z"
+    },
+    "mIoo40Jamls": {
+      "videoId": "mIoo40Jamls",
+      "title": "6.25 유해 발굴 유품 전시",
+      "description": "국립대전현충원에서 열린 6·25 전사자 유해발굴 사진 및 유품 전시회를 찾은 시민들이 전사자의 유품을 관람하고 있다. /신현종 기자",
+      "publishedAt": "2014-06-27T17:13:30Z",
+      "duration": "PT1M19S",
+      "viewCount": 82283,
+      "likeCount": 287,
+      "commentCount": 94,
+      "tags": [
+        "북한소총",
+        "북한군",
+        "북한장비",
+        "유해발굴",
+        "6.25전사자",
+        "전사자유품",
+        "신현종",
+        "조선일보"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2014-06-27T17:13:30Z",
+      "channelId": "UCdp4_yTBhQmB8E339Lafzow",
+      "channelName": "조선일보",
+      "collectedAt": "2025-09-03T10:02:46Z"
     }
   },
   "channels": {
@@ -913,9 +989,36 @@
       "viewCount": 17649222300,
       "videoCount": 890317,
       "lastUpdated": "2025-08-29T02:43:55.037223Z"
+    },
+    "UCdp4_yTBhQmB8E339Lafzow": {
+      "channelId": "UCdp4_yTBhQmB8E339Lafzow",
+      "channelName": "조선일보",
+      "channelUrl": "@chosunmedia",
+      "channelDescription": " 조선일보 공식 유튜브 채널",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 1700000,
+      "viewCount": 1669752256,
+      "videoCount": 22783,
+      "lastUpdated": "2025-09-03T10:02:46.179570Z"
     }
   },
-  "lastUpdated": "2025-08-29T02:43:55.037223Z",
-  "totalVideos": 19,
-  "totalChannels": 4
+  "lastUpdated": "2025-09-03T10:02:46.179570Z",
+  "totalVideos": 22,
+  "totalChannels": 5
 }

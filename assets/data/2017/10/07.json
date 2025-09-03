@@ -767,6 +767,23 @@
       "channelId": "UCTHCOPwqNfZ0uiKOvFyhGwg",
       "channelName": "연합뉴스TV",
       "collectedAt": "2025-08-29T02:43:14Z"
+    },
+    "TJDL0V7hC3c": {
+      "videoId": "TJDL0V7hC3c",
+      "title": "인공지능(AI)이 잘못하면 책임은 누가? [Video C]",
+      "description": "인공지능(AI)이 잘못하면 누구 책임?\n\n지난6일 '인공지능(AI) 의사' *왓슨이 오진을 내리면 이에 대한 법적 책임은 인간에게 있다는 분석이 나왔다.\n\n왓슨은 빅데이터를 바탕으로 성공 가능성이 큰 치료법을 암환자에게 제시하는 인공지능 프로그램이다.\n\n왓슨의 의견은 인간 의사와 80~90% 일치하는데 상당수 환자가 의사와 왓슨의 의견이 다를 경우 왓슨의 의견을 따를 만큼 신뢰도 얻고 있다.\n\n하지만 10~20%의 경우 왓슨의 의견이 잘못돼 '업무상 과실치사'등 형사책임이 발생 할 수 있으며 이에 대하 책임을 누가 질지 등에 대한 법적 문제가 예상됐다.\n\n이에 대해 장연화 인하대 로스쿨 교수는 \"왓슨의 법적 인격이 부정되는 현행법상 왓슨을 이용한 의사가 책임을 져야한다\"고 주장했다.\n\n2020년을 전후로 상용화 된다는 자율주행 자동차의 경우는 어떨까\n\n미국 자동차 공학회는 자율주행 자동차 기술을 레벨 0~5단까지 6단계로 구분하는데 현존 기술은 레벨 2단계 수준으로 사고시 운전자에게 책임이 있다는 것이 중론이다. \n\n(레벨 0은 인간이 모든 것을 통제하는 전통적 주행, 레벨 5는 인간이 일절 개입하지 않는 완전자율주행이다)\n\n하지만 미국 캘리포니아주에서는 레벨 4처럼 운전자 개입이 불필요한 자율주행차량의 경우 제조업자에게 책임을 묻고, 운전자에게 별도의 면허를 취득하게 하는 방안이 추진 중이다.\n\n한편 우리나라에서도 AI가 의료, 법조, 컨설팅, 교통 등 다양한 분야에서 인간의 영역을 대체하면서 책임 소재에 대한 법적 근거가 마련되어야 한다는 지적이 나오고 있다.\n\n/ 김유섭 기자",
+      "publishedAt": "2017-10-07T09:16:48Z",
+      "duration": "PT1M10S",
+      "viewCount": 3820,
+      "likeCount": 22,
+      "commentCount": 0,
+      "tags": [],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2017-10-07T09:16:48Z",
+      "channelId": "UCdp4_yTBhQmB8E339Lafzow",
+      "channelName": "조선일보",
+      "collectedAt": "2025-09-03T10:02:43Z"
     }
   },
   "channels": {
@@ -931,9 +948,36 @@
       "viewCount": 3351994752,
       "videoCount": 627296,
       "lastUpdated": "2025-08-29T02:43:14.595912Z"
+    },
+    "UCdp4_yTBhQmB8E339Lafzow": {
+      "channelId": "UCdp4_yTBhQmB8E339Lafzow",
+      "channelName": "조선일보",
+      "channelUrl": "@chosunmedia",
+      "channelDescription": " 조선일보 공식 유튜브 채널",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 1700000,
+      "viewCount": 1669752256,
+      "videoCount": 22783,
+      "lastUpdated": "2025-09-03T10:02:43.983514Z"
     }
   },
-  "lastUpdated": "2025-08-29T02:43:14.595912Z",
-  "totalVideos": 31,
-  "totalChannels": 6
+  "lastUpdated": "2025-09-03T10:02:43.983514Z",
+  "totalVideos": 32,
+  "totalChannels": 7
 }

@@ -9443,6 +9443,40 @@
       "channelId": "UCTHCOPwqNfZ0uiKOvFyhGwg",
       "channelName": "연합뉴스TV",
       "collectedAt": "2025-08-29T02:43:19Z"
+    },
+    "0Epi9sJZyvA": {
+      "videoId": "0Epi9sJZyvA",
+      "title": "[현장+] 주민과 마찰 빚는 주택가 ‘애견 시설물’…",
+      "description": "▼ 기사 링크\n\nhttp://news.donga.com/3/all/20180904/91822439/1\n\n\n▼ 동아일보 SNS\n\n· 동아일보 네이버 포스트\nhttp://post.naver.com/my.nhn?memberNo=11291600\n\n· 동아일보 페이스북\nhttps://www.facebook.com/dongamedia/\n\n· 동아일보 인스타그램\nhttps://www.instagram.com/dongailbo/\n\n· 동아일보 카카오스토리\nhttps://story.kakao.com/ch/dongamedia",
+      "publishedAt": "2018-09-03T09:08:36Z",
+      "duration": "PT1M56S",
+      "viewCount": 56584,
+      "likeCount": 15,
+      "commentCount": 3,
+      "tags": [],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2018-09-03T09:08:36Z",
+      "channelId": "UCnHyx6H7fhKfUoAAaVGYvxQ",
+      "channelName": "동아일보",
+      "collectedAt": "2025-09-03T10:00:25Z"
+    },
+    "Fdfxj2Yc5Io": {
+      "videoId": "Fdfxj2Yc5Io",
+      "title": "[사람+]양동근 인터뷰",
+      "description": "▼ 동아일보 SNS\n\n· 동아일보 네이버 포스트\nhttp://post.naver.com/\n\n· 동아일보 페이스북\nhttps://www.facebook.com/dongamedia/\n\n· 동아일보 인스타그램\nhttps://www.instagram.com/dongailbo/\n\n· 동아일보 카카오스토리\nhttps://story.kakao.com/ch/dongamedia",
+      "publishedAt": "2018-09-03T00:58:12Z",
+      "duration": "PT1M4S",
+      "viewCount": 471,
+      "likeCount": 3,
+      "commentCount": 0,
+      "tags": [],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2018-09-03T00:58:12Z",
+      "channelId": "UCnHyx6H7fhKfUoAAaVGYvxQ",
+      "channelName": "동아일보",
+      "collectedAt": "2025-09-03T10:00:25Z"
     }
   },
   "channels": {
@@ -9796,9 +9830,36 @@
       "viewCount": 3351994752,
       "videoCount": 627296,
       "lastUpdated": "2025-08-29T02:43:19.047201Z"
+    },
+    "UCnHyx6H7fhKfUoAAaVGYvxQ": {
+      "channelId": "UCnHyx6H7fhKfUoAAaVGYvxQ",
+      "channelName": "동아일보",
+      "channelUrl": "@donga-ilbo",
+      "channelDescription": "동아일보 공식 유튜브 채널입니다. \n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/S1eWLrew2Jjv-JLrGqkADPNPJF5u7qzpYE3o8_NoLbH7fVTjtFm9TYlxfOjbB3dH5Lw6qKM-MQ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/S1eWLrew2Jjv-JLrGqkADPNPJF5u7qzpYE3o8_NoLbH7fVTjtFm9TYlxfOjbB3dH5Lw6qKM-MQ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/S1eWLrew2Jjv-JLrGqkADPNPJF5u7qzpYE3o8_NoLbH7fVTjtFm9TYlxfOjbB3dH5Lw6qKM-MQ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 107000,
+      "viewCount": 47341564,
+      "videoCount": 4079,
+      "lastUpdated": "2025-09-03T10:00:25.795040Z"
     }
   },
-  "lastUpdated": "2025-08-29T02:43:19.047201Z",
-  "totalVideos": 289,
-  "totalChannels": 13
+  "lastUpdated": "2025-09-03T10:00:25.795040Z",
+  "totalVideos": 291,
+  "totalChannels": 14
 }

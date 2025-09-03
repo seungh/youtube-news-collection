@@ -4210,6 +4210,60 @@
       "channelId": "UCTHCOPwqNfZ0uiKOvFyhGwg",
       "channelName": "연합뉴스TV",
       "collectedAt": "2025-08-29T02:43:12Z"
+    },
+    "O6MsFj3uzIo": {
+      "videoId": "O6MsFj3uzIo",
+      "title": "'여학생을 위한 학교는 없다' 우리가 스쿨미투에 뛰어든 이유",
+      "description": "\"이제는 수업시간에 농담 한마디도 못하겠다~ 선생님 인생 망치려고 그래?\" \"지나고 보니 성희롱 당한 것도 다 추억이지 않니?\" \"남학생들 대학 못가게 하려고 그러는 거 아냐?\"\n지난 4월, 서울 노원구 용화여고 학생들의 교내 성폭력 고발을 시작으로 스쿨미투 운동은 전국적으로 확산됐습니다. 용화여고의 경우 교사 18명이 성폭력으로 파면, 해임 등의 징계를 받았지만 \n대부분의 학교의 경우 고발 이후 상황은 나이지지 않고 있는 현실입니다. 더불어민주당 김해영 의원실의 자료에 따르면 스쿨미투가 제보된 65개교 가운데 전수조사가 실시된 학교는 27개교에 불과했습니다.\n이에 지난 11월 3일 학생의 날을 맞아 학교 내 성폭력 피해 실태를 폭로하는 '여학생을 위한 학교는 없다-스쿨미투 1차 집회'가 열렸습니다. \n당시 현장 발언과 함께 스쿨미투 운동에 참여하고 있는 이들의 이야기를 들어봤습니다.",
+      "publishedAt": "2018-11-10T01:00:00Z",
+      "duration": "PT7M49S",
+      "viewCount": 8612,
+      "likeCount": 618,
+      "commentCount": 70,
+      "tags": [
+        "스쿨미투",
+        "노원 스쿨미투",
+        "용화여고",
+        "노원 포스트잇",
+        "포스트잇",
+        "용화여고포스트잇",
+        "미투",
+        "미투운동",
+        "스쿨미투운동",
+        "성폭력운동",
+        "성폭력",
+        "성희롱",
+        "성추행",
+        "교사성희롱",
+        "교사 성추행",
+        "남학생",
+        "여학생",
+        "여학생을 위한 학교는 없다",
+        "청소년",
+        "청소년운동",
+        "비청소년",
+        "METOO",
+        "METOOWITHYOU",
+        "WITHYOU",
+        "집회",
+        "시위",
+        "학생의날",
+        "용화여고성폭력뿌리뽑기위원회",
+        "schoolmetoo",
+        "teenager movement",
+        "movement",
+        "demonstration",
+        "korea",
+        "korean movement",
+        "korean metoo",
+        "korean school metoo"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2018-11-10T01:00:00Z",
+      "channelId": "UC1aS5CRRDrN6CmR2VcpmetA",
+      "channelName": "한국일보(hankookilbo.com)",
+      "collectedAt": "2025-09-03T10:01:40Z"
     }
   },
   "channels": {
@@ -4536,9 +4590,36 @@
       "viewCount": 3351994752,
       "videoCount": 627296,
       "lastUpdated": "2025-08-29T02:43:12.897279Z"
+    },
+    "UC1aS5CRRDrN6CmR2VcpmetA": {
+      "channelId": "UC1aS5CRRDrN6CmR2VcpmetA",
+      "channelName": "한국일보(hankookilbo.com)",
+      "channelUrl": "@thehankookilbo",
+      "channelDescription": "'공존, 통합, 사람'의 정신으로 앞장서는 국내 유일 중도 정론지 한국일보입니다.\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ppj3UlPuwNq5DyUWNFz27Vc6WoIrRpRI2IMHc9MZ3UqkNVWcXrT83qJTU3bAweA3BOodFu4Euf0=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ppj3UlPuwNq5DyUWNFz27Vc6WoIrRpRI2IMHc9MZ3UqkNVWcXrT83qJTU3bAweA3BOodFu4Euf0=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ppj3UlPuwNq5DyUWNFz27Vc6WoIrRpRI2IMHc9MZ3UqkNVWcXrT83qJTU3bAweA3BOodFu4Euf0=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 362000,
+      "viewCount": 296027619,
+      "videoCount": 6196,
+      "lastUpdated": "2025-09-03T10:01:40.827281Z"
     }
   },
-  "lastUpdated": "2025-08-29T02:43:12.897279Z",
-  "totalVideos": 133,
-  "totalChannels": 12
+  "lastUpdated": "2025-09-03T10:01:40.827281Z",
+  "totalVideos": 134,
+  "totalChannels": 13
 }

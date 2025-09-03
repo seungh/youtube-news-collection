@@ -5128,6 +5128,23 @@
       "channelId": "UCTHCOPwqNfZ0uiKOvFyhGwg",
       "channelName": "연합뉴스TV",
       "collectedAt": "2025-08-29T02:42:32Z"
+    },
+    "4j4fyq3co8I": {
+      "videoId": "4j4fyq3co8I",
+      "title": "“미얀마 국민에게 민주주의를 돌려 달라”",
+      "description": "재한미얀마인들이 7일 오전 서울 성동구 주한 미얀마대사관 무관부 앞에서 열린 ‘미얀마 군부 쿠데타 반대와 민간 정부 정권 이양 촉구 집회’를 하고 있다.미얀마 군부는 군부독재 타도를 외치는 국민적 저항 운동을 막기위해 지난 5일부터 트위터와 인스타그램등 사회관계망서비스(SNS)접속을 차단했다.  김동주 기자 zoo@donga.com",
+      "publishedAt": "2021-02-07T08:30:31Z",
+      "duration": "PT1M3S",
+      "viewCount": 2020,
+      "likeCount": 16,
+      "commentCount": 15,
+      "tags": [],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2021-02-07T08:30:31Z",
+      "channelId": "UCnHyx6H7fhKfUoAAaVGYvxQ",
+      "channelName": "동아일보",
+      "collectedAt": "2025-09-03T10:00:48Z"
     }
   },
   "channels": {
@@ -5508,9 +5525,36 @@
       "viewCount": 3278386064,
       "videoCount": 233358,
       "lastUpdated": "2025-08-29T02:42:32.457126Z"
+    },
+    "UCnHyx6H7fhKfUoAAaVGYvxQ": {
+      "channelId": "UCnHyx6H7fhKfUoAAaVGYvxQ",
+      "channelName": "동아일보",
+      "channelUrl": "@donga-ilbo",
+      "channelDescription": "동아일보 공식 유튜브 채널입니다. \n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/S1eWLrew2Jjv-JLrGqkADPNPJF5u7qzpYE3o8_NoLbH7fVTjtFm9TYlxfOjbB3dH5Lw6qKM-MQ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/S1eWLrew2Jjv-JLrGqkADPNPJF5u7qzpYE3o8_NoLbH7fVTjtFm9TYlxfOjbB3dH5Lw6qKM-MQ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/S1eWLrew2Jjv-JLrGqkADPNPJF5u7qzpYE3o8_NoLbH7fVTjtFm9TYlxfOjbB3dH5Lw6qKM-MQ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 107000,
+      "viewCount": 47341564,
+      "videoCount": 4079,
+      "lastUpdated": "2025-09-03T10:00:48.290678Z"
     }
   },
-  "lastUpdated": "2025-08-29T02:42:32.457126Z",
-  "totalVideos": 159,
-  "totalChannels": 14
+  "lastUpdated": "2025-09-03T10:00:48.290678Z",
+  "totalVideos": 160,
+  "totalChannels": 15
 }

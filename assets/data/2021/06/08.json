@@ -15744,6 +15744,39 @@
       "channelId": "UCTHCOPwqNfZ0uiKOvFyhGwg",
       "channelName": "연합뉴스TV",
       "collectedAt": "2025-08-29T02:42:18Z"
+    },
+    "epZSEGCG1HY": {
+      "videoId": "epZSEGCG1HY",
+      "title": "할머니가 살았던 40년 시골집🏡 30대 손자가 '젊은 시골집'으로 환생시킨 이유는?? [집 공간 사람 : 안성 젊은 시골집]",
+      "description": "어린 시절 추억이 깃든 시골 할머니집을 청년이 된 손자가 직접 리모델링 한다면 어떤 모습일까? 경기 안성시에 사는 신지호 씨는 할머니가 돌아가신 후 세입자들이 살던 시골집을 손수 고쳐 산다.\n\n그는 기존 시골집의 형태와 요소를 최대한 남기고 최소한의 수리와 내부 인테리어만 손보는 리모델링 방법읕 택했다. 그렇게 탄생한 공간은 가족들의 오랜 추억은 보존하고 현대의 거주 편의성은 충분히 갖춘 '젊은 시골집'으로 완성됐다.\n\n30대 손자의 손에서 재탄생한 안성 젊은 시골집의 이야기를 영상으로 만나보자.\n\n[집 공간 사람]\n집은 ‘사고 파는 것’이기 전에 ‘삶을 사는 곳’입니다. 집에 맞춘 삶을 살고 있지는 않나요?\n삶에, 또한 사람에 맞춰 지은 전국의 집을 찾아 소개합니다.",
+      "publishedAt": "2021-06-08T11:00:14Z",
+      "duration": "PT13M7S",
+      "viewCount": 70754,
+      "likeCount": 147,
+      "commentCount": 4,
+      "tags": [
+        "건축",
+        "설계",
+        "전원주택",
+        "단독주택",
+        "리모델링",
+        "구옥",
+        "시골",
+        "디자인",
+        "건축가",
+        "나시골",
+        "오늘의집",
+        "집꾸미기",
+        "꿈꾸는집",
+        "서울엔우리집이없다",
+        "건축탐구집"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2021-06-08T11:00:14Z",
+      "channelId": "UC1aS5CRRDrN6CmR2VcpmetA",
+      "channelName": "한국일보(hankookilbo.com)",
+      "collectedAt": "2025-09-03T10:01:16Z"
     }
   },
   "channels": {
@@ -16286,9 +16319,36 @@
       "viewCount": 3351994752,
       "videoCount": 627296,
       "lastUpdated": "2025-08-29T02:42:18.367173Z"
+    },
+    "UC1aS5CRRDrN6CmR2VcpmetA": {
+      "channelId": "UC1aS5CRRDrN6CmR2VcpmetA",
+      "channelName": "한국일보(hankookilbo.com)",
+      "channelUrl": "@thehankookilbo",
+      "channelDescription": "'공존, 통합, 사람'의 정신으로 앞장서는 국내 유일 중도 정론지 한국일보입니다.\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ppj3UlPuwNq5DyUWNFz27Vc6WoIrRpRI2IMHc9MZ3UqkNVWcXrT83qJTU3bAweA3BOodFu4Euf0=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ppj3UlPuwNq5DyUWNFz27Vc6WoIrRpRI2IMHc9MZ3UqkNVWcXrT83qJTU3bAweA3BOodFu4Euf0=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ppj3UlPuwNq5DyUWNFz27Vc6WoIrRpRI2IMHc9MZ3UqkNVWcXrT83qJTU3bAweA3BOodFu4Euf0=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 362000,
+      "viewCount": 296027619,
+      "videoCount": 6196,
+      "lastUpdated": "2025-09-03T10:01:16.717907Z"
     }
   },
-  "lastUpdated": "2025-08-29T02:42:18.367173Z",
-  "totalVideos": 492,
-  "totalChannels": 20
+  "lastUpdated": "2025-09-03T10:01:16.717907Z",
+  "totalVideos": 493,
+  "totalChannels": 21
 }

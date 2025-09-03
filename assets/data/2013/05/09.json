@@ -151,6 +151,53 @@
       "channelId": "UCfq4V1DAuaojnr2ryvWNysw",
       "channelName": "채널A News",
       "collectedAt": "2025-08-26T12:50:35Z"
+    },
+    "KoANhhTWgxY": {
+      "videoId": "KoANhhTWgxY",
+      "title": "[경향신문]바른손 게임즈 위드볼",
+      "description": "바른손 게임즈가 위드볼 등 2013년에 출시할 15종의 게임을 선보이는 미디어데이를 5월9일 가졌다.",
+      "publishedAt": "2013-05-09T06:18:46Z",
+      "duration": "PT20S",
+      "viewCount": 505,
+      "likeCount": 2,
+      "commentCount": 0,
+      "tags": [
+        "위드볼",
+        "바둑",
+        "보노보노",
+        "보노보노빌",
+        "에어포스",
+        "law",
+        "LAW",
+        "L.A.W",
+        "뽀로로 매직퍼즐",
+        "뽀로로",
+        "오즈 더 러쉬",
+        "나오독스"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2013-05-09T06:18:46Z",
+      "channelId": "UCHXvjavEtkPFJCfGlm0wTXw",
+      "channelName": "경향티비",
+      "collectedAt": "2025-09-03T10:02:30Z"
+    },
+    "27uLq_ba4sc": {
+      "videoId": "27uLq_ba4sc",
+      "title": "[경향신문]바른손 게임즈 박진홍 대표 인터뷰",
+      "description": "바른손 게임즈 박진홍 대표는 소셜 야구매니저먼트 게임 '위드볼'에 대한 기대를 나타냈다. 그는 2013년이 바른손 게임즈가 온라인 게임 전문 개발사에서 모바일 게임 개발과 퍼블리싱으로 매출을 다각화하는 원년이 될 것이라고 밝혔다.",
+      "publishedAt": "2013-05-09T06:10:49Z",
+      "duration": "PT1M6S",
+      "viewCount": 695,
+      "likeCount": 4,
+      "commentCount": 0,
+      "tags": [],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2013-05-09T06:10:49Z",
+      "channelId": "UCHXvjavEtkPFJCfGlm0wTXw",
+      "channelName": "경향티비",
+      "collectedAt": "2025-09-03T10:02:30Z"
     }
   },
   "channels": {
@@ -207,9 +254,36 @@
       "viewCount": 6198116921,
       "videoCount": 143713,
       "lastUpdated": "2025-08-26T12:50:35.151439Z"
+    },
+    "UCHXvjavEtkPFJCfGlm0wTXw": {
+      "channelId": "UCHXvjavEtkPFJCfGlm0wTXw",
+      "channelName": "경향티비",
+      "channelUrl": "@thekyunghyangtv",
+      "channelDescription": "더 나은 세상을 위해 우리가 알아야 할 이야기\n경향신문 공식 채널\n\n🚨 [정치비상구] 출구없는 극단 정치, 비상구를 열어드립니다\n🎙️ 매주 월-금 오후 4시 라이브 ｜ 토요특별판 낮 12시\n🎙️ 정치인물사담회 '인물비상구' 일요일 오후 4시\n 📞광고/제휴 문의 : insaps10@gmail.com\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/6Wlbqcuxx1ESFI2U-gQqhHyYpJ-PiWgqyjotWwD9VN5JygRnIuUvZE1LjUMwKNbb5LqRCEM4kpQ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/6Wlbqcuxx1ESFI2U-gQqhHyYpJ-PiWgqyjotWwD9VN5JygRnIuUvZE1LjUMwKNbb5LqRCEM4kpQ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/6Wlbqcuxx1ESFI2U-gQqhHyYpJ-PiWgqyjotWwD9VN5JygRnIuUvZE1LjUMwKNbb5LqRCEM4kpQ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 537000,
+      "viewCount": 354014202,
+      "videoCount": 11630,
+      "lastUpdated": "2025-09-03T10:02:30.768002Z"
     }
   },
-  "lastUpdated": "2025-08-26T12:50:35.151439Z",
-  "totalVideos": 5,
-  "totalChannels": 2
+  "lastUpdated": "2025-09-03T10:02:30.768002Z",
+  "totalVideos": 7,
+  "totalChannels": 3
 }

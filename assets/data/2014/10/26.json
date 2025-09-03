@@ -41,6 +41,77 @@
       "channelId": "UChlgI3UHCOnwUGzWzbJ3H5w",
       "channelName": " YTN",
       "collectedAt": "2025-08-27T19:05:15Z"
+    },
+    "dho5e7WlIZM": {
+      "videoId": "dho5e7WlIZM",
+      "title": "곶감 마을",
+      "description": "충남 논산시 양촌면 감 재배농가에서 곶감을 말리는 모습이 깊어가는 가을의 정취를 느끼게 하고 있다. 이 곶감은 내년 1월 본격 출하된다. /신현종 기자",
+      "publishedAt": "2014-10-26T13:51:11Z",
+      "duration": "PT1M6S",
+      "viewCount": 611,
+      "likeCount": 0,
+      "commentCount": 0,
+      "tags": [
+        "곶감",
+        "논산시",
+        "양촌면",
+        "가을",
+        "신현종",
+        "조선일보"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2014-10-26T13:51:11Z",
+      "channelId": "UCdp4_yTBhQmB8E339Lafzow",
+      "channelName": "조선일보",
+      "collectedAt": "2025-09-03T10:02:45Z"
+    },
+    "zBkUVp60h8Q": {
+      "videoId": "zBkUVp60h8Q",
+      "title": "진품 소곡주는 이맛!",
+      "description": "나장연 한산소곡주 대표가 찹쌀과 누룩을 이용해 한산소곡주를 빚고 있다.\n충남 서천의 민속전통술인 한산소곡주가 국제대회에서 잇따라 수상하면서 세계인들의 입맛을 사로잡고 있다. 한산소곡주는 지난 4월 벨기에에서 열린 세계 3대 주류품평회‘2014년 몽드셀렉션’에서 금상을 수상한데 이어 최근에는 영국 주류품평회의 증류주 부문에서 브론즈 메달을 수상했다. /신현종 기자\n\n1500년前 소곡酒의 원래 맛까지 재현할 겁니다\n\nhttp://premium.chosun.com/site/data/html_dir/2014/10/25/2014102500216.html",
+      "publishedAt": "2014-10-26T12:33:09Z",
+      "duration": "PT2M17S",
+      "viewCount": 1225,
+      "likeCount": 4,
+      "commentCount": 0,
+      "tags": [
+        "한산소곡주",
+        "소곡주",
+        "나장연 한산소곡주 대표",
+        "주류품평회",
+        "몽드셀렉션",
+        "신현종",
+        "조선일보"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2014-10-26T12:33:09Z",
+      "channelId": "UCdp4_yTBhQmB8E339Lafzow",
+      "channelName": "조선일보",
+      "collectedAt": "2025-09-03T10:02:45Z"
+    },
+    "W_FibzKRoh4": {
+      "videoId": "W_FibzKRoh4",
+      "title": "춘천마라톤에서 이뤄진 로맨스",
+      "description": "68회 춘천마라톤을 완주를 하면 결혼하게 되는 오하나씨 커플과 장인어른이 2014년 10월 26일 열린 68회 춘천마라톤을 완주 후 기뻐하고 있다. /차재문 기자\r\n\r\n[2014 춘천마라톤] 결혼 승낙 조건이 춘천마라톤 완주… 해냈을까?\r\n\r\nhttp://news.chosun.com/site/data/html_dir/2014/10/27/2014102700048.html",
+      "publishedAt": "2014-10-26T11:36:32Z",
+      "duration": "PT2M4S",
+      "viewCount": 2984,
+      "likeCount": 4,
+      "commentCount": 3,
+      "tags": [
+        "춘천",
+        "춘천마라톤",
+        "마라톤 완주",
+        "68회 춘천마라톤"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2014-10-26T11:36:32Z",
+      "channelId": "UCdp4_yTBhQmB8E339Lafzow",
+      "channelName": "조선일보",
+      "collectedAt": "2025-09-03T10:02:45Z"
     }
   },
   "channels": {
@@ -70,9 +141,36 @@
       "viewCount": 17649222300,
       "videoCount": 890317,
       "lastUpdated": "2025-08-29T02:43:50.629402Z"
+    },
+    "UCdp4_yTBhQmB8E339Lafzow": {
+      "channelId": "UCdp4_yTBhQmB8E339Lafzow",
+      "channelName": "조선일보",
+      "channelUrl": "@chosunmedia",
+      "channelDescription": " 조선일보 공식 유튜브 채널",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 1700000,
+      "viewCount": 1669752256,
+      "videoCount": 22783,
+      "lastUpdated": "2025-09-03T10:02:45.596464Z"
     }
   },
-  "lastUpdated": "2025-08-29T02:43:50.629402Z",
-  "totalVideos": 2,
-  "totalChannels": 1
+  "lastUpdated": "2025-09-03T10:02:45.596464Z",
+  "totalVideos": 5,
+  "totalChannels": 2
 }

@@ -262,6 +262,26 @@
       "channelId": "UChlgI3UHCOnwUGzWzbJ3H5w",
       "channelName": " YTN",
       "collectedAt": "2025-08-27T19:05:14Z"
+    },
+    "VOECfgpDgGE": {
+      "videoId": "VOECfgpDgGE",
+      "title": "[경향신문]\"와~ 고래다\" 울산 남구 올들어 15번째 고래떼 발견",
+      "description": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=201309091555331&code=620107\n\n울산 앞바다에서 올들어 15번째 고래떼가 발견됐다.\n\n울산 남구는 9일 고래관광 크루선인 '고래바다여행선'이 지난 7일 오후 1시40분쯤 울산 장생포항 동남쪽 해상에서 50여분 동안 참돌고래떼 3000여마리가 헤엄치는 것을 발견했다고 밝혔다.\n\n고래바다여행선은 지난달 25일 참돌고래떼 3000여마리를 목격했지만, 이후 기상악화로 운항을 하지 못하다가 이달들어 첫 운항에서 고래떼를 발견했다.\n\n이날 고래바다여행선에 탑승한 335명의 관광객들은 약 3㎞에 걸쳐 유영하는 참돌고래떼의 장관을 보며 탄성을 지르고 기념사진을 찍었다.\n\n고래바다여행선은 수요일·목요일·토요일·일요일에 울산 장생포항을 출발, 약 3시간 동안 울산 앞바다를 운항하며 고래떼를 탐사한다.\n\n〈백승목 기자〉",
+      "publishedAt": "2013-09-09T07:55:19Z",
+      "duration": "PT38S",
+      "viewCount": 1182,
+      "likeCount": 0,
+      "commentCount": 0,
+      "tags": [
+        "경향신문 Ulsan (City/Town/Village) Nam District",
+        "Ulsan (City/Town/Village) 고래 고래바다여행선 참돌고래"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2013-09-09T07:55:19Z",
+      "channelId": "UCHXvjavEtkPFJCfGlm0wTXw",
+      "channelName": "경향티비",
+      "collectedAt": "2025-09-03T10:02:29Z"
     }
   },
   "channels": {
@@ -372,9 +392,36 @@
       "viewCount": 17649222300,
       "videoCount": 890317,
       "lastUpdated": "2025-08-29T02:43:50.079941Z"
+    },
+    "UCHXvjavEtkPFJCfGlm0wTXw": {
+      "channelId": "UCHXvjavEtkPFJCfGlm0wTXw",
+      "channelName": "경향티비",
+      "channelUrl": "@thekyunghyangtv",
+      "channelDescription": "더 나은 세상을 위해 우리가 알아야 할 이야기\n경향신문 공식 채널\n\n🚨 [정치비상구] 출구없는 극단 정치, 비상구를 열어드립니다\n🎙️ 매주 월-금 오후 4시 라이브 ｜ 토요특별판 낮 12시\n🎙️ 정치인물사담회 '인물비상구' 일요일 오후 4시\n 📞광고/제휴 문의 : insaps10@gmail.com\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/6Wlbqcuxx1ESFI2U-gQqhHyYpJ-PiWgqyjotWwD9VN5JygRnIuUvZE1LjUMwKNbb5LqRCEM4kpQ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/6Wlbqcuxx1ESFI2U-gQqhHyYpJ-PiWgqyjotWwD9VN5JygRnIuUvZE1LjUMwKNbb5LqRCEM4kpQ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/6Wlbqcuxx1ESFI2U-gQqhHyYpJ-PiWgqyjotWwD9VN5JygRnIuUvZE1LjUMwKNbb5LqRCEM4kpQ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 537000,
+      "viewCount": 354014202,
+      "videoCount": 11630,
+      "lastUpdated": "2025-09-03T10:02:29.325953Z"
     }
   },
-  "lastUpdated": "2025-08-29T02:43:50.079941Z",
-  "totalVideos": 8,
-  "totalChannels": 4
+  "lastUpdated": "2025-09-03T10:02:29.325953Z",
+  "totalVideos": 9,
+  "totalChannels": 5
 }

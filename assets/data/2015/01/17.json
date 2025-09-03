@@ -321,6 +321,63 @@
       "channelId": "UChlgI3UHCOnwUGzWzbJ3H5w",
       "channelName": " YTN",
       "collectedAt": "2025-08-27T19:05:18Z"
+    },
+    "fy5IHNi4OlY": {
+      "videoId": "fy5IHNi4OlY",
+      "title": "'문재인'이 변했다",
+      "description": "새정치민주연합 2·8전당대회 당대표에 출마한 문재인 후보가 17일 대전광역시 대전기독교연합봉사회관에서 열린 '대전광역시당 정기대의원대회 및 당대표·최고위원 후보 합동연설회'에서 연설을 하고 있다. 이날 연설회에서 문재인 후보는 대세론을 앞세웠다. \"국민들이 누구를 우리 당의 얼굴로 원하고 있느냐\"며 자신을 지지하라고 호소했다. /신현종 기자",
+      "publishedAt": "2015-01-17T14:39:52Z",
+      "duration": "PT1M55S",
+      "viewCount": 3025,
+      "likeCount": 27,
+      "commentCount": 4,
+      "tags": [
+        "문재인",
+        "문재인 의원",
+        "문재인 당대표 후보",
+        "새정치민주연합",
+        "새정치민주연합 전당대회",
+        "당대표 후보 문재인",
+        "박지원",
+        "안희정",
+        "이인영",
+        "신현종",
+        "조선일보"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2015-01-17T14:39:52Z",
+      "channelId": "UCdp4_yTBhQmB8E339Lafzow",
+      "channelName": "조선일보",
+      "collectedAt": "2025-09-03T10:02:43Z"
+    },
+    "wt8vKyWEFTE": {
+      "videoId": "wt8vKyWEFTE",
+      "title": "박지원 \"난 안희정 충남지사와 감옥 동기다\"",
+      "description": "박지원 의원이 17일 충남 공주 교통연수원에서 열린 '새정치민주연합 충남도당 정기대의원대회 및 당대표·최고위원 후보 합동연설회'에서 정견발표 하고 있다. 박 의원은 “충남에 ‘안희정 대망론’이 꿈틀거리고 있다”며 “문재인 의원이 당 대표도 하고, 대선 후보도 한다면 꿩먹고 알먹기 때문에 어떠한 경우에도 ‘안희정 대망론’이 살아날 수 없다는 것을 호소한다”며 문 의원을 공략했다. /신현종 기자",
+      "publishedAt": "2015-01-17T13:24:52Z",
+      "duration": "PT1M31S",
+      "viewCount": 2126,
+      "likeCount": 8,
+      "commentCount": 0,
+      "tags": [
+        "박지원",
+        "박지원 의원",
+        "박지원 당 대표 후보",
+        "새정치 박지원",
+        "새정치민주연합",
+        "안희정",
+        "안희정 충남지사",
+        "문재인 의원",
+        "신현종",
+        "조선일보"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2015-01-17T13:24:52Z",
+      "channelId": "UCdp4_yTBhQmB8E339Lafzow",
+      "channelName": "조선일보",
+      "collectedAt": "2025-09-03T10:02:43Z"
     }
   },
   "channels": {
@@ -404,9 +461,36 @@
       "viewCount": 17649222300,
       "videoCount": 890317,
       "lastUpdated": "2025-08-29T02:43:54.370513Z"
+    },
+    "UCdp4_yTBhQmB8E339Lafzow": {
+      "channelId": "UCdp4_yTBhQmB8E339Lafzow",
+      "channelName": "조선일보",
+      "channelUrl": "@chosunmedia",
+      "channelDescription": " 조선일보 공식 유튜브 채널",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 1700000,
+      "viewCount": 1669752256,
+      "videoCount": 22783,
+      "lastUpdated": "2025-09-03T10:02:43.181623Z"
     }
   },
-  "lastUpdated": "2025-08-29T02:43:54.370513Z",
-  "totalVideos": 10,
-  "totalChannels": 3
+  "lastUpdated": "2025-09-03T10:02:43.181623Z",
+  "totalVideos": 12,
+  "totalChannels": 4
 }

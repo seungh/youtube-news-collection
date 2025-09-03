@@ -295,6 +295,86 @@
       "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
       "channelName": "JTBC News",
       "collectedAt": "2025-08-25T21:08:25Z"
+    },
+    "7vGrJZjr2jM": {
+      "videoId": "7vGrJZjr2jM",
+      "title": "장미여관 렛츠락페스티벌 공연",
+      "description": "록밴드 장미여관이 렛츠락페스티벌에서 독특한 포포먼스로 관객의 주목을 끌었다.",
+      "publishedAt": "2013-09-16T05:48:51Z",
+      "duration": "PT4M58S",
+      "viewCount": 1174,
+      "likeCount": 7,
+      "commentCount": 0,
+      "tags": [
+        "장미여관",
+        "록페스티벌",
+        "락페스티벌",
+        "렛츠락",
+        "렛츠락페스티벌",
+        "록",
+        "락",
+        "밴드"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2013-09-16T05:48:51Z",
+      "channelId": "UCHXvjavEtkPFJCfGlm0wTXw",
+      "channelName": "경향티비",
+      "collectedAt": "2025-09-03T10:02:29Z"
+    },
+    "9gUPRR-kHwY": {
+      "videoId": "9gUPRR-kHwY",
+      "title": "로맨틱펀치 렛츠락페스티벌 공연",
+      "description": "록밴드 로맨틱펀치가 14일 렛츠락 페스티벌에서 공연을 가졌다.",
+      "publishedAt": "2013-09-16T05:37:07Z",
+      "duration": "PT3M42S",
+      "viewCount": 291,
+      "likeCount": 2,
+      "commentCount": 0,
+      "tags": [
+        "락",
+        "록",
+        "록페스티벌",
+        "렛츠락페스티벌",
+        "렛츠락",
+        "락페스티벌",
+        "로맨틱펀치",
+        "팝록",
+        "라이트메틀",
+        "밴드"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2013-09-16T05:37:07Z",
+      "channelId": "UCHXvjavEtkPFJCfGlm0wTXw",
+      "channelName": "경향티비",
+      "collectedAt": "2025-09-03T10:02:29Z"
+    },
+    "hXNv_QC15VU": {
+      "videoId": "hXNv_QC15VU",
+      "title": "렛츠락페스티벌 공연",
+      "description": "제7회 렛츠락페스티벌이 14일과 15일 이틀 일정으로 개최됐다.",
+      "publishedAt": "2013-09-16T05:30:00Z",
+      "duration": "PT4M2S",
+      "viewCount": 145,
+      "likeCount": 1,
+      "commentCount": 0,
+      "tags": [
+        "렛르랏페스티벌",
+        "렛츠락",
+        "넬",
+        "록",
+        "락 페스티벌",
+        "록페스티벌 락페스티벌",
+        "록페스티벌",
+        "밴드음악"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2013-09-16T05:30:00Z",
+      "channelId": "UCHXvjavEtkPFJCfGlm0wTXw",
+      "channelName": "경향티비",
+      "collectedAt": "2025-09-03T10:02:29Z"
     }
   },
   "channels": {
@@ -378,9 +458,36 @@
       "viewCount": 14817048106,
       "videoCount": 261473,
       "lastUpdated": "2025-08-25T21:08:25.235263Z"
+    },
+    "UCHXvjavEtkPFJCfGlm0wTXw": {
+      "channelId": "UCHXvjavEtkPFJCfGlm0wTXw",
+      "channelName": "경향티비",
+      "channelUrl": "@thekyunghyangtv",
+      "channelDescription": "더 나은 세상을 위해 우리가 알아야 할 이야기\n경향신문 공식 채널\n\n🚨 [정치비상구] 출구없는 극단 정치, 비상구를 열어드립니다\n🎙️ 매주 월-금 오후 4시 라이브 ｜ 토요특별판 낮 12시\n🎙️ 정치인물사담회 '인물비상구' 일요일 오후 4시\n 📞광고/제휴 문의 : insaps10@gmail.com\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/6Wlbqcuxx1ESFI2U-gQqhHyYpJ-PiWgqyjotWwD9VN5JygRnIuUvZE1LjUMwKNbb5LqRCEM4kpQ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/6Wlbqcuxx1ESFI2U-gQqhHyYpJ-PiWgqyjotWwD9VN5JygRnIuUvZE1LjUMwKNbb5LqRCEM4kpQ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/6Wlbqcuxx1ESFI2U-gQqhHyYpJ-PiWgqyjotWwD9VN5JygRnIuUvZE1LjUMwKNbb5LqRCEM4kpQ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 537000,
+      "viewCount": 354014202,
+      "videoCount": 11630,
+      "lastUpdated": "2025-09-03T10:02:29.239970Z"
     }
   },
-  "lastUpdated": "2025-08-25T21:08:25.235263Z",
-  "totalVideos": 9,
-  "totalChannels": 3
+  "lastUpdated": "2025-09-03T10:02:29.239970Z",
+  "totalVideos": 12,
+  "totalChannels": 4
 }

@@ -407,6 +407,46 @@
       "channelId": "UChlgI3UHCOnwUGzWzbJ3H5w",
       "channelName": " YTN",
       "collectedAt": "2025-08-27T19:04:46Z"
+    },
+    "KIlWx71d84k": {
+      "videoId": "KIlWx71d84k",
+      "title": "[VR Chosun] 핑키칙스의 '걸리쉬댄스'",
+      "description": "\"남자가 추는 요염한 여자 춤, 즐겨보실래요?\"\n\n당신을 압도하는 VR영상을 더 보시려면? vr.chosun.com",
+      "publishedAt": "2016-03-05T11:48:38Z",
+      "duration": "PT3M23S",
+      "viewCount": 109744,
+      "likeCount": 364,
+      "commentCount": 29,
+      "tags": [
+        "#핑키칙스",
+        "#조진수",
+        "#걸리쉬댄스",
+        "#걸리쉬",
+        "조선일보",
+        "VR조선",
+        "조선일보 VR",
+        "VR조선일보",
+        "VR",
+        "360비디오",
+        "360VR",
+        "가상현실",
+        "조선일보VR",
+        "조선VR",
+        "삼성기어VR",
+        "기어VR",
+        "카드보드",
+        "카드보드뷰어",
+        "구글카드보드",
+        "360도영상",
+        "오큘러스",
+        "페이스북"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2016-03-05T11:48:38Z",
+      "channelId": "UCdp4_yTBhQmB8E339Lafzow",
+      "channelName": "조선일보",
+      "collectedAt": "2025-09-03T10:02:44Z"
     }
   },
   "channels": {
@@ -517,9 +557,36 @@
       "viewCount": 17649222300,
       "videoCount": 890317,
       "lastUpdated": "2025-08-29T02:43:16.320863Z"
+    },
+    "UCdp4_yTBhQmB8E339Lafzow": {
+      "channelId": "UCdp4_yTBhQmB8E339Lafzow",
+      "channelName": "조선일보",
+      "channelUrl": "@chosunmedia",
+      "channelDescription": " 조선일보 공식 유튜브 채널",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 1700000,
+      "viewCount": 1669752256,
+      "videoCount": 22783,
+      "lastUpdated": "2025-09-03T10:02:44.608989Z"
     }
   },
-  "lastUpdated": "2025-08-29T02:43:16.321863Z",
-  "totalVideos": 14,
-  "totalChannels": 4
+  "lastUpdated": "2025-09-03T10:02:44.608989Z",
+  "totalVideos": 15,
+  "totalChannels": 5
 }

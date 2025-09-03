@@ -27,6 +27,53 @@
       "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
       "channelName": "JTBC News",
       "collectedAt": "2025-08-25T21:08:24Z"
+    },
+    "pKMPvujN9Cs": {
+      "videoId": "pKMPvujN9Cs",
+      "title": "MVP 베이스볼 온라인 2012 한국시리즈 1차전 가상경기",
+      "description": "MVP 베이스볼 온라인_2012 한국시리즈 1차전 가상경기",
+      "publishedAt": "2012-10-24T07:30:01Z",
+      "duration": "PT4M11S",
+      "viewCount": 9698,
+      "likeCount": 15,
+      "commentCount": 6,
+      "tags": [
+        "MVP",
+        "베이스볼",
+        "온라인",
+        "2012",
+        "한국시리즈",
+        "1차전",
+        "가상경기"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2012-10-24T07:30:01Z",
+      "channelId": "UCHXvjavEtkPFJCfGlm0wTXw",
+      "channelName": "경향티비",
+      "collectedAt": "2025-09-03T10:02:32Z"
+    },
+    "dsVd4QjYCjk": {
+      "videoId": "dsVd4QjYCjk",
+      "title": "[경향신문]안철수 \"쌍용차 문제, 국정조사 시급\"",
+      "description": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=201210241518211&code=910110\n\n무소속 안철수 대선후보가 24일 서울 중구 덕수궁 대한문 앞에 위치한 쌍용자동차 단식 농성현장을 찾아 노조원들을 위로했다.\n\n송호창 공동선대본부장, 이용식 노동연대센터장과 현장을 찾은 안 후보는 쌍용차 빈소에 조문하고 김정우 금속노조 쌍용차지부장을 비롯한 노조원들과 30여분동안 이야기를 나눴다. 안 후보는 노조원들에게 \"안타까운 마음을 가지고 있었는데 늦게 찾아뵙게 됐다\"고 인사했다.\n\n14일째 단식 농성을 벌이고 있는 김 지부장은 \"스물세명이 죽었고 죽음에 대한 진상을 밝히고자 했고 3년 넘게 고생했다\"며 \"계속 사람들이 계속 죽어가고 있고 이제 대통령 후보로 나선 후보 한 분이신 안 후보가 오셨으니 이 문제 관해 어떻게 바라보고 어떤 해법 줄건지 얘기해주면 고맙겠다\"고 말했다. 김득중 금속노조 쌍용차 수석부지부장은 \"쌍용차 문제 진실이 풀려야 억울한 죽음을 막을 수 있는거 아니냐 하는데 묵묵부답이다\"며 \"청문회 이후 국정조사도 안되고 있다. 국정조사가 돼야 진실이 밝혀지고 쌍용차 해법의 첫 단추가 되지 않겠냐\"고 물었다.\n\n이어 마이크를 받은 박병우 민주노총 대외협력국장은 \"지금은 스물세명의 죽음에 막혀있지만, 여기에서 희망이 없다고 판단하는 순간 예기치 않은 사건들이...(더 일어날수도 있다) 3자회동 이뤄진다면 이 부분을 가장 핵심의제로 잡아서 관철시켜 달라\"고 호소했다.\n\n안 후보는 \"여러가지로 참 불행한 일이고 어려운 일이다. 도움을 원하는 것이 아니라 진실을 원한다는 말이 가장 와닿았다\"며 \"정치적인 이해관계와 상관없이 지금 당장이라도 여야 합의해서 국정조사 시행해야만 되고 또 기존에 회사가 했던 약속들도 꼭 지켜져야 한다고 생각한다\"고 말했다. 또 \"힘들겠지만 희망 잃지 말고 열심히 노력해달라. 저희도 열심히 노력하겠다\"고 덧붙였다.\n\n이야기를 마친 안 후보는 '쌍용자동차 문제 해결을 위한 5대 요구 수용 촉구 범국민 100만인 서명운동'에 참여하고 자리를 떠났다.\n\n〈채용민 PD〉",
+      "publishedAt": "2012-10-24T05:33:54Z",
+      "duration": "PT5M58S",
+      "viewCount": 1357,
+      "likeCount": 4,
+      "commentCount": 2,
+      "tags": [
+        "경향신문",
+        "안철수",
+        "쌍용자동차",
+        "대한문"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2012-10-24T05:33:54Z",
+      "channelId": "UCHXvjavEtkPFJCfGlm0wTXw",
+      "channelName": "경향티비",
+      "collectedAt": "2025-09-03T10:02:32Z"
     }
   },
   "channels": {
@@ -56,9 +103,36 @@
       "viewCount": 14817048106,
       "videoCount": 261473,
       "lastUpdated": "2025-08-25T21:08:24.782472Z"
+    },
+    "UCHXvjavEtkPFJCfGlm0wTXw": {
+      "channelId": "UCHXvjavEtkPFJCfGlm0wTXw",
+      "channelName": "경향티비",
+      "channelUrl": "@thekyunghyangtv",
+      "channelDescription": "더 나은 세상을 위해 우리가 알아야 할 이야기\n경향신문 공식 채널\n\n🚨 [정치비상구] 출구없는 극단 정치, 비상구를 열어드립니다\n🎙️ 매주 월-금 오후 4시 라이브 ｜ 토요특별판 낮 12시\n🎙️ 정치인물사담회 '인물비상구' 일요일 오후 4시\n 📞광고/제휴 문의 : insaps10@gmail.com\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/6Wlbqcuxx1ESFI2U-gQqhHyYpJ-PiWgqyjotWwD9VN5JygRnIuUvZE1LjUMwKNbb5LqRCEM4kpQ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/6Wlbqcuxx1ESFI2U-gQqhHyYpJ-PiWgqyjotWwD9VN5JygRnIuUvZE1LjUMwKNbb5LqRCEM4kpQ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/6Wlbqcuxx1ESFI2U-gQqhHyYpJ-PiWgqyjotWwD9VN5JygRnIuUvZE1LjUMwKNbb5LqRCEM4kpQ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 537000,
+      "viewCount": 354014202,
+      "videoCount": 11630,
+      "lastUpdated": "2025-09-03T10:02:32.809835Z"
     }
   },
-  "lastUpdated": "2025-08-25T21:08:24.783470Z",
-  "totalVideos": 1,
-  "totalChannels": 1
+  "lastUpdated": "2025-09-03T10:02:32.809835Z",
+  "totalVideos": 3,
+  "totalChannels": 2
 }

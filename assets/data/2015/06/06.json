@@ -341,6 +341,43 @@
       "channelId": "UCTHCOPwqNfZ0uiKOvFyhGwg",
       "channelName": "연합뉴스TV",
       "collectedAt": "2025-08-29T02:43:16Z"
+    },
+    "ft9s_IUSxPk": {
+      "videoId": "ft9s_IUSxPk",
+      "title": "중동 '메르스'와 국내 '메르스' 99% 일치, “변종 아니다”",
+      "description": "보건복지부 질병관리본부 국립보건연구원 이주실 원장이 6일 정부세종청사 브리핑룸에서 우리나라의 두 번째 메르스 환자의 검체로부터 바이러스 분리·배양, 전체 유전체 염기 서열 분석을 수행한 결과 중동 메르스 바이러스와 99% 일치한다고 밝히고 있다. /신현종 기자\n\n[메르스와의 전쟁] 국내 유입 메르스 바이러스 변이 없어\n\nhttp://news.chosun.com/site/data/html_dir/2015/06/08/2015060800176.html",
+      "publishedAt": "2015-06-06T06:44:24Z",
+      "duration": "PT1M48S",
+      "viewCount": 445,
+      "likeCount": 0,
+      "commentCount": 1,
+      "tags": [
+        "메르스",
+        "메르스 긴급 기자회견",
+        "메르스 박원순",
+        "국내 메르스 중동 메르스 일치",
+        "메르스 확산",
+        "메르스 마스크",
+        "메르스 불경기",
+        "보건당국",
+        "메르스 병원",
+        "평택성모병원",
+        "메르스 환자",
+        "이주실 원장",
+        "메르스 변종",
+        "신현종",
+        "조선일보",
+        "질병관리본부",
+        "보건복지부",
+        "메르스 발표",
+        "박원순 시장"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2015-06-06T06:44:24Z",
+      "channelId": "UCdp4_yTBhQmB8E339Lafzow",
+      "channelName": "조선일보",
+      "collectedAt": "2025-09-03T10:02:44Z"
     }
   },
   "channels": {
@@ -451,9 +488,36 @@
       "viewCount": 3351994752,
       "videoCount": 627296,
       "lastUpdated": "2025-08-29T02:43:16.917408Z"
+    },
+    "UCdp4_yTBhQmB8E339Lafzow": {
+      "channelId": "UCdp4_yTBhQmB8E339Lafzow",
+      "channelName": "조선일보",
+      "channelUrl": "@chosunmedia",
+      "channelDescription": " 조선일보 공식 유튜브 채널",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 1700000,
+      "viewCount": 1669752256,
+      "videoCount": 22783,
+      "lastUpdated": "2025-09-03T10:02:44.827095Z"
     }
   },
-  "lastUpdated": "2025-08-29T02:43:16.917408Z",
-  "totalVideos": 16,
-  "totalChannels": 4
+  "lastUpdated": "2025-09-03T10:02:44.827095Z",
+  "totalVideos": 17,
+  "totalChannels": 5
 }

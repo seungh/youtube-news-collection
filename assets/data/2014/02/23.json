@@ -97,6 +97,40 @@
       "channelId": "UChlgI3UHCOnwUGzWzbJ3H5w",
       "channelName": " YTN",
       "collectedAt": "2025-08-27T19:05:15Z"
+    },
+    "3RXzvlEaMDg": {
+      "videoId": "3RXzvlEaMDg",
+      "title": "갈라쇼를 더욱 빛낸 '피겨여왕' 김연아의 마지막 무대",
+      "description": "22일 러시아 소치 아이스버그 스케이팅 팰리스에서 피겨 여왕' 김연아 마지막 갈라쇼 연기를 펼쳤다. 소치 동계올림픽을 끝으로 현역에서 은퇴하는 김연아의 마지막 갈라쇼 무대는 에이브릴 라빈이 부른 존 레넌의 '이매진'(Imagine) 이라는 곡으로 장식됐다./ 조인원 기자\n\n[소치 2014] 아름다운 은퇴... 여왕의 品格은 달랐다\n\nhttp://news.chosun.com/site/data/html_dir/2014/02/24/2014022400265.html",
+      "publishedAt": "2014-02-23T14:22:53Z",
+      "duration": "PT55S",
+      "viewCount": 78630,
+      "likeCount": 217,
+      "commentCount": 3,
+      "tags": [],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2014-02-23T14:22:53Z",
+      "channelId": "UCdp4_yTBhQmB8E339Lafzow",
+      "channelName": "조선일보",
+      "collectedAt": "2025-09-03T10:02:46Z"
+    },
+    "OqBnk6jZdqA": {
+      "videoId": "OqBnk6jZdqA",
+      "title": "봄이 오는 소리",
+      "description": "포근한 날씨를 보인 23일 전남 담양천으로 나들이 온 상춘객들이 따뜻한 봄볕을 즐기고 있다./김영근 기자",
+      "publishedAt": "2014-02-23T06:25:14Z",
+      "duration": "PT57S",
+      "viewCount": 304,
+      "likeCount": 0,
+      "commentCount": 0,
+      "tags": [],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2014-02-23T06:25:14Z",
+      "channelId": "UCdp4_yTBhQmB8E339Lafzow",
+      "channelName": "조선일보",
+      "collectedAt": "2025-09-03T10:02:46Z"
     }
   },
   "channels": {
@@ -153,9 +187,36 @@
       "viewCount": 17649222300,
       "videoCount": 890317,
       "lastUpdated": "2025-08-29T02:43:50.931589Z"
+    },
+    "UCdp4_yTBhQmB8E339Lafzow": {
+      "channelId": "UCdp4_yTBhQmB8E339Lafzow",
+      "channelName": "조선일보",
+      "channelUrl": "@chosunmedia",
+      "channelDescription": " 조선일보 공식 유튜브 채널",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 1700000,
+      "viewCount": 1669752256,
+      "videoCount": 22783,
+      "lastUpdated": "2025-09-03T10:02:46.746368Z"
     }
   },
-  "lastUpdated": "2025-08-29T02:43:50.931589Z",
-  "totalVideos": 4,
-  "totalChannels": 2
+  "lastUpdated": "2025-09-03T10:02:46.746368Z",
+  "totalVideos": 6,
+  "totalChannels": 3
 }

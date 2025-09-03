@@ -5002,6 +5002,32 @@
       "channelId": "UCTHCOPwqNfZ0uiKOvFyhGwg",
       "channelName": "연합뉴스TV",
       "collectedAt": "2025-08-29T02:42:49Z"
+    },
+    "AGEw1XWxOqY": {
+      "videoId": "AGEw1XWxOqY",
+      "title": "靑 행진 보수단체 가로막은 맹학교 학부모들 “사회적 약자 괴롭히지 말라”",
+      "description": "🔸 조선닷컴 공식 홈페이지 http://www.chosun.com\r\n🔸 조선일보 무료구독체험 : http://bit.ly/2WnNAF7\r\n🔸 조선비즈 공식 홈페이지 http://biz.chosun.com\r\n🔸 공식 페이스북 : https://www.facebook.com/chosun\r\n🔸 공식 트위터 : https://twitter.com/chosun\r\n\r\n◈ 사실에 대한 믿음, 할 말을 하는 용기. 조선일보◈\r\n\r\n#조선일보 #뉴스 #속보 #제보",
+      "publishedAt": "2020-01-04T07:36:12Z",
+      "duration": "PT40S",
+      "viewCount": 21460,
+      "likeCount": 591,
+      "commentCount": 139,
+      "tags": [
+        "조선일보",
+        "조선",
+        "언론",
+        "이슈",
+        "신문",
+        "방송",
+        "뉴스",
+        "정치"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2020-01-04T07:36:12Z",
+      "channelId": "UCdp4_yTBhQmB8E339Lafzow",
+      "channelName": "조선일보",
+      "collectedAt": "2025-09-03T10:02:42Z"
     }
   },
   "channels": {
@@ -5355,9 +5381,36 @@
       "viewCount": 3351994752,
       "videoCount": 627296,
       "lastUpdated": "2025-08-29T02:42:49.436929Z"
+    },
+    "UCdp4_yTBhQmB8E339Lafzow": {
+      "channelId": "UCdp4_yTBhQmB8E339Lafzow",
+      "channelName": "조선일보",
+      "channelUrl": "@chosunmedia",
+      "channelDescription": " 조선일보 공식 유튜브 채널",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 1700000,
+      "viewCount": 1669752256,
+      "videoCount": 22783,
+      "lastUpdated": "2025-09-03T10:02:42.080319Z"
     }
   },
-  "lastUpdated": "2025-08-29T02:42:49.436929Z",
-  "totalVideos": 171,
-  "totalChannels": 13
+  "lastUpdated": "2025-09-03T10:02:42.080319Z",
+  "totalVideos": 172,
+  "totalChannels": 14
 }

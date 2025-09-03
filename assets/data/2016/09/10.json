@@ -340,6 +340,38 @@
       "channelId": "UCTHCOPwqNfZ0uiKOvFyhGwg",
       "channelName": "연합뉴스TV",
       "collectedAt": "2025-08-29T02:43:15Z"
+    },
+    "V4HnIWt2I4M": {
+      "videoId": "V4HnIWt2I4M",
+      "title": "한일 아이돌의 미모대결.avi",
+      "description": "레인보우,에이프릴,업업걸즈,차오벨라칭케티가 한자리에....",
+      "publishedAt": "2016-09-10T10:35:20Z",
+      "duration": "PT58S",
+      "viewCount": 189908,
+      "likeCount": 425,
+      "commentCount": 104,
+      "tags": [
+        "레인보우",
+        "에이프릴",
+        "업업걸즈",
+        "차오벨라칭케티",
+        "신세계",
+        "면세점",
+        "사인회",
+        "악수회",
+        "팬미팅",
+        "일일점장",
+        "팬",
+        "팬질",
+        "아이돌",
+        "걸그룹"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2016-09-10T10:35:20Z",
+      "channelId": "UC1aS5CRRDrN6CmR2VcpmetA",
+      "channelName": "한국일보(hankookilbo.com)",
+      "collectedAt": "2025-09-03T10:01:32Z"
     }
   },
   "channels": {
@@ -477,9 +509,36 @@
       "viewCount": 3351994752,
       "videoCount": 627296,
       "lastUpdated": "2025-08-29T02:43:15.836965Z"
+    },
+    "UC1aS5CRRDrN6CmR2VcpmetA": {
+      "channelId": "UC1aS5CRRDrN6CmR2VcpmetA",
+      "channelName": "한국일보(hankookilbo.com)",
+      "channelUrl": "@thehankookilbo",
+      "channelDescription": "'공존, 통합, 사람'의 정신으로 앞장서는 국내 유일 중도 정론지 한국일보입니다.\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ppj3UlPuwNq5DyUWNFz27Vc6WoIrRpRI2IMHc9MZ3UqkNVWcXrT83qJTU3bAweA3BOodFu4Euf0=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ppj3UlPuwNq5DyUWNFz27Vc6WoIrRpRI2IMHc9MZ3UqkNVWcXrT83qJTU3bAweA3BOodFu4Euf0=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ppj3UlPuwNq5DyUWNFz27Vc6WoIrRpRI2IMHc9MZ3UqkNVWcXrT83qJTU3bAweA3BOodFu4Euf0=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 362000,
+      "viewCount": 296027619,
+      "videoCount": 6196,
+      "lastUpdated": "2025-09-03T10:01:32.196088Z"
     }
   },
-  "lastUpdated": "2025-08-29T02:43:15.836965Z",
-  "totalVideos": 11,
-  "totalChannels": 5
+  "lastUpdated": "2025-09-03T10:01:32.196088Z",
+  "totalVideos": 12,
+  "totalChannels": 6
 }

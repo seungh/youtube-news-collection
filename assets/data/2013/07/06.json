@@ -27,6 +27,57 @@
       "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
       "channelName": "뉴스TVCHOSUN",
       "collectedAt": "2025-08-21T10:46:35Z"
+    },
+    "91p6NtG0X-A": {
+      "videoId": "91p6NtG0X-A",
+      "title": "[경향신문]에이모션 콜라보레이션 바이크 발표",
+      "description": "에이모션이 고태용 디자이너와 협업한 자전거를 패션쇼 형식으로 공개했다.",
+      "publishedAt": "2013-07-06T08:23:29Z",
+      "duration": "PT5M45S",
+      "viewCount": 543,
+      "likeCount": 3,
+      "commentCount": 0,
+      "tags": [
+        "엘루이",
+        "고태용",
+        "에이모션",
+        "자전거",
+        "바이크",
+        "콜라보레이션 자전거",
+        "패션 바이크",
+        "자전거 디자인",
+        "바이크 모델"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2013-07-06T08:23:29Z",
+      "channelId": "UCHXvjavEtkPFJCfGlm0wTXw",
+      "channelName": "경향티비",
+      "collectedAt": "2025-09-03T10:02:29Z"
+    },
+    "RjSKI-PRRhs": {
+      "videoId": "RjSKI-PRRhs",
+      "title": "[경향신문]디자이너 고태용 인터뷰",
+      "description": "바이크 디자인으로 활동영역을 넓힌 디자이너 고태용씨가 자신이 디자인한 에이모션 자전거의 특징을 설명했다.",
+      "publishedAt": "2013-07-06T08:07:01Z",
+      "duration": "PT1M22S",
+      "viewCount": 463,
+      "likeCount": 2,
+      "commentCount": 1,
+      "tags": [
+        "바이크",
+        "자전거",
+        "고태용",
+        "에이모션",
+        "디자인",
+        "콜라보레이션 자전거"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2013-07-06T08:07:01Z",
+      "channelId": "UCHXvjavEtkPFJCfGlm0wTXw",
+      "channelName": "경향티비",
+      "collectedAt": "2025-09-03T10:02:29Z"
     }
   },
   "channels": {
@@ -56,9 +107,36 @@
       "viewCount": 4319423561,
       "videoCount": 150855,
       "lastUpdated": "2025-08-21T10:29:10.713067Z"
+    },
+    "UCHXvjavEtkPFJCfGlm0wTXw": {
+      "channelId": "UCHXvjavEtkPFJCfGlm0wTXw",
+      "channelName": "경향티비",
+      "channelUrl": "@thekyunghyangtv",
+      "channelDescription": "더 나은 세상을 위해 우리가 알아야 할 이야기\n경향신문 공식 채널\n\n🚨 [정치비상구] 출구없는 극단 정치, 비상구를 열어드립니다\n🎙️ 매주 월-금 오후 4시 라이브 ｜ 토요특별판 낮 12시\n🎙️ 정치인물사담회 '인물비상구' 일요일 오후 4시\n 📞광고/제휴 문의 : insaps10@gmail.com\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/6Wlbqcuxx1ESFI2U-gQqhHyYpJ-PiWgqyjotWwD9VN5JygRnIuUvZE1LjUMwKNbb5LqRCEM4kpQ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/6Wlbqcuxx1ESFI2U-gQqhHyYpJ-PiWgqyjotWwD9VN5JygRnIuUvZE1LjUMwKNbb5LqRCEM4kpQ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/6Wlbqcuxx1ESFI2U-gQqhHyYpJ-PiWgqyjotWwD9VN5JygRnIuUvZE1LjUMwKNbb5LqRCEM4kpQ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 537000,
+      "viewCount": 354014202,
+      "videoCount": 11630,
+      "lastUpdated": "2025-09-03T10:02:29.994953Z"
     }
   },
-  "lastUpdated": "2025-08-21T10:46:35.937793Z",
-  "totalVideos": 1,
-  "totalChannels": 1
+  "lastUpdated": "2025-09-03T10:02:29.994953Z",
+  "totalVideos": 3,
+  "totalChannels": 2
 }

@@ -6796,6 +6796,91 @@
       "channelId": "UCTHCOPwqNfZ0uiKOvFyhGwg",
       "channelName": "연합뉴스TV",
       "collectedAt": "2025-08-29T02:42:35Z"
+    },
+    "oG89lg4RKrE": {
+      "videoId": "oG89lg4RKrE",
+      "title": "기후변화 위기를 디자인으로 본다 [노아의 방주 - 데드라인 1.5]",
+      "description": "영상 제공 설치미술가 이경호 씨.",
+      "publishedAt": "2020-12-12T04:54:48Z",
+      "duration": "PT5M21S",
+      "viewCount": 478,
+      "likeCount": 8,
+      "commentCount": 0,
+      "tags": [],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2020-12-12T04:54:48Z",
+      "channelId": "UCnHyx6H7fhKfUoAAaVGYvxQ",
+      "channelName": "동아일보",
+      "collectedAt": "2025-09-03T10:00:48Z"
+    },
+    "Yts-XyPvz50": {
+      "videoId": "Yts-XyPvz50",
+      "title": "기후변화 위기를 디자인으로 본다 [노아의 방주-오래된 미래, 서기 2200년 연미산에서 제작 영상]",
+      "description": "영상 제공 설치미술가 이경호 씨",
+      "publishedAt": "2020-12-12T04:54:42Z",
+      "duration": "PT9M39S",
+      "viewCount": 152,
+      "likeCount": 1,
+      "commentCount": 0,
+      "tags": [],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2020-12-12T04:54:42Z",
+      "channelId": "UCnHyx6H7fhKfUoAAaVGYvxQ",
+      "channelName": "동아일보",
+      "collectedAt": "2025-09-03T10:00:48Z"
+    },
+    "WaX8YYM5TA0": {
+      "videoId": "WaX8YYM5TA0",
+      "title": "[현장영상] 12년 복역 후 출소한 조두순에 분노의 발차기",
+      "description": "12일 경기 광명시의 한 도로에서 조두순을 태운 차량 앞을 일부 유튜버와 시민들이 막아선 뒤 차량을 향한 '분노의' 발차기가 이어졌다.",
+      "publishedAt": "2020-12-12T02:18:30Z",
+      "duration": "PT1M6S",
+      "viewCount": 1070117,
+      "likeCount": 6101,
+      "commentCount": 3556,
+      "tags": [
+        "조두순",
+        "출소",
+        "유튜버",
+        "발차기",
+        "영상",
+        "법무부",
+        "호소차량",
+        "교도소",
+        "보호관찰",
+        "경찰"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2020-12-12T02:18:30Z",
+      "channelId": "UC1aS5CRRDrN6CmR2VcpmetA",
+      "channelName": "한국일보(hankookilbo.com)",
+      "collectedAt": "2025-09-03T10:00:48Z"
+    },
+    "m27xQc41N9E": {
+      "videoId": "m27xQc41N9E",
+      "title": "[현장영상] 조두순 출소 후 경기 안산 자택 도착 모습",
+      "description": "12일 12년 동안 형기를 마치고 교도소를 나온 조두순(68)이 출소 절차를 모두 마치고 안산 시내 자택에 도착했다.",
+      "publishedAt": "2020-12-12T00:42:49Z",
+      "duration": "PT58S",
+      "viewCount": 358358,
+      "likeCount": 1282,
+      "commentCount": 1164,
+      "tags": [
+        "조두순",
+        "출소",
+        "안산",
+        "경기도",
+        "남부교도소"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2020-12-12T00:42:49Z",
+      "channelId": "UC1aS5CRRDrN6CmR2VcpmetA",
+      "channelName": "한국일보(hankookilbo.com)",
+      "collectedAt": "2025-09-03T10:00:48Z"
     }
   },
   "channels": {
@@ -7230,9 +7315,63 @@
       "viewCount": 3278386064,
       "videoCount": 233358,
       "lastUpdated": "2025-08-29T02:42:35.022046Z"
+    },
+    "UCnHyx6H7fhKfUoAAaVGYvxQ": {
+      "channelId": "UCnHyx6H7fhKfUoAAaVGYvxQ",
+      "channelName": "동아일보",
+      "channelUrl": "@donga-ilbo",
+      "channelDescription": "동아일보 공식 유튜브 채널입니다. \n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/S1eWLrew2Jjv-JLrGqkADPNPJF5u7qzpYE3o8_NoLbH7fVTjtFm9TYlxfOjbB3dH5Lw6qKM-MQ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/S1eWLrew2Jjv-JLrGqkADPNPJF5u7qzpYE3o8_NoLbH7fVTjtFm9TYlxfOjbB3dH5Lw6qKM-MQ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/S1eWLrew2Jjv-JLrGqkADPNPJF5u7qzpYE3o8_NoLbH7fVTjtFm9TYlxfOjbB3dH5Lw6qKM-MQ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 107000,
+      "viewCount": 47341564,
+      "videoCount": 4079,
+      "lastUpdated": "2025-09-03T10:00:48.556584Z"
+    },
+    "UC1aS5CRRDrN6CmR2VcpmetA": {
+      "channelId": "UC1aS5CRRDrN6CmR2VcpmetA",
+      "channelName": "한국일보(hankookilbo.com)",
+      "channelUrl": "@thehankookilbo",
+      "channelDescription": "'공존, 통합, 사람'의 정신으로 앞장서는 국내 유일 중도 정론지 한국일보입니다.\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ppj3UlPuwNq5DyUWNFz27Vc6WoIrRpRI2IMHc9MZ3UqkNVWcXrT83qJTU3bAweA3BOodFu4Euf0=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ppj3UlPuwNq5DyUWNFz27Vc6WoIrRpRI2IMHc9MZ3UqkNVWcXrT83qJTU3bAweA3BOodFu4Euf0=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ppj3UlPuwNq5DyUWNFz27Vc6WoIrRpRI2IMHc9MZ3UqkNVWcXrT83qJTU3bAweA3BOodFu4Euf0=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 362000,
+      "viewCount": 296027619,
+      "videoCount": 6196,
+      "lastUpdated": "2025-09-03T10:00:48.556584Z"
     }
   },
-  "lastUpdated": "2025-08-29T02:42:35.022046Z",
-  "totalVideos": 204,
-  "totalChannels": 16
+  "lastUpdated": "2025-09-03T10:00:48.556584Z",
+  "totalVideos": 208,
+  "totalChannels": 18
 }

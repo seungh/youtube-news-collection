@@ -4741,6 +4741,31 @@
       "channelId": "UCTHCOPwqNfZ0uiKOvFyhGwg",
       "channelName": "연합뉴스TV",
       "collectedAt": "2025-08-29T02:44:00Z"
+    },
+    "xPxJmIo3E_8": {
+      "videoId": "xPxJmIo3E_8",
+      "title": "[기사+] 광화문 광장 한 복판에서 몸싸움, 욕설이 오고간 사연은?",
+      "description": "▼ 동아일보 SNS\n\n· 동아일보 네이버 포스트\nhttp://post.naver.com/my.nhn?memberNo=11291600\n\n· 동아일보 페이스북\nhttps://www.facebook.com/dongamedia/\n\n· 동아일보 인스타그램https://www.instagram.com/dongailbo/",
+      "publishedAt": "2019-06-16T06:32:13Z",
+      "duration": "PT1M18S",
+      "viewCount": 1553,
+      "likeCount": 1,
+      "commentCount": 0,
+      "tags": [
+        "광화문",
+        "보수",
+        "대한애국당",
+        "진보",
+        "말다툼",
+        "다툼",
+        "욕설"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2019-06-16T06:32:13Z",
+      "channelId": "UCnHyx6H7fhKfUoAAaVGYvxQ",
+      "channelName": "동아일보",
+      "collectedAt": "2025-09-03T10:00:37Z"
     }
   },
   "channels": {
@@ -5040,9 +5065,36 @@
       "viewCount": 3278386064,
       "videoCount": 233358,
       "lastUpdated": "2025-08-29T02:44:00.606568Z"
+    },
+    "UCnHyx6H7fhKfUoAAaVGYvxQ": {
+      "channelId": "UCnHyx6H7fhKfUoAAaVGYvxQ",
+      "channelName": "동아일보",
+      "channelUrl": "@donga-ilbo",
+      "channelDescription": "동아일보 공식 유튜브 채널입니다. \n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/S1eWLrew2Jjv-JLrGqkADPNPJF5u7qzpYE3o8_NoLbH7fVTjtFm9TYlxfOjbB3dH5Lw6qKM-MQ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/S1eWLrew2Jjv-JLrGqkADPNPJF5u7qzpYE3o8_NoLbH7fVTjtFm9TYlxfOjbB3dH5Lw6qKM-MQ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/S1eWLrew2Jjv-JLrGqkADPNPJF5u7qzpYE3o8_NoLbH7fVTjtFm9TYlxfOjbB3dH5Lw6qKM-MQ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 107000,
+      "viewCount": 47341564,
+      "videoCount": 4079,
+      "lastUpdated": "2025-09-03T10:00:37.302521Z"
     }
   },
-  "lastUpdated": "2025-08-29T02:44:00.607562Z",
-  "totalVideos": 142,
-  "totalChannels": 11
+  "lastUpdated": "2025-09-03T10:00:37.302521Z",
+  "totalVideos": 143,
+  "totalChannels": 12
 }

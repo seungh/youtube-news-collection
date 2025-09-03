@@ -178,6 +178,29 @@
       "channelId": "UCfq4V1DAuaojnr2ryvWNysw",
       "channelName": "채널A News",
       "collectedAt": "2025-08-26T12:50:35Z"
+    },
+    "MRUxFQF3X20": {
+      "videoId": "MRUxFQF3X20",
+      "title": "[경향신문]도심 한복판 화려한 '아프로디테쇼'",
+      "description": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=201305231438141&code=900306\n\n30도 안밖의 초여름 더위가 기승하는 가운데 서울 도심 한복판에서 팔등신 트랜스젠더 무용수들의 흥겹고 화려한 춤사위가 펼쳐졌다.\n\n'하나투어'는 23일 정오 서울 세종로 동아광장에서 '2013 하나투어 여행박람회' 개막기념 공연을 펼쳤다. 알카자쇼(Alcaza Show), 티파니쇼(Tiffany's Show)와 함께 태국 3대쇼 중 하나로 꼽히는 아프로디테 카바레 쇼(Aphrodite Cabaret Show) 현지 무용단원들이 방한해 흥겹고 화려한 춤을 선보였다.\n\n태국 현지에서 공연되는 아프로디테 카바레 쇼를 그대로 옮겨놓은 듯한 아름다운 트렌스젠더 무용수들의 이국적이고 화려한 복장과 여성미 넘치는 몸동작이 점심시간 도심을 거니는 시민들의 눈과 귀를 사로잡았다.\n\n본 공연은 오는 24일부터 26일까지 경기 고양 일산 킨텍스에서 개최되는 '2013 하나투어 여행박람회'에서 볼 수 있다. 올해로 7회째 맞는 여행박람회는 '세상 구경 오세요'를 슬로건으로 여행 축제의 장을 펼칠 예정이다. 에 접속하면 무료초청장을 발급 받을수 있고 다양한 이벤트와 여행상품 할인 혜택에 참여할수 있다.\n\n〈채용민 PD〉",
+      "publishedAt": "2013-05-23T05:32:51Z",
+      "duration": "PT3M41S",
+      "viewCount": 5469,
+      "likeCount": 13,
+      "commentCount": 1,
+      "tags": [
+        "경향신문",
+        "태국",
+        "아프로디테쇼",
+        "하나투어",
+        "여행박람회"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2013-05-23T05:32:51Z",
+      "channelId": "UCHXvjavEtkPFJCfGlm0wTXw",
+      "channelName": "경향티비",
+      "collectedAt": "2025-09-03T10:02:30Z"
     }
   },
   "channels": {
@@ -234,9 +257,36 @@
       "viewCount": 6198116921,
       "videoCount": 143713,
       "lastUpdated": "2025-08-26T12:50:35.222194Z"
+    },
+    "UCHXvjavEtkPFJCfGlm0wTXw": {
+      "channelId": "UCHXvjavEtkPFJCfGlm0wTXw",
+      "channelName": "경향티비",
+      "channelUrl": "@thekyunghyangtv",
+      "channelDescription": "더 나은 세상을 위해 우리가 알아야 할 이야기\n경향신문 공식 채널\n\n🚨 [정치비상구] 출구없는 극단 정치, 비상구를 열어드립니다\n🎙️ 매주 월-금 오후 4시 라이브 ｜ 토요특별판 낮 12시\n🎙️ 정치인물사담회 '인물비상구' 일요일 오후 4시\n 📞광고/제휴 문의 : insaps10@gmail.com\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/6Wlbqcuxx1ESFI2U-gQqhHyYpJ-PiWgqyjotWwD9VN5JygRnIuUvZE1LjUMwKNbb5LqRCEM4kpQ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/6Wlbqcuxx1ESFI2U-gQqhHyYpJ-PiWgqyjotWwD9VN5JygRnIuUvZE1LjUMwKNbb5LqRCEM4kpQ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/6Wlbqcuxx1ESFI2U-gQqhHyYpJ-PiWgqyjotWwD9VN5JygRnIuUvZE1LjUMwKNbb5LqRCEM4kpQ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 537000,
+      "viewCount": 354014202,
+      "videoCount": 11630,
+      "lastUpdated": "2025-09-03T10:02:30.574019Z"
     }
   },
-  "lastUpdated": "2025-08-26T12:50:35.222711Z",
-  "totalVideos": 5,
-  "totalChannels": 2
+  "lastUpdated": "2025-09-03T10:02:30.574019Z",
+  "totalVideos": 6,
+  "totalChannels": 3
 }

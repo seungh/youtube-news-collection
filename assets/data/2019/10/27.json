@@ -6849,6 +6849,42 @@
       "channelId": "UCTHCOPwqNfZ0uiKOvFyhGwg",
       "channelName": "연합뉴스TV",
       "collectedAt": "2025-08-29T02:42:56Z"
+    },
+    "125aiAoEAzY": {
+      "videoId": "125aiAoEAzY",
+      "title": "2019 춘천마라톤 발언대 생중계 LIVE (Chuncheon marathon Live)",
+      "description": "호반을 따라 펼쳐지는 대한민국 최고의 마라톤, 2019 춘천마라톤!\n34키로 발언대 지점에서 진행되는 실시간 라이브!\n\n#조선일보 #춘천마라톤 #마라톤 #춘마",
+      "publishedAt": "2019-10-27T05:59:55Z",
+      "duration": "PT4H11M20S",
+      "viewCount": 10416,
+      "likeCount": 292,
+      "commentCount": 4,
+      "tags": [
+        "춘천마라톤",
+        "2019춘천마라톤",
+        "춘마",
+        "조선일보",
+        "마라톤",
+        "발언대",
+        "조선일보마라톤",
+        "춘천",
+        "2019춘천",
+        "발언대라이브",
+        "러닝",
+        "러너",
+        "브룩스",
+        "BROOKS"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": {
+        "actualStartTime": "2019-10-27T01:31:00Z",
+        "actualEndTime": "2019-10-27T05:42:07Z",
+        "scheduledStartTime": "2019-10-27T01:29:32Z"
+      },
+      "actualPubAt": "2019-10-27T01:31:00Z",
+      "channelId": "UCdp4_yTBhQmB8E339Lafzow",
+      "channelName": "조선일보",
+      "collectedAt": "2025-09-03T10:02:43Z"
     }
   },
   "channels": {
@@ -7148,9 +7184,36 @@
       "viewCount": 3278386064,
       "videoCount": 233358,
       "lastUpdated": "2025-08-29T02:42:56.485617Z"
+    },
+    "UCdp4_yTBhQmB8E339Lafzow": {
+      "channelId": "UCdp4_yTBhQmB8E339Lafzow",
+      "channelName": "조선일보",
+      "channelUrl": "@chosunmedia",
+      "channelDescription": " 조선일보 공식 유튜브 채널",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 1700000,
+      "viewCount": 1669752256,
+      "videoCount": 22783,
+      "lastUpdated": "2025-09-03T10:02:43.220143Z"
     }
   },
-  "lastUpdated": "2025-08-29T02:42:56.487680Z",
-  "totalVideos": 201,
-  "totalChannels": 11
+  "lastUpdated": "2025-09-03T10:02:43.220143Z",
+  "totalVideos": 202,
+  "totalChannels": 12
 }

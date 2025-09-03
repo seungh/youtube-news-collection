@@ -51,6 +51,23 @@
       "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
       "channelName": "JTBC News",
       "collectedAt": "2025-08-24T21:53:43Z"
+    },
+    "2jzvyBC-PZg": {
+      "videoId": "2jzvyBC-PZg",
+      "title": "6.25 참전용사 손수지은 가평고 방문",
+      "description": "6.25전쟁 당시 가평고(가이사 중학원)를 건립한 제40보병사단 출신인 밀튼 콘 등 참전용사 5명이 7일에 있는 가평고 졸업식 참석과 가평고등학교에 장학금을 전달하기 위해 5일에 한국을 방문하였다. /김성주\n\n포화 속에 돈 걷어 세운 학교... 가평고 찾은 美 참전용사들\n\nhttp://news.chosun.com/site/data/html_dir/2014/02/07/2014020703884.html",
+      "publishedAt": "2014-02-07T15:38:42Z",
+      "duration": "PT2M57S",
+      "viewCount": 9322,
+      "likeCount": 46,
+      "commentCount": 7,
+      "tags": [],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2014-02-07T15:38:42Z",
+      "channelId": "UCdp4_yTBhQmB8E339Lafzow",
+      "channelName": "조선일보",
+      "collectedAt": "2025-09-03T10:02:46Z"
     }
   },
   "channels": {
@@ -107,9 +124,36 @@
       "viewCount": 14817048106,
       "videoCount": 261473,
       "lastUpdated": "2025-08-25T21:08:08.117928Z"
+    },
+    "UCdp4_yTBhQmB8E339Lafzow": {
+      "channelId": "UCdp4_yTBhQmB8E339Lafzow",
+      "channelName": "조선일보",
+      "channelUrl": "@chosunmedia",
+      "channelDescription": " 조선일보 공식 유튜브 채널",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 1700000,
+      "viewCount": 1669752256,
+      "videoCount": 22783,
+      "lastUpdated": "2025-09-03T10:02:46.786774Z"
     }
   },
-  "lastUpdated": "2025-08-25T21:08:08.117928Z",
-  "totalVideos": 2,
-  "totalChannels": 2
+  "lastUpdated": "2025-09-03T10:02:46.786774Z",
+  "totalVideos": 3,
+  "totalChannels": 3
 }

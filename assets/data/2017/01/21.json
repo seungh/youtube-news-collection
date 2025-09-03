@@ -658,6 +658,58 @@
       "channelId": "UCTHCOPwqNfZ0uiKOvFyhGwg",
       "channelName": "연합뉴스TV",
       "collectedAt": "2025-08-29T02:43:15Z"
+    },
+    "W7PfM2fWP1w": {
+      "videoId": "W7PfM2fWP1w",
+      "title": "트럼프 취임연설 '미국 우선주의'",
+      "description": "도널드 트럼프가 1월 20일(현지시간) 제 45대 미 대통령에 취임했다.\n트럼프 대통령은 전 세계를 상대로 '미국 우선주의'를 선언했다.\n\n\n----------------------------------------------------------------------------------------------------------------------------------\n\n▲ 더 다양한 기사 읽기 :  https://www.hankookilbo.com\n▲ 유튜브 구독하기 : https://www.youtube.com/thehankookilbo\n▲ 페이스북 좋아요 : https://www.facebook.com/hkilbo\n▲ 트위터 팔로우 :  https://twitter.com/hankookilbo\n\n▲사건 및 영상 제보\n digitalnews.hk@gmail.com \n ssolly@hankookilbo.com\n changsun91@hankookilbo.com\n\n제보 : 02)724-2489~2490\n\n--------------------------------------------------------------------------------------------------------------------------------",
+      "publishedAt": "2017-01-21T05:45:17Z",
+      "duration": "PT1M36S",
+      "viewCount": 11321,
+      "likeCount": 82,
+      "commentCount": 9,
+      "tags": [
+        "미국",
+        "트럼프",
+        "도널드 트럼프",
+        "도널드",
+        "미셸 오바마",
+        "오바마",
+        "45대 대통령",
+        "미국 대통령",
+        "미국 우선주의",
+        "美 우선주의",
+        "워싱턴",
+        "워싱턴 광장",
+        "취임사",
+        "취임 맹세",
+        "미국인",
+        "충성맹세",
+        "신의 가호",
+        "무역",
+        "세금",
+        "이민",
+        "외교",
+        "미국노동자",
+        "노동자",
+        "가정",
+        "정치인",
+        "중국",
+        "한국",
+        "일본",
+        "워싱턴dc",
+        "주한미군",
+        "트럼프 시대",
+        "연방의회",
+        "국가안보",
+        "외교정책"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2017-01-21T05:45:17Z",
+      "channelId": "UC1aS5CRRDrN6CmR2VcpmetA",
+      "channelName": "한국일보(hankookilbo.com)",
+      "collectedAt": "2025-09-03T10:02:00Z"
     }
   },
   "channels": {
@@ -849,9 +901,36 @@
       "viewCount": 3351994752,
       "videoCount": 627296,
       "lastUpdated": "2025-08-29T02:43:15.347236Z"
+    },
+    "UC1aS5CRRDrN6CmR2VcpmetA": {
+      "channelId": "UC1aS5CRRDrN6CmR2VcpmetA",
+      "channelName": "한국일보(hankookilbo.com)",
+      "channelUrl": "@thehankookilbo",
+      "channelDescription": "'공존, 통합, 사람'의 정신으로 앞장서는 국내 유일 중도 정론지 한국일보입니다.\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ppj3UlPuwNq5DyUWNFz27Vc6WoIrRpRI2IMHc9MZ3UqkNVWcXrT83qJTU3bAweA3BOodFu4Euf0=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ppj3UlPuwNq5DyUWNFz27Vc6WoIrRpRI2IMHc9MZ3UqkNVWcXrT83qJTU3bAweA3BOodFu4Euf0=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ppj3UlPuwNq5DyUWNFz27Vc6WoIrRpRI2IMHc9MZ3UqkNVWcXrT83qJTU3bAweA3BOodFu4Euf0=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 362000,
+      "viewCount": 296027619,
+      "videoCount": 6196,
+      "lastUpdated": "2025-09-03T10:02:00.893698Z"
     }
   },
-  "lastUpdated": "2025-08-29T02:43:15.347236Z",
-  "totalVideos": 23,
-  "totalChannels": 7
+  "lastUpdated": "2025-09-03T10:02:00.893698Z",
+  "totalVideos": 24,
+  "totalChannels": 8
 }

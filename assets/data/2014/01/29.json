@@ -276,6 +276,82 @@
       "channelId": "UChlgI3UHCOnwUGzWzbJ3H5w",
       "channelName": " YTN",
       "collectedAt": "2025-08-27T19:05:18Z"
+    },
+    "2JGXE4-OK1M": {
+      "videoId": "2JGXE4-OK1M",
+      "title": "민족 최대의 명절인 설 연휴의 귀성길",
+      "description": "설 연휴를 하루 앞둔 2014년 1월 29일 오후 서울역에서 귀성객들이 표를 사기 위해 줄을 서 있다.",
+      "publishedAt": "2014-01-29T13:12:43Z",
+      "duration": "PT1M26S",
+      "viewCount": 598,
+      "likeCount": 0,
+      "commentCount": 0,
+      "tags": [],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2014-01-29T13:12:43Z",
+      "channelId": "UCdp4_yTBhQmB8E339Lafzow",
+      "channelName": "조선일보",
+      "collectedAt": "2025-09-03T10:02:46Z"
+    },
+    "BRdFEZbpsrE": {
+      "videoId": "BRdFEZbpsrE",
+      "title": "매월 마지막 수요일 '문화가 있는 날'",
+      "description": "29일 덕수궁미술관에서 열리는 한국근현대회화 100선 전시를 유진룡 문화체육관광부장관과 직원들이 찾았다. 유장관은 매달 마지막주 수요일을 문화가 있는 날로 지정해 박물관 미술관등을 무료나 할인된 가격에 관람 할 수 있다면서 많은 사람들이 미술관을 찾아왔으면 한다고 전했다. /이태경기자",
+      "publishedAt": "2014-01-29T12:14:53Z",
+      "duration": "PT1M30S",
+      "viewCount": 378,
+      "likeCount": 1,
+      "commentCount": 0,
+      "tags": [],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2014-01-29T12:14:53Z",
+      "channelId": "UCdp4_yTBhQmB8E339Lafzow",
+      "channelName": "조선일보",
+      "collectedAt": "2025-09-03T10:02:46Z"
+    },
+    "Tkz41r3EibQ": {
+      "videoId": "Tkz41r3EibQ",
+      "title": "이승기 착한기부 '아이들과 떡국 만들기'",
+      "description": "이승기가 설날을 맞아 2014년 1월 27일 서울 중구 쌍림동 CJ 백설요리원에서 지역공부방 어린이들과 함께 떡국을 만들며 즐거운 시간을 갖고 있다. /김연정 기자",
+      "publishedAt": "2014-01-29T12:03:11Z",
+      "duration": "PT1M33S",
+      "viewCount": 13136,
+      "likeCount": 145,
+      "commentCount": 9,
+      "tags": [],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2014-01-29T12:03:11Z",
+      "channelId": "UCdp4_yTBhQmB8E339Lafzow",
+      "channelName": "조선일보",
+      "collectedAt": "2025-09-03T10:02:46Z"
+    },
+    "tdfI0YBKVrU": {
+      "videoId": "tdfI0YBKVrU",
+      "title": "서남수 장관, 부실대학부터 퇴출시켜야",
+      "description": "서남수 교육부 장관은 학령인구 감소로 많은 대학이 존립의 위기에 처하게 될 것이라며 \"대학 구조개혁은 피할 수도 더 늦출 수도 없다\"고 밝혔다. 서 장관은 28일 정부세종청사에서 '대학 구조개혁 추진계획'을 발표하면서 이같이 대학 구조개혁의 필요성을 강조했다. 서남수 장관은 \"앞으로 10여년간 대학 학령인구가 급속하게 줄어들어 이 상태를 방치하면 대학교육의 생태계는 회복 불능의 상황에 처할 수 있다\"고 우려했다. /신현종 기자\n\n최하등급 2번 연속 받는 大學 강제로 문닫기로\n\n\nhttp://news.chosun.com/site/data/html_dir/2014/01/29/2014012900120.html",
+      "publishedAt": "2014-01-28T16:22:32Z",
+      "duration": "PT2M25S",
+      "viewCount": 411,
+      "likeCount": 3,
+      "commentCount": 1,
+      "tags": [
+        "서남수장관",
+        "교육부장관",
+        "대학",
+        "부실대학",
+        "대학 구조개혁",
+        "신현종",
+        "조선일보"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2014-01-28T16:22:32Z",
+      "channelId": "UCdp4_yTBhQmB8E339Lafzow",
+      "channelName": "조선일보",
+      "collectedAt": "2025-09-03T10:02:46Z"
     }
   },
   "channels": {
@@ -386,9 +462,36 @@
       "viewCount": 17649222300,
       "videoCount": 890317,
       "lastUpdated": "2025-08-29T02:43:54.127393Z"
+    },
+    "UCdp4_yTBhQmB8E339Lafzow": {
+      "channelId": "UCdp4_yTBhQmB8E339Lafzow",
+      "channelName": "조선일보",
+      "channelUrl": "@chosunmedia",
+      "channelDescription": " 조선일보 공식 유튜브 채널",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 1700000,
+      "viewCount": 1669752256,
+      "videoCount": 22783,
+      "lastUpdated": "2025-09-03T10:02:46.881648Z"
     }
   },
-  "lastUpdated": "2025-08-29T02:43:54.127393Z",
-  "totalVideos": 9,
-  "totalChannels": 4
+  "lastUpdated": "2025-09-03T10:02:46.881648Z",
+  "totalVideos": 13,
+  "totalChannels": 5
 }

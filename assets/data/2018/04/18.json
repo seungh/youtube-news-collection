@@ -8413,6 +8413,36 @@
       "channelId": "UCTHCOPwqNfZ0uiKOvFyhGwg",
       "channelName": "연합뉴스TV",
       "collectedAt": "2025-08-29T02:43:21Z"
+    },
+    "OKo1x6kttFE": {
+      "videoId": "OKo1x6kttFE",
+      "title": "[ Video C]  정시확대, 어떻게 생각해? / 조선일보",
+      "description": "대입정책 혼란에 이은 정시확대VS정시축소 논란 \n정시 확대는 과연 국민적 여론일까?\n\n#조선일보 #실시간뉴스 #정시확대",
+      "publishedAt": "2018-04-17T15:16:41Z",
+      "duration": "PT2M17S",
+      "viewCount": 1920,
+      "likeCount": 15,
+      "commentCount": 7,
+      "tags": [
+        "조선일보",
+        "대입논란",
+        "김상곤",
+        "교육정책",
+        "인터뷰",
+        "조선",
+        "시사",
+        "뉴스",
+        "정시확대",
+        "정시",
+        "수능",
+        "대입"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2018-04-17T15:16:41Z",
+      "channelId": "UCdp4_yTBhQmB8E339Lafzow",
+      "channelName": "조선일보",
+      "collectedAt": "2025-09-03T10:02:43Z"
     }
   },
   "channels": {
@@ -8766,9 +8796,36 @@
       "viewCount": 3351994752,
       "videoCount": 627296,
       "lastUpdated": "2025-08-29T02:43:21.779359Z"
+    },
+    "UCdp4_yTBhQmB8E339Lafzow": {
+      "channelId": "UCdp4_yTBhQmB8E339Lafzow",
+      "channelName": "조선일보",
+      "channelUrl": "@chosunmedia",
+      "channelDescription": " 조선일보 공식 유튜브 채널",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 1700000,
+      "viewCount": 1669752256,
+      "videoCount": 22783,
+      "lastUpdated": "2025-09-03T10:02:43.687051Z"
     }
   },
-  "lastUpdated": "2025-08-29T02:43:21.779359Z",
-  "totalVideos": 248,
-  "totalChannels": 13
+  "lastUpdated": "2025-09-03T10:02:43.687051Z",
+  "totalVideos": 249,
+  "totalChannels": 14
 }

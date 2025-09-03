@@ -782,6 +782,50 @@
       "channelId": "UCTHCOPwqNfZ0uiKOvFyhGwg",
       "channelName": "연합뉴스TV",
       "collectedAt": "2025-08-29T02:43:15Z"
+    },
+    "rlbrrn6RXfA": {
+      "videoId": "rlbrrn6RXfA",
+      "title": "작살 이재명 시장의 사이다 발언!",
+      "description": "이재명 성남시장이 17일 대전 서구 둔산동 갤러리아백화점 타임월드점 앞에서 열린 ‘5차 박근혜 퇴진 대전 10만 시국대회’에 참석해 “이번 사태의 머리는 박근혜고, 몸통은 새누리당이며, 뿌리는 재벌”이라고 말했다. /신현종 기자",
+      "publishedAt": "2016-12-17T14:00:33Z",
+      "duration": "PT1M55S",
+      "viewCount": 8631,
+      "likeCount": 76,
+      "commentCount": 3,
+      "tags": [
+        "이재명 시장",
+        "이재명 성남시장",
+        "이재명 대선후보",
+        "이재명 대전",
+        "이재명 박근혜",
+        "문재인",
+        "박근혜 퇴진",
+        "박근혜 탄핵",
+        "이재명 촛불",
+        "이재명 지지율",
+        "이재명 신드롬",
+        "시국대회",
+        "최순실",
+        "이재명 재벌",
+        "새누리당",
+        "더불어민주당",
+        "이재명 사이다",
+        "사이다 이재명",
+        "촛불집회",
+        "사이다",
+        "고구마",
+        "안철수",
+        "박원순",
+        "안희정",
+        "작살 이재명",
+        "신현종"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2016-12-17T14:00:33Z",
+      "channelId": "UCdp4_yTBhQmB8E339Lafzow",
+      "channelName": "조선일보",
+      "collectedAt": "2025-09-03T10:02:44Z"
     }
   },
   "channels": {
@@ -973,9 +1017,36 @@
       "viewCount": 3351994752,
       "videoCount": 627296,
       "lastUpdated": "2025-08-29T02:43:15.443329Z"
+    },
+    "UCdp4_yTBhQmB8E339Lafzow": {
+      "channelId": "UCdp4_yTBhQmB8E339Lafzow",
+      "channelName": "조선일보",
+      "channelUrl": "@chosunmedia",
+      "channelDescription": " 조선일보 공식 유튜브 채널",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 1700000,
+      "viewCount": 1669752256,
+      "videoCount": 22783,
+      "lastUpdated": "2025-09-03T10:02:44.338104Z"
     }
   },
-  "lastUpdated": "2025-08-29T02:43:15.443329Z",
-  "totalVideos": 33,
-  "totalChannels": 7
+  "lastUpdated": "2025-09-03T10:02:44.338104Z",
+  "totalVideos": 34,
+  "totalChannels": 8
 }

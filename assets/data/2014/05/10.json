@@ -225,6 +225,33 @@
       "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
       "channelName": "JTBC News",
       "collectedAt": "2025-08-25T21:07:54Z"
+    },
+    "heyVZILuJSw": {
+      "videoId": "heyVZILuJSw",
+      "title": "세월호 처럼 뒤집힌 모형 배",
+      "description": "카이스트(KAIST) 해양시스템공학과가 9일 교내 실험동에서 세월호 침몰발생 원인분석을 상황을 가정해 모의 실험을 하고 있다. 이번 실험은 평형수를 줄이고 화물을 더 적재할 경우 이동하는 무게중심과 화물의 결박이 없을 경우 배의 복원력에 미치는 영향에 대한 실험이다. 실험에서 모형 배가 오른쪽으로 변침하자 세월호와 마찬가지로 배는 왼쪽으로 기울다 침몰했다. /신현종 기자",
+      "publishedAt": "2014-05-09T17:59:19Z",
+      "duration": "PT2M21S",
+      "viewCount": 10837,
+      "likeCount": 19,
+      "commentCount": 3,
+      "tags": [
+        "세월호",
+        "세월호실험",
+        "세월호모형배",
+        "카이스트",
+        "해양시스템공학과",
+        "세월호침몰",
+        "배침몰시연",
+        "신현종",
+        "조선일보"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2014-05-09T17:59:19Z",
+      "channelId": "UCdp4_yTBhQmB8E339Lafzow",
+      "channelName": "조선일보",
+      "collectedAt": "2025-09-03T10:02:46Z"
     }
   },
   "channels": {
@@ -308,9 +335,36 @@
       "viewCount": 14817048106,
       "videoCount": 261473,
       "lastUpdated": "2025-08-25T21:07:54.805009Z"
+    },
+    "UCdp4_yTBhQmB8E339Lafzow": {
+      "channelId": "UCdp4_yTBhQmB8E339Lafzow",
+      "channelName": "조선일보",
+      "channelUrl": "@chosunmedia",
+      "channelDescription": " 조선일보 공식 유튜브 채널",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 1700000,
+      "viewCount": 1669752256,
+      "videoCount": 22783,
+      "lastUpdated": "2025-09-03T10:02:46.413798Z"
     }
   },
-  "lastUpdated": "2025-08-25T21:07:54.806008Z",
-  "totalVideos": 9,
-  "totalChannels": 3
+  "lastUpdated": "2025-09-03T10:02:46.413798Z",
+  "totalVideos": 10,
+  "totalChannels": 4
 }

@@ -1146,6 +1146,38 @@
       "channelId": "UCTHCOPwqNfZ0uiKOvFyhGwg",
       "channelName": "연합뉴스TV",
       "collectedAt": "2025-08-29T02:43:33Z"
+    },
+    "DeaF5Me43cA": {
+      "videoId": "DeaF5Me43cA",
+      "title": "로봇·VR... 미래 만나는 타임머신 체험 / 조선일보",
+      "description": "첨단 과학을 미리 만나 볼 수 있는 대표적인 과학축제의 장인 '대전 사이언스페스티벌'이 대전 엑스포 시민광장과 한빛탑 광장, 대전컨벤션센터 등에서 열렸다.\n\n#조선일보 #CNOW취재현장 #로봇 #조선 #시사 #뉴스 #문화 #VR #체험 #증강현실 #카이스트",
+      "publishedAt": "2017-10-22T14:31:44Z",
+      "duration": "PT1M17S",
+      "viewCount": 239,
+      "likeCount": 1,
+      "commentCount": 0,
+      "tags": [
+        "로봇",
+        "VR",
+        "4차 산업혁명",
+        "미래 산업",
+        "사이언스페스티벌",
+        "엑스포 시민광장",
+        "휴보",
+        "로봇 체험",
+        "가상세계",
+        "증감현실",
+        "재난 로봇",
+        "카이스트 로봇",
+        "가상 현실",
+        "신세계"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2017-10-22T14:31:44Z",
+      "channelId": "UCdp4_yTBhQmB8E339Lafzow",
+      "channelName": "조선일보",
+      "collectedAt": "2025-09-03T10:02:42Z"
     }
   },
   "channels": {
@@ -1337,9 +1369,36 @@
       "viewCount": 17649222300,
       "videoCount": 890317,
       "lastUpdated": "2025-08-29T02:43:33.036868Z"
+    },
+    "UCdp4_yTBhQmB8E339Lafzow": {
+      "channelId": "UCdp4_yTBhQmB8E339Lafzow",
+      "channelName": "조선일보",
+      "channelUrl": "@chosunmedia",
+      "channelDescription": " 조선일보 공식 유튜브 채널",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 1700000,
+      "viewCount": 1669752256,
+      "videoCount": 22783,
+      "lastUpdated": "2025-09-03T10:02:42.783619Z"
     }
   },
-  "lastUpdated": "2025-08-29T02:43:33.036868Z",
-  "totalVideos": 41,
-  "totalChannels": 7
+  "lastUpdated": "2025-09-03T10:02:42.783619Z",
+  "totalVideos": 42,
+  "totalChannels": 8
 }

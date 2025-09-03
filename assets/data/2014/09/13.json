@@ -287,6 +287,23 @@
       "channelId": "UCfq4V1DAuaojnr2ryvWNysw",
       "channelName": "채널A News",
       "collectedAt": "2025-08-26T12:50:29Z"
+    },
+    "m2rA8suz_vo": {
+      "videoId": "m2rA8suz_vo",
+      "title": "칠석 고싸움놀이 재연",
+      "description": "중요무형문화재 제33호인 고싸움놀이가 광주 남구 칠석동 고싸움놀이테마파크에서 열렸다. 정월대보름에 열리는 고싸움놀이 재연행사는 AI와 세월호사건으로 미뤄져왔다./김영근 기자",
+      "publishedAt": "2014-09-13T13:53:20Z",
+      "duration": "PT1M9S",
+      "viewCount": 7512,
+      "likeCount": 10,
+      "commentCount": 0,
+      "tags": [],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2014-09-13T13:53:20Z",
+      "channelId": "UCdp4_yTBhQmB8E339Lafzow",
+      "channelName": "조선일보",
+      "collectedAt": "2025-09-03T10:02:45Z"
     }
   },
   "channels": {
@@ -343,9 +360,36 @@
       "viewCount": 6198116921,
       "videoCount": 143713,
       "lastUpdated": "2025-08-26T12:50:29.247105Z"
+    },
+    "UCdp4_yTBhQmB8E339Lafzow": {
+      "channelId": "UCdp4_yTBhQmB8E339Lafzow",
+      "channelName": "조선일보",
+      "channelUrl": "@chosunmedia",
+      "channelDescription": " 조선일보 공식 유튜브 채널",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 1700000,
+      "viewCount": 1669752256,
+      "videoCount": 22783,
+      "lastUpdated": "2025-09-03T10:02:45.747328Z"
     }
   },
-  "lastUpdated": "2025-08-26T12:50:29.250273Z",
-  "totalVideos": 6,
-  "totalChannels": 2
+  "lastUpdated": "2025-09-03T10:02:45.747328Z",
+  "totalVideos": 7,
+  "totalChannels": 3
 }

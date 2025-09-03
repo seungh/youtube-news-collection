@@ -288,6 +288,40 @@
       "channelId": "UCF4Wxdo3inmxP-Y59wXDsFw",
       "channelName": "MBCNEWS",
       "collectedAt": "2025-08-25T21:07:54Z"
+    },
+    "ABv0qpiLYMU": {
+      "videoId": "ABv0qpiLYMU",
+      "title": "영화 '한공주'의 주인공 배우 천우희",
+      "description": "\"도대체 어떤 삶을 살아왔길래?\" 천우희가 종종 듣는 질문이다. 그는 영화 '써니'에서 본드에 취해 깨진 병을 휘두르는 10대 반항아였고, '우아한 거짓말'에서 밖으로만 겉도는 아버지를 대신해 동생을 돌보는 소녀 가장이었다. 최근 '한공주'에선 또래 남자아이들에게 집단 성폭행을 당한 여고생이었다. 그때마다 천우희는 신산한 인생을 산 자의 전유물이라 할 수 있는 처연한 눈빛과 애달픈 미소를 아무렇지도 않게 툭툭 내던진다. /김연정 기자\n\n눈물보다 강하다, 이 처연한 눈빛\n\nhttp://news.chosun.com/site/data/html_dir/2014/04/28/2014042800027.html",
+      "publishedAt": "2014-04-27T13:22:15Z",
+      "duration": "PT1M33S",
+      "viewCount": 24769,
+      "likeCount": 118,
+      "commentCount": 8,
+      "tags": [],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2014-04-27T13:22:15Z",
+      "channelId": "UCdp4_yTBhQmB8E339Lafzow",
+      "channelName": "조선일보",
+      "collectedAt": "2025-09-03T10:02:46Z"
+    },
+    "_SL55VE6Lbc": {
+      "videoId": "_SL55VE6Lbc",
+      "title": "세월호 희생자 임시 합동분향소, 끊이지 않는 추모 물결",
+      "description": "경기도 안산시 올림픽기념관에 마련된 세월호 희생자 임시 합동분향소에 지난 주말에만 9만명이 넘는 추모 인파가 몰렸다. 임시분향소는 28일까지 운영되며 29일부터 안산시 화랑유원지에 정식분향소가 마련된다. 정부는 국민적인 애도 분위기를 위해 전국 17개 지역에 합동분향소를 설치, 28일부터 운영한다고 이날 밝혔다. /이태경 기자\n\n세월호 참사 임시분향소 헌화용 국화꽃 12만 송이 동나...근조 리본으로 임시 사용\n\nhttp://news.chosun.com/site/data/html_dir/2014/04/27/2014042701059.html",
+      "publishedAt": "2014-04-27T13:14:18Z",
+      "duration": "PT1M27S",
+      "viewCount": 865,
+      "likeCount": 4,
+      "commentCount": 0,
+      "tags": [],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2014-04-27T13:14:18Z",
+      "channelId": "UCdp4_yTBhQmB8E339Lafzow",
+      "channelName": "조선일보",
+      "collectedAt": "2025-09-03T10:02:46Z"
     }
   },
   "channels": {
@@ -344,9 +378,36 @@
       "viewCount": 24230949851,
       "videoCount": 332919,
       "lastUpdated": "2025-08-25T21:07:54.979831Z"
+    },
+    "UCdp4_yTBhQmB8E339Lafzow": {
+      "channelId": "UCdp4_yTBhQmB8E339Lafzow",
+      "channelName": "조선일보",
+      "channelUrl": "@chosunmedia",
+      "channelDescription": " 조선일보 공식 유튜브 채널",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 1700000,
+      "viewCount": 1669752256,
+      "videoCount": 22783,
+      "lastUpdated": "2025-09-03T10:02:46.488212Z"
     }
   },
-  "lastUpdated": "2025-08-25T21:07:54.979831Z",
-  "totalVideos": 13,
-  "totalChannels": 2
+  "lastUpdated": "2025-09-03T10:02:46.488212Z",
+  "totalVideos": 15,
+  "totalChannels": 3
 }

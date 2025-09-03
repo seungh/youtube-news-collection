@@ -267,6 +267,48 @@
       "channelId": "UCTHCOPwqNfZ0uiKOvFyhGwg",
       "channelName": "연합뉴스TV",
       "collectedAt": "2025-08-29T02:43:48Z"
+    },
+    "PW9CBJLqvQU": {
+      "videoId": "PW9CBJLqvQU",
+      "title": "[뒤카] 문재인, 안철수... 어색한 두 사람 / 조선일보",
+      "description": "김근태 전 상임고문 4주기 추모미사 현장. 안철수 의원이 새정치연합 탈당 후 처음으로 문재인 대표와 같은 자리에 있게 됐다. 살짝 어색한 기운이 흐르는 가운데 문 대표가 \"바쁜 시기일텐데 와주셔서 감사하다\"고 운을 뗐다. 하지만 안 의원은 별 다른 대답이 없고... 잠시 후 안 의원은 \"너무 많은 사람들에게 듣고 있어서 무슨 말을 할 수가 없다\"고 웃으며 말문을 열었다. 하지만 뭔가 어색한 분위기는 계속 이어지는데...\n\n영상편집=뒤카제작단\n\n▶ 기사링크 ([뒤카] 문재인 안철수, 어색한 두 사람_http://news.chosun.com/site/data/html_dir/2016/01/01/2016010100131.html)\n\n🔸 조선닷컴 공식 홈페이지 http://www.chosun.com\n🔸 조선비즈 공식 홈페이지 http://biz.chosun.com\n🔸 공식 페이스북 : https://www.facebook.com/chosun\n🔸 공식 트위터 : https://twitter.com/chosun\n\n◈ 사실에 대한 믿음, 할 말을 하는 용기. 조선일보◈\n\n#조선일보 #뉴스 #뒤카 #속보 #제보 #정치 #문재인 #김무성 #박근혜 #새정치 #더민주 #더불어민주당 #새누리",
+      "publishedAt": "2015-12-31T15:41:27Z",
+      "duration": "PT1M46S",
+      "viewCount": 7595,
+      "likeCount": 30,
+      "commentCount": 6,
+      "tags": [
+        "조선일보",
+        "조선닷컴",
+        "조선비즈",
+        "뉴스",
+        "시사",
+        "정치",
+        "사회",
+        "사건사고",
+        "국제",
+        "문화",
+        "라이프",
+        "이슈",
+        "인터뷰",
+        "조선일보 지면보기",
+        "조선일보 기사",
+        "두잇터",
+        "김광일의 입",
+        "조선라이브",
+        "취재현장",
+        "늇",
+        "방상훈",
+        "조선일보 손녀",
+        "속보",
+        "제보"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2015-12-31T15:41:27Z",
+      "channelId": "UCdp4_yTBhQmB8E339Lafzow",
+      "channelName": "조선일보",
+      "collectedAt": "2025-09-03T10:02:44Z"
     }
   },
   "channels": {
@@ -404,9 +446,36 @@
       "viewCount": 3351994752,
       "videoCount": 627296,
       "lastUpdated": "2025-08-29T02:43:48.921298Z"
+    },
+    "UCdp4_yTBhQmB8E339Lafzow": {
+      "channelId": "UCdp4_yTBhQmB8E339Lafzow",
+      "channelName": "조선일보",
+      "channelUrl": "@chosunmedia",
+      "channelDescription": " 조선일보 공식 유튜브 채널",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 1700000,
+      "viewCount": 1669752256,
+      "videoCount": 22783,
+      "lastUpdated": "2025-09-03T10:02:44.625323Z"
     }
   },
-  "lastUpdated": "2025-08-29T02:43:48.921298Z",
-  "totalVideos": 12,
-  "totalChannels": 5
+  "lastUpdated": "2025-09-03T10:02:44.625323Z",
+  "totalVideos": 13,
+  "totalChannels": 6
 }

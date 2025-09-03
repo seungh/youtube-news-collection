@@ -374,6 +374,74 @@
       "channelId": "UCTHCOPwqNfZ0uiKOvFyhGwg",
       "channelName": "연합뉴스TV",
       "collectedAt": "2025-08-29T02:43:36Z"
+    },
+    "Vzu0LAQ6P1U": {
+      "videoId": "Vzu0LAQ6P1U",
+      "title": "연평도 해역에서 불법 조업하다 견인되는 중국 어선",
+      "description": "우리 영해(領海)인 인천 옹진군 연평도 앞바다를 침범해 불법 조업 중인 중국 어선 2척을 우리 어민들이 직접 체포했다. 체포된 중국 어선들이 당도 선착장으로 견인되고 있다.",
+      "publishedAt": "2016-06-05T02:45:23Z",
+      "duration": "PT52S",
+      "viewCount": 9641,
+      "likeCount": 2,
+      "commentCount": 0,
+      "tags": [],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2016-06-05T02:45:23Z",
+      "channelId": "UCdp4_yTBhQmB8E339Lafzow",
+      "channelName": "조선일보",
+      "collectedAt": "2025-09-03T10:02:44Z"
+    },
+    "PZ-V1zk7mt0": {
+      "videoId": "PZ-V1zk7mt0",
+      "title": "연평도 해역에서 불법 조업하던 중국 어선에서 발견된 소라",
+      "description": "우리 영해(領海)인 인천 옹진군 연평도 앞바다를 침범해 불법 조업 중인 중국 어선 2척을 우리 어민들이 직접 체포했다. 견인된 중국 어선에서는 알을 밴 꽃게와 소라 등이 발견됐다.",
+      "publishedAt": "2016-06-05T02:39:19Z",
+      "duration": "PT1M29S",
+      "viewCount": 701,
+      "likeCount": 1,
+      "commentCount": 0,
+      "tags": [],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2016-06-05T02:39:19Z",
+      "channelId": "UCdp4_yTBhQmB8E339Lafzow",
+      "channelName": "조선일보",
+      "collectedAt": "2025-09-03T10:02:44Z"
+    },
+    "tS40NetR1yk": {
+      "videoId": "tS40NetR1yk",
+      "title": "연평도 해역에서 불법 조업하던 중국 어선에서 발견된 꽃게",
+      "description": "5일 오전 우리 영해(領海)인 인천 옹진군 연평도 앞바다를 침범해 불법 조업 중인 중국 어선 2척을 우리 어민들이 직접 체포했다. 중국 어선 내에선 알을 밴 꽃게가 발견됐다.",
+      "publishedAt": "2016-06-05T02:37:05Z",
+      "duration": "PT29S",
+      "viewCount": 501,
+      "likeCount": 2,
+      "commentCount": 0,
+      "tags": [],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2016-06-05T02:37:05Z",
+      "channelId": "UCdp4_yTBhQmB8E339Lafzow",
+      "channelName": "조선일보",
+      "collectedAt": "2025-09-03T10:02:44Z"
+    },
+    "UiCOr3cDsMQ": {
+      "videoId": "UiCOr3cDsMQ",
+      "title": "연평도에서 불법 조업하다 우리 어민에 붙잡힌 중국 어선",
+      "description": "6월 5일 오전 5시 50분쯤 연평도 북동쪽 망향전망대 앞 우리 영해에서 불법 조업을 하던 중국 어선 2대가 어민들에 붙잡혀 당도 선착장에 견인됐다./박태원  연평도 어민계장 제공",
+      "publishedAt": "2016-06-05T00:50:26Z",
+      "duration": "PT37S",
+      "viewCount": 5779,
+      "likeCount": 4,
+      "commentCount": 3,
+      "tags": [],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2016-06-05T00:50:26Z",
+      "channelId": "UCdp4_yTBhQmB8E339Lafzow",
+      "channelName": "조선일보",
+      "collectedAt": "2025-09-03T10:02:44Z"
     }
   },
   "channels": {
@@ -511,9 +579,36 @@
       "viewCount": 17649222300,
       "videoCount": 890317,
       "lastUpdated": "2025-08-29T02:43:36.007310Z"
+    },
+    "UCdp4_yTBhQmB8E339Lafzow": {
+      "channelId": "UCdp4_yTBhQmB8E339Lafzow",
+      "channelName": "조선일보",
+      "channelUrl": "@chosunmedia",
+      "channelDescription": " 조선일보 공식 유튜브 채널",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 1700000,
+      "viewCount": 1669752256,
+      "videoCount": 22783,
+      "lastUpdated": "2025-09-03T10:02:44.511957Z"
     }
   },
-  "lastUpdated": "2025-08-29T02:43:36.007310Z",
-  "totalVideos": 12,
-  "totalChannels": 5
+  "lastUpdated": "2025-09-03T10:02:44.511957Z",
+  "totalVideos": 16,
+  "totalChannels": 6
 }

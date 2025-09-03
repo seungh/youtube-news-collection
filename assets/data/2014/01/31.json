@@ -195,6 +195,31 @@
       "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
       "channelName": "뉴스TVCHOSUN",
       "collectedAt": "2025-08-21T10:46:22Z"
+    },
+    "3hjlkXw8RLU": {
+      "videoId": "3hjlkXw8RLU",
+      "title": "'40억원대' 인터넷 도박 운영 조직 적발",
+      "description": "해외에 서버를 두고 국내에서 40억원 상당의 인터넷 도박 사이트를 개설 운영한 조직폭력배와 도박에 참여한 대학생·주부 등 280여명이 경찰에 붙잡혔다. 충남 천안동남경찰서는  해외에 서버를 두고 인터넷 도박사이트를 개설해 국내에 판매한 A씨와 국내에서 도박장을 운영한 조직폭력배 B씨를 각각 도박 개장 혐의로 구속했다고 밝혔다. 경찰은 또 도박사이트를 운영하고 알선한 조직폭력배 등 20명과 도박에 참여한 주부·학생·회사원 등 261명을 도박 등의 혐의로 불구속 기소했다. /신현종 기자",
+      "publishedAt": "2014-01-30T15:52:09Z",
+      "duration": "PT1M14S",
+      "viewCount": 16905,
+      "likeCount": 9,
+      "commentCount": 1,
+      "tags": [
+        "인터넷도박",
+        "인터넷사기",
+        "40억원",
+        "도박사이트",
+        "조직폭력배",
+        "신현종",
+        "조선일보"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2014-01-30T15:52:09Z",
+      "channelId": "UCdp4_yTBhQmB8E339Lafzow",
+      "channelName": "조선일보",
+      "collectedAt": "2025-09-03T10:02:46Z"
     }
   },
   "channels": {
@@ -224,9 +249,36 @@
       "viewCount": 4319423561,
       "videoCount": 150855,
       "lastUpdated": "2025-08-21T10:29:00.406627Z"
+    },
+    "UCdp4_yTBhQmB8E339Lafzow": {
+      "channelId": "UCdp4_yTBhQmB8E339Lafzow",
+      "channelName": "조선일보",
+      "channelUrl": "@chosunmedia",
+      "channelDescription": " 조선일보 공식 유튜브 채널",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 1700000,
+      "viewCount": 1669752256,
+      "videoCount": 22783,
+      "lastUpdated": "2025-09-03T10:02:46.849456Z"
     }
   },
-  "lastUpdated": "2025-08-21T10:46:22.734538Z",
-  "totalVideos": 7,
-  "totalChannels": 1
+  "lastUpdated": "2025-09-03T10:02:46.849456Z",
+  "totalVideos": 8,
+  "totalChannels": 2
 }

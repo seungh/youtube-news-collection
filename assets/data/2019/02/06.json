@@ -4498,6 +4498,57 @@
       "channelId": "UCTHCOPwqNfZ0uiKOvFyhGwg",
       "channelName": "연합뉴스TV",
       "collectedAt": "2025-08-29T02:44:00Z"
+    },
+    "5aoBtY9BtC8": {
+      "videoId": "5aoBtY9BtC8",
+      "title": "[김광일의 입] ep47.  현재 투옥 중인 전 정권 인사들을 설에 뭘 먹었을까?",
+      "description": "앞선 박근혜 정부 때 인사들이, 대통령을 비롯해서, 대법원장, 청와대 비서실장, 경제부총리, 청와대 경제수석까지, 마치 감옥 안에서 정부 조직을 하나 만들어도 될 만큼 투옥돼 있는 상황에서 설 연휴를 보냈다는 점에 대해, 지금 자유한국당 당 대표에 출마한 사람들은 어떤 생각을 갖고 있는지 밝혀야 한다. 오로지 자신의 당권 투쟁, 자신들의 2020년 총선 공천권에만 관심이 있는 것인지 도무지 알 수 없다. ‘웰빙 정당’에, ‘책상물림 선비’들이 모여서 어떻게 투쟁을 해나갈지 알 수 없다. \n\n🔸 조선닷컴 공식 홈페이지 http://www.chosun.com\n🔸 조선비즈 공식 홈페이지 http://www.biz.chosun.com\n🔸 공식 페이스북 : https://www.facebook.com/chosun\n🔸 공식 트위터 : https://twitter.com/chosun\n\n◈ 사실에 대한 믿음, 할 말을 하는 용기. 조선일보◈\n\n#조선일보 #뉴스 #속보 #제보",
+      "publishedAt": "2019-02-06T08:33:34Z",
+      "duration": "PT5M50S",
+      "viewCount": 153059,
+      "likeCount": 11931,
+      "commentCount": 472,
+      "tags": [
+        "조선일보",
+        "조선닷컴",
+        "조선비즈",
+        "뉴스",
+        "시사",
+        "정치",
+        "사회",
+        "사건사고",
+        "국제",
+        "문화",
+        "라이프",
+        "이슈",
+        "인터뷰",
+        "조선일보 지면보기",
+        "조선일보 기사",
+        "두잇터",
+        "김광일의 입",
+        "조선라이브",
+        "취재현장",
+        "늇",
+        "방상훈",
+        "조선일보 손녀",
+        "속보",
+        "제보",
+        "황교안",
+        "홍준표",
+        "오세훈",
+        "자유한국당",
+        "박근혜",
+        "이명박",
+        "김경수",
+        "안희정",
+        "문재인"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2019-02-06T08:33:34Z",
+      "channelId": "UCdp4_yTBhQmB8E339Lafzow",
+      "channelName": "조선일보",
+      "collectedAt": "2025-09-03T10:02:40Z"
     }
   },
   "channels": {
@@ -4797,9 +4848,36 @@
       "viewCount": 3351994752,
       "videoCount": 627296,
       "lastUpdated": "2025-08-29T02:44:00.767097Z"
+    },
+    "UCdp4_yTBhQmB8E339Lafzow": {
+      "channelId": "UCdp4_yTBhQmB8E339Lafzow",
+      "channelName": "조선일보",
+      "channelUrl": "@chosunmedia",
+      "channelDescription": " 조선일보 공식 유튜브 채널",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 1700000,
+      "viewCount": 1669752256,
+      "videoCount": 22783,
+      "lastUpdated": "2025-09-03T10:02:40.697772Z"
     }
   },
-  "lastUpdated": "2025-08-29T02:44:00.767097Z",
-  "totalVideos": 142,
-  "totalChannels": 11
+  "lastUpdated": "2025-09-03T10:02:40.697772Z",
+  "totalVideos": 143,
+  "totalChannels": 12
 }

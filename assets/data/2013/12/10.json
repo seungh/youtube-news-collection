@@ -234,6 +234,40 @@
       "channelId": "UC4Aa3OPkMenwTANpf0oWVRQ",
       "channelName": "CBS 김현정의 뉴스쇼",
       "collectedAt": "2025-08-22T14:03:34Z"
+    },
+    "EvB1vFKWVMo": {
+      "videoId": "EvB1vFKWVMo",
+      "title": "김경동교수와 이덕환교수의 만남",
+      "description": "지난주 수요일(4일)'탄소문화상 시상식'이 진행되었다. 학술원 회원이자 한국 사회학의 창시자 중 한 명으로 불리는 김경동 카이스트 초빙교수와 대한화학회 탄소문화원장을 맡고 있는 이덕환서강대 교수의 만남./김연정 기자\n\n뜨거운 국민성, 식혀주는 게 융합적 思考\n\nhttp://premium.chosun.com/site/data/html_dir/2013/12/10/2013121004804.html",
+      "publishedAt": "2013-12-10T13:20:40Z",
+      "duration": "PT4M23S",
+      "viewCount": 700,
+      "likeCount": 3,
+      "commentCount": 0,
+      "tags": [],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2013-12-10T13:20:40Z",
+      "channelId": "UCdp4_yTBhQmB8E339Lafzow",
+      "channelName": "조선일보",
+      "collectedAt": "2025-09-03T10:02:47Z"
+    },
+    "mSJ2XHs-B5A": {
+      "videoId": "mSJ2XHs-B5A",
+      "title": "넬슨 만델라 영결식",
+      "description": "각국 정상급 인사들이 10일(현지 시각) 남아프리카공화국 요하네스버그 FNB스타디움에서 열린 넬슨 만델라 전 대통령 추모식에 참석했다. / 조인원 기자\n\n[만델라 추모식] 마디바(존경받는 어른) 마지막 길, 20만명 배웅... 용서가 비처럼 내렸다\n\nhttp://news.chosun.com/site/data/html_dir/2013/12/11/2013121100268.html\n\n넬슨 만델라 장례식, 인권운동의 별이 지다...\"91개국 정상 참석\"\n\nhttp://news.chosun.com/site/data/html_dir/2013/12/10/2013121003452.html",
+      "publishedAt": "2013-12-10T13:15:02Z",
+      "duration": "PT1M46S",
+      "viewCount": 2221,
+      "likeCount": 6,
+      "commentCount": 0,
+      "tags": [],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2013-12-10T13:15:02Z",
+      "channelId": "UCdp4_yTBhQmB8E339Lafzow",
+      "channelName": "조선일보",
+      "collectedAt": "2025-09-03T10:02:47Z"
     }
   },
   "channels": {
@@ -317,9 +351,36 @@
       "viewCount": 1280577570,
       "videoCount": 19124,
       "lastUpdated": "2025-08-24T21:55:11.616101Z"
+    },
+    "UCdp4_yTBhQmB8E339Lafzow": {
+      "channelId": "UCdp4_yTBhQmB8E339Lafzow",
+      "channelName": "조선일보",
+      "channelUrl": "@chosunmedia",
+      "channelDescription": " 조선일보 공식 유튜브 채널",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 1700000,
+      "viewCount": 1669752256,
+      "videoCount": 22783,
+      "lastUpdated": "2025-09-03T10:02:47.323825Z"
     }
   },
-  "lastUpdated": "2025-08-24T21:55:11.616101Z",
-  "totalVideos": 8,
-  "totalChannels": 3
+  "lastUpdated": "2025-09-03T10:02:47.323825Z",
+  "totalVideos": 10,
+  "totalChannels": 4
 }

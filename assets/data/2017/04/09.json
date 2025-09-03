@@ -1004,6 +1004,49 @@
       "channelId": "UChlgI3UHCOnwUGzWzbJ3H5w",
       "channelName": " YTN",
       "collectedAt": "2025-08-27T19:02:46Z"
+    },
+    "TgGa7xJdjE4": {
+      "videoId": "TgGa7xJdjE4",
+      "title": "[경향VR360] 여의도 윤중로 ‘벚꽃길’을 걷다",
+      "description": "서울 낮 최고기온이 21도로 완연한 봄 날씨를 보인 9일 서울 여의도동 윤중로 일대에서 열린 '2017 여의도 봄꽃축제'를 찾은 시민들이 꽃길을 걸으며 봄을 만끽하고 있다.\n\n〈 유명종 PD yoopd@khan.co.kr 〉",
+      "publishedAt": "2017-04-09T07:48:38Z",
+      "duration": "PT1M8S",
+      "viewCount": 320,
+      "likeCount": 0,
+      "commentCount": 0,
+      "tags": [
+        "경향신문",
+        "여의도 윤중로",
+        "벚꽃"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2017-04-09T07:48:38Z",
+      "channelId": "UCHXvjavEtkPFJCfGlm0wTXw",
+      "channelName": "경향티비",
+      "collectedAt": "2025-09-03T10:02:15Z"
+    },
+    "UNYWPvBOQ_k": {
+      "videoId": "UNYWPvBOQ_k",
+      "title": "[입주단지 한눈에 보기] 별내신도시 효성해링턴코트",
+      "description": "전체 307가구, 전용면적 84형으로 구성된 단지.\n모든 집에 테라스가 설치된 테라스하우스로 별내신도시에서는 유일.\n3월 31일부터 입주가 시작. 한번 살펴볼까요.",
+      "publishedAt": "2017-04-09T09:12:48Z",
+      "duration": "PT1M13S",
+      "viewCount": 5602,
+      "likeCount": 2,
+      "commentCount": 2,
+      "tags": [
+        "별내신도시 효성 해링턴코트",
+        "별내신도시",
+        "효성해링턴",
+        "해링턴코트"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2017-04-09T09:12:48Z",
+      "channelId": "UCdp4_yTBhQmB8E339Lafzow",
+      "channelName": "조선일보",
+      "collectedAt": "2025-09-03T10:02:15Z"
     }
   },
   "channels": {
@@ -1195,9 +1238,63 @@
       "viewCount": 17649222300,
       "videoCount": 890317,
       "lastUpdated": "2025-08-29T02:43:35.208042Z"
+    },
+    "UCHXvjavEtkPFJCfGlm0wTXw": {
+      "channelId": "UCHXvjavEtkPFJCfGlm0wTXw",
+      "channelName": "경향티비",
+      "channelUrl": "@thekyunghyangtv",
+      "channelDescription": "더 나은 세상을 위해 우리가 알아야 할 이야기\n경향신문 공식 채널\n\n🚨 [정치비상구] 출구없는 극단 정치, 비상구를 열어드립니다\n🎙️ 매주 월-금 오후 4시 라이브 ｜ 토요특별판 낮 12시\n🎙️ 정치인물사담회 '인물비상구' 일요일 오후 4시\n 📞광고/제휴 문의 : insaps10@gmail.com\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/6Wlbqcuxx1ESFI2U-gQqhHyYpJ-PiWgqyjotWwD9VN5JygRnIuUvZE1LjUMwKNbb5LqRCEM4kpQ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/6Wlbqcuxx1ESFI2U-gQqhHyYpJ-PiWgqyjotWwD9VN5JygRnIuUvZE1LjUMwKNbb5LqRCEM4kpQ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/6Wlbqcuxx1ESFI2U-gQqhHyYpJ-PiWgqyjotWwD9VN5JygRnIuUvZE1LjUMwKNbb5LqRCEM4kpQ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 537000,
+      "viewCount": 354014202,
+      "videoCount": 11630,
+      "lastUpdated": "2025-09-03T10:02:15.192209Z"
+    },
+    "UCdp4_yTBhQmB8E339Lafzow": {
+      "channelId": "UCdp4_yTBhQmB8E339Lafzow",
+      "channelName": "조선일보",
+      "channelUrl": "@chosunmedia",
+      "channelDescription": " 조선일보 공식 유튜브 채널",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 1700000,
+      "viewCount": 1669752256,
+      "videoCount": 22783,
+      "lastUpdated": "2025-09-03T10:02:15.192209Z"
     }
   },
-  "lastUpdated": "2025-08-29T02:43:35.208042Z",
-  "totalVideos": 40,
-  "totalChannels": 7
+  "lastUpdated": "2025-09-03T10:02:15.192209Z",
+  "totalVideos": 42,
+  "totalChannels": 9
 }

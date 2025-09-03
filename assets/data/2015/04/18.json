@@ -319,6 +319,67 @@
       "channelId": "UCTHCOPwqNfZ0uiKOvFyhGwg",
       "channelName": "연합뉴스TV",
       "collectedAt": "2025-08-29T02:43:17Z"
+    },
+    "dmiYBwUE6Os": {
+      "videoId": "dmiYBwUE6Os",
+      "title": "촛불로 되살아난 세월호",
+      "description": "세월호 참사 1주기를 맞아 17일 저녁 서울시청 앞 서울광장에서 4,160개의 촛불로 세월호 형상을 만든 '세상에서 가장 슬픈 도전' 행사가 열렸다.",
+      "publishedAt": "2015-04-17T15:06:34Z",
+      "duration": "PT54S",
+      "viewCount": 600,
+      "likeCount": 1,
+      "commentCount": 0,
+      "tags": [],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2015-04-17T15:06:34Z",
+      "channelId": "UC1aS5CRRDrN6CmR2VcpmetA",
+      "channelName": "한국일보(hankookilbo.com)",
+      "collectedAt": "2025-09-03T10:02:02Z"
+    },
+    "jxkpPRvg7k4": {
+      "videoId": "jxkpPRvg7k4",
+      "title": "드론 시대가 열리다",
+      "description": "서울 강남구 삼성동 코엑스에서 열린 제24회 서울국제사진영상기자재전에서 드론이 눈길을 끌고 있다. 이 행사에서 DJI 팬텀3 발표회가 열리기도 했다. 팬텀3는 소니 Exmor 카메라 센서를 사용해 4K 동영상(프로페셔널 버전)과 1200만화소의 사진 촬영이 가능하다. 또한 초음파센서를 장착해 GPS가 잡히지 않는 실내에서도 안정적인 비행이 가능하며 최대 2km거리까지 실시간으로 HD영상 송수신이 가능한 것이 특징이다. /김연정 기자",
+      "publishedAt": "2015-04-17T15:10:15Z",
+      "duration": "PT1M",
+      "viewCount": 173,
+      "likeCount": 0,
+      "commentCount": 0,
+      "tags": [
+        "드론",
+        "코엑스",
+        "국제사진영상기자재전",
+        "팬텀3",
+        "DJI",
+        "4K동영상",
+        "프로페셔널버전",
+        "1200만화소",
+        "사진촬영",
+        "사진",
+        "영상",
+        "기자재",
+        "초음파",
+        "센서",
+        "GPS",
+        "실내",
+        "안정적",
+        "비행",
+        "최대",
+        "2Km",
+        "HD",
+        "송수신",
+        "가능",
+        "김연정 기자",
+        "김연정",
+        "조선일보"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2015-04-17T15:10:15Z",
+      "channelId": "UCdp4_yTBhQmB8E339Lafzow",
+      "channelName": "조선일보",
+      "collectedAt": "2025-09-03T10:02:02Z"
     }
   },
   "channels": {
@@ -429,9 +490,63 @@
       "viewCount": 3351994752,
       "videoCount": 627296,
       "lastUpdated": "2025-08-29T02:43:17.167594Z"
+    },
+    "UC1aS5CRRDrN6CmR2VcpmetA": {
+      "channelId": "UC1aS5CRRDrN6CmR2VcpmetA",
+      "channelName": "한국일보(hankookilbo.com)",
+      "channelUrl": "@thehankookilbo",
+      "channelDescription": "'공존, 통합, 사람'의 정신으로 앞장서는 국내 유일 중도 정론지 한국일보입니다.\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ppj3UlPuwNq5DyUWNFz27Vc6WoIrRpRI2IMHc9MZ3UqkNVWcXrT83qJTU3bAweA3BOodFu4Euf0=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ppj3UlPuwNq5DyUWNFz27Vc6WoIrRpRI2IMHc9MZ3UqkNVWcXrT83qJTU3bAweA3BOodFu4Euf0=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ppj3UlPuwNq5DyUWNFz27Vc6WoIrRpRI2IMHc9MZ3UqkNVWcXrT83qJTU3bAweA3BOodFu4Euf0=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 362000,
+      "viewCount": 296027619,
+      "videoCount": 6196,
+      "lastUpdated": "2025-09-03T10:02:02.493949Z"
+    },
+    "UCdp4_yTBhQmB8E339Lafzow": {
+      "channelId": "UCdp4_yTBhQmB8E339Lafzow",
+      "channelName": "조선일보",
+      "channelUrl": "@chosunmedia",
+      "channelDescription": " 조선일보 공식 유튜브 채널",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 1700000,
+      "viewCount": 1669752256,
+      "videoCount": 22783,
+      "lastUpdated": "2025-09-03T10:02:02.493949Z"
     }
   },
-  "lastUpdated": "2025-08-29T02:43:17.167594Z",
-  "totalVideos": 13,
-  "totalChannels": 4
+  "lastUpdated": "2025-09-03T10:02:02.493949Z",
+  "totalVideos": 15,
+  "totalChannels": 6
 }

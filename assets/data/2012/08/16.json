@@ -45,6 +45,28 @@
       "channelId": "UCfq4V1DAuaojnr2ryvWNysw",
       "channelName": "채널A News",
       "collectedAt": "2025-08-26T12:50:34Z"
+    },
+    "h2B33rjkZD0": {
+      "videoId": "h2B33rjkZD0",
+      "title": "[경향신문]올림픽공원 '가을 맞이하는 해바라기'",
+      "description": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=201208161138381&code=940100\n\n무더위와 폭우가 지나가고 가을이 성큼 다가왔다. 서울 송파구 방이동 올림픽공원에는 8~9월 꽃을 활짝 피우는 사람 키높이만한 해바라기들이 군락을 이루고 있다.\n\n몽촌토성을 중심으로 43만 8000평의 올림픽공원은 호반의 길, 토성의 길, 추억의 길, 연인의 길 그리고 젊음의 길로 구성되어 있다. 해바라기밭이 위치한 '토성의 길'은 2.2㎞에 달하는 산책 코스로 이루어져 있다. 특히 '깔딱고개'가 있어 이곳에 올라 백제유적과 확트인 잔디밭을 내려다 볼수 있고, 각종 광고 촬영으로 유명한 나홀로나무가 있어 산책, 데이트, 조깅, 출사 코스로 시민들에게 인기가 높다. 개방시간은 오전 5시부터 밤 10시까지이며 도보나 자전거 출입으로 가능하다.\n\n〈채용민 PD〉",
+      "publishedAt": "2012-08-16T01:40:22Z",
+      "duration": "PT1M17S",
+      "viewCount": 1166,
+      "likeCount": 2,
+      "commentCount": 0,
+      "tags": [
+        "경향신문",
+        "올림픽공원",
+        "가을",
+        "해바라기"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2012-08-16T01:40:22Z",
+      "channelId": "UCHXvjavEtkPFJCfGlm0wTXw",
+      "channelName": "경향티비",
+      "collectedAt": "2025-09-03T10:02:33Z"
     }
   },
   "channels": {
@@ -74,9 +96,36 @@
       "viewCount": 6198116921,
       "videoCount": 143713,
       "lastUpdated": "2025-08-26T12:50:34.276025Z"
+    },
+    "UCHXvjavEtkPFJCfGlm0wTXw": {
+      "channelId": "UCHXvjavEtkPFJCfGlm0wTXw",
+      "channelName": "경향티비",
+      "channelUrl": "@thekyunghyangtv",
+      "channelDescription": "더 나은 세상을 위해 우리가 알아야 할 이야기\n경향신문 공식 채널\n\n🚨 [정치비상구] 출구없는 극단 정치, 비상구를 열어드립니다\n🎙️ 매주 월-금 오후 4시 라이브 ｜ 토요특별판 낮 12시\n🎙️ 정치인물사담회 '인물비상구' 일요일 오후 4시\n 📞광고/제휴 문의 : insaps10@gmail.com\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/6Wlbqcuxx1ESFI2U-gQqhHyYpJ-PiWgqyjotWwD9VN5JygRnIuUvZE1LjUMwKNbb5LqRCEM4kpQ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/6Wlbqcuxx1ESFI2U-gQqhHyYpJ-PiWgqyjotWwD9VN5JygRnIuUvZE1LjUMwKNbb5LqRCEM4kpQ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/6Wlbqcuxx1ESFI2U-gQqhHyYpJ-PiWgqyjotWwD9VN5JygRnIuUvZE1LjUMwKNbb5LqRCEM4kpQ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 537000,
+      "viewCount": 354014202,
+      "videoCount": 11630,
+      "lastUpdated": "2025-09-03T10:02:33.144208Z"
     }
   },
-  "lastUpdated": "2025-08-26T12:50:34.276025Z",
-  "totalVideos": 2,
-  "totalChannels": 1
+  "lastUpdated": "2025-09-03T10:02:33.144208Z",
+  "totalVideos": 3,
+  "totalChannels": 2
 }

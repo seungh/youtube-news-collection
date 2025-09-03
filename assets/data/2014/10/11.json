@@ -362,6 +362,40 @@
       "channelId": "UChlgI3UHCOnwUGzWzbJ3H5w",
       "channelName": " YTN",
       "collectedAt": "2025-08-27T19:05:18Z"
+    },
+    "ePhrLD6JgSw": {
+      "videoId": "ePhrLD6JgSw",
+      "title": "명량해전 재현",
+      "description": "11일 전남 해남과 진도를 잇는 울돌목에서 이순신장군이 불후의 해전을 이끈 명량해전 재현행사가 열렸다./김영근 기자",
+      "publishedAt": "2014-10-11T08:48:13Z",
+      "duration": "PT1M35S",
+      "viewCount": 5155,
+      "likeCount": 11,
+      "commentCount": 0,
+      "tags": [],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2014-10-11T08:48:13Z",
+      "channelId": "UCdp4_yTBhQmB8E339Lafzow",
+      "channelName": "조선일보",
+      "collectedAt": "2025-09-03T10:02:45Z"
+    },
+    "nib3UUSoutc": {
+      "videoId": "nib3UUSoutc",
+      "title": "불법중국어선 선장,해경 총에 사망",
+      "description": "10일 오전 전북 부안군 왕등도 서쪽 144km 해상에서 우리해경이 불법조업을 하던 중국어선을 검문하는 과정에서 선원들이 흉기를 휘두르며 저항하다 해경이 쏜 총에 선장이 맞아 사망했다./서해청\n\nhttp://news.chosun.com/site/data/html_dir/2014/10/11/2014101100142.html\n\n불법조업 中어선 집단 저항… 선장 1명, 海警 총에 사망",
+      "publishedAt": "2014-10-11T01:14:10Z",
+      "duration": "PT1M32S",
+      "viewCount": 14625,
+      "likeCount": 29,
+      "commentCount": 24,
+      "tags": [],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2014-10-11T01:14:10Z",
+      "channelId": "UCdp4_yTBhQmB8E339Lafzow",
+      "channelName": "조선일보",
+      "collectedAt": "2025-09-03T10:02:45Z"
     }
   },
   "channels": {
@@ -445,9 +479,36 @@
       "viewCount": 17649222300,
       "videoCount": 890317,
       "lastUpdated": "2025-08-29T02:43:54.761105Z"
+    },
+    "UCdp4_yTBhQmB8E339Lafzow": {
+      "channelId": "UCdp4_yTBhQmB8E339Lafzow",
+      "channelName": "조선일보",
+      "channelUrl": "@chosunmedia",
+      "channelDescription": " 조선일보 공식 유튜브 채널",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 1700000,
+      "viewCount": 1669752256,
+      "videoCount": 22783,
+      "lastUpdated": "2025-09-03T10:02:45.628575Z"
     }
   },
-  "lastUpdated": "2025-08-29T02:43:54.761105Z",
-  "totalVideos": 12,
-  "totalChannels": 3
+  "lastUpdated": "2025-09-03T10:02:45.628575Z",
+  "totalVideos": 14,
+  "totalChannels": 4
 }

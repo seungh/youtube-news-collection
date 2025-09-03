@@ -147,6 +147,23 @@
       "channelId": "UChlgI3UHCOnwUGzWzbJ3H5w",
       "channelName": " YTN",
       "collectedAt": "2025-08-27T19:05:15Z"
+    },
+    "rjRnQhyeFgM": {
+      "videoId": "rjRnQhyeFgM",
+      "title": "님을 위한 행진곡 부르는 안철수",
+      "description": "5.18 민주화운동 34주년을 하루 앞둔 17일 국립 518민주묘역. 김한길,안철수 대표가 경찰의 보호를 받으며 묘역을 참배했다. 하지만 두 공동대표는 전략공천에 반대하는 일부 단체들의 고성과 욕설을 들어야했다\n\n'임을 위한 행진곡' 논란에... 반쪽행사된 5·18 기념식\n\nhttp://news.chosun.com/site/data/html_dir/2014/05/19/2014051900118.html\n\n강운태측 \"안철수는 '5·18 참배쇼' 열지 말았어야\"\n\nhttp://news.chosun.com/site/data/html_dir/2014/05/17/2014051701246.html",
+      "publishedAt": "2014-05-17T10:33:42Z",
+      "duration": "PT36S",
+      "viewCount": 2490,
+      "likeCount": 2,
+      "commentCount": 0,
+      "tags": [],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2014-05-17T10:33:42Z",
+      "channelId": "UCdp4_yTBhQmB8E339Lafzow",
+      "channelName": "조선일보",
+      "collectedAt": "2025-09-03T10:02:46Z"
     }
   },
   "channels": {
@@ -230,9 +247,36 @@
       "viewCount": 17649222300,
       "videoCount": 890317,
       "lastUpdated": "2025-08-29T02:43:51.626994Z"
+    },
+    "UCdp4_yTBhQmB8E339Lafzow": {
+      "channelId": "UCdp4_yTBhQmB8E339Lafzow",
+      "channelName": "조선일보",
+      "channelUrl": "@chosunmedia",
+      "channelDescription": " 조선일보 공식 유튜브 채널",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 1700000,
+      "viewCount": 1669752256,
+      "videoCount": 22783,
+      "lastUpdated": "2025-09-03T10:02:46.379758Z"
     }
   },
-  "lastUpdated": "2025-08-29T02:43:51.626994Z",
-  "totalVideos": 6,
-  "totalChannels": 3
+  "lastUpdated": "2025-09-03T10:02:46.379758Z",
+  "totalVideos": 7,
+  "totalChannels": 4
 }

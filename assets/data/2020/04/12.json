@@ -6758,6 +6758,23 @@
       "channelId": "UCTHCOPwqNfZ0uiKOvFyhGwg",
       "channelName": "연합뉴스TV",
       "collectedAt": "2025-08-29T02:42:43Z"
+    },
+    "x8y3W-s8xs8": {
+      "videoId": "x8y3W-s8xs8",
+      "title": "동아일보 창간 100주년, 안젤리나 졸리 인터뷰",
+      "description": "동아일보 창간 100주년을 기념해,\n안젤리나 졸리와 인터뷰를 진행했습니다. \n\n▼ 동아일보 SNS \n· 동아일보 네이버 포스트 https://m.post.naver.com/my.nhn?membe...\n· 동아일보 페이스북 https://www.facebook.com/dongamedia/\n· 동아일보 인스타그램 https://www.instagram.com/dongailbo/",
+      "publishedAt": "2020-04-12T05:17:50Z",
+      "duration": "PT1M37S",
+      "viewCount": 840,
+      "likeCount": 14,
+      "commentCount": 0,
+      "tags": [],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2020-04-12T05:17:50Z",
+      "channelId": "UCnHyx6H7fhKfUoAAaVGYvxQ",
+      "channelName": "동아일보",
+      "collectedAt": "2025-09-03T10:00:18Z"
     }
   },
   "channels": {
@@ -7111,9 +7128,36 @@
       "viewCount": 3278386064,
       "videoCount": 233358,
       "lastUpdated": "2025-08-29T02:42:43.892780Z"
+    },
+    "UCnHyx6H7fhKfUoAAaVGYvxQ": {
+      "channelId": "UCnHyx6H7fhKfUoAAaVGYvxQ",
+      "channelName": "동아일보",
+      "channelUrl": "@donga-ilbo",
+      "channelDescription": "동아일보 공식 유튜브 채널입니다. \n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/S1eWLrew2Jjv-JLrGqkADPNPJF5u7qzpYE3o8_NoLbH7fVTjtFm9TYlxfOjbB3dH5Lw6qKM-MQ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/S1eWLrew2Jjv-JLrGqkADPNPJF5u7qzpYE3o8_NoLbH7fVTjtFm9TYlxfOjbB3dH5Lw6qKM-MQ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/S1eWLrew2Jjv-JLrGqkADPNPJF5u7qzpYE3o8_NoLbH7fVTjtFm9TYlxfOjbB3dH5Lw6qKM-MQ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 107000,
+      "viewCount": 47341564,
+      "videoCount": 4079,
+      "lastUpdated": "2025-09-03T10:00:18.792981Z"
     }
   },
-  "lastUpdated": "2025-08-29T02:42:43.896782Z",
-  "totalVideos": 196,
-  "totalChannels": 13
+  "lastUpdated": "2025-09-03T10:00:18.792981Z",
+  "totalVideos": 197,
+  "totalChannels": 14
 }

@@ -2069,6 +2069,49 @@
       "channelId": "UCTHCOPwqNfZ0uiKOvFyhGwg",
       "channelName": "연합뉴스TV",
       "collectedAt": "2025-08-29T02:43:14Z"
+    },
+    "5aEsTYssHBk": {
+      "videoId": "5aEsTYssHBk",
+      "title": "[영상] 99년생이 억울하다고? \"우리도 억울했다!\" 세대들의 2017 송년회!",
+      "description": "최근 포항 지진 사태로 수능시험이 연기되자 수험생인 99년생의 불운을 이야기하는 말들이 떠돌았다.\n\n중고등학교 때 세월호 참사, 메르스 사태, 포항 지진까지 안 겪은 재난이 없다는 것. 굴곡진 한국의 현대사에서 수능 일주일 연기는 얼마나 큰 고난에 해당할까?",
+      "publishedAt": "2017-12-15T19:00:01Z",
+      "duration": "PT7M11S",
+      "viewCount": 124772,
+      "likeCount": 664,
+      "commentCount": 427,
+      "tags": [
+        "수능",
+        "연기",
+        "수능연기",
+        "세대",
+        "99년생",
+        "02학번",
+        "imf",
+        "imf세대",
+        "마루타세대",
+        "마루타",
+        "94년생",
+        "88만원세대",
+        "88만원",
+        "이해찬",
+        "이해찬세대",
+        "무한경쟁",
+        "배틀로얄",
+        "수능실험",
+        "내신",
+        "평가",
+        "취업",
+        "취준",
+        "프로취춘러",
+        "월드컵",
+        "연봉"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2017-12-15T19:00:01Z",
+      "channelId": "UC1aS5CRRDrN6CmR2VcpmetA",
+      "channelName": "한국일보(hankookilbo.com)",
+      "collectedAt": "2025-09-03T10:01:42Z"
     }
   },
   "channels": {
@@ -2260,9 +2303,36 @@
       "viewCount": 3351994752,
       "videoCount": 627296,
       "lastUpdated": "2025-08-29T02:43:14.377734Z"
+    },
+    "UC1aS5CRRDrN6CmR2VcpmetA": {
+      "channelId": "UC1aS5CRRDrN6CmR2VcpmetA",
+      "channelName": "한국일보(hankookilbo.com)",
+      "channelUrl": "@thehankookilbo",
+      "channelDescription": "'공존, 통합, 사람'의 정신으로 앞장서는 국내 유일 중도 정론지 한국일보입니다.\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ppj3UlPuwNq5DyUWNFz27Vc6WoIrRpRI2IMHc9MZ3UqkNVWcXrT83qJTU3bAweA3BOodFu4Euf0=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ppj3UlPuwNq5DyUWNFz27Vc6WoIrRpRI2IMHc9MZ3UqkNVWcXrT83qJTU3bAweA3BOodFu4Euf0=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ppj3UlPuwNq5DyUWNFz27Vc6WoIrRpRI2IMHc9MZ3UqkNVWcXrT83qJTU3bAweA3BOodFu4Euf0=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 362000,
+      "viewCount": 296027619,
+      "videoCount": 6196,
+      "lastUpdated": "2025-09-03T10:01:42.616239Z"
     }
   },
-  "lastUpdated": "2025-08-29T02:43:14.377734Z",
-  "totalVideos": 72,
-  "totalChannels": 7
+  "lastUpdated": "2025-09-03T10:01:42.616239Z",
+  "totalVideos": 73,
+  "totalChannels": 8
 }

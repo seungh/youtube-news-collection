@@ -801,6 +801,71 @@
       "channelId": "UCTHCOPwqNfZ0uiKOvFyhGwg",
       "channelName": "연합뉴스TV",
       "collectedAt": "2025-08-29T02:43:36Z"
+    },
+    "2oxnLPQshOg": {
+      "videoId": "2oxnLPQshOg",
+      "title": "'한열이가 바라던 세상은?' 이한열 열사의 어머니 배은심 씨의 이야기",
+      "description": "[인물360] '한열이가 바라던 세상은...' 이한열 열사의 어머니 배은심 씨의 이야기\n\n 2017년은 6월 항쟁 30주년이다. 30년 전 시민들은 민주 항쟁을 통해 전두환 군사 정권을 무너뜨리고 민주화를 이뤄냈다. 그 과정에서 당시 연세대학교 학생이었던 이한열 군은 경찰이 쏜 최루탄을 머리에 맞고 숨졌다. 이한열 열사의 어머니 배은심 씨는 아들을 잃은 이후 사회 운동의 길로 들어섰다. 6월 항쟁 30주년, 엄마에서 투사가 된 배은심씨의 이야기를 들어봤다.   \n\n\n----------------------------------------------------------------------------------------------------------------------------------\n\n▲ 더 다양한 기사 읽기 :  https://www.hankookilbo.com\n▲ 유튜브 구독하기 : https://www.youtube.com/thehankookilbo\n▲ 페이스북 좋아요 : https://www.facebook.com/hkilbo\n▲ 트위터 팔로우 :  https://twitter.com/hankookilbo\n\n▲사건 및 영상 제보\n digitalnews.hk@gmail.com \n ssolly@hankookilbo.com\n changsun91@hankookilbo.com\n\n제보 : 02)724-2489~2490",
+      "publishedAt": "2017-06-09T20:00:01Z",
+      "duration": "PT3M8S",
+      "viewCount": 13999,
+      "likeCount": 171,
+      "commentCount": 15,
+      "tags": [
+        "이한열",
+        "박종철",
+        "고문",
+        "치사",
+        "의문사",
+        "최루탄",
+        "6월항쟁",
+        "6.10",
+        "5.18",
+        "4.19",
+        "민주화",
+        "운동",
+        "민주항쟁",
+        "경찰",
+        "군대",
+        "전두환",
+        "노태우",
+        "박정희",
+        "군사",
+        "정권",
+        "독재",
+        "폭력",
+        "시민",
+        "진압",
+        "발포",
+        "시위",
+        "집회",
+        "민주주의",
+        "교체",
+        "승리",
+        "국민",
+        "30주년",
+        "배은심",
+        "어머니",
+        "모성",
+        "모친",
+        "인터뷰",
+        "대화",
+        "이야기",
+        "대담",
+        "목소리",
+        "사망",
+        "박근헤",
+        "광장",
+        "애국",
+        "군인",
+        "국가"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2017-06-09T20:00:01Z",
+      "channelId": "UC1aS5CRRDrN6CmR2VcpmetA",
+      "channelName": "한국일보(hankookilbo.com)",
+      "collectedAt": "2025-09-03T10:01:23Z"
     }
   },
   "channels": {
@@ -1019,9 +1084,36 @@
       "viewCount": 3351994752,
       "videoCount": 627296,
       "lastUpdated": "2025-08-29T02:43:36.660273Z"
+    },
+    "UC1aS5CRRDrN6CmR2VcpmetA": {
+      "channelId": "UC1aS5CRRDrN6CmR2VcpmetA",
+      "channelName": "한국일보(hankookilbo.com)",
+      "channelUrl": "@thehankookilbo",
+      "channelDescription": "'공존, 통합, 사람'의 정신으로 앞장서는 국내 유일 중도 정론지 한국일보입니다.\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ppj3UlPuwNq5DyUWNFz27Vc6WoIrRpRI2IMHc9MZ3UqkNVWcXrT83qJTU3bAweA3BOodFu4Euf0=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ppj3UlPuwNq5DyUWNFz27Vc6WoIrRpRI2IMHc9MZ3UqkNVWcXrT83qJTU3bAweA3BOodFu4Euf0=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ppj3UlPuwNq5DyUWNFz27Vc6WoIrRpRI2IMHc9MZ3UqkNVWcXrT83qJTU3bAweA3BOodFu4Euf0=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 362000,
+      "viewCount": 296027619,
+      "videoCount": 6196,
+      "lastUpdated": "2025-09-03T10:01:23.321562Z"
     }
   },
-  "lastUpdated": "2025-08-29T02:43:36.660273Z",
-  "totalVideos": 31,
-  "totalChannels": 8
+  "lastUpdated": "2025-09-03T10:01:23.321562Z",
+  "totalVideos": 32,
+  "totalChannels": 9
 }

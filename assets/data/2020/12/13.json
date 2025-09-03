@@ -5238,6 +5238,41 @@
       "channelId": "UCTHCOPwqNfZ0uiKOvFyhGwg",
       "channelName": "연합뉴스TV",
       "collectedAt": "2025-08-29T02:42:21Z"
+    },
+    "tEW9dMpCNR0": {
+      "videoId": "tEW9dMpCNR0",
+      "title": "필리버스터 '강제 종료' 민주당 국정원법 개정안 강행 처리",
+      "description": "더불어민주당이 13일 국회 본회의에서 국정원법 개정안 통과에 대한 야당의 필리버스터(무제한 토론)를 ‘강제 셧다운’했다. 민주당은 곧바로 국정원법 개정안에 대한 본회의 투표에 돌입해 단독으로 처리했다. 개정안은 국정원의 대공수사권을 경찰로 이관하는 내용을 핵심으로 하고 있다.",
+      "publishedAt": "2020-12-13T13:26:07Z",
+      "duration": "PT8M19S",
+      "viewCount": 1531,
+      "likeCount": 52,
+      "commentCount": 20,
+      "tags": [
+        "필리버스터",
+        "종결",
+        "더불어민주당",
+        "강제",
+        "종료",
+        "셧다운",
+        "국민의힘",
+        "이낙연",
+        "김태년",
+        "주호영",
+        "국정원법",
+        "개정안",
+        "무제한 토론",
+        "종결 동의서",
+        "대공수사권",
+        "경찰",
+        "이관"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2020-12-13T13:26:07Z",
+      "channelId": "UC1aS5CRRDrN6CmR2VcpmetA",
+      "channelName": "한국일보(hankookilbo.com)",
+      "collectedAt": "2025-09-03T10:01:58Z"
     }
   },
   "channels": {
@@ -5645,9 +5680,36 @@
       "viewCount": 3278386064,
       "videoCount": 233358,
       "lastUpdated": "2025-08-29T02:42:21.352369Z"
+    },
+    "UC1aS5CRRDrN6CmR2VcpmetA": {
+      "channelId": "UC1aS5CRRDrN6CmR2VcpmetA",
+      "channelName": "한국일보(hankookilbo.com)",
+      "channelUrl": "@thehankookilbo",
+      "channelDescription": "'공존, 통합, 사람'의 정신으로 앞장서는 국내 유일 중도 정론지 한국일보입니다.\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ppj3UlPuwNq5DyUWNFz27Vc6WoIrRpRI2IMHc9MZ3UqkNVWcXrT83qJTU3bAweA3BOodFu4Euf0=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ppj3UlPuwNq5DyUWNFz27Vc6WoIrRpRI2IMHc9MZ3UqkNVWcXrT83qJTU3bAweA3BOodFu4Euf0=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ppj3UlPuwNq5DyUWNFz27Vc6WoIrRpRI2IMHc9MZ3UqkNVWcXrT83qJTU3bAweA3BOodFu4Euf0=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 362000,
+      "viewCount": 296027619,
+      "videoCount": 6196,
+      "lastUpdated": "2025-09-03T10:01:58.745499Z"
     }
   },
-  "lastUpdated": "2025-08-29T02:42:21.353364Z",
-  "totalVideos": 168,
-  "totalChannels": 15
+  "lastUpdated": "2025-09-03T10:01:58.745499Z",
+  "totalVideos": 169,
+  "totalChannels": 16
 }

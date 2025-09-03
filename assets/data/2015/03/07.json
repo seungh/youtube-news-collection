@@ -818,6 +818,82 @@
       "channelId": "UCTHCOPwqNfZ0uiKOvFyhGwg",
       "channelName": "연합뉴스TV",
       "collectedAt": "2025-08-29T02:43:17Z"
+    },
+    "wadhHOFQalk": {
+      "videoId": "wadhHOFQalk",
+      "title": "(NAM) 박관용 前국회의장 \"부강한 통일 국가만들기에 조선일보가 있어 든든\"",
+      "description": "2015년 3월 5일 서울 롯데호텔에서 열린 조선일보 창간 95주년 기념식. /남강호 기자\n\n박관용 前국회의장 \"부강한 통일 國家 만들기에 조선일보가 있어 든든\"\n\nhttp://news.chosun.com/site/data/html_dir/2015/03/07/2015030700204.html",
+      "publishedAt": "2015-03-07T05:39:13Z",
+      "duration": "PT2M",
+      "viewCount": 327,
+      "likeCount": 2,
+      "commentCount": 0,
+      "tags": [
+        "Speaker Of The National Assembly Of South Korea (Government Office Or Title)",
+        "National Assembly (Governmental Body)",
+        "박관용",
+        "Speaker (Job Title)",
+        "The Chosun Ilbo (Newspaper)",
+        "Job (Quotation Subject)",
+        "조선일보",
+        "남강호",
+        "(NAM)",
+        "김진태 총장",
+        "조윤선 수석",
+        "벳쇼 일본대사",
+        "이평",
+        "김효진",
+        "임권택",
+        "슈퍼주니어",
+        "최시원",
+        "유동근",
+        "안성기",
+        "이미자",
+        "걸스데이"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2015-03-07T05:39:13Z",
+      "channelId": "UCdp4_yTBhQmB8E339Lafzow",
+      "channelName": "조선일보",
+      "collectedAt": "2025-09-03T10:02:45Z"
+    },
+    "UO2W2XUfC2E": {
+      "videoId": "UO2W2XUfC2E",
+      "title": "(NAM) 고위 黨政靑(당정청) 회의, 朴정부 들어 처음 공개",
+      "description": "“소통 강화 위해 공개합니다” 정부와 청와대 개편 뒤 처음으로 고위 당정청(黨政靑) 회의가 6일 서울 삼청동 총리공관에서 열렸다. 참석자들이 회의에 앞서 기념 촬영을 하고 있다. 왼쪽부터 최경환 경제부총리, 원유철 새누리당 정책위의장, 유승민 당 원내대표, 김무성 당대표, 이완구 총리, 이병기 청와대비서실장, 황우여 사회부총리, 현정택 청와대 정책조정수석, 조윤선 정무수석, 추경호 국무조정실장. /남강호 기자\n\n고위 黨政靑 회의, 朴정부 들어 처음 공개\n\nhttp://news.chosun.com/site/data/html_dir/2015/03/07/2015030700301.html",
+      "publishedAt": "2015-03-07T05:11:54Z",
+      "duration": "PT1M26S",
+      "viewCount": 197,
+      "likeCount": 1,
+      "commentCount": 0,
+      "tags": [
+        "黨政靑",
+        "당정청",
+        "청와대",
+        "총리공관",
+        "이완구",
+        "총리",
+        "국무총리",
+        "최경환",
+        "경제부총리",
+        "원유철",
+        "유승민",
+        "김무성",
+        "이병기",
+        "청와대비서실장",
+        "국정원",
+        "황우여",
+        "현정택",
+        "조윤선",
+        "추경호"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2015-03-07T05:11:54Z",
+      "channelId": "UCdp4_yTBhQmB8E339Lafzow",
+      "channelName": "조선일보",
+      "collectedAt": "2025-09-03T10:02:45Z"
     }
   },
   "channels": {
@@ -901,9 +977,36 @@
       "viewCount": 3351994752,
       "videoCount": 627296,
       "lastUpdated": "2025-08-29T02:43:17.414431Z"
+    },
+    "UCdp4_yTBhQmB8E339Lafzow": {
+      "channelId": "UCdp4_yTBhQmB8E339Lafzow",
+      "channelName": "조선일보",
+      "channelUrl": "@chosunmedia",
+      "channelDescription": " 조선일보 공식 유튜브 채널",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 1700000,
+      "viewCount": 1669752256,
+      "videoCount": 22783,
+      "lastUpdated": "2025-09-03T10:02:45.016872Z"
     }
   },
-  "lastUpdated": "2025-08-29T02:43:17.414431Z",
-  "totalVideos": 23,
-  "totalChannels": 3
+  "lastUpdated": "2025-09-03T10:02:45.016872Z",
+  "totalVideos": 25,
+  "totalChannels": 4
 }

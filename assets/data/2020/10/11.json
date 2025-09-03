@@ -4288,6 +4288,41 @@
       "channelId": "UCTHCOPwqNfZ0uiKOvFyhGwg",
       "channelName": "연합뉴스TV",
       "collectedAt": "2025-08-29T02:42:21Z"
+    },
+    "ZjWIU3YNeR8": {
+      "videoId": "ZjWIU3YNeR8",
+      "title": "'눈물'에서 '웃음'까지, 북한 노동당 창건 75주년 기념 열병식 현장은?",
+      "description": "영상출처 : nk news 생중계 영상\n\n10일 오전 0시, 평양 김일성 광장. 노동당 창건 75주년 기념 열병식을 연 북한.\n이례적인 '심야 열병식'에 회색 양복 차림으로 나타난 김정은 북한 국무위원장은 \n연설 도중 눈물 훔쳤다.\n하지만 연설이 끝나고 ICBM이 등장하자 김정은 위원장의 입가에는 웃음이 지워지지 않았는데… \n3시간가량 진행된 열병식은 과연 어떤 모습이었을까?\n\n구성·편집 : 김용식 PD yskit@hankookilbo.com",
+      "publishedAt": "2020-10-11T05:57:17Z",
+      "duration": "PT3M42S",
+      "viewCount": 14647,
+      "likeCount": 71,
+      "commentCount": 30,
+      "tags": [
+        "북한",
+        "열병식",
+        "김정은",
+        "연설",
+        "ICBM",
+        "SLBM",
+        "신형",
+        "무기",
+        "미사일",
+        "북극성-4형",
+        "북극성-3형",
+        "화성-15형",
+        "화성-16형",
+        "눈물",
+        "울먹",
+        "울음",
+        "웃음"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2020-10-11T05:57:17Z",
+      "channelId": "UC1aS5CRRDrN6CmR2VcpmetA",
+      "channelName": "한국일보(hankookilbo.com)",
+      "collectedAt": "2025-09-03T10:01:24Z"
     }
   },
   "channels": {
@@ -4641,9 +4676,36 @@
       "viewCount": 3278386064,
       "videoCount": 233358,
       "lastUpdated": "2025-08-29T02:42:21.657600Z"
+    },
+    "UC1aS5CRRDrN6CmR2VcpmetA": {
+      "channelId": "UC1aS5CRRDrN6CmR2VcpmetA",
+      "channelName": "한국일보(hankookilbo.com)",
+      "channelUrl": "@thehankookilbo",
+      "channelDescription": "'공존, 통합, 사람'의 정신으로 앞장서는 국내 유일 중도 정론지 한국일보입니다.\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ppj3UlPuwNq5DyUWNFz27Vc6WoIrRpRI2IMHc9MZ3UqkNVWcXrT83qJTU3bAweA3BOodFu4Euf0=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ppj3UlPuwNq5DyUWNFz27Vc6WoIrRpRI2IMHc9MZ3UqkNVWcXrT83qJTU3bAweA3BOodFu4Euf0=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ppj3UlPuwNq5DyUWNFz27Vc6WoIrRpRI2IMHc9MZ3UqkNVWcXrT83qJTU3bAweA3BOodFu4Euf0=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 362000,
+      "viewCount": 296027619,
+      "videoCount": 6196,
+      "lastUpdated": "2025-09-03T10:01:24.562021Z"
     }
   },
-  "lastUpdated": "2025-08-29T02:42:21.657600Z",
-  "totalVideos": 121,
-  "totalChannels": 13
+  "lastUpdated": "2025-09-03T10:01:24.562021Z",
+  "totalVideos": 122,
+  "totalChannels": 14
 }

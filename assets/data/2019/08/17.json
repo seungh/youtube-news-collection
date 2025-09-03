@@ -6297,6 +6297,72 @@
       "channelId": "UCTHCOPwqNfZ0uiKOvFyhGwg",
       "channelName": "연합뉴스TV",
       "collectedAt": "2025-08-29T02:42:52Z"
+    },
+    "fE1XapX8mKE": {
+      "videoId": "fE1XapX8mKE",
+      "title": "First Time Surfing Gone Soo Wrong...| Yang-yang Surf Vlog | 김수민 sookim",
+      "description": "*해당 콘텐츠는 유료 광고를 포함하고 있습니다.\n\nWent down to Yangyang, Gangwondo to surf with the SK Broadband Team😎⭐️\n\n*instagram\nhttps://www.instagram.com/sookim1001/?hl=en\n\n* Weibo(微博)\nhttps://www.weibo.com/u/6655702905?is_hot=1",
+      "publishedAt": "2019-08-17T12:57:47Z",
+      "duration": "PT15M24S",
+      "viewCount": 26527,
+      "likeCount": 959,
+      "commentCount": 120,
+      "tags": [
+        "김수민",
+        "sookim",
+        "soomin kim",
+        "misskorea",
+        "미스코리아 김수민",
+        "miss korea",
+        "미국유학",
+        "중국유학",
+        "유학",
+        "서핑",
+        "서빙 브이로그",
+        "SK브로드밴드",
+        "SURF",
+        "VLOG",
+        "SURFING VLOG"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": {
+        "actualStartTime": "2019-08-17T13:00:09Z",
+        "actualEndTime": "2019-08-17T13:17:30Z",
+        "scheduledStartTime": "2019-08-17T13:00:00Z"
+      },
+      "actualPubAt": "2019-08-17T13:00:09Z",
+      "channelId": "UC1aS5CRRDrN6CmR2VcpmetA",
+      "channelName": "한국일보(hankookilbo.com)",
+      "collectedAt": "2025-09-03T10:01:20Z"
+    },
+    "tJdgpj0NRr0": {
+      "videoId": "tJdgpj0NRr0",
+      "title": "서울 한복판에 나타난 초대형 고양이?",
+      "description": "최근 SK텔레콤이 서울 올림픽공원에 조성한 증강현실(AR) 동물원을 찾았다. \n\n🔸 조선닷컴 공식 홈페이지 http://www.chosun.com\n🔸 조선비즈 공식 홈페이지 http://biz.chosun.com\n🔸 공식 페이스북 : https://www.facebook.com/chosun\n🔸 공식 트위터 : https://twitter.com/chosun\n\n◈ 사실에 대한 믿음, 할 말을 하는 용기. 조선일보◈\n\n#조선일보 #뉴스 #속보 #제보",
+      "publishedAt": "2019-08-17T09:22:23Z",
+      "duration": "PT1M19S",
+      "viewCount": 8140,
+      "likeCount": 396,
+      "commentCount": 21,
+      "tags": [
+        "조선일보",
+        "조선",
+        "언론",
+        "이슈",
+        "신문",
+        "방송",
+        "뉴스",
+        "정치",
+        "증강현실 동물원",
+        "동물원",
+        "고양이"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2019-08-17T09:22:23Z",
+      "channelId": "UCdp4_yTBhQmB8E339Lafzow",
+      "channelName": "조선일보",
+      "collectedAt": "2025-09-03T10:01:20Z"
     }
   },
   "channels": {
@@ -6650,9 +6716,63 @@
       "viewCount": 3351994752,
       "videoCount": 627296,
       "lastUpdated": "2025-08-29T02:42:52.586981Z"
+    },
+    "UC1aS5CRRDrN6CmR2VcpmetA": {
+      "channelId": "UC1aS5CRRDrN6CmR2VcpmetA",
+      "channelName": "한국일보(hankookilbo.com)",
+      "channelUrl": "@thehankookilbo",
+      "channelDescription": "'공존, 통합, 사람'의 정신으로 앞장서는 국내 유일 중도 정론지 한국일보입니다.\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ppj3UlPuwNq5DyUWNFz27Vc6WoIrRpRI2IMHc9MZ3UqkNVWcXrT83qJTU3bAweA3BOodFu4Euf0=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ppj3UlPuwNq5DyUWNFz27Vc6WoIrRpRI2IMHc9MZ3UqkNVWcXrT83qJTU3bAweA3BOodFu4Euf0=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ppj3UlPuwNq5DyUWNFz27Vc6WoIrRpRI2IMHc9MZ3UqkNVWcXrT83qJTU3bAweA3BOodFu4Euf0=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 362000,
+      "viewCount": 296027619,
+      "videoCount": 6196,
+      "lastUpdated": "2025-09-03T10:01:20.631539Z"
+    },
+    "UCdp4_yTBhQmB8E339Lafzow": {
+      "channelId": "UCdp4_yTBhQmB8E339Lafzow",
+      "channelName": "조선일보",
+      "channelUrl": "@chosunmedia",
+      "channelDescription": " 조선일보 공식 유튜브 채널",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 1700000,
+      "viewCount": 1669752256,
+      "videoCount": 22783,
+      "lastUpdated": "2025-09-03T10:01:20.631539Z"
     }
   },
-  "lastUpdated": "2025-08-29T02:42:52.586981Z",
-  "totalVideos": 185,
-  "totalChannels": 13
+  "lastUpdated": "2025-09-03T10:01:20.632547Z",
+  "totalVideos": 187,
+  "totalChannels": 15
 }

@@ -18,6 +18,30 @@
       "channelId": "UCTHCOPwqNfZ0uiKOvFyhGwg",
       "channelName": "연합뉴스TV",
       "collectedAt": "2025-08-27T19:02:48Z"
+    },
+    "rnAFWfZs5HE": {
+      "videoId": "rnAFWfZs5HE",
+      "title": "[경향신문] 전염병 영화와 ‘메르스’ 사태",
+      "description": "전염병 영화와 ‘메르스’ 사태  '강유정의 영화로 세상읽기\"\n유행성 질병이 창궐하던 시대에도 사랑은 있고, 삶은 이어졌다.\n2013년에 개봉했던 영화 '감기'나 2012년 '연가시'에 등장했던 전염병은 현실이라기보다는 있음직한 판타지에 가까웠다.\n영화 속의 전염병은 그래도 아직은 우리나라가 전염병에 대한 청정 국가로 여겨졌을 때, 가능했던 상상이다.\n'월드 워 Z'에서 좀비 바이러스의 근원지로 평택이 선택되었음에도 불구하고, 대한민국의 관객들이 거리낌 없이 영화를 즐겼던 이유도 여기에 있다.\n즐겨도 좋을 위험… 바이러스에 대한 공포도 상상 속에선 즐거운 위험이었던 셈이다\n여기에는 안전한 사회적, 위생적 보호망에 대한 기대가 녹아 있다...",
+      "publishedAt": "2015-06-14T09:44:02Z",
+      "duration": "PT1M17S",
+      "viewCount": 1213,
+      "likeCount": 7,
+      "commentCount": 1,
+      "tags": [
+        "경향신문",
+        "전염병 영화와 메르스 사태",
+        "강유정의 영화로 세상읽기",
+        "바이러스",
+        "연가시",
+        "감기"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2015-06-14T09:44:02Z",
+      "channelId": "UCHXvjavEtkPFJCfGlm0wTXw",
+      "channelName": "경향티비",
+      "collectedAt": "2025-09-03T10:02:21Z"
     }
   },
   "channels": {
@@ -47,9 +71,36 @@
       "viewCount": 3351994752,
       "videoCount": 627296,
       "lastUpdated": "2025-08-29T02:44:01.783173Z"
+    },
+    "UCHXvjavEtkPFJCfGlm0wTXw": {
+      "channelId": "UCHXvjavEtkPFJCfGlm0wTXw",
+      "channelName": "경향티비",
+      "channelUrl": "@thekyunghyangtv",
+      "channelDescription": "더 나은 세상을 위해 우리가 알아야 할 이야기\n경향신문 공식 채널\n\n🚨 [정치비상구] 출구없는 극단 정치, 비상구를 열어드립니다\n🎙️ 매주 월-금 오후 4시 라이브 ｜ 토요특별판 낮 12시\n🎙️ 정치인물사담회 '인물비상구' 일요일 오후 4시\n 📞광고/제휴 문의 : insaps10@gmail.com\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/6Wlbqcuxx1ESFI2U-gQqhHyYpJ-PiWgqyjotWwD9VN5JygRnIuUvZE1LjUMwKNbb5LqRCEM4kpQ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/6Wlbqcuxx1ESFI2U-gQqhHyYpJ-PiWgqyjotWwD9VN5JygRnIuUvZE1LjUMwKNbb5LqRCEM4kpQ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/6Wlbqcuxx1ESFI2U-gQqhHyYpJ-PiWgqyjotWwD9VN5JygRnIuUvZE1LjUMwKNbb5LqRCEM4kpQ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 537000,
+      "viewCount": 354014202,
+      "videoCount": 11630,
+      "lastUpdated": "2025-09-03T10:02:21.877898Z"
     }
   },
-  "lastUpdated": "2025-08-29T02:44:01.783173Z",
-  "totalVideos": 1,
-  "totalChannels": 1
+  "lastUpdated": "2025-09-03T10:02:21.877898Z",
+  "totalVideos": 2,
+  "totalChannels": 2
 }

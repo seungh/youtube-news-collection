@@ -6797,6 +6797,68 @@
       "channelId": "UCTHCOPwqNfZ0uiKOvFyhGwg",
       "channelName": "연합뉴스TV",
       "collectedAt": "2025-08-29T02:42:12Z"
+    },
+    "WIcCO36mAgo": {
+      "videoId": "WIcCO36mAgo",
+      "title": "“명추 연대? 개혁 대 개혁으로 붙자” 추미애 전 장관 인터뷰",
+      "description": "더불어민주당 대선후보 경선 1차 슈퍼위크에서 11.35%의 누적 득표율로 3위로 올라선 추미애 전 법무부 장관은 13일 한국일보와의 인터뷰에서 자신감을 강조했다. 그동안 2위 주자인 이낙연 전 대표를 겨냥한 공세를 편 추 전 장관의 시선은 이제는 1위인 이재명 경기지사에 향해 있다. 그는 \"개혁 대 개혁으로 본선을 치르자\"며 이 지사에게 '전략적 투표'를 던진 유권자들의 표를 가져오겠다고 했다.",
+      "publishedAt": "2021-09-19T04:00:09Z",
+      "duration": "PT14M44S",
+      "viewCount": 3012,
+      "likeCount": 73,
+      "commentCount": 38,
+      "tags": [
+        "추미애",
+        "이재명",
+        "이낙연",
+        "윤석열",
+        "고발 사주",
+        "추윤갈등",
+        "추윤대전",
+        "추찍추",
+        "대선",
+        "민주당",
+        "더불어민주당",
+        "대선 경선",
+        "경선",
+        "고발 사주 의혹",
+        "개혁",
+        "검찰 개혁",
+        "명추연대"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2021-09-19T04:00:09Z",
+      "channelId": "UC1aS5CRRDrN6CmR2VcpmetA",
+      "channelName": "한국일보(hankookilbo.com)",
+      "collectedAt": "2025-09-03T10:01:55Z"
+    },
+    "nhy-180ksvk": {
+      "videoId": "nhy-180ksvk",
+      "title": "[의대녀] 안강 원장의 통증 이야기 : 늙지 않는 법 4편",
+      "description": "'의사와 대화하는 여자' 의대녀\n\n이번 시간에는 사람 따라 좋은 식습관은\n다르지만 노화를 늦추는 공통점에 대해 대화합니다.\n\n궁금한 점은 댓글 남겨주시고,\n구독과 좋아요 함께 부탁드립니다!\n\n더 알아보기 : http://ahnkang.com/",
+      "publishedAt": "2021-09-19T05:00:15Z",
+      "duration": "PT7M46S",
+      "viewCount": 5003,
+      "likeCount": 176,
+      "commentCount": 3,
+      "tags": [
+        "조선일보",
+        "조선",
+        "언론",
+        "이슈",
+        "신문",
+        "방송",
+        "뉴스",
+        "정치",
+        "속보"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2021-09-19T05:00:15Z",
+      "channelId": "UCdp4_yTBhQmB8E339Lafzow",
+      "channelName": "조선일보",
+      "collectedAt": "2025-09-03T10:01:55Z"
     }
   },
   "channels": {
@@ -7285,9 +7347,63 @@
       "viewCount": 3278386064,
       "videoCount": 233358,
       "lastUpdated": "2025-08-29T02:42:12.310694Z"
+    },
+    "UC1aS5CRRDrN6CmR2VcpmetA": {
+      "channelId": "UC1aS5CRRDrN6CmR2VcpmetA",
+      "channelName": "한국일보(hankookilbo.com)",
+      "channelUrl": "@thehankookilbo",
+      "channelDescription": "'공존, 통합, 사람'의 정신으로 앞장서는 국내 유일 중도 정론지 한국일보입니다.\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ppj3UlPuwNq5DyUWNFz27Vc6WoIrRpRI2IMHc9MZ3UqkNVWcXrT83qJTU3bAweA3BOodFu4Euf0=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ppj3UlPuwNq5DyUWNFz27Vc6WoIrRpRI2IMHc9MZ3UqkNVWcXrT83qJTU3bAweA3BOodFu4Euf0=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ppj3UlPuwNq5DyUWNFz27Vc6WoIrRpRI2IMHc9MZ3UqkNVWcXrT83qJTU3bAweA3BOodFu4Euf0=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 362000,
+      "viewCount": 296027619,
+      "videoCount": 6196,
+      "lastUpdated": "2025-09-03T10:01:55.648149Z"
+    },
+    "UCdp4_yTBhQmB8E339Lafzow": {
+      "channelId": "UCdp4_yTBhQmB8E339Lafzow",
+      "channelName": "조선일보",
+      "channelUrl": "@chosunmedia",
+      "channelDescription": " 조선일보 공식 유튜브 채널",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 1700000,
+      "viewCount": 1669752256,
+      "videoCount": 22783,
+      "lastUpdated": "2025-09-03T10:01:55.648149Z"
     }
   },
-  "lastUpdated": "2025-08-29T02:42:12.311692Z",
-  "totalVideos": 235,
-  "totalChannels": 18
+  "lastUpdated": "2025-09-03T10:01:55.648149Z",
+  "totalVideos": 237,
+  "totalChannels": 20
 }

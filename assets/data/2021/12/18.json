@@ -8076,6 +8076,88 @@
       "channelId": "UCTHCOPwqNfZ0uiKOvFyhGwg",
       "channelName": "연합뉴스TV",
       "collectedAt": "2025-08-29T02:42:09Z"
+    },
+    "q_wxuV81av4": {
+      "videoId": "q_wxuV81av4",
+      "title": "[봉다방] 일본 버블 붕괴시킨 대출 총량 규제, 한국 집값도 무너뜨리나",
+      "description": "🔸 조선닷컴 공식 홈페이지 http://www.chosun.com\n🔸 조선일보 무료 구독 체험 http://bit.ly/2WnNAF7\n🔸 조선비즈 공식 홈페이지 http://biz.chosun.com\n🔸 공식 페이스북 https://www.facebook.com/chosun\n🔸 공식 트위터 https://twitter.com/chosun\n\n◈ 사실에 대한 믿음, 할 말을 하는 용기. 조선일보◈\n\n#일본버블 #집값 #부동산",
+      "publishedAt": "2021-12-17T23:00:33Z",
+      "duration": "PT15M34S",
+      "viewCount": 11325,
+      "likeCount": 477,
+      "commentCount": 11,
+      "tags": [
+        "조선일보",
+        "조선",
+        "언론",
+        "이슈",
+        "신문",
+        "방송",
+        "뉴스",
+        "정치",
+        "속보",
+        "김광일쇼",
+        "이슈포청천",
+        "팩폭시스터",
+        "모닝라이브",
+        "김광일의입",
+        "부동산",
+        "부동산정책",
+        "한국",
+        "일본",
+        "일본 집값",
+        "일본 부동산",
+        "일본 버블",
+        "부동산정책 문재인",
+        "문재인",
+        "이재명",
+        "윤석열",
+        "이재명 부동산",
+        "윤석열 부동산",
+        "주식",
+        "투자",
+        "주식 종목",
+        "종목추천",
+        "재테크"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2021-12-17T23:00:33Z",
+      "channelId": "UCdp4_yTBhQmB8E339Lafzow",
+      "channelName": "조선일보",
+      "collectedAt": "2025-09-03T10:02:37Z"
+    },
+    "Um-xFRKJh3Y": {
+      "videoId": "Um-xFRKJh3Y",
+      "title": "참담한 `가족 리스크`에 과열되는 비호감 대선",
+      "description": "🔸 조선닷컴 공식 홈페이지 http://www.chosun.com\n🔸 조선일보 무료 구독 체험 http://bit.ly/2WnNAF7\n🔸 조선비즈 공식 홈페이지 http://biz.chosun.com\n🔸 공식 페이스북 https://www.facebook.com/chosun\n🔸 공식 트위터 https://twitter.com/chosun\n\n◈ 사실에 대한 믿음, 할 말을 하는 용기. 조선일보◈\n\n#조선일보 #뉴스 #속보 #제보",
+      "publishedAt": "2021-12-18T09:00:25Z",
+      "duration": "PT16M14S",
+      "viewCount": 44724,
+      "likeCount": 4040,
+      "commentCount": 431,
+      "tags": [
+        "조선일보",
+        "조선",
+        "언론",
+        "이슈",
+        "신문",
+        "방송",
+        "뉴스",
+        "정치",
+        "속보",
+        "김광일쇼",
+        "이슈포청천",
+        "팩폭시스터",
+        "모닝라이브",
+        "김광일의입"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2021-12-18T09:00:25Z",
+      "channelId": "UCdp4_yTBhQmB8E339Lafzow",
+      "channelName": "조선일보",
+      "collectedAt": "2025-09-03T10:02:37Z"
     }
   },
   "channels": {
@@ -8510,9 +8592,36 @@
       "viewCount": 3278386064,
       "videoCount": 233358,
       "lastUpdated": "2025-08-29T02:42:09.604356Z"
+    },
+    "UCdp4_yTBhQmB8E339Lafzow": {
+      "channelId": "UCdp4_yTBhQmB8E339Lafzow",
+      "channelName": "조선일보",
+      "channelUrl": "@chosunmedia",
+      "channelDescription": " 조선일보 공식 유튜브 채널",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 1700000,
+      "viewCount": 1669752256,
+      "videoCount": 22783,
+      "lastUpdated": "2025-09-03T10:02:37.154274Z"
     }
   },
-  "lastUpdated": "2025-08-29T02:42:09.604356Z",
-  "totalVideos": 266,
-  "totalChannels": 16
+  "lastUpdated": "2025-09-03T10:02:37.154274Z",
+  "totalVideos": 268,
+  "totalChannels": 17
 }

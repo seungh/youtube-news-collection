@@ -1491,6 +1491,71 @@
       "channelId": "UCTHCOPwqNfZ0uiKOvFyhGwg",
       "channelName": "연합뉴스TV",
       "collectedAt": "2025-08-29T02:43:33Z"
+    },
+    "l-CFx_dTCfc": {
+      "videoId": "l-CFx_dTCfc",
+      "title": "성화 들고 하이파이브 하는 박찬호... 인기가 장난 아니네 / 조선일보",
+      "description": "2018 평창동계올림픽 대전지역 성화 봉송 첫날인 9일 대전 예술가의집 앞에서 박찬호 전 야구선수가 성화 봉송에 앞서 관계자들과 하이파이브를 나누고 있다.\n\n#조선일보 #CNOW취재현장 #박찬호 #조선 #시사 #뉴스 #스포츠 #투머치토커 #평창올림픽 #김태균 #성화봉송 #박찬호성화 #코리안특급",
+      "publishedAt": "2017-12-09T15:07:30Z",
+      "duration": "PT1M36S",
+      "viewCount": 436,
+      "likeCount": 4,
+      "commentCount": 0,
+      "tags": [
+        "박찬호",
+        "박찬호 성화",
+        "성화봉송 박찬호",
+        "코리안 특급",
+        "코리안 특급 박찬호",
+        "박찬호 김태균",
+        "박찬호 평창올림픽 성화",
+        "박찬호 인기",
+        "박찬호 투머치토커",
+        "성화봉송 주자",
+        "박찬호 성화 주자",
+        "김태균 성화",
+        "성화봉송 김태균",
+        "박천호 선수",
+        "김태균 선수"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2017-12-09T15:07:30Z",
+      "channelId": "UCdp4_yTBhQmB8E339Lafzow",
+      "channelName": "조선일보",
+      "collectedAt": "2025-09-03T10:02:42Z"
+    },
+    "d5GmpNzYVM4": {
+      "videoId": "d5GmpNzYVM4",
+      "title": "한화이글스 김태균, 박찬호와 함께 뛰었다 / 조선일보",
+      "description": "2018평창동계올림픽 성화봉송 주자로 나선 한국인 최초 메이저리거인 박찬호가 9일 대전에서 이날 마지막 주자인 한화이글스 김태균 선수에게 성화를 옮겨주며 포즈를 취하고 있다.\n\n#조선일보 #CNOW취재현장 #성화봉송 #조선 #시사 #뉴스 #스포츠 #박찬호 #김태균 #평창올림픽 #코리안특급 #한화이글스",
+      "publishedAt": "2017-12-10T02:12:24Z",
+      "duration": "PT1M6S",
+      "viewCount": 390,
+      "likeCount": 2,
+      "commentCount": 0,
+      "tags": [
+        "김태균",
+        "박찬호",
+        "김태균 박찬호",
+        "김태균 성화 봉송",
+        "박찬호 성화봉송",
+        "김태균 평창올림픽",
+        "박찬호 평창올림픽",
+        "코리안 특급 박찬호",
+        "김태균 홈런",
+        "평창동계올림픽 성화",
+        "성화봉송 주자",
+        "한화이글스 김태균",
+        "한화이글스",
+        "한화이글스 선수"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2017-12-10T02:12:24Z",
+      "channelId": "UCdp4_yTBhQmB8E339Lafzow",
+      "channelName": "조선일보",
+      "collectedAt": "2025-09-03T10:02:42Z"
     }
   },
   "channels": {
@@ -1736,9 +1801,36 @@
       "viewCount": 3278386064,
       "videoCount": 233358,
       "lastUpdated": "2025-08-29T02:43:33.621497Z"
+    },
+    "UCdp4_yTBhQmB8E339Lafzow": {
+      "channelId": "UCdp4_yTBhQmB8E339Lafzow",
+      "channelName": "조선일보",
+      "channelUrl": "@chosunmedia",
+      "channelDescription": " 조선일보 공식 유튜브 채널",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 1700000,
+      "viewCount": 1669752256,
+      "videoCount": 22783,
+      "lastUpdated": "2025-09-03T10:02:42.802378Z"
     }
   },
-  "lastUpdated": "2025-08-29T02:43:33.622454Z",
-  "totalVideos": 57,
-  "totalChannels": 9
+  "lastUpdated": "2025-09-03T10:02:42.802378Z",
+  "totalVideos": 59,
+  "totalChannels": 10
 }

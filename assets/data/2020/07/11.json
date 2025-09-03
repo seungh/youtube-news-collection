@@ -4710,6 +4710,51 @@
       "channelId": "UCTHCOPwqNfZ0uiKOvFyhGwg",
       "channelName": "연합뉴스TV",
       "collectedAt": "2025-08-29T02:43:09Z"
+    },
+    "Efwik4ZCN-w": {
+      "videoId": "Efwik4ZCN-w",
+      "title": "홍콩 영화의 모든 것  📽 (feat. 넷플릭스, 왓챠, 티빙) [넷.따.잡 Ep.2]",
+      "description": "※여러분 넷플릭스 보시나요? OTT란 용어가 아직 낯선 가요? 넷플릭스에 가입했어도 뭘 볼지 고민이신가요? 넷따잡’은 넷플릭스에 대해 여러분이 알고 싶은 모든 것을 라제기 한국일보 영화전문 기자와 함께 살펴봅니다. 따끈한 신작 이야기, 영화 드라마보다 더 재미있는 뒷이야기 등을 전달합니다.\n\n지난주에 홍콩 보안법이 통과됐잖아요. 그래서 오늘은 홍콩 영화를 돌아보려고 해요. 넷플릭스에 있는 홍콩 영화들 다른 OTT에서도 접할 수 있는 홍콩 영화들을 통해서 홍콩 영화가 역사적인 사건들에 어떻게 영향을 받았는지, 어떻게 바뀌었는지 차근차근 짚어보도록 하겠습니다.\n\n#이소룡 #주성치 #성룡",
+      "publishedAt": "2020-07-11T10:00:09Z",
+      "duration": "PT13M42S",
+      "viewCount": 2578,
+      "likeCount": 35,
+      "commentCount": 5,
+      "tags": [
+        "넷따잡",
+        "주성치",
+        "성룡",
+        "쇼브라더스",
+        "넷플릭스",
+        "왓챠",
+        "티빙",
+        "홍콩영화",
+        "홍콩영화추천",
+        "원스어폰어타임",
+        "장철",
+        "왕가위",
+        "열혈남아",
+        "홍콩",
+        "홍콩보안법",
+        "중국",
+        "한국일보",
+        "집콕",
+        "영화추천",
+        "지존무상",
+        "도신",
+        "도성",
+        "코믹",
+        "액션",
+        "액션영화",
+        "스포",
+        "최신작"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2020-07-11T10:00:09Z",
+      "channelId": "UC1aS5CRRDrN6CmR2VcpmetA",
+      "channelName": "한국일보(hankookilbo.com)",
+      "collectedAt": "2025-09-03T10:01:19Z"
     }
   },
   "channels": {
@@ -5117,9 +5162,36 @@
       "viewCount": 3351994752,
       "videoCount": 627296,
       "lastUpdated": "2025-08-29T02:43:09.893074Z"
+    },
+    "UC1aS5CRRDrN6CmR2VcpmetA": {
+      "channelId": "UC1aS5CRRDrN6CmR2VcpmetA",
+      "channelName": "한국일보(hankookilbo.com)",
+      "channelUrl": "@thehankookilbo",
+      "channelDescription": "'공존, 통합, 사람'의 정신으로 앞장서는 국내 유일 중도 정론지 한국일보입니다.\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ppj3UlPuwNq5DyUWNFz27Vc6WoIrRpRI2IMHc9MZ3UqkNVWcXrT83qJTU3bAweA3BOodFu4Euf0=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ppj3UlPuwNq5DyUWNFz27Vc6WoIrRpRI2IMHc9MZ3UqkNVWcXrT83qJTU3bAweA3BOodFu4Euf0=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ppj3UlPuwNq5DyUWNFz27Vc6WoIrRpRI2IMHc9MZ3UqkNVWcXrT83qJTU3bAweA3BOodFu4Euf0=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 362000,
+      "viewCount": 296027619,
+      "videoCount": 6196,
+      "lastUpdated": "2025-09-03T10:01:19.977382Z"
     }
   },
-  "lastUpdated": "2025-08-29T02:43:09.893074Z",
-  "totalVideos": 142,
-  "totalChannels": 15
+  "lastUpdated": "2025-09-03T10:01:19.977382Z",
+  "totalVideos": 143,
+  "totalChannels": 16
 }

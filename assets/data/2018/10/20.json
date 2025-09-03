@@ -4967,6 +4967,37 @@
       "channelId": "UCTHCOPwqNfZ0uiKOvFyhGwg",
       "channelName": "연합뉴스TV",
       "collectedAt": "2025-08-29T02:43:12Z"
+    },
+    "gBS10HW67xc": {
+      "videoId": "gBS10HW67xc",
+      "title": "도쿄 긴자 대표 스시점 '스시 아오키' 오너셰프 인터뷰 / 조선일보",
+      "description": "#조선일보 #스시 #스시아오키\n스시 아오키는 도쿄 긴자에서 2대에 걸쳐 30년째 영업 중이며, 다수의 고급 스시집들 사이에서 최고로 인정받고 있습니다. 에도마에식 스시의 대가라고 불리는 아오키 도시카츠 셰프를 만나봤습니다.\n\n\n🔸 조선닷컴 공식 홈페이지 http://www.chosun.com\n🔸 조선비즈 공식 홈페이지 http://www.biz.chosun.com\n🔸 공식 페이스북 : https://www.facebook.com/chosun\n🔸 공식 트위터 : https://twitter.com/chosun\n\n◈ 사실에 대한 믿음, 할 말을 하는 용기. 조선일보◈\n\n#조선일보 #시사 #뉴스 #이슈 #제보",
+      "publishedAt": "2018-10-20T05:24:22Z",
+      "duration": "PT7M34S",
+      "viewCount": 8699,
+      "likeCount": 53,
+      "commentCount": 11,
+      "tags": [
+        "스시",
+        "스시 아오키",
+        "오마카세",
+        "일본",
+        "도쿄",
+        "긴자",
+        "sushi",
+        "interview",
+        "인터뷰",
+        "초밥",
+        "omakase",
+        "japan",
+        "초밥왕"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2018-10-20T05:24:22Z",
+      "channelId": "UCdp4_yTBhQmB8E339Lafzow",
+      "channelName": "조선일보",
+      "collectedAt": "2025-09-03T10:02:43Z"
     }
   },
   "channels": {
@@ -5239,9 +5270,36 @@
       "viewCount": 3351994752,
       "videoCount": 627296,
       "lastUpdated": "2025-08-29T02:43:12.969003Z"
+    },
+    "UCdp4_yTBhQmB8E339Lafzow": {
+      "channelId": "UCdp4_yTBhQmB8E339Lafzow",
+      "channelName": "조선일보",
+      "channelUrl": "@chosunmedia",
+      "channelDescription": " 조선일보 공식 유튜브 채널",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 1700000,
+      "viewCount": 1669752256,
+      "videoCount": 22783,
+      "lastUpdated": "2025-09-03T10:02:43.407212Z"
     }
   },
-  "lastUpdated": "2025-08-29T02:43:12.970006Z",
-  "totalVideos": 163,
-  "totalChannels": 10
+  "lastUpdated": "2025-09-03T10:02:43.407212Z",
+  "totalVideos": 164,
+  "totalChannels": 11
 }

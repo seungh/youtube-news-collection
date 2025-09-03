@@ -167,6 +167,32 @@
       "channelId": "UChlgI3UHCOnwUGzWzbJ3H5w",
       "channelName": " YTN",
       "collectedAt": "2025-08-27T19:05:19Z"
+    },
+    "J0Wo_6CHE2U": {
+      "videoId": "J0Wo_6CHE2U",
+      "title": "'철근 없는' 모아미래도 아파트 부실시공 논란",
+      "description": "'철근없는' 아파트로 부실 시공 논란을 빚고 있는 '모아미래도' 아파트. 행정중심복합도시건설청, LH, 한국시설안전공단으로 구성된 공동주택특별점검반이 21일 오후 세종시 1-4 생활권 L5~8블록에 위치한 '모아미래도' 아파트에 대한 안전점검을 실시했다. 모아건설의 세종시 '모아미래도' 아파트는 준공을 9개월여 앞두고 아파트 철근 일부가 빠져 부실 시공됐다는 논란이 발생했다. 행정중심복합도시 건설청은 총 15개 동 가운데 4개 동 벽면 20개소에 대해 정밀 조사하자 16개소에서 철근 설계가 잘못된 것으로 나타났다고 밝혔다. 모아건설이 세종시 인근 지역에도 아파트를 짓고 있는 것으로 확인돼 부실 아파트가 더 있을지 주목된다. /신현종 기자",
+      "publishedAt": "2014-03-21T16:29:56Z",
+      "duration": "PT1M29S",
+      "viewCount": 91503,
+      "likeCount": 141,
+      "commentCount": 68,
+      "tags": [
+        "모아미래도",
+        "철근없는",
+        "세종시",
+        "모아건설",
+        "공무원",
+        "부실아파트",
+        "신현종",
+        "조선일보"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2014-03-21T16:29:56Z",
+      "channelId": "UCdp4_yTBhQmB8E339Lafzow",
+      "channelName": "조선일보",
+      "collectedAt": "2025-09-03T10:02:46Z"
     }
   },
   "channels": {
@@ -223,9 +249,36 @@
       "viewCount": 17649222300,
       "videoCount": 890317,
       "lastUpdated": "2025-08-29T02:43:55.147167Z"
+    },
+    "UCdp4_yTBhQmB8E339Lafzow": {
+      "channelId": "UCdp4_yTBhQmB8E339Lafzow",
+      "channelName": "조선일보",
+      "channelUrl": "@chosunmedia",
+      "channelDescription": " 조선일보 공식 유튜브 채널",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 1700000,
+      "viewCount": 1669752256,
+      "videoCount": 22783,
+      "lastUpdated": "2025-09-03T10:02:46.695977Z"
     }
   },
-  "lastUpdated": "2025-08-29T02:43:55.147167Z",
-  "totalVideos": 7,
-  "totalChannels": 2
+  "lastUpdated": "2025-09-03T10:02:46.695977Z",
+  "totalVideos": 8,
+  "totalChannels": 3
 }

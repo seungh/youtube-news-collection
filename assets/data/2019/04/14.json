@@ -4325,6 +4325,65 @@
       "channelId": "UCTHCOPwqNfZ0uiKOvFyhGwg",
       "channelName": "연합뉴스TV",
       "collectedAt": "2025-08-29T02:42:58Z"
+    },
+    "8-j4IjMcmhA": {
+      "videoId": "8-j4IjMcmhA",
+      "title": "[현장+]도로변에 불법 폐기물 산이?",
+      "description": "▼ 동아일보 SNS\n\n· 동아일보 네이버 포스트\nhttp://post.naver.com/my.nhn?memberNo...\n\n· 동아일보 페이스북\nhttps://www.facebook.com/dongamedia/\n\n· 동아일보 인스타그램\nhttps://www.instagram.com/dongailbo/",
+      "publishedAt": "2019-04-14T06:39:14Z",
+      "duration": "PT1M8S",
+      "viewCount": 11965,
+      "likeCount": 1,
+      "commentCount": 0,
+      "tags": [],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2019-04-14T06:39:14Z",
+      "channelId": "UCnHyx6H7fhKfUoAAaVGYvxQ",
+      "channelName": "동아일보",
+      "collectedAt": "2025-09-03T10:00:24Z"
+    },
+    "8Y2-MYrtngw": {
+      "videoId": "8Y2-MYrtngw",
+      "title": "[기사+] 팝스타 앤 마리 내한 소감",
+      "description": "▼ 동아일보 SNS\n\n· 동아일보 네이버 포스트\nhttp://post.naver.com/my.nhn?memberNo=11291600\n\n· 동아일보 페이스북\nhttps://www.facebook.com/dongamedia/\n\n· 동아일보 인스타그램\nhttps://www.instagram.com/dongailbo/",
+      "publishedAt": "2019-04-14T06:53:50Z",
+      "duration": "PT23S",
+      "viewCount": 3582,
+      "likeCount": 17,
+      "commentCount": 0,
+      "tags": [
+        "#앤마리 #앤마리내한 #2002 #boy #동아일보"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2019-04-14T06:53:50Z",
+      "channelId": "UCnHyx6H7fhKfUoAAaVGYvxQ",
+      "channelName": "동아일보",
+      "collectedAt": "2025-09-03T10:00:24Z"
+    },
+    "zIvdyPNsjMo": {
+      "videoId": "zIvdyPNsjMo",
+      "title": "'그날 우리는 왜 기레기가 됐을까' 5년 만에 꺼내는 세월호 취재 기자들의 이야기",
+      "description": "세월호 참사 5년, '그날 기자들은 왜 기레기가 됐을까?' 지난 5년간 마주하기 힘들었던 질문에 당시 세월호 참사 취재기자였던 4명의 한국일보 기자가 힘들게 입을 열었다. \n\n▲ FULL STORY :  [오리지너] 세월호 5주기... 그 날 우리는 왜 '기레기'가 됐을까\nhttp://www.hankookilbo.com/News/Read/201904122346023868\n\n----------------------------------------------------------------------------------------------------------------------------------\n\n▲ 더 다양한 기사 읽기 :  https://www.hankookilbo.com\n▲ 유튜브 구독하기 : https://www.youtube.com/thehankookilbo\n▲ 페이스북 좋아요 : https://www.facebook.com/hkilbo\n▲ 트위터 팔로우 :  https://twitter.com/hankookilbo\n\n▲사건 및 영상 제보\n digitalnews.hk@gmail.com \n ssolly@hankookilbo.com\n changsun91@hankookilbo.com\n\n제보 : 02)724-2489~2490",
+      "publishedAt": "2019-04-13T23:15:00Z",
+      "duration": "PT15M42S",
+      "viewCount": 10148,
+      "likeCount": 44,
+      "commentCount": 100,
+      "tags": [
+        "세월호",
+        "기레기",
+        "노란리본",
+        "기자",
+        "참사"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2019-04-13T23:15:00Z",
+      "channelId": "UC1aS5CRRDrN6CmR2VcpmetA",
+      "channelName": "한국일보(hankookilbo.com)",
+      "collectedAt": "2025-09-03T10:00:24Z"
     }
   },
   "channels": {
@@ -4570,9 +4629,63 @@
       "viewCount": 3278386064,
       "videoCount": 233358,
       "lastUpdated": "2025-08-29T02:42:58.782748Z"
+    },
+    "UCnHyx6H7fhKfUoAAaVGYvxQ": {
+      "channelId": "UCnHyx6H7fhKfUoAAaVGYvxQ",
+      "channelName": "동아일보",
+      "channelUrl": "@donga-ilbo",
+      "channelDescription": "동아일보 공식 유튜브 채널입니다. \n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/S1eWLrew2Jjv-JLrGqkADPNPJF5u7qzpYE3o8_NoLbH7fVTjtFm9TYlxfOjbB3dH5Lw6qKM-MQ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/S1eWLrew2Jjv-JLrGqkADPNPJF5u7qzpYE3o8_NoLbH7fVTjtFm9TYlxfOjbB3dH5Lw6qKM-MQ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/S1eWLrew2Jjv-JLrGqkADPNPJF5u7qzpYE3o8_NoLbH7fVTjtFm9TYlxfOjbB3dH5Lw6qKM-MQ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 107000,
+      "viewCount": 47341564,
+      "videoCount": 4079,
+      "lastUpdated": "2025-09-03T10:00:24.978242Z"
+    },
+    "UC1aS5CRRDrN6CmR2VcpmetA": {
+      "channelId": "UC1aS5CRRDrN6CmR2VcpmetA",
+      "channelName": "한국일보(hankookilbo.com)",
+      "channelUrl": "@thehankookilbo",
+      "channelDescription": "'공존, 통합, 사람'의 정신으로 앞장서는 국내 유일 중도 정론지 한국일보입니다.\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ppj3UlPuwNq5DyUWNFz27Vc6WoIrRpRI2IMHc9MZ3UqkNVWcXrT83qJTU3bAweA3BOodFu4Euf0=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ppj3UlPuwNq5DyUWNFz27Vc6WoIrRpRI2IMHc9MZ3UqkNVWcXrT83qJTU3bAweA3BOodFu4Euf0=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ppj3UlPuwNq5DyUWNFz27Vc6WoIrRpRI2IMHc9MZ3UqkNVWcXrT83qJTU3bAweA3BOodFu4Euf0=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 362000,
+      "viewCount": 296027619,
+      "videoCount": 6196,
+      "lastUpdated": "2025-09-03T10:00:24.978242Z"
     }
   },
-  "lastUpdated": "2025-08-29T02:42:58.782748Z",
-  "totalVideos": 128,
-  "totalChannels": 9
+  "lastUpdated": "2025-09-03T10:00:24.978242Z",
+  "totalVideos": 131,
+  "totalChannels": 11
 }

@@ -731,6 +731,72 @@
       "channelId": "UChlgI3UHCOnwUGzWzbJ3H5w",
       "channelName": " YTN",
       "collectedAt": "2025-08-27T19:05:18Z"
+    },
+    "NsgZ4bEP6kU": {
+      "videoId": "NsgZ4bEP6kU",
+      "title": "세종 ‘캐슬&파밀리에’ 아파트 분양 '대박 행진'",
+      "description": "세종특별자치시 2-2생활권에서 문을 연 ‘캐슬&파밀리에’ 모델하우스를 찾은 소비자들이 단지 모형을 살펴보고 있다. 롯데건설과 신동아건설이 함께 짓는 ‘캐슬&파밀리에’는 다음 달 1일 1순위 청약을 받는다. /신현종 기자",
+      "publishedAt": "2014-09-20T01:55:18Z",
+      "duration": "PT1M9S",
+      "viewCount": 2420,
+      "likeCount": 0,
+      "commentCount": 0,
+      "tags": [
+        "롯데 캐슬",
+        "신동아 파밀리에",
+        "캐슬&파밀리에",
+        "세종 모델하우스",
+        "모델하우스",
+        "롯데건설",
+        "신동아건설",
+        "신현종",
+        "조선일보"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2014-09-20T01:55:18Z",
+      "channelId": "UCdp4_yTBhQmB8E339Lafzow",
+      "channelName": "조선일보",
+      "collectedAt": "2025-09-03T10:02:45Z"
+    },
+    "iGdaKG3dFqw": {
+      "videoId": "iGdaKG3dFqw",
+      "title": "인천 아시아게임 개막식 한류스타 총출동",
+      "description": "19일 제17회 아시아경기대회가 화려하게 막을 올렸다. 개막식에 EXO,JYJ,김수현,장동건,싸이등 한류스타들이 총 출동해 자리를 빛냈다./이태경기자\n\n아시안게임 개막식, 엑소·싸이 한류 스타 총출동…'볼거리 화려해'\n\nhttp://news.chosun.com/site/data/html_dir/2014/09/19/2014091902980.html",
+      "publishedAt": "2014-09-19T18:10:28Z",
+      "duration": "PT1M5S",
+      "viewCount": 14093,
+      "likeCount": 15,
+      "commentCount": 0,
+      "tags": [
+        "아시안게임",
+        "아시아경기대회",
+        "아시안게임JYJ",
+        "아시안게임EXO",
+        "Exoplanet (Celestial Object Category)",
+        "Korean Wave",
+        "Figure Skating (Sport)",
+        "Asian Games (Recurring Event)",
+        "EXO",
+        "JYJ",
+        "개막식",
+        "장동건",
+        "김수현",
+        "싸이",
+        "PSY",
+        "이태경기자",
+        "조선일보",
+        "한류스타",
+        "K-POP",
+        "아시안게임개막식",
+        "아시안게임 개막식"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2014-09-19T18:10:28Z",
+      "channelId": "UCdp4_yTBhQmB8E339Lafzow",
+      "channelName": "조선일보",
+      "collectedAt": "2025-09-03T10:02:45Z"
     }
   },
   "channels": {
@@ -814,9 +880,36 @@
       "viewCount": 17649222300,
       "videoCount": 890317,
       "lastUpdated": "2025-08-29T02:43:54.790985Z"
+    },
+    "UCdp4_yTBhQmB8E339Lafzow": {
+      "channelId": "UCdp4_yTBhQmB8E339Lafzow",
+      "channelName": "조선일보",
+      "channelUrl": "@chosunmedia",
+      "channelDescription": " 조선일보 공식 유튜브 채널",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 1700000,
+      "viewCount": 1669752256,
+      "videoCount": 22783,
+      "lastUpdated": "2025-09-03T10:02:45.686230Z"
     }
   },
-  "lastUpdated": "2025-08-29T02:43:54.790985Z",
-  "totalVideos": 19,
-  "totalChannels": 3
+  "lastUpdated": "2025-09-03T10:02:45.686230Z",
+  "totalVideos": 21,
+  "totalChannels": 4
 }

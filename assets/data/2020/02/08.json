@@ -6026,6 +6026,37 @@
       "channelId": "UCTHCOPwqNfZ0uiKOvFyhGwg",
       "channelName": "연합뉴스TV",
       "collectedAt": "2025-08-29T02:42:48Z"
+    },
+    "_Jb0j-ECd2M": {
+      "videoId": "_Jb0j-ECd2M",
+      "title": "트로피 최대 몇개? '국뽕'빼고 냉정하게 분석한 기생충 아카데미 수상 가능성은?",
+      "description": "봉준호 감독의 영화 ‘기생충’이 9일 오후(현지시간) 제 92회 미국 아카데미 시상식에서 전대미문의 성취를 노린다. 국제 장편 영화상부터 작품상까지 총 6개 부문에 후보로 올라가 있는 '기생충'이 어떤 성과를 거두게 될지 라제기 한국일보 영화전문기자가 일목요연하게 분석해봤다.",
+      "publishedAt": "2020-02-07T18:30:03Z",
+      "duration": "PT7M6S",
+      "viewCount": 24357,
+      "likeCount": 102,
+      "commentCount": 29,
+      "tags": [
+        "기생충",
+        "봉준호",
+        "아카데미",
+        "오스카",
+        "작품상",
+        "1917",
+        "parasite",
+        "bongjoonho",
+        "샘멘데스",
+        "칸영화제",
+        "황금종려상",
+        "외국어영화상",
+        "academy"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2020-02-07T18:30:03Z",
+      "channelId": "UC1aS5CRRDrN6CmR2VcpmetA",
+      "channelName": "한국일보(hankookilbo.com)",
+      "collectedAt": "2025-09-03T10:01:27Z"
     }
   },
   "channels": {
@@ -6406,9 +6437,36 @@
       "viewCount": 3351994752,
       "videoCount": 627296,
       "lastUpdated": "2025-08-29T02:42:48.440034Z"
+    },
+    "UC1aS5CRRDrN6CmR2VcpmetA": {
+      "channelId": "UC1aS5CRRDrN6CmR2VcpmetA",
+      "channelName": "한국일보(hankookilbo.com)",
+      "channelUrl": "@thehankookilbo",
+      "channelDescription": "'공존, 통합, 사람'의 정신으로 앞장서는 국내 유일 중도 정론지 한국일보입니다.\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ppj3UlPuwNq5DyUWNFz27Vc6WoIrRpRI2IMHc9MZ3UqkNVWcXrT83qJTU3bAweA3BOodFu4Euf0=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ppj3UlPuwNq5DyUWNFz27Vc6WoIrRpRI2IMHc9MZ3UqkNVWcXrT83qJTU3bAweA3BOodFu4Euf0=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ppj3UlPuwNq5DyUWNFz27Vc6WoIrRpRI2IMHc9MZ3UqkNVWcXrT83qJTU3bAweA3BOodFu4Euf0=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 362000,
+      "viewCount": 296027619,
+      "videoCount": 6196,
+      "lastUpdated": "2025-09-03T10:01:27.893020Z"
     }
   },
-  "lastUpdated": "2025-08-29T02:42:48.440534Z",
-  "totalVideos": 183,
-  "totalChannels": 14
+  "lastUpdated": "2025-09-03T10:01:27.893020Z",
+  "totalVideos": 184,
+  "totalChannels": 15
 }

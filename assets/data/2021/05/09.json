@@ -6478,6 +6478,36 @@
       "channelId": "UCTHCOPwqNfZ0uiKOvFyhGwg",
       "channelName": "연합뉴스TV",
       "collectedAt": "2025-08-29T02:42:46Z"
+    },
+    "htpzz-EZfKk": {
+      "videoId": "htpzz-EZfKk",
+      "title": "'구글 어스'로 본 해수면 상승 시나리오, 인천공항이 물에 잠길 거라고?",
+      "description": "#지구온난화 #해수면상승 #탄소\n\n기후변화 연구기관 '클라이밋 센트럴'이 구글어스를 통해 공개한 2050년 지구의 모습. 온난화를 늦추지 않아 지구 평균 기온이 산업혁명 이전보다 2°C 높아지면, 해수면이 상승해 침수 지역이 증가할 것이라는 전망이다.\n\n한국에서는 김포공항 주변 주거지역과 논밭이 물에 잠기고 새만금 일대는 방조제보다 해수면이 높아져 간척지 침수는 물론 군산, 김제, 부안 일대까지 물에 잠긴다.\n\n또 여의도 일대와 밤섬, 선유도 공원, 인천 송도, 고양시 일산서구, 파주 출판단지도 수몰된다.\n\n과거의 지구 변화 양상을 보면, 이런 예측이 허황되지 않다는 것을 알 수 있다. \n\n최근 구글 어스가 공개한 타임랩스 기능에서는 1984년부터 2020년까지 빙하, 숲, 사막 등의 자연 경관이 인간 활동에 의해 변화해온 모습을 영상으로 볼 수 있다.\n\n한편 '클라이밋 센트럴'은 2050년 부산 김해국제공항과 그 일대가 물에 잠길 것으로 예측하고 있다. 지구 온난화 속도를 늦추지 못한다면, 삶의 터전이 물에 잠기는 예측은 현실이 될 수 있다.",
+      "publishedAt": "2021-05-09T04:00:08Z",
+      "duration": "PT2M49S",
+      "viewCount": 29405,
+      "likeCount": 237,
+      "commentCount": 47,
+      "tags": [
+        "지구온난화",
+        "기후위기",
+        "기온",
+        "평균기온",
+        "탄소",
+        "탄소배출",
+        "탄소중립",
+        "상승",
+        "온실효과",
+        "인천공항",
+        "김포공항",
+        "활주로"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2021-05-09T04:00:08Z",
+      "channelId": "UC1aS5CRRDrN6CmR2VcpmetA",
+      "channelName": "한국일보(hankookilbo.com)",
+      "collectedAt": "2025-09-03T10:01:34Z"
     }
   },
   "channels": {
@@ -6885,9 +6915,36 @@
       "viewCount": 3278386064,
       "videoCount": 233358,
       "lastUpdated": "2025-08-29T02:42:46.651967Z"
+    },
+    "UC1aS5CRRDrN6CmR2VcpmetA": {
+      "channelId": "UC1aS5CRRDrN6CmR2VcpmetA",
+      "channelName": "한국일보(hankookilbo.com)",
+      "channelUrl": "@thehankookilbo",
+      "channelDescription": "'공존, 통합, 사람'의 정신으로 앞장서는 국내 유일 중도 정론지 한국일보입니다.\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ppj3UlPuwNq5DyUWNFz27Vc6WoIrRpRI2IMHc9MZ3UqkNVWcXrT83qJTU3bAweA3BOodFu4Euf0=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ppj3UlPuwNq5DyUWNFz27Vc6WoIrRpRI2IMHc9MZ3UqkNVWcXrT83qJTU3bAweA3BOodFu4Euf0=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ppj3UlPuwNq5DyUWNFz27Vc6WoIrRpRI2IMHc9MZ3UqkNVWcXrT83qJTU3bAweA3BOodFu4Euf0=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 362000,
+      "viewCount": 296027619,
+      "videoCount": 6196,
+      "lastUpdated": "2025-09-03T10:01:34.577968Z"
     }
   },
-  "lastUpdated": "2025-08-29T02:42:46.651967Z",
-  "totalVideos": 204,
-  "totalChannels": 15
+  "lastUpdated": "2025-09-03T10:01:34.577968Z",
+  "totalVideos": 205,
+  "totalChannels": 16
 }

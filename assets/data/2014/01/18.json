@@ -111,6 +111,32 @@
       "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
       "channelName": "JTBC News",
       "collectedAt": "2025-08-25T21:08:24Z"
+    },
+    "u3mx-71RFeQ": {
+      "videoId": "u3mx-71RFeQ",
+      "title": "최연혜 코레일 사장 '인사 청탁 의혹' 해명",
+      "description": "최연혜 코레일 사장이 17일 대전 시청을 방문, 염홍철 시장을 만나기에 앞서 기자들에게 자신의 과거 지역구 새 당협위원장 인선과 관련해 불거진 논란에 대해 해명하고 있다. 이 날 최 사장은 최근 불거진 논란에 대해 \"당황스럽다\"고 말하며  \"새누리당 지도부를 만나 제 신변에 대한 부탁을 드렸다는 말은 전혀 있을 수 없는 일\"이라고 해명하며 \"나는 코레일 사장으로서 이제 100일이 지났고 앞으로 남은 임기 3년 동안 코레일 발전을 위해 최선을 다할 것\"이라고 강조했다. /신현종 기자\n\n최연혜 사장, 과거 자신의 지역구 논의 논란\n\nhttp://news.chosun.com/site/data/html_dir/2014/01/18/2014011800219.html",
+      "publishedAt": "2014-01-18T05:45:28Z",
+      "duration": "PT2M20S",
+      "viewCount": 898,
+      "likeCount": 2,
+      "commentCount": 1,
+      "tags": [
+        "최연혜",
+        "코레일",
+        "황우여",
+        "새누리당",
+        "인사청탁",
+        "염홍철",
+        "최연혜사장",
+        "신현종"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2014-01-18T05:45:28Z",
+      "channelId": "UCdp4_yTBhQmB8E339Lafzow",
+      "channelName": "조선일보",
+      "collectedAt": "2025-09-03T10:02:46Z"
     }
   },
   "channels": {
@@ -167,9 +193,36 @@
       "viewCount": 14817048106,
       "videoCount": 261473,
       "lastUpdated": "2025-08-25T21:08:24.754547Z"
+    },
+    "UCdp4_yTBhQmB8E339Lafzow": {
+      "channelId": "UCdp4_yTBhQmB8E339Lafzow",
+      "channelName": "조선일보",
+      "channelUrl": "@chosunmedia",
+      "channelDescription": " 조선일보 공식 유튜브 채널",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 1700000,
+      "viewCount": 1669752256,
+      "videoCount": 22783,
+      "lastUpdated": "2025-09-03T10:02:46.987272Z"
     }
   },
-  "lastUpdated": "2025-08-25T21:08:24.755544Z",
-  "totalVideos": 4,
-  "totalChannels": 2
+  "lastUpdated": "2025-09-03T10:02:46.987272Z",
+  "totalVideos": 5,
+  "totalChannels": 3
 }

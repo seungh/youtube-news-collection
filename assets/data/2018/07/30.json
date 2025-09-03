@@ -10317,6 +10317,42 @@
       "channelId": "UCTHCOPwqNfZ0uiKOvFyhGwg",
       "channelName": "연합뉴스TV",
       "collectedAt": "2025-08-29T02:43:25Z"
+    },
+    "z0viFN9A2ME": {
+      "videoId": "z0viFN9A2ME",
+      "title": "폭염에 지친 승객 노리는 나라시 차량",
+      "description": "▼ 동아일보 SNS\n\n· 동아일보 네이버 포스트\nhttp://post.naver.com/\n\n· 동아일보 페이스북\nhttps://www.facebook.com/dongamedia/\n\n· 동아일보 인스타그램\nhttps://www.instagram.com/dongailbo/\n\n· 동아일보 카카오스토리\nhttps://story.kakao.com/ch/dongamedia",
+      "publishedAt": "2018-07-30T07:40:51Z",
+      "duration": "PT1M42S",
+      "viewCount": 19995,
+      "likeCount": 2,
+      "commentCount": 0,
+      "tags": [],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2018-07-30T07:40:51Z",
+      "channelId": "UCnHyx6H7fhKfUoAAaVGYvxQ",
+      "channelName": "동아일보",
+      "collectedAt": "2025-09-03T10:00:55Z"
+    },
+    "IXdxLth0ztU": {
+      "videoId": "IXdxLth0ztU",
+      "title": "기무사 \"대통령도 감청\"",
+      "description": "군인권센터 \"기무사 노무현 전 대통령 통화 감청하고 민간인 수백만명 사찰\" 국군기무사령부(기무사)가 과거 노무현 전 대통령과 당시 국방부 장관의 전화 통화 내용을 감청하고 민간인 수백만명을 사찰했다는 주장이 나왔다. \n\n시민단체 군인권센터는 30일 서울 마포구 이한열기념관에서 기자회견을 열고 “기무사가 노무현 전 대통령과 윤광웅 당시 국방부 장관의 전화 통화 내용을 감청했다”고 했다. 군인권센터는 “현직 기무사 요원의 제보를 받았다”며 이같이 말했다.\n\n〈유명종 PD yoopd@kyunghyang.com〉\n\n경향신문 홈페이지 http://www.khan.co.kr/\n\n경향뷰 페이스북 https://www.facebook.com/kyunghyangview/\n\n경향신문 페이스북 https://www.facebook.com/kyunghyangshinmun\n\n경향신문 트위터 https://twitter.com/kyunghyang\n\n스포츠경향 홈페이지 http://sports.khan.co.kr/ \n\n스포츠경향 페이스북 https://www.facebook.com/sportkh\n\n스포츠경향 트위터 https://twitter.com/sportskh",
+      "publishedAt": "2018-07-30T09:03:21Z",
+      "duration": "PT3M28S",
+      "viewCount": 9803,
+      "likeCount": 95,
+      "commentCount": 137,
+      "tags": [
+        "경향신문"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2018-07-30T09:03:21Z",
+      "channelId": "UCHXvjavEtkPFJCfGlm0wTXw",
+      "channelName": "경향티비",
+      "collectedAt": "2025-09-03T10:00:55Z"
     }
   },
   "channels": {
@@ -10670,9 +10706,63 @@
       "viewCount": 3351994752,
       "videoCount": 627296,
       "lastUpdated": "2025-08-29T02:43:25.335789Z"
+    },
+    "UCnHyx6H7fhKfUoAAaVGYvxQ": {
+      "channelId": "UCnHyx6H7fhKfUoAAaVGYvxQ",
+      "channelName": "동아일보",
+      "channelUrl": "@donga-ilbo",
+      "channelDescription": "동아일보 공식 유튜브 채널입니다. \n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/S1eWLrew2Jjv-JLrGqkADPNPJF5u7qzpYE3o8_NoLbH7fVTjtFm9TYlxfOjbB3dH5Lw6qKM-MQ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/S1eWLrew2Jjv-JLrGqkADPNPJF5u7qzpYE3o8_NoLbH7fVTjtFm9TYlxfOjbB3dH5Lw6qKM-MQ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/S1eWLrew2Jjv-JLrGqkADPNPJF5u7qzpYE3o8_NoLbH7fVTjtFm9TYlxfOjbB3dH5Lw6qKM-MQ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 107000,
+      "viewCount": 47341564,
+      "videoCount": 4079,
+      "lastUpdated": "2025-09-03T10:00:55.066088Z"
+    },
+    "UCHXvjavEtkPFJCfGlm0wTXw": {
+      "channelId": "UCHXvjavEtkPFJCfGlm0wTXw",
+      "channelName": "경향티비",
+      "channelUrl": "@thekyunghyangtv",
+      "channelDescription": "더 나은 세상을 위해 우리가 알아야 할 이야기\n경향신문 공식 채널\n\n🚨 [정치비상구] 출구없는 극단 정치, 비상구를 열어드립니다\n🎙️ 매주 월-금 오후 4시 라이브 ｜ 토요특별판 낮 12시\n🎙️ 정치인물사담회 '인물비상구' 일요일 오후 4시\n 📞광고/제휴 문의 : insaps10@gmail.com\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/6Wlbqcuxx1ESFI2U-gQqhHyYpJ-PiWgqyjotWwD9VN5JygRnIuUvZE1LjUMwKNbb5LqRCEM4kpQ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/6Wlbqcuxx1ESFI2U-gQqhHyYpJ-PiWgqyjotWwD9VN5JygRnIuUvZE1LjUMwKNbb5LqRCEM4kpQ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/6Wlbqcuxx1ESFI2U-gQqhHyYpJ-PiWgqyjotWwD9VN5JygRnIuUvZE1LjUMwKNbb5LqRCEM4kpQ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 537000,
+      "viewCount": 354014202,
+      "videoCount": 11630,
+      "lastUpdated": "2025-09-03T10:00:55.066088Z"
     }
   },
-  "lastUpdated": "2025-08-29T02:43:25.337305Z",
-  "totalVideos": 292,
-  "totalChannels": 13
+  "lastUpdated": "2025-09-03T10:00:55.066088Z",
+  "totalVideos": 294,
+  "totalChannels": 15
 }

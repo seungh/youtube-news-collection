@@ -755,6 +755,30 @@
       "channelId": "UChlgI3UHCOnwUGzWzbJ3H5w",
       "channelName": " YTN",
       "collectedAt": "2025-08-27T19:05:00Z"
+    },
+    "PFUsbKkrbD0": {
+      "videoId": "PFUsbKkrbD0",
+      "title": "[부동산 직톡] \"아파트 후분양제 강제하면 서울은 큰일 날 것\"",
+      "description": "설명",
+      "publishedAt": "2017-05-14T09:08:48Z",
+      "duration": "PT9M6S",
+      "viewCount": 33924,
+      "likeCount": 84,
+      "commentCount": 60,
+      "tags": [
+        "후분양제",
+        "부동산직톡",
+        "직톡",
+        "고종완",
+        "심교언",
+        "유하룡"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2017-05-14T09:08:48Z",
+      "channelId": "UCdp4_yTBhQmB8E339Lafzow",
+      "channelName": "조선일보",
+      "collectedAt": "2025-09-03T10:02:44Z"
     }
   },
   "channels": {
@@ -865,9 +889,36 @@
       "viewCount": 17649222300,
       "videoCount": 890317,
       "lastUpdated": "2025-08-29T02:43:35.138181Z"
+    },
+    "UCdp4_yTBhQmB8E339Lafzow": {
+      "channelId": "UCdp4_yTBhQmB8E339Lafzow",
+      "channelName": "조선일보",
+      "channelUrl": "@chosunmedia",
+      "channelDescription": " 조선일보 공식 유튜브 채널",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 1700000,
+      "viewCount": 1669752256,
+      "videoCount": 22783,
+      "lastUpdated": "2025-09-03T10:02:44.112590Z"
     }
   },
-  "lastUpdated": "2025-08-29T02:43:35.138181Z",
-  "totalVideos": 35,
-  "totalChannels": 4
+  "lastUpdated": "2025-09-03T10:02:44.112590Z",
+  "totalVideos": 36,
+  "totalChannels": 5
 }

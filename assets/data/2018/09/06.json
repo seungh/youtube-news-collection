@@ -11348,6 +11348,67 @@
       "channelId": "UCTHCOPwqNfZ0uiKOvFyhGwg",
       "channelName": "연합뉴스TV",
       "collectedAt": "2025-08-29T02:43:18Z"
+    },
+    "yFnTxLM2KSQ": {
+      "videoId": "yFnTxLM2KSQ",
+      "title": "[기사+] 드론으로 본 제주 비경-2",
+      "description": "▼ 동아일보 SNS\n\n· 동아일보 네이버 포스트\nhttp://post.naver.com/my.nhn?memberNo=11291600\n\n· 동아일보 페이스북\nhttps://www.facebook.com/dongamedia/\n\n· 동아일보 인스타그램\nhttps://www.instagram.com/dongailbo/\n\n· 동아일보 카카오스토리\nhttps://story.kakao.com/ch/dongamedia",
+      "publishedAt": "2018-09-06T02:42:38Z",
+      "duration": "PT1M39S",
+      "viewCount": 2751,
+      "likeCount": 4,
+      "commentCount": 0,
+      "tags": [
+        "제주",
+        "서귀포",
+        "서귀포해안",
+        "제주해안",
+        "외돌개",
+        "황우지"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2018-09-06T02:42:38Z",
+      "channelId": "UCnHyx6H7fhKfUoAAaVGYvxQ",
+      "channelName": "동아일보",
+      "collectedAt": "2025-09-03T10:00:39Z"
+    },
+    "6lGsGyZRP0U": {
+      "videoId": "6lGsGyZRP0U",
+      "title": "\"나 신입생 때보다 많이 편해졌네?\" 혹시 나도 젊은꼰대? '젊은 꼰대 OX'를 해봤다!",
+      "description": "\"지금 선배가 따라주는 술 빼는 거야?\"\n\"전화랑 카톡 할 때 선배한테 무조건 학번, 과, 이름, 인사 붙이세요~\"\n\n살면서 한번 쯤 해봤다면 혹시 나도 젊은꼰대,,,,? \n후배들에게 무심코 던진 말도 다시 보자! \n\n\n꼰대스러운 말들! 여러분은 어떻게 생각하세요?",
+      "publishedAt": "2018-09-06T05:58:35Z",
+      "duration": "PT5M39S",
+      "viewCount": 5956,
+      "likeCount": 155,
+      "commentCount": 43,
+      "tags": [
+        "꼰대",
+        "젊은꼰대",
+        "선배",
+        "후배",
+        "사회",
+        "사회생활",
+        "군기",
+        "똥군기",
+        "프란",
+        "군대",
+        "군대생활",
+        "군대문화",
+        "선후배",
+        "신입생",
+        "복학생",
+        "대학",
+        "ot",
+        "오티",
+        "오리엔테이션"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2018-09-06T05:58:35Z",
+      "channelId": "UC1aS5CRRDrN6CmR2VcpmetA",
+      "channelName": "한국일보(hankookilbo.com)",
+      "collectedAt": "2025-09-03T10:00:39Z"
     }
   },
   "channels": {
@@ -11728,9 +11789,63 @@
       "viewCount": 3351994752,
       "videoCount": 627296,
       "lastUpdated": "2025-08-29T02:43:18.999461Z"
+    },
+    "UCnHyx6H7fhKfUoAAaVGYvxQ": {
+      "channelId": "UCnHyx6H7fhKfUoAAaVGYvxQ",
+      "channelName": "동아일보",
+      "channelUrl": "@donga-ilbo",
+      "channelDescription": "동아일보 공식 유튜브 채널입니다. \n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/S1eWLrew2Jjv-JLrGqkADPNPJF5u7qzpYE3o8_NoLbH7fVTjtFm9TYlxfOjbB3dH5Lw6qKM-MQ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/S1eWLrew2Jjv-JLrGqkADPNPJF5u7qzpYE3o8_NoLbH7fVTjtFm9TYlxfOjbB3dH5Lw6qKM-MQ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/S1eWLrew2Jjv-JLrGqkADPNPJF5u7qzpYE3o8_NoLbH7fVTjtFm9TYlxfOjbB3dH5Lw6qKM-MQ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 107000,
+      "viewCount": 47341564,
+      "videoCount": 4079,
+      "lastUpdated": "2025-09-03T10:00:39.839872Z"
+    },
+    "UC1aS5CRRDrN6CmR2VcpmetA": {
+      "channelId": "UC1aS5CRRDrN6CmR2VcpmetA",
+      "channelName": "한국일보(hankookilbo.com)",
+      "channelUrl": "@thehankookilbo",
+      "channelDescription": "'공존, 통합, 사람'의 정신으로 앞장서는 국내 유일 중도 정론지 한국일보입니다.\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ppj3UlPuwNq5DyUWNFz27Vc6WoIrRpRI2IMHc9MZ3UqkNVWcXrT83qJTU3bAweA3BOodFu4Euf0=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ppj3UlPuwNq5DyUWNFz27Vc6WoIrRpRI2IMHc9MZ3UqkNVWcXrT83qJTU3bAweA3BOodFu4Euf0=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ppj3UlPuwNq5DyUWNFz27Vc6WoIrRpRI2IMHc9MZ3UqkNVWcXrT83qJTU3bAweA3BOodFu4Euf0=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 362000,
+      "viewCount": 296027619,
+      "videoCount": 6196,
+      "lastUpdated": "2025-09-03T10:00:39.843898Z"
     }
   },
-  "lastUpdated": "2025-08-29T02:43:18.999461Z",
-  "totalVideos": 340,
-  "totalChannels": 14
+  "lastUpdated": "2025-09-03T10:00:39.843898Z",
+  "totalVideos": 342,
+  "totalChannels": 16
 }

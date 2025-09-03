@@ -146,6 +146,95 @@
       "channelId": "UCF4Wxdo3inmxP-Y59wXDsFw",
       "channelName": "MBCNEWS",
       "collectedAt": "2025-08-25T21:07:54Z"
+    },
+    "QXVnO-4SSm0": {
+      "videoId": "QXVnO-4SSm0",
+      "title": "(NAM) 세월호 희생자들의 무사귀환을 기원하며...",
+      "description": "2014년 5월 1일 저녁 대한불교 천태종 부산 삼광사 대웅보전 앞에서 세월호 희생자들의 무사귀환과 극락왕생을 바라는 소망등이 바람에 날리고 있다. /남강호 기자",
+      "publishedAt": "2014-05-03T10:30:00Z",
+      "duration": "PT1M30S",
+      "viewCount": 268,
+      "likeCount": 3,
+      "commentCount": 0,
+      "tags": [
+        "세월호",
+        "희생자",
+        "무사귀환",
+        "천태종",
+        "삼광사",
+        "부산",
+        "대웅보전",
+        "극락왕생",
+        "소망등",
+        "연등",
+        "CNN",
+        "(NAM)",
+        "조선일보",
+        "남강호"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2014-05-03T10:30:00Z",
+      "channelId": "UCdp4_yTBhQmB8E339Lafzow",
+      "channelName": "조선일보",
+      "collectedAt": "2025-09-03T10:02:46Z"
+    },
+    "3XrIc_svEaM": {
+      "videoId": "3XrIc_svEaM",
+      "title": "(NAM) 보면 볼수록 깊어가는 명화의 감동",
+      "description": "2014년 5월 1일 해운대 부산시립미술관에서 열리고 있는'명화를 만나다-한국 근현대 회화 100선'을 찾은 학생들이 작품을 관람하고 있다. 서울 전시에서 한국 회화전으로는 처음으로 관람객 40만명을 기록한 이 전시를 보러 이날 하루 3000명 넘게 찾아왔다. /남강호 기자\n\n[오늘의 세상] 연휴 기간(5월 1~6일), 부산서 1만5000명이 만난 감동\n\nhttp://news.chosun.com/site/data/html_dir/2014/05/07/2014050700252.html",
+      "publishedAt": "2014-05-03T10:28:36Z",
+      "duration": "PT1M27S",
+      "viewCount": 807,
+      "likeCount": 2,
+      "commentCount": 0,
+      "tags": [
+        "한국 근현대 회화",
+        "부산시립미술관",
+        "부산",
+        "해운대",
+        "조선일보",
+        "명화를만나다",
+        "회화",
+        "남강호",
+        "(NAM)",
+        "박수근",
+        "이중섭",
+        "천경자"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2014-05-03T10:28:36Z",
+      "channelId": "UCdp4_yTBhQmB8E339Lafzow",
+      "channelName": "조선일보",
+      "collectedAt": "2025-09-03T10:02:46Z"
+    },
+    "5Wc085TP4ew": {
+      "videoId": "5Wc085TP4ew",
+      "title": "(NAM) 화려함 속에 감춰진 슬픔...",
+      "description": "부처님 오신 날을 5일여 앞 둔 지난 1일 오후 부산 부산진구 초읍동 삼광사에 3만여 개의 연등이 불을 밝히며 장관을 이루고 있다. /남강호 기자",
+      "publishedAt": "2014-05-03T10:27:23Z",
+      "duration": "PT2M3S",
+      "viewCount": 339,
+      "likeCount": 3,
+      "commentCount": 0,
+      "tags": [
+        "부처남오신날",
+        "삼광사",
+        "연등",
+        "세월호",
+        "여객선",
+        "침몰",
+        "조선일보",
+        "남강호",
+        "(NAM)"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2014-05-03T10:27:23Z",
+      "channelId": "UCdp4_yTBhQmB8E339Lafzow",
+      "channelName": "조선일보",
+      "collectedAt": "2025-09-03T10:02:46Z"
     }
   },
   "channels": {
@@ -202,9 +291,36 @@
       "viewCount": 24230949851,
       "videoCount": 332919,
       "lastUpdated": "2025-08-25T21:07:54.907961Z"
+    },
+    "UCdp4_yTBhQmB8E339Lafzow": {
+      "channelId": "UCdp4_yTBhQmB8E339Lafzow",
+      "channelName": "조선일보",
+      "channelUrl": "@chosunmedia",
+      "channelDescription": " 조선일보 공식 유튜브 채널",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 1700000,
+      "viewCount": 1669752256,
+      "videoCount": 22783,
+      "lastUpdated": "2025-09-03T10:02:46.465588Z"
     }
   },
-  "lastUpdated": "2025-08-25T21:07:54.907961Z",
-  "totalVideos": 6,
-  "totalChannels": 2
+  "lastUpdated": "2025-09-03T10:02:46.465588Z",
+  "totalVideos": 9,
+  "totalChannels": 3
 }

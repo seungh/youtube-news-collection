@@ -114,6 +114,30 @@
       "channelId": "UCTHCOPwqNfZ0uiKOvFyhGwg",
       "channelName": "연합뉴스TV",
       "collectedAt": "2025-08-29T02:43:36Z"
+    },
+    "rXF995nC_mc": {
+      "videoId": "rXF995nC_mc",
+      "title": "레미콘 사고, 급회전이 부른 참변...",
+      "description": "서산에서 레미콘 차량이 신호 대기 중이던 승용차를 덮쳐 3명이 숨지는 사고가 발생했다. 지난 14일 오전 9시 10분께 서산 예천동 한 사거리에서 운전하던 레미콘 차량이 왼쪽으로 넘어지며 인근에서 신호 대기 중이던 크루즈 승용차를 덮쳤다. 이 사고로 승용차에 타고 있던 권모(50)씨와 이모(49)씨, 공모(48)씨 3명이 숨졌고, 레미콘 운전자 김 씨도 다쳐 치료를 받고 있다. \n\n레미콘 사고, 급회전이 부른 참변...성지순례 가던 주부 3명 사망\n\nhttp://news.chosun.com/site/data/html_dir/2015/10/16/2015101600056.html",
+      "publishedAt": "2015-10-17T16:20:10Z",
+      "duration": "PT32S",
+      "viewCount": 459373,
+      "likeCount": 1156,
+      "commentCount": 939,
+      "tags": [
+        "서산 레미콘",
+        "레미콘 사망",
+        "레미콘 사고",
+        "서산 성지순례",
+        "성지순례 사망",
+        "서산 3명사망"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2015-10-17T16:20:10Z",
+      "channelId": "UCdp4_yTBhQmB8E339Lafzow",
+      "channelName": "조선일보",
+      "collectedAt": "2025-09-03T10:02:44Z"
     }
   },
   "channels": {
@@ -197,9 +221,36 @@
       "viewCount": 17649222300,
       "videoCount": 890317,
       "lastUpdated": "2025-08-29T02:43:36.379980Z"
+    },
+    "UCdp4_yTBhQmB8E339Lafzow": {
+      "channelId": "UCdp4_yTBhQmB8E339Lafzow",
+      "channelName": "조선일보",
+      "channelUrl": "@chosunmedia",
+      "channelDescription": " 조선일보 공식 유튜브 채널",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 1700000,
+      "viewCount": 1669752256,
+      "videoCount": 22783,
+      "lastUpdated": "2025-09-03T10:02:44.652280Z"
     }
   },
-  "lastUpdated": "2025-08-29T02:43:36.379980Z",
-  "totalVideos": 5,
-  "totalChannels": 3
+  "lastUpdated": "2025-09-03T10:02:44.652280Z",
+  "totalVideos": 6,
+  "totalChannels": 4
 }

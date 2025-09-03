@@ -888,6 +888,33 @@
       "channelId": "UChlgI3UHCOnwUGzWzbJ3H5w",
       "channelName": " YTN",
       "collectedAt": "2025-08-27T19:05:19Z"
+    },
+    "zRLONTzNvj4": {
+      "videoId": "zRLONTzNvj4",
+      "title": "유튜브에서도 화제된 소방관 심폐소생술 음악",
+      "description": "세종시 소방관들이 심폐소생술을 보다 쉽게 배울 수 있도록 뮤직비디오를 만들어 유튜브에 공개해 화제다. 세종호수공원에서 열린 119 수난사고 인명구조 훈련에서 소방관들이 직접 작사, 작곡한 음악에 맞춰 심폐소생술을 선보이고 있다. /신현종 기자",
+      "publishedAt": "2014-07-11T17:58:38Z",
+      "duration": "PT1M24S",
+      "viewCount": 2238,
+      "likeCount": 1,
+      "commentCount": 0,
+      "tags": [
+        "유튜브",
+        "소방관음악",
+        "소방관 심폐소생술",
+        "소방관 뮤직비디오",
+        "세종시",
+        "세종소방관뮤직비디오",
+        "소방관 유튜브",
+        "신현종",
+        "조선일보"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2014-07-11T17:58:38Z",
+      "channelId": "UCdp4_yTBhQmB8E339Lafzow",
+      "channelName": "조선일보",
+      "collectedAt": "2025-09-03T10:02:46Z"
     }
   },
   "channels": {
@@ -998,9 +1025,36 @@
       "viewCount": 17649222300,
       "videoCount": 890317,
       "lastUpdated": "2025-08-29T02:43:54.997023Z"
+    },
+    "UCdp4_yTBhQmB8E339Lafzow": {
+      "channelId": "UCdp4_yTBhQmB8E339Lafzow",
+      "channelName": "조선일보",
+      "channelUrl": "@chosunmedia",
+      "channelDescription": " 조선일보 공식 유튜브 채널",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 1700000,
+      "viewCount": 1669752256,
+      "videoCount": 22783,
+      "lastUpdated": "2025-09-03T10:02:46.096048Z"
     }
   },
-  "lastUpdated": "2025-08-29T02:43:54.997023Z",
-  "totalVideos": 21,
-  "totalChannels": 4
+  "lastUpdated": "2025-09-03T10:02:46.096048Z",
+  "totalVideos": 22,
+  "totalChannels": 5
 }

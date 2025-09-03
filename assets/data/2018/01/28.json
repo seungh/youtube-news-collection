@@ -3790,6 +3790,47 @@
       "channelId": "UCTHCOPwqNfZ0uiKOvFyhGwg",
       "channelName": "연합뉴스TV",
       "collectedAt": "2025-08-29T02:43:33Z"
+    },
+    "vbp5N3ScKsA": {
+      "videoId": "vbp5N3ScKsA",
+      "title": "고개 숙인 밀양 세종병원장 / 조선일보",
+      "description": "경남 밀양 세종병원 석경식 병원장이 브리핑에서 \"정말 죄송하다\"고 거듭 밝힌 뒤 \"사태 마무리를 위해서 최선을 다하겠다\"고 말하고 있다. /신현종 기자\n\n#조선일보 #CNOW취재현장 #세종병원 #조선 #시사 #뉴스 #사회 #밀양 #화재 #참사 #사망 #노인병원 #소방관 #사죄",
+      "publishedAt": "2018-01-27T15:28:02Z",
+      "duration": "PT2M19S",
+      "viewCount": 505,
+      "likeCount": 5,
+      "commentCount": 3,
+      "tags": [
+        "밀양 세종병원",
+        "세종병원",
+        "세종병원 화재",
+        "밀양 화재",
+        "세종병원장",
+        "세종병원 이사장",
+        "석경식 병원장",
+        "밀양 사죄",
+        "밀양 노인병원",
+        "밀양 스프링클러",
+        "세종병원 스피링클러",
+        "문재인 밀양",
+        "대통령 밀양",
+        "밀양 기자회견",
+        "밀양 소방관",
+        "세종병원 소방관",
+        "밀양 정치인",
+        "밀양 대통령",
+        "세종병원 문재인",
+        "안철수 세종병원",
+        "추미애 세종병원",
+        "세종병원 38명 사망",
+        "세종병원장 사죄"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2018-01-27T15:28:02Z",
+      "channelId": "UCdp4_yTBhQmB8E339Lafzow",
+      "channelName": "조선일보",
+      "collectedAt": "2025-09-03T10:02:42Z"
     }
   },
   "channels": {
@@ -4035,9 +4076,36 @@
       "viewCount": 3278386064,
       "videoCount": 233358,
       "lastUpdated": "2025-08-29T02:43:33.727011Z"
+    },
+    "UCdp4_yTBhQmB8E339Lafzow": {
+      "channelId": "UCdp4_yTBhQmB8E339Lafzow",
+      "channelName": "조선일보",
+      "channelUrl": "@chosunmedia",
+      "channelDescription": " 조선일보 공식 유튜브 채널",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 1700000,
+      "viewCount": 1669752256,
+      "videoCount": 22783,
+      "lastUpdated": "2025-09-03T10:02:42.932653Z"
     }
   },
-  "lastUpdated": "2025-08-29T02:43:33.727011Z",
-  "totalVideos": 124,
-  "totalChannels": 9
+  "lastUpdated": "2025-09-03T10:02:42.932653Z",
+  "totalVideos": 125,
+  "totalChannels": 10
 }

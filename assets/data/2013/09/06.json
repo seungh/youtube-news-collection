@@ -150,6 +150,29 @@
       "channelId": "UC4Aa3OPkMenwTANpf0oWVRQ",
       "channelName": "CBS 김현정의 뉴스쇼",
       "collectedAt": "2025-08-22T14:03:35Z"
+    },
+    "QbfEdI-LYZ4": {
+      "videoId": "QbfEdI-LYZ4",
+      "title": "[경향신문]어둠의 42.195",
+      "description": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=201309062215005&code=950301\n\n40㎞ 지점을 통과했다. 2.195㎞만 더 가면 된다. 옆에서 \"힘내\"라며 소리쳤지만 정신이 혼미했다. 햇빛도 분별하지 못하는 눈앞은 언제나처럼 캄캄한 어둠뿐이었다. 두 다리는 힘이 풀린 지 오래다. 그냥 주저앉고 싶었다.\n\n심한 탈진으로 두 번이나 차를 타고 잠깐씩 이동했기 때문에 완주도 의미가 없었다. 그러나 그는 다시 한번 이를 악물었다. 힘들고 어려운 시기를 겪던 그를 세상과 소통하게 해준 마라톤인 만큼 끝까지 달리고 싶다는 '의지'가 마지막 힘을 낼 수 있게 도와줬다.\n\n따가운 가을햇살이 내리쬐던 지난 1일 오후. 마라톤 풀코스(42.195㎞) 완주에 처음 도전한 1급 시각장애인 윤주홍씨(50·안마사)는 충북 영동군의 한 시골 도로를 달리고 있었다.\n\n〈영동 | 천영준·김인수 기자〉",
+      "publishedAt": "2013-09-06T13:37:49Z",
+      "duration": "PT4M22S",
+      "viewCount": 2808,
+      "likeCount": 4,
+      "commentCount": 0,
+      "tags": [
+        "경향신문",
+        "영동포도마라톤대회",
+        "윤주홍",
+        "시각장애인",
+        "마라톤"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2013-09-06T13:37:49Z",
+      "channelId": "UCHXvjavEtkPFJCfGlm0wTXw",
+      "channelName": "경향티비",
+      "collectedAt": "2025-09-03T10:02:29Z"
     }
   },
   "channels": {
@@ -179,9 +202,36 @@
       "viewCount": 1280577570,
       "videoCount": 19124,
       "lastUpdated": "2025-08-24T21:55:13.706097Z"
+    },
+    "UCHXvjavEtkPFJCfGlm0wTXw": {
+      "channelId": "UCHXvjavEtkPFJCfGlm0wTXw",
+      "channelName": "경향티비",
+      "channelUrl": "@thekyunghyangtv",
+      "channelDescription": "더 나은 세상을 위해 우리가 알아야 할 이야기\n경향신문 공식 채널\n\n🚨 [정치비상구] 출구없는 극단 정치, 비상구를 열어드립니다\n🎙️ 매주 월-금 오후 4시 라이브 ｜ 토요특별판 낮 12시\n🎙️ 정치인물사담회 '인물비상구' 일요일 오후 4시\n 📞광고/제휴 문의 : insaps10@gmail.com\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/6Wlbqcuxx1ESFI2U-gQqhHyYpJ-PiWgqyjotWwD9VN5JygRnIuUvZE1LjUMwKNbb5LqRCEM4kpQ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/6Wlbqcuxx1ESFI2U-gQqhHyYpJ-PiWgqyjotWwD9VN5JygRnIuUvZE1LjUMwKNbb5LqRCEM4kpQ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/6Wlbqcuxx1ESFI2U-gQqhHyYpJ-PiWgqyjotWwD9VN5JygRnIuUvZE1LjUMwKNbb5LqRCEM4kpQ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 537000,
+      "viewCount": 354014202,
+      "videoCount": 11630,
+      "lastUpdated": "2025-09-03T10:02:29.426891Z"
     }
   },
-  "lastUpdated": "2025-08-24T21:55:13.707094Z",
-  "totalVideos": 4,
-  "totalChannels": 1
+  "lastUpdated": "2025-09-03T10:02:29.426891Z",
+  "totalVideos": 5,
+  "totalChannels": 2
 }

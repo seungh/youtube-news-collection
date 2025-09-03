@@ -640,6 +640,42 @@
       "channelId": "UCTHCOPwqNfZ0uiKOvFyhGwg",
       "channelName": "연합뉴스TV",
       "collectedAt": "2025-08-29T02:43:17Z"
+    },
+    "qxfrbu4O3EU": {
+      "videoId": "qxfrbu4O3EU",
+      "title": "조인원 기자의 창작의 순간 3. 광고사진가 임병호",
+      "description": "기사 바로가기 → http://premium.chosun.com/site/data/html_dir/2015/02/07/2015020701202.html?csmain\r\n서울 잠원동의 지하 주차장 옆 스튜디오. 업계 전문가들이 최고의 상품 광고 사진가로 꼽는 임병호(49)를 만나기 위해 스튜디오를 들어섰을 때 그는 컴퓨터 앞에 혼자 앉아 있었다. \"일하는 중인데... 일하면서 해도 되죠?\" 모니터 앞에 앉아서 조용히 포토샵 작업만 하는 줄 알았는데, 잠시 후 그는 스튜디오 안 조명이 세팅된 카메라 앞을 몇 번씩 오가면서 새로 나온 맥주 광고의 키(Key) 이미지로 쓸 사진을 찍고 있었다. / 조인원 기자",
+      "publishedAt": "2015-02-07T04:07:41Z",
+      "duration": "PT5M28S",
+      "viewCount": 2542,
+      "likeCount": 13,
+      "commentCount": 1,
+      "tags": [
+        "조선",
+        "조선일보",
+        "chosun",
+        "프리미엄 조선",
+        "김채호",
+        "차재문",
+        "신세원",
+        "Photographer (Profession)",
+        "임병호",
+        "광고사진가",
+        "사진가",
+        "광고",
+        "상품",
+        "스튜디오",
+        "이미지",
+        "포토샵",
+        "잠원동",
+        "서울"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2015-02-07T04:07:41Z",
+      "channelId": "UCdp4_yTBhQmB8E339Lafzow",
+      "channelName": "조선일보",
+      "collectedAt": "2025-09-03T10:02:45Z"
     }
   },
   "channels": {
@@ -750,9 +786,36 @@
       "viewCount": 3351994752,
       "videoCount": 627296,
       "lastUpdated": "2025-08-29T02:43:17.522203Z"
+    },
+    "UCdp4_yTBhQmB8E339Lafzow": {
+      "channelId": "UCdp4_yTBhQmB8E339Lafzow",
+      "channelName": "조선일보",
+      "channelUrl": "@chosunmedia",
+      "channelDescription": " 조선일보 공식 유튜브 채널",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 1700000,
+      "viewCount": 1669752256,
+      "videoCount": 22783,
+      "lastUpdated": "2025-09-03T10:02:45.133580Z"
     }
   },
-  "lastUpdated": "2025-08-29T02:43:17.522203Z",
-  "totalVideos": 23,
-  "totalChannels": 4
+  "lastUpdated": "2025-09-03T10:02:45.134577Z",
+  "totalVideos": 24,
+  "totalChannels": 5
 }

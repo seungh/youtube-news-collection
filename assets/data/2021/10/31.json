@@ -5489,6 +5489,73 @@
       "channelId": "UCTHCOPwqNfZ0uiKOvFyhGwg",
       "channelName": "연합뉴스TV",
       "collectedAt": "2025-08-29T02:42:27Z"
+    },
+    "5Bl2UMqCSso": {
+      "videoId": "5Bl2UMqCSso",
+      "title": "[팩폭시스터] 故 이재선 부인, 남편이 생전 사용하던 휴대폰을 다시 켜기까지 |  납치, 감금... 한 서린 이야기에 눈물바다가 된 스튜디오",
+      "description": "🔸 조선닷컴 공식 홈페이지 http://www.chosun.com\n🔸 조선일보 무료 구독 체험 http://bit.ly/2WnNAF7\n🔸 조선비즈 공식 홈페이지 http://biz.chosun.com\n🔸 공식 페이스북 https://www.facebook.com/chosun\n🔸 공식 트위터 https://twitter.com/chosun\n\n◈ 사실에 대한 믿음, 할 말을 하는 용기. 조선일보◈\n\n#조선일보 #뉴스 #속보 #제보 #팩폭시스터 #김사랑 #이재명 #이재선",
+      "publishedAt": "2021-10-31T06:00:03Z",
+      "duration": "PT12M25S",
+      "viewCount": 624433,
+      "likeCount": 28407,
+      "commentCount": 1072,
+      "tags": [
+        "조선일보",
+        "조선",
+        "언론",
+        "이슈",
+        "신문",
+        "방송",
+        "뉴스",
+        "정치",
+        "속보",
+        "팩폭시스터",
+        "이슈포청천",
+        "11시김광일쇼",
+        "김광일의입",
+        "김사랑",
+        "이재명",
+        "이재선",
+        "정신병원",
+        "김미선",
+        "대장동게이트",
+        "강제입원",
+        "문자",
+        "판결문"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2021-10-31T06:00:03Z",
+      "channelId": "UCdp4_yTBhQmB8E339Lafzow",
+      "channelName": "조선일보",
+      "collectedAt": "2025-09-03T10:02:37Z"
+    },
+    "DgqeKu6bB4U": {
+      "videoId": "DgqeKu6bB4U",
+      "title": "[의대녀] 안강 원장의 통증 이야기 : 하지정맥류",
+      "description": "'의사와 대화하는 여자' 의대녀\n\n이번 시간에는 심미적인 이유를\n넘어 산업재해로 분류 될 만큼\n심각한 문제인 '하지정맥류'에 대해 대화합니다.\n\n궁금한 점은 댓글 남겨주시고,\n구독과 좋아요 함께 부탁드립니다!\n\n더 알아보기 : http://ahnkang.com/",
+      "publishedAt": "2021-10-31T01:00:02Z",
+      "duration": "PT9M55S",
+      "viewCount": 4480,
+      "likeCount": 184,
+      "commentCount": 1,
+      "tags": [
+        "조선일보",
+        "조선",
+        "언론",
+        "이슈",
+        "신문",
+        "방송",
+        "뉴스",
+        "정치",
+        "속보"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2021-10-31T01:00:02Z",
+      "channelId": "UCdp4_yTBhQmB8E339Lafzow",
+      "channelName": "조선일보",
+      "collectedAt": "2025-09-03T10:02:37Z"
     }
   },
   "channels": {
@@ -5950,9 +6017,36 @@
       "viewCount": 3278386064,
       "videoCount": 233358,
       "lastUpdated": "2025-08-29T02:42:27.126044Z"
+    },
+    "UCdp4_yTBhQmB8E339Lafzow": {
+      "channelId": "UCdp4_yTBhQmB8E339Lafzow",
+      "channelName": "조선일보",
+      "channelUrl": "@chosunmedia",
+      "channelDescription": " 조선일보 공식 유튜브 채널",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 1700000,
+      "viewCount": 1669752256,
+      "videoCount": 22783,
+      "lastUpdated": "2025-09-03T10:02:37.424740Z"
     }
   },
-  "lastUpdated": "2025-08-29T02:42:27.127041Z",
-  "totalVideos": 188,
-  "totalChannels": 17
+  "lastUpdated": "2025-09-03T10:02:37.424740Z",
+  "totalVideos": 190,
+  "totalChannels": 18
 }

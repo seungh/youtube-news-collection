@@ -4896,6 +4896,38 @@
       "channelId": "UCTHCOPwqNfZ0uiKOvFyhGwg",
       "channelName": "연합뉴스TV",
       "collectedAt": "2025-08-29T02:42:58Z"
+    },
+    "53iPm962sEc": {
+      "videoId": "53iPm962sEc",
+      "title": "킥보드는 무조건 위험하다?! 공유 킥보드는 애초에 달릴 곳이 없다",
+      "description": "버드, 라임 등 외국 공유 킥보드 업체의 성장 속에서 킥고잉, 일레클, 씽씽 등 국내 킥보드 스타트업도 하나 둘 모습들 드러내고 있다.\n\n하지만 새로운 서비스가 등장할 때마다 제기되는 것처럼 안전에 대한 우려도 함께 커지고 있다. \n\n오랜시간 자동차, 지하철, 버스 중심의 교통 시스템 속에서 공유 킥보드를 둘러싼 안전 문제의 원인은 킥보드가 아닌 환경에 있는 것은 아닐까",
+      "publishedAt": "2019-06-09T01:15:00Z",
+      "duration": "PT3M27S",
+      "viewCount": 3366,
+      "likeCount": 30,
+      "commentCount": 11,
+      "tags": [
+        "킥보드",
+        "샤오미",
+        "킥고잉",
+        "일레클",
+        "씽씽",
+        "버드",
+        "라임",
+        "공유경제",
+        "전동킥보드",
+        "자전거",
+        "카카오바이크",
+        "모빌리티",
+        "타다",
+        "우버"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2019-06-09T01:15:00Z",
+      "channelId": "UC1aS5CRRDrN6CmR2VcpmetA",
+      "channelName": "한국일보(hankookilbo.com)",
+      "collectedAt": "2025-09-03T10:01:59Z"
     }
   },
   "channels": {
@@ -5168,9 +5200,36 @@
       "viewCount": 3278386064,
       "videoCount": 233358,
       "lastUpdated": "2025-08-29T02:42:58.504829Z"
+    },
+    "UC1aS5CRRDrN6CmR2VcpmetA": {
+      "channelId": "UC1aS5CRRDrN6CmR2VcpmetA",
+      "channelName": "한국일보(hankookilbo.com)",
+      "channelUrl": "@thehankookilbo",
+      "channelDescription": "'공존, 통합, 사람'의 정신으로 앞장서는 국내 유일 중도 정론지 한국일보입니다.\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ppj3UlPuwNq5DyUWNFz27Vc6WoIrRpRI2IMHc9MZ3UqkNVWcXrT83qJTU3bAweA3BOodFu4Euf0=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ppj3UlPuwNq5DyUWNFz27Vc6WoIrRpRI2IMHc9MZ3UqkNVWcXrT83qJTU3bAweA3BOodFu4Euf0=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ppj3UlPuwNq5DyUWNFz27Vc6WoIrRpRI2IMHc9MZ3UqkNVWcXrT83qJTU3bAweA3BOodFu4Euf0=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 362000,
+      "viewCount": 296027619,
+      "videoCount": 6196,
+      "lastUpdated": "2025-09-03T10:01:59.860037Z"
     }
   },
-  "lastUpdated": "2025-08-29T02:42:58.505829Z",
-  "totalVideos": 146,
-  "totalChannels": 10
+  "lastUpdated": "2025-09-03T10:01:59.861033Z",
+  "totalVideos": 147,
+  "totalChannels": 11
 }

@@ -27,6 +27,40 @@
       "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
       "channelName": "뉴스TVCHOSUN",
       "collectedAt": "2025-08-21T10:46:30Z"
+    },
+    "blaAnQmgALk": {
+      "videoId": "blaAnQmgALk",
+      "title": "청와대로 항의행진한 민주노총",
+      "description": "전날 28일 오후 '민주노총 총파업 결의대회와 철도노조 파업 지지 연대 집회'에 참가한 민주노총 소속 조합원 및 철도노조원들이 집회를 마친 뒤 노동법 개정 및 철도민영화 반대를 촉구하며 청와대까지 행진하던 중 광화문 네거리에서 경찰병력이 미리 설치한 바리케이트에 가로막혀 경찰들과 몸싸움을 벌이는 등 일대 차도를 점거해 도심 교통이 혼잡해졌다./이진한 기자\n\n민노총 대규모 집회 후 세종로 불법 점거...경찰·보수단체와 곳곳 충돌\n\nhttp://news.chosun.com/site/data/html_dir/2013/12/28/2013122801484.html",
+      "publishedAt": "2013-12-29T13:45:21Z",
+      "duration": "PT1M7S",
+      "viewCount": 532,
+      "likeCount": 1,
+      "commentCount": 0,
+      "tags": [],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2013-12-29T13:45:21Z",
+      "channelId": "UCdp4_yTBhQmB8E339Lafzow",
+      "channelName": "조선일보",
+      "collectedAt": "2025-09-03T10:02:47Z"
+    },
+    "JMOimzP4Wg8": {
+      "videoId": "JMOimzP4Wg8",
+      "title": "설국 이룬 대숲",
+      "description": "2013년 마지막 휴일인 29일 광주전남지역에 대설주의보가 내려진 가운데 전남 담양 죽녹원을 찾은 관광객들이 눈쌓인 대숲 속을 걷고 있다.",
+      "publishedAt": "2013-12-29T07:21:20Z",
+      "duration": "PT1M2S",
+      "viewCount": 136,
+      "likeCount": 1,
+      "commentCount": 0,
+      "tags": [],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2013-12-29T07:21:20Z",
+      "channelId": "UCdp4_yTBhQmB8E339Lafzow",
+      "channelName": "조선일보",
+      "collectedAt": "2025-09-03T10:02:47Z"
     }
   },
   "channels": {
@@ -56,9 +90,36 @@
       "viewCount": 4319423561,
       "videoCount": 150855,
       "lastUpdated": "2025-08-21T10:29:06.277571Z"
+    },
+    "UCdp4_yTBhQmB8E339Lafzow": {
+      "channelId": "UCdp4_yTBhQmB8E339Lafzow",
+      "channelName": "조선일보",
+      "channelUrl": "@chosunmedia",
+      "channelDescription": " 조선일보 공식 유튜브 채널",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 1700000,
+      "viewCount": 1669752256,
+      "videoCount": 22783,
+      "lastUpdated": "2025-09-03T10:02:47.114092Z"
     }
   },
-  "lastUpdated": "2025-08-21T10:46:30.002460Z",
-  "totalVideos": 1,
-  "totalChannels": 1
+  "lastUpdated": "2025-09-03T10:02:47.114092Z",
+  "totalVideos": 3,
+  "totalChannels": 2
 }

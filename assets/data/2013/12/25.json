@@ -71,6 +71,23 @@
       "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
       "channelName": "JTBC News",
       "collectedAt": "2025-08-25T21:08:07Z"
+    },
+    "ZIKLe_GPJck": {
+      "videoId": "ZIKLe_GPJck",
+      "title": "해외의 다양한 크리스마스 풍경",
+      "description": "크리스마스를 맞는 지구촌 표정은 다양했다. 미국 캘리포니아주 에선 신생아들이 크리스마스 선물을 넣는 빨간색 대형 양말 속에 누워 있다. 또한 여름철인 호주 시드니의 본다이 해변에서는 파도를 즐기고 있다.\n\n성탄절 지구촌 풍경...북미 동부 폭설, 中 호텔들 긴축...\n\nhttp://biz.chosun.com/site/data/html_dir/2013/12/25/2013122501375.html",
+      "publishedAt": "2013-12-25T13:32:00Z",
+      "duration": "PT1M31S",
+      "viewCount": 1051,
+      "likeCount": 1,
+      "commentCount": 0,
+      "tags": [],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2013-12-25T13:32:00Z",
+      "channelId": "UCdp4_yTBhQmB8E339Lafzow",
+      "channelName": "조선일보",
+      "collectedAt": "2025-09-03T10:02:47Z"
     }
   },
   "channels": {
@@ -100,9 +117,36 @@
       "viewCount": 14817048106,
       "videoCount": 261473,
       "lastUpdated": "2025-08-25T21:08:07.963735Z"
+    },
+    "UCdp4_yTBhQmB8E339Lafzow": {
+      "channelId": "UCdp4_yTBhQmB8E339Lafzow",
+      "channelName": "조선일보",
+      "channelUrl": "@chosunmedia",
+      "channelDescription": " 조선일보 공식 유튜브 채널",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 1700000,
+      "viewCount": 1669752256,
+      "videoCount": 22783,
+      "lastUpdated": "2025-09-03T10:02:47.166037Z"
     }
   },
-  "lastUpdated": "2025-08-25T21:08:07.963735Z",
-  "totalVideos": 2,
-  "totalChannels": 1
+  "lastUpdated": "2025-09-03T10:02:47.166037Z",
+  "totalVideos": 3,
+  "totalChannels": 2
 }

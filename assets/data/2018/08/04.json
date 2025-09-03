@@ -4887,6 +4887,80 @@
       "channelId": "UCTHCOPwqNfZ0uiKOvFyhGwg",
       "channelName": "연합뉴스TV",
       "collectedAt": "2025-08-29T02:43:13Z"
+    },
+    "OemTo_b7D54": {
+      "videoId": "OemTo_b7D54",
+      "title": "페미니즘이 남성혐오 사상이라고? ｜페미니스트 신지예가 답하다",
+      "description": "\"페미니즘은 남혐 아닌가?\"\n\n\"성차별 해소를 논하면서 남자만 군대가는 문제는 왜 안 다뤄?\"\n\n\"몇몇 범죄자 때문에 모든 남자를 잠재적 범죄자 취급하는 거 아닌가?\"\n\n\n지난 지방선거에서 녹색당 서울시장에 도전했던 페미니스트, 신지예 후보를 다룬 기사에 달린 댓글 가운데 일부입니다.\n\n페미니즘을 둘러싼 오해와 편견에 대해 한 사람의 페미니스트로서 어떻게 생각하는지, 신 후보의 대답을 들어봤습니다. \n    \n※\n댓글에 출연자에 대한 욕설이나 인신공격, 모욕적인 표현이 포함된 경우, 제작자나 출연자에 대한 명예훼손 가능성이 있는 경우 사전 경고 없이 삭제될 수 있습니다.",
+      "publishedAt": "2018-08-04T02:00:01Z",
+      "duration": "PT8M17S",
+      "viewCount": 175477,
+      "likeCount": 0,
+      "commentCount": 0,
+      "tags": [
+        "페미니스트",
+        "후보",
+        "서울시장",
+        "녹색당",
+        "서울",
+        "시장",
+        "선거",
+        "투표",
+        "신지예",
+        "댓글",
+        "질문",
+        "페미니즘",
+        "페미",
+        "남혐",
+        "여혐",
+        "여성혐오",
+        "미소지니",
+        "남성혐오",
+        "군대",
+        "군역",
+        "의무",
+        "권리",
+        "시민권",
+        "인권",
+        "낙태",
+        "abortion",
+        "vote",
+        "pran",
+        "seoul",
+        "feminist",
+        "feminism",
+        "human",
+        "rights",
+        "misogyny",
+        "army",
+        "모병제",
+        "징병제",
+        "남성",
+        "여성",
+        "man",
+        "woman",
+        "women",
+        "men",
+        "남자",
+        "여자",
+        "차별",
+        "성차별",
+        "discrimination",
+        "화장실",
+        "몰카",
+        "불법촬영",
+        "몰래카메라",
+        "구멍",
+        "성범죄",
+        "성폭력",
+        "성희롱"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2018-08-04T02:00:01Z",
+      "channelId": "UC1aS5CRRDrN6CmR2VcpmetA",
+      "channelName": "한국일보(hankookilbo.com)",
+      "collectedAt": "2025-09-03T10:01:41Z"
     }
   },
   "channels": {
@@ -5186,9 +5260,36 @@
       "viewCount": 3351994752,
       "videoCount": 627296,
       "lastUpdated": "2025-08-29T02:43:13.230214Z"
+    },
+    "UC1aS5CRRDrN6CmR2VcpmetA": {
+      "channelId": "UC1aS5CRRDrN6CmR2VcpmetA",
+      "channelName": "한국일보(hankookilbo.com)",
+      "channelUrl": "@thehankookilbo",
+      "channelDescription": "'공존, 통합, 사람'의 정신으로 앞장서는 국내 유일 중도 정론지 한국일보입니다.\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ppj3UlPuwNq5DyUWNFz27Vc6WoIrRpRI2IMHc9MZ3UqkNVWcXrT83qJTU3bAweA3BOodFu4Euf0=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ppj3UlPuwNq5DyUWNFz27Vc6WoIrRpRI2IMHc9MZ3UqkNVWcXrT83qJTU3bAweA3BOodFu4Euf0=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ppj3UlPuwNq5DyUWNFz27Vc6WoIrRpRI2IMHc9MZ3UqkNVWcXrT83qJTU3bAweA3BOodFu4Euf0=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 362000,
+      "viewCount": 296027619,
+      "videoCount": 6196,
+      "lastUpdated": "2025-09-03T10:01:41.313865Z"
     }
   },
-  "lastUpdated": "2025-08-29T02:43:13.230214Z",
-  "totalVideos": 146,
-  "totalChannels": 11
+  "lastUpdated": "2025-09-03T10:01:41.313865Z",
+  "totalVideos": 147,
+  "totalChannels": 12
 }

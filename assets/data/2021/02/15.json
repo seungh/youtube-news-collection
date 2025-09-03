@@ -14648,6 +14648,32 @@
       "channelId": "UCTHCOPwqNfZ0uiKOvFyhGwg",
       "channelName": "연합뉴스TV",
       "collectedAt": "2025-08-29T02:42:26Z"
+    },
+    "IuAI_CARML0": {
+      "videoId": "IuAI_CARML0",
+      "title": "[김광일의 입] 文정부 ‘인사 독단’ 해도 해도 너무해",
+      "description": "우리나라에는 ‘국회법’, 그리고 ‘인사청문회법’에 따라 고위공직자에 대한 인사청문을 하도록 하고 있다. 대통령 당선인이 지명하는 고위공직자, 즉 국무위원, 다시 말해 장관 후보자를 국회가 사전에 검증할 수 있도록 인사청문을 하도록 돼 있다. 그런데 문재인 정부 들어와서는 야당의 동의 없이, 즉 청와대와 여당 독단으로 임명한 장관급 이상 고위 인사가 이달 들어 29명을 채웠다. 곧 서른 명이다. 비슷한 사례로 노무현 정부 때 3명, 이명박 정부 때 17명, 박근혜 정부 때 10명이 있었다. 역대 문재인 정부의 인사 독단이 노무현·이명박·박근혜 정부를 전부 합친 것과 같다는 말이 나오고 있는 것이다.\n\n🔸 조선닷컴 공식 홈페이지 http://www.chosun.com\r\n🔸 조선일보 무료구독체험 : http://bit.ly/2WnNAF7\r\n🔸 조선비즈 공식 홈페이지 http://biz.chosun.com\r\n🔸 공식 페이스북 : https://www.facebook.com/chosun\r\n🔸 공식 트위터 : https://twitter.com/chosun\r\n\r\n◈ 사실에 대한 믿음, 할 말을 하는 용기. 조선일보◈\r\n\r\n#조선일보 #뉴스 #속보 #제보",
+      "publishedAt": "2021-02-15T09:00:12Z",
+      "duration": "PT11M49S",
+      "viewCount": 181321,
+      "likeCount": 16930,
+      "commentCount": 842,
+      "tags": [
+        "조선일보",
+        "조선",
+        "언론",
+        "이슈",
+        "신문",
+        "방송",
+        "뉴스",
+        "정치"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2021-02-15T09:00:12Z",
+      "channelId": "UCdp4_yTBhQmB8E339Lafzow",
+      "channelName": "조선일보",
+      "collectedAt": "2025-09-03T10:02:41Z"
     }
   },
   "channels": {
@@ -15190,9 +15216,36 @@
       "viewCount": 3351994752,
       "videoCount": 627296,
       "lastUpdated": "2025-08-29T02:42:26.630493Z"
+    },
+    "UCdp4_yTBhQmB8E339Lafzow": {
+      "channelId": "UCdp4_yTBhQmB8E339Lafzow",
+      "channelName": "조선일보",
+      "channelUrl": "@chosunmedia",
+      "channelDescription": " 조선일보 공식 유튜브 채널",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 1700000,
+      "viewCount": 1669752256,
+      "videoCount": 22783,
+      "lastUpdated": "2025-09-03T10:02:41.932447Z"
     }
   },
-  "lastUpdated": "2025-08-29T02:42:26.630493Z",
-  "totalVideos": 440,
-  "totalChannels": 20
+  "lastUpdated": "2025-09-03T10:02:41.932447Z",
+  "totalVideos": 441,
+  "totalChannels": 21
 }

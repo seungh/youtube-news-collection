@@ -270,6 +270,51 @@
       "channelId": "UChlgI3UHCOnwUGzWzbJ3H5w",
       "channelName": " YTN",
       "collectedAt": "2025-08-27T19:05:15Z"
+    },
+    "PgC6_j5k4zM": {
+      "videoId": "PgC6_j5k4zM",
+      "title": "테러 공포에 빠진 러시아",
+      "description": "지난 29일 자살 폭탄 테러로 최소 17명이 사망한 러시아 볼고그라드에서 30일 또다시 테러로 추정되는 폭발 사고가 발생해 최소 13명이 숨졌으며 러시아 당국은 현재 테러 비상을 선포했다./이진한 기자\r\n\r\n기차驛 이어 버스... 러 이틀째 같은 도시(볼고그라드)서 폭탄테러\r\n\r\nhttp://news.chosun.com/site/data/html_dir/2013/12/31/2013123100309.html",
+      "publishedAt": "2013-12-30T13:28:37Z",
+      "duration": "PT1M11S",
+      "viewCount": 403,
+      "likeCount": 1,
+      "commentCount": 1,
+      "tags": [],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2013-12-30T13:28:37Z",
+      "channelId": "UCdp4_yTBhQmB8E339Lafzow",
+      "channelName": "조선일보",
+      "collectedAt": "2025-09-03T10:02:47Z"
+    },
+    "LwUtFpJhTwQ": {
+      "videoId": "LwUtFpJhTwQ",
+      "title": "(NAM) 軍폭력 희생자 감싸안은 따뜻한 판결",
+      "description": "가혹행위로 정신질환 앓게 된 50代, 30년 만에 국가배상 받게 돼\n입대 1년5개월 만에 依病전역, 정상 생활 못하고 병원 전전... 뒤늦게 동생이 국가배상 청구\n국가의 소멸시효 만료 주장에 법원은 신의성실 원칙 앞세워 \"이자 포함 4억대 지급\" 판결\n\n29일 오후 경남 양산의 한 정신병원 면회실에서 박현기(오른쪽)씨가 동생 현태씨와 이야기를 나누고 있다. 33년 전 군대에서 구타로 정신병을 앓게 된 현기씨는 '웃어보라'는 동생의 말에 영문도 모르고 웃기만 했다. /남강호 기자\n\n軍폭력 희생자 감싸안은 따뜻한 판결\n\nhttp://news.chosun.com/site/data/html_dir/2013/12/30/2013123000259.html",
+      "publishedAt": "2013-12-29T20:15:31Z",
+      "duration": "PT3M57S",
+      "viewCount": 343,
+      "likeCount": 2,
+      "commentCount": 0,
+      "tags": [
+        "가혹행위",
+        "정신질환",
+        "의병전역",
+        "구타",
+        "박현기",
+        "정신병원",
+        "정신병",
+        "남강호",
+        "조선일보",
+        "(NAM)"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2013-12-29T20:15:31Z",
+      "channelId": "UCdp4_yTBhQmB8E339Lafzow",
+      "channelName": "조선일보",
+      "collectedAt": "2025-09-03T10:02:47Z"
     }
   },
   "channels": {
@@ -380,9 +425,36 @@
       "viewCount": 17649222300,
       "videoCount": 890317,
       "lastUpdated": "2025-08-29T02:43:50.367278Z"
+    },
+    "UCdp4_yTBhQmB8E339Lafzow": {
+      "channelId": "UCdp4_yTBhQmB8E339Lafzow",
+      "channelName": "조선일보",
+      "channelUrl": "@chosunmedia",
+      "channelDescription": " 조선일보 공식 유튜브 채널",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 1700000,
+      "viewCount": 1669752256,
+      "videoCount": 22783,
+      "lastUpdated": "2025-09-03T10:02:47.102624Z"
     }
   },
-  "lastUpdated": "2025-08-29T02:43:50.367278Z",
-  "totalVideos": 10,
-  "totalChannels": 4
+  "lastUpdated": "2025-09-03T10:02:47.102624Z",
+  "totalVideos": 12,
+  "totalChannels": 5
 }

@@ -6678,6 +6678,42 @@
       "channelId": "UCTHCOPwqNfZ0uiKOvFyhGwg",
       "channelName": "연합뉴스TV",
       "collectedAt": "2025-08-29T02:42:40Z"
+    },
+    "GE28o8tuD0Q": {
+      "videoId": "GE28o8tuD0Q",
+      "title": "법원은 디지털 성범죄자들을 이렇게 보호해왔다",
+      "description": "‘텔레그램 N번방, 박사방 사건’ 이전에도 디지털 성범죄는 계속 되어 왔습니다.\n\n‘젊어서, 범행을 인정해서, 반성하고 있어서…’\n디지털 성범죄 가해자들은 어처구니 없는 감경 사유로 솜방망이 처벌을 받았죠.\n\n디지털 성범죄 판결문을 읽어 본 20대 남녀는 어떤 반응을 보였을까요?\n\n#N번방은_판결을_먹고_자랐다 #N번방 #NOMORE_NTHROOM\n\n* 출연자에 대한 과도한 인신공격과 비방성 댓글을 게재할 경우 법적 조치될 수 있음을 알려드립니다.",
+      "publishedAt": "2020-04-11T01:00:04Z",
+      "duration": "PT8M54S",
+      "viewCount": 5187,
+      "likeCount": 442,
+      "commentCount": 38,
+      "tags": [
+        "n번방",
+        "디지털 성범죄",
+        "n번방 처벌",
+        "n번방 처벌 수위",
+        "디지털 성범죄 처벌",
+        "리액션",
+        "다크웹",
+        "텔레그램",
+        "박사방",
+        "판결",
+        "양형",
+        "처벌 수위",
+        "nthroom",
+        "NOMORE_NTHROOM nthroom",
+        "프란",
+        "법원",
+        "성인지감수성",
+        "판사"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2020-04-11T01:00:04Z",
+      "channelId": "UC1aS5CRRDrN6CmR2VcpmetA",
+      "channelName": "한국일보(hankookilbo.com)",
+      "collectedAt": "2025-09-03T10:01:39Z"
     }
   },
   "channels": {
@@ -7112,9 +7148,36 @@
       "viewCount": 3351994752,
       "videoCount": 627296,
       "lastUpdated": "2025-08-29T02:42:40.101591Z"
+    },
+    "UC1aS5CRRDrN6CmR2VcpmetA": {
+      "channelId": "UC1aS5CRRDrN6CmR2VcpmetA",
+      "channelName": "한국일보(hankookilbo.com)",
+      "channelUrl": "@thehankookilbo",
+      "channelDescription": "'공존, 통합, 사람'의 정신으로 앞장서는 국내 유일 중도 정론지 한국일보입니다.\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ppj3UlPuwNq5DyUWNFz27Vc6WoIrRpRI2IMHc9MZ3UqkNVWcXrT83qJTU3bAweA3BOodFu4Euf0=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ppj3UlPuwNq5DyUWNFz27Vc6WoIrRpRI2IMHc9MZ3UqkNVWcXrT83qJTU3bAweA3BOodFu4Euf0=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ppj3UlPuwNq5DyUWNFz27Vc6WoIrRpRI2IMHc9MZ3UqkNVWcXrT83qJTU3bAweA3BOodFu4Euf0=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 362000,
+      "viewCount": 296027619,
+      "videoCount": 6196,
+      "lastUpdated": "2025-09-03T10:01:39.201198Z"
     }
   },
-  "lastUpdated": "2025-08-29T02:42:40.101591Z",
-  "totalVideos": 216,
-  "totalChannels": 16
+  "lastUpdated": "2025-09-03T10:01:39.201198Z",
+  "totalVideos": 217,
+  "totalChannels": 17
 }

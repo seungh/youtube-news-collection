@@ -518,6 +518,67 @@
       "channelId": "UCTHCOPwqNfZ0uiKOvFyhGwg",
       "channelName": "연합뉴스TV",
       "collectedAt": "2025-08-29T02:43:14Z"
+    },
+    "J2-_z7MDk6g": {
+      "videoId": "J2-_z7MDk6g",
+      "title": "'아빠 짤렸다?' MBC 해직 기자 & 쿠르베 오디오 대표 박성제 인터뷰",
+      "description": "[인물360] MBC 해직 기자 & 쿠르베 오디오 대표 박성제 인터뷰\n\n MBC 해직 기자이자 쿠르베 오디오 대표, 박성제 씨를 수식하는 말이다. 과거 MBC 방송기자였던 박성제 씨는 이명박 정부의 공영방송 탄압으로 인해 직장에서 해고되었다. 이후 그는 오디오 제작자로서의 새 삶을 시작하는 한편 MBC 해직 기자로서 공영 방송 정상화를 위해 적극적으로 활동하고 있다.\n\n해직 언론인이자 오디오 회사 대표라는 두 정체성을 가진, 박성제 씨의 이야기를 들어봤다.\n\n\n\n----------------------------------------------------------------------------------------------------------------------------------\n\n▲ 더 다양한 기사 읽기 :  https://www.hankookilbo.com\n▲ 유튜브 구독하기 : https://www.youtube.com/thehankookilbo\n▲ 페이스북 좋아요 : https://www.facebook.com/hkilbo\n▲ 트위터 팔로우 :  https://twitter.com/hankookilbo\n\n▲사건 및 영상 제보\n digitalnews.hk@gmail.com \n ssolly@hankookilbo.com\n changsun91@hankookilbo.com\n\n제보 : 02)724-2489~2490",
+      "publishedAt": "2017-06-02T23:30:00Z",
+      "duration": "PT3M3S",
+      "viewCount": 4984,
+      "likeCount": 48,
+      "commentCount": 16,
+      "tags": [
+        "인터뷰",
+        "정치",
+        "mbc",
+        "공영방송",
+        "이명박",
+        "김재철",
+        "박근혜",
+        "언론",
+        "탄압",
+        "시위",
+        "집회",
+        "파업",
+        "노조",
+        "노동",
+        "조합",
+        "해직",
+        "해고",
+        "박성제",
+        "오디오",
+        "쿠르베",
+        "나무",
+        "장인",
+        "스피커",
+        "음향",
+        "국산",
+        "언론인",
+        "토크",
+        "대화",
+        "인물",
+        "아빠",
+        "회사",
+        "kbs",
+        "기자",
+        "방송",
+        "억압",
+        "차별",
+        "정체성",
+        "새출발",
+        "고급",
+        "서울",
+        "사회",
+        "서초구",
+        "인테리어"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2017-06-02T23:30:00Z",
+      "channelId": "UC1aS5CRRDrN6CmR2VcpmetA",
+      "channelName": "한국일보(hankookilbo.com)",
+      "collectedAt": "2025-09-03T10:01:23Z"
     }
   },
   "channels": {
@@ -655,9 +716,36 @@
       "viewCount": 3351994752,
       "videoCount": 627296,
       "lastUpdated": "2025-08-29T02:43:14.937104Z"
+    },
+    "UC1aS5CRRDrN6CmR2VcpmetA": {
+      "channelId": "UC1aS5CRRDrN6CmR2VcpmetA",
+      "channelName": "한국일보(hankookilbo.com)",
+      "channelUrl": "@thehankookilbo",
+      "channelDescription": "'공존, 통합, 사람'의 정신으로 앞장서는 국내 유일 중도 정론지 한국일보입니다.\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ppj3UlPuwNq5DyUWNFz27Vc6WoIrRpRI2IMHc9MZ3UqkNVWcXrT83qJTU3bAweA3BOodFu4Euf0=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ppj3UlPuwNq5DyUWNFz27Vc6WoIrRpRI2IMHc9MZ3UqkNVWcXrT83qJTU3bAweA3BOodFu4Euf0=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ppj3UlPuwNq5DyUWNFz27Vc6WoIrRpRI2IMHc9MZ3UqkNVWcXrT83qJTU3bAweA3BOodFu4Euf0=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 362000,
+      "viewCount": 296027619,
+      "videoCount": 6196,
+      "lastUpdated": "2025-09-03T10:01:23.338008Z"
     }
   },
-  "lastUpdated": "2025-08-29T02:43:14.937104Z",
-  "totalVideos": 22,
-  "totalChannels": 5
+  "lastUpdated": "2025-09-03T10:01:23.338008Z",
+  "totalVideos": 23,
+  "totalChannels": 6
 }

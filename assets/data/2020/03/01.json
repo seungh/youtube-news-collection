@@ -8352,6 +8352,35 @@
       "channelId": "UCTHCOPwqNfZ0uiKOvFyhGwg",
       "channelName": "연합뉴스TV",
       "collectedAt": "2025-08-29T02:40:35Z"
+    },
+    "Wr-7XPU_PWw": {
+      "videoId": "Wr-7XPU_PWw",
+      "title": "'신앙이 위협받으면 가족을 떠나라' 전 신천지 교인이 말하는 신천지의 진짜 모습",
+      "description": "'신앙이 위협받으면 가족을 떠나라' 전 신천지 교인이 말하는 신천지의 진짜 모습\n*편집 오류로 수정 후 재업로드했습니다*",
+      "publishedAt": "2020-03-01T12:11:15Z",
+      "duration": "PT2M23S",
+      "viewCount": 98313,
+      "likeCount": 683,
+      "commentCount": 178,
+      "tags": [
+        "신천지",
+        "코로나",
+        "바이러스",
+        "대구",
+        "경북",
+        "이만희",
+        "코로나19",
+        "우한",
+        "폐렴",
+        "감염",
+        "확진자"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2020-03-01T12:11:15Z",
+      "channelId": "UC1aS5CRRDrN6CmR2VcpmetA",
+      "channelName": "한국일보(hankookilbo.com)",
+      "collectedAt": "2025-09-03T10:01:27Z"
     }
   },
   "channels": {
@@ -8759,9 +8788,36 @@
       "viewCount": 3278386064,
       "videoCount": 233358,
       "lastUpdated": "2025-08-29T02:40:35.349030Z"
+    },
+    "UC1aS5CRRDrN6CmR2VcpmetA": {
+      "channelId": "UC1aS5CRRDrN6CmR2VcpmetA",
+      "channelName": "한국일보(hankookilbo.com)",
+      "channelUrl": "@thehankookilbo",
+      "channelDescription": "'공존, 통합, 사람'의 정신으로 앞장서는 국내 유일 중도 정론지 한국일보입니다.\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ppj3UlPuwNq5DyUWNFz27Vc6WoIrRpRI2IMHc9MZ3UqkNVWcXrT83qJTU3bAweA3BOodFu4Euf0=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ppj3UlPuwNq5DyUWNFz27Vc6WoIrRpRI2IMHc9MZ3UqkNVWcXrT83qJTU3bAweA3BOodFu4Euf0=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ppj3UlPuwNq5DyUWNFz27Vc6WoIrRpRI2IMHc9MZ3UqkNVWcXrT83qJTU3bAweA3BOodFu4Euf0=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 362000,
+      "viewCount": 296027619,
+      "videoCount": 6196,
+      "lastUpdated": "2025-09-03T10:01:27.336392Z"
     }
   },
-  "lastUpdated": "2025-08-29T02:40:35.350029Z",
-  "totalVideos": 241,
-  "totalChannels": 15
+  "lastUpdated": "2025-09-03T10:01:27.336392Z",
+  "totalVideos": 242,
+  "totalChannels": 16
 }

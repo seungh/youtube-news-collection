@@ -104,6 +104,95 @@
       "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
       "channelName": "JTBC News",
       "collectedAt": "2025-08-25T21:08:08Z"
+    },
+    "H75Vu4x39t8": {
+      "videoId": "H75Vu4x39t8",
+      "title": "(NAM) 유동근\"선비役은 재미없더라고, 만날 바른말만 하잖아\"",
+      "description": "'용의 눈물'의 태종 이방원에서 18년 만에'정도전'의 태조 이성계로 변신한 유동근이 28일 경북 경주 야외 촬영장에서 소나무 옆에 섰다. 이성계의 호는소나무가 있는 집을 뜻하는'송헌(松軒)'이다. 그는\"액션 장면 있을 땐 몸이 무거워질까봐 일부러 밥을 먹지 않고 촬영한다\"고 했다. /남강호 기자\n\n선비役은 재미없더라고, 만날 바른말만 하잖아\n\nhttp://news.chosun.com/site/data/html_dir/2014/01/29/2014012903393.html",
+      "publishedAt": "2014-01-30T03:04:23Z",
+      "duration": "PT11M59S",
+      "viewCount": 24518,
+      "likeCount": 40,
+      "commentCount": 5,
+      "tags": [
+        "유동근",
+        "이방원",
+        "이성계",
+        "정도전",
+        "용의눈물",
+        "태종",
+        "송헌",
+        "액션",
+        "남강호",
+        "조선일보",
+        "(NAM)",
+        "KBS",
+        "대하드라마"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2014-01-30T03:04:23Z",
+      "channelId": "UCdp4_yTBhQmB8E339Lafzow",
+      "channelName": "조선일보",
+      "collectedAt": "2025-09-03T10:02:46Z"
+    },
+    "kPisDevhHLs": {
+      "videoId": "kPisDevhHLs",
+      "title": "(NAM) 해군 최강부대 SSU 혹한기 내한(耐寒) 훈련을 가다",
+      "description": "지난 27일부터 29일까지 경남 진해 군항기지에서 심해잠수사들로 구성된 해군 해난구조대(SSU)가 혹한기 내한(耐寒)훈련을 하고 있다. 이번 훈련은 겨울철 냉해에서의 수중 적응 및 극복훈련을 위해 SSU특수체조, 구보, 고무보트 패들링, 맨몸수영 등의 프로그램으로 펼쳐졌다. /남강호 기자",
+      "publishedAt": "2014-01-30T02:22:08Z",
+      "duration": "PT2M26S",
+      "viewCount": 41873,
+      "likeCount": 64,
+      "commentCount": 15,
+      "tags": [
+        "SSU",
+        "혹한기",
+        "해군",
+        "최강부대",
+        "진해",
+        "군항기지",
+        "심해잠수사",
+        "해난군조대",
+        "내한훈련",
+        "조선일보",
+        "남강호",
+        "(NAM)"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2014-01-30T02:22:08Z",
+      "channelId": "UCdp4_yTBhQmB8E339Lafzow",
+      "channelName": "조선일보",
+      "collectedAt": "2025-09-03T10:02:46Z"
+    },
+    "Hy27cihYVG8": {
+      "videoId": "Hy27cihYVG8",
+      "title": "(NAM) 할아버지,할머니 뵈러 가요",
+      "description": "비교적 한산한 모습을 보인 29일 오후 부산역에서 한복을 곱게 차려입은 한 어린이가 부모님과 함께 열차를 타기 위해 계단을 내려오고 있다. /남강호 기자",
+      "publishedAt": "2014-01-30T00:41:46Z",
+      "duration": "PT1M37S",
+      "viewCount": 415,
+      "likeCount": 1,
+      "commentCount": 0,
+      "tags": [
+        "설",
+        "기차",
+        "열차",
+        "고속도로",
+        "귀성",
+        "부산",
+        "서울",
+        "남강호",
+        "조선일보",
+        "(NAM)"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2014-01-30T00:41:46Z",
+      "channelId": "UCdp4_yTBhQmB8E339Lafzow",
+      "channelName": "조선일보",
+      "collectedAt": "2025-09-03T10:02:46Z"
     }
   },
   "channels": {
@@ -160,9 +249,36 @@
       "viewCount": 14817048106,
       "videoCount": 261473,
       "lastUpdated": "2025-08-25T21:08:08.107993Z"
+    },
+    "UCdp4_yTBhQmB8E339Lafzow": {
+      "channelId": "UCdp4_yTBhQmB8E339Lafzow",
+      "channelName": "조선일보",
+      "channelUrl": "@chosunmedia",
+      "channelDescription": " 조선일보 공식 유튜브 채널",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 1700000,
+      "viewCount": 1669752256,
+      "videoCount": 22783,
+      "lastUpdated": "2025-09-03T10:02:46.864468Z"
     }
   },
-  "lastUpdated": "2025-08-25T21:08:08.107993Z",
-  "totalVideos": 4,
-  "totalChannels": 2
+  "lastUpdated": "2025-09-03T10:02:46.864468Z",
+  "totalVideos": 7,
+  "totalChannels": 3
 }

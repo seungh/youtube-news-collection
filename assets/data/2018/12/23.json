@@ -4244,6 +4244,31 @@
       "channelId": "UCTHCOPwqNfZ0uiKOvFyhGwg",
       "channelName": "연합뉴스TV",
       "collectedAt": "2025-08-29T02:43:45Z"
+    },
+    "wCba_PzqCJA": {
+      "videoId": "wCba_PzqCJA",
+      "title": "[현장+]파다르의 서브를 받아보았다",
+      "description": "▼ 기사 링크\nhttp://news.donga.com/3/all/20181224/93423012/1\n\n▼ 동아일보 SNS\n\n· 동아일보 네이버 포스트\nhttp://post.naver.com/my.nhn?memberNo=11291600\n\n· 동아일보 페이스북\nhttps://www.facebook.com/dongamedia/\n\n· 동아일보 인스타그램\nhttps://www.instagram.com/dongailbo/\n\n· 동아일보 카카오스토리\nhttps://story.kakao.com/ch/dongamedia",
+      "publishedAt": "2018-12-23T04:06:10Z",
+      "duration": "PT1M24S",
+      "viewCount": 21964,
+      "likeCount": 30,
+      "commentCount": 0,
+      "tags": [
+        "파다르",
+        "배구",
+        "배구선수",
+        "현대캐피탈",
+        "스카이워커스",
+        "서브",
+        "배구서브"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2018-12-23T04:06:10Z",
+      "channelId": "UCnHyx6H7fhKfUoAAaVGYvxQ",
+      "channelName": "동아일보",
+      "collectedAt": "2025-09-03T10:00:25Z"
     }
   },
   "channels": {
@@ -4543,9 +4568,36 @@
       "viewCount": 3278386064,
       "videoCount": 233358,
       "lastUpdated": "2025-08-29T02:43:45.987370Z"
+    },
+    "UCnHyx6H7fhKfUoAAaVGYvxQ": {
+      "channelId": "UCnHyx6H7fhKfUoAAaVGYvxQ",
+      "channelName": "동아일보",
+      "channelUrl": "@donga-ilbo",
+      "channelDescription": "동아일보 공식 유튜브 채널입니다. \n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/S1eWLrew2Jjv-JLrGqkADPNPJF5u7qzpYE3o8_NoLbH7fVTjtFm9TYlxfOjbB3dH5Lw6qKM-MQ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/S1eWLrew2Jjv-JLrGqkADPNPJF5u7qzpYE3o8_NoLbH7fVTjtFm9TYlxfOjbB3dH5Lw6qKM-MQ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/S1eWLrew2Jjv-JLrGqkADPNPJF5u7qzpYE3o8_NoLbH7fVTjtFm9TYlxfOjbB3dH5Lw6qKM-MQ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 107000,
+      "viewCount": 47341564,
+      "videoCount": 4079,
+      "lastUpdated": "2025-09-03T10:00:25.543735Z"
     }
   },
-  "lastUpdated": "2025-08-29T02:43:45.987370Z",
-  "totalVideos": 133,
-  "totalChannels": 11
+  "lastUpdated": "2025-09-03T10:00:25.543735Z",
+  "totalVideos": 134,
+  "totalChannels": 12
 }

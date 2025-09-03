@@ -195,6 +195,93 @@
       "channelId": "UChlgI3UHCOnwUGzWzbJ3H5w",
       "channelName": " YTN",
       "collectedAt": "2025-08-27T19:05:19Z"
+    },
+    "UrwjILe9zUk": {
+      "videoId": "UrwjILe9zUk",
+      "title": "(NAM) '영원한 캡틴' 박지성 현역 은퇴경기",
+      "description": "'영원한 캡틴' 박지성의 현역 은퇴경기인 2014 PSV 아인트호벤 코리아투어 2차전 경남 FC와의 경기가 24일 창원축구센터에서 열렸다. 동점골을 넣은 아인트호벤 샬크가 박지성에게 맨 먼저 달려가 축하를 받고 있다. /남강호 기자\n\n박지성 은퇴경기, 경남FC에 PSV 에인트호번이 3대2로 역정승\n\nhttp://news.chosun.com/site/data/html_dir/2014/05/24/2014052401391.html",
+      "publishedAt": "2014-05-24T13:45:48Z",
+      "duration": "PT2M13S",
+      "viewCount": 6781,
+      "likeCount": 6,
+      "commentCount": 2,
+      "tags": [
+        "박지성",
+        "은퇴",
+        "영원한캡틴",
+        "캡틴",
+        "지성",
+        "지성박",
+        "아인트호벤",
+        "히딩크",
+        "홍명보",
+        "월드컵",
+        "남강호",
+        "조선일보",
+        "(NAM)"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2014-05-24T13:45:48Z",
+      "channelId": "UCdp4_yTBhQmB8E339Lafzow",
+      "channelName": "조선일보",
+      "collectedAt": "2025-09-03T10:02:46Z"
+    },
+    "DX_HeK9F1Iw": {
+      "videoId": "DX_HeK9F1Iw",
+      "title": "(NAM) 노무현 前대통령 5주기...눈물 흘리는 문재인 의원",
+      "description": "문재인 의원이 23일 경남 김해시 봉하마을에서 열린 고(故) 노무현 전 대통령 5주기 추도식에서 눈물을 닦고 있다. /남강호 기자\n\n노무현 전 대통령 서거 5주기, 이승환 추모곡 뮤비 입소문 타는 중...'뭉클'\n\nhttp://news.chosun.com/site/data/html_dir/2014/05/23/2014052302595.html",
+      "publishedAt": "2014-05-24T13:42:36Z",
+      "duration": "PT3M7S",
+      "viewCount": 700394,
+      "likeCount": 2562,
+      "commentCount": 264,
+      "tags": [
+        "노무현",
+        "문재인",
+        "봉하마을",
+        "대통령",
+        "Roh Moo-hyun (Lawyer)",
+        "남강호",
+        "조선일보",
+        "(NAM)"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2014-05-24T13:42:36Z",
+      "channelId": "UCdp4_yTBhQmB8E339Lafzow",
+      "channelName": "조선일보",
+      "collectedAt": "2025-09-03T10:02:46Z"
+    },
+    "jvBmWm7BorA": {
+      "videoId": "jvBmWm7BorA",
+      "title": "(NAM) 부산항대교 드디어 개통",
+      "description": "22일 오후 부산 남구 감만동과 영도구 청학동을 잇는 부산항대교가 개통식을 가졌다. 국내 최초의 인공섬식 충돌방지공 등 최첨단 기술력이 적용된 부산항대교의 주교량은 강합성 사장교 형식으로 해수면으로부터 주탑 높이 190m에 이르며, 감만동에서 영도 청학동까지 사장교 1114m와 접속구간 2217m(감만동구간 1608m, 영도구간 609m)를 포함해 총 길이 3368m, 너비 18.6∼25.6m 규모로 건설됐다.  /남강호 기자\n\n높이 70m 부산항대교까지, 9개 다리 전체 길이 28.4㎞... 바다 위에 떠 있어\n\nhttp://news.chosun.com/site/data/html_dir/2014/05/21/2014052102590.html",
+      "publishedAt": "2014-05-24T13:39:56Z",
+      "duration": "PT1M28S",
+      "viewCount": 1309,
+      "likeCount": 4,
+      "commentCount": 0,
+      "tags": [
+        "부산항대교",
+        "부산",
+        "감만동",
+        "영도구",
+        "남구",
+        "청학동",
+        "인공섬",
+        "사장교",
+        "부산항대교 개통",
+        "남강호",
+        "조선일보",
+        "(NAM)"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2014-05-24T13:39:56Z",
+      "channelId": "UCdp4_yTBhQmB8E339Lafzow",
+      "channelName": "조선일보",
+      "collectedAt": "2025-09-03T10:02:46Z"
     }
   },
   "channels": {
@@ -251,9 +338,36 @@
       "viewCount": 17649222300,
       "videoCount": 890317,
       "lastUpdated": "2025-08-29T02:43:55.101851Z"
+    },
+    "UCdp4_yTBhQmB8E339Lafzow": {
+      "channelId": "UCdp4_yTBhQmB8E339Lafzow",
+      "channelName": "조선일보",
+      "channelUrl": "@chosunmedia",
+      "channelDescription": " 조선일보 공식 유튜브 채널",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 1700000,
+      "viewCount": 1669752256,
+      "videoCount": 22783,
+      "lastUpdated": "2025-09-03T10:02:46.362621Z"
     }
   },
-  "lastUpdated": "2025-08-29T02:43:55.101851Z",
-  "totalVideos": 8,
-  "totalChannels": 2
+  "lastUpdated": "2025-09-03T10:02:46.362621Z",
+  "totalVideos": 11,
+  "totalChannels": 3
 }

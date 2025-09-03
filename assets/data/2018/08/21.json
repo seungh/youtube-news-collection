@@ -12770,6 +12770,82 @@
       "channelId": "UCTHCOPwqNfZ0uiKOvFyhGwg",
       "channelName": "연합뉴스TV",
       "collectedAt": "2025-08-29T02:43:19Z"
+    },
+    "PFClenCNKls": {
+      "videoId": "PFClenCNKls",
+      "title": "[사람+]'예능대세' 개그맨 박성광을 만나다",
+      "description": "▼ 동아일보 SNS\n\n· 동아일보 네이버 포스트\nhttp://post.naver.com/\n\n· 동아일보 페이스북\nhttps://www.facebook.com/dongamedia/\n\n· 동아일보 인스타그램\nhttps://www.instagram.com/dongailbo/\n\n· 동아일보 카카오스토리\nhttps://story.kakao.com/ch/dongamedia",
+      "publishedAt": "2018-08-21T07:35:50Z",
+      "duration": "PT4M42S",
+      "viewCount": 2593,
+      "likeCount": 45,
+      "commentCount": 5,
+      "tags": [],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2018-08-21T07:35:50Z",
+      "channelId": "UCnHyx6H7fhKfUoAAaVGYvxQ",
+      "channelName": "동아일보",
+      "collectedAt": "2025-09-03T10:00:54Z"
+    },
+    "eIJOUw6V7gw": {
+      "videoId": "eIJOUw6V7gw",
+      "title": "경기 과천 '장미의 언덕' 토막 살인사건 용의자 검거 / 조선일보",
+      "description": "🔸 조선닷컴 공식 홈페이지 http://www.chosun.com\n🔸 조선비즈 공식 홈페이지 http://www.biz.chosun.com\n🔸 공식 페이스북 : https://www.facebook.com/chosun\n🔸 공식 트위터 : https://twitter.com/chosun\n\n◈ 사실에 대한 믿음, 할 말을 하는 용기. 조선일보◈\n\n#조선일보 #시사 #뉴스 #이슈 #제보 #조선일보 #CNOW취재현장 #장미의언덕 #조선 #시사 #뉴스 #사회 #토막살인 #과천 #경기도 #용의자 #살인사건",
+      "publishedAt": "2018-08-21T09:34:56Z",
+      "duration": "PT57S",
+      "viewCount": 6363,
+      "likeCount": 18,
+      "commentCount": 4,
+      "tags": [
+        "조선일보",
+        "CNOW취재현장",
+        "장미의언덕",
+        "조선",
+        "시사",
+        "뉴스",
+        "사회",
+        "토막살인",
+        "과천",
+        "경기도",
+        "용의자",
+        "살인사건"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2018-08-21T09:34:56Z",
+      "channelId": "UCdp4_yTBhQmB8E339Lafzow",
+      "channelName": "조선일보",
+      "collectedAt": "2025-09-03T10:00:54Z"
+    },
+    "7IduPHes4h4": {
+      "videoId": "7IduPHes4h4",
+      "title": "21일 인천 남동공단 내 세일전자에서 화재가 발생했다. / 조선일보",
+      "description": "#조선일보 #CNOW취재현장 #남동공단화재 #조선 #시사 #뉴스 #사회 #인천 #남동공단 #세일전자 #화재",
+      "publishedAt": "2018-08-21T12:35:37Z",
+      "duration": "PT36S",
+      "viewCount": 3490,
+      "likeCount": 12,
+      "commentCount": 1,
+      "tags": [
+        "조선일보",
+        "CNOW취재현장",
+        "남동공단화재",
+        "조선",
+        "시사",
+        "뉴스",
+        "사회",
+        "인천",
+        "남동공단",
+        "세일전자",
+        "화재"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2018-08-21T12:35:37Z",
+      "channelId": "UCdp4_yTBhQmB8E339Lafzow",
+      "channelName": "조선일보",
+      "collectedAt": "2025-09-03T10:00:54Z"
     }
   },
   "channels": {
@@ -13150,9 +13226,63 @@
       "viewCount": 3351994752,
       "videoCount": 627296,
       "lastUpdated": "2025-08-29T02:43:19.407314Z"
+    },
+    "UCnHyx6H7fhKfUoAAaVGYvxQ": {
+      "channelId": "UCnHyx6H7fhKfUoAAaVGYvxQ",
+      "channelName": "동아일보",
+      "channelUrl": "@donga-ilbo",
+      "channelDescription": "동아일보 공식 유튜브 채널입니다. \n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/S1eWLrew2Jjv-JLrGqkADPNPJF5u7qzpYE3o8_NoLbH7fVTjtFm9TYlxfOjbB3dH5Lw6qKM-MQ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/S1eWLrew2Jjv-JLrGqkADPNPJF5u7qzpYE3o8_NoLbH7fVTjtFm9TYlxfOjbB3dH5Lw6qKM-MQ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/S1eWLrew2Jjv-JLrGqkADPNPJF5u7qzpYE3o8_NoLbH7fVTjtFm9TYlxfOjbB3dH5Lw6qKM-MQ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 107000,
+      "viewCount": 47341564,
+      "videoCount": 4079,
+      "lastUpdated": "2025-09-03T10:00:54.674023Z"
+    },
+    "UCdp4_yTBhQmB8E339Lafzow": {
+      "channelId": "UCdp4_yTBhQmB8E339Lafzow",
+      "channelName": "조선일보",
+      "channelUrl": "@chosunmedia",
+      "channelDescription": " 조선일보 공식 유튜브 채널",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 1700000,
+      "viewCount": 1669752256,
+      "videoCount": 22783,
+      "lastUpdated": "2025-09-03T10:00:54.674023Z"
     }
   },
-  "lastUpdated": "2025-08-29T02:43:19.407314Z",
-  "totalVideos": 385,
-  "totalChannels": 14
+  "lastUpdated": "2025-09-03T10:00:54.674023Z",
+  "totalVideos": 388,
+  "totalChannels": 16
 }

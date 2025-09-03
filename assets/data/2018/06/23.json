@@ -5147,6 +5147,72 @@
       "channelId": "UCTHCOPwqNfZ0uiKOvFyhGwg",
       "channelName": "연합뉴스TV",
       "collectedAt": "2025-08-29T02:43:13Z"
+    },
+    "NZiOcqM7IqA": {
+      "videoId": "NZiOcqM7IqA",
+      "title": "[Video C] 김종필 전 총리 빈소 찾은 정재계 인사들 / 조선일보",
+      "description": "23일 오후 서울 아산병원에 마련된 김종필 전 총리의 빈소에 정재계 인사들이 찾아왔다.\n\n어떤 인사들이 왔는지 영상으로 확인해보자.\n\n🔸 조선닷컴 공식 홈페이지 http://www.chosun.com\n🔸 조선비즈 공식 홈페이지 http://www.biz.chosun.com\n🔸 공식 페이스북 : https://www.facebook.com/chosun\n🔸 공식 트위터 : https://twitter.com/chosun\n\n◈ 사실에 대한 믿음, 할 말을 하는 용기. 조선일보◈\n\n#조선일보 #실시간뉴스 #김종필 #빈소 #인사 #정재계 #아산병원 #조문 #jp #김문수 #유승민 #나경원 #더불어민주당 #자유한국당 #문희상 #3김 # 청와대 #문재인",
+      "publishedAt": "2018-06-23T11:02:18Z",
+      "duration": "PT1M15S",
+      "viewCount": 10315,
+      "likeCount": 32,
+      "commentCount": 15,
+      "tags": [
+        "김종필",
+        "빈소",
+        "아산병원",
+        "김문수",
+        "유승민",
+        "나경원",
+        "더불어민주당",
+        "자유한국당",
+        "문희상",
+        "정진석",
+        "김성태",
+        "추미애",
+        "바른정당",
+        "3김",
+        "jp",
+        "정치",
+        "국회",
+        "총리",
+        "청와대",
+        "문재인"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2018-06-23T11:02:18Z",
+      "channelId": "UCdp4_yTBhQmB8E339Lafzow",
+      "channelName": "조선일보",
+      "collectedAt": "2025-09-03T10:02:43Z"
+    },
+    "-O2n58KykhM": {
+      "videoId": "-O2n58KykhM",
+      "title": "[Video C] 정진석 의원 \"김종필 전 총리 가족장으로 치를 것으로 보여\" / 조선일보",
+      "description": "23일 오후 김종필 전 총리 빈소를 방문한 정진석 의원이 정부에서 김종필 전 국무총리의 국립 현충원 안장을 제안했지만 고인의 뜻을 존중, 가족장으로 부여 선산에 모실 예정이라고 밝혔다.\n\n김종필 전 총리의 빈소는 서울 아산병원 장례식장에 마련됐다.\n\n#조선일보 #실시간뉴스 #김종필 #빈소 #장례 #가족장 #3김 #jp",
+      "publishedAt": "2018-06-23T05:00:45Z",
+      "duration": "PT3M35S",
+      "viewCount": 3332,
+      "likeCount": 18,
+      "commentCount": 3,
+      "tags": [
+        "김종필",
+        "장례",
+        "문재인",
+        "화환",
+        "빈소",
+        "총리",
+        "총재",
+        "3김",
+        "박정희",
+        "육사"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2018-06-23T05:00:45Z",
+      "channelId": "UCdp4_yTBhQmB8E339Lafzow",
+      "channelName": "조선일보",
+      "collectedAt": "2025-09-03T10:02:43Z"
     }
   },
   "channels": {
@@ -5473,9 +5539,36 @@
       "viewCount": 3351994752,
       "videoCount": 627296,
       "lastUpdated": "2025-08-29T02:43:13.447945Z"
+    },
+    "UCdp4_yTBhQmB8E339Lafzow": {
+      "channelId": "UCdp4_yTBhQmB8E339Lafzow",
+      "channelName": "조선일보",
+      "channelUrl": "@chosunmedia",
+      "channelDescription": " 조선일보 공식 유튜브 채널",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 1700000,
+      "viewCount": 1669752256,
+      "videoCount": 22783,
+      "lastUpdated": "2025-09-03T10:02:43.609917Z"
     }
   },
-  "lastUpdated": "2025-08-29T02:43:13.447945Z",
-  "totalVideos": 157,
-  "totalChannels": 12
+  "lastUpdated": "2025-09-03T10:02:43.609917Z",
+  "totalVideos": 159,
+  "totalChannels": 13
 }

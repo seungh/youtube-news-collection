@@ -29,6 +29,36 @@
       "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
       "channelName": "JTBC News",
       "collectedAt": "2025-08-25T21:08:24Z"
+    },
+    "Cn8Hd6dIYmE": {
+      "videoId": "Cn8Hd6dIYmE",
+      "title": "(NAM) 鐵의 도시서 물류·과학 메카로... 포항의 진화",
+      "description": "2009년 개항한 포항 영일만 신항의 모습. 포항시는 영일만 신항 개항을 발판 삼아 한국의 물류 중심지로 도약하고 있다. /남강호 기자",
+      "publishedAt": "2013-11-29T16:20:56Z",
+      "duration": "PT1M49S",
+      "viewCount": 225,
+      "likeCount": 2,
+      "commentCount": 0,
+      "tags": [
+        "포항",
+        "영일만",
+        "신항",
+        "물류",
+        "컨테이너",
+        "철의도시",
+        "과학메카",
+        "포항시",
+        "남강호",
+        "조선일보",
+        "(NAM)",
+        "Pohang (City/Town/Village)"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2013-11-29T16:20:56Z",
+      "channelId": "UCdp4_yTBhQmB8E339Lafzow",
+      "channelName": "조선일보",
+      "collectedAt": "2025-09-03T10:02:47Z"
     }
   },
   "channels": {
@@ -58,9 +88,36 @@
       "viewCount": 14817048106,
       "videoCount": 261473,
       "lastUpdated": "2025-08-25T21:08:24.402489Z"
+    },
+    "UCdp4_yTBhQmB8E339Lafzow": {
+      "channelId": "UCdp4_yTBhQmB8E339Lafzow",
+      "channelName": "조선일보",
+      "channelUrl": "@chosunmedia",
+      "channelDescription": " 조선일보 공식 유튜브 채널",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 1700000,
+      "viewCount": 1669752256,
+      "videoCount": 22783,
+      "lastUpdated": "2025-09-03T10:02:47.403594Z"
     }
   },
-  "lastUpdated": "2025-08-25T21:08:24.402489Z",
-  "totalVideos": 1,
-  "totalChannels": 1
+  "lastUpdated": "2025-09-03T10:02:47.403594Z",
+  "totalVideos": 2,
+  "totalChannels": 2
 }

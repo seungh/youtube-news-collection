@@ -885,6 +885,23 @@
       "channelId": "UChlgI3UHCOnwUGzWzbJ3H5w",
       "channelName": " YTN",
       "collectedAt": "2025-08-27T19:02:46Z"
+    },
+    "VHAMwzuU3kw": {
+      "videoId": "VHAMwzuU3kw",
+      "title": "\"연봉 높아질 곳을 찾아라...부동산은 저절로 오른다\"",
+      "description": "부동산투자 전문가인 백원기씨는 2016대한민국 부동산 트렌드쇼에서 투자 유망지역과 관련해 “결국 일자리가 생길 곳이 가장 유망하다”고 말했다.\n\n어떤 지역의 급여나 연봉이 높아지면 부동산 가격은 저절로 상승한다는 것이다. 대표적인 예로 현대차 글로벌 신사옥이 들어설 서울 삼성동 옛 한국전력 일대다. \n\n그는 “현대차 같은 대기업이 높은 건물을 지으면 높은 연봉을 받는 직원들이 많아질 것”이라며 “대기업이 아니어도 우리 집앞에 종합병원 하나만 들어와도 집값이 달라진다”고 주장했다.\n\n그렇다면 구체적으로 그런 지역에서 어떻게 투자처를 찾아야 할까. 그가 간단한 노하우를 공개했다. 자, 지금부터 들어보시죠.",
+      "publishedAt": "2017-02-05T12:45:44Z",
+      "duration": "PT9M36S",
+      "viewCount": 62779,
+      "likeCount": 179,
+      "commentCount": 9,
+      "tags": [],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2017-02-05T12:45:44Z",
+      "channelId": "UCdp4_yTBhQmB8E339Lafzow",
+      "channelName": "조선일보",
+      "collectedAt": "2025-09-03T10:02:44Z"
     }
   },
   "channels": {
@@ -1103,9 +1120,36 @@
       "viewCount": 17649222300,
       "videoCount": 890317,
       "lastUpdated": "2025-08-29T02:43:35.413873Z"
+    },
+    "UCdp4_yTBhQmB8E339Lafzow": {
+      "channelId": "UCdp4_yTBhQmB8E339Lafzow",
+      "channelName": "조선일보",
+      "channelUrl": "@chosunmedia",
+      "channelDescription": " 조선일보 공식 유튜브 채널",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 1700000,
+      "viewCount": 1669752256,
+      "videoCount": 22783,
+      "lastUpdated": "2025-09-03T10:02:44.204504Z"
     }
   },
-  "lastUpdated": "2025-08-29T02:43:35.413873Z",
-  "totalVideos": 35,
-  "totalChannels": 8
+  "lastUpdated": "2025-09-03T10:02:44.204504Z",
+  "totalVideos": 36,
+  "totalChannels": 9
 }

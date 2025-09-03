@@ -166,6 +166,35 @@
       "channelId": "UChlgI3UHCOnwUGzWzbJ3H5w",
       "channelName": " YTN",
       "collectedAt": "2025-08-27T19:05:19Z"
+    },
+    "cUla37Jo2Gk": {
+      "videoId": "cUla37Jo2Gk",
+      "title": "'개에서 AI 항체' 사람 감염 가능성은?",
+      "description": "14일 충남 풍세면 용정리 가금류 사육단지 내 한 산란계농장에서 키우고 있던 개 3마리 중 1마리에서 H5형 항체 양성 반응이 나온 가운데 방역관계자들이 출입하는 차량을 소독하고 있다. 항체 양성반응이 나왔다는 것은 AI 바이러스에 노출이 됐지만 질병이 발생한 상태는 아니라는 뜻이다. 이는 국내에서 처음 발견된 이종간 전염사례인 데다가 포유류 전염이기 때문에 인체 감염여부에도 관심이 증폭되고 있다. /신현종 기자 \n\n개에서 AI 항체 발견, 조류독감 포유류 첫 감염...\"인체 감염도 가능?\"\n\nhttp://news.chosun.com/site/data/html_dir/2014/03/15/2014031500055.html",
+      "publishedAt": "2014-03-14T16:43:16Z",
+      "duration": "PT1M14S",
+      "viewCount": 411,
+      "likeCount": 0,
+      "commentCount": 0,
+      "tags": [
+        "ai",
+        "개",
+        "강아지",
+        "ai개",
+        "조류인플루엔자",
+        "풍세면",
+        "가금류",
+        "산란계농장",
+        "ai사람",
+        "신현종",
+        "조선일보"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2014-03-14T16:43:16Z",
+      "channelId": "UCdp4_yTBhQmB8E339Lafzow",
+      "channelName": "조선일보",
+      "collectedAt": "2025-09-03T10:02:46Z"
     }
   },
   "channels": {
@@ -249,9 +278,36 @@
       "viewCount": 17649222300,
       "videoCount": 890317,
       "lastUpdated": "2025-08-29T02:43:55.182871Z"
+    },
+    "UCdp4_yTBhQmB8E339Lafzow": {
+      "channelId": "UCdp4_yTBhQmB8E339Lafzow",
+      "channelName": "조선일보",
+      "channelUrl": "@chosunmedia",
+      "channelDescription": " 조선일보 공식 유튜브 채널",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 1700000,
+      "viewCount": 1669752256,
+      "videoCount": 22783,
+      "lastUpdated": "2025-09-03T10:02:46.716204Z"
     }
   },
-  "lastUpdated": "2025-08-29T02:43:55.182871Z",
-  "totalVideos": 7,
-  "totalChannels": 3
+  "lastUpdated": "2025-09-03T10:02:46.716204Z",
+  "totalVideos": 8,
+  "totalChannels": 4
 }

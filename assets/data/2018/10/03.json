@@ -6217,6 +6217,25 @@
       "channelId": "UCTHCOPwqNfZ0uiKOvFyhGwg",
       "channelName": "연합뉴스TV",
       "collectedAt": "2025-08-29T02:43:47Z"
+    },
+    "ymndMfb_y-g": {
+      "videoId": "ymndMfb_y-g",
+      "title": "\"노동자에요? 사업자에요?\"…방송스태프 비정규직 노동자 국회 증언대회",
+      "description": "2일 오후 서울 영등포구 국회 의원회관에서 열린 ‘방송 스태프 비정규직 노동자 국회 증언대회’에 참석한 50여명의 방송 제작 노동자들은 한류 열풍 뒤에는 노예계약과 살인적인 노동시간이 있다고 입을 모았다. \n\n〈유명종 PD yoopd@kyunghyang.com〉\n\n경향신문 홈페이지 http://www.khan.co.kr/\n\n경향뷰 페이스북 https://www.facebook.com/kyunghyangview/\n\n경향신문 페이스북 https://www.facebook.com/kyunghyangshinmun\n\n경향신문 트위터 https://twitter.com/kyunghyang\n\n스포츠경향 홈페이지 http://sports.khan.co.kr/ \n\n스포츠경향 페이스북 https://www.facebook.com/sportkh\n\n스포츠경향 트위터 https://twitter.com/sportskh",
+      "publishedAt": "2018-10-03T08:03:17Z",
+      "duration": "PT6M52S",
+      "viewCount": 1944,
+      "likeCount": 15,
+      "commentCount": 1,
+      "tags": [
+        "경향신문"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2018-10-03T08:03:17Z",
+      "channelId": "UCHXvjavEtkPFJCfGlm0wTXw",
+      "channelName": "경향티비",
+      "collectedAt": "2025-09-03T10:02:11Z"
     }
   },
   "channels": {
@@ -6543,9 +6562,36 @@
       "viewCount": 3351994752,
       "videoCount": 627296,
       "lastUpdated": "2025-08-29T02:43:47.349675Z"
+    },
+    "UCHXvjavEtkPFJCfGlm0wTXw": {
+      "channelId": "UCHXvjavEtkPFJCfGlm0wTXw",
+      "channelName": "경향티비",
+      "channelUrl": "@thekyunghyangtv",
+      "channelDescription": "더 나은 세상을 위해 우리가 알아야 할 이야기\n경향신문 공식 채널\n\n🚨 [정치비상구] 출구없는 극단 정치, 비상구를 열어드립니다\n🎙️ 매주 월-금 오후 4시 라이브 ｜ 토요특별판 낮 12시\n🎙️ 정치인물사담회 '인물비상구' 일요일 오후 4시\n 📞광고/제휴 문의 : insaps10@gmail.com\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/6Wlbqcuxx1ESFI2U-gQqhHyYpJ-PiWgqyjotWwD9VN5JygRnIuUvZE1LjUMwKNbb5LqRCEM4kpQ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/6Wlbqcuxx1ESFI2U-gQqhHyYpJ-PiWgqyjotWwD9VN5JygRnIuUvZE1LjUMwKNbb5LqRCEM4kpQ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/6Wlbqcuxx1ESFI2U-gQqhHyYpJ-PiWgqyjotWwD9VN5JygRnIuUvZE1LjUMwKNbb5LqRCEM4kpQ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 537000,
+      "viewCount": 354014202,
+      "videoCount": 11630,
+      "lastUpdated": "2025-09-03T10:02:11.183032Z"
     }
   },
-  "lastUpdated": "2025-08-29T02:43:47.349675Z",
-  "totalVideos": 189,
-  "totalChannels": 12
+  "lastUpdated": "2025-09-03T10:02:11.183032Z",
+  "totalVideos": 190,
+  "totalChannels": 13
 }

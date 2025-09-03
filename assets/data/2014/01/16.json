@@ -404,6 +404,53 @@
       "channelId": "UChlgI3UHCOnwUGzWzbJ3H5w",
       "channelName": " YTN",
       "collectedAt": "2025-08-27T19:05:18Z"
+    },
+    "TkINgnc81Gw": {
+      "videoId": "TkINgnc81Gw",
+      "title": "[연예는 박하수다]12회 별그대 전지현 김수현 완전해부",
+      "description": "",
+      "publishedAt": "2014-01-16T09:11:51Z",
+      "duration": "PT1H1M35S",
+      "viewCount": 5280,
+      "likeCount": 9,
+      "commentCount": 0,
+      "tags": [
+        "경향신문",
+        "연예",
+        "박하수다",
+        "별그대",
+        "전지현",
+        "김수현",
+        "드라마"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2014-01-16T09:11:51Z",
+      "channelId": "UCHXvjavEtkPFJCfGlm0wTXw",
+      "channelName": "경향티비",
+      "collectedAt": "2025-09-03T10:02:28Z"
+    },
+    "BmLIF4OU0b8": {
+      "videoId": "BmLIF4OU0b8",
+      "title": "[이대근의 단언컨대]11회 나쁜정치란 무엇인가",
+      "description": "",
+      "publishedAt": "2014-01-16T08:39:28Z",
+      "duration": "PT20M39S",
+      "viewCount": 633,
+      "likeCount": 0,
+      "commentCount": 0,
+      "tags": [
+        "경향신문",
+        "이대근",
+        "단언컨대",
+        "정치"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2014-01-16T08:39:28Z",
+      "channelId": "UCHXvjavEtkPFJCfGlm0wTXw",
+      "channelName": "경향티비",
+      "collectedAt": "2025-09-03T10:02:28Z"
     }
   },
   "channels": {
@@ -541,9 +588,36 @@
       "viewCount": 17649222300,
       "videoCount": 890317,
       "lastUpdated": "2025-08-29T02:43:54.245079Z"
+    },
+    "UCHXvjavEtkPFJCfGlm0wTXw": {
+      "channelId": "UCHXvjavEtkPFJCfGlm0wTXw",
+      "channelName": "경향티비",
+      "channelUrl": "@thekyunghyangtv",
+      "channelDescription": "더 나은 세상을 위해 우리가 알아야 할 이야기\n경향신문 공식 채널\n\n🚨 [정치비상구] 출구없는 극단 정치, 비상구를 열어드립니다\n🎙️ 매주 월-금 오후 4시 라이브 ｜ 토요특별판 낮 12시\n🎙️ 정치인물사담회 '인물비상구' 일요일 오후 4시\n 📞광고/제휴 문의 : insaps10@gmail.com\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/6Wlbqcuxx1ESFI2U-gQqhHyYpJ-PiWgqyjotWwD9VN5JygRnIuUvZE1LjUMwKNbb5LqRCEM4kpQ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/6Wlbqcuxx1ESFI2U-gQqhHyYpJ-PiWgqyjotWwD9VN5JygRnIuUvZE1LjUMwKNbb5LqRCEM4kpQ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/6Wlbqcuxx1ESFI2U-gQqhHyYpJ-PiWgqyjotWwD9VN5JygRnIuUvZE1LjUMwKNbb5LqRCEM4kpQ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 537000,
+      "viewCount": 354014202,
+      "videoCount": 11630,
+      "lastUpdated": "2025-09-03T10:02:28.484047Z"
     }
   },
-  "lastUpdated": "2025-08-29T02:43:54.245079Z",
-  "totalVideos": 14,
-  "totalChannels": 5
+  "lastUpdated": "2025-09-03T10:02:28.484047Z",
+  "totalVideos": 16,
+  "totalChannels": 6
 }

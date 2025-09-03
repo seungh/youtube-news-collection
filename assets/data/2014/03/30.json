@@ -181,6 +181,57 @@
       "channelId": "UChlgI3UHCOnwUGzWzbJ3H5w",
       "channelName": " YTN",
       "collectedAt": "2025-08-27T19:05:15Z"
+    },
+    "IbWlRCQCiFc": {
+      "videoId": "IbWlRCQCiFc",
+      "title": "마포대교에서 어벤져스2 첫 촬영",
+      "description": "30일 오전 6시부터 오후 5시 30분까지 서울 마포대교에서 할리우드 흥행 대작 '어벤져스2'의 첫 촬영이 이뤄졌다. /성형주 기자\n\n마포대교 11시간 반 동안 막아놓고 '어벤져스2' 처음 찍던 날... 소문난 촬영장 볼거리 없었다\n\nhttp://news.chosun.com/site/data/html_dir/2014/03/31/2014033100116.html",
+      "publishedAt": "2014-03-30T14:41:47Z",
+      "duration": "PT46S",
+      "viewCount": 5804,
+      "likeCount": 2,
+      "commentCount": 14,
+      "tags": [],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2014-03-30T14:41:47Z",
+      "channelId": "UCdp4_yTBhQmB8E339Lafzow",
+      "channelName": "조선일보",
+      "collectedAt": "2025-09-03T10:02:46Z"
+    },
+    "-EpTVwIY61k": {
+      "videoId": "-EpTVwIY61k",
+      "title": "지난해보다 빨리 핀 벚꽃",
+      "description": "이상 고온 현상이 이어지면서 벚꽃의 개화 시기도 빨라져 서울은 지난해보다 18일 빠른 지난 28일에 벚꽃이 피었다. 서울의 벚꽃이 3월에 개화한 것은 기상 관측이래 처음이다. /김지호 기자\n\n일찍 찾아온 초여름... 서울 92년 만에 '3월 벚꽃'\n\nhttp://news.chosun.com/site/data/html_dir/2014/03/31/2014033100146.html",
+      "publishedAt": "2014-03-30T13:40:17Z",
+      "duration": "PT57S",
+      "viewCount": 216,
+      "likeCount": 1,
+      "commentCount": 0,
+      "tags": [],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2014-03-30T13:40:17Z",
+      "channelId": "UCdp4_yTBhQmB8E339Lafzow",
+      "channelName": "조선일보",
+      "collectedAt": "2025-09-03T10:02:46Z"
+    },
+    "vsdD4UKuzLI": {
+      "videoId": "vsdD4UKuzLI",
+      "title": "벌써 벚꽃이 만개",
+      "description": "3월 마지막휴일인 30일 광주 서구 농성동 상록회관에 벚꽃이 만개하자 많은 상춘객들이 몰렸다./김영근",
+      "publishedAt": "2014-03-30T12:34:15Z",
+      "duration": "PT44S",
+      "viewCount": 232,
+      "likeCount": 2,
+      "commentCount": 0,
+      "tags": [],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2014-03-30T12:34:15Z",
+      "channelId": "UCdp4_yTBhQmB8E339Lafzow",
+      "channelName": "조선일보",
+      "collectedAt": "2025-09-03T10:02:46Z"
     }
   },
   "channels": {
@@ -237,9 +288,36 @@
       "viewCount": 17649222300,
       "videoCount": 890317,
       "lastUpdated": "2025-08-29T02:43:50.851221Z"
+    },
+    "UCdp4_yTBhQmB8E339Lafzow": {
+      "channelId": "UCdp4_yTBhQmB8E339Lafzow",
+      "channelName": "조선일보",
+      "channelUrl": "@chosunmedia",
+      "channelDescription": " 조선일보 공식 유튜브 채널",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 1700000,
+      "viewCount": 1669752256,
+      "videoCount": 22783,
+      "lastUpdated": "2025-09-03T10:02:46.649031Z"
     }
   },
-  "lastUpdated": "2025-08-29T02:43:50.851221Z",
-  "totalVideos": 7,
-  "totalChannels": 2
+  "lastUpdated": "2025-09-03T10:02:46.649031Z",
+  "totalVideos": 10,
+  "totalChannels": 3
 }

@@ -136,6 +136,36 @@
       "channelId": "UC4Aa3OPkMenwTANpf0oWVRQ",
       "channelName": "CBS 김현정의 뉴스쇼",
       "collectedAt": "2025-08-22T14:03:39Z"
+    },
+    "Fp58L6BNcck": {
+      "videoId": "Fp58L6BNcck",
+      "title": "[이희정의 사람, 이야기] 가수 이문세",
+      "description": "\"백 번을 들어도 질리지 않게, 또 듣고 싶게, 노래는 그렇게 불러야죠.\"\n\n1980년, 90년대에 청춘을 보낸 이들에게  안타까웠던, 혹은 아름다웠던 지난 시절을 떠올리게 하는 노래가 있다면 이 사람, 바로 이문세의 노래가 아닐까요?\n\n세대를 막론하고 꾸준한 사랑을 받아온 가수 이문세씨가 올해 데뷔 30주년을 맞아 6월 1일 서울 잠실 올림픽주경기장에서 '대.한.민.국. 이문세'란 간판을 걸고 콘서트를 엽니다. \n\n최대 5만 명이 드는 초대형 야외공연 도전에 대해 \"변방의 가수가 큰 욕심을 한 번 내봤다\"며 유쾌한 웃음을 보인 가수 이문세를 만났습니다.\n\n인터뷰 미리보기\n00:11 '이문세도 체육관으로 갔네?'라는 비판에 대해....\n01:44 막상 '가창력이 뛰어나다'는 평가를 받진 않았는데...\n03:11 10년째 새 음반을 내지 않는 이유?\n05:34 이문세가 말하는 '나의 아버지' \n08:02 이문세의 마지막 꿈은?\n\n인터뷰 기사 원문 링크\nhttp://bit.ly/14cYjmw",
+      "publishedAt": "2013-03-22T10:03:38Z",
+      "duration": "PT9M7S",
+      "viewCount": 6350,
+      "likeCount": 42,
+      "commentCount": 3,
+      "tags": [
+        "한국일보",
+        "인터뷰",
+        "이문세",
+        "문세",
+        "가수",
+        "콘서트",
+        "이희정",
+        "대한민국",
+        "공연",
+        "청춘",
+        "이영훈",
+        "극장"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2013-03-22T10:03:38Z",
+      "channelId": "UC1aS5CRRDrN6CmR2VcpmetA",
+      "channelName": "한국일보(hankookilbo.com)",
+      "collectedAt": "2025-09-03T10:02:02Z"
     }
   },
   "channels": {
@@ -192,9 +222,36 @@
       "viewCount": 1280577570,
       "videoCount": 19124,
       "lastUpdated": "2025-08-24T21:55:18.968159Z"
+    },
+    "UC1aS5CRRDrN6CmR2VcpmetA": {
+      "channelId": "UC1aS5CRRDrN6CmR2VcpmetA",
+      "channelName": "한국일보(hankookilbo.com)",
+      "channelUrl": "@thehankookilbo",
+      "channelDescription": "'공존, 통합, 사람'의 정신으로 앞장서는 국내 유일 중도 정론지 한국일보입니다.\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ppj3UlPuwNq5DyUWNFz27Vc6WoIrRpRI2IMHc9MZ3UqkNVWcXrT83qJTU3bAweA3BOodFu4Euf0=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ppj3UlPuwNq5DyUWNFz27Vc6WoIrRpRI2IMHc9MZ3UqkNVWcXrT83qJTU3bAweA3BOodFu4Euf0=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ppj3UlPuwNq5DyUWNFz27Vc6WoIrRpRI2IMHc9MZ3UqkNVWcXrT83qJTU3bAweA3BOodFu4Euf0=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 362000,
+      "viewCount": 296027619,
+      "videoCount": 6196,
+      "lastUpdated": "2025-09-03T10:02:02.707764Z"
     }
   },
-  "lastUpdated": "2025-08-24T21:55:18.973145Z",
-  "totalVideos": 5,
-  "totalChannels": 2
+  "lastUpdated": "2025-09-03T10:02:02.707764Z",
+  "totalVideos": 6,
+  "totalChannels": 3
 }

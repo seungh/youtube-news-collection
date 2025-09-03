@@ -223,6 +223,33 @@
       "channelId": "UCfq4V1DAuaojnr2ryvWNysw",
       "channelName": "채널A News",
       "collectedAt": "2025-08-26T12:50:34Z"
+    },
+    "IYWH9SIrRZc": {
+      "videoId": "IYWH9SIrRZc",
+      "title": "[김주영의 레벨업포토] 3화 사진 어플의 마술, 얼굴사진 보정편(상)",
+      "description": "각도빨, 조명빨 살려서 셀카를 찍었는데도 이상하게 나왔다고요? 걱정하지 마세요! 스마트폰에서는 사진 보정 어플을 이용하면 순식간에 사진을 살릴 수 있답니다.\n\n김주영의 레벨업포토 세번째 시간에는 지난시간 찍었던 셀카 사진을 스냅시드(snapseed) 어플을 활용해서 수평맞추기부터 색감 조절까지, 한 번에 완성하는 법을 꼼꼼히 알아봅니다. \n3분만에 끝나는 초간단 얼굴 보정! 놓치지 마세요 ^^\n\n지난 시간 강의 놓치셨던 분들은 2화도 꼭! 챙겨보세요~\n[김주영의 레벨업포토] 2화 완벽한 셀카 찍기의 모든 것 http://youtu.be/k-KJ8SNAql8",
+      "publishedAt": "2013-04-08T05:53:23Z",
+      "duration": "PT5M16S",
+      "viewCount": 3681,
+      "likeCount": 9,
+      "commentCount": 0,
+      "tags": [
+        "한국일보",
+        "사진",
+        "김주영",
+        "스마트폰",
+        "카메라",
+        "사진어플",
+        "스냅시드",
+        "셀카",
+        "보정"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2013-04-08T05:53:23Z",
+      "channelId": "UC1aS5CRRDrN6CmR2VcpmetA",
+      "channelName": "한국일보(hankookilbo.com)",
+      "collectedAt": "2025-09-03T10:02:02Z"
     }
   },
   "channels": {
@@ -306,9 +333,36 @@
       "viewCount": 6198116921,
       "videoCount": 143713,
       "lastUpdated": "2025-08-26T12:50:34.900357Z"
+    },
+    "UC1aS5CRRDrN6CmR2VcpmetA": {
+      "channelId": "UC1aS5CRRDrN6CmR2VcpmetA",
+      "channelName": "한국일보(hankookilbo.com)",
+      "channelUrl": "@thehankookilbo",
+      "channelDescription": "'공존, 통합, 사람'의 정신으로 앞장서는 국내 유일 중도 정론지 한국일보입니다.\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ppj3UlPuwNq5DyUWNFz27Vc6WoIrRpRI2IMHc9MZ3UqkNVWcXrT83qJTU3bAweA3BOodFu4Euf0=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ppj3UlPuwNq5DyUWNFz27Vc6WoIrRpRI2IMHc9MZ3UqkNVWcXrT83qJTU3bAweA3BOodFu4Euf0=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ppj3UlPuwNq5DyUWNFz27Vc6WoIrRpRI2IMHc9MZ3UqkNVWcXrT83qJTU3bAweA3BOodFu4Euf0=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 362000,
+      "viewCount": 296027619,
+      "videoCount": 6196,
+      "lastUpdated": "2025-09-03T10:02:02.692412Z"
     }
   },
-  "lastUpdated": "2025-08-26T12:50:34.903993Z",
-  "totalVideos": 8,
-  "totalChannels": 3
+  "lastUpdated": "2025-09-03T10:02:02.692412Z",
+  "totalVideos": 9,
+  "totalChannels": 4
 }

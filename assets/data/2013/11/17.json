@@ -20,6 +20,40 @@
       "channelId": "UChlgI3UHCOnwUGzWzbJ3H5w",
       "channelName": " YTN",
       "collectedAt": "2025-08-27T19:05:15Z"
+    },
+    "di2GqPuHVvE": {
+      "videoId": "di2GqPuHVvE",
+      "title": "응답하라1994 나정역 맡은 고아라 인터뷰",
+      "description": "서울 사람이 다 된 경남 진주 출신 시골 소녀가 잊고 있던 사투리를 다시 입에 담았다. 걸쭉하게 욕하고, 돼지 멱따는 소리로 고함 지르면서 예전 모습을 꺼내 보였다. \"그동안 제 이미지는 얌전한 인형이었던 것 같아요. 그걸 깨고 싶었어요.\" tvN '응답하라 1994'의 히로인 고아라(23)가 말했다./김지호 기자\n\n곱상한 고아라는 잊어주세요\n\nhttp://premium.chosun.com/site/data/html_dir/2013/11/17/2013111702357.html",
+      "publishedAt": "2013-11-17T12:20:54Z",
+      "duration": "PT2M14S",
+      "viewCount": 36120,
+      "likeCount": 85,
+      "commentCount": 4,
+      "tags": [],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2013-11-17T12:20:54Z",
+      "channelId": "UCdp4_yTBhQmB8E339Lafzow",
+      "channelName": "조선일보",
+      "collectedAt": "2025-09-03T10:02:47Z"
+    },
+    "hdlHgZ81Sf8": {
+      "videoId": "hdlHgZ81Sf8",
+      "title": "삼성동 아이파크 헬기 충돌",
+      "description": "16일 오전 서울 강남구 삼성동 현대아이파크 아파트 단지에 추락한 LG전자 소속 헬기의 잔해를 소방 관계자들이 살펴보고 있다./오종찬 기자\n\n[헬기, 강남 아파트 충돌] 익산 가려던 두번째 헬기, 사고 소식에 운항 취소\n\nhttp://news.chosun.com/site/data/html_dir/2013/11/18/2013111800284.html",
+      "publishedAt": "2013-11-17T11:36:07Z",
+      "duration": "PT1M29S",
+      "viewCount": 5772,
+      "likeCount": 12,
+      "commentCount": 1,
+      "tags": [],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2013-11-17T11:36:07Z",
+      "channelId": "UCdp4_yTBhQmB8E339Lafzow",
+      "channelName": "조선일보",
+      "collectedAt": "2025-09-03T10:02:47Z"
     }
   },
   "channels": {
@@ -49,9 +83,36 @@
       "viewCount": 17649222300,
       "videoCount": 890317,
       "lastUpdated": "2025-08-29T02:43:51.700038Z"
+    },
+    "UCdp4_yTBhQmB8E339Lafzow": {
+      "channelId": "UCdp4_yTBhQmB8E339Lafzow",
+      "channelName": "조선일보",
+      "channelUrl": "@chosunmedia",
+      "channelDescription": " 조선일보 공식 유튜브 채널",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 1700000,
+      "viewCount": 1669752256,
+      "videoCount": 22783,
+      "lastUpdated": "2025-09-03T10:02:47.565564Z"
     }
   },
-  "lastUpdated": "2025-08-29T02:43:51.700038Z",
-  "totalVideos": 1,
-  "totalChannels": 1
+  "lastUpdated": "2025-09-03T10:02:47.565564Z",
+  "totalVideos": 3,
+  "totalChannels": 2
 }

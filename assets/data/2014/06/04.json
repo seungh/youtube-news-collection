@@ -413,6 +413,97 @@
       "channelId": "UCfq4V1DAuaojnr2ryvWNysw",
       "channelName": "채널A News",
       "collectedAt": "2025-08-26T12:50:31Z"
+    },
+    "APj1E6d1m2E": {
+      "videoId": "APj1E6d1m2E",
+      "title": "타임랩스 영상으로 정리하는 6.4 지방선거",
+      "description": "6.4 동시지방선거를 2,500여장의 사진으로 제작한 타임랩스 영상으로 정리했다.",
+      "publishedAt": "2014-06-04T11:48:34Z",
+      "duration": "PT1M",
+      "viewCount": 150,
+      "likeCount": 2,
+      "commentCount": 0,
+      "tags": [
+        "64지방선거",
+        "동시지방선거 중앙선거관리위원회",
+        "서울",
+        "투표율"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2014-06-04T11:48:34Z",
+      "channelId": "UC1aS5CRRDrN6CmR2VcpmetA",
+      "channelName": "한국일보(hankookilbo.com)",
+      "collectedAt": "2025-09-03T10:02:02Z"
+    },
+    "JCq7P7AHdCU": {
+      "videoId": "JCq7P7AHdCU",
+      "title": "그래미의 강력한 후보, '천재 드러머' 이상민",
+      "description": "이상민은 \"드러머를 밴드의 '가장 주목받는 자리(hot seat)'라고 한다. 뉴욕에서 동양인 드러머가 성공하기 힘든 이유 중 하나\"라고 했다./김연정 기자\n\n드럼 하나로 뉴욕을 두드리다\n\nhttp://news.chosun.com/site/data/html_dir/2014/06/05/2014060500050.html",
+      "publishedAt": "2014-06-04T12:12:31Z",
+      "duration": "PT1M14S",
+      "viewCount": 4432,
+      "likeCount": 14,
+      "commentCount": 0,
+      "tags": [],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2014-06-04T12:12:31Z",
+      "channelId": "UCdp4_yTBhQmB8E339Lafzow",
+      "channelName": "조선일보",
+      "collectedAt": "2025-09-03T10:02:02Z"
+    },
+    "f2ud5qGehVQ": {
+      "videoId": "f2ud5qGehVQ",
+      "title": "새누리당, 구름처럼 몰려든 인파",
+      "description": "이완구 새누리당 비상대책위원장 겸 공동선거대책위원장 3일 대전시 중구 은행동에서 시민들에게 박성효 대전시장 후보와 구청장 등 새누리당 후보들에게 지지를 보내줄 것을 호소하고 있다. /신현종 기자",
+      "publishedAt": "2014-06-03T15:35:49Z",
+      "duration": "PT1M3S",
+      "viewCount": 98,
+      "likeCount": 3,
+      "commentCount": 0,
+      "tags": [
+        "새누리당",
+        "구름인파",
+        "지방선거",
+        "이완구",
+        "유세",
+        "선거",
+        "투표",
+        "신현종",
+        "조선일보"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2014-06-03T15:35:49Z",
+      "channelId": "UCdp4_yTBhQmB8E339Lafzow",
+      "channelName": "조선일보",
+      "collectedAt": "2025-09-03T10:02:02Z"
+    },
+    "apw1SZIsLkI": {
+      "videoId": "apw1SZIsLkI",
+      "title": "호국보훈의 달을 맞아",
+      "description": "정홍원 국무총리를 비롯한 국무위원들이 3일 세종시 정부세종청사 영상국무회의장에서 열린 세종-서울간 영상 국무회의에서 회의에 앞서 호국보훈의 달을 맞아 호국영령에 대한 묵념을 하고 있다. /신현종 기자",
+      "publishedAt": "2014-06-03T15:28:10Z",
+      "duration": "PT1M16S",
+      "viewCount": 102,
+      "likeCount": 0,
+      "commentCount": 0,
+      "tags": [
+        "정홍원총리",
+        "국무총리",
+        "박근혜",
+        "대통령",
+        "국무회의",
+        "신현종",
+        "조선일보"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2014-06-03T15:28:10Z",
+      "channelId": "UCdp4_yTBhQmB8E339Lafzow",
+      "channelName": "조선일보",
+      "collectedAt": "2025-09-03T10:02:02Z"
     }
   },
   "channels": {
@@ -496,9 +587,63 @@
       "viewCount": 6198116921,
       "videoCount": 143713,
       "lastUpdated": "2025-08-26T12:50:31.519253Z"
+    },
+    "UC1aS5CRRDrN6CmR2VcpmetA": {
+      "channelId": "UC1aS5CRRDrN6CmR2VcpmetA",
+      "channelName": "한국일보(hankookilbo.com)",
+      "channelUrl": "@thehankookilbo",
+      "channelDescription": "'공존, 통합, 사람'의 정신으로 앞장서는 국내 유일 중도 정론지 한국일보입니다.\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ppj3UlPuwNq5DyUWNFz27Vc6WoIrRpRI2IMHc9MZ3UqkNVWcXrT83qJTU3bAweA3BOodFu4Euf0=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ppj3UlPuwNq5DyUWNFz27Vc6WoIrRpRI2IMHc9MZ3UqkNVWcXrT83qJTU3bAweA3BOodFu4Euf0=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ppj3UlPuwNq5DyUWNFz27Vc6WoIrRpRI2IMHc9MZ3UqkNVWcXrT83qJTU3bAweA3BOodFu4Euf0=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 362000,
+      "viewCount": 296027619,
+      "videoCount": 6196,
+      "lastUpdated": "2025-09-03T10:02:02.612858Z"
+    },
+    "UCdp4_yTBhQmB8E339Lafzow": {
+      "channelId": "UCdp4_yTBhQmB8E339Lafzow",
+      "channelName": "조선일보",
+      "channelUrl": "@chosunmedia",
+      "channelDescription": " 조선일보 공식 유튜브 채널",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 1700000,
+      "viewCount": 1669752256,
+      "videoCount": 22783,
+      "lastUpdated": "2025-09-03T10:02:02.612858Z"
     }
   },
-  "lastUpdated": "2025-08-26T12:50:31.519991Z",
-  "totalVideos": 13,
-  "totalChannels": 3
+  "lastUpdated": "2025-09-03T10:02:02.612858Z",
+  "totalVideos": 17,
+  "totalChannels": 5
 }

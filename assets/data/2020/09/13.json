@@ -4288,6 +4288,39 @@
       "channelId": "UCTHCOPwqNfZ0uiKOvFyhGwg",
       "channelName": "연합뉴스TV",
       "collectedAt": "2025-08-29T02:42:41Z"
+    },
+    "0jMQjrg6t3I": {
+      "videoId": "0jMQjrg6t3I",
+      "title": "\"우린 희망이 없어요\" 폐업한 코인노래방 업주의 눈물",
+      "description": "\"제가 뭐라도 잘못해서 망한 것도 아니고, 정말 억울하죠.\"\n\n3년 동안 발 디딜 틈 없을 정도로 장사가 잘 된 코인노래연습장이 망하는 건 한순간이었다. 이태원발 신종 코로나바이러스 감염증(코로나19) 확산으로 서울시가 5월 중순 코인노래연습장에 대해 50일 동안 집합금지명령을 내린데다, 지난달 19일 사회적 거리두기 2단계가 강화되면서 노래연습장 등 고위험시설로 지정된 12개 업종은 나란히 영업을 중단했다.\n\n장기간 이어진 집합금지명령으로 영업을 재개한다고 해도 더 이상 이곳을 운영할 금전적 여력조차 없게 됐다. 서울 서대문구 신촌 한복판에서 코인노래연습장을 운영하던 박진실씨는 고민 끝에 5일 오전 가게 앞에 '망한 사연'을 담은 현수막을 내걸었다.\n\n인근 상인이 사회관계망서비스(SNS)에 찍어 올린 이 현수막 사진은 온라인 커뮤니티를 중심으로 일파만파 퍼졌다. 신촌 일대 코인노래연습장을 찾아 현수막 문구를 만든 박씨를 직접 만나봤다.\n\n김용식 PD yskit@hankookilbo.com\n\n윤한슬 기자 1seul@hankookilbo.com",
+      "publishedAt": "2020-09-13T02:45:01Z",
+      "duration": "PT8M39S",
+      "viewCount": 26225,
+      "likeCount": 272,
+      "commentCount": 236,
+      "tags": [
+        "코인노래방",
+        "사회적 거리두기",
+        "집합금지명령",
+        "노래연습장",
+        "10대 방역 수칙",
+        "정부",
+        "긴급재난지원금",
+        "고위험시설",
+        "폐업",
+        "월세",
+        "지원금",
+        "전기요금",
+        "임대료",
+        "현수막",
+        "신촌"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2020-09-13T02:45:01Z",
+      "channelId": "UC1aS5CRRDrN6CmR2VcpmetA",
+      "channelName": "한국일보(hankookilbo.com)",
+      "collectedAt": "2025-09-03T10:01:19Z"
     }
   },
   "channels": {
@@ -4641,9 +4674,36 @@
       "viewCount": 3278386064,
       "videoCount": 233358,
       "lastUpdated": "2025-08-29T02:42:41.948180Z"
+    },
+    "UC1aS5CRRDrN6CmR2VcpmetA": {
+      "channelId": "UC1aS5CRRDrN6CmR2VcpmetA",
+      "channelName": "한국일보(hankookilbo.com)",
+      "channelUrl": "@thehankookilbo",
+      "channelDescription": "'공존, 통합, 사람'의 정신으로 앞장서는 국내 유일 중도 정론지 한국일보입니다.\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ppj3UlPuwNq5DyUWNFz27Vc6WoIrRpRI2IMHc9MZ3UqkNVWcXrT83qJTU3bAweA3BOodFu4Euf0=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ppj3UlPuwNq5DyUWNFz27Vc6WoIrRpRI2IMHc9MZ3UqkNVWcXrT83qJTU3bAweA3BOodFu4Euf0=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ppj3UlPuwNq5DyUWNFz27Vc6WoIrRpRI2IMHc9MZ3UqkNVWcXrT83qJTU3bAweA3BOodFu4Euf0=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 362000,
+      "viewCount": 296027619,
+      "videoCount": 6196,
+      "lastUpdated": "2025-09-03T10:01:19.297668Z"
     }
   },
-  "lastUpdated": "2025-08-29T02:42:41.949178Z",
-  "totalVideos": 131,
-  "totalChannels": 13
+  "lastUpdated": "2025-09-03T10:01:19.297668Z",
+  "totalVideos": 132,
+  "totalChannels": 14
 }

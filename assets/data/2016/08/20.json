@@ -151,6 +151,23 @@
       "channelId": "UCTHCOPwqNfZ0uiKOvFyhGwg",
       "channelName": "연합뉴스TV",
       "collectedAt": "2025-08-29T02:43:15Z"
+    },
+    "rmzeJ-u-Js4": {
+      "videoId": "rmzeJ-u-Js4",
+      "title": "[VR Chosun] [남강호의 VR Rio!] 승자의 손을 들어주는 진정한 스포츠맨쉽 보여줬던 '동메달리스트 이대훈'",
+      "description": "원했던 금메달과 그랜드슬램 달성은 다음으로 미뤄야했다.\n\n하지만 이미 실력이 '월드클래스'에 올라있는 '동메달리스트' 이대훈(24·한국가스공사)은 매너도 '월드클래스'임을 보여줬다.",
+      "publishedAt": "2016-08-19T17:33:38Z",
+      "duration": "PT1M4S",
+      "viewCount": 1642,
+      "likeCount": 0,
+      "commentCount": 0,
+      "tags": [],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2016-08-19T17:33:38Z",
+      "channelId": "UCdp4_yTBhQmB8E339Lafzow",
+      "channelName": "조선일보",
+      "collectedAt": "2025-09-03T10:02:44Z"
     }
   },
   "channels": {
@@ -234,9 +251,36 @@
       "viewCount": 3351994752,
       "videoCount": 627296,
       "lastUpdated": "2025-08-29T02:43:15.887428Z"
+    },
+    "UCdp4_yTBhQmB8E339Lafzow": {
+      "channelId": "UCdp4_yTBhQmB8E339Lafzow",
+      "channelName": "조선일보",
+      "channelUrl": "@chosunmedia",
+      "channelDescription": " 조선일보 공식 유튜브 채널",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 1700000,
+      "viewCount": 1669752256,
+      "videoCount": 22783,
+      "lastUpdated": "2025-09-03T10:02:44.444816Z"
     }
   },
-  "lastUpdated": "2025-08-29T02:43:15.887428Z",
-  "totalVideos": 7,
-  "totalChannels": 3
+  "lastUpdated": "2025-09-03T10:02:44.444816Z",
+  "totalVideos": 8,
+  "totalChannels": 4
 }

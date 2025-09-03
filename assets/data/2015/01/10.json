@@ -208,6 +208,44 @@
       "channelId": "UCfq4V1DAuaojnr2ryvWNysw",
       "channelName": "채널A News",
       "collectedAt": "2025-08-26T12:50:26Z"
+    },
+    "tIKiJO0l8hk": {
+      "videoId": "tIKiJO0l8hk",
+      "title": "(NAM) 서울소년원 방문한 염수정 추기경",
+      "description": "2015년 1월 9일 경기 의왕시 서울소년원(고봉중고등학교)에서 열린 염수정 추기경과 함께하는 겨울신앙학교 파견미사에 참석한 염수정 추기경이 미사를 집전하고 있다. /남강호 기자\n\n추기경의 축복에… 非行 소년들이 두 손을 모았다\n\nhttp://news.chosun.com/site/data/html_dir/2015/01/10/2015011000230.html",
+      "publishedAt": "2015-01-09T15:43:12Z",
+      "duration": "PT1M25S",
+      "viewCount": 1202,
+      "likeCount": 2,
+      "commentCount": 0,
+      "tags": [
+        "미사",
+        "서울 소년원 파견미사",
+        "염수정 추기경",
+        "염수정",
+        "남강호 기자",
+        "조선일보",
+        "의왕시",
+        "소년원",
+        "소년원 미사",
+        "Andrew Yeom Soo-jung",
+        "Cardinal (Religious Leadership Title)",
+        "Religion (TV Genre)",
+        "(NAM)",
+        "남강호",
+        "추기경",
+        "프란체스코",
+        "프란체스코 교황",
+        "Jorge Mario Bergoglio",
+        "cardinal",
+        "樞機卿"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2015-01-09T15:43:12Z",
+      "channelId": "UCdp4_yTBhQmB8E339Lafzow",
+      "channelName": "조선일보",
+      "collectedAt": "2025-09-03T10:02:45Z"
     }
   },
   "channels": {
@@ -237,9 +275,36 @@
       "viewCount": 6198116921,
       "videoCount": 143713,
       "lastUpdated": "2025-08-26T12:50:26.597308Z"
+    },
+    "UCdp4_yTBhQmB8E339Lafzow": {
+      "channelId": "UCdp4_yTBhQmB8E339Lafzow",
+      "channelName": "조선일보",
+      "channelUrl": "@chosunmedia",
+      "channelDescription": " 조선일보 공식 유튜브 채널",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 1700000,
+      "viewCount": 1669752256,
+      "videoCount": 22783,
+      "lastUpdated": "2025-09-03T10:02:45.173497Z"
     }
   },
-  "lastUpdated": "2025-08-26T12:50:26.598305Z",
-  "totalVideos": 5,
-  "totalChannels": 1
+  "lastUpdated": "2025-09-03T10:02:45.173497Z",
+  "totalVideos": 6,
+  "totalChannels": 2
 }

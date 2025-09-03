@@ -125,6 +125,57 @@
       "channelId": "UChlgI3UHCOnwUGzWzbJ3H5w",
       "channelName": " YTN",
       "collectedAt": "2025-08-27T19:05:15Z"
+    },
+    "FxkjqnQGprc": {
+      "videoId": "FxkjqnQGprc",
+      "title": "'7인회' 최병렬 前 한나라당 대표 \"대통령 스스로 분위기를 바꿔야\"",
+      "description": "최병렬(76) 전 한나라당 대표는 탄식조로 말했다. \"어쩌다가 이렇게까지 됐지요. 난 대체 이해할 수가 없어요.\" /주완중 기자\n\n\"朴대통령 스스로 분위기를 바꿔야... 薰風(훈풍)처럼 좀 따뜻하면 좋지 않을까\"\n\nhttp://premium.chosun.com/site/data/html_dir/2014/06/01/2014060102717.html",
+      "publishedAt": "2014-06-01T13:48:08Z",
+      "duration": "PT1M14S",
+      "viewCount": 1235,
+      "likeCount": 3,
+      "commentCount": 0,
+      "tags": [],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2014-06-01T13:48:08Z",
+      "channelId": "UCdp4_yTBhQmB8E339Lafzow",
+      "channelName": "조선일보",
+      "collectedAt": "2025-09-03T10:02:46Z"
+    },
+    "-OYJ1H0GK1U": {
+      "videoId": "-OYJ1H0GK1U",
+      "title": "고승덕 부녀 공방 \"자녀를 이용한 공작정치\"",
+      "description": "고승덕 서울시교육감 후보의 친딸이 \"자녀를 외면해온 아버지는 교육감 자격이 없다\"고 주장해 논란이 일면서 이틀 앞으로 다가온 서울시교육감 선거 판세가 요동치고 있다. /주완중 기자\n\n[NEWS&VIEW] 아빠의 자격과 교육감의 자격\n\nhttp://news.chosun.com/site/data/html_dir/2014/06/02/2014060200195.html",
+      "publishedAt": "2014-06-01T13:47:42Z",
+      "duration": "PT2M2S",
+      "viewCount": 1653,
+      "likeCount": 0,
+      "commentCount": 0,
+      "tags": [],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2014-06-01T13:47:42Z",
+      "channelId": "UCdp4_yTBhQmB8E339Lafzow",
+      "channelName": "조선일보",
+      "collectedAt": "2025-09-03T10:02:46Z"
+    },
+    "j-a9OJutVQs": {
+      "videoId": "j-a9OJutVQs",
+      "title": "광주에 올인한 안철수",
+      "description": "1일 안철수 공동대표가 윤장현 광주시장후보와 함께 북구 중흥동의 한 경로원을 찾아 한 표를 호소했다./김영근 기자\n\n안철수 \"윤장현 후보는 광주정신\"...광주서 큰절\n\nhttp://news.chosun.com/site/data/html_dir/2014/06/01/2014060101071.html",
+      "publishedAt": "2014-06-01T06:41:14Z",
+      "duration": "PT1M8S",
+      "viewCount": 424,
+      "likeCount": 1,
+      "commentCount": 0,
+      "tags": [],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2014-06-01T06:41:14Z",
+      "channelId": "UCdp4_yTBhQmB8E339Lafzow",
+      "channelName": "조선일보",
+      "collectedAt": "2025-09-03T10:02:46Z"
     }
   },
   "channels": {
@@ -181,9 +232,36 @@
       "viewCount": 17649222300,
       "videoCount": 890317,
       "lastUpdated": "2025-08-29T02:43:50.804152Z"
+    },
+    "UCdp4_yTBhQmB8E339Lafzow": {
+      "channelId": "UCdp4_yTBhQmB8E339Lafzow",
+      "channelName": "조선일보",
+      "channelUrl": "@chosunmedia",
+      "channelDescription": " 조선일보 공식 유튜브 채널",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 1700000,
+      "viewCount": 1669752256,
+      "videoCount": 22783,
+      "lastUpdated": "2025-09-03T10:02:46.329815Z"
     }
   },
-  "lastUpdated": "2025-08-29T02:43:50.804152Z",
-  "totalVideos": 5,
-  "totalChannels": 2
+  "lastUpdated": "2025-09-03T10:02:46.329815Z",
+  "totalVideos": 8,
+  "totalChannels": 3
 }

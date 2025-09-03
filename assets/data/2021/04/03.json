@@ -7283,6 +7283,38 @@
       "channelId": "UCTHCOPwqNfZ0uiKOvFyhGwg",
       "channelName": "연합뉴스TV",
       "collectedAt": "2025-08-29T02:42:27Z"
+    },
+    "Yxcw1ZW24DY": {
+      "videoId": "Yxcw1ZW24DY",
+      "title": "\"민심이 왜 정부·여당을 떠나는지…\" 표창원 전 의원이 말하는 '게으른 정의' [논담 : 표창원 전 국회의원]",
+      "description": "서울, 부산 보궐선거의 공표 가능한 마지막 여론조사에서 두 지역 모두 국민의힘 후보가 더불어민주당 후보를 20%포인트 안팎의 격차로 앞서는 것으로 나타났다. 대통령 지지율은 정권 출범 이후 최저치다. 보다 못한 여당 지도부가 뒤늦게 \"반성한다\"며 고개를 숙였다. 불과 1년 전 총선에서 절대적인 지지로 사상 초유의 거대 여당을 만들어냈던 표심이 왜 이렇게 변했을까.\n\n집값 잡기가 효과를 보지 못하는 상황에서 LH 투기 사건까지 겹치자 이 정부를 \"무능하다\"고 여기는 사람이 늘어난다. 이번 보궐선거를 부른 여권 지방자치단체장 비위를 비롯한 여러 사건을 보며 이 정권을 \"위선적\"이라고 믿는 이들도 적지 않다. 지난 20대 국회에서 더불어민주당 의원을 지낸 뒤 불출마를 선언하고 방송인으로 활동하는 표창원 전 의원을 지난달 30일 서울 마포에서 만났다. 최근 낸 책 '게으른 정의'를 중심으로 민심이 왜 정부·여당을 떠나는지, 우리 정치의 과제는 무엇인지 들었다.",
+      "publishedAt": "2021-04-03T04:00:06Z",
+      "duration": "PT17M17S",
+      "viewCount": 10224,
+      "likeCount": 201,
+      "commentCount": 100,
+      "tags": [
+        "표창원",
+        "20대",
+        "국회의원",
+        "조국",
+        "촛불혁명",
+        "정부",
+        "여당",
+        "더불어민주당",
+        "진보",
+        "보수",
+        "정치",
+        "불신",
+        "김종인",
+        "국민의힘"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2021-04-03T04:00:06Z",
+      "channelId": "UC1aS5CRRDrN6CmR2VcpmetA",
+      "channelName": "한국일보(hankookilbo.com)",
+      "collectedAt": "2025-09-03T10:01:14Z"
     }
   },
   "channels": {
@@ -7771,9 +7803,36 @@
       "viewCount": 3278386064,
       "videoCount": 233358,
       "lastUpdated": "2025-08-29T02:42:27.662109Z"
+    },
+    "UC1aS5CRRDrN6CmR2VcpmetA": {
+      "channelId": "UC1aS5CRRDrN6CmR2VcpmetA",
+      "channelName": "한국일보(hankookilbo.com)",
+      "channelUrl": "@thehankookilbo",
+      "channelDescription": "'공존, 통합, 사람'의 정신으로 앞장서는 국내 유일 중도 정론지 한국일보입니다.\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ppj3UlPuwNq5DyUWNFz27Vc6WoIrRpRI2IMHc9MZ3UqkNVWcXrT83qJTU3bAweA3BOodFu4Euf0=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ppj3UlPuwNq5DyUWNFz27Vc6WoIrRpRI2IMHc9MZ3UqkNVWcXrT83qJTU3bAweA3BOodFu4Euf0=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ppj3UlPuwNq5DyUWNFz27Vc6WoIrRpRI2IMHc9MZ3UqkNVWcXrT83qJTU3bAweA3BOodFu4Euf0=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 362000,
+      "viewCount": 296027619,
+      "videoCount": 6196,
+      "lastUpdated": "2025-09-03T10:01:14.987945Z"
     }
   },
-  "lastUpdated": "2025-08-29T02:42:27.664103Z",
-  "totalVideos": 229,
-  "totalChannels": 18
+  "lastUpdated": "2025-09-03T10:01:14.987945Z",
+  "totalVideos": 230,
+  "totalChannels": 19
 }

@@ -5526,6 +5526,32 @@
       "channelId": "UCTHCOPwqNfZ0uiKOvFyhGwg",
       "channelName": "연합뉴스TV",
       "collectedAt": "2025-08-29T02:40:32Z"
+    },
+    "b8pARukG__E": {
+      "videoId": "b8pARukG__E",
+      "title": "'홍동백서'가 없는 말이라고? ｜ 명절 차례상은 억울하다",
+      "description": "차례상은 무조건 푸짐하게? 준비는 여자만, 절은 남자만 한다? '홍동백서'가 없는 말이라고? 명절 차례상에 대해 우리가 몰랐던 사실을 성균관 유림들에게 물어봤습니다.\n\n모두의 마음이 풍요롭고 행복한 추석 명절 보내시길 바랍니다! :)",
+      "publishedAt": "2018-09-22T02:15:01Z",
+      "duration": "PT2M42S",
+      "viewCount": 1454,
+      "likeCount": 75,
+      "commentCount": 8,
+      "tags": [
+        "추석",
+        "차례",
+        "명절",
+        "성균관",
+        "오해",
+        "홍동백서",
+        "조율이시",
+        "프란"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2018-09-22T02:15:01Z",
+      "channelId": "UC1aS5CRRDrN6CmR2VcpmetA",
+      "channelName": "한국일보(hankookilbo.com)",
+      "collectedAt": "2025-09-03T10:01:41Z"
     }
   },
   "channels": {
@@ -5825,9 +5851,36 @@
       "viewCount": 3351994752,
       "videoCount": 627296,
       "lastUpdated": "2025-08-29T02:40:32.955689Z"
+    },
+    "UC1aS5CRRDrN6CmR2VcpmetA": {
+      "channelId": "UC1aS5CRRDrN6CmR2VcpmetA",
+      "channelName": "한국일보(hankookilbo.com)",
+      "channelUrl": "@thehankookilbo",
+      "channelDescription": "'공존, 통합, 사람'의 정신으로 앞장서는 국내 유일 중도 정론지 한국일보입니다.\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ppj3UlPuwNq5DyUWNFz27Vc6WoIrRpRI2IMHc9MZ3UqkNVWcXrT83qJTU3bAweA3BOodFu4Euf0=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ppj3UlPuwNq5DyUWNFz27Vc6WoIrRpRI2IMHc9MZ3UqkNVWcXrT83qJTU3bAweA3BOodFu4Euf0=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ppj3UlPuwNq5DyUWNFz27Vc6WoIrRpRI2IMHc9MZ3UqkNVWcXrT83qJTU3bAweA3BOodFu4Euf0=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 362000,
+      "viewCount": 296027619,
+      "videoCount": 6196,
+      "lastUpdated": "2025-09-03T10:01:41.048772Z"
     }
   },
-  "lastUpdated": "2025-08-29T02:40:32.955689Z",
-  "totalVideos": 166,
-  "totalChannels": 11
+  "lastUpdated": "2025-09-03T10:01:41.048772Z",
+  "totalVideos": 167,
+  "totalChannels": 12
 }

@@ -392,6 +392,29 @@
       "channelId": "UCTHCOPwqNfZ0uiKOvFyhGwg",
       "channelName": "연합뉴스TV",
       "collectedAt": "2025-08-29T02:44:02Z"
+    },
+    "ys_nLUfFd-I": {
+      "videoId": "ys_nLUfFd-I",
+      "title": "[뉴스를 쪼다] 안철수 후보 대반격 카드는? / 조선일보",
+      "description": "[뉴스를 쪼다] 2회 안철수 후보 대반격 카드는?\n대선 11일 앞두고 재회한 김종인과 안철수.\n안철수 후보의 대반격 기회가 올 것인가?\n조선일보 기자 3명이 '독하게' 쪼아본다.\n\n#조선일보 #뉴스를쪼다 #안철수 #대반격 #카드 #조선 #시사 #뉴스 #정치 #김종인 #빅텐트 #대선 #대선후보 #대통령후보 #반격 #지지율 #전략",
+      "publishedAt": "2017-04-28T19:56:06Z",
+      "duration": "PT15M40S",
+      "viewCount": 8132,
+      "likeCount": 13,
+      "commentCount": 7,
+      "tags": [
+        "뉴스를쪼다",
+        "김종인",
+        "안철수",
+        "박은주",
+        "신효섭"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2017-04-28T19:56:06Z",
+      "channelId": "UCdp4_yTBhQmB8E339Lafzow",
+      "channelName": "조선일보",
+      "collectedAt": "2025-09-03T10:02:44Z"
     }
   },
   "channels": {
@@ -529,9 +552,36 @@
       "viewCount": 3351994752,
       "videoCount": 627296,
       "lastUpdated": "2025-08-29T02:44:02.065205Z"
+    },
+    "UCdp4_yTBhQmB8E339Lafzow": {
+      "channelId": "UCdp4_yTBhQmB8E339Lafzow",
+      "channelName": "조선일보",
+      "channelUrl": "@chosunmedia",
+      "channelDescription": " 조선일보 공식 유튜브 채널",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 1700000,
+      "viewCount": 1669752256,
+      "videoCount": 22783,
+      "lastUpdated": "2025-09-03T10:02:44.149783Z"
     }
   },
-  "lastUpdated": "2025-08-29T02:44:02.065205Z",
-  "totalVideos": 16,
-  "totalChannels": 5
+  "lastUpdated": "2025-09-03T10:02:44.149783Z",
+  "totalVideos": 17,
+  "totalChannels": 6
 }

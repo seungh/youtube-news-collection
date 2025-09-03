@@ -239,6 +239,53 @@
       "channelId": "UChlgI3UHCOnwUGzWzbJ3H5w",
       "channelName": " YTN",
       "collectedAt": "2025-08-27T19:05:01Z"
+    },
+    "JXbW6XkTsqw": {
+      "videoId": "JXbW6XkTsqw",
+      "title": "하늘에 수놓인 꽃.. 재료는 사람?",
+      "description": "세계 각국에서 모인 스카이다이버 164명이 지난 31일(현지 시각) 미국 일리노이주(州) 오타와 상공에서 손을 맞잡고 거대한 꽃송이 대형을 만들고 있다. 이번 이벤트는 스카이다이버들이 공중에서 함께 손을 맞잡고 특정한 모양을 만들어내는 것으로는 세계 최대 규모였다.  /AP 뉴시스",
+      "publishedAt": "2015-08-02T13:42:56Z",
+      "duration": "PT52S",
+      "viewCount": 80,
+      "likeCount": 0,
+      "commentCount": 0,
+      "tags": [
+        "스카이다이빙",
+        "꽃",
+        "신기록",
+        "조선일보"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2015-08-02T13:42:56Z",
+      "channelId": "UCdp4_yTBhQmB8E339Lafzow",
+      "channelName": "조선일보",
+      "collectedAt": "2025-09-03T10:02:44Z"
+    },
+    "gy3gs2alLqw": {
+      "videoId": "gy3gs2alLqw",
+      "title": "항일 독립 발자취 따라.. 한중은 한마음!",
+      "description": "총 3000㎞에 이르는 ‘한·중 청년 자전거 대장정’ 의 출발을 하루 앞둔 2일, 대장정팀이 중국 충칭에서 장강(長江)을 따라 달리며 최종 훈련을 하고 있다. 자전거 대장정팀은 충칭을 출발해 대한민국 임시정부의 발자취를 찾아 달린 뒤, 오는 9월 4일 임시정부가 처음 수립됐던 상하이(上海)에 입성한다는 계획이다. /오종찬 기자\n\n長江 역류한 가시밭길 대장정… 폭격·폐병 고난 딛고 光復 초석 쌓았다\n\nhttp://news.chosun.com/site/data/html_dir/2015/08/03/2015080300261.html",
+      "publishedAt": "2015-08-02T13:42:56Z",
+      "duration": "PT50S",
+      "viewCount": 102,
+      "likeCount": 2,
+      "commentCount": 0,
+      "tags": [
+        "중국",
+        "한국",
+        "한중",
+        "자전거",
+        "대장정",
+        "충칭",
+        "조선일보"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2015-08-02T13:42:56Z",
+      "channelId": "UCdp4_yTBhQmB8E339Lafzow",
+      "channelName": "조선일보",
+      "collectedAt": "2025-09-03T10:02:44Z"
     }
   },
   "channels": {
@@ -349,9 +396,36 @@
       "viewCount": 17649222300,
       "videoCount": 890317,
       "lastUpdated": "2025-08-29T02:43:36.547240Z"
+    },
+    "UCdp4_yTBhQmB8E339Lafzow": {
+      "channelId": "UCdp4_yTBhQmB8E339Lafzow",
+      "channelName": "조선일보",
+      "channelUrl": "@chosunmedia",
+      "channelDescription": " 조선일보 공식 유튜브 채널",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 1700000,
+      "viewCount": 1669752256,
+      "videoCount": 22783,
+      "lastUpdated": "2025-09-03T10:02:44.762449Z"
     }
   },
-  "lastUpdated": "2025-08-29T02:43:36.547240Z",
-  "totalVideos": 9,
-  "totalChannels": 4
+  "lastUpdated": "2025-09-03T10:02:44.762449Z",
+  "totalVideos": 11,
+  "totalChannels": 5
 }

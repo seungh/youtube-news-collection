@@ -5950,6 +5950,74 @@
       "channelId": "UCTHCOPwqNfZ0uiKOvFyhGwg",
       "channelName": "연합뉴스TV",
       "collectedAt": "2025-08-29T02:42:11Z"
+    },
+    "7pPkrZaFdNA": {
+      "videoId": "7pPkrZaFdNA",
+      "title": "\"이재명의 경기도, 남양주시 사업 가로채 치적으로 홍보... 비인간적 징계까지\" 조광한 남양주시장 작심 토로 [정치펀치 하이라이트]",
+      "description": "🔸 조선닷컴 공식 홈페이지 http://www.chosun.com\n🔸 조선일보 무료 구독 체험 http://bit.ly/2WnNAF7\n🔸 조선비즈 공식 홈페이지 http://biz.chosun.com\n🔸 공식 페이스북 https://www.facebook.com/chosun\n🔸 공식 트위터 https://twitter.com/chosun\n\n◈ 사실에 대한 믿음, 할 말을 하는 용기. 조선일보◈\n\n#조광한 #이재명 #경기도",
+      "publishedAt": "2021-11-07T06:00:05Z",
+      "duration": "PT15M47S",
+      "viewCount": 129637,
+      "likeCount": 7541,
+      "commentCount": 398,
+      "tags": [
+        "조선일보",
+        "조선",
+        "언론",
+        "이슈",
+        "신문",
+        "방송",
+        "뉴스",
+        "정치",
+        "속보",
+        "강인선배성규의모닝라이브",
+        "모닝라이브",
+        "모닝라이브하이라이트",
+        "조광한",
+        "이재명",
+        "대장동",
+        "남양주",
+        "경기도",
+        "민주당",
+        "이슈포청천",
+        "팩폭시스터",
+        "김광일쇼",
+        "김광일의입",
+        "시사"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2021-11-07T06:00:05Z",
+      "channelId": "UCdp4_yTBhQmB8E339Lafzow",
+      "channelName": "조선일보",
+      "collectedAt": "2025-09-03T10:02:37Z"
+    },
+    "95AlwcvnMcM": {
+      "videoId": "95AlwcvnMcM",
+      "title": "[의대녀] 안강 원장의 통증 이야기 : 급성통증과 만성통증",
+      "description": "'의사와 대화하는 여자' 의대녀\n\n이번 시간에는 매번 헷갈리는\n급성통증과 만성통증의\n차이점에 관해 대화합니다.\n\n궁금한 점은 댓글 남겨주시고,\n구독과 좋아요 함께 부탁드립니다!\n\n더 알아보기 : http://ahnkang.com/",
+      "publishedAt": "2021-11-07T05:00:02Z",
+      "duration": "PT9M5S",
+      "viewCount": 3280,
+      "likeCount": 113,
+      "commentCount": 0,
+      "tags": [
+        "조선일보",
+        "조선",
+        "언론",
+        "이슈",
+        "신문",
+        "방송",
+        "뉴스",
+        "정치",
+        "속보"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2021-11-07T05:00:02Z",
+      "channelId": "UCdp4_yTBhQmB8E339Lafzow",
+      "channelName": "조선일보",
+      "collectedAt": "2025-09-03T10:02:37Z"
     }
   },
   "channels": {
@@ -6357,9 +6425,36 @@
       "viewCount": 3278386064,
       "videoCount": 233358,
       "lastUpdated": "2025-08-29T02:42:11.522171Z"
+    },
+    "UCdp4_yTBhQmB8E339Lafzow": {
+      "channelId": "UCdp4_yTBhQmB8E339Lafzow",
+      "channelName": "조선일보",
+      "channelUrl": "@chosunmedia",
+      "channelDescription": " 조선일보 공식 유튜브 채널",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 1700000,
+      "viewCount": 1669752256,
+      "videoCount": 22783,
+      "lastUpdated": "2025-09-03T10:02:37.030444Z"
     }
   },
-  "lastUpdated": "2025-08-29T02:42:11.522171Z",
-  "totalVideos": 206,
-  "totalChannels": 15
+  "lastUpdated": "2025-09-03T10:02:37.031442Z",
+  "totalVideos": 208,
+  "totalChannels": 16
 }

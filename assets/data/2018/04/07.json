@@ -7538,6 +7538,45 @@
       "channelId": "UCTHCOPwqNfZ0uiKOvFyhGwg",
       "channelName": "연합뉴스TV",
       "collectedAt": "2025-08-29T02:43:14Z"
+    },
+    "2ose9jin_Lg": {
+      "videoId": "2ose9jin_Lg",
+      "title": "불의의 사고로 순직한 공군 조종사 현충원에 안장 / 조선일보",
+      "description": "지난 5일 공중기동 훈련을 마치고 복귀하다 불의의 사고로 목숨을 잃은 공군 조종사 29살 최모 소령과 27살 박모 대위의 안장식이 7일 국립대전현충원에서 거행됐다. 안장식이 진행되는 동안 최 소령의 어린 딸은 엄마 품에 안겨 있었고 몇몇 유족이 서로 부둥켜 안고 오열해 주위를 숙연하게 했다. /신현종 기자\n\n#조선일보 #CNOW취재현장 #공군조종사 #조선 #시사 #뉴스 #사회 #현충원 #안장식 #영결식 #공군 #훈련 #전투기 #F-15K #추락사",
+      "publishedAt": "2018-04-07T14:24:44Z",
+      "duration": "PT2M2S",
+      "viewCount": 98582,
+      "likeCount": 278,
+      "commentCount": 131,
+      "tags": [
+        "공군 조종사 안장식",
+        "공군 조종사 영결식",
+        "공군 조종사",
+        "공군 안장식",
+        "공군 영결식",
+        "공중기동 훈련 사망",
+        "공군 훈련",
+        "전투기 훈련 사망",
+        "F-15K",
+        "공군 F15K",
+        "공군 전투기 조종사",
+        "전투기 추락사",
+        "전투기 추락 사고",
+        "공군 사망",
+        "공군 추락사",
+        "공군 대구 추락",
+        "공군F-15K",
+        "눈물의 안장식",
+        "눈물의 영결식",
+        "공군 눈물의 영결식",
+        "공군 눈물의 안장식"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2018-04-07T14:24:44Z",
+      "channelId": "UCdp4_yTBhQmB8E339Lafzow",
+      "channelName": "조선일보",
+      "collectedAt": "2025-09-03T10:02:43Z"
     }
   },
   "channels": {
@@ -7837,9 +7876,36 @@
       "viewCount": 3351994752,
       "videoCount": 627296,
       "lastUpdated": "2025-08-29T02:43:14.050956Z"
+    },
+    "UCdp4_yTBhQmB8E339Lafzow": {
+      "channelId": "UCdp4_yTBhQmB8E339Lafzow",
+      "channelName": "조선일보",
+      "channelUrl": "@chosunmedia",
+      "channelDescription": " 조선일보 공식 유튜브 채널",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 1700000,
+      "viewCount": 1669752256,
+      "videoCount": 22783,
+      "lastUpdated": "2025-09-03T10:02:43.046647Z"
     }
   },
-  "lastUpdated": "2025-08-29T02:43:14.052336Z",
-  "totalVideos": 184,
-  "totalChannels": 11
+  "lastUpdated": "2025-09-03T10:02:43.046647Z",
+  "totalVideos": 185,
+  "totalChannels": 12
 }

@@ -84,6 +84,64 @@
       "channelId": "UCTHCOPwqNfZ0uiKOvFyhGwg",
       "channelName": "연합뉴스TV",
       "collectedAt": "2025-08-29T02:42:34Z"
+    },
+    "CbcXK6FMsKc": {
+      "videoId": "CbcXK6FMsKc",
+      "title": "세계가 숨죽였다, 그리스의 선택",
+      "description": "5일 그리스 아테네의 한 투표장에서 알렉시스 치프라스 그리스 총리가 투표를 마친 뒤 투표 용지를 넣은 봉투에 침을 바르고 있다. 이날 진행된 국민투표는 국제채권단이 그리스에 제안한 구제금융안에 대해 찬반을 가리는 것이다. 투표 결과가 '반대' 즉 구제금융안 거부로 나오면 그리스가 유로존을 탈퇴할 가능성이 높아진다. 그리스가 유럽과 세계경제에 미치는 악영향도 커질 전망이다. 치프라스 총리는 공식 선거운동기간 마지막 날이었던 지난 3일까지 공영방송에 출연해 그리스 국민에게 반대표를 던질 것을 호소했다. /AP뉴시스\n\n\"찬성표 던지면 천천히 죽는 것, 반대표 던지면 빨리 죽는 것\"\n\nhttp://news.chosun.com/site/data/html_dir/2015/07/06/2015070600171.html",
+      "publishedAt": "2015-07-05T12:25:21Z",
+      "duration": "PT1M",
+      "viewCount": 843,
+      "likeCount": 0,
+      "commentCount": 0,
+      "tags": [
+        "그리스",
+        "구제금융",
+        "치프라스 총리",
+        "치프라스",
+        "반대표",
+        "유로존",
+        "조선",
+        "조선일보",
+        "신문",
+        "뉴스",
+        "chosun"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2015-07-05T12:25:21Z",
+      "channelId": "UCdp4_yTBhQmB8E339Lafzow",
+      "channelName": "조선일보",
+      "collectedAt": "2025-09-03T10:02:44Z"
+    },
+    "Liy7m6aqY40": {
+      "videoId": "Liy7m6aqY40",
+      "title": "오바마 부부, 백악관서 미 독립기념일 행사... 뉴욕 하늘엔 '축하 불꽃'",
+      "description": "4일 미국 워싱턴의 백악관 내부 정원에서 열린 미국 독립기념일 기념행사에서 버락 오바마 미국 대통령이 아내 미셸 오바마와 함께 연단에 서서 시민들에게 연설했다. 이날 미국 뉴욕 이스트 강변에서도 독립기념일을 축하하는 불꽃놀이가 밤하늘을 화려하게 수놓았다. /AP뉴시스\n\n오바마 부부, 백악관서 美 독립기념일 행사… 뉴욕 하늘엔 ‘축하 불꽃’\n\nhttp://photo.chosun.com/site/data/html_dir/2015/07/06/2015070600740.html",
+      "publishedAt": "2015-07-05T11:42:00Z",
+      "duration": "PT52S",
+      "viewCount": 379,
+      "likeCount": 0,
+      "commentCount": 0,
+      "tags": [
+        "독립기념일",
+        "미국",
+        "뉴욕",
+        "불꽃",
+        "오바마",
+        "백악관",
+        "조선",
+        "조선일보",
+        "신문",
+        "뉴스",
+        "chosun"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2015-07-05T11:42:00Z",
+      "channelId": "UCdp4_yTBhQmB8E339Lafzow",
+      "channelName": "조선일보",
+      "collectedAt": "2025-09-03T10:02:44Z"
     }
   },
   "channels": {
@@ -140,9 +198,36 @@
       "viewCount": 17649222300,
       "videoCount": 890317,
       "lastUpdated": "2025-08-29T02:42:34.016762Z"
+    },
+    "UCdp4_yTBhQmB8E339Lafzow": {
+      "channelId": "UCdp4_yTBhQmB8E339Lafzow",
+      "channelName": "조선일보",
+      "channelUrl": "@chosunmedia",
+      "channelDescription": " 조선일보 공식 유튜브 채널",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 1700000,
+      "viewCount": 1669752256,
+      "videoCount": 22783,
+      "lastUpdated": "2025-09-03T10:02:44.794688Z"
     }
   },
-  "lastUpdated": "2025-08-29T02:42:34.017281Z",
-  "totalVideos": 4,
-  "totalChannels": 2
+  "lastUpdated": "2025-09-03T10:02:44.794688Z",
+  "totalVideos": 6,
+  "totalChannels": 3
 }

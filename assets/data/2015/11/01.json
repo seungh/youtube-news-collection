@@ -114,6 +114,34 @@
       "channelId": "UCTHCOPwqNfZ0uiKOvFyhGwg",
       "channelName": "연합뉴스TV",
       "collectedAt": "2025-08-29T02:43:36Z"
+    },
+    "9WaZzkXmy6w": {
+      "videoId": "9WaZzkXmy6w",
+      "title": "[Video C] '난폭운전'으로 승객 위협한 택시기사에 '특수협박' 첫 판결",
+      "description": "서울서부지법 형사3단독 나상훈 판사는 특수협박 등 혐의로 기소된 택시기사 김모(40)씨에게 징역 1년을 선고했다고 1일 밝혔다.\n김씨는 6월 11일 오전 7시쯤 서울 서초구 반포동에서 이모(42)씨를 태우고 강북 방향으로 가던 중 이씨가 “빨리 가달라”고 재촉하자 화를 내며 급히 속도를 내고 차선을 급격히 바꾸는 등 난폭운전을 했다. 난폭운전에 겁을 먹은 이씨가 다시 “천천히 가달라”고 하자 김씨는 반포대교 북단 도로변에 갑자기 차를 세우고 이씨를 택시에서 끌어내 때렸다. 이씨가 경찰에 신고하자 김씨는 “승객이 운전 중 나를 폭행했으니 처벌해 달라”며 허위 진술을 했다. / 편집 김채호 기자\n\n[Video C] 승객 위협한 택시 난폭운전 영상\n\nhttp://photo.chosun.com/site/data/html_dir/2015/11/02/2015110201702.html",
+      "publishedAt": "2015-11-01T08:48:33Z",
+      "duration": "PT59S",
+      "viewCount": 1377,
+      "likeCount": 1,
+      "commentCount": 0,
+      "tags": [
+        "난폰운전",
+        "택시",
+        "특수협박",
+        "첫",
+        "판결",
+        "김채호",
+        "승차",
+        "승객",
+        "거부",
+        "폭행"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2015-11-01T08:48:33Z",
+      "channelId": "UCdp4_yTBhQmB8E339Lafzow",
+      "channelName": "조선일보",
+      "collectedAt": "2025-09-03T10:02:44Z"
     }
   },
   "channels": {
@@ -224,9 +252,36 @@
       "viewCount": 17649222300,
       "videoCount": 890317,
       "lastUpdated": "2025-08-29T02:43:36.347113Z"
+    },
+    "UCdp4_yTBhQmB8E339Lafzow": {
+      "channelId": "UCdp4_yTBhQmB8E339Lafzow",
+      "channelName": "조선일보",
+      "channelUrl": "@chosunmedia",
+      "channelDescription": " 조선일보 공식 유튜브 채널",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 1700000,
+      "viewCount": 1669752256,
+      "videoCount": 22783,
+      "lastUpdated": "2025-09-03T10:02:44.640758Z"
     }
   },
-  "lastUpdated": "2025-08-29T02:43:36.347113Z",
-  "totalVideos": 5,
-  "totalChannels": 4
+  "lastUpdated": "2025-09-03T10:02:44.640758Z",
+  "totalVideos": 6,
+  "totalChannels": 5
 }

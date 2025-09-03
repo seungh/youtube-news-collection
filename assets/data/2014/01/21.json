@@ -208,6 +208,34 @@
       "channelId": "UChlgI3UHCOnwUGzWzbJ3H5w",
       "channelName": " YTN",
       "collectedAt": "2025-08-27T19:05:18Z"
+    },
+    "0gtTP3AokSU": {
+      "videoId": "0gtTP3AokSU",
+      "title": "(NAM) 오승환 떠난 자리, 이젠 내가 끝판 대장",
+      "description": "4연속 우승 향해 프로야구 삼성의 투수 안지만이 지난 9일 경북 경산볼파크에서 팀의 정규리그·한국시리즈 통합 4연패를 기원하는 의미로 손가락 4개를 브이(V)자 모양으로 만들어 보이고 있다. /남강호 기자\n\n[2014 프로야구, 우리가 간다] 오승환 떠난 자리, 이젠 내가 끝판 대장\n\nhttp://news.chosun.com/site/data/html_dir/2014/01/21/2014012104178.html",
+      "publishedAt": "2014-01-21T14:47:52Z",
+      "duration": "PT5M38S",
+      "viewCount": 2767,
+      "likeCount": 19,
+      "commentCount": 5,
+      "tags": [
+        "오승환",
+        "안지만",
+        "경산볼파크",
+        "대구",
+        "삼성라이온즈",
+        "삼성",
+        "한국시리즈",
+        "남강호",
+        "조선일보",
+        "(NAM)"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2014-01-21T14:47:52Z",
+      "channelId": "UCdp4_yTBhQmB8E339Lafzow",
+      "channelName": "조선일보",
+      "collectedAt": "2025-09-03T10:02:46Z"
     }
   },
   "channels": {
@@ -318,9 +346,36 @@
       "viewCount": 17649222300,
       "videoCount": 890317,
       "lastUpdated": "2025-08-29T02:43:54.195572Z"
+    },
+    "UCdp4_yTBhQmB8E339Lafzow": {
+      "channelId": "UCdp4_yTBhQmB8E339Lafzow",
+      "channelName": "조선일보",
+      "channelUrl": "@chosunmedia",
+      "channelDescription": " 조선일보 공식 유튜브 채널",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 1700000,
+      "viewCount": 1669752256,
+      "videoCount": 22783,
+      "lastUpdated": "2025-09-03T10:02:46.953796Z"
     }
   },
-  "lastUpdated": "2025-08-29T02:43:54.195572Z",
-  "totalVideos": 7,
-  "totalChannels": 4
+  "lastUpdated": "2025-09-03T10:02:46.953796Z",
+  "totalVideos": 8,
+  "totalChannels": 5
 }

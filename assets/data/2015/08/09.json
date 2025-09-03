@@ -95,6 +95,69 @@
       "channelId": "UChlgI3UHCOnwUGzWzbJ3H5w",
       "channelName": " YTN",
       "collectedAt": "2025-08-27T19:02:48Z"
+    },
+    "MGxnUjPPnFI": {
+      "videoId": "MGxnUjPPnFI",
+      "title": "폭염속 20만명 '평화통일을 위한 기도'",
+      "description": "개신교계 주요 교단과 단체가 연합한‘광복 70주년 한국교회 평화통일 기도회’가 9일 오후 서울시청 앞 광장에서 열렸다. 이날 기도회에는 한국 개신교계 주요 지도자들과 신자 등 20만명(경찰 추산 10만명)이 참석해 한목소리로 평화통일을 기도했다. 기도회에선‘북한 동포를 돕는 일에 교회가 앞장서자’‘통일기금 조성에 모두가 합력하자’등의 평화통일을 위한 한국교회 7대 실천강령도 발표됐다. /김지호 기자 /장련성 기자 /뉴시스\n\n\"北韓동포 돕기 교회가 앞장서자\"\n\nhttp://news.chosun.com/site/data/html_dir/2015/08/10/2015081000244.html",
+      "publishedAt": "2015-08-09T12:17:29Z",
+      "duration": "PT1M6S",
+      "viewCount": 1449,
+      "likeCount": 5,
+      "commentCount": 0,
+      "tags": [
+        "김종덕 문화체육관광부 장관",
+        "한국교회 평화통일기도회 대표회장인 김삼환 목사",
+        "한일친선선교협력회장",
+        "오야마레이지 목사",
+        "오야마레이지",
+        "명성 뮤지컬팀",
+        "'평화통일을 위한 기도'",
+        "평화통일",
+        "개신교",
+        "교회",
+        "한국교회",
+        "평화통일 기도회",
+        "김지호 기자",
+        "조선일보",
+        "북한",
+        "Peace (Quotation Subject)",
+        "Korean",
+        "광복 70주년",
+        "광복",
+        "한국 광복"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2015-08-09T12:17:29Z",
+      "channelId": "UCdp4_yTBhQmB8E339Lafzow",
+      "channelName": "조선일보",
+      "collectedAt": "2025-09-03T10:02:44Z"
+    },
+    "2wkX27c4GL4": {
+      "videoId": "2wkX27c4GL4",
+      "title": "[조선비디오] 머리카락 안 빠질 수 없나? 간단한 탈모 관리법",
+      "description": "과도한 음주와 스트레스로 인해 현대인들의 탈모 증세는 갈수록 심해지고 있다. 과거 대부분 나이 든 남성들에게 주로 보였던 탈모증세가 최근에는 성별, 연령대 상관없이 그 증세를 보이고 있다. 여기 혼자서 간단히 탈모를 예방할 수 있는 방법에 대해 알아보자. / 정혜원 기자\n\n[조선비디오]머리카락 안 빠질 수 없나? 간단한 탈모 관리법\n\nhttp://photo.chosun.com/site/data/html_dir/2015/08/10/2015081000540.html",
+      "publishedAt": "2015-08-09T11:30:05Z",
+      "duration": "PT2M10S",
+      "viewCount": 4618,
+      "likeCount": 14,
+      "commentCount": 0,
+      "tags": [
+        "탈모",
+        "탈모관리",
+        "머리카락",
+        "녹차",
+        "셀프",
+        "셀프 탈모관리",
+        "두피"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2015-08-09T11:30:05Z",
+      "channelId": "UCdp4_yTBhQmB8E339Lafzow",
+      "channelName": "조선일보",
+      "collectedAt": "2025-09-03T10:02:44Z"
     }
   },
   "channels": {
@@ -178,9 +241,36 @@
       "viewCount": 17649222300,
       "videoCount": 890317,
       "lastUpdated": "2025-08-29T02:43:36.536338Z"
+    },
+    "UCdp4_yTBhQmB8E339Lafzow": {
+      "channelId": "UCdp4_yTBhQmB8E339Lafzow",
+      "channelName": "조선일보",
+      "channelUrl": "@chosunmedia",
+      "channelDescription": " 조선일보 공식 유튜브 채널",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 1700000,
+      "viewCount": 1669752256,
+      "videoCount": 22783,
+      "lastUpdated": "2025-09-03T10:02:44.748095Z"
     }
   },
-  "lastUpdated": "2025-08-29T02:43:36.536338Z",
-  "totalVideos": 4,
-  "totalChannels": 3
+  "lastUpdated": "2025-09-03T10:02:44.748095Z",
+  "totalVideos": 6,
+  "totalChannels": 4
 }

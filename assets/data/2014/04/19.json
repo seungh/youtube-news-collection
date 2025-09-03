@@ -480,6 +480,66 @@
       "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
       "channelName": "JTBC News",
       "collectedAt": "2025-08-25T21:08:19Z"
+    },
+    "okaJEckDc4M": {
+      "videoId": "okaJEckDc4M",
+      "title": "세월호 3등 여자 항해사 구속... 맹골수로  처음 운항 논란",
+      "description": "세월호 침몰 사고 규명의 열쇠를 쥐고 있는 3명의 핵심 운항선원이 구속된 가운데 사고 당시 선장 대신 키를 잡은 것으로 알려진 3등항해사의 책임론이 대두되고 있다. 세월호 검경합동수사본부는 19일 사고 당시 배를 직접 지휘한 것으로 알려진 3등 항해사 박모씨가 직접 맹골수로 운항에 나선 것은 이번이 처음이라고 밝혔다. 선장 이준석씨와 3등항해사, 조타수 조씨를 전격 구속했다. /신현종 기자\n\n버큰헤이드호 전통 몰랐나...세월호 선장, 조타수 3등항해사 구속\n\nhttp://biz.chosun.com/site/data/html_dir/2014/04/19/2014041900709.html",
+      "publishedAt": "2014-04-19T07:43:00Z",
+      "duration": "PT1M11S",
+      "viewCount": 7996,
+      "likeCount": 4,
+      "commentCount": 6,
+      "tags": [
+        "세월호",
+        "3등항해사",
+        "여자항해사",
+        "진도",
+        "세월호 침몰",
+        "목포해양경찰",
+        "맹골수로",
+        "이준석선장",
+        "조타수",
+        "신현종",
+        "조선일보"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2014-04-19T07:43:00Z",
+      "channelId": "UCdp4_yTBhQmB8E339Lafzow",
+      "channelName": "조선일보",
+      "collectedAt": "2025-09-03T10:02:46Z"
+    },
+    "o_LesgoOw_4": {
+      "videoId": "o_LesgoOw_4",
+      "title": "구속된 세월호 선장의 변명",
+      "description": "침몰한 세월호에서 승객을 남겨두고 먼저 탈출한 선장 등 승무원 3명이 19일 새벽 구속됐다. 광주지법 목포지원은 특정범죄 가중처벌법상 세월호 선장 또는 승무원에 대한 가중처벌 조항을 적용, 검경 합동수사본부가 선장 이모 씨에 대해 청구한 구속영장을 발부했다. 법원은 또 3등 항해사인 박모 씨, 조타수 조모 씨에 대한 구속영장도 발부했다. /신현종 기자\n\n[세월호 침몰 / 마지막 교신] 31분간 交信하고도... 탈출 명령은 끝내 없었다\n\nhttp://news.chosun.com/site/data/html_dir/2014/04/21/2014042100123.html",
+      "publishedAt": "2014-04-19T06:13:46Z",
+      "duration": "PT1M52S",
+      "viewCount": 11892,
+      "likeCount": 10,
+      "commentCount": 39,
+      "tags": [
+        "세월호",
+        "진도",
+        "크루즈",
+        "세월호 선장",
+        "선장구속",
+        "항해사",
+        "이준석 선장",
+        "단원고등학교",
+        "포항",
+        "한국병원",
+        "세월호 침몰",
+        "신현종",
+        "조선일보"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2014-04-19T06:13:46Z",
+      "channelId": "UCdp4_yTBhQmB8E339Lafzow",
+      "channelName": "조선일보",
+      "collectedAt": "2025-09-03T10:02:46Z"
     }
   },
   "channels": {
@@ -536,9 +596,36 @@
       "viewCount": 14817048106,
       "videoCount": 261473,
       "lastUpdated": "2025-08-25T21:08:19.479560Z"
+    },
+    "UCdp4_yTBhQmB8E339Lafzow": {
+      "channelId": "UCdp4_yTBhQmB8E339Lafzow",
+      "channelName": "조선일보",
+      "channelUrl": "@chosunmedia",
+      "channelDescription": " 조선일보 공식 유튜브 채널",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 1700000,
+      "viewCount": 1669752256,
+      "videoCount": 22783,
+      "lastUpdated": "2025-09-03T10:02:46.556913Z"
     }
   },
-  "lastUpdated": "2025-08-25T21:08:19.479560Z",
-  "totalVideos": 12,
-  "totalChannels": 2
+  "lastUpdated": "2025-09-03T10:02:46.556913Z",
+  "totalVideos": 14,
+  "totalChannels": 3
 }

@@ -10517,6 +10517,38 @@
       "channelId": "UCTHCOPwqNfZ0uiKOvFyhGwg",
       "channelName": "연합뉴스TV",
       "collectedAt": "2025-08-29T02:43:05Z"
+    },
+    "J0xSOtQfvDw": {
+      "videoId": "J0xSOtQfvDw",
+      "title": "[김광일의 입] '관제 기부', 결국 국민 갈라놓을 것",
+      "description": "코로나 긴급 재난지원금을 5월13일부터 지급한다고 한다. 4인 가구 기준으로 100만원씩 전 국민에게 100% 나눠줄 예정이다. 그런데 홍남기 경제 부총리가 “나는 안 받겠다”면서 “다른 공무원은 알아서 할 일”이라고 했다. 그런데 전체 국민에게 지급한다는 원칙으로 시행하되 고위 공무원, 기업의 임원, 그리고 소득이 많은 부자들에게는 ‘자발적 기부’를 유도한다는 방침이다. \n\n🔸 조선닷컴 공식 홈페이지 http://www.chosun.com\r\n🔸 조선일보 무료구독체험 : http://bit.ly/2WnNAF7\r\n🔸 조선비즈 공식 홈페이지 http://biz.chosun.com\r\n🔸 공식 페이스북 : https://www.facebook.com/chosun\r\n🔸 공식 트위터 : https://twitter.com/chosun\r\n\r\n◈ 사실에 대한 믿음, 할 말을 하는 용기. 조선일보◈\r\n\r\n#조선일보 #뉴스 #속보 #제보",
+      "publishedAt": "2020-04-30T07:34:50Z",
+      "duration": "PT8M21S",
+      "viewCount": 67228,
+      "likeCount": 6542,
+      "commentCount": 323,
+      "tags": [
+        "조선일보",
+        "조선",
+        "언론",
+        "이슈",
+        "신문",
+        "방송",
+        "뉴스",
+        "정치",
+        "김광일의 입",
+        "코로나 재난 지원금",
+        "코로나 지원금",
+        "재난 지원금",
+        "문재인",
+        "문재앙"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2020-04-30T07:34:50Z",
+      "channelId": "UCdp4_yTBhQmB8E339Lafzow",
+      "channelName": "조선일보",
+      "collectedAt": "2025-09-03T10:02:41Z"
     }
   },
   "channels": {
@@ -11005,9 +11037,36 @@
       "viewCount": 3351994752,
       "videoCount": 627296,
       "lastUpdated": "2025-08-29T02:43:05.932545Z"
+    },
+    "UCdp4_yTBhQmB8E339Lafzow": {
+      "channelId": "UCdp4_yTBhQmB8E339Lafzow",
+      "channelName": "조선일보",
+      "channelUrl": "@chosunmedia",
+      "channelDescription": " 조선일보 공식 유튜브 채널",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 1700000,
+      "viewCount": 1669752256,
+      "videoCount": 22783,
+      "lastUpdated": "2025-09-03T10:02:41.411785Z"
     }
   },
-  "lastUpdated": "2025-08-29T02:43:05.933653Z",
-  "totalVideos": 304,
-  "totalChannels": 18
+  "lastUpdated": "2025-09-03T10:02:41.411785Z",
+  "totalVideos": 305,
+  "totalChannels": 19
 }

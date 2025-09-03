@@ -919,6 +919,40 @@
       "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
       "channelName": "JTBC News",
       "collectedAt": "2025-08-25T21:07:54Z"
+    },
+    "q9nbXLgyufs": {
+      "videoId": "q9nbXLgyufs",
+      "title": "평양냉면의 전파자이자 장인, 김태원",
+      "description": "소년 김태원은 평양냉면 장인이 됐다. 장안 최고의 명성을 떨쳤던 우래옥을 비롯, 대원각, 봉피양 등 그의 손을 거쳐간 평양냉면집은 거의 모두 성공을 거두었다. \n평양냉면 전파자이자 냉면계의 '미다스의 손'인 셈이다. /윤동진 기자\n\n[최홍렬 기자의 진심] 열네 살에 상경한 충청도 소년... 평양냉면의 匠人이 되다\n\nhttp://premium.chosun.com/site/data/html_dir/2014/04/25/2014042502348.html",
+      "publishedAt": "2014-04-25T12:39:16Z",
+      "duration": "PT1M24S",
+      "viewCount": 13965,
+      "likeCount": 36,
+      "commentCount": 1,
+      "tags": [],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2014-04-25T12:39:16Z",
+      "channelId": "UCdp4_yTBhQmB8E339Lafzow",
+      "channelName": "조선일보",
+      "collectedAt": "2025-09-03T10:02:46Z"
+    },
+    "Aw6wYXAKDe8": {
+      "videoId": "Aw6wYXAKDe8",
+      "title": "오바마, 세월호 희생자 위로 \"회담 전 묵념하자\"",
+      "description": "25일 방한에 1박2일 간의 일정으로 우리나라를 방문 중인 오바마 대통령은 이날 오후 청와대에서 열린 박 대통령과의 회담을 통해 \"미국 국민을 대표해 이런 사고에 대해 깊은 애도의 뜻을 표하고자 한다\"고 밝혔다./전기병 기자\n\n오바마,세월호 참사에 \"가슴 무너져\" 또 애도...한국어로 \"같이 갑시다\" 외치기도\n\nhttp://news.chosun.com/site/data/html_dir/2014/04/26/2014042601005.html",
+      "publishedAt": "2014-04-25T12:34:57Z",
+      "duration": "PT1M38S",
+      "viewCount": 2797,
+      "likeCount": 11,
+      "commentCount": 0,
+      "tags": [],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2014-04-25T12:34:57Z",
+      "channelId": "UCdp4_yTBhQmB8E339Lafzow",
+      "channelName": "조선일보",
+      "collectedAt": "2025-09-03T10:02:46Z"
     }
   },
   "channels": {
@@ -1002,9 +1036,36 @@
       "viewCount": 14817048106,
       "videoCount": 261473,
       "lastUpdated": "2025-08-25T21:07:54.997956Z"
+    },
+    "UCdp4_yTBhQmB8E339Lafzow": {
+      "channelId": "UCdp4_yTBhQmB8E339Lafzow",
+      "channelName": "조선일보",
+      "channelUrl": "@chosunmedia",
+      "channelDescription": " 조선일보 공식 유튜브 채널",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 1700000,
+      "viewCount": 1669752256,
+      "videoCount": 22783,
+      "lastUpdated": "2025-09-03T10:02:46.513783Z"
     }
   },
-  "lastUpdated": "2025-08-25T21:07:54.998208Z",
-  "totalVideos": 25,
-  "totalChannels": 3
+  "lastUpdated": "2025-09-03T10:02:46.513783Z",
+  "totalVideos": 27,
+  "totalChannels": 4
 }

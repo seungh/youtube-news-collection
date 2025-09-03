@@ -335,6 +335,25 @@
       "channelId": "UCTHCOPwqNfZ0uiKOvFyhGwg",
       "channelName": "연합뉴스TV",
       "collectedAt": "2025-08-29T02:44:02Z"
+    },
+    "Z289ICAs0P4": {
+      "videoId": "Z289ICAs0P4",
+      "title": "[VR360] ‘공천배제’ 정청래 지키기 나선 시민들",
+      "description": "주말인 13일 서울 여의도 더불어민주당 당사 앞에서 더불어민주당 정청래 의원의 공천배제에 반대하는 ‘정청래 지키기 민주시민 모임’소속 시민 50여명이 릴레이 1인 발언을 하고 있다. 이들은 정 의원의 구명을 요구하며 당 지도부를 성토하는 발언과 피켓팅을 이어갔다. 한편 정 의원(서울 마포을)과 함께 배제된 전병헌(동작갑) 의원은 지난 12일 당에 재심을 청구한 상태다.\n\n〈채용민 PD ymch@kyunghyang.com〉\n\n\n경향신문 홈페이지 http://www.khan.co.kr/\n\n경향신문 페이스북 https://www.facebook.com/kyunghyangshinmun\n\n경향신문 트위터 https://twitter.com/kyunghyang\n\n스포츠경향 홈페이지 http://sports.khan.co.kr/ \n\n스포츠경향 페이스북 https://www.facebook.com/sportkh\n\n스포츠경향 트위터 https://twitter.com/sportskh",
+      "publishedAt": "2016-03-13T11:36:06Z",
+      "duration": "PT1M26S",
+      "viewCount": 896,
+      "likeCount": 11,
+      "commentCount": 0,
+      "tags": [
+        "경향신문"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2016-03-13T11:36:06Z",
+      "channelId": "UCHXvjavEtkPFJCfGlm0wTXw",
+      "channelName": "경향티비",
+      "collectedAt": "2025-09-03T10:02:18Z"
     }
   },
   "channels": {
@@ -418,9 +437,36 @@
       "viewCount": 3351994752,
       "videoCount": 627296,
       "lastUpdated": "2025-08-29T02:44:02.311194Z"
+    },
+    "UCHXvjavEtkPFJCfGlm0wTXw": {
+      "channelId": "UCHXvjavEtkPFJCfGlm0wTXw",
+      "channelName": "경향티비",
+      "channelUrl": "@thekyunghyangtv",
+      "channelDescription": "더 나은 세상을 위해 우리가 알아야 할 이야기\n경향신문 공식 채널\n\n🚨 [정치비상구] 출구없는 극단 정치, 비상구를 열어드립니다\n🎙️ 매주 월-금 오후 4시 라이브 ｜ 토요특별판 낮 12시\n🎙️ 정치인물사담회 '인물비상구' 일요일 오후 4시\n 📞광고/제휴 문의 : insaps10@gmail.com\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/6Wlbqcuxx1ESFI2U-gQqhHyYpJ-PiWgqyjotWwD9VN5JygRnIuUvZE1LjUMwKNbb5LqRCEM4kpQ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/6Wlbqcuxx1ESFI2U-gQqhHyYpJ-PiWgqyjotWwD9VN5JygRnIuUvZE1LjUMwKNbb5LqRCEM4kpQ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/6Wlbqcuxx1ESFI2U-gQqhHyYpJ-PiWgqyjotWwD9VN5JygRnIuUvZE1LjUMwKNbb5LqRCEM4kpQ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 537000,
+      "viewCount": 354014202,
+      "videoCount": 11630,
+      "lastUpdated": "2025-09-03T10:02:18.598211Z"
     }
   },
-  "lastUpdated": "2025-08-29T02:44:02.311194Z",
-  "totalVideos": 10,
-  "totalChannels": 3
+  "lastUpdated": "2025-09-03T10:02:18.598211Z",
+  "totalVideos": 11,
+  "totalChannels": 4
 }

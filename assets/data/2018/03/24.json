@@ -4310,6 +4310,34 @@
       "channelId": "UCTHCOPwqNfZ0uiKOvFyhGwg",
       "channelName": "연합뉴스TV",
       "collectedAt": "2025-08-29T02:44:01Z"
+    },
+    "YlQES9VBzTo": {
+      "videoId": "YlQES9VBzTo",
+      "title": "[두잇터] 세상 모든 '마더'(예비엄마)에게 들려주는 배우 이혜영의 이야기 / 조선일보",
+      "description": "카리스마 있는 연기로 절절한 모성애를 안방 극장에 전달한 37년차 내공의 대배우 이혜영을 만나보았다. 그녀는 가족에 대한 생각, 이상적인 엄마, 드라마와 현실에서의 엄마 생활에 대한 이야기를 진솔하게 들려줬다.\n\n#조선일보 #두잇터 #육아 #조선 #뉴스 #사회 #이슈 #엄마 #이혜영 #모성애 #카리스마 #여배우 #배우 #연기",
+      "publishedAt": "2018-03-24T08:30:00Z",
+      "duration": "PT2M49S",
+      "viewCount": 15545,
+      "likeCount": 201,
+      "commentCount": 12,
+      "tags": [
+        "마더",
+        "이혜영",
+        "엄마",
+        "육아",
+        "가족",
+        "인터뷰",
+        "모성애",
+        "카리스마",
+        "연기",
+        "배우"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2018-03-24T08:30:00Z",
+      "channelId": "UCdp4_yTBhQmB8E339Lafzow",
+      "channelName": "조선일보",
+      "collectedAt": "2025-09-03T10:02:43Z"
     }
   },
   "channels": {
@@ -4609,9 +4637,36 @@
       "viewCount": 3351994752,
       "videoCount": 627296,
       "lastUpdated": "2025-08-29T02:44:01.019034Z"
+    },
+    "UCdp4_yTBhQmB8E339Lafzow": {
+      "channelId": "UCdp4_yTBhQmB8E339Lafzow",
+      "channelName": "조선일보",
+      "channelUrl": "@chosunmedia",
+      "channelDescription": " 조선일보 공식 유튜브 채널",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 1700000,
+      "viewCount": 1669752256,
+      "videoCount": 22783,
+      "lastUpdated": "2025-09-03T10:02:43.723414Z"
     }
   },
-  "lastUpdated": "2025-08-29T02:44:01.022574Z",
-  "totalVideos": 128,
-  "totalChannels": 11
+  "lastUpdated": "2025-09-03T10:02:43.723414Z",
+  "totalVideos": 129,
+  "totalChannels": 12
 }

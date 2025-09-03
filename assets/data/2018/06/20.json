@@ -10810,6 +10810,40 @@
       "channelId": "UCTHCOPwqNfZ0uiKOvFyhGwg",
       "channelName": "연합뉴스TV",
       "collectedAt": "2025-08-29T02:43:20Z"
+    },
+    "w5e3VNlbJN8": {
+      "videoId": "w5e3VNlbJN8",
+      "title": "우리나라에도 난민이 있다고? 안 받으면 안 됨? : Refugee story in South Korea",
+      "description": "우리나라에도 난민이 있다는 사실, 알고 있나요?\n까다로운 인정 절차,쉽지 않은 한국살이, \n그리고 우리나라 사람들 또한 난민이었던 역사까지. \n\n6월 20일, 오늘은 세계 난민의 날 입니다! \n\nhttp://hankookilbo.com/v/d49d9315592449b0a91ca5dbcf29a462\n\n\n ※ 악의적 비방, 비하, 욕설, 혐오적 표현 등이 담긴 댓글은 신고 혹은 삭제될 수 있음을 알려드립니다.",
+      "publishedAt": "2018-06-19T23:30:01Z",
+      "duration": "PT6M3S",
+      "viewCount": 6276,
+      "likeCount": 144,
+      "commentCount": 258,
+      "tags": [
+        "난민",
+        "난민의 날",
+        "난민 인정",
+        "난민 신청",
+        "우리나라 난민",
+        "에멘",
+        "제주 예멘",
+        "제주",
+        "제주난민",
+        "중동",
+        "이슬람",
+        "무슬림",
+        "편견",
+        "refugee",
+        "world refugee day",
+        "세계 난민의 날"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2018-06-19T23:30:01Z",
+      "channelId": "UC1aS5CRRDrN6CmR2VcpmetA",
+      "channelName": "한국일보(hankookilbo.com)",
+      "collectedAt": "2025-09-03T10:01:41Z"
     }
   },
   "channels": {
@@ -11163,9 +11197,36 @@
       "viewCount": 3351994752,
       "videoCount": 627296,
       "lastUpdated": "2025-08-29T02:43:20.835476Z"
+    },
+    "UC1aS5CRRDrN6CmR2VcpmetA": {
+      "channelId": "UC1aS5CRRDrN6CmR2VcpmetA",
+      "channelName": "한국일보(hankookilbo.com)",
+      "channelUrl": "@thehankookilbo",
+      "channelDescription": "'공존, 통합, 사람'의 정신으로 앞장서는 국내 유일 중도 정론지 한국일보입니다.\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ppj3UlPuwNq5DyUWNFz27Vc6WoIrRpRI2IMHc9MZ3UqkNVWcXrT83qJTU3bAweA3BOodFu4Euf0=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ppj3UlPuwNq5DyUWNFz27Vc6WoIrRpRI2IMHc9MZ3UqkNVWcXrT83qJTU3bAweA3BOodFu4Euf0=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ppj3UlPuwNq5DyUWNFz27Vc6WoIrRpRI2IMHc9MZ3UqkNVWcXrT83qJTU3bAweA3BOodFu4Euf0=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 362000,
+      "viewCount": 296027619,
+      "videoCount": 6196,
+      "lastUpdated": "2025-09-03T10:01:41.550134Z"
     }
   },
-  "lastUpdated": "2025-08-29T02:43:20.836474Z",
-  "totalVideos": 308,
-  "totalChannels": 13
+  "lastUpdated": "2025-09-03T10:01:41.550134Z",
+  "totalVideos": 309,
+  "totalChannels": 14
 }

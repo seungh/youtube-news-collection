@@ -46,6 +46,48 @@
       "channelId": "UCfq4V1DAuaojnr2ryvWNysw",
       "channelName": "채널A News",
       "collectedAt": "2025-08-26T12:50:34Z"
+    },
+    "3S9nMi6cV9E": {
+      "videoId": "3S9nMi6cV9E",
+      "title": "[칸 기수묘수]11월 13일",
+      "description": " ",
+      "publishedAt": "2012-11-12T13:55:36Z",
+      "duration": "PT2M1S",
+      "viewCount": 158,
+      "likeCount": 0,
+      "commentCount": 0,
+      "tags": [
+        "[칸",
+        "[칸 기수묘수]11월 13일",
+        "[칸 기수묘수]묘수 풀이"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2012-11-12T13:55:36Z",
+      "channelId": "UCHXvjavEtkPFJCfGlm0wTXw",
+      "channelName": "경향티비",
+      "collectedAt": "2025-09-03T10:02:32Z"
+    },
+    "SrH3rKYobao": {
+      "videoId": "SrH3rKYobao",
+      "title": "[경향신문]특검, 청와대 압수수색 불발 '현장'",
+      "description": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=201211121706361&code=940301\n\n이명박 대통령의 내곡동 사저부지 매입 의혹을 조사하고 있는 특검팀(이광범 특별검사)이 청와대 경호처의 압수수색을 진행하려 했으나 청와대 측의 거부로 불발됐다. 12일 오후 2시 서울 통의동 금융감독원 연수원에 특검팀을 태운 승용차 한 대와 승합차 한 대가 도착했고, 지하주차장으로 들어갔다.\n\n1시간 30여분의 조사를 마친 특검팀은 타고 들어왔던 두 대의 차량으로 연수원을 빠져나갔다. 연수원 정문으로 나온 서형석 특별수사관은 \"금일 영장에 기재된 조건에 따라서 영장을 제시하고 압수수색 절차를 진행하기에 앞서 임의제출 방식으로 자료들을 제출받았다\"며 \"임의제출 자료들을 특검팀에서 검토한 결과 이것은 충분치 않다고 판단하여 영장에 따른 집행 실시를 하겠다고 통지했다\"고 말했다. 이어 \"이에 대해 청와대 측은 형사소송법 관계규정에 따라 승낙을 할 수 없다고 하였고, 이것으로 금일은 집행불능으로 종료되었다\"고 밝혔다.\n\n한편 특검팀은 이 대통령의 부인 김윤옥 여사에 대해서는 서면조사하기로 했다.\n\n〈채용민 PD〉",
+      "publishedAt": "2012-11-12T07:43:37Z",
+      "duration": "PT1M57S",
+      "viewCount": 4958,
+      "likeCount": 4,
+      "commentCount": 0,
+      "tags": [
+        "경향신문불발된",
+        "청와대",
+        "압수수색"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2012-11-12T07:43:37Z",
+      "channelId": "UCHXvjavEtkPFJCfGlm0wTXw",
+      "channelName": "경향티비",
+      "collectedAt": "2025-09-03T10:02:32Z"
     }
   },
   "channels": {
@@ -75,9 +117,36 @@
       "viewCount": 6198116921,
       "videoCount": 143713,
       "lastUpdated": "2025-08-26T12:50:34.370384Z"
+    },
+    "UCHXvjavEtkPFJCfGlm0wTXw": {
+      "channelId": "UCHXvjavEtkPFJCfGlm0wTXw",
+      "channelName": "경향티비",
+      "channelUrl": "@thekyunghyangtv",
+      "channelDescription": "더 나은 세상을 위해 우리가 알아야 할 이야기\n경향신문 공식 채널\n\n🚨 [정치비상구] 출구없는 극단 정치, 비상구를 열어드립니다\n🎙️ 매주 월-금 오후 4시 라이브 ｜ 토요특별판 낮 12시\n🎙️ 정치인물사담회 '인물비상구' 일요일 오후 4시\n 📞광고/제휴 문의 : insaps10@gmail.com\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/6Wlbqcuxx1ESFI2U-gQqhHyYpJ-PiWgqyjotWwD9VN5JygRnIuUvZE1LjUMwKNbb5LqRCEM4kpQ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/6Wlbqcuxx1ESFI2U-gQqhHyYpJ-PiWgqyjotWwD9VN5JygRnIuUvZE1LjUMwKNbb5LqRCEM4kpQ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/6Wlbqcuxx1ESFI2U-gQqhHyYpJ-PiWgqyjotWwD9VN5JygRnIuUvZE1LjUMwKNbb5LqRCEM4kpQ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 537000,
+      "viewCount": 354014202,
+      "videoCount": 11630,
+      "lastUpdated": "2025-09-03T10:02:32.787208Z"
     }
   },
-  "lastUpdated": "2025-08-26T12:50:34.371344Z",
-  "totalVideos": 2,
-  "totalChannels": 1
+  "lastUpdated": "2025-09-03T10:02:32.787208Z",
+  "totalVideos": 4,
+  "totalChannels": 2
 }

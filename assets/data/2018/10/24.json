@@ -10284,6 +10284,46 @@
       "channelId": "UCTHCOPwqNfZ0uiKOvFyhGwg",
       "channelName": "연합뉴스TV",
       "collectedAt": "2025-08-29T02:43:18Z"
+    },
+    "Ha48gLy_W4w": {
+      "videoId": "Ha48gLy_W4w",
+      "title": "우리가 북유럽 신화에 열광하는 이유",
+      "description": "출처: 유튜브",
+      "publishedAt": "2018-10-24T09:47:47Z",
+      "duration": "PT53S",
+      "viewCount": 4379,
+      "likeCount": 0,
+      "commentCount": 0,
+      "tags": [],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2018-10-24T09:47:47Z",
+      "channelId": "UCnHyx6H7fhKfUoAAaVGYvxQ",
+      "channelName": "동아일보",
+      "collectedAt": "2025-09-03T10:00:53Z"
+    },
+    "3To4NeZe-ZM": {
+      "videoId": "3To4NeZe-ZM",
+      "title": "[기사+]이진한 의학전문 기자가 퇴치사업 현장에 가봤다",
+      "description": "▼ 동아일보 SNS\n\n· 동아일보 네이버 포스트\nhttp://post.naver.com/\n\n· 동아일보 페이스북\nhttps://www.facebook.com/dongamedia/\n\n· 동아일보 인스타그램\nhttps://www.instagram.com/dongailbo/\n\n· 동아일보 카카오스토리\nhttps://story.kakao.com/ch/dongamedia",
+      "publishedAt": "2018-10-24T02:18:13Z",
+      "duration": "PT3M13S",
+      "viewCount": 501,
+      "likeCount": 32,
+      "commentCount": 2,
+      "tags": [
+        "이진한",
+        "이진한기자",
+        "이진한 의학전문기자",
+        "의학전문기자",
+        "동아일보"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2018-10-24T02:18:13Z",
+      "channelId": "UCnHyx6H7fhKfUoAAaVGYvxQ",
+      "channelName": "동아일보",
+      "collectedAt": "2025-09-03T10:00:53Z"
     }
   },
   "channels": {
@@ -10637,9 +10677,36 @@
       "viewCount": 3351994752,
       "videoCount": 627296,
       "lastUpdated": "2025-08-29T02:43:18.142610Z"
+    },
+    "UCnHyx6H7fhKfUoAAaVGYvxQ": {
+      "channelId": "UCnHyx6H7fhKfUoAAaVGYvxQ",
+      "channelName": "동아일보",
+      "channelUrl": "@donga-ilbo",
+      "channelDescription": "동아일보 공식 유튜브 채널입니다. \n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/S1eWLrew2Jjv-JLrGqkADPNPJF5u7qzpYE3o8_NoLbH7fVTjtFm9TYlxfOjbB3dH5Lw6qKM-MQ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/S1eWLrew2Jjv-JLrGqkADPNPJF5u7qzpYE3o8_NoLbH7fVTjtFm9TYlxfOjbB3dH5Lw6qKM-MQ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/S1eWLrew2Jjv-JLrGqkADPNPJF5u7qzpYE3o8_NoLbH7fVTjtFm9TYlxfOjbB3dH5Lw6qKM-MQ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 107000,
+      "viewCount": 47341564,
+      "videoCount": 4079,
+      "lastUpdated": "2025-09-03T10:00:53.428800Z"
     }
   },
-  "lastUpdated": "2025-08-29T02:43:18.142610Z",
-  "totalVideos": 320,
-  "totalChannels": 13
+  "lastUpdated": "2025-09-03T10:00:53.428800Z",
+  "totalVideos": 322,
+  "totalChannels": 14
 }

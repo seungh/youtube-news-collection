@@ -1856,6 +1856,93 @@
       "channelId": "UCG9aFJTZ-lMCHAiO1KJsirg",
       "channelName": "MBN News",
       "collectedAt": "2025-08-27T19:05:12Z"
+    },
+    "WYph8yHIWy8": {
+      "videoId": "WYph8yHIWy8",
+      "title": "[Video C] 이화 벽화마을 꽃계단이 사라졌다?",
+      "description": "이화 벽화마을 꽃계단이 사라졌다?",
+      "publishedAt": "2016-04-28T09:45:39Z",
+      "duration": "PT1M2S",
+      "viewCount": 1432,
+      "likeCount": 3,
+      "commentCount": 0,
+      "tags": [
+        "조선일보",
+        "벽화마을",
+        "이기주의",
+        "관광",
+        "여행",
+        "유커",
+        "china"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2016-04-28T09:45:39Z",
+      "channelId": "UCdp4_yTBhQmB8E339Lafzow",
+      "channelName": "조선일보",
+      "collectedAt": "2025-09-03T10:02:44Z"
+    },
+    "Ye-zpCRqC6c": {
+      "videoId": "Ye-zpCRqC6c",
+      "title": "[VR Chosun] 만 오천살, 라스코 동굴벽화가 한국에 왔다!",
+      "description": "프랑스 라스코 동굴벽화 국제전시 광명동굴전을 360도 영상으로 보세요.\n\n당신을 압도하는 VR영상을 더 보시려면? vr.chosun.com",
+      "publishedAt": "2016-04-28T08:30:51Z",
+      "duration": "PT3M50S",
+      "viewCount": 1690,
+      "likeCount": 3,
+      "commentCount": 0,
+      "tags": [
+        "조선일보",
+        "VR조선",
+        "조선일보 VR",
+        "VR조선일보",
+        "VR",
+        "360비디오",
+        "360VR",
+        "가상현실",
+        "조선일보VR",
+        "조선VR",
+        "삼성기어VR",
+        "기어VR",
+        "카드보드",
+        "카드보드뷰어",
+        "구글카드보드",
+        "360도영상",
+        "오큘러스",
+        "페이스북",
+        "라스코",
+        "라스코동굴벽화",
+        "프랑스",
+        "프랑스라스코동굴벽화",
+        "프랑스라스코동굴벽화국제전시",
+        "광명동굴",
+        "광명동굴전",
+        "이진희",
+        "이진희기상캐스터"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2016-04-28T08:30:51Z",
+      "channelId": "UCdp4_yTBhQmB8E339Lafzow",
+      "channelName": "조선일보",
+      "collectedAt": "2025-09-03T10:02:44Z"
+    },
+    "sLvvDRtk9Sw": {
+      "videoId": "sLvvDRtk9Sw",
+      "title": "[맛있는 레시피] 애벌레 라이스 크로켓",
+      "description": "최근 미래의 수퍼푸드로 급부상하고 있는 식용 곤충. 그중에서도 ‘밀웜(Yellow Worm)’은 단백질이 풍부하고 갈 간 기능 회복에 좋은 ‘알라닌(Alanine)’이라는 아미노산이 풍부하다. 그런 이유로 ‘밀웜’을 이용해 양갱이나 만두, 파스타 등 다양한 요리가 만들어지고 있다. /차재문 기자",
+      "publishedAt": "2016-04-28T01:00:39Z",
+      "duration": "PT2M11S",
+      "viewCount": 753,
+      "likeCount": 2,
+      "commentCount": 1,
+      "tags": [],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2016-04-28T01:00:39Z",
+      "channelId": "UCdp4_yTBhQmB8E339Lafzow",
+      "channelName": "조선일보",
+      "collectedAt": "2025-09-03T10:02:44Z"
     }
   },
   "channels": {
@@ -2128,9 +2215,36 @@
       "viewCount": 3278386064,
       "videoCount": 233358,
       "lastUpdated": "2025-08-29T02:43:47.921201Z"
+    },
+    "UCdp4_yTBhQmB8E339Lafzow": {
+      "channelId": "UCdp4_yTBhQmB8E339Lafzow",
+      "channelName": "조선일보",
+      "channelUrl": "@chosunmedia",
+      "channelDescription": " 조선일보 공식 유튜브 채널",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 1700000,
+      "viewCount": 1669752256,
+      "videoCount": 22783,
+      "lastUpdated": "2025-09-03T10:02:44.547338Z"
     }
   },
-  "lastUpdated": "2025-08-29T02:43:47.921201Z",
-  "totalVideos": 72,
-  "totalChannels": 10
+  "lastUpdated": "2025-09-03T10:02:44.547338Z",
+  "totalVideos": 75,
+  "totalChannels": 11
 }

@@ -877,6 +877,31 @@
       "channelId": "UChlgI3UHCOnwUGzWzbJ3H5w",
       "channelName": " YTN",
       "collectedAt": "2025-08-27T19:02:45Z"
+    },
+    "AwY3wysY_ho": {
+      "videoId": "AwY3wysY_ho",
+      "title": "[Da clip] 마라톤 영웅 옆에 선 '영웅 기자'",
+      "description": "1936년 8월 25일자 동아일보 2면에는 올림픽 마라톤을 제패한 손기정 선생(1912~2002)의 가슴에서 일장기를 지워 없앤 시상식 사진이 실렸습니다. \n\n동아일보 사회부 체육주임이던 이길용 기자(1899~?)가 주도한 ‘손기정 일장기 말소 사건’입니다. \n\n이 일로 동아일보는 무기정간을 당했고 이 기자는 옥고를 치렀는데요. \n\n그로부터 81년이 지난 25일 이 기자의 흉상 제막식이 서울 중구 손기정체육공원에서 열렸습니다. \n\n이 기자의 3남인 이태영 대한체육회 고문이 말하는 아버지와 제막식 현장을 동영상에 담았습니다.",
+      "publishedAt": "2017-08-27T07:27:25Z",
+      "duration": "PT1M23S",
+      "viewCount": 298,
+      "likeCount": 3,
+      "commentCount": 0,
+      "tags": [
+        "동아일보",
+        "동아일보뉴스",
+        "채널A뉴스",
+        "손기정",
+        "이길용기자",
+        "마라톤",
+        "daclip"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2017-08-27T07:27:25Z",
+      "channelId": "UCnHyx6H7fhKfUoAAaVGYvxQ",
+      "channelName": "동아일보",
+      "collectedAt": "2025-09-03T10:00:57Z"
     }
   },
   "channels": {
@@ -1041,9 +1066,36 @@
       "viewCount": 17649222300,
       "videoCount": 890317,
       "lastUpdated": "2025-08-29T02:43:33.758433Z"
+    },
+    "UCnHyx6H7fhKfUoAAaVGYvxQ": {
+      "channelId": "UCnHyx6H7fhKfUoAAaVGYvxQ",
+      "channelName": "동아일보",
+      "channelUrl": "@donga-ilbo",
+      "channelDescription": "동아일보 공식 유튜브 채널입니다. \n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/S1eWLrew2Jjv-JLrGqkADPNPJF5u7qzpYE3o8_NoLbH7fVTjtFm9TYlxfOjbB3dH5Lw6qKM-MQ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/S1eWLrew2Jjv-JLrGqkADPNPJF5u7qzpYE3o8_NoLbH7fVTjtFm9TYlxfOjbB3dH5Lw6qKM-MQ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/S1eWLrew2Jjv-JLrGqkADPNPJF5u7qzpYE3o8_NoLbH7fVTjtFm9TYlxfOjbB3dH5Lw6qKM-MQ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 107000,
+      "viewCount": 47341564,
+      "videoCount": 4079,
+      "lastUpdated": "2025-09-03T10:00:57.088577Z"
     }
   },
-  "lastUpdated": "2025-08-29T02:43:33.758433Z",
-  "totalVideos": 34,
-  "totalChannels": 6
+  "lastUpdated": "2025-09-03T10:00:57.088577Z",
+  "totalVideos": 35,
+  "totalChannels": 7
 }

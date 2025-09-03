@@ -5655,6 +5655,34 @@
       "channelId": "UCTHCOPwqNfZ0uiKOvFyhGwg",
       "channelName": "연합뉴스TV",
       "collectedAt": "2025-08-29T02:42:58Z"
+    },
+    "t3fNxZApivI": {
+      "videoId": "t3fNxZApivI",
+      "title": "[베스트 닥터의 베스트 건강법] 서울성모병원 가정의학과 최환석 교수의 태극권",
+      "description": "▼ 기사 링크 \n\n\n▼ 동아일보 SNS\n\n· 동아일보 네이버 포스트\nhttp://post.naver.com/my.nhn?memberNo=11291600\n\n· 동아일보 페이스북 \nhttps://www.facebook.com/dongamedia/\n\n· 동아일보 인스타그램\nhttps://www.instagram.com/dongailbo/",
+      "publishedAt": "2019-09-08T05:22:56Z",
+      "duration": "PT4M26S",
+      "viewCount": 1371,
+      "likeCount": 4,
+      "commentCount": 1,
+      "tags": [
+        "동아일보",
+        "베스트닥터의베스트건강법",
+        "베닥",
+        "서울성모병원",
+        "가정의학과",
+        "최환석교수",
+        "태극권",
+        "건강비법",
+        "건강",
+        "비법"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2019-09-08T05:22:56Z",
+      "channelId": "UCnHyx6H7fhKfUoAAaVGYvxQ",
+      "channelName": "동아일보",
+      "collectedAt": "2025-09-03T10:00:21Z"
     }
   },
   "channels": {
@@ -5927,9 +5955,36 @@
       "viewCount": 3278386064,
       "videoCount": 233358,
       "lastUpdated": "2025-08-29T02:42:58.091202Z"
+    },
+    "UCnHyx6H7fhKfUoAAaVGYvxQ": {
+      "channelId": "UCnHyx6H7fhKfUoAAaVGYvxQ",
+      "channelName": "동아일보",
+      "channelUrl": "@donga-ilbo",
+      "channelDescription": "동아일보 공식 유튜브 채널입니다. \n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/S1eWLrew2Jjv-JLrGqkADPNPJF5u7qzpYE3o8_NoLbH7fVTjtFm9TYlxfOjbB3dH5Lw6qKM-MQ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/S1eWLrew2Jjv-JLrGqkADPNPJF5u7qzpYE3o8_NoLbH7fVTjtFm9TYlxfOjbB3dH5Lw6qKM-MQ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/S1eWLrew2Jjv-JLrGqkADPNPJF5u7qzpYE3o8_NoLbH7fVTjtFm9TYlxfOjbB3dH5Lw6qKM-MQ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 107000,
+      "viewCount": 47341564,
+      "videoCount": 4079,
+      "lastUpdated": "2025-09-03T10:00:21.089252Z"
     }
   },
-  "lastUpdated": "2025-08-29T02:42:58.092200Z",
-  "totalVideos": 169,
-  "totalChannels": 10
+  "lastUpdated": "2025-09-03T10:00:21.089252Z",
+  "totalVideos": 170,
+  "totalChannels": 11
 }

@@ -97,6 +97,40 @@
       "channelId": "UChlgI3UHCOnwUGzWzbJ3H5w",
       "channelName": " YTN",
       "collectedAt": "2025-08-27T19:05:15Z"
+    },
+    "oiLzsvqdNeo": {
+      "videoId": "oiLzsvqdNeo",
+      "title": "드라마 '불꽃속으로'에서 철강왕으로 돌아온 최수종",
+      "description": "이번엔 '철강왕'이다. 신라 태종무열왕부터 발해 대조영, 고려 왕건, 대한민국 대통령까지 섭렵해 온 '왕 전문 배우' 최수종(52)이 17일 시작하는 TV조선 새 금토드라마 '불꽃 속으로'에서 포항제철 설립자 박태준(1927~2011) 포스코 명예회장을 연기한다. /이태경 기자\n\n鐵鋼王(철강왕) 드라마? 부모 세대의 피땀 어린 이야기\n\nhttp://news.chosun.com/site/data/html_dir/2014/04/13/2014041302576.html",
+      "publishedAt": "2014-04-13T12:39:43Z",
+      "duration": "PT2M24S",
+      "viewCount": 6803,
+      "likeCount": 10,
+      "commentCount": 2,
+      "tags": [],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2014-04-13T12:39:43Z",
+      "channelId": "UCdp4_yTBhQmB8E339Lafzow",
+      "channelName": "조선일보",
+      "collectedAt": "2025-09-03T10:02:46Z"
+    },
+    "HTpKYUuBfsQ": {
+      "videoId": "HTpKYUuBfsQ",
+      "title": "제1회 대한민국 롱보드 대축제",
+      "description": "2014년 4월 13일 오후 서울 신촌 '차없는 거리'에서 열린 제1회 대한민국 롱보드 대축제에서 참가자들이 롱보드로 묘기를 선보이고 있다. /김지호 기자",
+      "publishedAt": "2014-04-13T12:38:37Z",
+      "duration": "PT45S",
+      "viewCount": 8985,
+      "likeCount": 6,
+      "commentCount": 0,
+      "tags": [],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2014-04-13T12:38:37Z",
+      "channelId": "UCdp4_yTBhQmB8E339Lafzow",
+      "channelName": "조선일보",
+      "collectedAt": "2025-09-03T10:02:46Z"
     }
   },
   "channels": {
@@ -153,9 +187,36 @@
       "viewCount": 17649222300,
       "videoCount": 890317,
       "lastUpdated": "2025-08-29T02:43:50.821986Z"
+    },
+    "UCdp4_yTBhQmB8E339Lafzow": {
+      "channelId": "UCdp4_yTBhQmB8E339Lafzow",
+      "channelName": "조선일보",
+      "channelUrl": "@chosunmedia",
+      "channelDescription": " 조선일보 공식 유튜브 채널",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 1700000,
+      "viewCount": 1669752256,
+      "videoCount": 22783,
+      "lastUpdated": "2025-09-03T10:02:46.617016Z"
     }
   },
-  "lastUpdated": "2025-08-29T02:43:50.821986Z",
-  "totalVideos": 4,
-  "totalChannels": 2
+  "lastUpdated": "2025-09-03T10:02:46.617016Z",
+  "totalVideos": 6,
+  "totalChannels": 3
 }

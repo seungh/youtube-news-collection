@@ -774,6 +774,101 @@
       "channelId": "UCTHCOPwqNfZ0uiKOvFyhGwg",
       "channelName": "연합뉴스TV",
       "collectedAt": "2025-08-29T02:43:48Z"
+    },
+    "cD9_PkIE-0A": {
+      "videoId": "cD9_PkIE-0A",
+      "title": "광화문에서 미리 듣는 크리스마스 캐롤 '그네는 아니다'",
+      "description": "노동가수연합과 자발적으로 모인 시민합창단이 광화문 광장에서 시민들에게 캐롤을 선사했습니다. 올 크리스마스에 어울리는 재밌는 가사입니다.",
+      "publishedAt": "2016-12-10T13:07:21Z",
+      "duration": "PT2M36S",
+      "viewCount": 5665,
+      "likeCount": 43,
+      "commentCount": 5,
+      "tags": [
+        "크리스마스",
+        "캐롤",
+        "캐럴",
+        "성탄절",
+        "feliz navidad",
+        "광화문",
+        "촛불",
+        "집회",
+        "촛불집회",
+        "시민",
+        "christmas",
+        "박근혜",
+        "탄핵",
+        "퇴진",
+        "한국일보",
+        "대통령",
+        "가결",
+        "부결",
+        "헌법재판소",
+        "헌재",
+        "국회",
+        "광장"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2016-12-10T13:07:21Z",
+      "channelId": "UC1aS5CRRDrN6CmR2VcpmetA",
+      "channelName": "한국일보(hankookilbo.com)",
+      "collectedAt": "2025-09-03T10:01:33Z"
+    },
+    "v601SKO5Yus": {
+      "videoId": "v601SKO5Yus",
+      "title": "시청 광장에서 시민들을 응원하는 박원순 시장",
+      "description": "오늘(12월 10일) 서울시청 앞 광장에서 열린 촛불집회 사전행사에 박원순 서울시장이 시민들을 응원하기 위해 방문해 연설했습니다.",
+      "publishedAt": "2016-12-10T10:55:18Z",
+      "duration": "PT1M33S",
+      "viewCount": 201,
+      "likeCount": 3,
+      "commentCount": 1,
+      "tags": [],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2016-12-10T10:55:18Z",
+      "channelId": "UC1aS5CRRDrN6CmR2VcpmetA",
+      "channelName": "한국일보(hankookilbo.com)",
+      "collectedAt": "2025-09-03T10:01:33Z"
+    },
+    "FNbU8QcaaBU": {
+      "videoId": "FNbU8QcaaBU",
+      "title": "DJ DOC, '수취인분명' 가사 수정해 열창",
+      "description": "여혐 가사 논란이 있었던 DJ DOC가 서울광장에서 열린 촛불집회 사전행사의 무대에 올라 가사를 수정한 '수취인분명'을 불렀습니다.",
+      "publishedAt": "2016-12-10T09:36:32Z",
+      "duration": "PT4M18S",
+      "viewCount": 2619,
+      "likeCount": 14,
+      "commentCount": 2,
+      "tags": [
+        "DJ DOC",
+        "수취인분명",
+        "촛불",
+        "집회",
+        "촛불집회",
+        "서울",
+        "광장",
+        "서울광장",
+        "시청",
+        "여혐",
+        "서울시청",
+        "한국일보",
+        "박근혜",
+        "탄핵",
+        "가결",
+        "탄핵소추안",
+        "대통령",
+        "박원순",
+        "새누리당",
+        "더불어민주당"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2016-12-10T09:36:32Z",
+      "channelId": "UC1aS5CRRDrN6CmR2VcpmetA",
+      "channelName": "한국일보(hankookilbo.com)",
+      "collectedAt": "2025-09-03T10:01:33Z"
     }
   },
   "channels": {
@@ -938,9 +1033,36 @@
       "viewCount": 3351994752,
       "videoCount": 627296,
       "lastUpdated": "2025-08-29T02:43:48.824179Z"
+    },
+    "UC1aS5CRRDrN6CmR2VcpmetA": {
+      "channelId": "UC1aS5CRRDrN6CmR2VcpmetA",
+      "channelName": "한국일보(hankookilbo.com)",
+      "channelUrl": "@thehankookilbo",
+      "channelDescription": "'공존, 통합, 사람'의 정신으로 앞장서는 국내 유일 중도 정론지 한국일보입니다.\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ppj3UlPuwNq5DyUWNFz27Vc6WoIrRpRI2IMHc9MZ3UqkNVWcXrT83qJTU3bAweA3BOodFu4Euf0=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ppj3UlPuwNq5DyUWNFz27Vc6WoIrRpRI2IMHc9MZ3UqkNVWcXrT83qJTU3bAweA3BOodFu4Euf0=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ppj3UlPuwNq5DyUWNFz27Vc6WoIrRpRI2IMHc9MZ3UqkNVWcXrT83qJTU3bAweA3BOodFu4Euf0=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 362000,
+      "viewCount": 296027619,
+      "videoCount": 6196,
+      "lastUpdated": "2025-09-03T10:01:33.176144Z"
     }
   },
-  "lastUpdated": "2025-08-29T02:43:48.824179Z",
-  "totalVideos": 32,
-  "totalChannels": 6
+  "lastUpdated": "2025-09-03T10:01:33.176144Z",
+  "totalVideos": 35,
+  "totalChannels": 7
 }

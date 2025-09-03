@@ -754,6 +754,23 @@
       "channelId": "UCTHCOPwqNfZ0uiKOvFyhGwg",
       "channelName": "연합뉴스TV",
       "collectedAt": "2025-08-29T02:43:35Z"
+    },
+    "iRekgphN4FE": {
+      "videoId": "iRekgphN4FE",
+      "title": "[부동산 직톡]기로에 선 박근혜표 '뉴스테이' 살아남을까?",
+      "description": "“과연 다음 정부에도 살아남을 수 있을까요?”\n\n박근혜 정부가 지난해부터 행복주택과 함께 역점 사업으로 추진했던 기업형 임대주택, 즉 뉴스테이(New Stay)의 향배가 관심을 모으고 있다. \n\n행복주택이 신혼부부나 대학생 등 서민을 위한 저렴한 임대주택이라면 뉴스테이는 중산층 이상이 살 수 있는 고품질 임대주택이다.\n\n뉴스테이는 최근 2~3년간 전월세난에 시달린 중산층들에게 인기를 끌었다. 청약경쟁률이 수십 대1에 달하기도 했다.  \n\n하지만 최근 박근혜 대통령에 대한 탄핵 사태와 함께 과도한 건설사 특혜 등이 논란이 되면서 사업의 지속 가능성에 의문이 제기되고 있다.\n\n땅집고(realty.chosun.com)의 부동산 직격 토크쇼 ‘부동산 직톡’에서 뉴스테이의 운명을 집중 분석했다.",
+      "publishedAt": "2016-12-25T12:52:10Z",
+      "duration": "PT11M57S",
+      "viewCount": 5702,
+      "likeCount": 3,
+      "commentCount": 2,
+      "tags": [],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2016-12-25T12:52:10Z",
+      "channelId": "UCdp4_yTBhQmB8E339Lafzow",
+      "channelName": "조선일보",
+      "collectedAt": "2025-09-03T10:02:44Z"
     }
   },
   "channels": {
@@ -918,9 +935,36 @@
       "viewCount": 17649222300,
       "videoCount": 890317,
       "lastUpdated": "2025-08-29T02:43:35.526898Z"
+    },
+    "UCdp4_yTBhQmB8E339Lafzow": {
+      "channelId": "UCdp4_yTBhQmB8E339Lafzow",
+      "channelName": "조선일보",
+      "channelUrl": "@chosunmedia",
+      "channelDescription": " 조선일보 공식 유튜브 채널",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 1700000,
+      "viewCount": 1669752256,
+      "videoCount": 22783,
+      "lastUpdated": "2025-09-03T10:02:44.281011Z"
     }
   },
-  "lastUpdated": "2025-08-29T02:43:35.526898Z",
-  "totalVideos": 31,
-  "totalChannels": 6
+  "lastUpdated": "2025-09-03T10:02:44.281011Z",
+  "totalVideos": 32,
+  "totalChannels": 7
 }

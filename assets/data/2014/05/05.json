@@ -76,6 +76,35 @@
       "channelId": "UChlgI3UHCOnwUGzWzbJ3H5w",
       "channelName": " YTN",
       "collectedAt": "2025-08-27T19:05:14Z"
+    },
+    "-LDVSqAZjE8": {
+      "videoId": "-LDVSqAZjE8",
+      "title": "(NAM) 부산 신세계센텀시티서 열린 벼룩시장 '카부츠 세일'",
+      "description": "5일 오전 부산 해운대구 신세계센텀시티 야외주차장에서 열린'카부츠(Car Boots)'세일에 참가한 수천 명의 인파가 물건을사고팔고 있다. 카부츠 세일은 차 트렁크에 쓰던 물건을 진열해놓고 파는 행사를 뜻한다. 참가자들은 이날 번 돈의 절반 이상을 저소득층을 위해 기부할 계획이다. /남강호 기자",
+      "publishedAt": "2014-05-05T09:29:36Z",
+      "duration": "PT1M48S",
+      "viewCount": 1208,
+      "likeCount": 4,
+      "commentCount": 0,
+      "tags": [
+        "부산",
+        "신세계센텀시티",
+        "벼룩시장",
+        "카부츠",
+        "카부츠세일",
+        "Car Boots",
+        "트렁크",
+        "조선일보",
+        "남강호",
+        "(NAM)",
+        "기부"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2014-05-05T09:29:36Z",
+      "channelId": "UCdp4_yTBhQmB8E339Lafzow",
+      "channelName": "조선일보",
+      "collectedAt": "2025-09-03T10:02:46Z"
     }
   },
   "channels": {
@@ -132,9 +161,36 @@
       "viewCount": 17649222300,
       "videoCount": 890317,
       "lastUpdated": "2025-08-29T02:43:49.830221Z"
+    },
+    "UCdp4_yTBhQmB8E339Lafzow": {
+      "channelId": "UCdp4_yTBhQmB8E339Lafzow",
+      "channelName": "조선일보",
+      "channelUrl": "@chosunmedia",
+      "channelDescription": " 조선일보 공식 유튜브 채널",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 1700000,
+      "viewCount": 1669752256,
+      "videoCount": 22783,
+      "lastUpdated": "2025-09-03T10:02:46.451725Z"
     }
   },
-  "lastUpdated": "2025-08-29T02:43:49.830221Z",
-  "totalVideos": 3,
-  "totalChannels": 2
+  "lastUpdated": "2025-09-03T10:02:46.451725Z",
+  "totalVideos": 4,
+  "totalChannels": 3
 }

@@ -759,6 +759,23 @@
       "channelId": "UCTHCOPwqNfZ0uiKOvFyhGwg",
       "channelName": "연합뉴스TV",
       "collectedAt": "2025-08-29T02:43:36Z"
+    },
+    "gYIk1wN3VgE": {
+      "videoId": "gYIk1wN3VgE",
+      "title": "‘범죄 노출’된 여성 1인 가구 [Video C]",
+      "description": "혼자 사는 여성들이 불안에 떠는 건 어제오늘 일이 아니다\n지난해 기준으로 여성 1인 가구주들은 한국 사회의 전반적인 안전에 대해\n46.2%가 “불안하다”고 답했다\n(2017.06 통계청 ‘2017 통계로 보는 여성의 삶’)1\n\n혼자 사는 여성들이 범죄에 노출될 가능성이 높은 만큼\n이를 막기 위한 법적·제도적 조치가 필요하지만\n현행법상 무단으로 집에 들어오는 등 실제 범죄 행위를 저지르지 않는 이상 처벌하기 힘들다",
+      "publishedAt": "2017-09-22T15:56:29Z",
+      "duration": "PT1M27S",
+      "viewCount": 1275,
+      "likeCount": 3,
+      "commentCount": 1,
+      "tags": [],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2017-09-22T15:56:29Z",
+      "channelId": "UCdp4_yTBhQmB8E339Lafzow",
+      "channelName": "조선일보",
+      "collectedAt": "2025-09-03T10:02:44Z"
     }
   },
   "channels": {
@@ -923,9 +940,36 @@
       "viewCount": 3351994752,
       "videoCount": 627296,
       "lastUpdated": "2025-08-29T02:43:36.636953Z"
+    },
+    "UCdp4_yTBhQmB8E339Lafzow": {
+      "channelId": "UCdp4_yTBhQmB8E339Lafzow",
+      "channelName": "조선일보",
+      "channelUrl": "@chosunmedia",
+      "channelDescription": " 조선일보 공식 유튜브 채널",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 1700000,
+      "viewCount": 1669752256,
+      "videoCount": 22783,
+      "lastUpdated": "2025-09-03T10:02:44.012968Z"
     }
   },
-  "lastUpdated": "2025-08-29T02:43:36.636953Z",
-  "totalVideos": 29,
-  "totalChannels": 6
+  "lastUpdated": "2025-09-03T10:02:44.012968Z",
+  "totalVideos": 30,
+  "totalChannels": 7
 }

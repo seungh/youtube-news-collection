@@ -1901,6 +1901,55 @@
       "channelId": "UChlgI3UHCOnwUGzWzbJ3H5w",
       "channelName": " YTN",
       "collectedAt": "2025-08-27T19:05:16Z"
+    },
+    "TP6KmEzIjk8": {
+      "videoId": "TP6KmEzIjk8",
+      "title": "'제2의 박주봉' 이용대",
+      "description": "현역 시절‘셔틀콕 황제’라 불린 박 감독과‘제2의 박주봉’으로 통하는 남자 복식 최강자 이용대가 만나면 어떤 이야기를 나눌까. 박 감독이 지난달 30일 국가대표팀 선발전 마지막 날 경기를 치른 이용대를 응원하기 위해 수원을 찾았다./ 성형주 기자\n\n[2015 꿈의 대화] \"용대야, 진짜 넘버원 되려면 오버하지마\"\n\nhttp://news.chosun.com/site/data/html_dir/2015/01/03/2015010300037.html",
+      "publishedAt": "2015-01-02T12:59:54Z",
+      "duration": "PT34S",
+      "viewCount": 3112,
+      "likeCount": 8,
+      "commentCount": 0,
+      "tags": [
+        "이용대",
+        "제2의 박주봉",
+        "셔틀콕 황제",
+        "박주봉",
+        "성형주 기자",
+        "조선일보",
+        "배드민턴",
+        "셔틀콕",
+        "이용대 연예인"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2015-01-02T12:59:54Z",
+      "channelId": "UCdp4_yTBhQmB8E339Lafzow",
+      "channelName": "조선일보",
+      "collectedAt": "2025-09-03T10:02:45Z"
+    },
+    "s58T_gXLV4I": {
+      "videoId": "s58T_gXLV4I",
+      "title": "새정치민주연합 후보들, 광주시당 신년회 참석",
+      "description": "2일 새정치민주연합 광주시당 신년인사회. 박지원,박주선,이인영,조경태 당대표후보들이 참석했다. / 김영근",
+      "publishedAt": "2015-01-02T05:19:59Z",
+      "duration": "PT1M13S",
+      "viewCount": 160,
+      "likeCount": 0,
+      "commentCount": 0,
+      "tags": [
+        "광주시당",
+        "광주시당신년회",
+        "김영근",
+        "조선일보"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2015-01-02T05:19:59Z",
+      "channelId": "UCdp4_yTBhQmB8E339Lafzow",
+      "channelName": "조선일보",
+      "collectedAt": "2025-09-03T10:02:45Z"
     }
   },
   "channels": {
@@ -2119,9 +2168,36 @@
       "viewCount": 17649222300,
       "videoCount": 890317,
       "lastUpdated": "2025-08-29T02:43:51.976815Z"
+    },
+    "UCdp4_yTBhQmB8E339Lafzow": {
+      "channelId": "UCdp4_yTBhQmB8E339Lafzow",
+      "channelName": "조선일보",
+      "channelUrl": "@chosunmedia",
+      "channelDescription": " 조선일보 공식 유튜브 채널",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 1700000,
+      "viewCount": 1669752256,
+      "videoCount": 22783,
+      "lastUpdated": "2025-09-03T10:02:45.250387Z"
     }
   },
-  "lastUpdated": "2025-08-29T02:43:51.976815Z",
-  "totalVideos": 57,
-  "totalChannels": 8
+  "lastUpdated": "2025-09-03T10:02:45.250387Z",
+  "totalVideos": 59,
+  "totalChannels": 9
 }

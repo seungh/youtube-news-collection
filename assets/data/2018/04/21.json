@@ -3888,6 +3888,38 @@
       "channelId": "UCTHCOPwqNfZ0uiKOvFyhGwg",
       "channelName": "연합뉴스TV",
       "collectedAt": "2025-08-29T02:43:13Z"
+    },
+    "KDl0ZGBgY7Q": {
+      "videoId": "KDl0ZGBgY7Q",
+      "title": "[Gender] 과학기술계는 남성을 위한 영역? 한국에서 '여성' 과학자로 산다는 것",
+      "description": "“이공계에 간다고 했을 때 많은 사람들이 의아해했죠.”\n“왜 쉰 살에 ‘극지’, 그 위험한 곳에 왜 가냐”\n“여자들은 그냥 시집가서 살림 잘하면 된다.”\n\n우리나라 여성 과학기술 인력은 19.3%,\n2018년에도 ‘과학자’와 ‘여성과학자’의 구분은 유효하다. \n\n4월 21일, 과학의 날을 맞아 ‘여성’ 과학자들의 이야기를 들어봤습니다. \n\n#임혜숙 #이홍금 #박은정",
+      "publishedAt": "2018-04-21T02:00:02Z",
+      "duration": "PT3M4S",
+      "viewCount": 16955,
+      "likeCount": 855,
+      "commentCount": 268,
+      "tags": [
+        "여성과학자",
+        "과학자",
+        "과학의날",
+        "여성",
+        "성차별",
+        "이공계",
+        "경력단절",
+        "박은정",
+        "임혜숙",
+        "이홍금",
+        "페미니즘",
+        "공대",
+        "과기부",
+        "과기부장관"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2018-04-21T02:00:02Z",
+      "channelId": "UC1aS5CRRDrN6CmR2VcpmetA",
+      "channelName": "한국일보(hankookilbo.com)",
+      "collectedAt": "2025-09-03T10:01:41Z"
     }
   },
   "channels": {
@@ -4214,9 +4246,36 @@
       "viewCount": 3351994752,
       "videoCount": 627296,
       "lastUpdated": "2025-08-29T02:43:13.986044Z"
+    },
+    "UC1aS5CRRDrN6CmR2VcpmetA": {
+      "channelId": "UC1aS5CRRDrN6CmR2VcpmetA",
+      "channelName": "한국일보(hankookilbo.com)",
+      "channelUrl": "@thehankookilbo",
+      "channelDescription": "'공존, 통합, 사람'의 정신으로 앞장서는 국내 유일 중도 정론지 한국일보입니다.\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ppj3UlPuwNq5DyUWNFz27Vc6WoIrRpRI2IMHc9MZ3UqkNVWcXrT83qJTU3bAweA3BOodFu4Euf0=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ppj3UlPuwNq5DyUWNFz27Vc6WoIrRpRI2IMHc9MZ3UqkNVWcXrT83qJTU3bAweA3BOodFu4Euf0=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ppj3UlPuwNq5DyUWNFz27Vc6WoIrRpRI2IMHc9MZ3UqkNVWcXrT83qJTU3bAweA3BOodFu4Euf0=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 362000,
+      "viewCount": 296027619,
+      "videoCount": 6196,
+      "lastUpdated": "2025-09-03T10:01:41.750216Z"
     }
   },
-  "lastUpdated": "2025-08-29T02:43:13.986044Z",
-  "totalVideos": 120,
-  "totalChannels": 12
+  "lastUpdated": "2025-09-03T10:01:41.750216Z",
+  "totalVideos": 121,
+  "totalChannels": 13
 }

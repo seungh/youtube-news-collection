@@ -593,6 +593,84 @@
       "channelId": "UChlgI3UHCOnwUGzWzbJ3H5w",
       "channelName": " YTN",
       "collectedAt": "2025-08-27T19:05:19Z"
+    },
+    "wt71NhqiK6Q": {
+      "videoId": "wt71NhqiK6Q",
+      "title": "유기견 마지막 소풍의 기적",
+      "description": "2014년 6월 22일 경기도 안성 클로버독 훈련소에서 자원봉사자들이 유기견들과 나들이를 하고 있다. /김연정 기자\n\n유기견들의 마지막 소풍... 작은 기적의 시작이었다\n\nhttp://news.chosun.com/site/data/html_dir/2014/06/25/2014062500353.html",
+      "publishedAt": "2014-06-24T12:51:01Z",
+      "duration": "PT56S",
+      "viewCount": 1314,
+      "likeCount": 1,
+      "commentCount": 0,
+      "tags": [],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2014-06-24T12:51:01Z",
+      "channelId": "UCdp4_yTBhQmB8E339Lafzow",
+      "channelName": "조선일보",
+      "collectedAt": "2025-09-03T10:02:46Z"
+    },
+    "agjGBK3uhXQ": {
+      "videoId": "agjGBK3uhXQ",
+      "title": "해상사고 대비훈련",
+      "description": "24일 전남 완도군 생일도 해상에서 여객선 침몰 등 비상시 대응훈련이 실시됐다. 이번 훈련은 세월호 사고 이후 불안감을 없애고 여객선의 구명설비와 비상 대응 요령을 배우기 위해해양수산부 여수지방해양항만청 주관으로 장흥-제주를 오가는 오렌지호에서 학생,교사 등 300여명이 참여했다. 참가자들이 화재진압 훈련, 구명조끼 착용과 구명보트 인명구조 훈련 등이 실시됐다.",
+      "publishedAt": "2014-06-24T10:05:39Z",
+      "duration": "PT1M",
+      "viewCount": 868,
+      "likeCount": 2,
+      "commentCount": 0,
+      "tags": [],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2014-06-24T10:05:39Z",
+      "channelId": "UCdp4_yTBhQmB8E339Lafzow",
+      "channelName": "조선일보",
+      "collectedAt": "2025-09-03T10:02:46Z"
+    },
+    "ooJ48R4cQu0": {
+      "videoId": "ooJ48R4cQu0",
+      "title": "여객선 침몰 대비 훈련",
+      "description": "24일 전남 완도군 생일도 해상에서 여객선 침몰 등 비상시 대응훈련이 실시됐다. 이번 훈련은 세월호 사고 이후 불안감을 없애고 여객선의 구명설비와 비상 대응 요령을 배우기 위해 여수지방해양항만청 주관으로 실시됐다. 장흥-제주를 오가는 오렌지호에서 학생,교사 등 300여명이 참여한 가운데 화재진압 훈련, 구명조끼 착용과 구명보트 인명구조 훈련 등이 실시됐다./김영근 기자",
+      "publishedAt": "2014-06-24T10:00:01Z",
+      "duration": "PT1M23S",
+      "viewCount": 418,
+      "likeCount": 1,
+      "commentCount": 0,
+      "tags": [],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2014-06-24T10:00:01Z",
+      "channelId": "UCdp4_yTBhQmB8E339Lafzow",
+      "channelName": "조선일보",
+      "collectedAt": "2025-09-03T10:02:46Z"
+    },
+    "8EvU646-Q00": {
+      "videoId": "8EvU646-Q00",
+      "title": "63여년만의 귀환, \"보고싶다 동생아!\"",
+      "description": "신원이 확인된 6·25전사자 국군유해 5위에 대한 합동 안장식이 23일 국립 대전현충원에서 열렸다. 이날 현충원에 안장된 고 정철호 이등중사의 누님이 동생이 군 복무 시절 찍은 사진을 잡고 눈물을 흘리며 이야기 하고 있다. /신현종 기자",
+      "publishedAt": "2014-06-23T16:06:21Z",
+      "duration": "PT1M32S",
+      "viewCount": 3242,
+      "likeCount": 13,
+      "commentCount": 2,
+      "tags": [
+        "6.25전사자",
+        "6.25유해발굴",
+        "국군유해",
+        "대전현충원",
+        "북한",
+        "63년",
+        "유해발굴",
+        "신현종",
+        "조선일보"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2014-06-23T16:06:21Z",
+      "channelId": "UCdp4_yTBhQmB8E339Lafzow",
+      "channelName": "조선일보",
+      "collectedAt": "2025-09-03T10:02:46Z"
     }
   },
   "channels": {
@@ -703,9 +781,36 @@
       "viewCount": 17649222300,
       "videoCount": 890317,
       "lastUpdated": "2025-08-29T02:43:55.405074Z"
+    },
+    "UCdp4_yTBhQmB8E339Lafzow": {
+      "channelId": "UCdp4_yTBhQmB8E339Lafzow",
+      "channelName": "조선일보",
+      "channelUrl": "@chosunmedia",
+      "channelDescription": " 조선일보 공식 유튜브 채널",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 1700000,
+      "viewCount": 1669752256,
+      "videoCount": 22783,
+      "lastUpdated": "2025-09-03T10:02:46.217432Z"
     }
   },
-  "lastUpdated": "2025-08-29T02:43:55.405074Z",
-  "totalVideos": 18,
-  "totalChannels": 4
+  "lastUpdated": "2025-09-03T10:02:46.217432Z",
+  "totalVideos": 22,
+  "totalChannels": 5
 }

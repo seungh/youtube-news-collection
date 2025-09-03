@@ -558,6 +558,38 @@
       "channelId": "UCTHCOPwqNfZ0uiKOvFyhGwg",
       "channelName": "연합뉴스TV",
       "collectedAt": "2025-08-29T02:43:17Z"
+    },
+    "wtxdmYEwwBY": {
+      "videoId": "wtxdmYEwwBY",
+      "title": "(NAM) 간통, 法(법)으로는 無罪(무죄)",
+      "description": "26일 오후 서울 종로구 재동 헌법재판소 대심판정으로 박한철 소장과 이정미 재판관이 들어서고 있다. 이날 유일한 여성인 이정미 재판관과 기독교 신자인 안창호 재판관 등 2명만 반대하고 박 소장 등 재판관 7명이 “간통죄는 위헌”이라고 선언함으로써 1953년부터 존재하던 간통죄는 62년 만에 박 소장의 위헌 선언 즉시 폐지됐다. /남강호 기자 \n\n간통, 法으로는 無罪\n\nhttp://news.chosun.com/site/data/html_dir/2015/02/27/2015022700352.html",
+      "publishedAt": "2015-02-27T18:56:05Z",
+      "duration": "PT1M37S",
+      "viewCount": 1067,
+      "likeCount": 3,
+      "commentCount": 0,
+      "tags": [
+        "Adultery (Quotation Subject)",
+        "The Arts (Broadcast Genre)",
+        "간통",
+        "법",
+        "法",
+        "無罪",
+        "남강호",
+        "(NAM)",
+        "조선일보",
+        "박한철",
+        "헌법재판소",
+        "헌법재판",
+        "간통죄",
+        "이정미"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2015-02-27T18:56:05Z",
+      "channelId": "UCdp4_yTBhQmB8E339Lafzow",
+      "channelName": "조선일보",
+      "collectedAt": "2025-09-03T10:02:45Z"
     }
   },
   "channels": {
@@ -668,9 +700,36 @@
       "viewCount": 3351994752,
       "videoCount": 627296,
       "lastUpdated": "2025-08-29T02:43:17.457109Z"
+    },
+    "UCdp4_yTBhQmB8E339Lafzow": {
+      "channelId": "UCdp4_yTBhQmB8E339Lafzow",
+      "channelName": "조선일보",
+      "channelUrl": "@chosunmedia",
+      "channelDescription": " 조선일보 공식 유튜브 채널",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 1700000,
+      "viewCount": 1669752256,
+      "videoCount": 22783,
+      "lastUpdated": "2025-09-03T10:02:45.041673Z"
     }
   },
-  "lastUpdated": "2025-08-29T02:43:17.457109Z",
-  "totalVideos": 23,
-  "totalChannels": 4
+  "lastUpdated": "2025-09-03T10:02:45.041673Z",
+  "totalVideos": 24,
+  "totalChannels": 5
 }

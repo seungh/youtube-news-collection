@@ -590,6 +590,42 @@
       "channelId": "UCTHCOPwqNfZ0uiKOvFyhGwg",
       "channelName": "연합뉴스TV",
       "collectedAt": "2025-08-29T02:43:15Z"
+    },
+    "_a0977y2_5Q": {
+      "videoId": "_a0977y2_5Q",
+      "title": "[두잇터] 막내 인턴이 제2롯데월드 123층을 걸어올라가봤다 / 조선일보",
+      "description": "그리고 우리 막내에게 다음날 대체휴가를 하루 주었다\n\n#조선일보 #두잇터 #제2롯데월드_탐방기 #조선 #뉴스 #사회",
+      "publishedAt": "2017-04-15T06:00:49Z",
+      "duration": "PT1M49S",
+      "viewCount": 18031,
+      "likeCount": 49,
+      "commentCount": 8,
+      "tags": [
+        "조선일보",
+        "제2롯데월드",
+        "롯데월드",
+        "궁금쓰",
+        "제2롯데월드 탐방기",
+        "123층",
+        "2917계단",
+        "막내 인턴",
+        "인턴",
+        "배신자",
+        "고독한 싸움",
+        "엘레베이터",
+        "555m",
+        "롯데월드 전망대",
+        "1분 5초",
+        "조선",
+        "뉴스",
+        "사회"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2017-04-15T06:00:49Z",
+      "channelId": "UCdp4_yTBhQmB8E339Lafzow",
+      "channelName": "조선일보",
+      "collectedAt": "2025-09-03T10:02:44Z"
     }
   },
   "channels": {
@@ -727,9 +763,36 @@
       "viewCount": 3351994752,
       "videoCount": 627296,
       "lastUpdated": "2025-08-29T02:43:15.140397Z"
+    },
+    "UCdp4_yTBhQmB8E339Lafzow": {
+      "channelId": "UCdp4_yTBhQmB8E339Lafzow",
+      "channelName": "조선일보",
+      "channelUrl": "@chosunmedia",
+      "channelDescription": " 조선일보 공식 유튜브 채널",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 1700000,
+      "viewCount": 1669752256,
+      "videoCount": 22783,
+      "lastUpdated": "2025-09-03T10:02:44.163154Z"
     }
   },
-  "lastUpdated": "2025-08-29T02:43:15.140397Z",
-  "totalVideos": 22,
-  "totalChannels": 5
+  "lastUpdated": "2025-09-03T10:02:44.163154Z",
+  "totalVideos": 23,
+  "totalChannels": 6
 }

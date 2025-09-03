@@ -1743,6 +1743,74 @@
       "channelId": "UCG9aFJTZ-lMCHAiO1KJsirg",
       "channelName": "MBN News",
       "collectedAt": "2025-08-27T19:05:11Z"
+    },
+    "0TWQdq7C4vI": {
+      "videoId": "0TWQdq7C4vI",
+      "title": "[Video C] 에어컨 틀었는데 정전? 범인은 멀티탭!",
+      "description": "무더위가 절정이었던 광복절 직장인 이승주(32)씨는 집에서 에어컨을 켰다. 그러나 에어컨은 켠 지 10분도 지나지 않아 자동으로 꺼졌다. 며칠 동안 에어컨을 틀었던 터라 에어컨에 과부하가 걸렸다고 생각한 이씨는 몇 분 뒤 대수롭지 않게 다시 에어컨을 켰다. 그러나 이번에는 에어컨을 켜자마자 집안의 모든 불이 꺼지더니 TV와 냉장고 등 전자제품 전원도 전부 나갔다. 전력 차단기가 내려가 정전이 된 것이다.",
+      "publishedAt": "2016-08-18T05:07:52Z",
+      "duration": "PT1M31S",
+      "viewCount": 2874,
+      "likeCount": 12,
+      "commentCount": 1,
+      "tags": [],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2016-08-18T05:07:52Z",
+      "channelId": "UCdp4_yTBhQmB8E339Lafzow",
+      "channelName": "조선일보",
+      "collectedAt": "2025-09-03T10:02:43Z"
+    },
+    "f-VtXwjyWQ8": {
+      "videoId": "f-VtXwjyWQ8",
+      "title": "[C-CLIP] 생체 인식 시스템의 허점",
+      "description": "과연 안전할까",
+      "publishedAt": "2016-08-18T09:01:16Z",
+      "duration": "PT2M42S",
+      "viewCount": 3776,
+      "likeCount": 4,
+      "commentCount": 0,
+      "tags": [
+        "조선일보",
+        "생체인식",
+        "지문",
+        "해킹",
+        "과학"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2016-08-18T09:01:16Z",
+      "channelId": "UCdp4_yTBhQmB8E339Lafzow",
+      "channelName": "조선일보",
+      "collectedAt": "2025-09-03T10:02:43Z"
+    },
+    "S8hZTp7mv00": {
+      "videoId": "S8hZTp7mv00",
+      "title": "[VR Chosun] [남강호의 VR Rio!] 레슬링 ‘판정논란’ 김현우, 금보다 값진 동메달",
+      "description": "판정 논란을 딛고 값진 동메달을 품에 안은 레슬링 국가대표 김현우(28·삼성생명)는 \"금메달보다 값진 동메달이란 말을 들었을때, 마음이 뭉클했다\"며 \"가장 큰 위로가 됐다\"고 말했다",
+      "publishedAt": "2016-08-18T05:30:20Z",
+      "duration": "PT1M1S",
+      "viewCount": 582,
+      "likeCount": 0,
+      "commentCount": 0,
+      "tags": [
+        "리우",
+        "올림픽",
+        "리우올림픽",
+        "레슬링",
+        "김현우",
+        "판정논란",
+        "편파판정",
+        "동메달",
+        "rio",
+        "olympics"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2016-08-18T05:30:20Z",
+      "channelId": "UCdp4_yTBhQmB8E339Lafzow",
+      "channelName": "조선일보",
+      "collectedAt": "2025-09-03T10:02:43Z"
     }
   },
   "channels": {
@@ -2015,9 +2083,36 @@
       "viewCount": 3278386064,
       "videoCount": 233358,
       "lastUpdated": "2025-08-29T02:43:46.987040Z"
+    },
+    "UCdp4_yTBhQmB8E339Lafzow": {
+      "channelId": "UCdp4_yTBhQmB8E339Lafzow",
+      "channelName": "조선일보",
+      "channelUrl": "@chosunmedia",
+      "channelDescription": " 조선일보 공식 유튜브 채널",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 1700000,
+      "viewCount": 1669752256,
+      "videoCount": 22783,
+      "lastUpdated": "2025-09-03T10:02:43.072441Z"
     }
   },
-  "lastUpdated": "2025-08-29T02:43:46.987040Z",
-  "totalVideos": 63,
-  "totalChannels": 10
+  "lastUpdated": "2025-09-03T10:02:43.072441Z",
+  "totalVideos": 66,
+  "totalChannels": 11
 }

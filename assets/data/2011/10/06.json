@@ -1,0 +1,82 @@
+{
+  "videos": {
+    "ZXLHvdKFfWU": {
+      "videoId": "ZXLHvdKFfWU",
+      "title": "[100℃ 인터뷰]MBC 김영희PD(HD)",
+      "description": "\"나는 행복한 PD다\"라고 말하는 MBC 김영희 PD.\n'나는 가수다'를 만들게 된 이유부터 특유의 프로그램 기획법까지 인터뷰를 영상으로 담았다.",
+      "publishedAt": "2011-10-06T01:39:32Z",
+      "duration": "PT2M48S",
+      "viewCount": 746,
+      "likeCount": 0,
+      "commentCount": 0,
+      "tags": [
+        "나는",
+        "가수다",
+        "김영희PD",
+        "MBC",
+        "PD",
+        "프로그램",
+        "한국일보"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2011-10-06T01:39:32Z",
+      "channelId": "UC1aS5CRRDrN6CmR2VcpmetA",
+      "channelName": "한국일보(hankookilbo.com)",
+      "collectedAt": "2025-09-03T10:01:46Z"
+    },
+    "wGaI1ghoImM": {
+      "videoId": "wGaI1ghoImM",
+      "title": "[100℃ 인터뷰] 가수 남진(HD)",
+      "description": "한국일보 문화부 100℃인터뷰, 가수 남진을 만나봤습니다.",
+      "publishedAt": "2011-10-06T02:14:43Z",
+      "duration": "PT5M10S",
+      "viewCount": 834,
+      "likeCount": 9,
+      "commentCount": 0,
+      "tags": [
+        "한국일보",
+        "남진",
+        "100℃"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2011-10-06T02:14:43Z",
+      "channelId": "UC1aS5CRRDrN6CmR2VcpmetA",
+      "channelName": "한국일보(hankookilbo.com)",
+      "collectedAt": "2025-09-03T10:01:46Z"
+    }
+  },
+  "channels": {
+    "UC1aS5CRRDrN6CmR2VcpmetA": {
+      "channelId": "UC1aS5CRRDrN6CmR2VcpmetA",
+      "channelName": "한국일보(hankookilbo.com)",
+      "channelUrl": "@thehankookilbo",
+      "channelDescription": "'공존, 통합, 사람'의 정신으로 앞장서는 국내 유일 중도 정론지 한국일보입니다.\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ppj3UlPuwNq5DyUWNFz27Vc6WoIrRpRI2IMHc9MZ3UqkNVWcXrT83qJTU3bAweA3BOodFu4Euf0=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ppj3UlPuwNq5DyUWNFz27Vc6WoIrRpRI2IMHc9MZ3UqkNVWcXrT83qJTU3bAweA3BOodFu4Euf0=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ppj3UlPuwNq5DyUWNFz27Vc6WoIrRpRI2IMHc9MZ3UqkNVWcXrT83qJTU3bAweA3BOodFu4Euf0=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 362000,
+      "viewCount": 296027619,
+      "videoCount": 6196,
+      "lastUpdated": "2025-09-03T10:01:46.001716Z"
+    }
+  },
+  "lastUpdated": "2025-09-03T10:01:46.001716Z",
+  "totalVideos": 2,
+  "totalChannels": 1
+}

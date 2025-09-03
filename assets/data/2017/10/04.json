@@ -589,6 +589,56 @@
       "channelId": "UCTHCOPwqNfZ0uiKOvFyhGwg",
       "channelName": "연합뉴스TV",
       "collectedAt": "2025-08-29T02:44:01Z"
+    },
+    "HLA6GHTVZtg": {
+      "videoId": "HLA6GHTVZtg",
+      "title": "'생리통을 5년 동안 겪는다고?', 엄마의 갱년기를 이해하는 방법",
+      "description": "생리 기간의 고통을 5년 동안 겪는다면 어떨까? \n여성학자 김영옥 대표는 갱년기를 겪는 과정이 이와 비슷하다고 이야기한다. 엄마라는 이유로 그동안 이야기하지 못했던 갱년기 이야기! 의사와 여성학자가 갱년기를 이해하는 방법을 알려준다.\n\n\n ----------------------------------------------------------------------------------------------------------------------------------\n\n▲ 더 다양한 기사 읽기 :  https://www.hankookilbo.com\n▲ 유튜브 구독하기 : https://www.youtube.com/c/프란PRAN\n▲ 페이스북 좋아요 : https://www.facebook.com/playhankook\n▲ 네이버 TV캐스트 팔로우 :  http://tv.naver.com/playkorea\n\n▲사건 및 영상 제보\n digitalnews.hk@gmail.com \n ssolly@hankookilbo.com\n changsun91@hankookilbo.com\n\n제보 : 02)724-2489~2490",
+      "publishedAt": "2017-10-04T00:00:01Z",
+      "duration": "PT3M8S",
+      "viewCount": 6606,
+      "likeCount": 176,
+      "commentCount": 7,
+      "tags": [
+        "갱년기",
+        "폐경",
+        "완경",
+        "여성",
+        "몸",
+        "생리",
+        "월경",
+        "변화",
+        "의사",
+        "의료",
+        "생리대",
+        "안면홍조",
+        "다한증",
+        "수면장애",
+        "페미니즘",
+        "페미니스트",
+        "성평등",
+        "여성학자",
+        "정혜진",
+        "김영옥",
+        "옥희살롱",
+        "세대",
+        "다시만난세대",
+        "토크",
+        "의학",
+        "증상",
+        "이해",
+        "추석",
+        "엄마",
+        "이모",
+        "고모",
+        "대화"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2017-10-04T00:00:01Z",
+      "channelId": "UC1aS5CRRDrN6CmR2VcpmetA",
+      "channelName": "한국일보(hankookilbo.com)",
+      "collectedAt": "2025-09-03T10:01:43Z"
     }
   },
   "channels": {
@@ -780,9 +830,36 @@
       "viewCount": 3351994752,
       "videoCount": 627296,
       "lastUpdated": "2025-08-29T02:44:01.125702Z"
+    },
+    "UC1aS5CRRDrN6CmR2VcpmetA": {
+      "channelId": "UC1aS5CRRDrN6CmR2VcpmetA",
+      "channelName": "한국일보(hankookilbo.com)",
+      "channelUrl": "@thehankookilbo",
+      "channelDescription": "'공존, 통합, 사람'의 정신으로 앞장서는 국내 유일 중도 정론지 한국일보입니다.\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ppj3UlPuwNq5DyUWNFz27Vc6WoIrRpRI2IMHc9MZ3UqkNVWcXrT83qJTU3bAweA3BOodFu4Euf0=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ppj3UlPuwNq5DyUWNFz27Vc6WoIrRpRI2IMHc9MZ3UqkNVWcXrT83qJTU3bAweA3BOodFu4Euf0=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ppj3UlPuwNq5DyUWNFz27Vc6WoIrRpRI2IMHc9MZ3UqkNVWcXrT83qJTU3bAweA3BOodFu4Euf0=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 362000,
+      "viewCount": 296027619,
+      "videoCount": 6196,
+      "lastUpdated": "2025-09-03T10:01:43.035132Z"
     }
   },
-  "lastUpdated": "2025-08-29T02:44:01.125702Z",
-  "totalVideos": 25,
-  "totalChannels": 7
+  "lastUpdated": "2025-09-03T10:01:43.035132Z",
+  "totalVideos": 26,
+  "totalChannels": 8
 }

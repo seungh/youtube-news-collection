@@ -428,6 +428,86 @@
       "channelId": "UChlgI3UHCOnwUGzWzbJ3H5w",
       "channelName": " YTN",
       "collectedAt": "2025-08-27T19:05:18Z"
+    },
+    "vBCmc-iJ8hs": {
+      "videoId": "vBCmc-iJ8hs",
+      "title": "(NAM) 성 김(美 6자회담 수석대표) \"北비핵화 확신 없이 협상 재개는 곤란\"",
+      "description": "성김 미 대북정책특별대표가 5일 오전 서울 종로구 도렴동 외교부청사에서 황준국 외교부 한반도평화교섭본부장과 면담 전 인사를 나누고 있다. /남강호 기자\n\n성김 \"北 비핵화 협조 전 북핵협상 재개하면 실수\"\n\nhttp://news.chosun.com/site/data/html_dir/2014/12/05/2014120502412.html",
+      "publishedAt": "2014-12-05T17:24:51Z",
+      "duration": "PT1M32S",
+      "viewCount": 277,
+      "likeCount": 2,
+      "commentCount": 0,
+      "tags": [
+        "성김",
+        "미 대북정책특별대표",
+        "황준국",
+        "외교부",
+        "한반도평화교섭본부장",
+        "남강호 기자",
+        "조선일보",
+        "북핵",
+        "핵문제",
+        "대북정책",
+        "6자 회담",
+        "Six-party Talks",
+        "Sung Kim (Politician)",
+        "Nuclear Disarmament (Film Subject)",
+        "Politics (TV Genre)"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2014-12-05T17:24:51Z",
+      "channelId": "UCdp4_yTBhQmB8E339Lafzow",
+      "channelName": "조선일보",
+      "collectedAt": "2025-09-03T10:02:45Z"
+    },
+    "G8Wdwmp7omU": {
+      "videoId": "G8Wdwmp7omU",
+      "title": "서해안 45년만의 폭설",
+      "description": "5일 충남 서산시 부석면 한 농가의 비닐하우스가 눈의 무게를 이기지 못하고 뼈대가 엿가락처럼 휘어져 있다. 충남 서산·태안지역으로 기록적인 폭설이 내리면서 농가 피해가 잇따르고 있다./신현종 기자",
+      "publishedAt": "2014-12-05T15:51:57Z",
+      "duration": "PT1M20S",
+      "viewCount": 439,
+      "likeCount": 1,
+      "commentCount": 0,
+      "tags": [
+        "눈폭탄",
+        "서해안",
+        "폭설",
+        "눈 피해",
+        "신현종"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2014-12-05T15:51:57Z",
+      "channelId": "UCdp4_yTBhQmB8E339Lafzow",
+      "channelName": "조선일보",
+      "collectedAt": "2025-09-03T10:02:45Z"
+    },
+    "sRC8A7W1TaQ": {
+      "videoId": "sRC8A7W1TaQ",
+      "title": "코스맥스(Cosmax) 이경수 회장",
+      "description": "코스맥스(Cosmax) 이경수 회장이 2014년 11월 2일 경기도 성남시 판교 본사에서 코스맥스 세계 진출 현황을 표시한 지도 앞에서 포즈를 취하고 있다. /오종찬 기자\n\n[장일현 기자의 인&아웃] 의약품 팔던 세일즈맨, 세계 화장품 '숨은 강자'로\n\nhttp://premium.chosun.com/site/data/html_dir/2014/12/05/2014120502193.html",
+      "publishedAt": "2014-12-05T15:36:46Z",
+      "duration": "PT53S",
+      "viewCount": 1486,
+      "likeCount": 0,
+      "commentCount": 0,
+      "tags": [
+        "코스맥스",
+        "Cosmax",
+        "이경수 회장",
+        "오종찬 기자",
+        "화장품",
+        "조선일보"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2014-12-05T15:36:46Z",
+      "channelId": "UCdp4_yTBhQmB8E339Lafzow",
+      "channelName": "조선일보",
+      "collectedAt": "2025-09-03T10:02:45Z"
     }
   },
   "channels": {
@@ -484,9 +564,36 @@
       "viewCount": 17649222300,
       "videoCount": 890317,
       "lastUpdated": "2025-08-29T02:43:54.446726Z"
+    },
+    "UCdp4_yTBhQmB8E339Lafzow": {
+      "channelId": "UCdp4_yTBhQmB8E339Lafzow",
+      "channelName": "조선일보",
+      "channelUrl": "@chosunmedia",
+      "channelDescription": " 조선일보 공식 유튜브 채널",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 1700000,
+      "viewCount": 1669752256,
+      "videoCount": 22783,
+      "lastUpdated": "2025-09-03T10:02:45.436528Z"
     }
   },
-  "lastUpdated": "2025-08-29T02:43:54.446726Z",
-  "totalVideos": 12,
-  "totalChannels": 2
+  "lastUpdated": "2025-09-03T10:02:45.436528Z",
+  "totalVideos": 15,
+  "totalChannels": 3
 }

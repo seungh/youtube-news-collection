@@ -3819,6 +3819,36 @@
       "channelId": "UCTHCOPwqNfZ0uiKOvFyhGwg",
       "channelName": "연합뉴스TV",
       "collectedAt": "2025-08-29T02:43:32Z"
+    },
+    "dwEy1kYzIrM": {
+      "videoId": "dwEy1kYzIrM",
+      "title": "[두잇터] 계획없이 평창 가면 생기는 일.avi / 조선일보",
+      "description": "계획없이 평창가도 올림픽을 느낄 수 있을까?\n\n\"계획을 세우면 무엇하리 계획대로 되는 것이 없거늘~\"\n무계획 인생 28년차가 계획없이 올림픽으로 뜨겁게 달궈진 평창으로 떠났다.\n\nKTX 좌석은 있을까?\n숙박은 바가지를 쓰지 않을까?\n정녕 맛집은 포기해야 하는 것인가?\n아무런 사전정보 없이 평창에 가면 어떻게 되는지 두잇터가 직접 가봤다.\n \"1박 2일동안 펼처지는 짠내폭발 고군분투 출장기\"\n\n\n/ 양부용 기자, 김유섭기자\n\n#조선일보 #두잇터 #평창 #조선 #뉴스 #사회 #이슈 #올림픽 #자원봉사자 #평창동계올림픽 #특집 #숙소 #겨울",
+      "publishedAt": "2018-02-14T15:13:54Z",
+      "duration": "PT4M57S",
+      "viewCount": 24578,
+      "likeCount": 118,
+      "commentCount": 21,
+      "tags": [
+        "평창",
+        "평창올림픽",
+        "두잇터",
+        "평창특집",
+        "평창숙소",
+        "평창티켓",
+        "평창개막식",
+        "개막식",
+        "pyeongchang",
+        "PyeongchangOlympic",
+        "pyeongchang2018",
+        "Doiter"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2018-02-14T15:13:54Z",
+      "channelId": "UCdp4_yTBhQmB8E339Lafzow",
+      "channelName": "조선일보",
+      "collectedAt": "2025-09-03T10:02:43Z"
     }
   },
   "channels": {
@@ -4172,9 +4202,36 @@
       "viewCount": 3351994752,
       "videoCount": 627296,
       "lastUpdated": "2025-08-29T02:43:32.823916Z"
+    },
+    "UCdp4_yTBhQmB8E339Lafzow": {
+      "channelId": "UCdp4_yTBhQmB8E339Lafzow",
+      "channelName": "조선일보",
+      "channelUrl": "@chosunmedia",
+      "channelDescription": " 조선일보 공식 유튜브 채널",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 1700000,
+      "viewCount": 1669752256,
+      "videoCount": 22783,
+      "lastUpdated": "2025-09-03T10:02:43.761530Z"
     }
   },
-  "lastUpdated": "2025-08-29T02:43:32.823916Z",
-  "totalVideos": 132,
-  "totalChannels": 13
+  "lastUpdated": "2025-09-03T10:02:43.761530Z",
+  "totalVideos": 133,
+  "totalChannels": 14
 }

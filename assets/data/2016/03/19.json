@@ -423,6 +423,40 @@
       "channelId": "UCTHCOPwqNfZ0uiKOvFyhGwg",
       "channelName": "연합뉴스TV",
       "collectedAt": "2025-08-29T02:43:16Z"
+    },
+    "C51BcJXxM4k": {
+      "videoId": "C51BcJXxM4k",
+      "title": "안철수, “대한민국이 큰 위기에 빠져있다.”",
+      "description": "국민의당 안철수 상임공동대표가 17일 세종시 농협예식장에서 세종시당 창당대회를 열고 선거에서 캐스팅보트 역할을 해온 세종시 공략에 나섰다. 이날 안대표는 국민의당 공동대표는 기득권 양당구조를 타파하는데 당원들이 힘을 모아줄 것을 당부했다. /신현종 기자",
+      "publishedAt": "2016-03-18T16:17:35Z",
+      "duration": "PT2M29S",
+      "viewCount": 388,
+      "likeCount": 7,
+      "commentCount": 0,
+      "tags": [
+        "안철수",
+        "문재인",
+        "국민의당",
+        "김한길",
+        "안철수 대표",
+        "국민의당 세종시당",
+        "국회의원 선거",
+        "새누리당",
+        "더불어민주당",
+        "천정배",
+        "안철수 정치",
+        "안철수 선거",
+        "안철수 세종",
+        "국민의당 안철수",
+        "안철수 기자회견",
+        "신현종"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2016-03-18T16:17:35Z",
+      "channelId": "UCdp4_yTBhQmB8E339Lafzow",
+      "channelName": "조선일보",
+      "collectedAt": "2025-09-03T10:02:44Z"
     }
   },
   "channels": {
@@ -560,9 +594,36 @@
       "viewCount": 3351994752,
       "videoCount": 627296,
       "lastUpdated": "2025-08-29T02:43:16.288904Z"
+    },
+    "UCdp4_yTBhQmB8E339Lafzow": {
+      "channelId": "UCdp4_yTBhQmB8E339Lafzow",
+      "channelName": "조선일보",
+      "channelUrl": "@chosunmedia",
+      "channelDescription": " 조선일보 공식 유튜브 채널",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 1700000,
+      "viewCount": 1669752256,
+      "videoCount": 22783,
+      "lastUpdated": "2025-09-03T10:02:44.590684Z"
     }
   },
-  "lastUpdated": "2025-08-29T02:43:16.288904Z",
-  "totalVideos": 15,
-  "totalChannels": 5
+  "lastUpdated": "2025-09-03T10:02:44.590684Z",
+  "totalVideos": 16,
+  "totalChannels": 6
 }

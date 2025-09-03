@@ -4942,6 +4942,49 @@
       "channelId": "UCTHCOPwqNfZ0uiKOvFyhGwg",
       "channelName": "연합뉴스TV",
       "collectedAt": "2025-08-29T02:42:58Z"
+    },
+    "RbgaQiyT3yM": {
+      "videoId": "RbgaQiyT3yM",
+      "title": "[기사+] 안전 사각지대 놓인 5층 이하 건물 철거 현장",
+      "description": "▼ 동아일보 SNS\n\n· 동아일보 네이버 포스트\nhttp://post.naver.com/my.nhn?memberNo...\n\n· 동아일보 페이스북\nhttps://www.facebook.com/dongamedia/\n\n· 동아일보 인스타그램\nhttps://www.instagram.com/dongailbo/",
+      "publishedAt": "2019-07-07T08:47:09Z",
+      "duration": "PT43S",
+      "viewCount": 1092,
+      "likeCount": 1,
+      "commentCount": 0,
+      "tags": [],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2019-07-07T08:47:09Z",
+      "channelId": "UCnHyx6H7fhKfUoAAaVGYvxQ",
+      "channelName": "동아일보",
+      "collectedAt": "2025-09-03T10:00:36Z"
+    },
+    "JrX9ZlJSWlk": {
+      "videoId": "JrX9ZlJSWlk",
+      "title": "‘미아 따릉이’ 집 찾아주는 사람은 누구일까요? ｜이슈파이 ‘따릉이 구출기’ ①",
+      "description": "서울시 공공자전거 대여 서비스, 따릉이. 자전거로 이동하기에 좋은 거리들을 쉽고 빠르게 이동할 수 있는 수단입니다. 그런데 이렇게 편리한 따릉이를 아무데나 두고 가는 사람들도 있다고 하는데요. 매일 ‘미아 따릉이’를 찾아나서는 ‘따릉이 배송반’을 만나봤습니다!\n\n〈취재 임아영 기자 layknt@kyunghyang.com\n제작 이바미 인턴 PD bamilee@kyunghyang.com〉\n\n#따릉이 #박원순 #자전거\n\n경향신문 홈페이지 http://www.khan.co.kr/\n\n경향신문 페이스북 https://www.facebook.com/kyunghyangshinmun\n\n경향신문 트위터 https://twitter.com/kyunghyang\n\n스포츠경향 홈페이지 http://sports.khan.co.kr/ \n\n스포츠경향 페이스북 https://www.facebook.com/sportkh\n\n스포츠경향 트위터 https://twitter.com/sportskh",
+      "publishedAt": "2019-07-07T08:00:05Z",
+      "duration": "PT3M59S",
+      "viewCount": 2538,
+      "likeCount": 21,
+      "commentCount": 1,
+      "tags": [
+        "경향신문",
+        "따릉이",
+        "박원순",
+        "자전거",
+        "라이딩",
+        "서울시",
+        "타랑께",
+        "공공자전거"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2019-07-07T08:00:05Z",
+      "channelId": "UCHXvjavEtkPFJCfGlm0wTXw",
+      "channelName": "경향티비",
+      "collectedAt": "2025-09-03T10:00:36Z"
     }
   },
   "channels": {
@@ -5187,9 +5230,63 @@
       "viewCount": 3278386064,
       "videoCount": 233358,
       "lastUpdated": "2025-08-29T02:42:58.366805Z"
+    },
+    "UCnHyx6H7fhKfUoAAaVGYvxQ": {
+      "channelId": "UCnHyx6H7fhKfUoAAaVGYvxQ",
+      "channelName": "동아일보",
+      "channelUrl": "@donga-ilbo",
+      "channelDescription": "동아일보 공식 유튜브 채널입니다. \n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/S1eWLrew2Jjv-JLrGqkADPNPJF5u7qzpYE3o8_NoLbH7fVTjtFm9TYlxfOjbB3dH5Lw6qKM-MQ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/S1eWLrew2Jjv-JLrGqkADPNPJF5u7qzpYE3o8_NoLbH7fVTjtFm9TYlxfOjbB3dH5Lw6qKM-MQ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/S1eWLrew2Jjv-JLrGqkADPNPJF5u7qzpYE3o8_NoLbH7fVTjtFm9TYlxfOjbB3dH5Lw6qKM-MQ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 107000,
+      "viewCount": 47341564,
+      "videoCount": 4079,
+      "lastUpdated": "2025-09-03T10:00:36.903627Z"
+    },
+    "UCHXvjavEtkPFJCfGlm0wTXw": {
+      "channelId": "UCHXvjavEtkPFJCfGlm0wTXw",
+      "channelName": "경향티비",
+      "channelUrl": "@thekyunghyangtv",
+      "channelDescription": "더 나은 세상을 위해 우리가 알아야 할 이야기\n경향신문 공식 채널\n\n🚨 [정치비상구] 출구없는 극단 정치, 비상구를 열어드립니다\n🎙️ 매주 월-금 오후 4시 라이브 ｜ 토요특별판 낮 12시\n🎙️ 정치인물사담회 '인물비상구' 일요일 오후 4시\n 📞광고/제휴 문의 : insaps10@gmail.com\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/6Wlbqcuxx1ESFI2U-gQqhHyYpJ-PiWgqyjotWwD9VN5JygRnIuUvZE1LjUMwKNbb5LqRCEM4kpQ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/6Wlbqcuxx1ESFI2U-gQqhHyYpJ-PiWgqyjotWwD9VN5JygRnIuUvZE1LjUMwKNbb5LqRCEM4kpQ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/6Wlbqcuxx1ESFI2U-gQqhHyYpJ-PiWgqyjotWwD9VN5JygRnIuUvZE1LjUMwKNbb5LqRCEM4kpQ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 537000,
+      "viewCount": 354014202,
+      "videoCount": 11630,
+      "lastUpdated": "2025-09-03T10:00:36.903627Z"
     }
   },
-  "lastUpdated": "2025-08-29T02:42:58.366805Z",
-  "totalVideos": 150,
-  "totalChannels": 9
+  "lastUpdated": "2025-09-03T10:00:36.903627Z",
+  "totalVideos": 152,
+  "totalChannels": 11
 }

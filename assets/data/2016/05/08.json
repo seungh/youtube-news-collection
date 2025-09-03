@@ -395,6 +395,69 @@
       "channelId": "UCTHCOPwqNfZ0uiKOvFyhGwg",
       "channelName": "연합뉴스TV",
       "collectedAt": "2025-08-29T02:43:36Z"
+    },
+    "iRj2rRXxr2k": {
+      "videoId": "iRj2rRXxr2k",
+      "title": "[Video C] 2016 멍때리기 대회 참가자들의 사연",
+      "description": "7일 오후 경기도 수원 화성(華城) 창룡문에서 열린 '2016 국제 멍때리기 대회'에서 참가자들이 잔디밭에 앉아 아무런 행동도 하지 않는 소위 '멍때리기'를 하고 있다.  / 김채호 기자",
+      "publishedAt": "2016-05-08T07:35:54Z",
+      "duration": "PT1M21S",
+      "viewCount": 6740,
+      "likeCount": 4,
+      "commentCount": 0,
+      "tags": [
+        "김채호",
+        "멍때리기",
+        "창룡문"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2016-05-08T07:35:54Z",
+      "channelId": "UCdp4_yTBhQmB8E339Lafzow",
+      "channelName": "조선일보",
+      "collectedAt": "2025-09-03T10:02:44Z"
+    },
+    "SN6sDsSOHpg": {
+      "videoId": "SN6sDsSOHpg",
+      "title": "[Video C] 2016 멍때리기 대회의 생생한 현장",
+      "description": "7일 오후 경기도 수원 화성(華城) 창룡문에서 열린 '2016 국제 멍때리기 대회'에서 참가자들이 잔디밭에 앉아 아무런 행동도 하지 않는 소위 '멍때리기'를 하고 있다.  / 김채호 기자",
+      "publishedAt": "2016-05-08T07:35:44Z",
+      "duration": "PT1M25S",
+      "viewCount": 9991,
+      "likeCount": 13,
+      "commentCount": 7,
+      "tags": [
+        "김채호",
+        "멍때리기",
+        "창룡문"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2016-05-08T07:35:44Z",
+      "channelId": "UCdp4_yTBhQmB8E339Lafzow",
+      "channelName": "조선일보",
+      "collectedAt": "2025-09-03T10:02:44Z"
+    },
+    "P1_wYYn66fE": {
+      "videoId": "P1_wYYn66fE",
+      "title": "[Video C] 2016 멍때리기 대회 시상식",
+      "description": "7일 오후 경기도 수원 화성(華城) 창룡문에서 열린 '2016 국제 멍때리기 대회'에서 참가자들이 잔디밭에 앉아 아무런 행동도 하지 않는 소위 '멍때리기'를 하고 있다.  / 김채호 기자",
+      "publishedAt": "2016-05-08T07:35:29Z",
+      "duration": "PT58S",
+      "viewCount": 1500,
+      "likeCount": 4,
+      "commentCount": 0,
+      "tags": [
+        "김채호",
+        "멍때리기",
+        "창룡문"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2016-05-08T07:35:29Z",
+      "channelId": "UCdp4_yTBhQmB8E339Lafzow",
+      "channelName": "조선일보",
+      "collectedAt": "2025-09-03T10:02:44Z"
     }
   },
   "channels": {
@@ -532,9 +595,36 @@
       "viewCount": 17649222300,
       "videoCount": 890317,
       "lastUpdated": "2025-08-29T02:43:36.064043Z"
+    },
+    "UCdp4_yTBhQmB8E339Lafzow": {
+      "channelId": "UCdp4_yTBhQmB8E339Lafzow",
+      "channelName": "조선일보",
+      "channelUrl": "@chosunmedia",
+      "channelDescription": " 조선일보 공식 유튜브 채널",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 1700000,
+      "viewCount": 1669752256,
+      "videoCount": 22783,
+      "lastUpdated": "2025-09-03T10:02:44.527828Z"
     }
   },
-  "lastUpdated": "2025-08-29T02:43:36.064043Z",
-  "totalVideos": 14,
-  "totalChannels": 5
+  "lastUpdated": "2025-09-03T10:02:44.527828Z",
+  "totalVideos": 17,
+  "totalChannels": 6
 }

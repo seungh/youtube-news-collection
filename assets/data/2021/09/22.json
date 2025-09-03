@@ -7808,6 +7808,78 @@
       "channelId": "UCTHCOPwqNfZ0uiKOvFyhGwg",
       "channelName": "연합뉴스TV",
       "collectedAt": "2025-08-29T02:42:12Z"
+    },
+    "TPWydYYuJ1w": {
+      "videoId": "TPWydYYuJ1w",
+      "title": "[11시 김광일 쇼] 추석 특집! 문재인 정권의 '자살골' 모음집",
+      "description": "[타임라인]\n00:00 '11시 김광일 쇼' 문재인 정권의 자살골 모음집!\n00:19 김경수의 징역 확정, 추미애가 쏘아 올린 공\n02:46 언론법의 핵심 인물, 'GSGG' 김승원 의원\n11:22 우산차관과 인형장관, 문 정부의 연기자들\n15:35 \"경인선에 가자!\" 김정숙 여사의 외침\n18:39 김어준, 재갈법 1호? 그들의 덫에 걸렸다\n\n🔸 조선닷컴 공식 홈페이지 http://www.chosun.com\n🔸 조선일보 무료 구독 체험 http://bit.ly/2WnNAF7\n🔸 조선비즈 공식 홈페이지 http://biz.chosun.com\n🔸 공식 페이스북 https://www.facebook.com/chosun\n🔸 공식 트위터 https://twitter.com/chosun\n\n◈ 사실에 대한 믿음, 할 말을 하는 용기. 조선일보◈\n\n#추미애 #김승원 #우산차관 #김정숙여사 #김어준",
+      "publishedAt": "2021-09-22T02:00:05Z",
+      "duration": "PT24M40S",
+      "viewCount": 293753,
+      "likeCount": 22558,
+      "commentCount": 761,
+      "tags": [
+        "조선일보",
+        "조선",
+        "언론",
+        "이슈",
+        "신문",
+        "방송",
+        "뉴스",
+        "정치",
+        "속보",
+        "김광일",
+        "11시김광일쇼",
+        "김광일의입",
+        "김광일 쇼",
+        "문재인",
+        "문재인 정권",
+        "문 정권",
+        "문정부",
+        "문재인 정부",
+        "뭉가",
+        "문재앙",
+        "문죄인",
+        "재앙",
+        "추미애",
+        "자살골",
+        "gsgg",
+        "김승원",
+        "우산차관",
+        "박범계",
+        "법무부장관",
+        "인형장관",
+        "김어준",
+        "어준이",
+        "tbs",
+        "교통방송",
+        "김어준의 뉴스공장",
+        "다스뵈이다",
+        "경인선",
+        "드루킹",
+        "김경수",
+        "김정숙",
+        "김정숙 여사",
+        "문재인 김정숙",
+        "모음집",
+        "추석",
+        "연휴",
+        "명언",
+        "티비조선",
+        "초선",
+        "국민의힘",
+        "국힘",
+        "국짐당",
+        "더불어민주당",
+        "민주당",
+        "더민주"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2021-09-22T02:00:05Z",
+      "channelId": "UCdp4_yTBhQmB8E339Lafzow",
+      "channelName": "조선일보",
+      "collectedAt": "2025-09-03T10:02:37Z"
     }
   },
   "channels": {
@@ -8323,9 +8395,36 @@
       "viewCount": 3351994752,
       "videoCount": 627296,
       "lastUpdated": "2025-08-29T02:42:12.172367Z"
+    },
+    "UCdp4_yTBhQmB8E339Lafzow": {
+      "channelId": "UCdp4_yTBhQmB8E339Lafzow",
+      "channelName": "조선일보",
+      "channelUrl": "@chosunmedia",
+      "channelDescription": " 조선일보 공식 유튜브 채널",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 1700000,
+      "viewCount": 1669752256,
+      "videoCount": 22783,
+      "lastUpdated": "2025-09-03T10:02:37.908449Z"
     }
   },
-  "lastUpdated": "2025-08-29T02:42:12.172367Z",
-  "totalVideos": 277,
-  "totalChannels": 19
+  "lastUpdated": "2025-09-03T10:02:37.908449Z",
+  "totalVideos": 278,
+  "totalChannels": 20
 }

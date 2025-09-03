@@ -7455,6 +7455,25 @@
       "channelId": "UCTHCOPwqNfZ0uiKOvFyhGwg",
       "channelName": "연합뉴스TV",
       "collectedAt": "2025-08-29T02:42:28Z"
+    },
+    "PmTr0DjMQKU": {
+      "videoId": "PmTr0DjMQKU",
+      "title": "[핀터뷰] 우리가 알아야 할 ‘방송작가’ 이야기",
+      "description": "어릴 때부터 TV를 매우 좋아했고 자연스럽게 방송작가에 입문했다. 일을 시작하고 보니 기획부터 구성, 출연자 섭외, 대본 작성, 방송이 나간 뒤 모든 과정에 작가의 품이 들어가야 했다. 밤낮없이 바쁜 일상이 이어졌지만, 프리랜서라 쉬는 것도 여의치 않았다. 서러울 때도 있지만 방송이 끝나고 마지막 화면에 뜨는 내 이름을 보면 힘듦이 해소됐다. 다른 지역에 사는 부모님에게 내가 참여한 방송을 통해 생존신고를 하고 방송이 재미있다는 지인들의 얘기에 밀려드는 뿌듯함으로 막내작가 시절을 버텼다. 14년, 11년 경력의 방송작가인 홍지해씨와 김나영씨가 들려주는 우리가 알아야 할 방송작가 이야기를 만나보자.\n\n#방송작가 #북킷리스트 #구성작가\n\n📝 기사 보기│👉 https://bit.ly/38fmnuB\n\n🔍러닝전도사가 된 안정은씨의 이야기가 궁금하다면\n│관련 기사 👉https://bit.ly/2JFLm1H\n│관련 영상 👉https://bit.ly/38d2wfq\n\n〈취재 이진주 기자 / 제작 유명종 PD yoopd@khan.kr〉",
+      "publishedAt": "2020-12-18T23:00:18Z",
+      "duration": "PT11M9S",
+      "viewCount": 6041,
+      "likeCount": 94,
+      "commentCount": 5,
+      "tags": [
+        "경향신문"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2020-12-18T23:00:18Z",
+      "channelId": "UCHXvjavEtkPFJCfGlm0wTXw",
+      "channelName": "경향티비",
+      "collectedAt": "2025-09-03T10:02:09Z"
     }
   },
   "channels": {
@@ -7862,9 +7881,36 @@
       "viewCount": 3278386064,
       "videoCount": 233358,
       "lastUpdated": "2025-08-29T02:42:28.485231Z"
+    },
+    "UCHXvjavEtkPFJCfGlm0wTXw": {
+      "channelId": "UCHXvjavEtkPFJCfGlm0wTXw",
+      "channelName": "경향티비",
+      "channelUrl": "@thekyunghyangtv",
+      "channelDescription": "더 나은 세상을 위해 우리가 알아야 할 이야기\n경향신문 공식 채널\n\n🚨 [정치비상구] 출구없는 극단 정치, 비상구를 열어드립니다\n🎙️ 매주 월-금 오후 4시 라이브 ｜ 토요특별판 낮 12시\n🎙️ 정치인물사담회 '인물비상구' 일요일 오후 4시\n 📞광고/제휴 문의 : insaps10@gmail.com\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/6Wlbqcuxx1ESFI2U-gQqhHyYpJ-PiWgqyjotWwD9VN5JygRnIuUvZE1LjUMwKNbb5LqRCEM4kpQ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/6Wlbqcuxx1ESFI2U-gQqhHyYpJ-PiWgqyjotWwD9VN5JygRnIuUvZE1LjUMwKNbb5LqRCEM4kpQ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/6Wlbqcuxx1ESFI2U-gQqhHyYpJ-PiWgqyjotWwD9VN5JygRnIuUvZE1LjUMwKNbb5LqRCEM4kpQ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 537000,
+      "viewCount": 354014202,
+      "videoCount": 11630,
+      "lastUpdated": "2025-09-03T10:02:09.210147Z"
     }
   },
-  "lastUpdated": "2025-08-29T02:42:28.485231Z",
-  "totalVideos": 197,
-  "totalChannels": 15
+  "lastUpdated": "2025-09-03T10:02:09.210147Z",
+  "totalVideos": 198,
+  "totalChannels": 16
 }

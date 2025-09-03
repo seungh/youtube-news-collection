@@ -11531,6 +11531,38 @@
       "channelId": "UCTHCOPwqNfZ0uiKOvFyhGwg",
       "channelName": "연합뉴스TV",
       "collectedAt": "2025-08-29T02:43:21Z"
+    },
+    "okhhY3eGOLU": {
+      "videoId": "okhhY3eGOLU",
+      "title": "[Video C] 북한 풍계리 핵실험장 폭파 장면 / 조선일보",
+      "description": "지난 24일 북한이 핵실험장을 폭파했다.\n\n#조선일보 #실시간뉴스 #북한 #풍계리 #핵실험장 #폭파",
+      "publishedAt": "2018-05-25T03:03:52Z",
+      "duration": "PT1M14S",
+      "viewCount": 5007,
+      "likeCount": 6,
+      "commentCount": 1,
+      "tags": [
+        "조선일보",
+        "조선",
+        "뉴스",
+        "신문",
+        "이슈",
+        "영상",
+        "실시간",
+        "북한",
+        "풍계리",
+        "핵",
+        "비핵",
+        "폭파",
+        "핵실험장",
+        "남북"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2018-05-25T03:03:52Z",
+      "channelId": "UCdp4_yTBhQmB8E339Lafzow",
+      "channelName": "조선일보",
+      "collectedAt": "2025-09-03T10:02:43Z"
     }
   },
   "channels": {
@@ -11884,9 +11916,36 @@
       "viewCount": 3351994752,
       "videoCount": 627296,
       "lastUpdated": "2025-08-29T02:43:21.201145Z"
+    },
+    "UCdp4_yTBhQmB8E339Lafzow": {
+      "channelId": "UCdp4_yTBhQmB8E339Lafzow",
+      "channelName": "조선일보",
+      "channelUrl": "@chosunmedia",
+      "channelDescription": " 조선일보 공식 유튜브 채널",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 1700000,
+      "viewCount": 1669752256,
+      "videoCount": 22783,
+      "lastUpdated": "2025-09-03T10:02:43.643614Z"
     }
   },
-  "lastUpdated": "2025-08-29T02:43:21.201145Z",
-  "totalVideos": 322,
-  "totalChannels": 13
+  "lastUpdated": "2025-09-03T10:02:43.643614Z",
+  "totalVideos": 323,
+  "totalChannels": 14
 }

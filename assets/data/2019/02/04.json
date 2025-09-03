@@ -4273,6 +4273,55 @@
       "channelId": "UCTHCOPwqNfZ0uiKOvFyhGwg",
       "channelName": "연합뉴스TV",
       "collectedAt": "2025-08-29T02:43:29Z"
+    },
+    "wSh-ZH3HFxM": {
+      "videoId": "wSh-ZH3HFxM",
+      "title": "[김광일의 입] ep46. 안전운전 하라는 대통령님, 본인 운전은 어떠신가요?",
+      "description": "대통령은 국민들의 안전벨트를 걱정하고 있다. 그러나 국민들은 대통령이 걱정이다. 안전벨트가 필요한 사람은 대통령이다. 특히 경제 상황은 낙하산 없이 뛰어내리는 형국이다.\n\n🔸 조선닷컴 공식 홈페이지 http://www.chosun.com\n🔸 조선비즈 공식 홈페이지 http://www.biz.chosun.com\n🔸 공식 페이스북 : https://www.facebook.com/chosun\n🔸 공식 트위터 : https://twitter.com/chosun\n\n◈ 사실에 대한 믿음, 할 말을 하는 용기. 조선일보◈\n\n#조선일보 #뉴스 #속보 #제보",
+      "publishedAt": "2019-02-04T13:10:02Z",
+      "duration": "PT5M28S",
+      "viewCount": 123819,
+      "likeCount": 9661,
+      "commentCount": 774,
+      "tags": [
+        "사건사고",
+        "국제",
+        "문화",
+        "라이프",
+        "이슈",
+        "인터뷰",
+        "조선일보 지면보기",
+        "조선일보 기사",
+        "두잇터",
+        "김광일의 입",
+        "조선라이브",
+        "취재현장",
+        "늇",
+        "방상훈",
+        "조선일보 손녀",
+        "속보",
+        "제보",
+        "조선일보",
+        "문재인",
+        "문재앙",
+        "문재인 설인사",
+        "김경수",
+        "손혜원",
+        "이해찬",
+        "홍준표",
+        "유시민",
+        "이언주",
+        "하태경",
+        "배진현",
+        "청와대",
+        "더불어민주당"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2019-02-04T13:10:02Z",
+      "channelId": "UCdp4_yTBhQmB8E339Lafzow",
+      "channelName": "조선일보",
+      "collectedAt": "2025-09-03T10:02:40Z"
     }
   },
   "channels": {
@@ -4626,9 +4675,36 @@
       "viewCount": 3351994752,
       "videoCount": 627296,
       "lastUpdated": "2025-08-29T02:43:29.277879Z"
+    },
+    "UCdp4_yTBhQmB8E339Lafzow": {
+      "channelId": "UCdp4_yTBhQmB8E339Lafzow",
+      "channelName": "조선일보",
+      "channelUrl": "@chosunmedia",
+      "channelDescription": " 조선일보 공식 유튜브 채널",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 1700000,
+      "viewCount": 1669752256,
+      "videoCount": 22783,
+      "lastUpdated": "2025-09-03T10:02:40.754408Z"
     }
   },
-  "lastUpdated": "2025-08-29T02:43:29.277879Z",
-  "totalVideos": 135,
-  "totalChannels": 13
+  "lastUpdated": "2025-09-03T10:02:40.754408Z",
+  "totalVideos": 136,
+  "totalChannels": 14
 }

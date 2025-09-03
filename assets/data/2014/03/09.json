@@ -125,6 +125,83 @@
       "channelId": "UChlgI3UHCOnwUGzWzbJ3H5w",
       "channelName": " YTN",
       "collectedAt": "2025-08-27T19:05:15Z"
+    },
+    "ed_tCnhyYww": {
+      "videoId": "ed_tCnhyYww",
+      "title": "빙판길 고속도로서 26중 추돌",
+      "description": "9일 오전 7시 10분께 충북 음성군 감곡면 중부내륙고속도로 하행선 감곡나들목 부근에서 김모씨가 몰던 아반떼 승용차 등 차량 26대가 충돌했다. 이 사고로 김씨 등 5명이 다쳐 인근 병원서 옮겨져 치료받았다. /신현종 기자\n\n중부내륙고속道, 빙판길에 미끌 '26중 추돌사고'\n\nhttp://news.chosun.com/site/data/html_dir/2014/03/09/2014030900954.html",
+      "publishedAt": "2014-03-09T14:44:42Z",
+      "duration": "PT1M9S",
+      "viewCount": 1408,
+      "likeCount": 0,
+      "commentCount": 0,
+      "tags": [
+        "26중충돌",
+        "교통사고",
+        "26중",
+        "고속도로",
+        "빙판길",
+        "중부내륙고속도로",
+        "신현종",
+        "조선일보"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2014-03-09T14:44:42Z",
+      "channelId": "UCdp4_yTBhQmB8E339Lafzow",
+      "channelName": "조선일보",
+      "collectedAt": "2025-09-03T10:02:46Z"
+    },
+    "8_UOU5Kjxro": {
+      "videoId": "8_UOU5Kjxro",
+      "title": "구례 산수유마을에 핀 노란물결",
+      "description": "9일 전남 구례군 산동면에 산수유가 노란 꽃망울을 터뜨리기 시작했다. 오는 22일부터 산수유축제가 열린다./김영근 기자",
+      "publishedAt": "2014-03-09T12:35:48Z",
+      "duration": "PT45S",
+      "viewCount": 449,
+      "likeCount": 1,
+      "commentCount": 0,
+      "tags": [],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2014-03-09T12:35:48Z",
+      "channelId": "UCdp4_yTBhQmB8E339Lafzow",
+      "channelName": "조선일보",
+      "collectedAt": "2025-09-03T10:02:46Z"
+    },
+    "Ov46JVmOOAE": {
+      "videoId": "Ov46JVmOOAE",
+      "title": "'백년의 신부'로 돌아 온 배우 김서라",
+      "description": "배우 김서라가 오랜 공백 기간 후 TV조선 주말 드라마 '백년의 신부'로 확 달리진 모습으로 돌아왔다. 그녀는 재벌가 안주인 '김명희' 역할을 맡으면서 그의 연기 인생에서 흔치 않았던 악역을 맡았다./ 성형주 기자\n\n눈빛부터 바꿨다, 품위있게 악해지기 위해\n\nhttp://news.chosun.com/site/data/html_dir/2014/03/10/2014031000107.html",
+      "publishedAt": "2014-03-09T11:57:01Z",
+      "duration": "PT2M12S",
+      "viewCount": 3989,
+      "likeCount": 18,
+      "commentCount": 6,
+      "tags": [],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2014-03-09T11:57:01Z",
+      "channelId": "UCdp4_yTBhQmB8E339Lafzow",
+      "channelName": "조선일보",
+      "collectedAt": "2025-09-03T10:02:46Z"
+    },
+    "mnkOhyt8mT4": {
+      "videoId": "mnkOhyt8mT4",
+      "title": "'조난자들'의 노영석 감독",
+      "description": "'조난자들'은 관객에게 두뇌 게임을 제안하거나 복선으로 장난을 치는 여느 스릴러와 다르다. 노영석 감독은 \"선입견으로 만들어진 오해와 상상력이 만들어가는 상황을 그리고 싶었다\"고 했다./ 김지호 기자\n\n노영석 감독은 펜션 영화 창시자?\n\nhttp://news.chosun.com/site/data/html_dir/2014/03/09/2014030902522.html",
+      "publishedAt": "2014-03-09T11:53:49Z",
+      "duration": "PT49S",
+      "viewCount": 773,
+      "likeCount": 7,
+      "commentCount": 1,
+      "tags": [],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2014-03-09T11:53:49Z",
+      "channelId": "UCdp4_yTBhQmB8E339Lafzow",
+      "channelName": "조선일보",
+      "collectedAt": "2025-09-03T10:02:46Z"
     }
   },
   "channels": {
@@ -181,9 +258,36 @@
       "viewCount": 17649222300,
       "videoCount": 890317,
       "lastUpdated": "2025-08-29T02:43:50.903859Z"
+    },
+    "UCdp4_yTBhQmB8E339Lafzow": {
+      "channelId": "UCdp4_yTBhQmB8E339Lafzow",
+      "channelName": "조선일보",
+      "channelUrl": "@chosunmedia",
+      "channelDescription": " 조선일보 공식 유튜브 채널",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 1700000,
+      "viewCount": 1669752256,
+      "videoCount": 22783,
+      "lastUpdated": "2025-09-03T10:02:46.730474Z"
     }
   },
-  "lastUpdated": "2025-08-29T02:43:50.903859Z",
-  "totalVideos": 5,
-  "totalChannels": 2
+  "lastUpdated": "2025-09-03T10:02:46.730474Z",
+  "totalVideos": 9,
+  "totalChannels": 3
 }

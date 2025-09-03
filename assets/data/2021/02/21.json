@@ -5373,6 +5373,51 @@
       "channelId": "UCTHCOPwqNfZ0uiKOvFyhGwg",
       "channelName": "연합뉴스TV",
       "collectedAt": "2025-08-29T02:42:20Z"
+    },
+    "BjT5zJLUCe0": {
+      "videoId": "BjT5zJLUCe0",
+      "title": "[기사+]집채만한 불이 코앞까지... 경북 안동 산불 현장",
+      "description": "영상제공 : 독자 김영한 씨\n\n▼ 동아일보 SNS\n\n· 동아일보 네이버 포스트\nhttps://post.naver.com/my.nhn?memberN​...\n\n· 동아일보 페이스북\nhttps://www.facebook.com/dongamedia/​\n\n· 동아일보 인스타그램\nhttps://www.instagram.com/dongailbo/",
+      "publishedAt": "2021-02-21T09:41:49Z",
+      "duration": "PT1M19S",
+      "viewCount": 8978,
+      "likeCount": 49,
+      "commentCount": 8,
+      "tags": [],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2021-02-21T09:41:49Z",
+      "channelId": "UCnHyx6H7fhKfUoAAaVGYvxQ",
+      "channelName": "동아일보",
+      "collectedAt": "2025-09-03T10:00:48Z"
+    },
+    "Rf2y2t7v9dg": {
+      "videoId": "Rf2y2t7v9dg",
+      "title": "'에어포켓에서 40시간 버텼다!' 경주 어선 전복 사고 물 속 구조 현장 영상",
+      "description": "'에어포켓에서 40시간 버텼다' 경주 어선 전복 사고 물 속 구조 현장 영상",
+      "publishedAt": "2021-02-21T07:20:55Z",
+      "duration": "PT1M19S",
+      "viewCount": 12454,
+      "likeCount": 23,
+      "commentCount": 5,
+      "tags": [
+        "어선",
+        "전복",
+        "사고",
+        "구조",
+        "해경",
+        "헬기",
+        "침몰",
+        "사건",
+        "구조대",
+        "현장"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2021-02-21T07:20:55Z",
+      "channelId": "UC1aS5CRRDrN6CmR2VcpmetA",
+      "channelName": "한국일보(hankookilbo.com)",
+      "collectedAt": "2025-09-03T10:00:48Z"
     }
   },
   "channels": {
@@ -5753,9 +5798,63 @@
       "viewCount": 3278386064,
       "videoCount": 233358,
       "lastUpdated": "2025-08-29T02:42:20.267395Z"
+    },
+    "UCnHyx6H7fhKfUoAAaVGYvxQ": {
+      "channelId": "UCnHyx6H7fhKfUoAAaVGYvxQ",
+      "channelName": "동아일보",
+      "channelUrl": "@donga-ilbo",
+      "channelDescription": "동아일보 공식 유튜브 채널입니다. \n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/S1eWLrew2Jjv-JLrGqkADPNPJF5u7qzpYE3o8_NoLbH7fVTjtFm9TYlxfOjbB3dH5Lw6qKM-MQ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/S1eWLrew2Jjv-JLrGqkADPNPJF5u7qzpYE3o8_NoLbH7fVTjtFm9TYlxfOjbB3dH5Lw6qKM-MQ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/S1eWLrew2Jjv-JLrGqkADPNPJF5u7qzpYE3o8_NoLbH7fVTjtFm9TYlxfOjbB3dH5Lw6qKM-MQ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 107000,
+      "viewCount": 47341564,
+      "videoCount": 4079,
+      "lastUpdated": "2025-09-03T10:00:48.257388Z"
+    },
+    "UC1aS5CRRDrN6CmR2VcpmetA": {
+      "channelId": "UC1aS5CRRDrN6CmR2VcpmetA",
+      "channelName": "한국일보(hankookilbo.com)",
+      "channelUrl": "@thehankookilbo",
+      "channelDescription": "'공존, 통합, 사람'의 정신으로 앞장서는 국내 유일 중도 정론지 한국일보입니다.\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ppj3UlPuwNq5DyUWNFz27Vc6WoIrRpRI2IMHc9MZ3UqkNVWcXrT83qJTU3bAweA3BOodFu4Euf0=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ppj3UlPuwNq5DyUWNFz27Vc6WoIrRpRI2IMHc9MZ3UqkNVWcXrT83qJTU3bAweA3BOodFu4Euf0=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ppj3UlPuwNq5DyUWNFz27Vc6WoIrRpRI2IMHc9MZ3UqkNVWcXrT83qJTU3bAweA3BOodFu4Euf0=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 362000,
+      "viewCount": 296027619,
+      "videoCount": 6196,
+      "lastUpdated": "2025-09-03T10:00:48.258382Z"
     }
   },
-  "lastUpdated": "2025-08-29T02:42:20.268392Z",
-  "totalVideos": 164,
-  "totalChannels": 14
+  "lastUpdated": "2025-09-03T10:00:48.258382Z",
+  "totalVideos": 166,
+  "totalChannels": 16
 }

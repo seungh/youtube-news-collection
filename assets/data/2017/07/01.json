@@ -842,6 +842,29 @@
       "channelId": "UCTHCOPwqNfZ0uiKOvFyhGwg",
       "channelName": "연합뉴스TV",
       "collectedAt": "2025-08-29T02:43:14Z"
+    },
+    "-YTVaREj_wo": {
+      "videoId": "-YTVaREj_wo",
+      "title": "[두잇터] 거꾸로수박바를 거꾸로 먹어보았다 / 조선일보",
+      "description": "거꾸로수박바는 무슨 맛?\n\n#조선일보 #두잇터 #수박바 #조선 #뉴스 #사회 #이슈 #아이스크림 #먹방 #거꾸로수박바 #롯데 #로꾸꺼",
+      "publishedAt": "2017-07-01T12:09:52Z",
+      "duration": "PT1M28S",
+      "viewCount": 2088,
+      "likeCount": 3,
+      "commentCount": 0,
+      "tags": [
+        "#거꾸로수박바",
+        "#수박바",
+        "#로꾸거",
+        "#거꾸로",
+        "#롯데제과"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2017-07-01T12:09:52Z",
+      "channelId": "UCdp4_yTBhQmB8E339Lafzow",
+      "channelName": "조선일보",
+      "collectedAt": "2025-09-03T10:02:44Z"
     }
   },
   "channels": {
@@ -1006,9 +1029,36 @@
       "viewCount": 3351994752,
       "videoCount": 627296,
       "lastUpdated": "2025-08-29T02:43:14.877810Z"
+    },
+    "UCdp4_yTBhQmB8E339Lafzow": {
+      "channelId": "UCdp4_yTBhQmB8E339Lafzow",
+      "channelName": "조선일보",
+      "channelUrl": "@chosunmedia",
+      "channelDescription": " 조선일보 공식 유튜브 채널",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 1700000,
+      "viewCount": 1669752256,
+      "videoCount": 22783,
+      "lastUpdated": "2025-09-03T10:02:44.050027Z"
     }
   },
-  "lastUpdated": "2025-08-29T02:43:14.877810Z",
-  "totalVideos": 31,
-  "totalChannels": 6
+  "lastUpdated": "2025-09-03T10:02:44.050027Z",
+  "totalVideos": 32,
+  "totalChannels": 7
 }

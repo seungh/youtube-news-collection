@@ -11229,6 +11229,33 @@
       "channelId": "UCTHCOPwqNfZ0uiKOvFyhGwg",
       "channelName": "연합뉴스TV",
       "collectedAt": "2025-08-29T02:43:29Z"
+    },
+    "U4tHyrUvZkk": {
+      "videoId": "U4tHyrUvZkk",
+      "title": "[Video C] 78세 최고령 아프리카 BJ 오작교를 만나다 / 조선일보",
+      "description": "BJ오작교’라는 이름으로 알려진 78세 진명수 씨는 유명 아프리카TV BJ다. 누적 시청자 수는 380만 명을 훌쩍 넘는다. 흥미로운 점은 진 씨는 인터넷 방송의 역사의 산 증인이라는 것이다. 별풍선 제도(이용자가 BJ에게 선물하는 유로 아이템)가 있기 전인 2006년부터 인터넷 방송에 뛰어든 할아버지는 올해로 방송을 시작한 지 12년이 넘은 베테랑 장수BJ다. 꾸준하고 잔잔하게 자신만의 인터넷 방송을 꾸려나간 셈이다. BJ오작교, 진명수 씨를 천안 삼거리 공원에서 직접 만나 이야기를 들었다.\n\n\n🔸 조선닷컴 공식 홈페이지 http://www.chosun.com\n🔸 조선비즈 공식 홈페이지 http://www.biz.chosun.com\n🔸 공식 페이스북 : https://www.facebook.com/chosun\n🔸 공식 트위터 : https://twitter.com/chosun\n\n◈ 사실에 대한 믿음, 할 말을 하는 용기. 조선일보◈\n\n#조선일보 #시사 #뉴스 #이슈 #제보 #조선일보 #실시간뉴스 #오작교",
+      "publishedAt": "2018-07-11T06:39:14Z",
+      "duration": "PT2M54S",
+      "viewCount": 83604,
+      "likeCount": 2803,
+      "commentCount": 246,
+      "tags": [
+        "조선일보",
+        "아프리카BJ",
+        "오작교",
+        "진명수",
+        "조선",
+        "시사",
+        "뉴스",
+        "아프리카tv",
+        "최고령"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2018-07-11T06:39:14Z",
+      "channelId": "UCdp4_yTBhQmB8E339Lafzow",
+      "channelName": "조선일보",
+      "collectedAt": "2025-09-03T10:02:43Z"
     }
   },
   "channels": {
@@ -11582,9 +11609,36 @@
       "viewCount": 3351994752,
       "videoCount": 627296,
       "lastUpdated": "2025-08-29T02:43:29.871027Z"
+    },
+    "UCdp4_yTBhQmB8E339Lafzow": {
+      "channelId": "UCdp4_yTBhQmB8E339Lafzow",
+      "channelName": "조선일보",
+      "channelUrl": "@chosunmedia",
+      "channelDescription": " 조선일보 공식 유튜브 채널",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 1700000,
+      "viewCount": 1669752256,
+      "videoCount": 22783,
+      "lastUpdated": "2025-09-03T10:02:43.568641Z"
     }
   },
-  "lastUpdated": "2025-08-29T02:43:29.871027Z",
-  "totalVideos": 310,
-  "totalChannels": 13
+  "lastUpdated": "2025-09-03T10:02:43.568641Z",
+  "totalVideos": 311,
+  "totalChannels": 14
 }

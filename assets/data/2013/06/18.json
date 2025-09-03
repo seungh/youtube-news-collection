@@ -136,6 +136,29 @@
       "channelId": "UC4Aa3OPkMenwTANpf0oWVRQ",
       "channelName": "CBS 김현정의 뉴스쇼",
       "collectedAt": "2025-08-22T14:03:37Z"
+    },
+    "eg8hHVdKAYg": {
+      "videoId": "eg8hHVdKAYg",
+      "title": "한국일보 기자 '출근 투쟁' 박종률 한국기자협회장 격려 방문",
+      "description": "사측의 편집국 폐쇄로 한국일보 기자들이 바깥으로 쫓겨난지 나흘째. 한진빌딩 1층 로비에서 총회를 이어가는 한국일보 기자들을 박종률 한국기자협회장이 격려차 방문했습니다.",
+      "publishedAt": "2013-06-18T04:24:24Z",
+      "duration": "PT15M24S",
+      "viewCount": 538,
+      "likeCount": 3,
+      "commentCount": 1,
+      "tags": [
+        "한국일보",
+        "출근 투쟁",
+        "노동조합",
+        "박종률",
+        "한국기자협회장"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2013-06-18T04:24:24Z",
+      "channelId": "UC1aS5CRRDrN6CmR2VcpmetA",
+      "channelName": "한국일보(hankookilbo.com)",
+      "collectedAt": "2025-09-03T10:02:02Z"
     }
   },
   "channels": {
@@ -192,9 +215,36 @@
       "viewCount": 1280577570,
       "videoCount": 19124,
       "lastUpdated": "2025-08-24T21:55:16.425065Z"
+    },
+    "UC1aS5CRRDrN6CmR2VcpmetA": {
+      "channelId": "UC1aS5CRRDrN6CmR2VcpmetA",
+      "channelName": "한국일보(hankookilbo.com)",
+      "channelUrl": "@thehankookilbo",
+      "channelDescription": "'공존, 통합, 사람'의 정신으로 앞장서는 국내 유일 중도 정론지 한국일보입니다.\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ppj3UlPuwNq5DyUWNFz27Vc6WoIrRpRI2IMHc9MZ3UqkNVWcXrT83qJTU3bAweA3BOodFu4Euf0=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ppj3UlPuwNq5DyUWNFz27Vc6WoIrRpRI2IMHc9MZ3UqkNVWcXrT83qJTU3bAweA3BOodFu4Euf0=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ppj3UlPuwNq5DyUWNFz27Vc6WoIrRpRI2IMHc9MZ3UqkNVWcXrT83qJTU3bAweA3BOodFu4Euf0=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 362000,
+      "viewCount": 296027619,
+      "videoCount": 6196,
+      "lastUpdated": "2025-09-03T10:02:02.678332Z"
     }
   },
-  "lastUpdated": "2025-08-24T21:55:16.426061Z",
-  "totalVideos": 4,
-  "totalChannels": 2
+  "lastUpdated": "2025-09-03T10:02:02.678332Z",
+  "totalVideos": 5,
+  "totalChannels": 3
 }

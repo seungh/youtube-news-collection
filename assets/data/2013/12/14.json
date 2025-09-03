@@ -55,6 +55,30 @@
       "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
       "channelName": "뉴스TVCHOSUN",
       "collectedAt": "2025-08-21T10:46:33Z"
+    },
+    "kPKRDfRDLU8": {
+      "videoId": "kPKRDfRDLU8",
+      "title": "선박운항 시뮬레이터 기술 '세이프텍 리서치'",
+      "description": "한국해양과학기술원이 '해양교통 안전진단기술, 선박운항 시뮬레이터 기술' 등을 현물 출자해 설립한 주식회사 세이프텍 리서치. 이 연구소기업은 선박운항 시뮬레이터 시스템과 선박운항 시뮬레이션 분야의 원천기술을 근간으로 항만이나 항로, 부두의 설계 등을 선박운항자 관점에서 평가하는 해상교통 안전진단사업과 운항훈련 시스템 구축사업을 추진해 나가게 된다. /신현종 기자",
+      "publishedAt": "2013-12-13T16:23:03Z",
+      "duration": "PT1M9S",
+      "viewCount": 1569,
+      "likeCount": 2,
+      "commentCount": 2,
+      "tags": [
+        "한국해양과학기술원",
+        "해양교통",
+        "선박운항 시뮬레이터",
+        "세이프텍리서치",
+        "신현종",
+        "조선일보"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2013-12-13T16:23:03Z",
+      "channelId": "UCdp4_yTBhQmB8E339Lafzow",
+      "channelName": "조선일보",
+      "collectedAt": "2025-09-03T10:02:47Z"
     }
   },
   "channels": {
@@ -84,9 +108,36 @@
       "viewCount": 4319423561,
       "videoCount": 150855,
       "lastUpdated": "2025-08-21T10:29:09.679543Z"
+    },
+    "UCdp4_yTBhQmB8E339Lafzow": {
+      "channelId": "UCdp4_yTBhQmB8E339Lafzow",
+      "channelName": "조선일보",
+      "channelUrl": "@chosunmedia",
+      "channelDescription": " 조선일보 공식 유튜브 채널",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 1700000,
+      "viewCount": 1669752256,
+      "videoCount": 22783,
+      "lastUpdated": "2025-09-03T10:02:47.299132Z"
     }
   },
-  "lastUpdated": "2025-08-21T10:46:34.008588Z",
-  "totalVideos": 2,
-  "totalChannels": 1
+  "lastUpdated": "2025-09-03T10:02:47.299132Z",
+  "totalVideos": 3,
+  "totalChannels": 2
 }

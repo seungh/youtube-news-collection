@@ -4833,6 +4833,36 @@
       "channelId": "UCTHCOPwqNfZ0uiKOvFyhGwg",
       "channelName": "연합뉴스TV",
       "collectedAt": "2025-08-29T02:42:58Z"
+    },
+    "qHeUDOL4_bk": {
+      "videoId": "qHeUDOL4_bk",
+      "title": "구의역 사고 3주기 '우리는 메피아가 아닙니다!' 그 날 이후 해고된 노동자들이 목소리를 내는 이유",
+      "description": "어느덧 구의역 김군 사고 3주기, 여전히 그 고통에서 벗어나지 못하는 노동자들이 있다. 당시 '메피아'로 불리며 온 대중의 비난을 한 몸에 받았던 하청 업체 정규직 직원들은 해고 이후 누구보다도 힘든 하루를 살아가고 있다. 그들이 말하고 싶은 메시지는 하나, '우리는 메피아가 아닙니다' 이들이 우리에게 이야기하고 싶은 메시지는 무엇일까?\n\n ----------------------------------------------------------------------------------------------------------------------------------\n\n▲ 더 다양한 기사 읽기 :  https://www.hankookilbo.com\n▲ 유튜브 구독하기 : https://www.youtube.com/thehankookilbo\n▲ 페이스북 좋아요 : https://www.facebook.com/hkilbo\n▲ 트위터 팔로우 :  https://twitter.com/hankookilbo\n\n▲사건 및 영상 제보\n digitalnews.hk@gmail.com \n ssolly@hankookilbo.com\n changsun91@hankookilbo.com\n\n제보 : 02)724-2489~2490",
+      "publishedAt": "2019-05-25T23:15:00Z",
+      "duration": "PT2M33S",
+      "viewCount": 3163,
+      "likeCount": 6,
+      "commentCount": 0,
+      "tags": [
+        "구의역",
+        "김군",
+        "노동",
+        "인권",
+        "비정규직",
+        "메피아",
+        "관피아",
+        "서울메트로",
+        "2호선",
+        "계약직",
+        "정규직",
+        "구조조정"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2019-05-25T23:15:00Z",
+      "channelId": "UC1aS5CRRDrN6CmR2VcpmetA",
+      "channelName": "한국일보(hankookilbo.com)",
+      "collectedAt": "2025-09-03T10:01:59Z"
     }
   },
   "channels": {
@@ -5078,9 +5108,36 @@
       "viewCount": 3278386064,
       "videoCount": 233358,
       "lastUpdated": "2025-08-29T02:42:58.576187Z"
+    },
+    "UC1aS5CRRDrN6CmR2VcpmetA": {
+      "channelId": "UC1aS5CRRDrN6CmR2VcpmetA",
+      "channelName": "한국일보(hankookilbo.com)",
+      "channelUrl": "@thehankookilbo",
+      "channelDescription": "'공존, 통합, 사람'의 정신으로 앞장서는 국내 유일 중도 정론지 한국일보입니다.\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ppj3UlPuwNq5DyUWNFz27Vc6WoIrRpRI2IMHc9MZ3UqkNVWcXrT83qJTU3bAweA3BOodFu4Euf0=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ppj3UlPuwNq5DyUWNFz27Vc6WoIrRpRI2IMHc9MZ3UqkNVWcXrT83qJTU3bAweA3BOodFu4Euf0=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ppj3UlPuwNq5DyUWNFz27Vc6WoIrRpRI2IMHc9MZ3UqkNVWcXrT83qJTU3bAweA3BOodFu4Euf0=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 362000,
+      "viewCount": 296027619,
+      "videoCount": 6196,
+      "lastUpdated": "2025-09-03T10:01:59.948305Z"
     }
   },
-  "lastUpdated": "2025-08-29T02:42:58.577181Z",
-  "totalVideos": 145,
-  "totalChannels": 9
+  "lastUpdated": "2025-09-03T10:01:59.948305Z",
+  "totalVideos": 146,
+  "totalChannels": 10
 }

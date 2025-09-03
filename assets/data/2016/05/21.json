@@ -497,6 +497,67 @@
       "channelId": "UCTHCOPwqNfZ0uiKOvFyhGwg",
       "channelName": "연합뉴스TV",
       "collectedAt": "2025-08-29T02:43:47Z"
+    },
+    "LD3JnWUnh44": {
+      "videoId": "LD3JnWUnh44",
+      "title": "주점에서 살아남는 꿀팁! 나라별 숙취 해소법",
+      "description": "5월, 대학가는 축제의 흥겨움으로 들떠 있다. 매일 각종 행사와 인기 가수들의 공연이 이어지는 축제 기간에 빼놓을 수 없는 것이 바로 여러 학과에서 진행하는 주점이다. 선후배가 만나 이런 저런 이야기를 나누며 술자리가 길어지다 보면 다음 날 숙취에 시달릴 수 있다. \n\n숙취로 고생하는 젊은이들을 위한 해소 방법을 알아보기 위해 ‘플레이 한국’ 제작진이 거리로 나갔다. 국내 대학에서 공부하는 외국인들을 만나 나라별 특별한 숙취 해소법을 물었다. \n\n----------------------------------------­­­­-------------------------- \n플레이한국 (Play Korea)! \n재미있게 공감하고 공유할 수 있는 동영상 콘텐츠 채널 \n'플레이 한국'은 생활 속에서 재미있게 느끼고 공감할 수 있는 소재와 주제를 찾아 짧은 동영상으로 이야기를 풀어가려 합니다. https://www.facebook.com/playhankook \n\nHOMEPAGE:http://www.hankookilbo.com/ \nFACEBOOK:https://www.facebook.com/hkilbo \nTWITTER:https://twitter.com/hankookilbo \n\n한국일보가 만든 더 놀라운 영상 보기! https://www.youtube.com/user/thehankookilbo",
+      "publishedAt": "2016-05-21T00:00:00Z",
+      "duration": "PT44S",
+      "viewCount": 3256,
+      "likeCount": 3,
+      "commentCount": 1,
+      "tags": [
+        "alcohol",
+        "알콜",
+        "술",
+        "숙취",
+        "맥주",
+        "beer",
+        "soju",
+        "소주",
+        "폭탄",
+        "폭탄주",
+        "인터뷰",
+        "interview",
+        "영상",
+        "한국일보",
+        "플레이한국",
+        "플레이 한국",
+        "프리미어",
+        "편집",
+        "에펙",
+        "자막",
+        "인스타그램",
+        "인스타",
+        "instagram",
+        "insta",
+        "외대",
+        "외국인",
+        "영어",
+        "english",
+        "eng",
+        "English",
+        "Eng",
+        "ENG",
+        "러시아",
+        "독일",
+        "대학",
+        "university",
+        "대학생",
+        "친구",
+        "술자리",
+        "축제",
+        "festival",
+        "주점",
+        "univ"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2016-05-21T00:00:00Z",
+      "channelId": "UC1aS5CRRDrN6CmR2VcpmetA",
+      "channelName": "한국일보(hankookilbo.com)",
+      "collectedAt": "2025-09-03T10:01:44Z"
     }
   },
   "channels": {
@@ -607,9 +668,36 @@
       "viewCount": 3351994752,
       "videoCount": 627296,
       "lastUpdated": "2025-08-29T02:43:47.437031Z"
+    },
+    "UC1aS5CRRDrN6CmR2VcpmetA": {
+      "channelId": "UC1aS5CRRDrN6CmR2VcpmetA",
+      "channelName": "한국일보(hankookilbo.com)",
+      "channelUrl": "@thehankookilbo",
+      "channelDescription": "'공존, 통합, 사람'의 정신으로 앞장서는 국내 유일 중도 정론지 한국일보입니다.\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ppj3UlPuwNq5DyUWNFz27Vc6WoIrRpRI2IMHc9MZ3UqkNVWcXrT83qJTU3bAweA3BOodFu4Euf0=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ppj3UlPuwNq5DyUWNFz27Vc6WoIrRpRI2IMHc9MZ3UqkNVWcXrT83qJTU3bAweA3BOodFu4Euf0=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ppj3UlPuwNq5DyUWNFz27Vc6WoIrRpRI2IMHc9MZ3UqkNVWcXrT83qJTU3bAweA3BOodFu4Euf0=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 362000,
+      "viewCount": 296027619,
+      "videoCount": 6196,
+      "lastUpdated": "2025-09-03T10:01:44.465040Z"
     }
   },
-  "lastUpdated": "2025-08-29T02:43:47.437031Z",
-  "totalVideos": 18,
-  "totalChannels": 4
+  "lastUpdated": "2025-09-03T10:01:44.465040Z",
+  "totalVideos": 19,
+  "totalChannels": 5
 }

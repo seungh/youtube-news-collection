@@ -8187,6 +8187,52 @@
       "channelId": "UCTHCOPwqNfZ0uiKOvFyhGwg",
       "channelName": "연합뉴스TV",
       "collectedAt": "2025-08-29T02:42:12Z"
+    },
+    "yLiQF-_YlCM": {
+      "videoId": "yLiQF-_YlCM",
+      "title": "[봉다방] 10년후 강남만큼 비싼 아파트는 어디…판교· 마곡·일산?",
+      "description": "🔸 땅집고TV : https://bit.ly/3g9xF9o\n🔸 조선닷컴 공식 홈페이지 http://www.chosun.com\n🔸 조선일보 무료 구독 체험 http://bit.ly/2WnNAF7\n🔸 조선비즈 공식 홈페이지 http://biz.chosun.com\n🔸 공식 페이스북 https://www.facebook.com/chosun\n🔸 공식 트위터 https://twitter.com/chosun\n\n◈ 사실에 대한 믿음, 할 말을 하는 용기. 조선일보◈\n\n#땅집고 #아파트 #부동산정책",
+      "publishedAt": "2021-09-17T23:00:17Z",
+      "duration": "PT18M11S",
+      "viewCount": 76700,
+      "likeCount": 1962,
+      "commentCount": 124,
+      "tags": [
+        "조선일보",
+        "조선",
+        "언론",
+        "이슈",
+        "신문",
+        "방송",
+        "뉴스",
+        "정치",
+        "속보",
+        "부동산",
+        "부동산정책",
+        "주택정책",
+        "민주당",
+        "더민주",
+        "더불어민주당",
+        "이명박",
+        "mb정책",
+        "주택",
+        "아파트",
+        "땅값",
+        "투기",
+        "탈세",
+        "경제",
+        "은퇴",
+        "투자",
+        "분양회사",
+        "투자자",
+        "집값"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2021-09-17T23:00:17Z",
+      "channelId": "UCdp4_yTBhQmB8E339Lafzow",
+      "channelName": "조선일보",
+      "collectedAt": "2025-09-03T10:02:37Z"
     }
   },
   "channels": {
@@ -8702,9 +8748,36 @@
       "viewCount": 3278386064,
       "videoCount": 233358,
       "lastUpdated": "2025-08-29T02:42:12.351163Z"
+    },
+    "UCdp4_yTBhQmB8E339Lafzow": {
+      "channelId": "UCdp4_yTBhQmB8E339Lafzow",
+      "channelName": "조선일보",
+      "channelUrl": "@chosunmedia",
+      "channelDescription": " 조선일보 공식 유튜브 채널",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 1700000,
+      "viewCount": 1669752256,
+      "videoCount": 22783,
+      "lastUpdated": "2025-09-03T10:02:37.287793Z"
     }
   },
-  "lastUpdated": "2025-08-29T02:42:12.357200Z",
-  "totalVideos": 282,
-  "totalChannels": 19
+  "lastUpdated": "2025-09-03T10:02:37.287793Z",
+  "totalVideos": 283,
+  "totalChannels": 20
 }

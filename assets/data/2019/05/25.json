@@ -5515,6 +5515,43 @@
       "channelId": "UCTHCOPwqNfZ0uiKOvFyhGwg",
       "channelName": "연합뉴스TV",
       "collectedAt": "2025-08-29T02:42:53Z"
+    },
+    "gqtqeqFfmak": {
+      "videoId": "gqtqeqFfmak",
+      "title": "Goodbye Everyone 안녕히계세요 여러분~ | 김수민 sookim [ENG SUB/한글 자막]",
+      "description": "Soo-bby is free! ✈\n저는 자유를 찾아 떠납니다😁😁\n\n*instagram\nhttps://www.instagram.com/sookim1001/?hl=en\n\n* Weibo(微博)\nhttps://www.weibo.com/u/6655702905?is_hot=1\n\n#travel #holidays #free #vacation #summer #VLOG #guam\n#여행 #VLOG #괌 #여행준비 #자유 #여름 #휴가",
+      "publishedAt": "2019-05-25T13:00:08Z",
+      "duration": "PT7M2S",
+      "viewCount": 25089,
+      "likeCount": 903,
+      "commentCount": 141,
+      "tags": [
+        "김수민",
+        "sookim",
+        "soomin kim",
+        "misskorea",
+        "미스코리아 김수민",
+        "miss korea",
+        "travel",
+        "holidays",
+        "free",
+        "vacation",
+        "summer",
+        "VLOG",
+        "guam",
+        "여행",
+        "괌",
+        "여행준비",
+        "자유",
+        "여름",
+        "휴가"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2019-05-25T13:00:08Z",
+      "channelId": "UC1aS5CRRDrN6CmR2VcpmetA",
+      "channelName": "한국일보(hankookilbo.com)",
+      "collectedAt": "2025-09-03T10:01:21Z"
     }
   },
   "channels": {
@@ -5895,9 +5932,36 @@
       "viewCount": 3351994752,
       "videoCount": 627296,
       "lastUpdated": "2025-08-29T02:42:53.478077Z"
+    },
+    "UC1aS5CRRDrN6CmR2VcpmetA": {
+      "channelId": "UC1aS5CRRDrN6CmR2VcpmetA",
+      "channelName": "한국일보(hankookilbo.com)",
+      "channelUrl": "@thehankookilbo",
+      "channelDescription": "'공존, 통합, 사람'의 정신으로 앞장서는 국내 유일 중도 정론지 한국일보입니다.\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ppj3UlPuwNq5DyUWNFz27Vc6WoIrRpRI2IMHc9MZ3UqkNVWcXrT83qJTU3bAweA3BOodFu4Euf0=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ppj3UlPuwNq5DyUWNFz27Vc6WoIrRpRI2IMHc9MZ3UqkNVWcXrT83qJTU3bAweA3BOodFu4Euf0=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ppj3UlPuwNq5DyUWNFz27Vc6WoIrRpRI2IMHc9MZ3UqkNVWcXrT83qJTU3bAweA3BOodFu4Euf0=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 362000,
+      "viewCount": 296027619,
+      "videoCount": 6196,
+      "lastUpdated": "2025-09-03T10:01:21.049436Z"
     }
   },
-  "lastUpdated": "2025-08-29T02:42:53.478077Z",
-  "totalVideos": 167,
-  "totalChannels": 14
+  "lastUpdated": "2025-09-03T10:01:21.049436Z",
+  "totalVideos": 168,
+  "totalChannels": 15
 }

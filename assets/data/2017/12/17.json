@@ -1266,6 +1266,23 @@
       "channelId": "UCTHCOPwqNfZ0uiKOvFyhGwg",
       "channelName": "연합뉴스TV",
       "collectedAt": "2025-08-29T02:43:32Z"
+    },
+    "E_Alpny5Yio": {
+      "videoId": "E_Alpny5Yio",
+      "title": "\"월세가 덜 나와도...\" 부자들이 낡은 건물을 더 좋아하는 이유",
+      "description": "“부자들은 눈앞의 월세 수익만 보지 않아요. 그 상품의 밸류(value)를 얼마나 더 끌어올릴 수 있느냐에 주목합니다.”\n\n김규정 NH투자증권 부동산연구위원은 ‘2017대한민국 부동산트렌쇼’에서 자산가들의 수익형 부동산 투자 노하우를 소개했다.\n\n그는 현재 자산가들은 주택보다 빌딩이나 상가주택 같은 비주거용 상품을 눈여겨보고 있다고 말했다. 다만, 투자 시기는 조금 늦추고 있다는 것이다. 그는 “내년에 대출 규제가 강화되고 최저임금이 올라가면 결국 영세상인들의 상가 공실이 늘어나면 건물값이 떨어질 것”이라며 “아무대로 가격 협상력이 높아진다는 점에서 부자들은 타이밍을 기다리고 있다”고 했다.\n\n김 위원은 부자들은 낡은 건물을 더 좋아한다고 했다. 왜 그럴까. 그는 “시세를 다주고 사서 월세만 놓기보다 낡은 건물을 싸게 사서 리모델링으로 가치를 올리면 월세도 더 받고, 나중에 되팔 때 가격을 더 받을 수 있다”고 했다.\n\n박상언 유앤알 대표도 “일반인은 일단 월세보고 사요. 하지만 자산가들은 미래가치를 보고 산다”고 했다.\n\n그는 아파트는 시기가 더 중요하지만, 상가주택이나 중소형 빌딩은 자신의 노력 여하에 따라 더 큰 수익을 낼 수 있다고 하는데, 한번 들어보시죠.",
+      "publishedAt": "2017-12-17T11:45:27Z",
+      "duration": "PT12M24S",
+      "viewCount": 259410,
+      "likeCount": 793,
+      "commentCount": 26,
+      "tags": [],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2017-12-17T11:45:27Z",
+      "channelId": "UCdp4_yTBhQmB8E339Lafzow",
+      "channelName": "조선일보",
+      "collectedAt": "2025-09-03T10:02:43Z"
     }
   },
   "channels": {
@@ -1511,9 +1528,36 @@
       "viewCount": 3278386064,
       "videoCount": 233358,
       "lastUpdated": "2025-08-29T02:43:32.927412Z"
+    },
+    "UCdp4_yTBhQmB8E339Lafzow": {
+      "channelId": "UCdp4_yTBhQmB8E339Lafzow",
+      "channelName": "조선일보",
+      "channelUrl": "@chosunmedia",
+      "channelDescription": " 조선일보 공식 유튜브 채널",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 1700000,
+      "viewCount": 1669752256,
+      "videoCount": 22783,
+      "lastUpdated": "2025-09-03T10:02:43.898995Z"
     }
   },
-  "lastUpdated": "2025-08-29T02:43:32.927412Z",
-  "totalVideos": 50,
-  "totalChannels": 9
+  "lastUpdated": "2025-09-03T10:02:43.898995Z",
+  "totalVideos": 51,
+  "totalChannels": 10
 }

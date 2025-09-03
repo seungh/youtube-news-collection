@@ -957,6 +957,66 @@
       "channelId": "UCTHCOPwqNfZ0uiKOvFyhGwg",
       "channelName": "연합뉴스TV",
       "collectedAt": "2025-08-29T02:43:14Z"
+    },
+    "G6P2azCDWyE": {
+      "videoId": "G6P2azCDWyE",
+      "title": "중국 유학생 앞에 선 노영민 주중대사 / 조선일보",
+      "description": "노영민 주중 대사는 29일 중국유학생페스티벌이 어려워진 한중관계를 회복시켜 양국의 공감대를 확보하는 계기가 될 것이라고 강조했다.    \n노 대사는 이날 청주예술의 전당에서 열린 중국 유학생 페스티벌 개막식에 참석해 이같이 밝히고 행사에 참석한 양국 젊은이들이 미래 한중관계를 열어갈 주역이 될 것이라고 강조했다. /신현종 기자\n\n#조선일보 #CNOW취재현장 #노영민 #조선 #시사 #뉴스 #외교 #중국 #사드 #한중 #연설",
+      "publishedAt": "2017-09-29T16:11:40Z",
+      "duration": "PT1M44S",
+      "viewCount": 1281,
+      "likeCount": 5,
+      "commentCount": 12,
+      "tags": [
+        "노영민",
+        "노영민 중국대사",
+        "중국대사",
+        "노영민 사드",
+        "노영민 사드 발언",
+        "사드 논란",
+        "사드 발언",
+        "주중대사",
+        "중국유학생페스티벌",
+        "한중관계",
+        "청주 유학생",
+        "중국 보복",
+        "사드 보복",
+        "롯데마트",
+        "이마트",
+        "롯데 사드",
+        "중국 철수",
+        "연예인 보복",
+        "중국 북한",
+        "북한 미사일",
+        "신현종"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2017-09-29T16:11:40Z",
+      "channelId": "UCdp4_yTBhQmB8E339Lafzow",
+      "channelName": "조선일보",
+      "collectedAt": "2025-09-03T10:02:42Z"
+    },
+    "hltP6llY-ak": {
+      "videoId": "hltP6llY-ak",
+      "title": "[두잇터] 인천공항에서 할 수 있는 거의 모든 것 / 조선일보",
+      "description": "인천공항 꿀팁모음\n\n#조선일보 #두잇터 #공항 #조선 #뉴스 #사회 #이슈 #인천공항 #캡슐호텔 #서비스 #체험",
+      "publishedAt": "2017-09-30T00:00:01Z",
+      "duration": "PT2M44S",
+      "viewCount": 3530,
+      "likeCount": 18,
+      "commentCount": 2,
+      "tags": [
+        "#인천공항",
+        "인천공항꿀팁",
+        "캡슐호텔"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2017-09-30T00:00:01Z",
+      "channelId": "UCdp4_yTBhQmB8E339Lafzow",
+      "channelName": "조선일보",
+      "collectedAt": "2025-09-03T10:02:42Z"
     }
   },
   "channels": {
@@ -1202,9 +1262,36 @@
       "viewCount": 3351994752,
       "videoCount": 627296,
       "lastUpdated": "2025-08-29T02:43:14.621839Z"
+    },
+    "UCdp4_yTBhQmB8E339Lafzow": {
+      "channelId": "UCdp4_yTBhQmB8E339Lafzow",
+      "channelName": "조선일보",
+      "channelUrl": "@chosunmedia",
+      "channelDescription": " 조선일보 공식 유튜브 채널",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 1700000,
+      "viewCount": 1669752256,
+      "videoCount": 22783,
+      "lastUpdated": "2025-09-03T10:02:42.764976Z"
     }
   },
-  "lastUpdated": "2025-08-29T02:43:14.621839Z",
-  "totalVideos": 37,
-  "totalChannels": 9
+  "lastUpdated": "2025-09-03T10:02:42.764976Z",
+  "totalVideos": 39,
+  "totalChannels": 10
 }

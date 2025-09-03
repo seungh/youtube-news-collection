@@ -709,6 +709,76 @@
       "channelId": "UCTHCOPwqNfZ0uiKOvFyhGwg",
       "channelName": "연합뉴스TV",
       "collectedAt": "2025-08-29T02:43:14Z"
+    },
+    "UNx9cNJFSTE": {
+      "videoId": "UNx9cNJFSTE",
+      "title": "지금, 차별당하는 당신을 위한 기도.avi",
+      "description": "제 18회 퀴어문화축제가 오늘 시청 앞 서울광장에서 열렸다. 근처 대한문 광장 앞에서는 보수 기독교 단체들의 동성애 반대 집회가 열린\n 가운데, 성 소수자들을 대상으로 '축복 기도'를 해준 '무지개 예수'의\n 모습을 영상에 담았다.",
+      "publishedAt": "2017-07-15T12:56:18Z",
+      "duration": "PT1M19S",
+      "viewCount": 3294,
+      "likeCount": 173,
+      "commentCount": 12,
+      "tags": [
+        "인터뷰",
+        "interview",
+        "퀴어",
+        "동성애",
+        "LGBT",
+        "성소수자",
+        "인권",
+        "게이",
+        "gay",
+        "남색",
+        "성경",
+        "성서",
+        "bible",
+        "바이블",
+        "기독교",
+        "개신교",
+        "하나님",
+        "예수",
+        "예수님",
+        "크리스마스",
+        "게이퍼레이드",
+        "무지개",
+        "rainbow",
+        "레인보우",
+        "human right",
+        "향린교회",
+        "고상균",
+        "뉴스",
+        "이슈",
+        "issue",
+        "news",
+        "프란",
+        "한국일보",
+        "영상",
+        "편집",
+        "서울광장",
+        "교회",
+        "십자가",
+        "집회",
+        "시위",
+        "퀴퍼",
+        "퍼레이드",
+        "광장",
+        "퀴어 퍼레이드",
+        "게이 퍼레이드",
+        "기도",
+        "축복",
+        "bless",
+        "blessing",
+        "pray",
+        "행사",
+        "공연"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2017-07-15T12:56:18Z",
+      "channelId": "UC1aS5CRRDrN6CmR2VcpmetA",
+      "channelName": "한국일보(hankookilbo.com)",
+      "collectedAt": "2025-09-03T10:01:43Z"
     }
   },
   "channels": {
@@ -873,9 +943,36 @@
       "viewCount": 3351994752,
       "videoCount": 627296,
       "lastUpdated": "2025-08-29T02:43:14.844528Z"
+    },
+    "UC1aS5CRRDrN6CmR2VcpmetA": {
+      "channelId": "UC1aS5CRRDrN6CmR2VcpmetA",
+      "channelName": "한국일보(hankookilbo.com)",
+      "channelUrl": "@thehankookilbo",
+      "channelDescription": "'공존, 통합, 사람'의 정신으로 앞장서는 국내 유일 중도 정론지 한국일보입니다.\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ppj3UlPuwNq5DyUWNFz27Vc6WoIrRpRI2IMHc9MZ3UqkNVWcXrT83qJTU3bAweA3BOodFu4Euf0=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ppj3UlPuwNq5DyUWNFz27Vc6WoIrRpRI2IMHc9MZ3UqkNVWcXrT83qJTU3bAweA3BOodFu4Euf0=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ppj3UlPuwNq5DyUWNFz27Vc6WoIrRpRI2IMHc9MZ3UqkNVWcXrT83qJTU3bAweA3BOodFu4Euf0=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 362000,
+      "viewCount": 296027619,
+      "videoCount": 6196,
+      "lastUpdated": "2025-09-03T10:01:43.279972Z"
     }
   },
-  "lastUpdated": "2025-08-29T02:43:14.844528Z",
-  "totalVideos": 27,
-  "totalChannels": 6
+  "lastUpdated": "2025-09-03T10:01:43.279972Z",
+  "totalVideos": 28,
+  "totalChannels": 7
 }

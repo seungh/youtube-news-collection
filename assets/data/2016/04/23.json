@@ -524,6 +524,29 @@
       "channelId": "UCTHCOPwqNfZ0uiKOvFyhGwg",
       "channelName": "연합뉴스TV",
       "collectedAt": "2025-08-29T02:43:16Z"
+    },
+    "kQP8ML7XzmU": {
+      "videoId": "kQP8ML7XzmU",
+      "title": "북한 리수용 외무상이 소개한 뉴욕 지하철 ‘비보이’",
+      "description": "한국일보 조철환 기자가 리수용 외무상 취재를 위해 존 F 케네디 국제공항 근처 호텔에서 20일 밤을 머물고 21일 낮 유엔본부 건물로 가는 도중 좀처럼 보기 힘든 경험을 했습니다. 뉴욕 지하철에 비보이가 있다는 얘기를 듣기는 했지만 실제로 만난 것입니다. 현장에서 직접 촬영한 영상입니다.\nB-boys on NY subway",
+      "publishedAt": "2016-04-23T03:00:01Z",
+      "duration": "PT1M53S",
+      "viewCount": 1657,
+      "likeCount": 2,
+      "commentCount": 1,
+      "tags": [
+        "비보이",
+        "뉴욕 지하철",
+        "뉴욕",
+        "B-boy",
+        "New York"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2016-04-23T03:00:01Z",
+      "channelId": "UC1aS5CRRDrN6CmR2VcpmetA",
+      "channelName": "한국일보(hankookilbo.com)",
+      "collectedAt": "2025-09-03T10:02:01Z"
     }
   },
   "channels": {
@@ -661,9 +684,36 @@
       "viewCount": 3351994752,
       "videoCount": 627296,
       "lastUpdated": "2025-08-29T02:43:16.166926Z"
+    },
+    "UC1aS5CRRDrN6CmR2VcpmetA": {
+      "channelId": "UC1aS5CRRDrN6CmR2VcpmetA",
+      "channelName": "한국일보(hankookilbo.com)",
+      "channelUrl": "@thehankookilbo",
+      "channelDescription": "'공존, 통합, 사람'의 정신으로 앞장서는 국내 유일 중도 정론지 한국일보입니다.\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ppj3UlPuwNq5DyUWNFz27Vc6WoIrRpRI2IMHc9MZ3UqkNVWcXrT83qJTU3bAweA3BOodFu4Euf0=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ppj3UlPuwNq5DyUWNFz27Vc6WoIrRpRI2IMHc9MZ3UqkNVWcXrT83qJTU3bAweA3BOodFu4Euf0=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ppj3UlPuwNq5DyUWNFz27Vc6WoIrRpRI2IMHc9MZ3UqkNVWcXrT83qJTU3bAweA3BOodFu4Euf0=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 362000,
+      "viewCount": 296027619,
+      "videoCount": 6196,
+      "lastUpdated": "2025-09-03T10:02:01.393874Z"
     }
   },
-  "lastUpdated": "2025-08-29T02:43:16.166926Z",
-  "totalVideos": 20,
-  "totalChannels": 5
+  "lastUpdated": "2025-09-03T10:02:01.393874Z",
+  "totalVideos": 21,
+  "totalChannels": 6
 }

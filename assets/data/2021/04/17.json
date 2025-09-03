@@ -7875,6 +7875,32 @@
       "channelId": "UCTHCOPwqNfZ0uiKOvFyhGwg",
       "channelName": "연합뉴스TV",
       "collectedAt": "2025-08-29T02:42:44Z"
+    },
+    "82ObHYiLR7Y": {
+      "videoId": "82ObHYiLR7Y",
+      "title": "'성층권에 미세입자 뿌려 온난화 막는다' 하버드대 연구팀의 프로젝트, 그런데...",
+      "description": "#지구온난화 #기후위기 #화산재\n기후변화를 막기 위한 하버드대 연구팀의 ‘스코펙스(SCoPEx)’ 프로젝트가 지난 3월, 잠정 중단됐다.\n화산재의 효과처럼 탄산칼슘 입자를 20km 상공 성층권에 뿌려\n태양 빛을 일부 반사하려는 계획으로, 올해 6월 첫 시험을 앞두고 있었다.\n그러나 시험을 관리하는 스웨덴 이스레인지 우주센터는 지난 3월 31일, 잠정 중단을 선언했다.",
+      "publishedAt": "2021-04-17T04:00:06Z",
+      "duration": "PT2M57S",
+      "viewCount": 4404,
+      "likeCount": 38,
+      "commentCount": 8,
+      "tags": [
+        "온난화",
+        "기후변화",
+        "지구온난화",
+        "성층권",
+        "연구",
+        "화산재",
+        "화산폭발",
+        "하바드대"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2021-04-17T04:00:06Z",
+      "channelId": "UC1aS5CRRDrN6CmR2VcpmetA",
+      "channelName": "한국일보(hankookilbo.com)",
+      "collectedAt": "2025-09-03T10:01:34Z"
     }
   },
   "channels": {
@@ -8282,9 +8308,36 @@
       "viewCount": 3278386064,
       "videoCount": 233358,
       "lastUpdated": "2025-08-29T02:42:44.093377Z"
+    },
+    "UC1aS5CRRDrN6CmR2VcpmetA": {
+      "channelId": "UC1aS5CRRDrN6CmR2VcpmetA",
+      "channelName": "한국일보(hankookilbo.com)",
+      "channelUrl": "@thehankookilbo",
+      "channelDescription": "'공존, 통합, 사람'의 정신으로 앞장서는 국내 유일 중도 정론지 한국일보입니다.\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ppj3UlPuwNq5DyUWNFz27Vc6WoIrRpRI2IMHc9MZ3UqkNVWcXrT83qJTU3bAweA3BOodFu4Euf0=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ppj3UlPuwNq5DyUWNFz27Vc6WoIrRpRI2IMHc9MZ3UqkNVWcXrT83qJTU3bAweA3BOodFu4Euf0=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ppj3UlPuwNq5DyUWNFz27Vc6WoIrRpRI2IMHc9MZ3UqkNVWcXrT83qJTU3bAweA3BOodFu4Euf0=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 362000,
+      "viewCount": 296027619,
+      "videoCount": 6196,
+      "lastUpdated": "2025-09-03T10:01:34.745449Z"
     }
   },
-  "lastUpdated": "2025-08-29T02:42:44.093377Z",
-  "totalVideos": 234,
-  "totalChannels": 15
+  "lastUpdated": "2025-09-03T10:01:34.745449Z",
+  "totalVideos": 235,
+  "totalChannels": 16
 }

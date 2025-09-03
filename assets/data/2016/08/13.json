@@ -289,6 +289,67 @@
       "channelId": "UCTHCOPwqNfZ0uiKOvFyhGwg",
       "channelName": "연합뉴스TV",
       "collectedAt": "2025-08-29T02:43:15Z"
+    },
+    "ZZ8C1ZmNVMI": {
+      "videoId": "ZZ8C1ZmNVMI",
+      "title": "심쿵주의! 거리로 나온 피카츄들",
+      "description": "전세계 어린이들의 사랑을 한 몸에 받아온 애니메이션 캐릭터 피카츄가 이번엔 퍼레이드로 관광객들을 맞이한다. 일본 요코하마시가 주최하는 행사 ‘피카츄 대량발생 츄!’가 그것. 오는 14일까지 애니메이션 ‘포켓 몬스터'의 인기 캐릭터 피카츄가 퍼레이드와 댄스공연을 펼칠 예정이다.\n\n올해로 3회째를 맞이한 이 행사는 작년 한 해 천 9백 만 명의 관광객을 유치하며 요코하마의 명물로 자리매김했다. 지난 7월 6일 출시된 증강현실 게임 '포켓몬GO'의 인기로 인해 올해는 예년보다 더 많은 사람들이 몰릴 것으로 예상된다.",
+      "publishedAt": "2016-08-13T01:00:01Z",
+      "duration": "PT38S",
+      "viewCount": 3502,
+      "likeCount": 6,
+      "commentCount": 0,
+      "tags": [
+        "포켓몬",
+        "피카츄",
+        "poketmon",
+        "포케몬",
+        "포켓몬고",
+        "게임",
+        "AR",
+        "VR",
+        "ar",
+        "vr",
+        "증강현실",
+        "game",
+        "휴대폰",
+        "구글",
+        "google",
+        "닌텐도",
+        "피카",
+        "덕후",
+        "애니메이션",
+        "ani",
+        "animation",
+        "만화",
+        "유아",
+        "만화영화",
+        "심쿵",
+        "귀여움",
+        "cute",
+        "캐릭터",
+        "쥐",
+        "퍼레이드",
+        "축제",
+        "행사",
+        "festival",
+        "포켓몬GO",
+        "일본",
+        "요코하마",
+        "japan",
+        "JAPAN",
+        "JP",
+        "라이츄",
+        "포켓몬스터",
+        "어린이",
+        "츄"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2016-08-13T01:00:01Z",
+      "channelId": "UC1aS5CRRDrN6CmR2VcpmetA",
+      "channelName": "한국일보(hankookilbo.com)",
+      "collectedAt": "2025-09-03T10:01:35Z"
     }
   },
   "channels": {
@@ -426,9 +487,36 @@
       "viewCount": 3351994752,
       "videoCount": 627296,
       "lastUpdated": "2025-08-29T02:43:15.903719Z"
+    },
+    "UC1aS5CRRDrN6CmR2VcpmetA": {
+      "channelId": "UC1aS5CRRDrN6CmR2VcpmetA",
+      "channelName": "한국일보(hankookilbo.com)",
+      "channelUrl": "@thehankookilbo",
+      "channelDescription": "'공존, 통합, 사람'의 정신으로 앞장서는 국내 유일 중도 정론지 한국일보입니다.\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ppj3UlPuwNq5DyUWNFz27Vc6WoIrRpRI2IMHc9MZ3UqkNVWcXrT83qJTU3bAweA3BOodFu4Euf0=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ppj3UlPuwNq5DyUWNFz27Vc6WoIrRpRI2IMHc9MZ3UqkNVWcXrT83qJTU3bAweA3BOodFu4Euf0=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ppj3UlPuwNq5DyUWNFz27Vc6WoIrRpRI2IMHc9MZ3UqkNVWcXrT83qJTU3bAweA3BOodFu4Euf0=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 362000,
+      "viewCount": 296027619,
+      "videoCount": 6196,
+      "lastUpdated": "2025-09-03T10:01:35.796680Z"
     }
   },
-  "lastUpdated": "2025-08-29T02:43:15.903719Z",
-  "totalVideos": 12,
-  "totalChannels": 5
+  "lastUpdated": "2025-09-03T10:01:35.796680Z",
+  "totalVideos": 13,
+  "totalChannels": 6
 }

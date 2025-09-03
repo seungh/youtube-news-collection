@@ -848,6 +848,35 @@
       "channelId": "UChlgI3UHCOnwUGzWzbJ3H5w",
       "channelName": " YTN",
       "collectedAt": "2025-08-27T19:05:19Z"
+    },
+    "TIFGN9kvZV8": {
+      "videoId": "TIFGN9kvZV8",
+      "title": "세월호 참사, 해수부 전격 압수수색",
+      "description": "해운업계와 관피아 비리를 수사하고 있는 부산지검 특별수사본부가 13일 오전 세종시에 있는 해양수산부 해사안전국에 대해 압수수색에 들어갔다. 검찰은 선박평형수 포럼행사와 관련해 뇌물을 받은 혐의 등으로 지난 주 구속된 해수부 6급 공무원 전모씨 관련 자료확보에 주안점을 두고 있는 것으로 알려졌다. /신현종 기자\n\n검찰 해양수산부 압수수색, 세월호 추가 자료 확보...처벌수위는?\n\nhttp://news.chosun.com/site/data/html_dir/2014/06/13/2014061302644.html",
+      "publishedAt": "2014-06-13T17:18:17Z",
+      "duration": "PT1M2S",
+      "viewCount": 172,
+      "likeCount": 1,
+      "commentCount": 0,
+      "tags": [
+        "해양수산부",
+        "압수수색",
+        "해수부압수수색",
+        "관피아",
+        "마피아",
+        "부산지검",
+        "세종청사",
+        "해사안전국",
+        "선박평행수",
+        "신현종",
+        "조선일보"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2014-06-13T17:18:17Z",
+      "channelId": "UCdp4_yTBhQmB8E339Lafzow",
+      "channelName": "조선일보",
+      "collectedAt": "2025-09-03T10:02:46Z"
     }
   },
   "channels": {
@@ -985,9 +1014,36 @@
       "viewCount": 17649222300,
       "videoCount": 890317,
       "lastUpdated": "2025-08-29T02:43:55.071362Z"
+    },
+    "UCdp4_yTBhQmB8E339Lafzow": {
+      "channelId": "UCdp4_yTBhQmB8E339Lafzow",
+      "channelName": "조선일보",
+      "channelUrl": "@chosunmedia",
+      "channelDescription": " 조선일보 공식 유튜브 채널",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 1700000,
+      "viewCount": 1669752256,
+      "videoCount": 22783,
+      "lastUpdated": "2025-09-03T10:02:46.270127Z"
     }
   },
-  "lastUpdated": "2025-08-29T02:43:55.071362Z",
-  "totalVideos": 22,
-  "totalChannels": 5
+  "lastUpdated": "2025-09-03T10:02:46.270127Z",
+  "totalVideos": 23,
+  "totalChannels": 6
 }

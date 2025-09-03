@@ -949,6 +949,28 @@
       "channelId": "UCTHCOPwqNfZ0uiKOvFyhGwg",
       "channelName": "연합뉴스TV",
       "collectedAt": "2025-08-29T02:43:14Z"
+    },
+    "Fr-H38G5cnY": {
+      "videoId": "Fr-H38G5cnY",
+      "title": "[양봉업자] 블랙 팬서 예고편에 숨겨진 3가지 묘미 / 조선일보",
+      "description": "부산이 등장해 화제를 모았던 블랙 팬서 예고편, \n블랙 팬서 예고편을 샅샅이 분석해 봤다. \n\n블랙 팬서 예고편에서 찾을 수 있는 3가지 묘미는?\n\n🔸 조선닷컴 공식 홈페이지 http://www.chosun.com\n🔸 조선비즈 공식 홈페이지 http://www.biz.chosun.com\n🔸 공식 페이스북 : https://www.facebook.com/chosun\n🔸 공식 트위터 : https://twitter.com/chosun\n\n◈ 사실에 대한 믿음, 할 말을 하는 용기. 조선일보◈\n\n#조선일보 #양봉업자 #뉴스 #속보 #제보 #와칸다 #블랙팬서 #캡틴마블 #마블 #비브라늄 #샘윗위키 #예고편",
+      "publishedAt": "2017-10-21T01:00:00Z",
+      "duration": "PT2M44S",
+      "viewCount": 1674,
+      "likeCount": 5,
+      "commentCount": 0,
+      "tags": [
+        "조선일보",
+        "블랙팬서",
+        "예고편",
+        "마블"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2017-10-21T01:00:00Z",
+      "channelId": "UCdp4_yTBhQmB8E339Lafzow",
+      "channelName": "조선일보",
+      "collectedAt": "2025-09-03T10:02:43Z"
     }
   },
   "channels": {
@@ -1086,9 +1108,36 @@
       "viewCount": 3351994752,
       "videoCount": 627296,
       "lastUpdated": "2025-08-29T02:43:14.556093Z"
+    },
+    "UCdp4_yTBhQmB8E339Lafzow": {
+      "channelId": "UCdp4_yTBhQmB8E339Lafzow",
+      "channelName": "조선일보",
+      "channelUrl": "@chosunmedia",
+      "channelDescription": " 조선일보 공식 유튜브 채널",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 1700000,
+      "viewCount": 1669752256,
+      "videoCount": 22783,
+      "lastUpdated": "2025-09-03T10:02:43.928494Z"
     }
   },
-  "lastUpdated": "2025-08-29T02:43:14.556093Z",
-  "totalVideos": 36,
-  "totalChannels": 5
+  "lastUpdated": "2025-09-03T10:02:43.928494Z",
+  "totalVideos": 37,
+  "totalChannels": 6
 }

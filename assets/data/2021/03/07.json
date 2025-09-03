@@ -5182,6 +5182,52 @@
       "channelId": "UCTHCOPwqNfZ0uiKOvFyhGwg",
       "channelName": "연합뉴스TV",
       "collectedAt": "2025-08-29T02:42:27Z"
+    },
+    "cD8N7ERCCO0": {
+      "videoId": "cD8N7ERCCO0",
+      "title": "[기사+]제주오름 - 삶의 터전이자 망자의 안식처",
+      "description": "▼ 동아일보 SNS\n\n· 동아일보 네이버 포스트\nhttps://post.naver.com/my.nhn?memberN​​...\n\n· 동아일보 페이스북\nhttps://www.facebook.com/dongamedia/​​\n\n· 동아일보 인스타그램\nhttps://www.instagram.com/dongailbo/",
+      "publishedAt": "2021-03-07T06:07:09Z",
+      "duration": "PT1M35S",
+      "viewCount": 462,
+      "likeCount": 5,
+      "commentCount": 2,
+      "tags": [],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2021-03-07T06:07:09Z",
+      "channelId": "UCnHyx6H7fhKfUoAAaVGYvxQ",
+      "channelName": "동아일보",
+      "collectedAt": "2025-09-03T10:00:33Z"
+    },
+    "57L0SYdBiqQ": {
+      "videoId": "57L0SYdBiqQ",
+      "title": "[최보윤의 미트토크] [인터뷰] [단독] 양지은 인터뷰",
+      "description": "미스트롯2 진의 영광을 안은 양지은! 그녀가 '금수저 논란'에 대해 속내를 털어놨습니다. '붓'을 인생곡으로 택했던 양지은은 곡의 사연을 이야기하며 그간의 마음 고생이 적지않았던 듯, 갑자기 눈물을 흘려 마음을 아프게 했습니다.\n\n🔸 조선닷컴 공식 홈페이지 http://www.chosun.com\r\n🔸 조선일보 무료구독체험 : http://bit.ly/2WnNAF7\r\n🔸 조선비즈 공식 홈페이지 http://biz.chosun.com\r\n🔸 공식 페이스북 : https://www.facebook.com/chosun\r\n🔸 공식 트위터 : https://twitter.com/chosun\r\n\r\n◈ 사실에 대한 믿음, 할 말을 하는 용기. 조선일보◈\r\n\r\n#양지은 #미스트롯2 #미스트롯2진 #조선일보 #뉴스 #속보 #제보",
+      "publishedAt": "2021-03-07T03:35:48Z",
+      "duration": "PT2M24S",
+      "viewCount": 59603,
+      "likeCount": 1130,
+      "commentCount": 394,
+      "tags": [
+        "조선일보",
+        "조선",
+        "언론",
+        "이슈",
+        "신문",
+        "방송",
+        "뉴스",
+        "정치",
+        "미스트롯2",
+        "미스트롯2진",
+        "양지은"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2021-03-07T03:35:48Z",
+      "channelId": "UCdp4_yTBhQmB8E339Lafzow",
+      "channelName": "조선일보",
+      "collectedAt": "2025-09-03T10:00:33Z"
     }
   },
   "channels": {
@@ -5589,9 +5635,63 @@
       "viewCount": 3278386064,
       "videoCount": 233358,
       "lastUpdated": "2025-08-29T02:42:27.901747Z"
+    },
+    "UCnHyx6H7fhKfUoAAaVGYvxQ": {
+      "channelId": "UCnHyx6H7fhKfUoAAaVGYvxQ",
+      "channelName": "동아일보",
+      "channelUrl": "@donga-ilbo",
+      "channelDescription": "동아일보 공식 유튜브 채널입니다. \n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/S1eWLrew2Jjv-JLrGqkADPNPJF5u7qzpYE3o8_NoLbH7fVTjtFm9TYlxfOjbB3dH5Lw6qKM-MQ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/S1eWLrew2Jjv-JLrGqkADPNPJF5u7qzpYE3o8_NoLbH7fVTjtFm9TYlxfOjbB3dH5Lw6qKM-MQ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/S1eWLrew2Jjv-JLrGqkADPNPJF5u7qzpYE3o8_NoLbH7fVTjtFm9TYlxfOjbB3dH5Lw6qKM-MQ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 107000,
+      "viewCount": 47341564,
+      "videoCount": 4079,
+      "lastUpdated": "2025-09-03T10:00:33.135414Z"
+    },
+    "UCdp4_yTBhQmB8E339Lafzow": {
+      "channelId": "UCdp4_yTBhQmB8E339Lafzow",
+      "channelName": "조선일보",
+      "channelUrl": "@chosunmedia",
+      "channelDescription": " 조선일보 공식 유튜브 채널",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 1700000,
+      "viewCount": 1669752256,
+      "videoCount": 22783,
+      "lastUpdated": "2025-09-03T10:00:33.137967Z"
     }
   },
-  "lastUpdated": "2025-08-29T02:42:27.901747Z",
-  "totalVideos": 166,
-  "totalChannels": 15
+  "lastUpdated": "2025-09-03T10:00:33.137967Z",
+  "totalVideos": 168,
+  "totalChannels": 17
 }

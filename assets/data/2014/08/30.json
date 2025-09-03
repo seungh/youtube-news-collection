@@ -673,6 +673,58 @@
       "channelId": "UChlgI3UHCOnwUGzWzbJ3H5w",
       "channelName": " YTN",
       "collectedAt": "2025-08-27T19:05:18Z"
+    },
+    "SPwUZTrEvy0": {
+      "videoId": "SPwUZTrEvy0",
+      "title": "의료민영화 반대 플래시몹",
+      "description": "전국보건의료산업노동조합 소속 노조원들이  정부세종청사에서 열린 의료민영화 저지 보건의료노조 결의대회에서 의료민영화와 의료영리화 정책 전면 중단을 요구하며 플래시몹 단체 율동을 하고 있다. /신현종 기자",
+      "publishedAt": "2014-08-30T08:39:29Z",
+      "duration": "PT1M18S",
+      "viewCount": 220,
+      "likeCount": 1,
+      "commentCount": 0,
+      "tags": [
+        "의료민영화",
+        "의료민영화 반대",
+        "전국보건의료산업노동조합",
+        "정부세종청사",
+        "의료민영화 저지",
+        "보건의료노조",
+        "보건복지부",
+        "시현종",
+        "조선일보"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2014-08-30T08:39:29Z",
+      "channelId": "UCdp4_yTBhQmB8E339Lafzow",
+      "channelName": "조선일보",
+      "collectedAt": "2025-09-03T10:02:45Z"
+    },
+    "8doMdwrp-1o": {
+      "videoId": "8doMdwrp-1o",
+      "title": "\"죽어서야 밟은 고향 땅\"…사할린 강제동원 희생자들",
+      "description": "국내로 봉환된 사할린 강제동원 희생자 18명의 유해가 충남 천안 '망향의 동산'에 안치됐다. 희생자 유족 등 백여 명이 참석한 가운데 한 시간가량 추도식이 진행된 뒤 납골당에 안치됐다. 이날 참석한 유족들이 행사를 지켜보며 오열하고 있다. /신현종 기자",
+      "publishedAt": "2014-08-30T08:38:50Z",
+      "duration": "PT1M32S",
+      "viewCount": 271,
+      "likeCount": 1,
+      "commentCount": 0,
+      "tags": [
+        "사할린 강제동원",
+        "사할린 희생자",
+        "사할린 징용",
+        "사할린 동포",
+        "망향의 동산",
+        "신현종",
+        "조선일보"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2014-08-30T08:38:50Z",
+      "channelId": "UCdp4_yTBhQmB8E339Lafzow",
+      "channelName": "조선일보",
+      "collectedAt": "2025-09-03T10:02:45Z"
     }
   },
   "channels": {
@@ -783,9 +835,36 @@
       "viewCount": 17649222300,
       "videoCount": 890317,
       "lastUpdated": "2025-08-29T02:43:54.807368Z"
+    },
+    "UCdp4_yTBhQmB8E339Lafzow": {
+      "channelId": "UCdp4_yTBhQmB8E339Lafzow",
+      "channelName": "조선일보",
+      "channelUrl": "@chosunmedia",
+      "channelDescription": " 조선일보 공식 유튜브 채널",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 1700000,
+      "viewCount": 1669752256,
+      "videoCount": 22783,
+      "lastUpdated": "2025-09-03T10:02:45.831307Z"
     }
   },
-  "lastUpdated": "2025-08-29T02:43:54.807368Z",
-  "totalVideos": 18,
-  "totalChannels": 4
+  "lastUpdated": "2025-09-03T10:02:45.831307Z",
+  "totalVideos": 20,
+  "totalChannels": 5
 }

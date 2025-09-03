@@ -4082,6 +4082,58 @@
       "channelId": "UCTHCOPwqNfZ0uiKOvFyhGwg",
       "channelName": "연합뉴스TV",
       "collectedAt": "2025-08-29T02:42:33Z"
+    },
+    "jOcurKORIK4": {
+      "videoId": "jOcurKORIK4",
+      "title": "한국판 뉴딜 전략회의",
+      "description": "",
+      "publishedAt": "2020-09-20T03:20:34Z",
+      "duration": "PT1M45S",
+      "viewCount": 2968,
+      "likeCount": 111,
+      "commentCount": 48,
+      "tags": [
+        "청와대",
+        "한국판 뉴딜",
+        "문재인 대통령",
+        "문재",
+        "뉴스",
+        "조선일보",
+        "a:",
+        "t:취재",
+        "s:정치"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2020-09-20T03:20:34Z",
+      "channelId": "UCdp4_yTBhQmB8E339Lafzow",
+      "channelName": "조선일보",
+      "collectedAt": "2025-09-03T10:02:38Z"
+    },
+    "XwmgBNREkRE": {
+      "videoId": "XwmgBNREkRE",
+      "title": "청년들에게 보내는 BTS의 메시지",
+      "description": "",
+      "publishedAt": "2020-09-20T06:15:31Z",
+      "duration": "PT3M30S",
+      "viewCount": 2496,
+      "likeCount": 116,
+      "commentCount": 36,
+      "tags": [
+        "청년의날",
+        "방탄소년단",
+        "bts",
+        "조선일보",
+        "a:",
+        "t:행사/이벤트",
+        "s:문화·라이프"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2020-09-20T06:15:31Z",
+      "channelId": "UCdp4_yTBhQmB8E339Lafzow",
+      "channelName": "조선일보",
+      "collectedAt": "2025-09-03T10:02:38Z"
     }
   },
   "channels": {
@@ -4435,9 +4487,36 @@
       "viewCount": 3278386064,
       "videoCount": 233358,
       "lastUpdated": "2025-08-29T02:42:33.810079Z"
+    },
+    "UCdp4_yTBhQmB8E339Lafzow": {
+      "channelId": "UCdp4_yTBhQmB8E339Lafzow",
+      "channelName": "조선일보",
+      "channelUrl": "@chosunmedia",
+      "channelDescription": " 조선일보 공식 유튜브 채널",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 1700000,
+      "viewCount": 1669752256,
+      "videoCount": 22783,
+      "lastUpdated": "2025-09-03T10:02:38.914748Z"
     }
   },
-  "lastUpdated": "2025-08-29T02:42:33.810079Z",
-  "totalVideos": 134,
-  "totalChannels": 13
+  "lastUpdated": "2025-09-03T10:02:38.914748Z",
+  "totalVideos": 136,
+  "totalChannels": 14
 }

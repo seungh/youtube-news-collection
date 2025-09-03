@@ -568,6 +568,89 @@
       "channelId": "UChlgI3UHCOnwUGzWzbJ3H5w",
       "channelName": " YTN",
       "collectedAt": "2025-08-27T19:02:47Z"
+    },
+    "rRa_P05mm_g": {
+      "videoId": "rRa_P05mm_g",
+      "title": "11월 26일 광화문에 울려퍼진 레미제라블 민중의 노래",
+      "description": "11월 26일 광화문에 울려퍼진 레미제라블 민중의 노래",
+      "publishedAt": "2016-11-26T16:17:53Z",
+      "duration": "PT1M40S",
+      "viewCount": 21249,
+      "likeCount": 117,
+      "commentCount": 4,
+      "tags": [
+        "광화문",
+        "광화문광장",
+        "레미제라블",
+        "민중의노래",
+        "내일로",
+        "ONE DAY MORE",
+        "촛불집회"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2016-11-26T16:17:53Z",
+      "channelId": "UC1aS5CRRDrN6CmR2VcpmetA",
+      "channelName": "한국일보(hankookilbo.com)",
+      "collectedAt": "2025-09-03T10:01:33Z"
+    },
+    "tB4IWBAIbdM": {
+      "videoId": "tB4IWBAIbdM",
+      "title": "5차 범국민행동 촛불집회 '저항의 1분 소등'",
+      "description": "5차 촛불집회에서 오후 8시에 이뤄진 1분간 소등\n집회에 참석하지 못한 시민들도 자택에서 1분간 소등을 하며\n박근혜 대통령의 퇴진을 촉구했다",
+      "publishedAt": "2016-11-26T15:29:41Z",
+      "duration": "PT40S",
+      "viewCount": 1185,
+      "likeCount": 7,
+      "commentCount": 0,
+      "tags": [
+        "박근혜",
+        "대통령",
+        "퇴진",
+        "탄핵",
+        "촛불집회",
+        "1분 소등",
+        "한국일보",
+        "5차 촛불집회",
+        "불꺼라",
+        "촛불",
+        "광화문",
+        "시위"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2016-11-26T15:29:41Z",
+      "channelId": "UC1aS5CRRDrN6CmR2VcpmetA",
+      "channelName": "한국일보(hankookilbo.com)",
+      "collectedAt": "2025-09-03T10:01:33Z"
+    },
+    "OWYBht7rqOU": {
+      "videoId": "OWYBht7rqOU",
+      "title": "5차 촛불집회에 깜짝 등장한 양희은",
+      "description": "11월26일 5차 촛불집회 \n광화문 시위현장에 깜짝 등장한 양희은의 아침이슬 + 상록수",
+      "publishedAt": "2016-11-26T15:25:54Z",
+      "duration": "PT2M",
+      "viewCount": 34176,
+      "likeCount": 221,
+      "commentCount": 18,
+      "tags": [
+        "양희은",
+        "한국일보",
+        "떼창",
+        "촛불집회",
+        "아침이슬",
+        "상록수",
+        "박근혜",
+        "노무현",
+        "탄핵",
+        "하야"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2016-11-26T15:25:54Z",
+      "channelId": "UC1aS5CRRDrN6CmR2VcpmetA",
+      "channelName": "한국일보(hankookilbo.com)",
+      "collectedAt": "2025-09-03T10:01:33Z"
     }
   },
   "channels": {
@@ -732,9 +815,36 @@
       "viewCount": 17649222300,
       "videoCount": 890317,
       "lastUpdated": "2025-08-29T02:43:35.592594Z"
+    },
+    "UC1aS5CRRDrN6CmR2VcpmetA": {
+      "channelId": "UC1aS5CRRDrN6CmR2VcpmetA",
+      "channelName": "한국일보(hankookilbo.com)",
+      "channelUrl": "@thehankookilbo",
+      "channelDescription": "'공존, 통합, 사람'의 정신으로 앞장서는 국내 유일 중도 정론지 한국일보입니다.\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ppj3UlPuwNq5DyUWNFz27Vc6WoIrRpRI2IMHc9MZ3UqkNVWcXrT83qJTU3bAweA3BOodFu4Euf0=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ppj3UlPuwNq5DyUWNFz27Vc6WoIrRpRI2IMHc9MZ3UqkNVWcXrT83qJTU3bAweA3BOodFu4Euf0=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ppj3UlPuwNq5DyUWNFz27Vc6WoIrRpRI2IMHc9MZ3UqkNVWcXrT83qJTU3bAweA3BOodFu4Euf0=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 362000,
+      "viewCount": 296027619,
+      "videoCount": 6196,
+      "lastUpdated": "2025-09-03T10:01:33.372134Z"
     }
   },
-  "lastUpdated": "2025-08-29T02:43:35.592594Z",
-  "totalVideos": 22,
-  "totalChannels": 6
+  "lastUpdated": "2025-09-03T10:01:33.372134Z",
+  "totalVideos": 25,
+  "totalChannels": 7
 }

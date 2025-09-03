@@ -97,6 +97,91 @@
       "channelId": "UChlgI3UHCOnwUGzWzbJ3H5w",
       "channelName": " YTN",
       "collectedAt": "2025-08-27T19:05:15Z"
+    },
+    "CCxZrWmQY68": {
+      "videoId": "CCxZrWmQY68",
+      "title": "\"46용사 당신들을 잊지 않겠습니다\"",
+      "description": "천안함 폭침 사건으로 희생된 '천안함 46용사' 4주기 추모식을 앞두고 대전 유성구 국립대전현충원에 이들을 추모하는 판이 설치됐다. 천안함 4주기 추모 행사는 오는 26일 국립대전현충원에서 국가보훈처 주관으로 열릴 예정이다. /신현종 기자",
+      "publishedAt": "2014-03-23T14:40:09Z",
+      "duration": "PT1M15S",
+      "viewCount": 612,
+      "likeCount": 5,
+      "commentCount": 1,
+      "tags": [
+        "천안함",
+        "천안함용사",
+        "천안함용사46",
+        "천안함폭침",
+        "현충원",
+        "천안함추모판",
+        "46용사",
+        "신현종",
+        "조선일보"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2014-03-23T14:40:09Z",
+      "channelId": "UCdp4_yTBhQmB8E339Lafzow",
+      "channelName": "조선일보",
+      "collectedAt": "2025-09-03T10:02:46Z"
+    },
+    "qUdB50KV1uY": {
+      "videoId": "qUdB50KV1uY",
+      "title": "천안함 46용사 묘역 찾아 4.7km 걷기",
+      "description": "천안함 폭침 4주기를 나흘 앞둔 22일 대전 유성구 국립대전현충원을 찾은 시민들이 천안함 46용사 묘역을 참배하고 있다. 이날 대전현충원은 천안함 46용사와 고(故) 한주호 준위 묘소, 보훈산책로 등을 돌아보는 '천안함 4주기 추모 걷기 대회'를 열었다. 오는 26일 이 장소에서는 국가보훈처 주관으로 '천안함 4주기 추모 행사'가 열린다. /신현종 기자",
+      "publishedAt": "2014-03-23T13:56:21Z",
+      "duration": "PT1M13S",
+      "viewCount": 510,
+      "likeCount": 3,
+      "commentCount": 0,
+      "tags": [
+        "천안함",
+        "천안함폭침",
+        "천안함46용사",
+        "천안함걷기",
+        "대전현충원",
+        "천안함참배",
+        "한주호",
+        "신현종",
+        "조선일보"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2014-03-23T13:56:21Z",
+      "channelId": "UCdp4_yTBhQmB8E339Lafzow",
+      "channelName": "조선일보",
+      "collectedAt": "2025-09-03T10:02:46Z"
+    },
+    "xehcSW6nCEE": {
+      "videoId": "xehcSW6nCEE",
+      "title": "(NAM) 문수야구장 개장...울산도 프로야구 시대 열려",
+      "description": "울산에도 프로야구 시대가 열렸다. 울산시 남구 문수로 일원 울산체육공원 안 문수야구장이 지난 2일 개장했다. 23일 오후 울산 문수야구장에서 열린 프로야구 시범경기 롯데 자이언츠와 한화 이글스의 경기를 관람하는 수많은 팬들이 열띤 응원을 하고 있다. /남강호 기자\r\n\r\n문수야구장 개장... 울산도 프로야구 시대 열려\r\n\r\nhttp://news.chosun.com/site/data/html_dir/2014/03/24/2014032400102.html",
+      "publishedAt": "2014-03-23T13:48:54Z",
+      "duration": "PT2M11S",
+      "viewCount": 2335,
+      "likeCount": 5,
+      "commentCount": 0,
+      "tags": [
+        "울산",
+        "문수야구장",
+        "프로야구",
+        "울산체육공원",
+        "야구",
+        "롯데",
+        "한화",
+        "롯데 자이언츠",
+        "한화 이글스",
+        "강민호",
+        "남강호",
+        "조선일보",
+        "(NAM)"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2014-03-23T13:48:54Z",
+      "channelId": "UCdp4_yTBhQmB8E339Lafzow",
+      "channelName": "조선일보",
+      "collectedAt": "2025-09-03T10:02:46Z"
     }
   },
   "channels": {
@@ -153,9 +238,36 @@
       "viewCount": 17649222300,
       "videoCount": 890317,
       "lastUpdated": "2025-08-29T02:43:50.874158Z"
+    },
+    "UCdp4_yTBhQmB8E339Lafzow": {
+      "channelId": "UCdp4_yTBhQmB8E339Lafzow",
+      "channelName": "조선일보",
+      "channelUrl": "@chosunmedia",
+      "channelDescription": " 조선일보 공식 유튜브 채널",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/GsFAtvQbKEaB_dq0WVJWl3y67XdR_EC4mTaBUwsY0xaL0jorggzMAyi8q2BXIrgy57Pu5hlJ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 1700000,
+      "viewCount": 1669752256,
+      "videoCount": 22783,
+      "lastUpdated": "2025-09-03T10:02:46.679830Z"
     }
   },
-  "lastUpdated": "2025-08-29T02:43:50.874184Z",
-  "totalVideos": 4,
-  "totalChannels": 2
+  "lastUpdated": "2025-09-03T10:02:46.679830Z",
+  "totalVideos": 7,
+  "totalChannels": 3
 }

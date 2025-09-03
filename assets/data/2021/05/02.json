@@ -6655,6 +6655,53 @@
       "channelId": "UCTHCOPwqNfZ0uiKOvFyhGwg",
       "channelName": "연합뉴스TV",
       "collectedAt": "2025-08-29T02:40:33Z"
+    },
+    "7eOisidjXOs": {
+      "videoId": "7eOisidjXOs",
+      "title": "'여기가 진짜 현장' 경기남부경찰청 방역 위반 유흥업소 단속 상황",
+      "description": "#집합금지 #코로나19 #단속\n\n신종 코로나바이러스 감염증(코로나19) 4차 대유행의 우려가 깊어지고 있는 가운데 방역수칙을 위반해 몰래 영업을 하던 유흥업소가 무더기로 적발됐다. 경찰이 촬영한 영상에 불법 행위가 고스란히 담겼다.",
+      "publishedAt": "2021-05-02T06:48:16Z",
+      "duration": "PT3M46S",
+      "viewCount": 81328,
+      "likeCount": 135,
+      "commentCount": 56,
+      "tags": [
+        "집합금지",
+        "유흥주점",
+        "단속",
+        "노래방",
+        "호텔",
+        "모텔",
+        "불법영업",
+        "경찰",
+        "양주",
+        "생수",
+        "보리차",
+        "음료수"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2021-05-02T06:48:16Z",
+      "channelId": "UC1aS5CRRDrN6CmR2VcpmetA",
+      "channelName": "한국일보(hankookilbo.com)",
+      "collectedAt": "2025-09-03T10:01:13Z"
+    },
+    "p_Kz2bap0C8": {
+      "videoId": "p_Kz2bap0C8",
+      "title": "\"신인 배우 이향란입니다\" 배우 문소리 엄마 이향란의 행복한 황혼기",
+      "description": "결혼한 지 47년, 자식 둘과 남편, 시어머니에, 사위, 손주까지 온 가족의 밥을 그가 책임졌거든요. 맏딸 문소리씨가 배우가 되고 나서도 엄마 이향란씨는 직접 도시락을 싸줄 정도입니다. \n\n그런 그가 이제 ‘밥의 시간’에서 ‘이향란의 시간’으로 날아오르려 합니다. 2년 전 시니어 모델을 양성하는 아카데미에 다니기 시작한 걸 계기로 배우라는 꿈이 생긴 겁니다. \n\n그는 “30대에 포장마차를 하면서 겨울에도 찬물에 담그며 일한 손”이라며 손 내놓기를 쑥스러워했지만, 그 손이야말로 생명을 키워낸 귀한 손 아닐까요. 그런 시간과 의미가 응축된 손으로 감동의 한 컷을 만들어내고 삶이 녹아든 연기를 하는 그날을 꿈꿉니다.",
+      "publishedAt": "2021-05-02T09:45:38Z",
+      "duration": "PT12M50S",
+      "viewCount": 9453,
+      "likeCount": 75,
+      "commentCount": 0,
+      "tags": [],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2021-05-02T09:45:38Z",
+      "channelId": "UC1aS5CRRDrN6CmR2VcpmetA",
+      "channelName": "한국일보(hankookilbo.com)",
+      "collectedAt": "2025-09-03T10:01:13Z"
     }
   },
   "channels": {
@@ -7035,9 +7082,36 @@
       "viewCount": 3278386064,
       "videoCount": 233358,
       "lastUpdated": "2025-08-29T02:40:33.938934Z"
+    },
+    "UC1aS5CRRDrN6CmR2VcpmetA": {
+      "channelId": "UC1aS5CRRDrN6CmR2VcpmetA",
+      "channelName": "한국일보(hankookilbo.com)",
+      "channelUrl": "@thehankookilbo",
+      "channelDescription": "'공존, 통합, 사람'의 정신으로 앞장서는 국내 유일 중도 정론지 한국일보입니다.\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ppj3UlPuwNq5DyUWNFz27Vc6WoIrRpRI2IMHc9MZ3UqkNVWcXrT83qJTU3bAweA3BOodFu4Euf0=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ppj3UlPuwNq5DyUWNFz27Vc6WoIrRpRI2IMHc9MZ3UqkNVWcXrT83qJTU3bAweA3BOodFu4Euf0=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ppj3UlPuwNq5DyUWNFz27Vc6WoIrRpRI2IMHc9MZ3UqkNVWcXrT83qJTU3bAweA3BOodFu4Euf0=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 362000,
+      "viewCount": 296027619,
+      "videoCount": 6196,
+      "lastUpdated": "2025-09-03T10:01:13.531715Z"
     }
   },
-  "lastUpdated": "2025-08-29T02:40:33.938934Z",
-  "totalVideos": 222,
-  "totalChannels": 14
+  "lastUpdated": "2025-09-03T10:01:13.531715Z",
+  "totalVideos": 224,
+  "totalChannels": 15
 }
