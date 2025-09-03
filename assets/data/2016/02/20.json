@@ -398,6 +398,29 @@
       "channelId": "UCHXvjavEtkPFJCfGlm0wTXw",
       "channelName": "경향티비",
       "collectedAt": "2025-09-03T10:02:18Z"
+    },
+    "5RAvzkLjSi0": {
+      "videoId": "5RAvzkLjSi0",
+      "title": "[피티쑈 #2 -채현국편] 청년이 찍으면 혁명이 납니다",
+      "description": "정치바 피티쑈 2회, ‘청춘아, 정치하자’\n\n정치BAR가 매월 한번씩 여는 정치 피티쑈 2회 주제는 ‘청춘아, 정치하자’입니다. 피티쑈 2회는 1월25일 저녁 7시 서울 홍대앞 미디어카페 후에서 열렸습니다. 연사들의 피티 영상을 차례로 올립니다. 네번째 소개할 연사는 특별손님으로 오신 채현국 효암학원 이사장입니다. 채 이사장은 청년들의 피티를 다 듣고 소감과 당부의 말을 전했습니다. \n\n● 관련 기사: ‘청춘아, 정치하자’ 피티쑈 전문 : 채현국 편 /정치BAR\n-http://www.hani.co.kr/arti/politics/polibar/728755.html\n\n●제작진\n-기획 구성: 한겨레 정치BAR\n-진행: 김원철, 출연: 김민수 임경지 오창민 채현국\n-카메라: 정동화 장지남 전상진\n-현장 진행: 김태규 김원철\n-기술: 박성영\n-연출: 박종찬 정주용\n-제작: 한겨레TV\n\n●장소 제공: 미디어카페 후\n-https://www.facebook.com/mediacafehu/",
+      "publishedAt": "2016-02-20T08:47:45Z",
+      "duration": "PT9M31S",
+      "viewCount": 11300,
+      "likeCount": 228,
+      "commentCount": 7,
+      "tags": [
+        "피티쑈",
+        "채현국",
+        "정치BAR",
+        "총선",
+        "대선"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2016-02-20T08:47:45Z",
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "collectedAt": "2025-09-03T10:48:04Z"
     }
   },
   "channels": {
@@ -506,11 +529,38 @@
       },
       "subscriberCount": 537000,
       "viewCount": 354014202,
-      "videoCount": 11630,
-      "lastUpdated": "2025-09-03T10:02:18.931490Z"
+      "videoCount": 11631,
+      "lastUpdated": "2025-09-03T10:17:01.585022Z"
+    },
+    "UCugbqfMO94F9guLEb6Olb2A": {
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "channelUrl": "@hankyorehtv",
+      "channelDescription": "'더불어 행복한 세상을 만드는 언론' 한겨레 공식 유튜브 채널입니다. \n ■ 편성 및 제휴 문의: leepd@hani.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 946000,
+      "viewCount": 586539536,
+      "videoCount": 9682,
+      "lastUpdated": "2025-09-03T10:48:04.512175Z"
     }
   },
-  "lastUpdated": "2025-09-03T10:02:18.931490Z",
-  "totalVideos": 13,
-  "totalChannels": 4
+  "lastUpdated": "2025-09-03T10:48:04.512175Z",
+  "totalVideos": 14,
+  "totalChannels": 5
 }

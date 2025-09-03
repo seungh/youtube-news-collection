@@ -443,6 +443,32 @@
       "channelId": "UCdp4_yTBhQmB8E339Lafzow",
       "channelName": "조선일보",
       "collectedAt": "2025-09-03T10:02:26Z"
+    },
+    "qExhzBke1_Y": {
+      "videoId": "qExhzBke1_Y",
+      "title": "6·4선거 \"정당을 찾아드립니다\"  [21의 생각 #273]",
+      "description": "2014년 5월27일(화) \n〈한겨레캐스트 #273- 21의 생각〉 \n〈한겨레21〉기자들의 시사 진단 프로그램\n\n \n이번주 한겨레21 표지 제목은 〈움직여라, 찾아라〉입니다. '가만히 있으라'고 했던 이들에게, 평범한 사람들이 움직여서 세상을 바꿀 수 있다는 걸 보여주자는 의미인데요, 아직 투표를 누구에게, 어떤 정당에게 해야할지 정하지 못한 여러분을 위해서 한겨레21이 맞추형으로 자신에게 맞는 정당을 찾아드립니다.\n\n\n◆ 주요내용\n1. 6·4 전국지방선거 전망은?\n2. 청와대발 '인적 쇄신'어떻게 평가하나? \n3. 무당파의 비율은?\n4. 〈나의 정당 찾기〉 기획의도는?\n5. '새누리당', '새정치민주연합' 구분이 모호하다?\n6. 정당정치를 불신하는 이유?\n\n\n〈한겨레1013호〉\n \n\n ◆ 팟캐스트\n -아이튠즈/https://itunes.apple.com/kr/podcast/hangyeolekaeseuteu-2013/id664437159?mt=2\n -팟빵 채널/ http://www.podbbang.com/ch/6464\n\n\n◆ 제작진 \n앵커: 황예랑, 취재: 송채경화, 기술감독: 박성영, 연출: 조소영\n",
+      "publishedAt": "2014-05-27T09:37:56Z",
+      "duration": "PT16M34S",
+      "viewCount": 12994,
+      "likeCount": 23,
+      "commentCount": 0,
+      "tags": [
+        "6·4 지방선거",
+        "무당파",
+        "정당",
+        "선거",
+        "투표",
+        "21의생각",
+        "황예랑",
+        "송채경화"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2014-05-27T09:37:56Z",
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "collectedAt": "2025-09-03T10:48:39Z"
     }
   },
   "channels": {
@@ -551,8 +577,8 @@
       },
       "subscriberCount": 537000,
       "viewCount": 354014202,
-      "videoCount": 11630,
-      "lastUpdated": "2025-09-03T10:02:26.610231Z"
+      "videoCount": 11631,
+      "lastUpdated": "2025-09-03T10:17:12.095194Z"
     },
     "UCdp4_yTBhQmB8E339Lafzow": {
       "channelId": "UCdp4_yTBhQmB8E339Lafzow",
@@ -578,11 +604,38 @@
       },
       "subscriberCount": 1700000,
       "viewCount": 1669752256,
-      "videoCount": 22783,
-      "lastUpdated": "2025-09-03T10:02:26.610231Z"
+      "videoCount": 22784,
+      "lastUpdated": "2025-09-03T10:17:12.095194Z"
+    },
+    "UCugbqfMO94F9guLEb6Olb2A": {
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "channelUrl": "@hankyorehtv",
+      "channelDescription": "'더불어 행복한 세상을 만드는 언론' 한겨레 공식 유튜브 채널입니다. \n ■ 편성 및 제휴 문의: leepd@hani.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 946000,
+      "viewCount": 586539536,
+      "videoCount": 9682,
+      "lastUpdated": "2025-09-03T10:48:39.979305Z"
     }
   },
-  "lastUpdated": "2025-09-03T10:02:26.610231Z",
-  "totalVideos": 19,
-  "totalChannels": 5
+  "lastUpdated": "2025-09-03T10:48:39.979305Z",
+  "totalVideos": 20,
+  "totalChannels": 6
 }

@@ -1095,6 +1095,30 @@
       "channelId": "UCdp4_yTBhQmB8E339Lafzow",
       "channelName": "조선일보",
       "collectedAt": "2025-09-03T10:02:18Z"
+    },
+    "5PFDbVnpw8A": {
+      "videoId": "5PFDbVnpw8A",
+      "title": "‘북풍’보다 무서운 ‘공천풍’ [말풍선 브리핑 2016. 02. 15]",
+      "description": "1. 원유철 새누리당 원내대표가 국회 교섭단체 대표 연설에서 핵무장론을 주장했습니다. 자위권 차원의 핵과 미사일이 필요하다는 거죠. 그런데 우리나라, 전시작전통제권도 없다는 사실 알고 계시죠? 작전권 환수에 반대한 세력이 바로 새누리당입니다.\n\n 2. “개성공단 임금 지급액의 70%가 핵·미사일 개발에 전용된다.” 대한민국 통일부 장관의 공식 발언입니다. 역대 정부의 공식 견해뿐 아니라 며칠전 자신의 발언까지 뒤집은 거져. 게다가 이같은 발언은 유엔 안보리의 대북 제재 결의안 위반을 시인한 것이기도 하죠. 무리에는 이유가 있는 법이죠. 선거가 코 앞입니다.\n \n 3. 김종인 비대위 대표가 ‘아슬아슬’ 발언을 계속하고 있습니다. 북한의 장거리 로켓 발사 직후 ‘궤멸론’을 내놓은 데 이어, 정부의 개성공단 폐쇄와 관련해서도 “찬성도 반대도 아닌 신중한 접근”을 주문했죠. 안철수 의원이 같은 말을 했다면 어떻게 됐을까요? 2010년 11월 손학규 당시 민주당 대표가 햇볕정책의 한계를 언급했다가 의원들로부터 집중포화를 맞은 것도 생각나네요. ‘공천 불이익’에 대한 공포가 당내 침묵을 낳고 있다는 분석입니다.\n\n◆ 제작진\n진행: 김원철, 연출: 정주용, 박종찬",
+      "publishedAt": "2016-02-15T03:04:17Z",
+      "duration": "PT1M15S",
+      "viewCount": 9443,
+      "likeCount": 31,
+      "commentCount": 3,
+      "tags": [
+        "한겨레TV",
+        "북풍",
+        "핵",
+        "원유철",
+        "김종인",
+        "공천"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2016-02-15T03:04:17Z",
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "collectedAt": "2025-09-03T10:48:33Z"
     }
   },
   "channels": {
@@ -1392,8 +1416,8 @@
       },
       "subscriberCount": 537000,
       "viewCount": 354014202,
-      "videoCount": 11630,
-      "lastUpdated": "2025-09-03T10:02:18.996054Z"
+      "videoCount": 11631,
+      "lastUpdated": "2025-09-03T10:17:01.681401Z"
     },
     "UCdp4_yTBhQmB8E339Lafzow": {
       "channelId": "UCdp4_yTBhQmB8E339Lafzow",
@@ -1419,11 +1443,38 @@
       },
       "subscriberCount": 1700000,
       "viewCount": 1669752256,
-      "videoCount": 22783,
-      "lastUpdated": "2025-09-03T10:02:18.996054Z"
+      "videoCount": 22784,
+      "lastUpdated": "2025-09-03T10:17:01.681401Z"
+    },
+    "UCugbqfMO94F9guLEb6Olb2A": {
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "channelUrl": "@hankyorehtv",
+      "channelDescription": "'더불어 행복한 세상을 만드는 언론' 한겨레 공식 유튜브 채널입니다. \n ■ 편성 및 제휴 문의: leepd@hani.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 946000,
+      "viewCount": 586539536,
+      "videoCount": 9682,
+      "lastUpdated": "2025-09-03T10:48:33.638851Z"
     }
   },
-  "lastUpdated": "2025-09-03T10:02:18.996054Z",
-  "totalVideos": 43,
-  "totalChannels": 12
+  "lastUpdated": "2025-09-03T10:48:33.638851Z",
+  "totalVideos": 44,
+  "totalChannels": 13
 }

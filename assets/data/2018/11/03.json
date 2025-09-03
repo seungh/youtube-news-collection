@@ -5862,6 +5862,33 @@
       "channelId": "UCTHCOPwqNfZ0uiKOvFyhGwg",
       "channelName": "연합뉴스TV",
       "collectedAt": "2025-08-29T02:43:12Z"
+    },
+    "rb_P9AS6M0Y": {
+      "videoId": "rb_P9AS6M0Y",
+      "title": "#스쿨미투 집회 '여학생을 위한 학교는 없다' 발언 모음",
+      "description": "학생의 날인 11월3일. 서울 광화문에서 학내 성폭력을 고발하는 #스쿨미투 집회 '여학생을 위한 학교는 없다'가 열렸습니다. 집회에 등장했던 참가자들의 생생한 발언들을 그대로 전달해드립니다.\n\n#스쿨미투 #모두에게 #평등한 #학교를\n\n●〈한겨레TV〉 유튜브 채널 구독하기 -https://goo.gl/vYg2yI\n\n■ 한겨레 채널 모음\n▶ 인터넷한겨레: http://www.hani.co.kr\n▶ 한겨레TV: http://www.hanitv.com/\n▶ 한겨레TV 페이스북: https://www.facebook.com/hankyorehtv/\n▶ 한겨레신문 구독: https://goo.gl/MBKMLD\n▶ 영상과 취재 관련 제보: pd295@hani.co.kr\n\n#한겨레 #한겨레TV",
+      "publishedAt": "2018-11-03T08:20:15Z",
+      "duration": "PT19M9S",
+      "viewCount": 2561,
+      "likeCount": 53,
+      "commentCount": 10,
+      "tags": [
+        "한겨레",
+        "한겨레TV",
+        "Hankyoreh",
+        "HankyorehTV",
+        "korea",
+        "한국",
+        "대한민국",
+        "스쿨미투",
+        "미투운동"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2018-11-03T08:20:15Z",
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "collectedAt": "2025-09-03T10:48:21Z"
     }
   },
   "channels": {
@@ -6161,9 +6188,36 @@
       "viewCount": 3351994752,
       "videoCount": 627296,
       "lastUpdated": "2025-08-29T02:43:12.927936Z"
+    },
+    "UCugbqfMO94F9guLEb6Olb2A": {
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "channelUrl": "@hankyorehtv",
+      "channelDescription": "'더불어 행복한 세상을 만드는 언론' 한겨레 공식 유튜브 채널입니다. \n ■ 편성 및 제휴 문의: leepd@hani.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 946000,
+      "viewCount": 586539536,
+      "videoCount": 9682,
+      "lastUpdated": "2025-09-03T10:48:21.893186Z"
     }
   },
-  "lastUpdated": "2025-08-29T02:43:12.927936Z",
-  "totalVideos": 175,
-  "totalChannels": 11
+  "lastUpdated": "2025-09-03T10:48:21.893186Z",
+  "totalVideos": 176,
+  "totalChannels": 12
 }

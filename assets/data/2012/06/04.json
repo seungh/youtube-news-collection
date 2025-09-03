@@ -91,6 +91,75 @@
       "channelId": "UCHXvjavEtkPFJCfGlm0wTXw",
       "channelName": "경향티비",
       "collectedAt": "2025-09-03T10:02:33Z"
+    },
+    "mHKVkncwOho": {
+      "videoId": "mHKVkncwOho",
+      "title": "[CD Player 105회] '빅' 수지, 공유 호칭은 ＂아저씨＂",
+      "description": "30대 약혼자와 18세 고등학생 제자의 영혼 체인지라는 판타지 설정의 드라마 '빅'은 오는 6월 4일 밤 9시 55분 첫 방송 예정이다.\n\n기획: 이경주 / 취재: 박사랑 (씨네21 제공)",
+      "publishedAt": "2012-06-04T02:01:07Z",
+      "duration": "PT2M15S",
+      "viewCount": 17215,
+      "likeCount": 22,
+      "commentCount": 2,
+      "tags": [
+        "cine21",
+        "씨네21",
+        "한겨레",
+        "하니tv",
+        "hanitv",
+        "빅",
+        "공유",
+        "이미정",
+        "수지",
+        "백성현",
+        "장희진",
+        "신원호",
+        "miss",
+        "배수지",
+        "미쓰에이"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2012-06-04T02:01:07Z",
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "collectedAt": "2025-09-03T10:48:25Z"
+    },
+    "BL9MSwakvV8": {
+      "videoId": "BL9MSwakvV8",
+      "title": "[친절한 기자들 2회] 임수경 막말 논란과 '빨갱이 사냥'",
+      "description": "안녕하십니까, 한겨레TV 김도성 피디입니다. '친절한 기자들' 두번째 시간입니다. 오늘 아이템은 이분입니다. 요즘 가장 씹히고 있는 분이죠? 민주통합당 임수경 의원입니다. 임 의원이 탈북 대학생 백요셉씨에게 \"개념없는 탈북자 새끼\", \"하태경은 변절자\" 등의 폭언을 한 사실이 알려지면서, 여론이 매우 싸늘한 상황이죠.\r\n그런데 참 궁금한 점이 많습니다. 이런 폭언을 한 임수경 의원은 제정신인 걸까요? 당시 상황은 어땠으며, 백요셉씨는 그 와중에 어떻게 녹취를 할 수 있었을까요? 임수경 의원은 정말 '빨갱이'일까요? 대한민국을 부정하고 북한 체제와 김일성 일가를 추종하고 있는 것일까요? 일제히 신문 1면으로 임수경 의원을 비난한 조중동의 행태는 어떻게 봐야 할까요? '김어준의 뉴욕타임스'로 유명해진 김보협 기자에게 들어보시죠.",
+      "publishedAt": "2012-06-04T11:49:45Z",
+      "duration": "PT11M6S",
+      "viewCount": 5833,
+      "likeCount": 28,
+      "commentCount": 6,
+      "tags": [
+        "한겨레",
+        "한겨레tv",
+        "하니tv",
+        "hanitv",
+        "김도성",
+        "김보협",
+        "임수경",
+        "백요셉",
+        "박근혜",
+        "정치",
+        "친절한",
+        "기자들",
+        "기자",
+        "친절한기자들",
+        "무편집",
+        "뒷담화",
+        "무편집뒷담화",
+        "무편집뒷담화친절한기자들"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2012-06-04T11:49:45Z",
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "collectedAt": "2025-09-03T10:48:25Z"
     }
   },
   "channels": {
@@ -118,11 +187,38 @@
       },
       "subscriberCount": 537000,
       "viewCount": 354014202,
-      "videoCount": 11630,
-      "lastUpdated": "2025-09-03T10:02:33.323028Z"
+      "videoCount": 11631,
+      "lastUpdated": "2025-09-03T10:17:19.488348Z"
+    },
+    "UCugbqfMO94F9guLEb6Olb2A": {
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "channelUrl": "@hankyorehtv",
+      "channelDescription": "'더불어 행복한 세상을 만드는 언론' 한겨레 공식 유튜브 채널입니다. \n ■ 편성 및 제휴 문의: leepd@hani.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 946000,
+      "viewCount": 586539536,
+      "videoCount": 9682,
+      "lastUpdated": "2025-09-03T10:48:25.470301Z"
     }
   },
-  "lastUpdated": "2025-09-03T10:02:33.323028Z",
-  "totalVideos": 4,
-  "totalChannels": 1
+  "lastUpdated": "2025-09-03T10:48:25.470301Z",
+  "totalVideos": 6,
+  "totalChannels": 2
 }

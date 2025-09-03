@@ -1062,6 +1062,31 @@
       "channelId": "UCdp4_yTBhQmB8E339Lafzow",
       "channelName": "조선일보",
       "collectedAt": "2025-09-03T10:02:24Z"
+    },
+    "IvKi_SudGTQ": {
+      "videoId": "IvKi_SudGTQ",
+      "title": "세월호 200일…국회 앞 영석이 엄마의 눈물",
+      "description": "“사계절이 지나가는데 아들에게 해준 게 없어요”\n세월호 참사로 세상을 떠난 단원고 오영석군의 어머니 권미화씨는 10월30일 국회 본관 앞 유가족 농성장에서 사고 200일을 이틀 앞두고 눈물을 흘렸다. 박근혜 대통령이 국회 시정연설을 한 이틑날인 이날 농성장 앞 경찰관 수는 증가했다. 권씨는 진실 규명이 이뤄질 때까지 농성장을 떠나지 않겠다며 절규했다. 연출 이재만 기자 appletree@hani.co.kr",
+      "publishedAt": "2014-10-31T10:35:15Z",
+      "duration": "PT2M26S",
+      "viewCount": 8100,
+      "likeCount": 57,
+      "commentCount": 5,
+      "tags": [
+        "한겨레",
+        "한겨레tv",
+        "이재만",
+        "세월호",
+        "권미화",
+        "오영석",
+        "참사"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2014-10-31T10:35:15Z",
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "collectedAt": "2025-09-03T10:47:53Z"
     }
   },
   "channels": {
@@ -1251,8 +1276,8 @@
       },
       "subscriberCount": 537000,
       "viewCount": 354014202,
-      "videoCount": 11630,
-      "lastUpdated": "2025-09-03T10:02:24.666203Z"
+      "videoCount": 11631,
+      "lastUpdated": "2025-09-03T10:17:09.882725Z"
     },
     "UCdp4_yTBhQmB8E339Lafzow": {
       "channelId": "UCdp4_yTBhQmB8E339Lafzow",
@@ -1278,11 +1303,38 @@
       },
       "subscriberCount": 1700000,
       "viewCount": 1669752256,
-      "videoCount": 22783,
-      "lastUpdated": "2025-09-03T10:02:24.666203Z"
+      "videoCount": 22784,
+      "lastUpdated": "2025-09-03T10:17:09.882725Z"
+    },
+    "UCugbqfMO94F9guLEb6Olb2A": {
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "channelUrl": "@hankyorehtv",
+      "channelDescription": "'더불어 행복한 세상을 만드는 언론' 한겨레 공식 유튜브 채널입니다. \n ■ 편성 및 제휴 문의: leepd@hani.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 946000,
+      "viewCount": 586539536,
+      "videoCount": 9682,
+      "lastUpdated": "2025-09-03T10:47:53.760657Z"
     }
   },
-  "lastUpdated": "2025-09-03T10:02:24.666203Z",
-  "totalVideos": 33,
-  "totalChannels": 8
+  "lastUpdated": "2025-09-03T10:47:53.760657Z",
+  "totalVideos": 34,
+  "totalChannels": 9
 }

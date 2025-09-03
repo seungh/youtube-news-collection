@@ -359,6 +359,30 @@
       "channelId": "UC4Aa3OPkMenwTANpf0oWVRQ",
       "channelName": "CBS 김현정의 뉴스쇼",
       "collectedAt": "2025-08-22T14:03:37Z"
+    },
+    "gSvXQZD2ydk": {
+      "videoId": "gSvXQZD2ydk",
+      "title": "[한겨레캐스트#133] '당구의 신' 차유람, \"닥치고 공격\"",
+      "description": "2013년7월23일 〈이길우의 스포츠IN〉\r\n이길우 한겨레 선임기자의 스포츠 선수 인터뷰 \r\n\r\n[한겨레캐스트 -스포츠IN] 차유람이 강한 이유? \r\n\r\n◆ 이길우 선임기자가 본 차유람\r\n여러분 당구 치십니까? 국민의 스포츠 당구, 이제 남여 구분을 떠나 같이 즐기는 스포츠가 됐습니다. 한국에는 차유람 선수라는 걸출한 여성선수가 있습니다. 오늘 한겨레캐스트에서는 차유람 선수를 모시고 재미난 당구 이야기를 나눠보겠습니다. \r\n\r\n◆ 주요 내용\r\n- 판샤오팅 선수와 경기가 이목을 끌었는데...\r\n- 본인 인기의 비결은?\r\n- 날카로운 눈빛으로 유명한데...\r\n- 당구의 매력은? \r\n- \"아빠 당구 점수는 80\" 어릴 때 당구를 하게 된 이유? \r\n-  당구 때문에 학교 중퇴\r\n- \"감독님은 정상이 아니야\"\r\n- 나만의 멘탈훈련법은?\r\n- 앞으로 목표는 어디까지\r\n\r\n◇제작진\r\n기획: 이길우, 출연: 차유람, 기술감독: 박성영, 연출: 박종찬, 조소영\r\n\r\n◆ 팟캐스트\r\n-http://www.podbbang.com/ch/6464",
+      "publishedAt": "2013-07-12T10:51:08Z",
+      "duration": "PT11M23S",
+      "viewCount": 73416,
+      "likeCount": 81,
+      "commentCount": 7,
+      "tags": [
+        "한겨레캐스트",
+        "차유람",
+        "이길우",
+        "포켓볼",
+        "나인볼",
+        "텐볼"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2013-07-12T10:51:08Z",
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "collectedAt": "2025-09-03T10:48:17Z"
     }
   },
   "channels": {
@@ -415,9 +439,36 @@
       "viewCount": 1280577570,
       "videoCount": 19124,
       "lastUpdated": "2025-08-24T21:55:15.707119Z"
+    },
+    "UCugbqfMO94F9guLEb6Olb2A": {
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "channelUrl": "@hankyorehtv",
+      "channelDescription": "'더불어 행복한 세상을 만드는 언론' 한겨레 공식 유튜브 채널입니다. \n ■ 편성 및 제휴 문의: leepd@hani.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 946000,
+      "viewCount": 586539536,
+      "videoCount": 9682,
+      "lastUpdated": "2025-09-03T10:48:17.202966Z"
     }
   },
-  "lastUpdated": "2025-08-24T21:55:15.708117Z",
-  "totalVideos": 9,
-  "totalChannels": 2
+  "lastUpdated": "2025-09-03T10:48:17.202966Z",
+  "totalVideos": 10,
+  "totalChannels": 3
 }

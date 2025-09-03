@@ -6034,6 +6034,34 @@
       "channelId": "UCnHyx6H7fhKfUoAAaVGYvxQ",
       "channelName": "동아일보",
       "collectedAt": "2025-09-03T10:00:48Z"
+    },
+    "gd7c1xL_dBU": {
+      "videoId": "gd7c1xL_dBU",
+      "title": "‘제국의 무덤’ 아프가니스탄이 한국에 \"감사하다\"한 이유 │ #시크릿대사관",
+      "description": "아프가니스탄, 하면 무엇이 떠오를까? 전쟁의 포화, 피랍된 포로, 총을 든 탈레반 등, 아무래도 어두운 이미지가 다수일 것이다. 하지만 아프가니스탄이라는 나라는 사실 우리와 많이 닮았다. 전략적 요충지이기에 끊임없이 외침을 겪었지만 강인한 민족성으로 이겨냈다는 점이 대표적이다. \n \n한국을 두고 6·25 전쟁과 북핵 이미지만 떠올린다면 솔직히, 억울하다. 아프가니스탄도 그렇다. 우리가 모르는 아프가니스탄의 아름다움이 궁금해 문을 두드렸다.\n\n#아프가니스탄 #민족성 #실크로드",
+      "publishedAt": "2020-11-20T20:00:12Z",
+      "duration": "PT4M17S",
+      "viewCount": 7191,
+      "likeCount": 44,
+      "commentCount": 11,
+      "tags": [
+        "중앙일보",
+        "시크릿대사관",
+        "아프가니스탄",
+        "실크로드",
+        "제국의 무덤",
+        "왕오천축국전",
+        "대사관",
+        "탈레반",
+        "샘물교회 피랍",
+        "사프란"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2020-11-20T20:00:12Z",
+      "channelId": "UCH3mJ-nHxjjny2FJbJaqiDA",
+      "channelName": "중앙일보",
+      "collectedAt": "2025-09-03T10:49:03Z"
     }
   },
   "channels": {
@@ -6276,9 +6304,9 @@
         }
       },
       "subscriberCount": 1340000,
-      "viewCount": 870924917,
-      "videoCount": 32030,
-      "lastUpdated": "2025-08-24T21:52:56.757374Z"
+      "viewCount": 871828833,
+      "videoCount": 32204,
+      "lastUpdated": "2025-09-03T10:52:57.244986Z"
     },
     "UCkinYTS9IHqOEwR1Sze2JTw": {
       "channelId": "UCkinYTS9IHqOEwR1Sze2JTw",
@@ -6495,9 +6523,36 @@
       "viewCount": 47341564,
       "videoCount": 4079,
       "lastUpdated": "2025-09-03T10:00:48.692994Z"
+    },
+    "UCH3mJ-nHxjjny2FJbJaqiDA": {
+      "channelId": "UCH3mJ-nHxjjny2FJbJaqiDA",
+      "channelName": "중앙일보",
+      "channelUrl": "@joongangilbo",
+      "channelDescription": "현장의 진실을 중앙에 두다.",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/iqcE5aK4gFUjm5A-QO4FLDCDrTgOXTfU3oCyirTZcT9Ev1i_sKtx82GqfF2rPDfbBgFtBqL0uw=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/iqcE5aK4gFUjm5A-QO4FLDCDrTgOXTfU3oCyirTZcT9Ev1i_sKtx82GqfF2rPDfbBgFtBqL0uw=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/iqcE5aK4gFUjm5A-QO4FLDCDrTgOXTfU3oCyirTZcT9Ev1i_sKtx82GqfF2rPDfbBgFtBqL0uw=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 555000,
+      "viewCount": 475518285,
+      "videoCount": 18651,
+      "lastUpdated": "2025-09-03T10:49:03.833359Z"
     }
   },
-  "lastUpdated": "2025-09-03T10:00:48.692994Z",
-  "totalVideos": 178,
-  "totalChannels": 17
+  "lastUpdated": "2025-09-03T10:52:57.244986Z",
+  "totalVideos": 179,
+  "totalChannels": 18
 }

@@ -47,6 +47,30 @@
       "channelId": "UCfq4V1DAuaojnr2ryvWNysw",
       "channelName": "채널A News",
       "collectedAt": "2025-08-26T12:50:34Z"
+    },
+    "8ylCk2sv2zw": {
+      "videoId": "8ylCk2sv2zw",
+      "title": "화면속 모든 것이 소품 저 없인 영화 못 찍어요",
+      "description": "[엔딩크레디트 세줄밑]  '용의자X' 소품 팀장 김순근  \n관련 기사:  화면속 모든 것이 소품 저 없인 영화 못찍어요\nhttp://hani.co.kr/arti/culture/movie/558622.html\n한겨레TV [엔세밑]묶음 http://hanitv.com/?mid=tv&category=6462\n팟캐스트 :  http://itunes.apple.com/kr/podcast/song-gija-jopidiui-endingkeulediteu/id540965485 \n\n기획 : 송호진/  연출: 조소영\n------------------------------------\n취재후기\n\n\"소품일은 최소한 자존심을 갖지 않으면 버티지 못한다는 생각을 해요\"\n영화 뿐 아니고. 내 일이 부속품처럼 보잘것 없이 느껴지는 순간이 온다. 처음 일을 시작하게 된 순간에 분명히 느꼈던 매력보다 힘들다는 게 더 커진다. 그때 혼자 생각하는 거지... 자존심 없이는 버틸 수 없다는 그의 말에. 나 없으면 영화 못찍는다는 그의 말에 아무런 토를 달지 못한다. \n\n지난 금요일은 영상도 엉망이고. 몸도 힘들고. 마감시간도 어겨서 진짜 마음이 괴롭더니 뒤늦게 고치고 들어가는 마음은 그래도 조금 낫더라. 그가 말했던 자존심이라는 것에 공감했다. (조피디)",
+      "publishedAt": "2012-11-05T14:27:53Z",
+      "duration": "PT6M7S",
+      "viewCount": 1498,
+      "likeCount": 7,
+      "commentCount": 0,
+      "tags": [
+        "엔딩크레디트 세줄밑",
+        "송호진",
+        "조소영",
+        "용의자X",
+        "김순근",
+        "소품"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2012-11-05T14:27:53Z",
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "collectedAt": "2025-09-03T10:48:24Z"
     }
   },
   "channels": {
@@ -76,9 +100,36 @@
       "viewCount": 6198116921,
       "videoCount": 143713,
       "lastUpdated": "2025-08-26T12:50:34.355438Z"
+    },
+    "UCugbqfMO94F9guLEb6Olb2A": {
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "channelUrl": "@hankyorehtv",
+      "channelDescription": "'더불어 행복한 세상을 만드는 언론' 한겨레 공식 유튜브 채널입니다. \n ■ 편성 및 제휴 문의: leepd@hani.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 946000,
+      "viewCount": 586539536,
+      "videoCount": 9682,
+      "lastUpdated": "2025-09-03T10:48:24.180849Z"
     }
   },
-  "lastUpdated": "2025-08-26T12:50:34.355438Z",
-  "totalVideos": 2,
-  "totalChannels": 1
+  "lastUpdated": "2025-09-03T10:48:24.180849Z",
+  "totalVideos": 3,
+  "totalChannels": 2
 }

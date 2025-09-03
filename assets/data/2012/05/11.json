@@ -2763,6 +2763,38 @@
       "channelId": "UCHXvjavEtkPFJCfGlm0wTXw",
       "channelName": "경향티비",
       "collectedAt": "2025-09-03T10:01:45Z"
+    },
+    "rufcfeWlfpI": {
+      "videoId": "rufcfeWlfpI",
+      "title": "[김어준의 뉴욕타임스] #171. 되지? 되지! 되지~",
+      "description": "김용민 시사되지 vs 김외현 새싹되지 \n돌아온 멘붕 김용민... 아직은 광합성(?)이 필요하다던데...\n통합진보당, 그들이 되찾아야할 것은 '빚'이 아닌 '빛'\n각당들 지도부체제 구축하며 대선 준비 한창인데...\n\n진행: 김어준, 김외현, 김보협\n프로듀서: 이경주 / 타이틀: 문석진 / 기술감독: 박성영 \nST카메라: 장문진 / NLE편집: zaksalbi / 연출: 이규호",
+      "publishedAt": "2012-05-11T14:02:18Z",
+      "duration": "PT1H17M24S",
+      "viewCount": 192210,
+      "likeCount": 334,
+      "commentCount": 38,
+      "tags": [
+        "한겨레",
+        "하니TV",
+        "뉴욕타임스",
+        "김어준",
+        "시사단두대",
+        "하어영",
+        "김외현",
+        "김보협",
+        "통합진보당",
+        "새누리당",
+        "민주통합당",
+        "김용민",
+        "벙커원",
+        "멘붕"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2012-05-11T14:02:18Z",
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "collectedAt": "2025-09-03T10:48:25Z"
     }
   },
   "channels": {
@@ -2817,8 +2849,8 @@
       },
       "subscriberCount": 362000,
       "viewCount": 296027619,
-      "videoCount": 6196,
-      "lastUpdated": "2025-09-03T10:01:45.917703Z"
+      "videoCount": 6197,
+      "lastUpdated": "2025-09-03T10:17:19.721731Z"
     },
     "UCHXvjavEtkPFJCfGlm0wTXw": {
       "channelId": "UCHXvjavEtkPFJCfGlm0wTXw",
@@ -2844,11 +2876,38 @@
       },
       "subscriberCount": 537000,
       "viewCount": 354014202,
-      "videoCount": 11630,
-      "lastUpdated": "2025-09-03T10:01:45.917703Z"
+      "videoCount": 11631,
+      "lastUpdated": "2025-09-03T10:17:19.721731Z"
+    },
+    "UCugbqfMO94F9guLEb6Olb2A": {
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "channelUrl": "@hankyorehtv",
+      "channelDescription": "'더불어 행복한 세상을 만드는 언론' 한겨레 공식 유튜브 채널입니다. \n ■ 편성 및 제휴 문의: leepd@hani.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 946000,
+      "viewCount": 586539536,
+      "videoCount": 9682,
+      "lastUpdated": "2025-09-03T10:48:25.219341Z"
     }
   },
-  "lastUpdated": "2025-09-03T10:01:45.919698Z",
-  "totalVideos": 126,
-  "totalChannels": 3
+  "lastUpdated": "2025-09-03T10:48:25.219341Z",
+  "totalVideos": 127,
+  "totalChannels": 4
 }

@@ -5017,6 +5017,40 @@
       "channelId": "UC1aS5CRRDrN6CmR2VcpmetA",
       "channelName": "한국일보(hankookilbo.com)",
       "collectedAt": "2025-09-03T10:02:00Z"
+    },
+    "uHeWfHXfh1c": {
+      "videoId": "uHeWfHXfh1c",
+      "title": "“삭제된 판도라의 상자를 연다” 한국판 ‘NCIS’ 육군 과학수사센터",
+      "description": "“삭제된 판도라의 상자를 연다” 한국판 ‘NCIS’ 육군 과학수사센터\n\n+--------------------------------------------------------------------------------+ \n\n◈ 중앙일보 공식 SNS 채널 ◈\n\n- 페이스북 : https://www.facebook.com/joongang/\n- 인스타그램 : https://www.instagram.com/joongangilbo\n- 트위터 : http://www.twitter.com/joongangilbo\n- 유튜브 : https://goo.gl/DyGoPC\n- 네이버 TV : http://tvcast.naver.com/joongangsisa\n- 네이버포스트 : https://goo.gl/eeYh4k\n\n당신이 원하는 뉴스,\n중앙일보 SNS 채널과 함께하세요.\n\n+--------------------------------------------------------------------------------+",
+      "publishedAt": "2019-04-27T21:00:04Z",
+      "duration": "PT3M44S",
+      "viewCount": 1221,
+      "likeCount": 6,
+      "commentCount": 1,
+      "tags": [
+        "중앙일보",
+        "CIS",
+        "NCIS",
+        "육군",
+        "과학수사",
+        "판도라",
+        "상자",
+        "아이폰",
+        "빅데이터",
+        "디지털포렌식",
+        "포렌식",
+        "드론",
+        "갤럭시",
+        "CCTV",
+        "헌병",
+        "군사경찰"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2019-04-27T21:00:04Z",
+      "channelId": "UCH3mJ-nHxjjny2FJbJaqiDA",
+      "channelName": "중앙일보",
+      "collectedAt": "2025-09-03T10:49:14Z"
     }
   },
   "channels": {
@@ -5314,11 +5348,38 @@
       },
       "subscriberCount": 362000,
       "viewCount": 296027619,
-      "videoCount": 6196,
-      "lastUpdated": "2025-09-03T10:02:00.033405Z"
+      "videoCount": 6197,
+      "lastUpdated": "2025-09-03T10:17:50.668228Z"
+    },
+    "UCH3mJ-nHxjjny2FJbJaqiDA": {
+      "channelId": "UCH3mJ-nHxjjny2FJbJaqiDA",
+      "channelName": "중앙일보",
+      "channelUrl": "@joongangilbo",
+      "channelDescription": "현장의 진실을 중앙에 두다.",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/iqcE5aK4gFUjm5A-QO4FLDCDrTgOXTfU3oCyirTZcT9Ev1i_sKtx82GqfF2rPDfbBgFtBqL0uw=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/iqcE5aK4gFUjm5A-QO4FLDCDrTgOXTfU3oCyirTZcT9Ev1i_sKtx82GqfF2rPDfbBgFtBqL0uw=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/iqcE5aK4gFUjm5A-QO4FLDCDrTgOXTfU3oCyirTZcT9Ev1i_sKtx82GqfF2rPDfbBgFtBqL0uw=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 555000,
+      "viewCount": 475518285,
+      "videoCount": 18651,
+      "lastUpdated": "2025-09-03T10:49:14.445483Z"
     }
   },
-  "lastUpdated": "2025-09-03T10:02:00.033405Z",
-  "totalVideos": 124,
-  "totalChannels": 11
+  "lastUpdated": "2025-09-03T10:49:14.445483Z",
+  "totalVideos": 125,
+  "totalChannels": 12
 }

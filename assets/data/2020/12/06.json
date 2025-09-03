@@ -4961,6 +4961,63 @@
       "channelId": "UCnHyx6H7fhKfUoAAaVGYvxQ",
       "channelName": "동아일보",
       "collectedAt": "2025-09-03T10:00:33Z"
+    },
+    "7oXJjwt1h20": {
+      "videoId": "7oXJjwt1h20",
+      "title": "꿀알바와 매혈기 사이…코로나 시국 ‘임상시험’ 몰린 청년들 | #밀실",
+      "description": "\"아침이 되면 약을 먹고 온종일 피를 뽑아가요. 18번 정도 채혈을 한 뒤에 팔을 보면 주사 때문에 멍이 들어있거든요. 멍 자국 보면 이렇게까지 해야 하나 싶었죠.\"\n\n8일에 127만원. 위성경(27)씨가 지난 10월 생동성 시험 아르바이트로 번 금액이다. 생동성 시험은 이미 출시된 약의 특허 기간이 만료돼 같은 성분의 복제약을 내놓을 때 진행하는 단계이다. 제약회사가 새로운 약을 출시하기 전 의무적으로 실시해야 하는 임상시험의 일종이다. 아르바이트 구인·구직 사이트에선 ‘고수익ㆍ편한 알바’라는 설명과 함께 임상시험 아르바이트 지원자를 받기도 한다.\n\n코로나19로 취업난이 닥쳐오면서 아르바이트 구하기도 치열해졌다. 청년들은 꿈을 위해, 눈앞에 놓인 생계를 위해 ‘고수익’ 생동성 시험 아르바이트에 몰렸다. 이들의 이야기를 밀실팀이 들어봤다.\n\n*더 자세한 내용이 궁금하다면 위성경씨의 유튜브를 확인하세요 \n☞ https://www.youtube.com/watch?v=VdSNnFzZEnM\n\n#임상시험 #꿀알바 #고수익",
+      "publishedAt": "2020-12-06T00:00:01Z",
+      "duration": "PT4M36S",
+      "viewCount": 33770,
+      "likeCount": 53,
+      "commentCount": 35,
+      "tags": [
+        "중앙일보",
+        "피 뽑기 알바",
+        "아르바이트",
+        "임상시험",
+        "대학생",
+        "꿀알바",
+        "고수익",
+        "코시국",
+        "취업",
+        "코로나"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2020-12-06T00:00:01Z",
+      "channelId": "UCH3mJ-nHxjjny2FJbJaqiDA",
+      "channelName": "중앙일보",
+      "collectedAt": "2025-09-03T10:49:13Z"
+    },
+    "hHpH95C8ilA": {
+      "videoId": "hHpH95C8ilA",
+      "title": "이광재 \"추미애와 윤석열 갈등, 노 대통령이라면 틀림없이 뭐라고 했을 것\" │ #정치언박싱",
+      "description": "신간「노무현이 옳았다」를 낸 이광재(55) 더불어민주당 의원은 “정책을 강조하는 책”이라고 소개했다. 앞서 책 제목으로 ‘(너는) 정치하십시오, (나는) 정책하겠습니다’ 등을 검토했다고 한다. 하지만 책 출간에 쏠린 시선은 대부분 이광재표 정책보다 그의 정치적 행보에 집중돼있다. 이재명·이낙연 양강 구도에 기시감을 느끼는 여권에서 ‘제3 후보론’이 무르익고 있어 더욱 그렇다.\n\n지난달 24일 친문 실세로 꼽히는 홍영표 의원은 이광재를 잠재적 제3후보 중 한 사람으로 공개 거론했다. 이에 대해 이 의원은 “나는 자리를 추구하는 사람이 아니라 꿈을 함께 만드는 사람이 되고 싶다”고 했지만 “이제껏 정책 컨텐츠를 만들었다면 지금부터 본격적으로 정치를 할 생각”이란 말도 서슴지 않았다.\n\n#이광재 #노무현이옳았다 #여시재",
+      "publishedAt": "2020-12-05T20:00:08Z",
+      "duration": "PT4M31S",
+      "viewCount": 3643,
+      "likeCount": 65,
+      "commentCount": 39,
+      "tags": [
+        "중앙일보",
+        "이광재",
+        "여시재",
+        "추미애",
+        "윤석열",
+        "문재인",
+        "문 대통령",
+        "노무현",
+        "노무현이 옳았다",
+        "정치언박싱",
+        "공수처"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2020-12-05T20:00:08Z",
+      "channelId": "UCH3mJ-nHxjjny2FJbJaqiDA",
+      "channelName": "중앙일보",
+      "collectedAt": "2025-09-03T10:49:13Z"
     }
   },
   "channels": {
@@ -5341,9 +5398,36 @@
       "viewCount": 47341564,
       "videoCount": 4079,
       "lastUpdated": "2025-09-03T10:00:33.355406Z"
+    },
+    "UCH3mJ-nHxjjny2FJbJaqiDA": {
+      "channelId": "UCH3mJ-nHxjjny2FJbJaqiDA",
+      "channelName": "중앙일보",
+      "channelUrl": "@joongangilbo",
+      "channelDescription": "현장의 진실을 중앙에 두다.",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/iqcE5aK4gFUjm5A-QO4FLDCDrTgOXTfU3oCyirTZcT9Ev1i_sKtx82GqfF2rPDfbBgFtBqL0uw=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/iqcE5aK4gFUjm5A-QO4FLDCDrTgOXTfU3oCyirTZcT9Ev1i_sKtx82GqfF2rPDfbBgFtBqL0uw=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/iqcE5aK4gFUjm5A-QO4FLDCDrTgOXTfU3oCyirTZcT9Ev1i_sKtx82GqfF2rPDfbBgFtBqL0uw=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 555000,
+      "viewCount": 475518285,
+      "videoCount": 18651,
+      "lastUpdated": "2025-09-03T10:49:13.653653Z"
     }
   },
-  "lastUpdated": "2025-09-03T10:00:33.355406Z",
-  "totalVideos": 156,
-  "totalChannels": 14
+  "lastUpdated": "2025-09-03T10:49:13.653653Z",
+  "totalVideos": 158,
+  "totalChannels": 15
 }

@@ -1,0 +1,124 @@
+{
+  "videos": {
+    "uwqEpiZatT4": {
+      "videoId": "uwqEpiZatT4",
+      "title": "한겨레가판대앱 소개영상",
+      "description": "한겨레가판대앱 소개영상",
+      "publishedAt": "2011-09-08T09:31:56Z",
+      "duration": "PT2M10S",
+      "viewCount": 1883,
+      "likeCount": 3,
+      "commentCount": 0,
+      "tags": [
+        "한겨레",
+        "가판대",
+        "앱",
+        "한겨레가판대",
+        "소개영상"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2011-09-08T09:31:56Z",
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "collectedAt": "2025-09-03T10:48:41Z"
+    },
+    "UAWR3DOev9k": {
+      "videoId": "UAWR3DOev9k",
+      "title": "명동3구역 마리 농성 종지부",
+      "description": "철거민·시공사 합의에 성공. 보상문제 타결...결과는 '비밀'명동 2,4구역 문제는 그대로 남아",
+      "publishedAt": "2011-09-08T08:58:43Z",
+      "duration": "PT2M6S",
+      "viewCount": 968,
+      "likeCount": 3,
+      "commentCount": 0,
+      "tags": [
+        "명동 마리"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2011-09-08T08:58:43Z",
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "collectedAt": "2025-09-03T10:48:41Z"
+    },
+    "dP_WFeRxi28": {
+      "videoId": "dP_WFeRxi28",
+      "title": "한겨레가판대앱 매뉴얼 가이드",
+      "description": "한겨레가판대앱 매뉴얼 가이드",
+      "publishedAt": "2011-09-08T06:35:55Z",
+      "duration": "PT2M36S",
+      "viewCount": 270,
+      "likeCount": 2,
+      "commentCount": 0,
+      "tags": [
+        "한겨레",
+        "가판대",
+        "앱",
+        "한겨레가판대",
+        "가이드"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2011-09-08T06:35:55Z",
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "collectedAt": "2025-09-03T10:48:41Z"
+    },
+    "RfmYQQ9I3c4": {
+      "videoId": "RfmYQQ9I3c4",
+      "title": "한겨레가판대앱 독자인증 가이드",
+      "description": "한겨레가판대앱 독자인증 가이드",
+      "publishedAt": "2011-09-08T06:09:24Z",
+      "duration": "PT2M10S",
+      "viewCount": 1079,
+      "likeCount": 1,
+      "commentCount": 0,
+      "tags": [
+        "한겨레",
+        "가판대",
+        "한겨레가판대",
+        "앱",
+        "독자인증"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2011-09-08T06:09:24Z",
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "collectedAt": "2025-09-03T10:48:41Z"
+    }
+  },
+  "channels": {
+    "UCugbqfMO94F9guLEb6Olb2A": {
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "channelUrl": "@hankyorehtv",
+      "channelDescription": "'더불어 행복한 세상을 만드는 언론' 한겨레 공식 유튜브 채널입니다. \n ■ 편성 및 제휴 문의: leepd@hani.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 946000,
+      "viewCount": 586539536,
+      "videoCount": 9682,
+      "lastUpdated": "2025-09-03T10:48:41.089511Z"
+    }
+  },
+  "lastUpdated": "2025-09-03T10:48:41.089511Z",
+  "totalVideos": 4,
+  "totalChannels": 1
+}

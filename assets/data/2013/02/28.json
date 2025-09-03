@@ -211,6 +211,28 @@
       "channelId": "UCHXvjavEtkPFJCfGlm0wTXw",
       "channelName": "경향티비",
       "collectedAt": "2025-09-03T10:02:31Z"
+    },
+    "2H9lCLX8dyc": {
+      "videoId": "2H9lCLX8dyc",
+      "title": "[한겨레캐스트 #49] 출범 4일, 박근혜 정부 이상하다",
+      "description": "◆ 주요내용\r\n\r\n-공식일정 없는 박 대통령, 그 이유는?\r\n\r\n-청와대 인선 늦장 이유는?\r\n\r\n-청와대 정상운영 가능한가?\r\n\r\n-출입기자 등록도 이제야 받는다?\r\n\r\n-청와대 인선 그리고 권력 실세들의 암투설\r\n\r\n-윤창중, 김행 청와대 대변인 내정자 평가는?\r\n\r\n-박 대통령의 윤 대변인 신임 이유는?\r\n\r\n-박근혜 대통령은 얼리 버드 형?",
+      "publishedAt": "2013-02-28T14:07:03Z",
+      "duration": "PT16M20S",
+      "viewCount": 9643,
+      "likeCount": 25,
+      "commentCount": 3,
+      "tags": [
+        "한겨레tv",
+        "박근혜",
+        "암투설",
+        "청와대"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2013-02-28T14:07:03Z",
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "collectedAt": "2025-09-03T10:48:40Z"
     }
   },
   "channels": {
@@ -292,11 +314,38 @@
       },
       "subscriberCount": 537000,
       "viewCount": 354014202,
-      "videoCount": 11630,
-      "lastUpdated": "2025-09-03T10:02:31.571605Z"
+      "videoCount": 11631,
+      "lastUpdated": "2025-09-03T10:17:16.673201Z"
+    },
+    "UCugbqfMO94F9guLEb6Olb2A": {
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "channelUrl": "@hankyorehtv",
+      "channelDescription": "'더불어 행복한 세상을 만드는 언론' 한겨레 공식 유튜브 채널입니다. \n ■ 편성 및 제휴 문의: leepd@hani.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 946000,
+      "viewCount": 586539536,
+      "videoCount": 9682,
+      "lastUpdated": "2025-09-03T10:48:40.570668Z"
     }
   },
-  "lastUpdated": "2025-09-03T10:02:31.571605Z",
-  "totalVideos": 8,
-  "totalChannels": 3
+  "lastUpdated": "2025-09-03T10:48:40.570668Z",
+  "totalVideos": 9,
+  "totalChannels": 4
 }

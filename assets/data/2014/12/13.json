@@ -949,6 +949,48 @@
       "channelId": "UChlgI3UHCOnwUGzWzbJ3H5w",
       "channelName": " YTN",
       "collectedAt": "2025-08-27T19:05:18Z"
+    },
+    "wpt6GXH1pkA": {
+      "videoId": "wpt6GXH1pkA",
+      "title": "[김어준의 파파이스#34] 세월호, 커튼 뒤 사람들",
+      "description": "한겨레TV의 시사탐사쇼! \n[세월호의 AIS 항적 데이터가 조작되었다는 의혹과 관련해 검찰 세월호 참사 특별수사단(2021년)은 AIS 항적자료를 입수해 검토했지만 조작 사실은 확인되지 않았다고 밝혔습니다. 세월호 선체조사위원회(2018년)와 사회적참사특별조사위원회(2022년)도 세월호 AIS 항적 데이터의 조작이나 편집의 흔적은 없다고 결론냈습니다.]\n\n#1. 이슈브리핑(송채경화 기자/한겨레21)\n\n    -'땅콩의 귀환' \n    -청와대 VS 박지만?  \n\n#2. 이슈토크\n  \n    -소신있는 공무원이 잘린 이유가 청와대 전화? (정청래 국회위원)\n    -이슈 인물, 지금은?(우정출연: 주진우 기자)\n    -커튼 뒤의 사람들의 다음 선택? (김지영 다큐멘터리 감독)\n    -특강:\"세월호 진상규명 무엇이 남았으며\n           특별법의 내용과 한계, 우리는 무엇을?\" (박주민 변호사)\n\n* 공개방송:   \n\n  2015년 1월 7일(수) 저녁 7시, 대학로 [벙커] \n'\n* 문의 & 제보 \n  트위터: @sisakfc\n  페이스북: 김어준의 파파이스\n  전자우편: sisakfc@gmail.com\n\n* 연출: 이경주 정주용, 작가: 박연신\n  종합편집: 문석진, 방송기술: 박성영\n  카메라: 정동화, 장지남, 전상진, 박성영\n  제작: 한겨레TV",
+      "publishedAt": "2014-12-12T23:28:15Z",
+      "duration": "PT1H54M50S",
+      "viewCount": 267599,
+      "likeCount": 1098,
+      "commentCount": 98,
+      "tags": [
+        "한겨레TV",
+        "한겨레",
+        "이경주",
+        "김보협",
+        "송채경화",
+        "김어준의뉴욕타임스",
+        "벙커",
+        "KFC",
+        "박근혜",
+        "세월호",
+        "파파이스",
+        "김어준",
+        "특별법",
+        "청와대",
+        "국정원",
+        "정청래",
+        "김지영",
+        "십상시",
+        "정윤회",
+        "34회",
+        "주진우",
+        "박주민",
+        "땅콩",
+        "박지만"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2014-12-12T23:28:15Z",
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "collectedAt": "2025-09-03T10:48:15Z"
     }
   },
   "channels": {
@@ -1032,9 +1074,36 @@
       "viewCount": 17649222300,
       "videoCount": 890317,
       "lastUpdated": "2025-08-29T02:43:54.429710Z"
+    },
+    "UCugbqfMO94F9guLEb6Olb2A": {
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "channelUrl": "@hankyorehtv",
+      "channelDescription": "'더불어 행복한 세상을 만드는 언론' 한겨레 공식 유튜브 채널입니다. \n ■ 편성 및 제휴 문의: leepd@hani.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 946000,
+      "viewCount": 586539536,
+      "videoCount": 9682,
+      "lastUpdated": "2025-09-03T10:48:15.383735Z"
     }
   },
-  "lastUpdated": "2025-08-29T02:43:54.429710Z",
-  "totalVideos": 22,
-  "totalChannels": 3
+  "lastUpdated": "2025-09-03T10:48:15.384732Z",
+  "totalVideos": 23,
+  "totalChannels": 4
 }

@@ -180,6 +180,32 @@
       "channelId": "UCHXvjavEtkPFJCfGlm0wTXw",
       "channelName": "경향티비",
       "collectedAt": "2025-09-03T10:01:45Z"
+    },
+    "WZ8ZirgNioA": {
+      "videoId": "WZ8ZirgNioA",
+      "title": "일제강점기 우리 문화재 동영상 '81년만의 외출'",
+      "description": "일본 교토 고려미술관이 최근 발굴·공개한 1930년대 일제강점기 우리 문화유산의 희귀 동영상([한겨레 5월8일치 2면])을 한겨레가 단독입수해 공개한다. 15분 분량의 이 동영상은 1931년 교토제일고등여학교(현 교토 오키고교) 학생들의 만주·조선 수학여행 영상물 가운데 일부를 편집한 것으로, 오키고교의 위탁을 받아 오타니대학 박물관이 소장해왔다. 울산(태화루·왜성), 경주(괘릉·불국사·석굴암·포석정), 경성(창경궁·경복궁·숭례문), 평양(을밀대·기자묘) 지역 문화유산의 옛 모습이 담겼다. 지난 4월1일~6월2일 고려미술관 전시장에서 상영된 바 있다. 동영상은 한겨레 홈페이지(www.hani.co.kr)에서 볼 수 있다.",
+      "publishedAt": "2012-06-11T08:46:27Z",
+      "duration": "PT14M49S",
+      "viewCount": 7530,
+      "likeCount": 44,
+      "commentCount": 3,
+      "tags": [
+        "일본 교토 고려미술관",
+        "한겨레",
+        "단독입수",
+        "1930년",
+        "우리 문화유산 희귀 동영상",
+        "노형석 기자",
+        "오타니대학 박물관",
+        "한겨레TV"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2012-06-11T08:46:27Z",
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "collectedAt": "2025-09-03T10:48:40Z"
     }
   },
   "channels": {
@@ -207,8 +233,8 @@
       },
       "subscriberCount": 362000,
       "viewCount": 296027619,
-      "videoCount": 6196,
-      "lastUpdated": "2025-09-03T10:01:45.947861Z"
+      "videoCount": 6197,
+      "lastUpdated": "2025-09-03T10:17:19.422052Z"
     },
     "UCHXvjavEtkPFJCfGlm0wTXw": {
       "channelId": "UCHXvjavEtkPFJCfGlm0wTXw",
@@ -234,11 +260,38 @@
       },
       "subscriberCount": 537000,
       "viewCount": 354014202,
-      "videoCount": 11630,
-      "lastUpdated": "2025-09-03T10:01:45.947861Z"
+      "videoCount": 11631,
+      "lastUpdated": "2025-09-03T10:17:19.422052Z"
+    },
+    "UCugbqfMO94F9guLEb6Olb2A": {
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "channelUrl": "@hankyorehtv",
+      "channelDescription": "'더불어 행복한 세상을 만드는 언론' 한겨레 공식 유튜브 채널입니다. \n ■ 편성 및 제휴 문의: leepd@hani.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 946000,
+      "viewCount": 586539536,
+      "videoCount": 9682,
+      "lastUpdated": "2025-09-03T10:48:40.728056Z"
     }
   },
-  "lastUpdated": "2025-09-03T10:01:45.947861Z",
-  "totalVideos": 8,
-  "totalChannels": 2
+  "lastUpdated": "2025-09-03T10:48:40.728056Z",
+  "totalVideos": 9,
+  "totalChannels": 3
 }

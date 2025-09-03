@@ -1778,6 +1778,41 @@
       "channelId": "UCdp4_yTBhQmB8E339Lafzow",
       "channelName": "조선일보",
       "collectedAt": "2025-09-03T10:02:14Z"
+    },
+    "kFBn4CVDxQw": {
+      "videoId": "kFBn4CVDxQw",
+      "title": "국정원 대선개입 수사의 열쇠, 의문의 전화번호 9개[하어영 김완의 훅 #6]",
+      "description": "2012년 국가정보원 불법 선거 운동 수사하는 검찰이 결정적 진술을 확보했다. 당시 경찰 간부가 국정원 직원에게 수사 정보를 넘겨주고 수사를 축소하려 했다는 것이다. 해당 정보를 넘겨 받은 국정원 직원 안OO 씨 입에서 나온 이야기다. \n\n참고: http://h21.hani.co.kr/arti/society/society_general/44548.html\n취재: 〈한겨레21〉 변지민, 정환봉, 하어영\n출연: 〈한겨레21〉 하어영, 김완, 변지민 \n타이틀: 〈한겨레TV〉 문석진\n연출: 〈한겨레TV〉 조소영\n\n●〈한겨레TV〉 유튜브 채널 구독하기 -https://goo.gl/vYg2yI\n#한겨레훅 #국정원 #대선개입",
+      "publishedAt": "2017-12-08T19:13:44Z",
+      "duration": "PT12M45S",
+      "viewCount": 8109,
+      "likeCount": 73,
+      "commentCount": 15,
+      "tags": [
+        "한겨레",
+        "한겨레TV",
+        "Hankyoreh",
+        "HankyorehTV",
+        "korea",
+        "한국",
+        "대한민국",
+        "훅",
+        "한겨레21",
+        "하어영",
+        "김완",
+        "변지민",
+        "통화기록",
+        "국정원",
+        "경찰",
+        "댓글",
+        "불법선거"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2017-12-08T19:13:44Z",
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "collectedAt": "2025-09-03T10:47:56Z"
     }
   },
   "channels": {
@@ -2021,8 +2056,8 @@
       },
       "subscriberCount": 537000,
       "viewCount": 354014202,
-      "videoCount": 11630,
-      "lastUpdated": "2025-09-03T10:02:14.364045Z"
+      "videoCount": 11631,
+      "lastUpdated": "2025-09-03T10:16:49.604977Z"
     },
     "UCdp4_yTBhQmB8E339Lafzow": {
       "channelId": "UCdp4_yTBhQmB8E339Lafzow",
@@ -2048,11 +2083,38 @@
       },
       "subscriberCount": 1700000,
       "viewCount": 1669752256,
-      "videoCount": 22783,
-      "lastUpdated": "2025-09-03T10:02:14.364045Z"
+      "videoCount": 22784,
+      "lastUpdated": "2025-09-03T10:16:49.606977Z"
+    },
+    "UCugbqfMO94F9guLEb6Olb2A": {
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "channelUrl": "@hankyorehtv",
+      "channelDescription": "'더불어 행복한 세상을 만드는 언론' 한겨레 공식 유튜브 채널입니다. \n ■ 편성 및 제휴 문의: leepd@hani.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 946000,
+      "viewCount": 586539536,
+      "videoCount": 9682,
+      "lastUpdated": "2025-09-03T10:47:56.197334Z"
     }
   },
-  "lastUpdated": "2025-09-03T10:02:14.364045Z",
-  "totalVideos": 67,
-  "totalChannels": 10
+  "lastUpdated": "2025-09-03T10:47:56.197334Z",
+  "totalVideos": 68,
+  "totalChannels": 11
 }

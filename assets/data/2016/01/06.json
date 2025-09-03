@@ -1461,6 +1461,83 @@
       "channelId": "UCdp4_yTBhQmB8E339Lafzow",
       "channelName": "조선일보",
       "collectedAt": "2025-09-03T10:01:37Z"
+    },
+    "C4IvouNlfag": {
+      "videoId": "C4IvouNlfag",
+      "title": "이용수 할머니 \"후손들에게 위안부 문제 떠넘기지 않겠다\"",
+      "description": "1992년 1월 8일 시작된 위안부 문제 해결을 위한 정기 수요집회가 24주년을 맞아 6일 오후 서울 종로구 구 일본대사관 앞에서 열렸다. 올해 89세 나이로 이날 집회에 참석한 일본군 위안부 피해자 이용수 할머니는 “우리 후손들에게 책임을 떠넘기지 않기 위해서 위안부 문제를 해결하겠다.”고 말했다.",
+      "publishedAt": "2016-01-06T08:04:39Z",
+      "duration": "PT2M48S",
+      "viewCount": 3844,
+      "likeCount": 34,
+      "commentCount": 3,
+      "tags": [
+        "한겨레TV",
+        "위안부",
+        "아베",
+        "박근혜",
+        "불가역적",
+        "이용수 할머니"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2016-01-06T08:04:39Z",
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "collectedAt": "2025-09-03T10:48:33Z"
+    },
+    "1IqOUDsxcOk": {
+      "videoId": "1IqOUDsxcOk",
+      "title": "[비정상칼럼쇼 33회]  살아 숨 쉬기에 매력적인 북촌",
+      "description": "비정상회담 알베르토, 다니엘, 카를로스가 들려주는 칼럼 이야기",
+      "publishedAt": "2016-01-06T07:06:45Z",
+      "duration": "PT12M19S",
+      "viewCount": 56290,
+      "likeCount": 287,
+      "commentCount": 19,
+      "tags": [
+        "마크테토",
+        "북촌",
+        "새미",
+        "카를로스",
+        "다니엘",
+        "비정상칼럼쇼",
+        "비정상의눈",
+        "중앙일보",
+        "오피니언"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2016-01-06T07:06:45Z",
+      "channelId": "UCH3mJ-nHxjjny2FJbJaqiDA",
+      "channelName": "중앙일보",
+      "collectedAt": "2025-09-03T10:48:33Z"
+    },
+    "6QC9VMzMeBg": {
+      "videoId": "6QC9VMzMeBg",
+      "title": "[나를 흔든 시 한 줄] 이장호 영화감독",
+      "description": "이장호 영화감독의 '나를 흔든 시 한 줄', 정지용의 유리창1",
+      "publishedAt": "2016-01-06T01:00:07Z",
+      "duration": "PT4M19S",
+      "viewCount": 247,
+      "likeCount": 4,
+      "commentCount": 0,
+      "tags": [
+        "이장호",
+        "영화감독",
+        "나를 흔든 시 한 줄",
+        "시",
+        "중앙일보",
+        "정지용",
+        "유리창1",
+        "논설위원"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2016-01-06T01:00:07Z",
+      "channelId": "UCH3mJ-nHxjjny2FJbJaqiDA",
+      "channelName": "중앙일보",
+      "collectedAt": "2025-09-03T10:48:33Z"
     }
   },
   "channels": {
@@ -1731,8 +1808,8 @@
       },
       "subscriberCount": 362000,
       "viewCount": 296027619,
-      "videoCount": 6196,
-      "lastUpdated": "2025-09-03T10:01:37.147507Z"
+      "videoCount": 6197,
+      "lastUpdated": "2025-09-03T10:17:02.500299Z"
     },
     "UCHXvjavEtkPFJCfGlm0wTXw": {
       "channelId": "UCHXvjavEtkPFJCfGlm0wTXw",
@@ -1758,8 +1835,8 @@
       },
       "subscriberCount": 537000,
       "viewCount": 354014202,
-      "videoCount": 11630,
-      "lastUpdated": "2025-09-03T10:01:37.147507Z"
+      "videoCount": 11631,
+      "lastUpdated": "2025-09-03T10:17:02.500299Z"
     },
     "UCdp4_yTBhQmB8E339Lafzow": {
       "channelId": "UCdp4_yTBhQmB8E339Lafzow",
@@ -1785,11 +1862,65 @@
       },
       "subscriberCount": 1700000,
       "viewCount": 1669752256,
-      "videoCount": 22783,
-      "lastUpdated": "2025-09-03T10:01:37.147507Z"
+      "videoCount": 22784,
+      "lastUpdated": "2025-09-03T10:17:02.500299Z"
+    },
+    "UCugbqfMO94F9guLEb6Olb2A": {
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "channelUrl": "@hankyorehtv",
+      "channelDescription": "'더불어 행복한 세상을 만드는 언론' 한겨레 공식 유튜브 채널입니다. \n ■ 편성 및 제휴 문의: leepd@hani.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 946000,
+      "viewCount": 586539536,
+      "videoCount": 9682,
+      "lastUpdated": "2025-09-03T10:48:33.825420Z"
+    },
+    "UCH3mJ-nHxjjny2FJbJaqiDA": {
+      "channelId": "UCH3mJ-nHxjjny2FJbJaqiDA",
+      "channelName": "중앙일보",
+      "channelUrl": "@joongangilbo",
+      "channelDescription": "현장의 진실을 중앙에 두다.",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/iqcE5aK4gFUjm5A-QO4FLDCDrTgOXTfU3oCyirTZcT9Ev1i_sKtx82GqfF2rPDfbBgFtBqL0uw=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/iqcE5aK4gFUjm5A-QO4FLDCDrTgOXTfU3oCyirTZcT9Ev1i_sKtx82GqfF2rPDfbBgFtBqL0uw=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/iqcE5aK4gFUjm5A-QO4FLDCDrTgOXTfU3oCyirTZcT9Ev1i_sKtx82GqfF2rPDfbBgFtBqL0uw=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 555000,
+      "viewCount": 475518285,
+      "videoCount": 18651,
+      "lastUpdated": "2025-09-03T10:48:33.825420Z"
     }
   },
-  "lastUpdated": "2025-09-03T10:01:37.147507Z",
-  "totalVideos": 56,
-  "totalChannels": 12
+  "lastUpdated": "2025-09-03T10:48:33.825420Z",
+  "totalVideos": 59,
+  "totalChannels": 14
 }

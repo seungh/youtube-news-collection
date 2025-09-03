@@ -19,6 +19,45 @@
       "channelId": "UCHXvjavEtkPFJCfGlm0wTXw",
       "channelName": "경향티비",
       "collectedAt": "2025-09-03T10:02:33Z"
+    },
+    "7hwJvh-Gn5A": {
+      "videoId": "7hwJvh-Gn5A",
+      "title": "[CD Player 117회] '공사'에 '헤어노출'?...〈공모자들〉 '19금' 인터뷰",
+      "description": "한국과 중국을 오가는 여객선에서 장기적출 조직적으로 매매하는 \n기업형 범죄 집단의 충격적인 진실을 담은 영화 〈공모자들〉\n배우들 기자회견서 오달수 헤어누드, 조달환 공사 연기 등 촬영 뒷이야기 공개.\n오달수 \"노출증 환자도 아니고\" \n조윤희 \"조달환처럼 자유로운 영혼을 가진 배우는 처음\"\n조달환 \"'영화 잘 되기 바라는 것 아니냐'는 감독 말에...\"\n기획: 이경주 영상취재: 박사랑(씨네21)",
+      "publishedAt": "2012-08-23T01:47:00Z",
+      "duration": "PT2M18S",
+      "viewCount": 33971,
+      "likeCount": 9,
+      "commentCount": 0,
+      "tags": [
+        "CD Player 117회",
+        "cine21",
+        "hanitv",
+        "씨네21",
+        "하니tv",
+        "공모자들",
+        "공모자들 언론시사회",
+        "임창정",
+        "오달수",
+        "조윤희",
+        "최다니엘",
+        "조달환",
+        "정지윤",
+        "장기밀매",
+        "김홍선",
+        "넝쿨째 굴러온 당신",
+        "방이숙",
+        "탁구 국가대표",
+        "박미영",
+        "조달환 공사",
+        "공사"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2012-08-23T01:47:00Z",
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "collectedAt": "2025-09-03T10:48:25Z"
     }
   },
   "channels": {
@@ -46,11 +85,38 @@
       },
       "subscriberCount": 537000,
       "viewCount": 354014202,
-      "videoCount": 11630,
-      "lastUpdated": "2025-09-03T10:02:33.117846Z"
+      "videoCount": 11631,
+      "lastUpdated": "2025-09-03T10:17:18.646965Z"
+    },
+    "UCugbqfMO94F9guLEb6Olb2A": {
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "channelUrl": "@hankyorehtv",
+      "channelDescription": "'더불어 행복한 세상을 만드는 언론' 한겨레 공식 유튜브 채널입니다. \n ■ 편성 및 제휴 문의: leepd@hani.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 946000,
+      "viewCount": 586539536,
+      "videoCount": 9682,
+      "lastUpdated": "2025-09-03T10:48:25.442551Z"
     }
   },
-  "lastUpdated": "2025-09-03T10:02:33.117846Z",
-  "totalVideos": 1,
-  "totalChannels": 1
+  "lastUpdated": "2025-09-03T10:48:25.442551Z",
+  "totalVideos": 2,
+  "totalChannels": 2
 }

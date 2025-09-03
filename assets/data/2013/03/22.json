@@ -166,6 +166,36 @@
       "channelId": "UC1aS5CRRDrN6CmR2VcpmetA",
       "channelName": "한국일보(hankookilbo.com)",
       "collectedAt": "2025-09-03T10:02:02Z"
+    },
+    "dEL2NzVsdnM": {
+      "videoId": "dEL2NzVsdnM",
+      "title": "[CD Player 141회] 지율 스님의 4대강 다큐멘터리 '모래가 흐르는 강'",
+      "description": "'모래가 흐르는 강'은 지율스님이 2008년, 4대강 착공식 뉴스를 보고 산에서 내려와 물길을 따라 걸으며 무너져 가는 강의 변화를 카메라에 담은 다큐멘터리로 오는 3월 28일 개봉 예정이다.",
+      "publishedAt": "2013-03-22T07:45:50Z",
+      "duration": "PT2M21S",
+      "viewCount": 2892,
+      "likeCount": 13,
+      "commentCount": 1,
+      "tags": [
+        "[CD Player 141회",
+        "씨네21",
+        "cine21",
+        "하니tv",
+        "hanitv",
+        "지율 스님",
+        "4대강",
+        "모래가 흐르는 강",
+        "영주댐",
+        "내성천",
+        "4대강 다큐",
+        "다큐멘터리"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2013-03-22T07:45:50Z",
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "collectedAt": "2025-09-03T10:48:40Z"
     }
   },
   "channels": {
@@ -247,11 +277,38 @@
       },
       "subscriberCount": 362000,
       "viewCount": 296027619,
-      "videoCount": 6196,
-      "lastUpdated": "2025-09-03T10:02:02.707764Z"
+      "videoCount": 6197,
+      "lastUpdated": "2025-09-03T10:17:51.007334Z"
+    },
+    "UCugbqfMO94F9guLEb6Olb2A": {
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "channelUrl": "@hankyorehtv",
+      "channelDescription": "'더불어 행복한 세상을 만드는 언론' 한겨레 공식 유튜브 채널입니다. \n ■ 편성 및 제휴 문의: leepd@hani.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 946000,
+      "viewCount": 586539536,
+      "videoCount": 9682,
+      "lastUpdated": "2025-09-03T10:48:40.546260Z"
     }
   },
-  "lastUpdated": "2025-09-03T10:02:02.707764Z",
-  "totalVideos": 6,
-  "totalChannels": 3
+  "lastUpdated": "2025-09-03T10:48:40.546260Z",
+  "totalVideos": 7,
+  "totalChannels": 4
 }

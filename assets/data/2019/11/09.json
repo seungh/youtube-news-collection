@@ -6293,6 +6293,28 @@
       "channelId": "UCdp4_yTBhQmB8E339Lafzow",
       "channelName": "조선일보",
       "collectedAt": "2025-09-03T10:02:42Z"
+    },
+    "k8n4G5l7EG0": {
+      "videoId": "k8n4G5l7EG0",
+      "title": "[중앙일보] 이낙연 총리, 독도 헬기 추락사고 실종자 가족 면담",
+      "description": "+--------------------------------------------------------------------------------+ \n\n◈ 중앙일보 공식 SNS 채널 ◈\n\n- 페이스북 : https://www.facebook.com/joongang/\n- 인스타그램 : https://www.instagram.com/joongangilbo\n- 트위터 : http://www.twitter.com/joongangilbo\n- 유튜브 : https://goo.gl/DyGoPC\n- 네이버 TV : http://tvcast.naver.com/joongangsisa\n- 네이버포스트 : https://goo.gl/eeYh4k\n\n당신이 원하는 뉴스,\n중앙일보 SNS 채널과 함께하세요.\n\n+--------------------------------------------------------------------------------+",
+      "publishedAt": "2019-11-09T06:40:42Z",
+      "duration": "PT51S",
+      "viewCount": 859,
+      "likeCount": 14,
+      "commentCount": 1,
+      "tags": [
+        "중앙일보",
+        "이낙연",
+        "독도 헬기 추락사고",
+        "민간잠수부"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2019-11-09T06:40:42Z",
+      "channelId": "UCH3mJ-nHxjjny2FJbJaqiDA",
+      "channelName": "중앙일보",
+      "collectedAt": "2025-09-03T10:49:15Z"
     }
   },
   "channels": {
@@ -6454,9 +6476,9 @@
         }
       },
       "subscriberCount": 1340000,
-      "viewCount": 870924917,
-      "videoCount": 32030,
-      "lastUpdated": "2025-08-24T21:53:52.366264Z"
+      "viewCount": 871828833,
+      "videoCount": 32204,
+      "lastUpdated": "2025-09-03T10:53:46.195689Z"
     },
     "UCkinYTS9IHqOEwR1Sze2JTw": {
       "channelId": "UCkinYTS9IHqOEwR1Sze2JTw",
@@ -6671,11 +6693,38 @@
       },
       "subscriberCount": 1700000,
       "viewCount": 1669752256,
-      "videoCount": 22783,
-      "lastUpdated": "2025-09-03T10:02:42.263037Z"
+      "videoCount": 22784,
+      "lastUpdated": "2025-09-03T10:17:59.859612Z"
+    },
+    "UCH3mJ-nHxjjny2FJbJaqiDA": {
+      "channelId": "UCH3mJ-nHxjjny2FJbJaqiDA",
+      "channelName": "중앙일보",
+      "channelUrl": "@joongangilbo",
+      "channelDescription": "현장의 진실을 중앙에 두다.",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/iqcE5aK4gFUjm5A-QO4FLDCDrTgOXTfU3oCyirTZcT9Ev1i_sKtx82GqfF2rPDfbBgFtBqL0uw=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/iqcE5aK4gFUjm5A-QO4FLDCDrTgOXTfU3oCyirTZcT9Ev1i_sKtx82GqfF2rPDfbBgFtBqL0uw=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/iqcE5aK4gFUjm5A-QO4FLDCDrTgOXTfU3oCyirTZcT9Ev1i_sKtx82GqfF2rPDfbBgFtBqL0uw=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 555000,
+      "viewCount": 475518285,
+      "videoCount": 18651,
+      "lastUpdated": "2025-09-03T10:49:15.475101Z"
     }
   },
-  "lastUpdated": "2025-09-03T10:02:42.263037Z",
-  "totalVideos": 198,
-  "totalChannels": 14
+  "lastUpdated": "2025-09-03T10:53:46.195689Z",
+  "totalVideos": 199,
+  "totalChannels": 15
 }

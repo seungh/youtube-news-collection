@@ -1610,6 +1610,80 @@
       "channelId": "UCdp4_yTBhQmB8E339Lafzow",
       "channelName": "조선일보",
       "collectedAt": "2025-09-03T10:02:16Z"
+    },
+    "37h-BD-zqlA": {
+      "videoId": "37h-BD-zqlA",
+      "title": "박근혜·삼성·최순실…‘3자 부당거래’",
+      "description": "2014년 5월, 이건희가 쓰러졌다. 이재용의 경영권 승계는 삼성 재벌에게 있어 발등에 떨어진 절박한 문제가 되었다.\n그리고 2년 반 후, 결정적 증언이 나왔다. 박근혜와 삼성과 최순실. 3자가 국민의 자산을 걸고 벌인 음험한 거래를 짚어 봤다.\n\n●〈한겨레TV〉 유튜브 채널 구독하기 -https://goo.gl/vYg2yI",
+      "publishedAt": "2016-11-17T13:55:33Z",
+      "duration": "PT5M47S",
+      "viewCount": 115793,
+      "likeCount": 281,
+      "commentCount": 41,
+      "tags": [
+        "한겨레",
+        "한겨레TV",
+        "Hankyoreh",
+        "HankyorehTV",
+        "korea",
+        "한국",
+        "대한민국",
+        "박근혜",
+        "최순실",
+        "삼성",
+        "이재용",
+        "정유라",
+        "삼성물산",
+        "엘리엇",
+        "국민연금",
+        "경영권 승계",
+        "재벌"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2016-11-17T13:55:33Z",
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "collectedAt": "2025-09-03T10:48:22Z"
+    },
+    "SJLq1QlAdXo": {
+      "videoId": "SJLq1QlAdXo",
+      "title": "'최순실 게이트' 위기의 순간에 매를 부른 말말말",
+      "description": "기사전문보기 : http://news.joins.com/article/20804495",
+      "publishedAt": "2016-11-16T15:49:16Z",
+      "duration": "PT1M7S",
+      "viewCount": 186,
+      "likeCount": 2,
+      "commentCount": 0,
+      "tags": [
+        "최순실",
+        "박근혜",
+        "말말말",
+        "정우택",
+        "친박",
+        "새누리당",
+        "비박",
+        "이원종",
+        "이정현",
+        "이우현",
+        "정진석",
+        "김재원",
+        "김명연",
+        "김진태",
+        "내시",
+        "환관",
+        "정치",
+        "청와대",
+        "최순실게이트",
+        "박근혜게이트",
+        "하야"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2016-11-16T15:49:16Z",
+      "channelId": "UCH3mJ-nHxjjny2FJbJaqiDA",
+      "channelName": "중앙일보",
+      "collectedAt": "2025-09-03T10:48:22Z"
     }
   },
   "channels": {
@@ -1880,8 +1954,8 @@
       },
       "subscriberCount": 537000,
       "viewCount": 354014202,
-      "videoCount": 11630,
-      "lastUpdated": "2025-09-03T10:02:16.344120Z"
+      "videoCount": 11631,
+      "lastUpdated": "2025-09-03T10:16:56.431561Z"
     },
     "UCdp4_yTBhQmB8E339Lafzow": {
       "channelId": "UCdp4_yTBhQmB8E339Lafzow",
@@ -1907,11 +1981,65 @@
       },
       "subscriberCount": 1700000,
       "viewCount": 1669752256,
-      "videoCount": 22783,
-      "lastUpdated": "2025-09-03T10:02:16.344120Z"
+      "videoCount": 22784,
+      "lastUpdated": "2025-09-03T10:16:56.431561Z"
+    },
+    "UCugbqfMO94F9guLEb6Olb2A": {
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "channelUrl": "@hankyorehtv",
+      "channelDescription": "'더불어 행복한 세상을 만드는 언론' 한겨레 공식 유튜브 채널입니다. \n ■ 편성 및 제휴 문의: leepd@hani.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 946000,
+      "viewCount": 586539536,
+      "videoCount": 9682,
+      "lastUpdated": "2025-09-03T10:48:22.735717Z"
+    },
+    "UCH3mJ-nHxjjny2FJbJaqiDA": {
+      "channelId": "UCH3mJ-nHxjjny2FJbJaqiDA",
+      "channelName": "중앙일보",
+      "channelUrl": "@joongangilbo",
+      "channelDescription": "현장의 진실을 중앙에 두다.",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/iqcE5aK4gFUjm5A-QO4FLDCDrTgOXTfU3oCyirTZcT9Ev1i_sKtx82GqfF2rPDfbBgFtBqL0uw=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/iqcE5aK4gFUjm5A-QO4FLDCDrTgOXTfU3oCyirTZcT9Ev1i_sKtx82GqfF2rPDfbBgFtBqL0uw=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/iqcE5aK4gFUjm5A-QO4FLDCDrTgOXTfU3oCyirTZcT9Ev1i_sKtx82GqfF2rPDfbBgFtBqL0uw=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 555000,
+      "viewCount": 475518285,
+      "videoCount": 18651,
+      "lastUpdated": "2025-09-03T10:48:22.735972Z"
     }
   },
-  "lastUpdated": "2025-09-03T10:02:16.344120Z",
-  "totalVideos": 62,
-  "totalChannels": 11
+  "lastUpdated": "2025-09-03T10:48:22.735972Z",
+  "totalVideos": 64,
+  "totalChannels": 13
 }

@@ -388,6 +388,23 @@
       "channelId": "UCHXvjavEtkPFJCfGlm0wTXw",
       "channelName": "경향티비",
       "collectedAt": "2025-09-03T10:02:30Z"
+    },
+    "1jHTanx1ylU": {
+      "videoId": "1jHTanx1ylU",
+      "title": "[한겨레캐스트 #110] 근육에 탑재한 '집단지성', 크로스핏 이근형",
+      "description": "2013년6월5일 〈이길우의 스포츠IN〉\n이길우 한겨레 선임기자의 스포츠 선수 인터뷰 \n\n◆ 이길우 선임기자가 본 크로스핏 이근형\n \n '몸짱 열풍'이 불었다. 너도 나도 배에 초콜릿 복근을 새기고 싶어 했고, 다이어트와 건강한 육체가 최고의 화두가 됐다. 헬스 체육관이 동네마다 교회와 경쟁하듯 생겨났다. 이근형씨도 그런 헬스 트레이너 중 한 명이었다. 그때 영화 〈300〉이 상영됐다. 300명의 스파르타쿠스 용사들이 수만 명의 페르시아 침략군과 맞서는영화인데, 등장한 용사들은 모두 울퉁불퉁한 근육과 선명한 '식스팩'으로 전세계 여성뿐 아니라 남성들의 영혼을 사로잡았다. \n \n2007년, 평범한 헬스 트레이너 이근형씨는 영화 〈300〉배우들의 복근을 만들어준 운동이 크로스핏이란 소식을 접했다. 누구도 그에게 크로스핏을 가르쳐주지 않았다. 이근형씨는 일본에 가서 레벨1 자격증을 따고, 이어 미국에 가서 레벨2자격증을 따냈다. 그 비결은?\n\n\n◆ 주요 내용\n- 언제 한국에 크로스핏이 도입됐나\n- 크로스핏과 헬스는 어떻게 다른가\n- 미국본부에서 전세계 회원들에게 매일매일 지령을 내린다고?\n- 어떤 사람들이 주로 체육관에 오나\n- 다이어트에 도움이 되나\n- 크로스핏 지도자로서 '건강'이란\n\n\n◆ 제작진\n앵커: 이길우, 기술감독: 박성영, 연출: 박종찬 조소영 \n\n◆ 팟캐스트\nhttps://itunes.apple.com/kr/podcast/hangyeolekaeseuteu-2012-audio/id579232108",
+      "publishedAt": "2013-06-06T16:52:03Z",
+      "duration": "PT18M31S",
+      "viewCount": 9896,
+      "likeCount": 36,
+      "commentCount": 6,
+      "tags": [],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2013-06-06T16:52:03Z",
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "collectedAt": "2025-09-03T10:48:17Z"
     }
   },
   "channels": {
@@ -496,11 +513,38 @@
       },
       "subscriberCount": 537000,
       "viewCount": 354014202,
-      "videoCount": 11630,
-      "lastUpdated": "2025-09-03T10:02:30.342534Z"
+      "videoCount": 11631,
+      "lastUpdated": "2025-09-03T10:17:15.659825Z"
+    },
+    "UCugbqfMO94F9guLEb6Olb2A": {
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "channelUrl": "@hankyorehtv",
+      "channelDescription": "'더불어 행복한 세상을 만드는 언론' 한겨레 공식 유튜브 채널입니다. \n ■ 편성 및 제휴 문의: leepd@hani.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 946000,
+      "viewCount": 586539536,
+      "videoCount": 9682,
+      "lastUpdated": "2025-09-03T10:48:17.488539Z"
     }
   },
-  "lastUpdated": "2025-09-03T10:02:30.342534Z",
-  "totalVideos": 11,
-  "totalChannels": 4
+  "lastUpdated": "2025-09-03T10:48:17.488539Z",
+  "totalVideos": 12,
+  "totalChannels": 5
 }

@@ -5474,6 +5474,52 @@
       "channelId": "UC1aS5CRRDrN6CmR2VcpmetA",
       "channelName": "한국일보(hankookilbo.com)",
       "collectedAt": "2025-09-03T10:00:25Z"
+    },
+    "FiFJ_a0Ka1s": {
+      "videoId": "FiFJ_a0Ka1s",
+      "title": "\"박근혜 탄핵 무효·석방\"  서울역 앞 보수단체 집회",
+      "description": "+--------------------------------------------------------------------------------+ \n\n◈ 중앙일보 공식 SNS 채널 ◈\n\n- 페이스북 : https://www.facebook.com/joongang/\n- 인스타그램 : https://www.instagram.com/joongangilbo\n- 트위터 : http://www.twitter.com/joongangilbo\n- 유튜브 : https://goo.gl/DyGoPC\n- 네이버 TV : http://tvcast.naver.com/joongangsisa\n- 네이버포스트 : https://goo.gl/eeYh4k\n\n당신이 원하는 뉴스,\n중앙일보 SNS 채널과 함께하세요.\n\n+--------------------------------------------------------------------------------+",
+      "publishedAt": "2019-03-10T07:53:23Z",
+      "duration": "PT27S",
+      "viewCount": 372,
+      "likeCount": 14,
+      "commentCount": 1,
+      "tags": [
+        "중앙일보",
+        "박근혜",
+        "서울역",
+        "보수단체",
+        "집회"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2019-03-10T07:53:23Z",
+      "channelId": "UCH3mJ-nHxjjny2FJbJaqiDA",
+      "channelName": "중앙일보",
+      "collectedAt": "2025-09-03T10:49:16Z"
+    },
+    "SigUrH5IWpk": {
+      "videoId": "SigUrH5IWpk",
+      "title": "文, '북·미 회담 결렬' 뒤 첫 순방지는 동남아…\"한국 역할 설명\"",
+      "description": "+--------------------------------------------------------------------------------+ \n\n◈ 중앙일보 공식 SNS 채널 ◈\n\n- 페이스북 : https://www.facebook.com/joongang/\n- 인스타그램 : https://www.instagram.com/joongangilbo\n- 트위터 : http://www.twitter.com/joongangilbo\n- 유튜브 : https://goo.gl/DyGoPC\n- 네이버 TV : http://tvcast.naver.com/joongangsisa\n- 네이버포스트 : https://goo.gl/eeYh4k\n\n당신이 원하는 뉴스,\n중앙일보 SNS 채널과 함께하세요.\n\n+--------------------------------------------------------------------------------+",
+      "publishedAt": "2019-03-10T06:55:20Z",
+      "duration": "PT23S",
+      "viewCount": 57,
+      "likeCount": 0,
+      "commentCount": 1,
+      "tags": [
+        "중앙일보",
+        "문재인 대통령",
+        "동남아",
+        "순방",
+        "서울공항"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2019-03-10T06:55:20Z",
+      "channelId": "UCH3mJ-nHxjjny2FJbJaqiDA",
+      "channelName": "중앙일보",
+      "collectedAt": "2025-09-03T10:49:16Z"
     }
   },
   "channels": {
@@ -5798,11 +5844,38 @@
       },
       "subscriberCount": 362000,
       "viewCount": 296027619,
-      "videoCount": 6196,
-      "lastUpdated": "2025-09-03T10:00:25.162109Z"
+      "videoCount": 6197,
+      "lastUpdated": "2025-09-03T10:15:46.475127Z"
+    },
+    "UCH3mJ-nHxjjny2FJbJaqiDA": {
+      "channelId": "UCH3mJ-nHxjjny2FJbJaqiDA",
+      "channelName": "중앙일보",
+      "channelUrl": "@joongangilbo",
+      "channelDescription": "현장의 진실을 중앙에 두다.",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/iqcE5aK4gFUjm5A-QO4FLDCDrTgOXTfU3oCyirTZcT9Ev1i_sKtx82GqfF2rPDfbBgFtBqL0uw=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/iqcE5aK4gFUjm5A-QO4FLDCDrTgOXTfU3oCyirTZcT9Ev1i_sKtx82GqfF2rPDfbBgFtBqL0uw=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/iqcE5aK4gFUjm5A-QO4FLDCDrTgOXTfU3oCyirTZcT9Ev1i_sKtx82GqfF2rPDfbBgFtBqL0uw=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 555000,
+      "viewCount": 475518285,
+      "videoCount": 18651,
+      "lastUpdated": "2025-09-03T10:49:16.333257Z"
     }
   },
-  "lastUpdated": "2025-09-03T10:00:25.162109Z",
-  "totalVideos": 140,
-  "totalChannels": 12
+  "lastUpdated": "2025-09-03T10:49:16.333257Z",
+  "totalVideos": 142,
+  "totalChannels": 13
 }

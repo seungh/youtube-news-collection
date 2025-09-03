@@ -5920,6 +5920,34 @@
       "channelId": "UCHXvjavEtkPFJCfGlm0wTXw",
       "channelName": "경향티비",
       "collectedAt": "2025-09-03T10:02:06Z"
+    },
+    "_Lqzy0DLDhM": {
+      "videoId": "_Lqzy0DLDhM",
+      "title": "금연, 아침과 식후가 가장 힘들다고? 코시국 담배 끊는 '꿀팁' 대방출",
+      "description": "\"이번엔 꼭 끊어야지.\" \"내가 마음만 먹으면…\"\n\n연말연시마다 흡연자가 하는 다짐이다. 올해는 코로나 때문에 그 무게가 남다르다. 하지만 흡연 동료들의 권유에, 술 먹고 의지가 흐려진 탓에 '작심삼일'로 그칠 때가 많다. 새해니까 무작정 끊겠다고 해서 쉽게 담배와 이별할 순 없다.\n \n그럼 어떻게 해야 금연에 성공할 수 있을까. 금연 전문가인 이성규 한국담배규제연구교육센터장(전 국가금연지원센터장)의 도움말을 통해 올바른 금연 정보를 정리했다.\n\n#금연 #금연꿀팁 #금연방법",
+      "publishedAt": "2021-01-15T21:00:06Z",
+      "duration": "PT5M53S",
+      "viewCount": 13494,
+      "likeCount": 65,
+      "commentCount": 11,
+      "tags": [
+        "중앙일보",
+        "금연",
+        "담배",
+        "흡연",
+        "니코틴패치",
+        "새해 금연",
+        "흡연자",
+        "금연꿀팁",
+        "금연방법",
+        "금연 보조제"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2021-01-15T21:00:06Z",
+      "channelId": "UCH3mJ-nHxjjny2FJbJaqiDA",
+      "channelName": "중앙일보",
+      "collectedAt": "2025-09-03T10:49:11Z"
     }
   },
   "channels": {
@@ -6162,9 +6190,9 @@
         }
       },
       "subscriberCount": 1340000,
-      "viewCount": 870924917,
-      "videoCount": 32030,
-      "lastUpdated": "2025-08-24T21:52:56.337929Z"
+      "viewCount": 871828833,
+      "videoCount": 32204,
+      "lastUpdated": "2025-09-03T10:53:29.181785Z"
     },
     "UCkinYTS9IHqOEwR1Sze2JTw": {
       "channelId": "UCkinYTS9IHqOEwR1Sze2JTw",
@@ -6379,11 +6407,38 @@
       },
       "subscriberCount": 537000,
       "viewCount": 354014202,
-      "videoCount": 11630,
-      "lastUpdated": "2025-09-03T10:02:06.107293Z"
+      "videoCount": 11631,
+      "lastUpdated": "2025-09-03T10:16:29.391893Z"
+    },
+    "UCH3mJ-nHxjjny2FJbJaqiDA": {
+      "channelId": "UCH3mJ-nHxjjny2FJbJaqiDA",
+      "channelName": "중앙일보",
+      "channelUrl": "@joongangilbo",
+      "channelDescription": "현장의 진실을 중앙에 두다.",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/iqcE5aK4gFUjm5A-QO4FLDCDrTgOXTfU3oCyirTZcT9Ev1i_sKtx82GqfF2rPDfbBgFtBqL0uw=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/iqcE5aK4gFUjm5A-QO4FLDCDrTgOXTfU3oCyirTZcT9Ev1i_sKtx82GqfF2rPDfbBgFtBqL0uw=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/iqcE5aK4gFUjm5A-QO4FLDCDrTgOXTfU3oCyirTZcT9Ev1i_sKtx82GqfF2rPDfbBgFtBqL0uw=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 555000,
+      "viewCount": 475518285,
+      "videoCount": 18651,
+      "lastUpdated": "2025-09-03T10:49:11.995271Z"
     }
   },
-  "lastUpdated": "2025-09-03T10:02:06.107293Z",
-  "totalVideos": 183,
-  "totalChannels": 17
+  "lastUpdated": "2025-09-03T10:53:29.181785Z",
+  "totalVideos": 184,
+  "totalChannels": 18
 }

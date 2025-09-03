@@ -1277,6 +1277,23 @@
       "channelId": "UCdp4_yTBhQmB8E339Lafzow",
       "channelName": "조선일보",
       "collectedAt": "2025-09-03T10:02:24Z"
+    },
+    "wHRy0DJVW1I": {
+      "videoId": "wHRy0DJVW1I",
+      "title": "[단독] ‘분신 경비원’ 가해자 할머니, 빈소 찾아와 사과",
+      "description": "“아저씨, 죄송합니다”\n\n‘입주민의 폭언’에 모멸감을 느껴 분신한 뒤 지난 7일 숨을 거둔 아파트 경비 노동자 고 이아무개(53)씨의 빈소에 가해자로 지목된 이아무개(74) 할머니가 10일 찾아와 조문을 하고 사과를 했다.\n이 할머니는 이날 저녁 7시30분쯤 서울 성동구 한양대병원 장례식장에 마련된 고인의 빈소를 찾아왔다. 이 할머니는 빈소에 들어서는 순간부터 몸을 가누지 못할 정도로 흐느끼다가 고인에게 절을 한 뒤 한동안 자리에서 일어서지 못하고 통곡을 했다. 이 할머니는 고인의 영정 앞에서 “아저씨 죄송합니다, 아저씨 드릴 말씀이 없습니다”라고 말했다.\n이씨의 부인 유아무개씨는 “아빠가 편히 가시겠다. 앞으로 다른 사람들한테는 제발 그러지 마시라”며 이 할머니에게 몇번이나 다짐을 받았다.\n서울 강남구 압구정동의 ㅅ아파트에서 경비원으로 일하던 고인은 입주민의 모욕을 견디다 못해 지난달 7일 분신을 했고 전신 3도 화상을 입어 병원 치료를 받아오다 지난 7일 숨을 거뒀다.\n황예랑기자 yrcomm@hani.co.kr",
+      "publishedAt": "2014-11-10T12:53:00Z",
+      "duration": "PT1M25S",
+      "viewCount": 233841,
+      "likeCount": 60,
+      "commentCount": 106,
+      "tags": [],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2014-11-10T12:53:00Z",
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "collectedAt": "2025-09-03T10:48:23Z"
     }
   },
   "channels": {
@@ -1439,8 +1456,8 @@
       },
       "subscriberCount": 537000,
       "viewCount": 354014202,
-      "videoCount": 11630,
-      "lastUpdated": "2025-09-03T10:02:24.538616Z"
+      "videoCount": 11631,
+      "lastUpdated": "2025-09-03T10:17:09.728168Z"
     },
     "UCdp4_yTBhQmB8E339Lafzow": {
       "channelId": "UCdp4_yTBhQmB8E339Lafzow",
@@ -1466,11 +1483,38 @@
       },
       "subscriberCount": 1700000,
       "viewCount": 1669752256,
-      "videoCount": 22783,
-      "lastUpdated": "2025-09-03T10:02:24.544998Z"
+      "videoCount": 22784,
+      "lastUpdated": "2025-09-03T10:17:09.728168Z"
+    },
+    "UCugbqfMO94F9guLEb6Olb2A": {
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "channelUrl": "@hankyorehtv",
+      "channelDescription": "'더불어 행복한 세상을 만드는 언론' 한겨레 공식 유튜브 채널입니다. \n ■ 편성 및 제휴 문의: leepd@hani.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 946000,
+      "viewCount": 586539536,
+      "videoCount": 9682,
+      "lastUpdated": "2025-09-03T10:48:23.174289Z"
     }
   },
-  "lastUpdated": "2025-09-03T10:02:24.544998Z",
-  "totalVideos": 42,
-  "totalChannels": 7
+  "lastUpdated": "2025-09-03T10:48:23.174289Z",
+  "totalVideos": 43,
+  "totalChannels": 8
 }

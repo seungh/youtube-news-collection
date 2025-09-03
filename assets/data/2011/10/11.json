@@ -1,0 +1,78 @@
+{
+  "videos": {
+    "2A16r8dl4bw": {
+      "videoId": "2A16r8dl4bw",
+      "title": "[CD Player 76회] 장근석, ＂내가 할리우드 못 갈 것 같아?＂",
+      "description": "2011 부산국제영화제 오픈토크 '장근석, 로건 레먼'",
+      "publishedAt": "2011-10-11T14:28:49Z",
+      "duration": "PT4M35S",
+      "viewCount": 18998,
+      "likeCount": 103,
+      "commentCount": 10,
+      "tags": [
+        "장근석"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2011-10-11T14:28:49Z",
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "collectedAt": "2025-09-03T10:48:25Z"
+    },
+    "e368pLgU4pg": {
+      "videoId": "e368pLgU4pg",
+      "title": "MB 사저 짓는 내곡동 가보니",
+      "description": "한달 전부터 서초구 내곡동 능안 마을에 소문이 쫙- 대통령 아들이 온다는 말이 있었는데 아니었다며. 경로당 앞 할머니들은 마을에 대통령 온다니 좋고\"돌아가시지만 않으면 된다\"고 말했다. 한편 그린벨트에 묶였다가 풀린지 얼마 안된 마을 주민들은\"이명박 씨가 옴으로써 경호 문제 때문에 고도 제한이 더 굳어질까\" 불안해 했다.",
+      "publishedAt": "2011-10-11T01:27:45Z",
+      "duration": "PT1M29S",
+      "viewCount": 28016,
+      "likeCount": 17,
+      "commentCount": 4,
+      "tags": [
+        "이명박",
+        "내곡동",
+        "능안마을",
+        "사저",
+        "이시형"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2011-10-11T01:27:45Z",
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "collectedAt": "2025-09-03T10:48:25Z"
+    }
+  },
+  "channels": {
+    "UCugbqfMO94F9guLEb6Olb2A": {
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "channelUrl": "@hankyorehtv",
+      "channelDescription": "'더불어 행복한 세상을 만드는 언론' 한겨레 공식 유튜브 채널입니다. \n ■ 편성 및 제휴 문의: leepd@hani.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 946000,
+      "viewCount": 586539536,
+      "videoCount": 9682,
+      "lastUpdated": "2025-09-03T10:48:25.495776Z"
+    }
+  },
+  "lastUpdated": "2025-09-03T10:48:25.495776Z",
+  "totalVideos": 2,
+  "totalChannels": 1
+}

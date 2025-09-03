@@ -7445,6 +7445,35 @@
       "channelId": "UCHXvjavEtkPFJCfGlm0wTXw",
       "channelName": "경향티비",
       "collectedAt": "2025-09-03T10:00:23Z"
+    },
+    "tT0b2mvabsc": {
+      "videoId": "tT0b2mvabsc",
+      "title": "매크로가 뭐길래? 직접해보니...",
+      "description": "●〈한겨레TV〉 유튜브 채널 구독하기 -https://goo.gl/vYg2yI\n\n2006년부터 정부부처 온라인 홍보 대행 했던 매크로 전문가 ㄱ씨의 댓글 조작 시연.",
+      "publishedAt": "2018-05-07T23:18:20Z",
+      "duration": "PT1M30S",
+      "viewCount": 75822,
+      "likeCount": 236,
+      "commentCount": 19,
+      "tags": [
+        "한겨레",
+        "한겨레TV",
+        "Hankyoreh",
+        "HankyorehTV",
+        "korea",
+        "한국",
+        "대한민국",
+        "드루킹",
+        "매크로",
+        "댓글",
+        "댓글 조작"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2018-05-07T23:18:20Z",
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "collectedAt": "2025-09-03T10:48:22Z"
     }
   },
   "channels": {
@@ -7877,11 +7906,38 @@
       },
       "subscriberCount": 537000,
       "viewCount": 354014202,
-      "videoCount": 11630,
-      "lastUpdated": "2025-09-03T10:00:23.818174Z"
+      "videoCount": 11631,
+      "lastUpdated": "2025-09-03T10:15:45.139567Z"
+    },
+    "UCugbqfMO94F9guLEb6Olb2A": {
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "channelUrl": "@hankyorehtv",
+      "channelDescription": "'더불어 행복한 세상을 만드는 언론' 한겨레 공식 유튜브 채널입니다. \n ■ 편성 및 제휴 문의: leepd@hani.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 946000,
+      "viewCount": 586539536,
+      "videoCount": 9682,
+      "lastUpdated": "2025-09-03T10:48:22.110502Z"
     }
   },
-  "lastUpdated": "2025-09-03T10:00:23.818174Z",
-  "totalVideos": 227,
-  "totalChannels": 16
+  "lastUpdated": "2025-09-03T10:48:22.110502Z",
+  "totalVideos": 228,
+  "totalChannels": 17
 }

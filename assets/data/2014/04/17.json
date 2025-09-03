@@ -360,6 +360,29 @@
       "channelId": "UCdp4_yTBhQmB8E339Lafzow",
       "channelName": "조선일보",
       "collectedAt": "2025-09-03T10:02:46Z"
+    },
+    "_s4-v6QZRyU": {
+      "videoId": "_s4-v6QZRyU",
+      "title": "\"선체 기울어져 사람들 이동 불가\" 세월호 마지막 교신",
+      "description": "해수부, 세월호와 VTS 교신 녹음파일 공개\n침몰 순간 긴박했던 상황 그대로 드러나\n\n진도 해상에서 침몰한 세월호와 해양수산부 산하 제주해양관리단 해상교통관제센터(VTS)가 16일 오전 8시55분부터 9시5분까지 무선으로 교신한 내용이 공개됐다. 위급한 상황에서 교신을 시도한 사람은 선장인지 기관사인지 아직 밝혀지지 않았다.\n\n관련기사 : \"선체 기울어져 사람들 이동 불가\" 마지막 교신\nhttp://www.hani.co.kr/arti/society/society_general/633259.html",
+      "publishedAt": "2014-04-17T04:24:15Z",
+      "duration": "PT1M8S",
+      "viewCount": 37399,
+      "likeCount": 38,
+      "commentCount": 5,
+      "tags": [
+        "세월호",
+        "진도",
+        "침몰",
+        "사고",
+        "교신"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2014-04-17T04:24:15Z",
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "collectedAt": "2025-09-03T10:47:54Z"
     }
   },
   "channels": {
@@ -495,11 +518,38 @@
       },
       "subscriberCount": 1700000,
       "viewCount": 1669752256,
-      "videoCount": 22783,
-      "lastUpdated": "2025-09-03T10:02:46.602081Z"
+      "videoCount": 22784,
+      "lastUpdated": "2025-09-03T10:18:03.766465Z"
+    },
+    "UCugbqfMO94F9guLEb6Olb2A": {
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "channelUrl": "@hankyorehtv",
+      "channelDescription": "'더불어 행복한 세상을 만드는 언론' 한겨레 공식 유튜브 채널입니다. \n ■ 편성 및 제휴 문의: leepd@hani.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 946000,
+      "viewCount": 586539536,
+      "videoCount": 9682,
+      "lastUpdated": "2025-09-03T10:47:54.487963Z"
     }
   },
-  "lastUpdated": "2025-09-03T10:02:46.602081Z",
-  "totalVideos": 15,
-  "totalChannels": 5
+  "lastUpdated": "2025-09-03T10:47:54.487963Z",
+  "totalVideos": 16,
+  "totalChannels": 6
 }

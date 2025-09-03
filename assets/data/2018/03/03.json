@@ -3468,6 +3468,32 @@
       "channelId": "UCTHCOPwqNfZ0uiKOvFyhGwg",
       "channelName": "연합뉴스TV",
       "collectedAt": "2025-08-29T02:43:14Z"
+    },
+    "9l3FwB80D1M": {
+      "videoId": "9l3FwB80D1M",
+      "title": "“게임하면 아픈거야?” 게임 중독도 질병인가요?",
+      "description": "▼“게임하면 아픈거야?” 게임 중독도 질병인가요?\n\n전 세계 20억명이 일상적으로 즐기는 게임\nWHO는 게임중독을 '질병'으로 분류한다는데...\n여러분은 어떻게 생각하세요?\n\n#WHO #게임중독 #게임이 #너무 #재밌어요 #질병인가요\n#뉴스의_노른자만_담은_비디오클립\n#스노클 #중앙일보",
+      "publishedAt": "2018-03-03T11:30:01Z",
+      "duration": "PT2M13S",
+      "viewCount": 385,
+      "likeCount": 5,
+      "commentCount": 0,
+      "tags": [
+        "WHO",
+        "게임중독",
+        "게임이",
+        "너무",
+        "재밌어요",
+        "질병인가요",
+        "중앙일보",
+        "스노클"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2018-03-03T11:30:01Z",
+      "channelId": "UCH3mJ-nHxjjny2FJbJaqiDA",
+      "channelName": "중앙일보",
+      "collectedAt": "2025-09-03T10:49:19Z"
     }
   },
   "channels": {
@@ -3740,9 +3766,36 @@
       "viewCount": 3351994752,
       "videoCount": 627296,
       "lastUpdated": "2025-08-29T02:43:14.186744Z"
+    },
+    "UCH3mJ-nHxjjny2FJbJaqiDA": {
+      "channelId": "UCH3mJ-nHxjjny2FJbJaqiDA",
+      "channelName": "중앙일보",
+      "channelUrl": "@joongangilbo",
+      "channelDescription": "현장의 진실을 중앙에 두다.",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/iqcE5aK4gFUjm5A-QO4FLDCDrTgOXTfU3oCyirTZcT9Ev1i_sKtx82GqfF2rPDfbBgFtBqL0uw=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/iqcE5aK4gFUjm5A-QO4FLDCDrTgOXTfU3oCyirTZcT9Ev1i_sKtx82GqfF2rPDfbBgFtBqL0uw=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/iqcE5aK4gFUjm5A-QO4FLDCDrTgOXTfU3oCyirTZcT9Ev1i_sKtx82GqfF2rPDfbBgFtBqL0uw=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 555000,
+      "viewCount": 475518285,
+      "videoCount": 18651,
+      "lastUpdated": "2025-09-03T10:49:19.342841Z"
     }
   },
-  "lastUpdated": "2025-08-29T02:43:14.186744Z",
-  "totalVideos": 91,
-  "totalChannels": 10
+  "lastUpdated": "2025-09-03T10:49:19.342841Z",
+  "totalVideos": 92,
+  "totalChannels": 11
 }

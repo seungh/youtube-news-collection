@@ -245,6 +245,23 @@
       "channelId": "UCHXvjavEtkPFJCfGlm0wTXw",
       "channelName": "경향티비",
       "collectedAt": "2025-09-03T10:02:30Z"
+    },
+    "_zsK6YPZHSQ": {
+      "videoId": "_zsK6YPZHSQ",
+      "title": "쌍용차 해고자들이 만든 세상에 하나뿐인 자동차",
+      "description": "[현장] 쌍용차 해고자들의 'H-20000 프로젝트'\n2만명 성금 모아 쌍용차 해고자들이 조립한 코란도\n대량 해고 사태 4년 다가오는데 그리운 공장 복귀할 날은 언제?",
+      "publishedAt": "2013-05-24T07:39:25Z",
+      "duration": "PT2M49S",
+      "viewCount": 378722,
+      "likeCount": 593,
+      "commentCount": 224,
+      "tags": [],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2013-05-24T07:39:25Z",
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "collectedAt": "2025-09-03T10:48:40Z"
     }
   },
   "channels": {
@@ -326,11 +343,38 @@
       },
       "subscriberCount": 537000,
       "viewCount": 354014202,
-      "videoCount": 11630,
-      "lastUpdated": "2025-09-03T10:02:30.556417Z"
+      "videoCount": 11631,
+      "lastUpdated": "2025-09-03T10:17:15.820482Z"
+    },
+    "UCugbqfMO94F9guLEb6Olb2A": {
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "channelUrl": "@hankyorehtv",
+      "channelDescription": "'더불어 행복한 세상을 만드는 언론' 한겨레 공식 유튜브 채널입니다. \n ■ 편성 및 제휴 문의: leepd@hani.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 946000,
+      "viewCount": 586539536,
+      "videoCount": 9682,
+      "lastUpdated": "2025-09-03T10:48:40.487613Z"
     }
   },
-  "lastUpdated": "2025-09-03T10:02:30.556417Z",
-  "totalVideos": 8,
-  "totalChannels": 3
+  "lastUpdated": "2025-09-03T10:48:40.487613Z",
+  "totalVideos": 9,
+  "totalChannels": 4
 }

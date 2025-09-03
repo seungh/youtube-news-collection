@@ -90,6 +90,32 @@
       "channelId": "UCHXvjavEtkPFJCfGlm0wTXw",
       "channelName": "경향티비",
       "collectedAt": "2025-09-03T10:02:33Z"
+    },
+    "_zsJ1lFjFSg": {
+      "videoId": "_zsJ1lFjFSg",
+      "title": "예술행동단의 콜트콜택 본사 아트어택",
+      "description": "익명의 예술인 10여명이 콜트콜텍 해고노동자 투쟁 2000일을 맞아 '예술행동단'을 만들어 콜트콜텍 본사 건물에 '아트어택'(예술행동)을 벌였다.\n\n영상취재: 김지훈  / 영상제공: 예술행동단 / 편집: 정주용",
+      "publishedAt": "2012-07-23T06:18:30Z",
+      "duration": "PT1M39S",
+      "viewCount": 1096,
+      "likeCount": 11,
+      "commentCount": 0,
+      "tags": [
+        "한겨레TV",
+        "김지훈",
+        "콜트콜텍",
+        "예술행동단",
+        "아트어택",
+        "정주용",
+        "이경주",
+        "예술행동"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2012-07-23T06:18:30Z",
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "collectedAt": "2025-09-03T10:48:34Z"
     }
   },
   "channels": {
@@ -117,11 +143,38 @@
       },
       "subscriberCount": 537000,
       "viewCount": 354014202,
-      "videoCount": 11630,
-      "lastUpdated": "2025-09-03T10:02:33.234683Z"
+      "videoCount": 11631,
+      "lastUpdated": "2025-09-03T10:17:19.004850Z"
+    },
+    "UCugbqfMO94F9guLEb6Olb2A": {
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "channelUrl": "@hankyorehtv",
+      "channelDescription": "'더불어 행복한 세상을 만드는 언론' 한겨레 공식 유튜브 채널입니다. \n ■ 편성 및 제휴 문의: leepd@hani.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 946000,
+      "viewCount": 586539536,
+      "videoCount": 9682,
+      "lastUpdated": "2025-09-03T10:48:34.845510Z"
     }
   },
-  "lastUpdated": "2025-09-03T10:02:33.234683Z",
-  "totalVideos": 4,
-  "totalChannels": 1
+  "lastUpdated": "2025-09-03T10:48:34.845510Z",
+  "totalVideos": 5,
+  "totalChannels": 2
 }

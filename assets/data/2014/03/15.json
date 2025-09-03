@@ -195,6 +195,55 @@
       "channelId": "UCdp4_yTBhQmB8E339Lafzow",
       "channelName": "조선일보",
       "collectedAt": "2025-09-03T10:02:46Z"
+    },
+    "QTH5choavxw": {
+      "videoId": "QTH5choavxw",
+      "title": "[김어준의 KFC#1] 어준의 귀환!",
+      "description": "한겨레TV 시사PT쇼! [김어준의 KFC] \n\n[김어준의 뉴욕타임스] 이후 다시 돌아왔습니다. 함께하시죠. \n\n#1. KFC 이슈브리핑\n\"구미시를 '박정희시'로 바꾸자.\"\n\n#2. 이슈토크: 국정원, 서울시 공무원 간첩 증거조작 사건 5라운드!\n\n#3. 선대인의 참죠!경제 토크: 월세 과세 정책의 진실?\n\n▶한겨레TV 프로그램 제작을 지원하는 스마트한 방법, 온라인몰 '마켓하니'  http://www.markethani.com 필요한 상품을 저렴한 가격에 구매해서 좋고, 우리 농수축산물과 중소기업을 도울 수 있어서 좋습니다. 많이 성원해주세요.\n\n프로듀서 | 이경주\n구성 | 박연신\n타이틀/종합편집 | 문석진\n카메라 | 정동화 장지남 전상진 박성영\n음악 | 3호선버터플라이, 남의집이불속 \n메이크업 | 강희정\n제작지원 | 벙커팀\n연출 | 이경주\n제작 | 한겨레TV\n\n#김어준 #한겨레TV #파파이스",
+      "publishedAt": "2014-03-14T20:31:58Z",
+      "duration": "PT1H31M59S",
+      "viewCount": 821334,
+      "likeCount": 8301,
+      "commentCount": 666,
+      "tags": [
+        "kfc",
+        "김어준의kfc",
+        "김어준",
+        "한겨레TV",
+        "한겨레",
+        "이경주피디",
+        "이경주",
+        "김보협",
+        "송채경화",
+        "선대인",
+        "김어준의뉴욕타임스",
+        "김어준의KFC",
+        "유우성",
+        "국정원",
+        "간첩",
+        "증거",
+        "조작",
+        "남재준",
+        "김용민변호사",
+        "벙커",
+        "김용민",
+        "김용민 의원",
+        "김용민 국회의원",
+        "김용민 최고위원",
+        "간첩조작",
+        "이경주 피디",
+        "이경주 PD",
+        "이경주 파파이스",
+        "이경주 김어준",
+        "김어준의 뉴욕타임스",
+        "나꼼수"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2014-03-14T20:31:58Z",
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "collectedAt": "2025-09-03T10:48:16Z"
     }
   },
   "channels": {
@@ -303,11 +352,38 @@
       },
       "subscriberCount": 1700000,
       "viewCount": 1669752256,
-      "videoCount": 22783,
-      "lastUpdated": "2025-09-03T10:02:46.716204Z"
+      "videoCount": 22784,
+      "lastUpdated": "2025-09-03T10:18:03.869190Z"
+    },
+    "UCugbqfMO94F9guLEb6Olb2A": {
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "channelUrl": "@hankyorehtv",
+      "channelDescription": "'더불어 행복한 세상을 만드는 언론' 한겨레 공식 유튜브 채널입니다. \n ■ 편성 및 제휴 문의: leepd@hani.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 946000,
+      "viewCount": 586539536,
+      "videoCount": 9682,
+      "lastUpdated": "2025-09-03T10:48:16.035020Z"
     }
   },
-  "lastUpdated": "2025-09-03T10:02:46.716204Z",
-  "totalVideos": 8,
-  "totalChannels": 4
+  "lastUpdated": "2025-09-03T10:48:16.035020Z",
+  "totalVideos": 9,
+  "totalChannels": 5
 }

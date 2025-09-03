@@ -107,6 +107,30 @@
       "channelId": "UCHXvjavEtkPFJCfGlm0wTXw",
       "channelName": "경향티비",
       "collectedAt": "2025-09-03T10:02:32Z"
+    },
+    "s5GBOpuxzII": {
+      "videoId": "s5GBOpuxzII",
+      "title": "[사회통합 UCC] 작은 차별이 가로막는 우리의 꿈",
+      "description": "차별을 녹이는 따뜻한 시선, '제3회 사회통합 공모전': 장려상\n한겨레사회정책연구소·대통령소속 사회통합위원회 공동개최\n\n작품 주제\n우리 사회 소수자인 여성에게 아무렇지 않게 일어나는 차별에 관한 이야기\n\n주요 내용\n어느 여고를 배경으로 담임 선생님과 학생이 진학상담을 하게 된다. 자신의 장래 희망을 말하자 선생님은 \"여성으로서 하기에는 힘든 직업\"이라며 다른 장래 희망을 찾아보기를 권유한다. 이 말을 듣고 고민을 하던 학생이 무심코 지나쳤던 여성에 대한 고정관념과 차별을 깨닫고 자신의 장래희망을 지켜나가겠다는 의지를 다지게 된다는 내용이다.\n\n제작자\n전남 영암여자고등학교 김한솔, 김민영, 윤정식, 정아름\n\n관련 기사: 내 가벼운 편견이, 그들에겐 커다란 벽이었다\n-http://www.hani.co.kr/arti/society/rights/551236.html",
+      "publishedAt": "2012-09-20T06:26:22Z",
+      "duration": "PT3M5S",
+      "viewCount": 2865,
+      "likeCount": 11,
+      "commentCount": 0,
+      "tags": [
+        "사회통합 UCC",
+        "여자",
+        "여성",
+        "차별",
+        "한겨레사회정책연구소",
+        "영암여자고등학교"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2012-09-20T06:26:22Z",
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "collectedAt": "2025-09-03T10:48:40Z"
     }
   },
   "channels": {
@@ -134,11 +158,38 @@
       },
       "subscriberCount": 537000,
       "viewCount": 354014202,
-      "videoCount": 11630,
-      "lastUpdated": "2025-09-03T10:02:32.918328Z"
+      "videoCount": 11631,
+      "lastUpdated": "2025-09-03T10:17:18.415148Z"
+    },
+    "UCugbqfMO94F9guLEb6Olb2A": {
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "channelUrl": "@hankyorehtv",
+      "channelDescription": "'더불어 행복한 세상을 만드는 언론' 한겨레 공식 유튜브 채널입니다. \n ■ 편성 및 제휴 문의: leepd@hani.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 946000,
+      "viewCount": 586539536,
+      "videoCount": 9682,
+      "lastUpdated": "2025-09-03T10:48:40.641545Z"
     }
   },
-  "lastUpdated": "2025-09-03T10:02:32.918328Z",
-  "totalVideos": 5,
-  "totalChannels": 1
+  "lastUpdated": "2025-09-03T10:48:40.641545Z",
+  "totalVideos": 6,
+  "totalChannels": 2
 }

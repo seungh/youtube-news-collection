@@ -198,6 +198,63 @@
       "channelId": "UCHXvjavEtkPFJCfGlm0wTXw",
       "channelName": "경향티비",
       "collectedAt": "2025-09-03T10:02:30Z"
+    },
+    "65wG7vohNMo": {
+      "videoId": "65wG7vohNMo",
+      "title": "[한겨레캐스트 #92] 한미정상회담, 해법은 없었다",
+      "description": "◆주요 내용\r\n-박근혜 대통령 주요 일정은?\r\n-이번 한미 정상회담의 중요성은?\r\n-한반도 문제, 어떤 해법 나왔나?\r\n-북한의 반응은?\r\n-중국, 일본 등 주변국의 반응은?\r\n-한반도 문제, 만족할만한 해법 나왔나?\r\n-개성공단에 어떤 영향 끼치나?\r\n-다른 쟁점 사안은?\r\n-MD에 대한 양국의 시각차는?\r\n-상·하원 합동 연설, 평가는?\r\n-한미 정상회담, 전반적인 평가는?",
+      "publishedAt": "2013-05-09T13:49:12Z",
+      "duration": "PT18M34S",
+      "viewCount": 5766,
+      "likeCount": 10,
+      "commentCount": 3,
+      "tags": [
+        "한겨레tv",
+        "한미 정상회담",
+        "박근혜",
+        "오바마",
+        "북핵"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2013-05-09T13:49:12Z",
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "collectedAt": "2025-09-03T10:48:17Z"
+    },
+    "pne-EHd0WvM": {
+      "videoId": "pne-EHd0WvM",
+      "title": "7분이면 터득하는 '극장 음향 시스템'의 비밀 (1)",
+      "description": "이 영상은 돌비사가 극장 음향 시스템의 이해를 돕기 위해\n한겨레TV에 제공한 영상입니다\n\n관련기사:7분이면 터득하는 '극장음향시스템'의 비밀 http://www.hani.co.kr/arti/culture/movie/586656.html",
+      "publishedAt": "2013-05-09T03:08:18Z",
+      "duration": "PT7M36S",
+      "viewCount": 13753,
+      "likeCount": 138,
+      "commentCount": 0,
+      "tags": [],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2013-05-09T03:08:18Z",
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "collectedAt": "2025-09-03T10:48:17Z"
+    },
+    "z3TP5F3JrV0": {
+      "videoId": "z3TP5F3JrV0",
+      "title": "7분이면 터득하는 '극장 음향 시스템'의 비밀 (2)",
+      "description": "이 영상은 돌비사가 극장 음향 시스템의 이해를 돕기 위해\n한겨레TV에 제공한 영상입니다\n\n관련기사:7분이면 터득하는 '극장음향시스템'의 비밀 http://www.hani.co.kr/arti/culture/movie/586656.html",
+      "publishedAt": "2013-05-09T03:08:11Z",
+      "duration": "PT37S",
+      "viewCount": 3649,
+      "likeCount": 19,
+      "commentCount": 0,
+      "tags": [],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2013-05-09T03:08:11Z",
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "collectedAt": "2025-09-03T10:48:17Z"
     }
   },
   "channels": {
@@ -279,11 +336,38 @@
       },
       "subscriberCount": 537000,
       "viewCount": 354014202,
-      "videoCount": 11630,
-      "lastUpdated": "2025-09-03T10:02:30.768002Z"
+      "videoCount": 11631,
+      "lastUpdated": "2025-09-03T10:17:15.984403Z"
+    },
+    "UCugbqfMO94F9guLEb6Olb2A": {
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "channelUrl": "@hankyorehtv",
+      "channelDescription": "'더불어 행복한 세상을 만드는 언론' 한겨레 공식 유튜브 채널입니다. \n ■ 편성 및 제휴 문의: leepd@hani.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 946000,
+      "viewCount": 586539536,
+      "videoCount": 9682,
+      "lastUpdated": "2025-09-03T10:48:17.759704Z"
     }
   },
-  "lastUpdated": "2025-09-03T10:02:30.768002Z",
-  "totalVideos": 7,
-  "totalChannels": 3
+  "lastUpdated": "2025-09-03T10:48:17.759704Z",
+  "totalVideos": 10,
+  "totalChannels": 4
 }

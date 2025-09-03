@@ -434,6 +434,31 @@
       "channelId": "UCTHCOPwqNfZ0uiKOvFyhGwg",
       "channelName": "연합뉴스TV",
       "collectedAt": "2025-08-29T02:43:35Z"
+    },
+    "r2y_mkzs6II": {
+      "videoId": "r2y_mkzs6II",
+      "title": "윤태호 1% 권력층 현실 묘사 비결",
+      "description": "●〈한겨레TV〉 유튜브 채널 구독하기 -https://goo.gl/vYg2yI\n부천국제만화축제에서 생애 첫 개인전을 열고 있는 그를 만나 그것부터 묻지 않을 수 없었다. “신문사 주필이나 대기업 임원들과 식사자리를 할 기회가 있을 때 이들은 일반적 사람들의 사고체계완 좀 다른 게 있구나 생각했어요. 특히 이들이 평범한 사람들을 대할 때 자신을 어떻게 설정하는지를 예민하게 관찰했지요.”\n관련기사 : http://m.hani.co.kr/arti/culture/movie/754536.html\n취재 남은주, 영상 조소영",
+      "publishedAt": "2016-07-31T07:56:26Z",
+      "duration": "PT4M37S",
+      "viewCount": 17582,
+      "likeCount": 64,
+      "commentCount": 6,
+      "tags": [
+        "한겨레",
+        "한겨레TV",
+        "Hankyoreh",
+        "HankyorehTV",
+        "korea",
+        "한국",
+        "대한민국"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2016-07-31T07:56:26Z",
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "collectedAt": "2025-09-03T10:48:39Z"
     }
   },
   "channels": {
@@ -598,9 +623,36 @@
       "viewCount": 17649222300,
       "videoCount": 890317,
       "lastUpdated": "2025-08-29T02:43:35.853930Z"
+    },
+    "UCugbqfMO94F9guLEb6Olb2A": {
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "channelUrl": "@hankyorehtv",
+      "channelDescription": "'더불어 행복한 세상을 만드는 언론' 한겨레 공식 유튜브 채널입니다. \n ■ 편성 및 제휴 문의: leepd@hani.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 946000,
+      "viewCount": 586539536,
+      "videoCount": 9682,
+      "lastUpdated": "2025-09-03T10:48:39.344539Z"
     }
   },
-  "lastUpdated": "2025-08-29T02:43:35.853930Z",
-  "totalVideos": 14,
-  "totalChannels": 6
+  "lastUpdated": "2025-09-03T10:48:39.344539Z",
+  "totalVideos": 15,
+  "totalChannels": 7
 }

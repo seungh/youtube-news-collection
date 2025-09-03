@@ -854,6 +854,32 @@
       "channelId": "UC1aS5CRRDrN6CmR2VcpmetA",
       "channelName": "한국일보(hankookilbo.com)",
       "collectedAt": "2025-09-03T10:01:43Z"
+    },
+    "wXH2Uspv0V0": {
+      "videoId": "wXH2Uspv0V0",
+      "title": "가까이서 본 세월호",
+      "description": "2017년 3월30일.\n침몰 1080일만에 반잠수정에 실린 세월호의 모습. \n\n선체는 곳곳이 긁혀있고 부식도 심하게 진행됐고,\n손상되거나 없어진 유실방지망도 많이 보였다.\n무엇보다 램프 등 침몰 원인을 밝힐 중요 증거물도 이미 많이 훼손됐다.\n\n영상제공 : 416 세월호 참사 가족협의회\n\n\n●〈한겨레TV〉 유튜브 채널 구독하기 -https://goo.gl/vYg2yI",
+      "publishedAt": "2017-03-31T15:45:59Z",
+      "duration": "PT2M49S",
+      "viewCount": 96219,
+      "likeCount": 376,
+      "commentCount": 66,
+      "tags": [
+        "한겨레",
+        "한겨레TV",
+        "Hankyoreh",
+        "HankyorehTV",
+        "korea",
+        "한국",
+        "대한민국",
+        "세월호"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2017-03-31T15:45:59Z",
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "collectedAt": "2025-09-03T10:47:52Z"
     }
   },
   "channels": {
@@ -1070,11 +1096,38 @@
       },
       "subscriberCount": 362000,
       "viewCount": 296027619,
-      "videoCount": 6196,
-      "lastUpdated": "2025-09-03T10:01:43.682082Z"
+      "videoCount": 6197,
+      "lastUpdated": "2025-09-03T10:17:40.262006Z"
+    },
+    "UCugbqfMO94F9guLEb6Olb2A": {
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "channelUrl": "@hankyorehtv",
+      "channelDescription": "'더불어 행복한 세상을 만드는 언론' 한겨레 공식 유튜브 채널입니다. \n ■ 편성 및 제휴 문의: leepd@hani.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 946000,
+      "viewCount": 586539536,
+      "videoCount": 9682,
+      "lastUpdated": "2025-09-03T10:47:52.246384Z"
     }
   },
-  "lastUpdated": "2025-09-03T10:01:43.682082Z",
-  "totalVideos": 30,
-  "totalChannels": 8
+  "lastUpdated": "2025-09-03T10:47:52.246384Z",
+  "totalVideos": 31,
+  "totalChannels": 9
 }

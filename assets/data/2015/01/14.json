@@ -1362,6 +1362,28 @@
       "channelId": "UCdp4_yTBhQmB8E339Lafzow",
       "channelName": "조선일보",
       "collectedAt": "2025-09-03T10:01:38Z"
+    },
+    "8oIryNoFuQw": {
+      "videoId": "8oIryNoFuQw",
+      "title": "친박 홍문종 ‘충성의 이유’  [정치토크 돌직구 23회]",
+      "description": "‘친박 핵심’ 홍문종 새누리당 의원이 말하는 박근혜 대통령과 2015년 정국.\r\n\r\n10년 전 여당의 경기도당 위원장을 맡았을 때 박근혜 대통령과 첫 인연을 맺은 홍문종 새누리당 의원은 박 대통령의 ‘복심’으로 불린다. 그가 평소에 하던 말들이 박 대통령의 신년 기자회견 주요 내용에 그대로 담긴 것이 이를 방증한다. 홍 의원은 유임된 김기춘 청와대 비서실장에",
+      "publishedAt": "2015-01-14T01:30:08Z",
+      "duration": "PT32M26S",
+      "viewCount": 21194,
+      "likeCount": 29,
+      "commentCount": 15,
+      "tags": [
+        "한겨레TV",
+        "홍문종",
+        "박근혜",
+        "친박"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2015-01-14T01:30:08Z",
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "collectedAt": "2025-09-03T10:48:13Z"
     }
   },
   "channels": {
@@ -1578,8 +1600,8 @@
       },
       "subscriberCount": 362000,
       "viewCount": 296027619,
-      "videoCount": 6196,
-      "lastUpdated": "2025-09-03T10:01:38.531505Z"
+      "videoCount": 6197,
+      "lastUpdated": "2025-09-03T10:17:08.637412Z"
     },
     "UCHXvjavEtkPFJCfGlm0wTXw": {
       "channelId": "UCHXvjavEtkPFJCfGlm0wTXw",
@@ -1605,8 +1627,8 @@
       },
       "subscriberCount": 537000,
       "viewCount": 354014202,
-      "videoCount": 11630,
-      "lastUpdated": "2025-09-03T10:01:38.532506Z"
+      "videoCount": 11631,
+      "lastUpdated": "2025-09-03T10:17:08.637412Z"
     },
     "UCdp4_yTBhQmB8E339Lafzow": {
       "channelId": "UCdp4_yTBhQmB8E339Lafzow",
@@ -1632,11 +1654,38 @@
       },
       "subscriberCount": 1700000,
       "viewCount": 1669752256,
-      "videoCount": 22783,
-      "lastUpdated": "2025-09-03T10:01:38.532506Z"
+      "videoCount": 22784,
+      "lastUpdated": "2025-09-03T10:17:08.637412Z"
+    },
+    "UCugbqfMO94F9guLEb6Olb2A": {
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "channelUrl": "@hankyorehtv",
+      "channelDescription": "'더불어 행복한 세상을 만드는 언론' 한겨레 공식 유튜브 채널입니다. \n ■ 편성 및 제휴 문의: leepd@hani.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 946000,
+      "viewCount": 586539536,
+      "videoCount": 9682,
+      "lastUpdated": "2025-09-03T10:48:13.200977Z"
     }
   },
-  "lastUpdated": "2025-09-03T10:01:38.532506Z",
-  "totalVideos": 46,
-  "totalChannels": 10
+  "lastUpdated": "2025-09-03T10:48:13.200977Z",
+  "totalVideos": 47,
+  "totalChannels": 11
 }

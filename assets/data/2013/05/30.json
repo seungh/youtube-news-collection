@@ -353,6 +353,53 @@
       "channelId": "UCHXvjavEtkPFJCfGlm0wTXw",
       "channelName": "경향티비",
       "collectedAt": "2025-09-03T10:02:30Z"
+    },
+    "gVV2Ea4rY6s": {
+      "videoId": "gVV2Ea4rY6s",
+      "title": "[한겨레캐스트 #105] 하루키 선인세 16억, 한국 출판계는 '봉'인가?",
+      "description": "◆주요 내용\r\n-하루키 신작 판권경쟁 결과는?\r\n-거액의 선인세 추정근거는?\r\n-선인세, 비공개여야 하나?\r\n-민음사의 판권 획득, 선인세가 결정적 요인이었나?\r\n-하루키 신작의 내용은?\r\n-하루키 신작, 일본에서의 인기는?\r\n-하루키의 인기 비결은?\r\n-하루키의 작품 경향은?\r\n-출판업계 '출혈 경쟁' 어떻게 봐야하나?\r\n-국내 저작물에 대한 대우 수준은?\r\n-출판시장 인세 문제 바람직한 방향은?",
+      "publishedAt": "2013-05-30T10:40:39Z",
+      "duration": "PT15M26S",
+      "viewCount": 1850,
+      "likeCount": 12,
+      "commentCount": 2,
+      "tags": [
+        "한겨레tv",
+        "하루키",
+        "선인세",
+        "민음사"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2013-05-30T10:40:39Z",
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "collectedAt": "2025-09-03T10:48:17Z"
+    },
+    "_fEHJHL97qE": {
+      "videoId": "_fEHJHL97qE",
+      "title": "'사이버 일탈' 누군가에게 흉기입니다",
+      "description": "[시청자 참여영상] 당신도 사이버 이중인격자는 아닙니까?\n\n(이 영상은 중앙대 신문방송학과 융합저널리즘 수업을 듣고 있는 학생이 수업 과제로 제작해 〈한겨레TV〉에 보내왔습니다.)\n\n 평소 너무나도 따뜻한 사람들. 하지만 인터넷에서 그들이 '무사'(武士)로 변신한다?\n 최근 한 유머 사이트가 사회적 이슈로 떠올랐다. 이 사이트 이용자들이 호남 사람과 여성, 전직 대통령을 조롱하는 게시판 글로 논란을 빚었다.\n특히, 이 사이트 안에서 본인을 인증하는 사진이 올라오면서 논란이 증폭됐다. 특정 대학의 교수와 학생은 물론 한 초등학교 교사는 거리낌없이 로리타(소아 성애자)임을 밝혀 충격을 줬다.\n 오프라인과 온라인이 다른, 이른바 '온라인 이중인격자'가 늘어나면서 사람들은 겉모습만 보고 믿기 힘든 지경에 이르렀다. 또, 온라인 일탈과 악성 댓글은 누군가의 인격을 죽이는 사회적 흉기다. 이에 대한 이야기를 짤막한 영상에 담았다.\n\n기획·제작: 정성우 중앙대학교 신문방송학부 3년",
+      "publishedAt": "2013-05-30T12:31:52Z",
+      "duration": "PT1M1S",
+      "viewCount": 1837,
+      "likeCount": 8,
+      "commentCount": 0,
+      "tags": [
+        "일베",
+        "댓글",
+        "오늘의 유머",
+        "일간베스트",
+        "중앙대학교",
+        "맹꽁이",
+        "정성우"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2013-05-30T12:31:52Z",
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "collectedAt": "2025-09-03T10:48:17Z"
     }
   },
   "channels": {
@@ -488,11 +535,38 @@
       },
       "subscriberCount": 537000,
       "viewCount": 354014202,
-      "videoCount": 11630,
-      "lastUpdated": "2025-09-03T10:02:30.492106Z"
+      "videoCount": 11631,
+      "lastUpdated": "2025-09-03T10:17:15.763203Z"
+    },
+    "UCugbqfMO94F9guLEb6Olb2A": {
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "channelUrl": "@hankyorehtv",
+      "channelDescription": "'더불어 행복한 세상을 만드는 언론' 한겨레 공식 유튜브 채널입니다. \n ■ 편성 및 제휴 문의: leepd@hani.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 946000,
+      "viewCount": 586539536,
+      "videoCount": 9682,
+      "lastUpdated": "2025-09-03T10:48:17.602318Z"
     }
   },
-  "lastUpdated": "2025-09-03T10:02:30.492106Z",
-  "totalVideos": 13,
-  "totalChannels": 5
+  "lastUpdated": "2025-09-03T10:48:17.602318Z",
+  "totalVideos": 15,
+  "totalChannels": 6
 }

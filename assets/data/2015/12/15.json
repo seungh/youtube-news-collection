@@ -1195,6 +1195,53 @@
       "channelId": "UCdp4_yTBhQmB8E339Lafzow",
       "channelName": "조선일보",
       "collectedAt": "2025-09-03T10:02:19Z"
+    },
+    "a_19AfvG3BQ": {
+      "videoId": "a_19AfvG3BQ",
+      "title": "[현장] 세월호 청문회 “본청은 청와대 보고만 관심”",
+      "description": "세월호 특조위가 14일 서울 와이더블유시에이(YWCA) 강당에서 사흘간의 일정으로 청문회에 돌입했다. 세월호 참사가 일어난 지 1년8개월, 특별법 제정 이후 특조위 구성과 예산 문제 등으로 1년여를 표류한 끝에, 겨우 뗀 첫발이었다. 진상규명을 간절히 바라는 유가족과 피해자, 취재진으로 가득 찬 이날 청문회장은 김석균 해양경찰청장(이하 당시 직책) 등 증인들의 잇단 ‘책임 회피’ 발언으로 분노와 탄식 소리만 가득했다. 급기야 한 생존 피해자는 답답함을 토로하며 자해를 시도하기까지 했다.\n\n영상: 조소영",
+      "publishedAt": "2015-12-14T21:09:29Z",
+      "duration": "PT9M50S",
+      "viewCount": 61748,
+      "likeCount": 161,
+      "commentCount": 70,
+      "tags": [
+        "세월호",
+        "특조위",
+        "청문회",
+        "해경"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2015-12-14T21:09:29Z",
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "collectedAt": "2025-09-03T10:47:53Z"
+    },
+    "pOQVpz5yILM": {
+      "videoId": "pOQVpz5yILM",
+      "title": "북한 최초의 걸그룹 '모란봉악단'",
+      "description": "모란봉악단 (牡丹峰樂團, Moranbong Band)은 조선민주주의인민공화국 역사상 최초의 걸 그룹이다. 2012년에 김정은 제1위원장의 명령으로 창단되었다.\n\n최근 북한 모란봉악단의 중국 공연 취소가 무성한 궁금증을 낳고 있다. \n\nhttp://news.joins.com/article/19246900",
+      "publishedAt": "2015-12-15T04:34:52Z",
+      "duration": "PT1M11S",
+      "viewCount": 21405,
+      "likeCount": 50,
+      "commentCount": 7,
+      "tags": [
+        "모란봉악단",
+        "Moranbong Band",
+        "north korea",
+        "걸그룹",
+        "북한",
+        "김정은",
+        "중앙일보"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2015-12-15T04:34:52Z",
+      "channelId": "UCH3mJ-nHxjjny2FJbJaqiDA",
+      "channelName": "중앙일보",
+      "collectedAt": "2025-09-03T10:47:53Z"
     }
   },
   "channels": {
@@ -1465,8 +1512,8 @@
       },
       "subscriberCount": 537000,
       "viewCount": 354014202,
-      "videoCount": 11630,
-      "lastUpdated": "2025-09-03T10:02:19.644263Z"
+      "videoCount": 11631,
+      "lastUpdated": "2025-09-03T10:17:02.843015Z"
     },
     "UCdp4_yTBhQmB8E339Lafzow": {
       "channelId": "UCdp4_yTBhQmB8E339Lafzow",
@@ -1492,11 +1539,65 @@
       },
       "subscriberCount": 1700000,
       "viewCount": 1669752256,
-      "videoCount": 22783,
-      "lastUpdated": "2025-09-03T10:02:19.644263Z"
+      "videoCount": 22784,
+      "lastUpdated": "2025-09-03T10:17:02.843015Z"
+    },
+    "UCugbqfMO94F9guLEb6Olb2A": {
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "channelUrl": "@hankyorehtv",
+      "channelDescription": "'더불어 행복한 세상을 만드는 언론' 한겨레 공식 유튜브 채널입니다. \n ■ 편성 및 제휴 문의: leepd@hani.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 946000,
+      "viewCount": 586539536,
+      "videoCount": 9682,
+      "lastUpdated": "2025-09-03T10:47:53.196588Z"
+    },
+    "UCH3mJ-nHxjjny2FJbJaqiDA": {
+      "channelId": "UCH3mJ-nHxjjny2FJbJaqiDA",
+      "channelName": "중앙일보",
+      "channelUrl": "@joongangilbo",
+      "channelDescription": "현장의 진실을 중앙에 두다.",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/iqcE5aK4gFUjm5A-QO4FLDCDrTgOXTfU3oCyirTZcT9Ev1i_sKtx82GqfF2rPDfbBgFtBqL0uw=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/iqcE5aK4gFUjm5A-QO4FLDCDrTgOXTfU3oCyirTZcT9Ev1i_sKtx82GqfF2rPDfbBgFtBqL0uw=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/iqcE5aK4gFUjm5A-QO4FLDCDrTgOXTfU3oCyirTZcT9Ev1i_sKtx82GqfF2rPDfbBgFtBqL0uw=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 555000,
+      "viewCount": 475518285,
+      "videoCount": 18651,
+      "lastUpdated": "2025-09-03T10:47:53.196588Z"
     }
   },
-  "lastUpdated": "2025-09-03T10:02:19.644263Z",
-  "totalVideos": 42,
-  "totalChannels": 11
+  "lastUpdated": "2025-09-03T10:47:53.196588Z",
+  "totalVideos": 44,
+  "totalChannels": 13
 }

@@ -163,6 +163,30 @@
       "channelId": "UCHXvjavEtkPFJCfGlm0wTXw",
       "channelName": "경향티비",
       "collectedAt": "2025-09-03T10:02:31Z"
+    },
+    "-Jf8XVFjbtQ": {
+      "videoId": "-Jf8XVFjbtQ",
+      "title": "안철수 귀국 기자회견 \"새 정치 위해 가시밭길 갈 것\"",
+      "description": "4·24 국회의원 재보선에 출마하기 위해 11일 귀국한 안철수 전 서울대 교수는 \"새로운 정치, 국민이 주인이 되는 국민을 위한 정치를 위해 어떤 가시밭길도 가겠다\"며 \"서울 노원병 국회의원 선거 출마는 그 시작\"이라고 말했다. 안 전 교수는 미국 샌프란시스코에서 출발한 대한항공 KE024편으로 인천공항에 도착한 뒤 지지자에게 이렇게 말했다.\n안 전 교수는 \"더 낮은 자세로 현실과 부딪치며 텃밭을 일궈 가겠다. 저는 국민 위에 군림하고 편을 갈라 대립하는 높은 정치 대신에 국민의 삶과 국민의 맘을 중하게 여기는 낮은 정치를 하고 싶다. 정치 신인이 현실 정치에 처음 몸을 던지는 심정으로 열심히 노력하겠다\"고 새 정치 실현을 다짐했다. 그는 또 \"지난 대선 과정에서 성원과 기대에 못 미친 점에 대해 진심으로 송구스럽게 생각한다. 모든 것이 저의 부족함이고 불찰이었다. 무엇보다도 제 부족함과 준비 부족으로 새정치에 대한 국민적인 여망을 실현시키지 못 했고 설령 정책비전의 방향은 옳았다고 해도 국민 고통과 땀 냄새를 담아내는데 많이 부족했다고 생각한다\"고 사과했다. 그는 \"지난 대선 과정에서의 이런 부족함에 대해서 무한 책임을 느끼고 있다\"고 거듭 머리를 숙였다.",
+      "publishedAt": "2013-03-11T13:50:35Z",
+      "duration": "PT11M36S",
+      "viewCount": 13048,
+      "likeCount": 35,
+      "commentCount": 12,
+      "tags": [
+        "안철수",
+        "정치",
+        "노원",
+        "선거",
+        "노회찬",
+        "김지선"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2013-03-11T13:50:35Z",
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "collectedAt": "2025-09-03T10:48:34Z"
     }
   },
   "channels": {
@@ -244,11 +268,38 @@
       },
       "subscriberCount": 537000,
       "viewCount": 354014202,
-      "videoCount": 11630,
-      "lastUpdated": "2025-09-03T10:02:31.360765Z"
+      "videoCount": 11631,
+      "lastUpdated": "2025-09-03T10:17:16.544912Z"
+    },
+    "UCugbqfMO94F9guLEb6Olb2A": {
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "channelUrl": "@hankyorehtv",
+      "channelDescription": "'더불어 행복한 세상을 만드는 언론' 한겨레 공식 유튜브 채널입니다. \n ■ 편성 및 제휴 문의: leepd@hani.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 946000,
+      "viewCount": 586539536,
+      "videoCount": 9682,
+      "lastUpdated": "2025-09-03T10:48:34.726280Z"
     }
   },
-  "lastUpdated": "2025-09-03T10:02:31.360765Z",
-  "totalVideos": 6,
-  "totalChannels": 3
+  "lastUpdated": "2025-09-03T10:48:34.726280Z",
+  "totalVideos": 7,
+  "totalChannels": 4
 }

@@ -1963,6 +1963,49 @@
       "channelId": "UCdp4_yTBhQmB8E339Lafzow",
       "channelName": "조선일보",
       "collectedAt": "2025-09-03T10:01:44Z"
+    },
+    "OqvDu6ixllY": {
+      "videoId": "OqvDu6ixllY",
+      "title": "[비정상칼럼쇼 28회] 카를로스 머나먼 브라질에도 한류열풍이",
+      "description": "비정상회담 알베르토, 다니엘, 카를로스가 들려주는 칼럼 이야기",
+      "publishedAt": "2015-12-02T09:56:10Z",
+      "duration": "PT10M38S",
+      "viewCount": 44456,
+      "likeCount": 164,
+      "commentCount": 19,
+      "tags": [
+        "비정상칼럼쇼",
+        "브라질",
+        "한류열풍",
+        "카를로스",
+        "비정상의 눈",
+        "오피니언 방송",
+        "한류",
+        "비정상회담"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2015-12-02T09:56:10Z",
+      "channelId": "UCH3mJ-nHxjjny2FJbJaqiDA",
+      "channelName": "중앙일보",
+      "collectedAt": "2025-09-03T10:49:21Z"
+    },
+    "vTn2Nsgerhg": {
+      "videoId": "vTn2Nsgerhg",
+      "title": "[직격인터뷰 Full Version] 유기준 새누리당 의원 '공천 룰 확립 통한 인재 영입 절실'",
+      "description": "김영삼 전 대통령의 서거 정국이 끝났다. 여야는 내년 총선을 위한 공천 전쟁에 본격적인 불씨를 피우고 있다. 상황은 녹록지 않다. 새정치민주연합은 문-안-박 연대가 좌초되며 내홍이 여전하다. 새누리당은 잠시 잊고 지냈던 공천 룰 논쟁이 재점화했다.\n\n1일 오전 10시에 생방송 된 중앙일보 인터넷 방송 '직격인터뷰(28회)'에서는 진행을 맡은 본지 강찬호 논설위원과 새누리당 유기준 의원이 향후 여야의 공천 전쟁에 대한 전망을 논의했다. 유 의원은 지난 8개월간 해양수산부 장관을 역임하고 최근 국회로 돌아왔다. 지난 2월까지 국회 외교통일위원장을 맡아 왔으며 친박 중진으로 알려져 있다.",
+      "publishedAt": "2015-12-02T00:55:00Z",
+      "duration": "PT1H13M44S",
+      "viewCount": 67,
+      "likeCount": 0,
+      "commentCount": 0,
+      "tags": [],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2015-12-02T00:55:00Z",
+      "channelId": "UCH3mJ-nHxjjny2FJbJaqiDA",
+      "channelName": "중앙일보",
+      "collectedAt": "2025-09-03T10:49:21Z"
     }
   },
   "channels": {
@@ -2233,8 +2276,8 @@
       },
       "subscriberCount": 362000,
       "viewCount": 296027619,
-      "videoCount": 6196,
-      "lastUpdated": "2025-09-03T10:01:44.901209Z"
+      "videoCount": 6197,
+      "lastUpdated": "2025-09-03T10:17:03.061953Z"
     },
     "UCHXvjavEtkPFJCfGlm0wTXw": {
       "channelId": "UCHXvjavEtkPFJCfGlm0wTXw",
@@ -2260,8 +2303,8 @@
       },
       "subscriberCount": 537000,
       "viewCount": 354014202,
-      "videoCount": 11630,
-      "lastUpdated": "2025-09-03T10:01:44.901209Z"
+      "videoCount": 11631,
+      "lastUpdated": "2025-09-03T10:17:03.061953Z"
     },
     "UCdp4_yTBhQmB8E339Lafzow": {
       "channelId": "UCdp4_yTBhQmB8E339Lafzow",
@@ -2287,11 +2330,38 @@
       },
       "subscriberCount": 1700000,
       "viewCount": 1669752256,
-      "videoCount": 22783,
-      "lastUpdated": "2025-09-03T10:01:44.901209Z"
+      "videoCount": 22784,
+      "lastUpdated": "2025-09-03T10:17:03.061953Z"
+    },
+    "UCH3mJ-nHxjjny2FJbJaqiDA": {
+      "channelId": "UCH3mJ-nHxjjny2FJbJaqiDA",
+      "channelName": "중앙일보",
+      "channelUrl": "@joongangilbo",
+      "channelDescription": "현장의 진실을 중앙에 두다.",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/iqcE5aK4gFUjm5A-QO4FLDCDrTgOXTfU3oCyirTZcT9Ev1i_sKtx82GqfF2rPDfbBgFtBqL0uw=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/iqcE5aK4gFUjm5A-QO4FLDCDrTgOXTfU3oCyirTZcT9Ev1i_sKtx82GqfF2rPDfbBgFtBqL0uw=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/iqcE5aK4gFUjm5A-QO4FLDCDrTgOXTfU3oCyirTZcT9Ev1i_sKtx82GqfF2rPDfbBgFtBqL0uw=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 555000,
+      "viewCount": 475518285,
+      "videoCount": 18651,
+      "lastUpdated": "2025-09-03T10:49:21.888127Z"
     }
   },
-  "lastUpdated": "2025-09-03T10:01:44.901209Z",
-  "totalVideos": 68,
-  "totalChannels": 12
+  "lastUpdated": "2025-09-03T10:49:21.888127Z",
+  "totalVideos": 70,
+  "totalChannels": 13
 }

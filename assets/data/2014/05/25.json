@@ -308,6 +308,69 @@
       "channelId": "UCdp4_yTBhQmB8E339Lafzow",
       "channelName": "조선일보",
       "collectedAt": "2025-09-03T10:02:26Z"
+    },
+    "_OCNBcLx1nQ": {
+      "videoId": "_OCNBcLx1nQ",
+      "title": "\"은화야, 민지야, 가윤아...\" 세월호 유족, 촛불 참여 [한겨레포커스]",
+      "description": "24일 서울 청계광장에서 세월호 사고 희생자들을 추모하는 대규모 집회와 행진이 다시 한 번 열렸다. 618개 시민사회단체로 구성된 '세월호 국민대책회의'는 이날 오후 6시부터 진행한 '세월호 참사 2차 범국민촛불행동' 집회에 3만명 이상의 시민이 모였다고 밝혔다.\n이날 집회에는 세월호 유가족대책위 대변인인 유경근씨와 생존 단원고학생의 가족대표인 장동원씨도 함께했다. 이들은 집회 참여 시민들과 함께 실종자들의 이름을 부르며 눈시울을 붉혔다.\n김도성 피디 kdspd@hani.co.kr",
+      "publishedAt": "2014-05-24T17:13:23Z",
+      "duration": "PT6M27S",
+      "viewCount": 24799,
+      "likeCount": 137,
+      "commentCount": 5,
+      "tags": [
+        "한겨레",
+        "포커스",
+        "한겨레포커스",
+        "세월호",
+        "여객선",
+        "침몰",
+        "안산",
+        "단원고",
+        "유족",
+        "촛불",
+        "청계광장",
+        "행진",
+        "집회"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2014-05-24T17:13:23Z",
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "collectedAt": "2025-09-03T10:47:54Z"
+    },
+    "VrDXmGfmqj0": {
+      "videoId": "VrDXmGfmqj0",
+      "title": "김현호 선장 \"가만히 기다린 학생들을 잃어서 가슴이 아프지\"",
+      "description": " 진도군 조도면 대마도에 사는 어민 김현호(46)씨는 4월16일 오전 세월호 침몰사고 직후 쪽배를 몰아 25명의 생명을 구했다. 그 뒤로도 열흘 넘게 바닷속으로 사라지고 없는 세월호 주변을 맴돌았다. 생존자가 떠오를지 모른다는 한 가닥 희망을 품고서. \n 김씨는 사고 당일 눈앞에 두고도 구하지 못한 두 명을 떠올리며 \"그냥 바다로 들어가버링께, 그 안타까운 마음은 말로 표현 못하제...\"라며 말끝을 흐렸다. 참사 34일째인 19일 오전, 김씨가 다시 세월호 침몰사고 현장으로 향하고 있다. 언론과 접촉을 피해온 그를〈한겨레〉가 처음으로 1박2일간 동행 취재했다. 진도/최성진 기자 csj@hani.co.kr 영상/박수진 피디 jjinpd@hani.co.kr ",
+      "publishedAt": "2014-05-25T01:04:09Z",
+      "duration": "PT5M35S",
+      "viewCount": 243955,
+      "likeCount": 1546,
+      "commentCount": 347,
+      "tags": [
+        "김현호 선장",
+        "피시 헌터",
+        "세월호",
+        "세월호 참사",
+        "최성진 기자",
+        "한겨레담",
+        "진도",
+        "세월호 실종자",
+        "한겨레",
+        "어업지도선 전남 201호",
+        "피시헌터호",
+        "대마도",
+        "해양경찰",
+        "해경"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2014-05-25T01:04:09Z",
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "collectedAt": "2025-09-03T10:47:54Z"
     }
   },
   "channels": {
@@ -416,8 +479,8 @@
       },
       "subscriberCount": 537000,
       "viewCount": 354014202,
-      "videoCount": 11630,
-      "lastUpdated": "2025-09-03T10:02:26.661198Z"
+      "videoCount": 11631,
+      "lastUpdated": "2025-09-03T10:17:12.125381Z"
     },
     "UCdp4_yTBhQmB8E339Lafzow": {
       "channelId": "UCdp4_yTBhQmB8E339Lafzow",
@@ -443,11 +506,38 @@
       },
       "subscriberCount": 1700000,
       "viewCount": 1669752256,
-      "videoCount": 22783,
-      "lastUpdated": "2025-09-03T10:02:26.661198Z"
+      "videoCount": 22784,
+      "lastUpdated": "2025-09-03T10:17:12.125381Z"
+    },
+    "UCugbqfMO94F9guLEb6Olb2A": {
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "channelUrl": "@hankyorehtv",
+      "channelDescription": "'더불어 행복한 세상을 만드는 언론' 한겨레 공식 유튜브 채널입니다. \n ■ 편성 및 제휴 문의: leepd@hani.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 946000,
+      "viewCount": 586539536,
+      "videoCount": 9682,
+      "lastUpdated": "2025-09-03T10:47:54.250502Z"
     }
   },
-  "lastUpdated": "2025-09-03T10:02:26.662196Z",
-  "totalVideos": 13,
-  "totalChannels": 5
+  "lastUpdated": "2025-09-03T10:47:54.250502Z",
+  "totalVideos": 15,
+  "totalChannels": 6
 }

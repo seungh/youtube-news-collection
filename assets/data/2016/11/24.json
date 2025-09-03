@@ -1878,6 +1878,31 @@
       "channelId": "UCdp4_yTBhQmB8E339Lafzow",
       "channelName": "조선일보",
       "collectedAt": "2025-09-03T10:02:16Z"
+    },
+    "of65R0LOWfw": {
+      "videoId": "of65R0LOWfw",
+      "title": "[인터뷰] #기본소득 스토리펀딩 참가자",
+      "description": "〈한겨레21〉의 ‘기본소득, 월135만원 받으실래요?’  실험에 참여한 762명 중 16명의 인터뷰입니다.  기본소득이란 나라가 모든 국민에게 조건없이 다달이 주는 기본적인 생활비를 말합니다.",
+      "publishedAt": "2016-11-23T20:42:05Z",
+      "duration": "PT32M12S",
+      "viewCount": 2079,
+      "likeCount": 20,
+      "commentCount": 1,
+      "tags": [
+        "한겨레",
+        "한겨레TV",
+        "Hankyoreh",
+        "HankyorehTV",
+        "korea",
+        "한국",
+        "대한민국"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2016-11-23T20:42:05Z",
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "collectedAt": "2025-09-03T10:47:18Z"
     }
   },
   "channels": {
@@ -2175,8 +2200,8 @@
       },
       "subscriberCount": 537000,
       "viewCount": 354014202,
-      "videoCount": 11630,
-      "lastUpdated": "2025-09-03T10:02:16.255813Z"
+      "videoCount": 11631,
+      "lastUpdated": "2025-09-03T10:16:56.275290Z"
     },
     "UCdp4_yTBhQmB8E339Lafzow": {
       "channelId": "UCdp4_yTBhQmB8E339Lafzow",
@@ -2202,11 +2227,38 @@
       },
       "subscriberCount": 1700000,
       "viewCount": 1669752256,
-      "videoCount": 22783,
-      "lastUpdated": "2025-09-03T10:02:16.255813Z"
+      "videoCount": 22784,
+      "lastUpdated": "2025-09-03T10:16:56.275290Z"
+    },
+    "UCugbqfMO94F9guLEb6Olb2A": {
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "channelUrl": "@hankyorehtv",
+      "channelDescription": "'더불어 행복한 세상을 만드는 언론' 한겨레 공식 유튜브 채널입니다. \n ■ 편성 및 제휴 문의: leepd@hani.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 946000,
+      "viewCount": 586539536,
+      "videoCount": 9682,
+      "lastUpdated": "2025-09-03T10:47:18.841732Z"
     }
   },
-  "lastUpdated": "2025-09-03T10:02:16.255813Z",
-  "totalVideos": 73,
-  "totalChannels": 12
+  "lastUpdated": "2025-09-03T10:47:18.841732Z",
+  "totalVideos": 74,
+  "totalChannels": 13
 }

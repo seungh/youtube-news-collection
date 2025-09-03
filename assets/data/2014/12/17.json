@@ -1627,6 +1627,30 @@
       "channelId": "UCdp4_yTBhQmB8E339Lafzow",
       "channelName": "조선일보",
       "collectedAt": "2025-09-03T10:02:24Z"
+    },
+    "bHmHhvO9Svg": {
+      "videoId": "bHmHhvO9Svg",
+      "title": "윈드서핑 해상 국토 대장정…꿈을 이루다",
+      "description": "조준호 요트 국가대표팀 코치가 윈드서핑과 자전거로 국토 대장정에 성공했다. 그는 10월7일 인천 왕산 앞바다를 윈드서핑으로 출발해 서해와 남해, 동해를 거쳐 자전거로 인천으로 돌아왔다. 그리고 다시 윈드서핑으로 경인 아라뱃길과 한강을 거슬러 올라가 12월9일 서울 여의도 국회의사당 앞에서 63일간의 대장정을 마무리했다. 무동력 보드를 타고 제주도, 울릉도, 독도까지 다녀오는 약 3000km에 달하는 대장정이었다.  이재만 기자 appletree@hani.co.kr",
+      "publishedAt": "2014-12-17T07:42:46Z",
+      "duration": "PT5M54S",
+      "viewCount": 19544,
+      "likeCount": 166,
+      "commentCount": 17,
+      "tags": [
+        "조준호",
+        "요트",
+        "윈드서핑",
+        "국토",
+        "대장정",
+        "이재만"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2014-12-17T07:42:46Z",
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "collectedAt": "2025-09-03T10:48:22Z"
     }
   },
   "channels": {
@@ -1816,8 +1840,8 @@
       },
       "subscriberCount": 537000,
       "viewCount": 354014202,
-      "videoCount": 11630,
-      "lastUpdated": "2025-09-03T10:02:24.011356Z"
+      "videoCount": 11631,
+      "lastUpdated": "2025-09-03T10:17:09.062679Z"
     },
     "UCdp4_yTBhQmB8E339Lafzow": {
       "channelId": "UCdp4_yTBhQmB8E339Lafzow",
@@ -1843,11 +1867,38 @@
       },
       "subscriberCount": 1700000,
       "viewCount": 1669752256,
-      "videoCount": 22783,
-      "lastUpdated": "2025-09-03T10:02:24.011356Z"
+      "videoCount": 22784,
+      "lastUpdated": "2025-09-03T10:17:09.062679Z"
+    },
+    "UCugbqfMO94F9guLEb6Olb2A": {
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "channelUrl": "@hankyorehtv",
+      "channelDescription": "'더불어 행복한 세상을 만드는 언론' 한겨레 공식 유튜브 채널입니다. \n ■ 편성 및 제휴 문의: leepd@hani.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 946000,
+      "viewCount": 586539536,
+      "videoCount": 9682,
+      "lastUpdated": "2025-09-03T10:48:22.995621Z"
     }
   },
-  "lastUpdated": "2025-09-03T10:02:24.011356Z",
-  "totalVideos": 51,
-  "totalChannels": 8
+  "lastUpdated": "2025-09-03T10:48:22.995621Z",
+  "totalVideos": 52,
+  "totalChannels": 9
 }

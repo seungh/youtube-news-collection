@@ -1116,6 +1116,46 @@
       "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
       "channelName": "JTBC News",
       "collectedAt": "2025-08-25T21:07:54Z"
+    },
+    "w8yYel9wJGo": {
+      "videoId": "w8yYel9wJGo",
+      "title": "[김어준의 KFC#6] 진도VTS와 이종인",
+      "description": "한겨레TV의 시사탐사쇼! [김어준의 KFC]\n\n[세월호의 AIS 항적 데이터가 조작되었다는 의혹과 관련해 검찰 세월호 참사 특별수사단(2021년)은 AIS 항적자료를 입수해 검토했지만 조작 사실은 확인되지 않았다고 밝혔습니다. 세월호 선체조사위원회(2018년)와 사회적참사특별조사위원회(2022년)도 세월호 AIS 항적 데이터의 조작이나 편집의 흔적은 없다고 결론냈습니다.]\n\n#1. 여의도 리포트\n   \n  - 세월호 침몰사고에 대한 정부와 정치권 이모저모\n  - 외국 언론이 바라본 세월호 침몰사고  \n  \n#2. KFC 이슈토크\n  \n  - 세월호와 진도VTS의 사라진 2시간\n  - 거부된 희망, 다이빙벨\n\n* 공개방송 *\n  5월 7일(수) 저녁 8시, 대학로 카페 벙커1\n\n* 기획 연출: 이경주 leepd@hani.co.kr , 박수진, 정주용, 작가: 서정원\n  종합편집: 문석진, 방송기술: 박성영\n  카메라: 정동화, 장지남, 정주용, 박성영\n  제작: 한겨레TV",
+      "publishedAt": "2014-04-25T18:22:48Z",
+      "duration": "PT1H39M46S",
+      "viewCount": 569364,
+      "likeCount": 3269,
+      "commentCount": 196,
+      "tags": [
+        "김어준",
+        "한겨레TV",
+        "한겨레",
+        "이경주피디",
+        "이경주",
+        "김보협",
+        "송채경화",
+        "김어준의뉴욕타임스",
+        "김어준의KFC",
+        "벙커",
+        "KFC",
+        "6회",
+        "세월호",
+        "진도",
+        "침몰",
+        "단원고",
+        "해경",
+        "박근혜",
+        "이종인",
+        "다이빙벨",
+        "구조",
+        "VTS"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2014-04-25T18:22:48Z",
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "collectedAt": "2025-09-03T10:48:15Z"
     }
   },
   "channels": {
@@ -1199,9 +1239,36 @@
       "viewCount": 14817048106,
       "videoCount": 261473,
       "lastUpdated": "2025-08-25T21:07:54.988578Z"
+    },
+    "UCugbqfMO94F9guLEb6Olb2A": {
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "channelUrl": "@hankyorehtv",
+      "channelDescription": "'더불어 행복한 세상을 만드는 언론' 한겨레 공식 유튜브 채널입니다. \n ■ 편성 및 제휴 문의: leepd@hani.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 946000,
+      "viewCount": 586539536,
+      "videoCount": 9682,
+      "lastUpdated": "2025-09-03T10:48:15.954844Z"
     }
   },
-  "lastUpdated": "2025-08-25T21:07:54.989575Z",
-  "totalVideos": 28,
-  "totalChannels": 3
+  "lastUpdated": "2025-09-03T10:48:15.954844Z",
+  "totalVideos": 29,
+  "totalChannels": 4
 }

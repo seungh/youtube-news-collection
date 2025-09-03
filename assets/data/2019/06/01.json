@@ -5661,6 +5661,36 @@
       "channelId": "UCHXvjavEtkPFJCfGlm0wTXw",
       "channelName": "경향티비",
       "collectedAt": "2025-09-03T10:01:21Z"
+    },
+    "FFua7Tt-d4g": {
+      "videoId": "FFua7Tt-d4g",
+      "title": "[영상+] 유람선 침몰사고를 애도하는 헝가리 시민들이 전한 말",
+      "description": "31일(현지 시간) 오후 7시, 헝가리 부다페스트 주헝가리 한국대사관 앞에 150여명의 헝가리 시민과 한국 교민들이 모였습니다. 이들은 흰 꽃과 촛불을 들고 사고로 7명이 숨지고 19명이 실종된 다뉴브강 유람선 ‘허블레아니’ 참사 피해자들을 추모했습니다.\n\n추모식에 참석해 피해자들을 애도한 헝가리인들이 전한 말, 영상으로 확인하세요.\n\n취재 김민제 박윤경 기자\n촬영 박윤경 기자\n편집 황금비 기자\n\n기사보기: \nhttp://www.hani.co.kr/arti/society/society_general/896238.html\n\n●〈한겨레TV〉 유튜브 채널 구독하기 -https://goo.gl/vYg2yI\n\n● 한겨레 LIVE 미리보기\n - http://bitly.kr/c8uVXR\n\n■ 한겨레 채널 모음\n▶ 인터넷한겨레: http://www.hani.co.kr\n▶ 한겨레TV: http://www.hanitv.com/\n▶ 한겨레TV 페이스북: https://www.facebook.com/hankyorehtv/\n▶ 한겨레신문 구독: https://goo.gl/MBKMLD\n▶ 영상과 취재 관련 제보: pd295@hani.co.kr\n\n#한겨레TV #헝가리 #유람선침몰사고",
+      "publishedAt": "2019-06-01T05:50:29Z",
+      "duration": "PT7M",
+      "viewCount": 44104,
+      "likeCount": 646,
+      "commentCount": 128,
+      "tags": [
+        "한겨레",
+        "한겨레TV",
+        "Hankyoreh",
+        "HankyorehTV",
+        "korea",
+        "한국",
+        "대한민국",
+        "헝가리",
+        "부다페스트",
+        "유람선침몰사고",
+        "추모제",
+        "애도"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2019-06-01T05:50:29Z",
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "collectedAt": "2025-09-03T10:48:29Z"
     }
   },
   "channels": {
@@ -6012,8 +6042,8 @@
       },
       "subscriberCount": 362000,
       "viewCount": 296027619,
-      "videoCount": 6196,
-      "lastUpdated": "2025-09-03T10:01:21.011539Z"
+      "videoCount": 6197,
+      "lastUpdated": "2025-09-03T10:16:30.050204Z"
     },
     "UCHXvjavEtkPFJCfGlm0wTXw": {
       "channelId": "UCHXvjavEtkPFJCfGlm0wTXw",
@@ -6039,11 +6069,38 @@
       },
       "subscriberCount": 537000,
       "viewCount": 354014202,
-      "videoCount": 11630,
-      "lastUpdated": "2025-09-03T10:01:21.012536Z"
+      "videoCount": 11631,
+      "lastUpdated": "2025-09-03T10:16:30.050204Z"
+    },
+    "UCugbqfMO94F9guLEb6Olb2A": {
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "channelUrl": "@hankyorehtv",
+      "channelDescription": "'더불어 행복한 세상을 만드는 언론' 한겨레 공식 유튜브 채널입니다. \n ■ 편성 및 제휴 문의: leepd@hani.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 946000,
+      "viewCount": 586539536,
+      "videoCount": 9682,
+      "lastUpdated": "2025-09-03T10:48:29.750163Z"
     }
   },
-  "lastUpdated": "2025-09-03T10:01:21.012536Z",
-  "totalVideos": 169,
-  "totalChannels": 14
+  "lastUpdated": "2025-09-03T10:48:29.750163Z",
+  "totalVideos": 170,
+  "totalChannels": 15
 }

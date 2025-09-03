@@ -1128,6 +1128,60 @@
       "channelId": "UCdp4_yTBhQmB8E339Lafzow",
       "channelName": "조선일보",
       "collectedAt": "2025-09-03T10:02:20Z"
+    },
+    "o2ZcxF2yOuM": {
+      "videoId": "o2ZcxF2yOuM",
+      "title": "박 대통령 방중 성과, ‘2승1무1패’ [정치토크 돌직구 85회]",
+      "description": "손원제 한겨레 통일·외교팀장과 함께 짚어 본 ‘한·중 밀월’\n\n박근혜 대통령의 방중 성과에 대해 언론과 전문가들은 대체로 긍정적인 평가를 내놨다. 특히 열병식 행사에 그간 친미적 행보를 보이던 한국의 정상이 참석한 것에 세계 많은 사람들이 주목했다. 이 행사는 중국이 자국 위상을 과시한 측면이 있는 행사다.\n앞으로 한국과 중국의 관계는 어떻게 되는 것일까? 내심 불쾌해 하고 있는 미국과 한국의 관계는 어떻게 되는 것일까? 일본의 반응은 어떨까? 노동당 창건 70주년을 앞두고 있는 북한은 어떻게 반응할까?\n손원제 한겨레 통일·외교팀장과 힘께 짚어 봤다.\n\n◆ 제작진\n진행: 임석규 성한용, 게스트: 손원제, 기술감독: 박성영, 연출: 김도성\n\n◆ 팟캐스트\n-아이튠즈/ https://itunes.apple.com/kr/podcast/jeongchitokeu-doljiggu/id934712464?mt=2\n-팟빵 채널/ http://www.podbbang.com/ch/8405",
+      "publishedAt": "2015-09-07T08:25:22Z",
+      "duration": "PT15M22S",
+      "viewCount": 7379,
+      "likeCount": 19,
+      "commentCount": 1,
+      "tags": [
+        "시사",
+        "한겨레",
+        "캐스트",
+        "한겨레캐스트",
+        "정돌",
+        "정치토크",
+        "돌직구",
+        "정치",
+        "박근혜",
+        "시진핑",
+        "열병식",
+        "중국"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2015-09-07T08:25:22Z",
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "collectedAt": "2025-09-03T10:48:12Z"
+    },
+    "T-5wGj5kv6s": {
+      "videoId": "T-5wGj5kv6s",
+      "title": "[이승한의 ‘33한 드립’ #1] 무서운 집",
+      "description": "이승한 TV 평론가가 직접 선정한 한주간 주목할만한 대중문화계 이슈와 소식을 33초의 제한 시간 안에 소개하는 코너입니다. 그 동안 파일럿을 거쳐 이번주부터 매주 월요일 서비스합니다. 많은 관심 부탁드립니다. \n33한 드립 첫번째편은 공포 영화 ‘무서운 집’입니다.",
+      "publishedAt": "2015-09-07T02:55:27Z",
+      "duration": "PT49S",
+      "viewCount": 1815,
+      "likeCount": 11,
+      "commentCount": 4,
+      "tags": [
+        "잉여싸롱",
+        "이승한",
+        "이승한의 33한 드립",
+        "무서운 집",
+        "공포 영화",
+        "한겨레TV"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2015-09-07T02:55:27Z",
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "collectedAt": "2025-09-03T10:48:12Z"
     }
   },
   "channels": {
@@ -1371,8 +1425,8 @@
       },
       "subscriberCount": 537000,
       "viewCount": 354014202,
-      "videoCount": 11630,
-      "lastUpdated": "2025-09-03T10:02:20.886655Z"
+      "videoCount": 11631,
+      "lastUpdated": "2025-09-03T10:17:04.615503Z"
     },
     "UCdp4_yTBhQmB8E339Lafzow": {
       "channelId": "UCdp4_yTBhQmB8E339Lafzow",
@@ -1398,11 +1452,38 @@
       },
       "subscriberCount": 1700000,
       "viewCount": 1669752256,
-      "videoCount": 22783,
-      "lastUpdated": "2025-09-03T10:02:20.886655Z"
+      "videoCount": 22784,
+      "lastUpdated": "2025-09-03T10:17:04.617504Z"
+    },
+    "UCugbqfMO94F9guLEb6Olb2A": {
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "channelUrl": "@hankyorehtv",
+      "channelDescription": "'더불어 행복한 세상을 만드는 언론' 한겨레 공식 유튜브 채널입니다. \n ■ 편성 및 제휴 문의: leepd@hani.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 946000,
+      "viewCount": 586539536,
+      "videoCount": 9682,
+      "lastUpdated": "2025-09-03T10:48:12.189073Z"
     }
   },
-  "lastUpdated": "2025-09-03T10:02:20.886655Z",
-  "totalVideos": 41,
-  "totalChannels": 10
+  "lastUpdated": "2025-09-03T10:48:12.189073Z",
+  "totalVideos": 43,
+  "totalChannels": 11
 }

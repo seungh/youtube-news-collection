@@ -1802,6 +1802,31 @@
       "channelId": "UCdp4_yTBhQmB8E339Lafzow",
       "channelName": "조선일보",
       "collectedAt": "2025-09-03T10:02:18Z"
+    },
+    "aKbdrhJvh5Q": {
+      "videoId": "aKbdrhJvh5Q",
+      "title": "세월호그리기",
+      "description": "세월호 참사 2주기를 추모하기 위해 9일 오후 서울 광화문광장에서 만화인행동 주최로 '세월호 그리움을 그리다' 문화제가 열렸다. 김성광 기자",
+      "publishedAt": "2016-04-11T02:41:08Z",
+      "duration": "PT2M9S",
+      "viewCount": 1560,
+      "likeCount": 12,
+      "commentCount": 1,
+      "tags": [
+        "한겨레",
+        "한겨레신문사",
+        "The Hankyoreh",
+        "Hankyoreh",
+        "The HankyorehTV",
+        "HankyorehTV",
+        "세월호참사"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2016-04-11T02:41:08Z",
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "collectedAt": "2025-09-03T10:48:33Z"
     }
   },
   "channels": {
@@ -2099,8 +2124,8 @@
       },
       "subscriberCount": 537000,
       "viewCount": 354014202,
-      "videoCount": 11630,
-      "lastUpdated": "2025-09-03T10:02:18.166546Z"
+      "videoCount": 11631,
+      "lastUpdated": "2025-09-03T10:17:00.678705Z"
     },
     "UCdp4_yTBhQmB8E339Lafzow": {
       "channelId": "UCdp4_yTBhQmB8E339Lafzow",
@@ -2126,11 +2151,38 @@
       },
       "subscriberCount": 1700000,
       "viewCount": 1669752256,
-      "videoCount": 22783,
-      "lastUpdated": "2025-09-03T10:02:18.166546Z"
+      "videoCount": 22784,
+      "lastUpdated": "2025-09-03T10:17:00.678705Z"
+    },
+    "UCugbqfMO94F9guLEb6Olb2A": {
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "channelUrl": "@hankyorehtv",
+      "channelDescription": "'더불어 행복한 세상을 만드는 언론' 한겨레 공식 유튜브 채널입니다. \n ■ 편성 및 제휴 문의: leepd@hani.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 946000,
+      "viewCount": 586539536,
+      "videoCount": 9682,
+      "lastUpdated": "2025-09-03T10:48:33.578105Z"
     }
   },
-  "lastUpdated": "2025-09-03T10:02:18.166546Z",
-  "totalVideos": 74,
-  "totalChannels": 12
+  "lastUpdated": "2025-09-03T10:48:33.578105Z",
+  "totalVideos": 75,
+  "totalChannels": 13
 }

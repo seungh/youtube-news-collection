@@ -1,0 +1,79 @@
+{
+  "videos": {
+    "G9nPzHjTxN0": {
+      "videoId": "G9nPzHjTxN0",
+      "title": "\"방사능 공포로 생태탕도 겁나요\"",
+      "description": "일본 원전사태로 인한 방사능 공포가 한국에까지 퍼지고 있다. 특히 전량을 일본에서 수입하는 생태 판매가 타격이\r\n커, 상인들이 울상을 짓고 있다.",
+      "publishedAt": "2011-03-31T08:59:06Z",
+      "duration": "PT2M37S",
+      "viewCount": 515,
+      "likeCount": 1,
+      "commentCount": 0,
+      "tags": [
+        "일본",
+        "원전",
+        "방사능",
+        "생태"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2011-03-31T08:59:06Z",
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "collectedAt": "2025-09-03T10:48:41Z"
+    },
+    "48lskrdWQqA": {
+      "videoId": "48lskrdWQqA",
+      "title": "\"지연씨를 잊지 말아주세요\"",
+      "description": "삼성반도체 공장에서 일하다 백혈병으로 숨진 고 박지연 1주기 기자회견이 31일 서울 삼성전자 본사 앞에서 열렸다.",
+      "publishedAt": "2011-03-31T08:23:22Z",
+      "duration": "PT1M54S",
+      "viewCount": 556,
+      "likeCount": 2,
+      "commentCount": 0,
+      "tags": [
+        "삼성",
+        "백혈병",
+        "박지연"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2011-03-31T08:23:22Z",
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "collectedAt": "2025-09-03T10:48:41Z"
+    }
+  },
+  "channels": {
+    "UCugbqfMO94F9guLEb6Olb2A": {
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "channelUrl": "@hankyorehtv",
+      "channelDescription": "'더불어 행복한 세상을 만드는 언론' 한겨레 공식 유튜브 채널입니다. \n ■ 편성 및 제휴 문의: leepd@hani.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 946000,
+      "viewCount": 586539536,
+      "videoCount": 9682,
+      "lastUpdated": "2025-09-03T10:48:41.193337Z"
+    }
+  },
+  "lastUpdated": "2025-09-03T10:48:41.193337Z",
+  "totalVideos": 2,
+  "totalChannels": 1
+}

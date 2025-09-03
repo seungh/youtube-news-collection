@@ -19,6 +19,33 @@
       "channelId": "UC1aS5CRRDrN6CmR2VcpmetA",
       "channelName": "한국일보(hankookilbo.com)",
       "collectedAt": "2025-09-03T10:01:46Z"
+    },
+    "0lFc_7cTBTI": {
+      "videoId": "0lFc_7cTBTI",
+      "title": "나경원과 보수단체 통하였느냐?",
+      "description": "주민투표를 주도했던 \r\n복지포퓰리즘추방국민운동본부의\r\n한나라당 나경원 서울시장 후보 \r\n지지선언 현장",
+      "publishedAt": "2011-10-12T10:04:35Z",
+      "duration": "PT2M1S",
+      "viewCount": 6685,
+      "likeCount": 5,
+      "commentCount": 0,
+      "tags": [
+        "하니뉴스",
+        "박원순",
+        "나경원",
+        "서울시장",
+        "보궐선거",
+        "야권",
+        "민주당",
+        "한나라당",
+        "10. 26"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2011-10-12T10:04:35Z",
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "collectedAt": "2025-09-03T10:48:41Z"
     }
   },
   "channels": {
@@ -46,11 +73,38 @@
       },
       "subscriberCount": 362000,
       "viewCount": 296027619,
-      "videoCount": 6196,
-      "lastUpdated": "2025-09-03T10:01:46.004709Z"
+      "videoCount": 6197,
+      "lastUpdated": "2025-09-03T10:17:40.905013Z"
+    },
+    "UCugbqfMO94F9guLEb6Olb2A": {
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "channelUrl": "@hankyorehtv",
+      "channelDescription": "'더불어 행복한 세상을 만드는 언론' 한겨레 공식 유튜브 채널입니다. \n ■ 편성 및 제휴 문의: leepd@hani.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 946000,
+      "viewCount": 586539536,
+      "videoCount": 9682,
+      "lastUpdated": "2025-09-03T10:48:41.069318Z"
     }
   },
-  "lastUpdated": "2025-09-03T10:01:46.004709Z",
-  "totalVideos": 1,
-  "totalChannels": 1
+  "lastUpdated": "2025-09-03T10:48:41.069318Z",
+  "totalVideos": 2,
+  "totalChannels": 2
 }

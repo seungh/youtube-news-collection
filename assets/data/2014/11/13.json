@@ -1688,6 +1688,56 @@
       "channelId": "UCdp4_yTBhQmB8E339Lafzow",
       "channelName": "조선일보",
       "collectedAt": "2025-09-03T10:02:24Z"
+    },
+    "7xOTrlDr6bk": {
+      "videoId": "7xOTrlDr6bk",
+      "title": "쌍용차 해고자들 응원하던 밀양 할매들 ‘절규’",
+      "description": "11월13일 오후 서울 서초동 대법원 앞. 이날 대법원은 ‘쌍용차 정리해고는 유효하다’는 취지로 원심을 파기, 환송하는 판결을 내렸다.",
+      "publishedAt": "2014-11-13T08:38:34Z",
+      "duration": "PT41S",
+      "viewCount": 3096,
+      "likeCount": 19,
+      "commentCount": 4,
+      "tags": [
+        "쌍용차",
+        "쌍차",
+        "쌍용자동차",
+        "김득중",
+        "이창근",
+        "대법원",
+        "밀양",
+        "송전탑"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2014-11-13T08:38:34Z",
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "collectedAt": "2025-09-03T10:48:23Z"
+    },
+    "sTDa8AE3fAE": {
+      "videoId": "sTDa8AE3fAE",
+      "title": "쌍용차 해고자들 “또 누군가 곁을 떠날 수 있다는 두려움에…”",
+      "description": "11월13일 오후 서울 서초동 대법원 앞. 이날 대법원은 ‘쌍용차 정리해고는 유효하다’는 취지로 원심을 파기, 환송하는 판결을 내렸다. 노조는 대법원 앞에서 입장을 밝혔다.",
+      "publishedAt": "2014-11-13T08:15:07Z",
+      "duration": "PT4M38S",
+      "viewCount": 2767,
+      "likeCount": 11,
+      "commentCount": 0,
+      "tags": [
+        "쌍용차",
+        "쌍차",
+        "쌍용자동차",
+        "김득중",
+        "이창근",
+        "대법원"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2014-11-13T08:15:07Z",
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "collectedAt": "2025-09-03T10:48:23Z"
     }
   },
   "channels": {
@@ -1850,8 +1900,8 @@
       },
       "subscriberCount": 537000,
       "viewCount": 354014202,
-      "videoCount": 11630,
-      "lastUpdated": "2025-09-03T10:02:24.488080Z"
+      "videoCount": 11631,
+      "lastUpdated": "2025-09-03T10:17:09.669130Z"
     },
     "UCdp4_yTBhQmB8E339Lafzow": {
       "channelId": "UCdp4_yTBhQmB8E339Lafzow",
@@ -1877,11 +1927,38 @@
       },
       "subscriberCount": 1700000,
       "viewCount": 1669752256,
-      "videoCount": 22783,
-      "lastUpdated": "2025-09-03T10:02:24.488080Z"
+      "videoCount": 22784,
+      "lastUpdated": "2025-09-03T10:17:09.669130Z"
+    },
+    "UCugbqfMO94F9guLEb6Olb2A": {
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "channelUrl": "@hankyorehtv",
+      "channelDescription": "'더불어 행복한 세상을 만드는 언론' 한겨레 공식 유튜브 채널입니다. \n ■ 편성 및 제휴 문의: leepd@hani.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 946000,
+      "viewCount": 586539536,
+      "videoCount": 9682,
+      "lastUpdated": "2025-09-03T10:48:23.150353Z"
     }
   },
-  "lastUpdated": "2025-09-03T10:02:24.488080Z",
-  "totalVideos": 50,
-  "totalChannels": 7
+  "lastUpdated": "2025-09-03T10:48:23.150353Z",
+  "totalVideos": 52,
+  "totalChannels": 8
 }

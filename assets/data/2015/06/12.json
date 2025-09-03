@@ -798,6 +798,47 @@
       "channelId": "UCdp4_yTBhQmB8E339Lafzow",
       "channelName": "조선일보",
       "collectedAt": "2025-09-03T10:02:21Z"
+    },
+    "sclFDENVb3s": {
+      "videoId": "sclFDENVb3s",
+      "title": "[김어준의 파파이스#54] 메르스 \"D병원과 Z대통령\"",
+      "description": "한겨레TV 시사탐사쇼! 매주 금요일 밤 11시\n진행: 김어준, 김외현, 송채경화, 김보협, 김용민, 김갑수, 선대인\n\n1. 김용익 새정치민주연합 의원: \n  \"새누리당, 노무현 참여정부의 위기관리 메뉴얼 그대로 카피!\" \n2. 우석균 보건의료정책연합 정책위원장: \n  \"새누리당, 메르스 확산 상황에서도 영리병원 타령!\"   \n3. 황승식 인하대학교 예방의학 교수: \n  \"불확실하면 엄격 대응하는 것이 예방의학의 기본 \" \n\n* 참여 & 제보 트위터: @sisakfc, 페이스북: 김어준의 파파이스, 전자우편: sisakfc@gmail.com\n* 광고문의 전화 02-710-0729, 메일 hanibiz@hani.co.kr \n* 연출: 이경주, 구성: 박연신, 종합편집: 문석진 \n방송기술: 박성영, 카메라: 정동화 장지남 전상진 박성영\n벙커팀: 배상명 박주성 이영상 김수기 김준엽 박정원 나호영\n제작: 한겨레TV",
+      "publishedAt": "2015-06-12T13:12:05Z",
+      "duration": "PT1H50M38S",
+      "viewCount": 239021,
+      "likeCount": 993,
+      "commentCount": 130,
+      "tags": [
+        "한겨레TV",
+        "한겨레",
+        "이경주",
+        "김보협",
+        "송채경화",
+        "김어준의뉴욕타임스",
+        "벙커",
+        "KFC",
+        "박근혜",
+        "세월호",
+        "파파이스",
+        "김어준",
+        "정청래",
+        "새정치민주연합",
+        "프로젝트부",
+        "시즌2",
+        "김외현",
+        "54회",
+        "우석균",
+        "김용익",
+        "사스",
+        "황승식",
+        "메르스"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2015-06-12T13:12:05Z",
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "collectedAt": "2025-09-03T10:48:15Z"
     }
   },
   "channels": {
@@ -1014,8 +1055,8 @@
       },
       "subscriberCount": 537000,
       "viewCount": 354014202,
-      "videoCount": 11630,
-      "lastUpdated": "2025-09-03T10:02:21.891790Z"
+      "videoCount": 11631,
+      "lastUpdated": "2025-09-03T10:17:05.884388Z"
     },
     "UCdp4_yTBhQmB8E339Lafzow": {
       "channelId": "UCdp4_yTBhQmB8E339Lafzow",
@@ -1041,11 +1082,38 @@
       },
       "subscriberCount": 1700000,
       "viewCount": 1669752256,
-      "videoCount": 22783,
-      "lastUpdated": "2025-09-03T10:02:21.891790Z"
+      "videoCount": 22784,
+      "lastUpdated": "2025-09-03T10:17:05.884388Z"
+    },
+    "UCugbqfMO94F9guLEb6Olb2A": {
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "channelUrl": "@hankyorehtv",
+      "channelDescription": "'더불어 행복한 세상을 만드는 언론' 한겨레 공식 유튜브 채널입니다. \n ■ 편성 및 제휴 문의: leepd@hani.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 946000,
+      "viewCount": 586539536,
+      "videoCount": 9682,
+      "lastUpdated": "2025-09-03T10:48:15.039908Z"
     }
   },
-  "lastUpdated": "2025-09-03T10:02:21.891790Z",
-  "totalVideos": 31,
-  "totalChannels": 9
+  "lastUpdated": "2025-09-03T10:48:15.039908Z",
+  "totalVideos": 32,
+  "totalChannels": 10
 }

@@ -872,6 +872,28 @@
       "channelId": "UCdp4_yTBhQmB8E339Lafzow",
       "channelName": "조선일보",
       "collectedAt": "2025-09-03T10:02:46Z"
+    },
+    "srQFOITNFuQ": {
+      "videoId": "srQFOITNFuQ",
+      "title": "[김어준의 KFC#11] Candy, Go Go!",
+      "description": "한겨레TV 시사탐사쇼! [김어준의 KFC]\n\n#1. 6.4지방선거 진단: 정청래 국회의원, 이택수 리얼미터 대표\n#2. 6.4지방선거 후 정치 지형? \n\n* 기획 연출: 이경주 leepd@hani.co.kr , 박수진, 정주용, 작가: 서정원\n  종합편집: 문석진, 방송기술: 박성영\n  카메라: 정동화, 장지남, 정주용, 박성영\n  제작: 한겨레TV",
+      "publishedAt": "2014-06-07T04:20:46Z",
+      "duration": "PT1H21M12S",
+      "viewCount": 221325,
+      "likeCount": 942,
+      "commentCount": 52,
+      "tags": [
+        "한겨레TV",
+        "김어준",
+        "지방선거",
+        "박원순"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2014-06-07T04:20:46Z",
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "collectedAt": "2025-09-03T10:48:15Z"
     }
   },
   "channels": {
@@ -980,11 +1002,38 @@
       },
       "subscriberCount": 1700000,
       "viewCount": 1669752256,
-      "videoCount": 22783,
-      "lastUpdated": "2025-09-03T10:02:46.285325Z"
+      "videoCount": 22784,
+      "lastUpdated": "2025-09-03T10:18:03.490890Z"
+    },
+    "UCugbqfMO94F9guLEb6Olb2A": {
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "channelUrl": "@hankyorehtv",
+      "channelDescription": "'더불어 행복한 세상을 만드는 언론' 한겨레 공식 유튜브 채널입니다. \n ■ 편성 및 제휴 문의: leepd@hani.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 946000,
+      "viewCount": 586539536,
+      "videoCount": 9682,
+      "lastUpdated": "2025-09-03T10:48:15.873312Z"
     }
   },
-  "lastUpdated": "2025-09-03T10:02:46.285325Z",
-  "totalVideos": 29,
-  "totalChannels": 4
+  "lastUpdated": "2025-09-03T10:48:15.873312Z",
+  "totalVideos": 30,
+  "totalChannels": 5
 }

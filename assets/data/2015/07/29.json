@@ -1681,6 +1681,33 @@
       "channelId": "UCdp4_yTBhQmB8E339Lafzow",
       "channelName": "조선일보",
       "collectedAt": "2025-09-03T10:02:21Z"
+    },
+    "xnln3D-cDOI": {
+      "videoId": "xnln3D-cDOI",
+      "title": "문재인과 박지원, ‘동거’가 시작됐다 [정치토크 돌직구 76회]",
+      "description": "논란 끝에 당직인사 끝낸 새정치연합의 미래는?\n\n  새정치민주연합의 당직 인사가 끝났다. 사무총장 임명에서 시작된 비주류의 반발을 문재인 대표는 무마시켰을까? 문 대표와 박지원 의원이 시작한 ‘셀프디스 캠페인’이 어느 정도 호응을 얻고 있다. 당 안팎의 시선은 어떨까? 다음달 공천 혁신 발표를 앞둔 김상곤 혁신위원회는 제대로 항해하고 있다는 평가를 받고 있을까? ‘한겨레’ 정치부에서 야당을 출입하는 이세영 기자와 함께 새정치연합의 현재 상황 및 신당 창당 전망, 호남 민심 등을 살펴보고, 심상정 대표가 선출된 정의당의 미래도 전망해 본다.\n\n◆ 제작진\n진행: 임석규 성한용, 게스트: 이세영, 기술감독: 박성영, 연출: 이재만\n◆ 팟캐스트\n-아이튠즈/ https://itunes.apple.com/kr/podcast/jeongchitokeu-doljiggu/id934712464?mt=2\n-팟빵 채널/ http://www.podbbang.com/ch/8405",
+      "publishedAt": "2015-07-29T14:35:01Z",
+      "duration": "PT13M23S",
+      "viewCount": 18153,
+      "likeCount": 26,
+      "commentCount": 4,
+      "tags": [
+        "정치",
+        "정당",
+        "새정치민주연합",
+        "문재인",
+        "박지원",
+        "셀프디스",
+        "혁신위원회",
+        "정의당",
+        "심상정"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2015-07-29T14:35:01Z",
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "collectedAt": "2025-09-03T10:48:12Z"
     }
   },
   "channels": {
@@ -1897,8 +1924,8 @@
       },
       "subscriberCount": 537000,
       "viewCount": 354014202,
-      "videoCount": 11630,
-      "lastUpdated": "2025-09-03T10:02:21.300743Z"
+      "videoCount": 11631,
+      "lastUpdated": "2025-09-03T10:17:05.189211Z"
     },
     "UCdp4_yTBhQmB8E339Lafzow": {
       "channelId": "UCdp4_yTBhQmB8E339Lafzow",
@@ -1924,11 +1951,38 @@
       },
       "subscriberCount": 1700000,
       "viewCount": 1669752256,
-      "videoCount": 22783,
-      "lastUpdated": "2025-09-03T10:02:21.304748Z"
+      "videoCount": 22784,
+      "lastUpdated": "2025-09-03T10:17:05.189211Z"
+    },
+    "UCugbqfMO94F9guLEb6Olb2A": {
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "channelUrl": "@hankyorehtv",
+      "channelDescription": "'더불어 행복한 세상을 만드는 언론' 한겨레 공식 유튜브 채널입니다. \n ■ 편성 및 제휴 문의: leepd@hani.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 946000,
+      "viewCount": 586539536,
+      "videoCount": 9682,
+      "lastUpdated": "2025-09-03T10:48:12.349102Z"
     }
   },
-  "lastUpdated": "2025-09-03T10:02:21.304748Z",
-  "totalVideos": 69,
-  "totalChannels": 9
+  "lastUpdated": "2025-09-03T10:48:12.349102Z",
+  "totalVideos": 70,
+  "totalChannels": 10
 }

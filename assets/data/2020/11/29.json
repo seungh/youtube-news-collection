@@ -5358,6 +5358,61 @@
       "channelId": "UCTHCOPwqNfZ0uiKOvFyhGwg",
       "channelName": "연합뉴스TV",
       "collectedAt": "2025-08-29T02:42:41Z"
+    },
+    "5bqIiqK3tOU": {
+      "videoId": "5bqIiqK3tOU",
+      "title": "\"한국인인데 왜 그래?\" 17살, 저는 한국인 무슬림입니다 │ #밀실",
+      "description": "\"친구들이 '한국인이니까 (이슬람교를) 안 믿어도 되지 않냐'고 말해요.\"\n\n 지난 24일 인천 부평구에서 만난 송소피아(17)양이 씁쓸한 웃음을 지으며 이같이 말했다. 대부분 이슬람교는 먼 나라, 혹은 '남의 종교'라고 생각하는 것이다.\n\n하지만 소피아양은 이슬람교를 믿는 한국인 '무슬림'이다. 11년 전 부모님을 따라서 무슬림이 되기로 마음먹었다. 중동에서 이민 온 아버지와 그를 따라 개종한 한국인 어머니가 소피아양이 7살이 되던 해, 이슬람교를 믿기 원하는지 직접 물어봤다고 한다.\n \n\"모태신앙이냐고 물어보시는 분이 많은데 그렇지 않아요. 7살이 되던 해 가을에 부모님이 '이런 종교(이슬람교)가 있는데, 믿고 싶으면 믿어도 된다'고 선택권을 주셨어요. 제가 믿기로 결정해서 무슬림이 된 거죠.\"\n\n#한국인 #무슬림 #종교",
+      "publishedAt": "2020-11-29T00:00:00Z",
+      "duration": "PT5M14S",
+      "viewCount": 158224,
+      "likeCount": 1030,
+      "commentCount": 0,
+      "tags": [
+        "중앙일보",
+        "무슬림",
+        "이슬람교",
+        "한국인",
+        "종교",
+        "히잡",
+        "마녀사냥",
+        "할랄 식품",
+        "돼지고기"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2020-11-29T00:00:00Z",
+      "channelId": "UCH3mJ-nHxjjny2FJbJaqiDA",
+      "channelName": "중앙일보",
+      "collectedAt": "2025-09-03T10:49:13Z"
+    },
+    "gppD3-V76BM": {
+      "videoId": "gppD3-V76BM",
+      "title": "이혜훈 “나경원과 악연? 서울 시장 적임자는 나” │ #정치언박싱",
+      "description": "이혜훈 전 국민의힘 의원은 지난 19일 서울시장 출마를 선언했다. 한국개발연구원(KDI) 연구원 출신으로 당내 ‘경제통’으로 꼽히는 이 전 의원은 “문재인 정부가 폭등시킨 집값을 잡지 못하는 시장은 필요 없다”고 강조했다.\n \n이 전 의원은 서울 4개 권역에 청년층을 위한 주거·문화 시설을 갖춘 80층 ‘청년 빌딩’을 짓겠다고 공약했다. 이 전 의원은 “부지는 이미 봐뒀다. 다만 미리 밝히면 땅값이 뛰기 때문에 밝히지 않고 있다”며 “시유지에 짓는 거라 분양, 임대비용을 확 낮출 수 있다”고 말했다.\n \n이 전 의원은 서울대 82학번 동기인 나경원 전 국민의힘 의원과 당내 경선에서 경쟁할 전망이다. 두 사람은 나 전 의원의 2016년 바른정당 합류가 무산되는 과정에서 갈등을 빚기도 했다. 이 전 의원은 “사람 관계라는 건 부모와 자식 간에도 불편한 일이 있다가 풀리기도 한다”며 “악연이 아니고 친한 친구다. 다만 시장 적임자는 저”라고 강조했다.\n\n#이혜훈 #나경원 #서울시장",
+      "publishedAt": "2020-11-28T20:00:04Z",
+      "duration": "PT4M8S",
+      "viewCount": 3506,
+      "likeCount": 42,
+      "commentCount": 39,
+      "tags": [
+        "중앙일보",
+        "이혜훈",
+        "나경원",
+        "친구",
+        "시장",
+        "정치",
+        "정치언박싱",
+        "서울시장",
+        "청년 빌딩",
+        "국민의힘"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2020-11-28T20:00:04Z",
+      "channelId": "UCH3mJ-nHxjjny2FJbJaqiDA",
+      "channelName": "중앙일보",
+      "collectedAt": "2025-09-03T10:49:13Z"
     }
   },
   "channels": {
@@ -5738,9 +5793,36 @@
       "viewCount": 3278386064,
       "videoCount": 233358,
       "lastUpdated": "2025-08-29T02:42:41.740955Z"
+    },
+    "UCH3mJ-nHxjjny2FJbJaqiDA": {
+      "channelId": "UCH3mJ-nHxjjny2FJbJaqiDA",
+      "channelName": "중앙일보",
+      "channelUrl": "@joongangilbo",
+      "channelDescription": "현장의 진실을 중앙에 두다.",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/iqcE5aK4gFUjm5A-QO4FLDCDrTgOXTfU3oCyirTZcT9Ev1i_sKtx82GqfF2rPDfbBgFtBqL0uw=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/iqcE5aK4gFUjm5A-QO4FLDCDrTgOXTfU3oCyirTZcT9Ev1i_sKtx82GqfF2rPDfbBgFtBqL0uw=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/iqcE5aK4gFUjm5A-QO4FLDCDrTgOXTfU3oCyirTZcT9Ev1i_sKtx82GqfF2rPDfbBgFtBqL0uw=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 555000,
+      "viewCount": 475518285,
+      "videoCount": 18651,
+      "lastUpdated": "2025-09-03T10:49:13.689397Z"
     }
   },
-  "lastUpdated": "2025-08-29T02:42:41.740955Z",
-  "totalVideos": 137,
-  "totalChannels": 14
+  "lastUpdated": "2025-09-03T10:49:13.689397Z",
+  "totalVideos": 139,
+  "totalChannels": 15
 }

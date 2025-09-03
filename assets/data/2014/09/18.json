@@ -1425,6 +1425,29 @@
       "channelId": "UCdp4_yTBhQmB8E339Lafzow",
       "channelName": "조선일보",
       "collectedAt": "2025-09-03T10:02:25Z"
+    },
+    "D_HS9UWuNU4": {
+      "videoId": "D_HS9UWuNU4",
+      "title": "검찰, ‘원세훈 선거법 무죄’ 다툴 의지 있나?  [오피니언 #313]",
+      "description": "2014년 9월18일(목)  \r\n〈한겨레캐스트 2014 #313 -오피니언〉\r\n\r\n검찰이 1심에서 집행유예를 선고받은 원세훈 전 국정원장에 대해 항소를 하기로 했습니다. 항소마감 시한을 하루 앞둔 17일 내부 회의에서 다섯 시간 넘게 격론을 벌인 끝에 내린 결정입니다. 이런 중요 사건에서 검찰이 즉각 항소의지를 밝히지 않은 것은 매우 이례적입니다. 여론의 따가운 시선을 의식해 항소를 하긴 했지만 항소심 재판에서 제대로 다퉈볼 의지가 부족한 게 아닌지 묻게 됩니다.",
+      "publishedAt": "2014-09-18T10:51:27Z",
+      "duration": "PT4M53S",
+      "viewCount": 3959,
+      "likeCount": 8,
+      "commentCount": 0,
+      "tags": [
+        "한겨레TV",
+        "국정원",
+        "원세훈",
+        "검찰",
+        "선거개입"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2014-09-18T10:51:27Z",
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "collectedAt": "2025-09-03T10:48:39Z"
     }
   },
   "channels": {
@@ -1560,8 +1583,8 @@
       },
       "subscriberCount": 537000,
       "viewCount": 354014202,
-      "videoCount": 11630,
-      "lastUpdated": "2025-09-03T10:02:25.260861Z"
+      "videoCount": 11631,
+      "lastUpdated": "2025-09-03T10:17:10.591922Z"
     },
     "UCdp4_yTBhQmB8E339Lafzow": {
       "channelId": "UCdp4_yTBhQmB8E339Lafzow",
@@ -1587,11 +1610,38 @@
       },
       "subscriberCount": 1700000,
       "viewCount": 1669752256,
-      "videoCount": 22783,
-      "lastUpdated": "2025-09-03T10:02:25.261385Z"
+      "videoCount": 22784,
+      "lastUpdated": "2025-09-03T10:17:10.591922Z"
+    },
+    "UCugbqfMO94F9guLEb6Olb2A": {
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "channelUrl": "@hankyorehtv",
+      "channelDescription": "'더불어 행복한 세상을 만드는 언론' 한겨레 공식 유튜브 채널입니다. \n ■ 편성 및 제휴 문의: leepd@hani.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 946000,
+      "viewCount": 586539536,
+      "videoCount": 9682,
+      "lastUpdated": "2025-09-03T10:48:39.591850Z"
     }
   },
-  "lastUpdated": "2025-09-03T10:02:25.261385Z",
-  "totalVideos": 46,
-  "totalChannels": 6
+  "lastUpdated": "2025-09-03T10:48:39.591850Z",
+  "totalVideos": 47,
+  "totalChannels": 7
 }

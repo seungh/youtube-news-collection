@@ -1572,6 +1572,56 @@
       "channelId": "UCdp4_yTBhQmB8E339Lafzow",
       "channelName": "조선일보",
       "collectedAt": "2025-09-03T10:02:27Z"
+    },
+    "U0ms8ocdoRA": {
+      "videoId": "U0ms8ocdoRA",
+      "title": "\"미안하다 얘들아\" 안산 '세월호 촛불' 현장 [한겨레포커스]",
+      "description": "2014년 4월22일 안산 문화광장. 세월호 실종자 무사귀환과 희생자 추모를 위한 촛불문화제가 열렸다. 사건 일주일째인 이날 다시 광장에 모인 시민들은 한 목소리로 미안함과 안타까움을 표시했다. 눈물을 흘리는 시민들도 많았다.\n촛불문화제는 안산지역 25개 시민사회단체로 꾸려진 '세월호 침몰사고 문제 해결을 위한 안산시민연대' 주축으로 이어지고 있으며, 세월호 피해자들에게 보내는 편지 낭독 및 추모 묵념 등의 순서로 이뤄졌다. 이날은 광장에 모인 시민들에게 마이크를 돌려 짧게 자유발언 시간도 가졌다.\n김도성 피디 kdspd@hani.co.kr",
+      "publishedAt": "2014-04-22T16:50:37Z",
+      "duration": "PT4M23S",
+      "viewCount": 12634,
+      "likeCount": 45,
+      "commentCount": 1,
+      "tags": [
+        "한겨레",
+        "포커스",
+        "한겨레포커스",
+        "세월호",
+        "여객선",
+        "침몰",
+        "안산",
+        "단원고",
+        "문화광장",
+        "촛불"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2014-04-22T16:50:37Z",
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "collectedAt": "2025-09-03T10:47:54Z"
+    },
+    "7RUkGiJtPao": {
+      "videoId": "7RUkGiJtPao",
+      "title": "촛불 시민 \"아직 끝난 게 아니다. 한 아이라도 돌아오길\"",
+      "description": "22일 오후 7시 서울 종로구 동화면세점 앞에서 시민 100여 명이 모여 세월호 실종자들의 무사귀환을 염원하는 촛불 문화제를 열었다.",
+      "publishedAt": "2014-04-22T15:40:24Z",
+      "duration": "PT2M37S",
+      "viewCount": 18802,
+      "likeCount": 30,
+      "commentCount": 0,
+      "tags": [
+        "세월호",
+        "촛불",
+        "단원고",
+        "진도"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2014-04-22T15:40:24Z",
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "collectedAt": "2025-09-03T10:47:54Z"
     }
   },
   "channels": {
@@ -1707,8 +1757,8 @@
       },
       "subscriberCount": 537000,
       "viewCount": 354014202,
-      "videoCount": 11630,
-      "lastUpdated": "2025-09-03T10:02:27.162405Z"
+      "videoCount": 11631,
+      "lastUpdated": "2025-09-03T10:17:12.616159Z"
     },
     "UCdp4_yTBhQmB8E339Lafzow": {
       "channelId": "UCdp4_yTBhQmB8E339Lafzow",
@@ -1734,11 +1784,38 @@
       },
       "subscriberCount": 1700000,
       "viewCount": 1669752256,
-      "videoCount": 22783,
-      "lastUpdated": "2025-09-03T10:02:27.162947Z"
+      "videoCount": 22784,
+      "lastUpdated": "2025-09-03T10:17:12.616159Z"
+    },
+    "UCugbqfMO94F9guLEb6Olb2A": {
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "channelUrl": "@hankyorehtv",
+      "channelDescription": "'더불어 행복한 세상을 만드는 언론' 한겨레 공식 유튜브 채널입니다. \n ■ 편성 및 제휴 문의: leepd@hani.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 946000,
+      "viewCount": 586539536,
+      "videoCount": 9682,
+      "lastUpdated": "2025-09-03T10:47:54.437506Z"
     }
   },
-  "lastUpdated": "2025-09-03T10:02:27.162947Z",
-  "totalVideos": 42,
-  "totalChannels": 6
+  "lastUpdated": "2025-09-03T10:47:54.437506Z",
+  "totalVideos": 44,
+  "totalChannels": 7
 }

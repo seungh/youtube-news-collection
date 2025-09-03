@@ -67,6 +67,31 @@
       "channelId": "UCHXvjavEtkPFJCfGlm0wTXw",
       "channelName": "경향티비",
       "collectedAt": "2025-09-03T10:02:33Z"
+    },
+    "oZIAAUjWRWw": {
+      "videoId": "oZIAAUjWRWw",
+      "title": "[현주의 책] 〈엄마와 연애할 때〉, 임경선(#3)",
+      "description": "북하니-한겨레TV 공동기획, 2030 여성들을 위한 감성토크\n[현주의 책 3회] 〈엄마와 연애할 때〉, 임경선 편\n\n〈현주의 책 소개〉\n\n\"나는 아이에게 '너는 이런 아이였단다'라며 기억 못할 일들을 알려주기 보다는 '나는 이런 엄마였고 여자였고 사람이었어'라며 나를 보여주고 싶었다.\" \n칼럼니스트 임경선의 엄마,딸, 나의 이야기. 〈엄마와 연애할 때〉\n\n\"결혼이란 영원한 사랑의 맹세이기보다 '당신한테만 실망 하겠어요'라는 맹세에 불과하다\" - 알렝드 보통\n\"결혼이라는 것은 좋을 땐 아주 좋지만 별로 좋지 않을 때는 나는 늘 뭔가 딴 생각을 떠올린다.\" -무라카미 하루키. \n\n한국의 청춘. 그들에게 '결혼'은 무엇일까. 결혼을 하고 가족을 만든다는 건 무엇일까. 엄마의 존재는 가족 안에서 또 무엇일까. \n\n고민 많은 우리시대 2030 청춘들로부터 상담 요청 메일을 받아온 '캣워먼' 임경선이 '카우우먼'으로 돌아왔다.  그녀의 메일함에서 '엄마와 딸, 그리고 나의 이야기'가 타임머신처럼 왕복한다. 우리는 그 세 개의 점이 순환하는 시공간 속에서 자신의 자리를 잡고 앉아, 그녀의 상담에 마음 놓고 집중하면 된다. \n\n기획: 박종찬 구성: 전현주 박종찬 진행: 전현주\n타이틀: 문석진 연출: 박종찬 조소영\n장소협조: 홍대 북 카페 '살롱드 팩토리'",
+      "publishedAt": "2012-08-16T09:11:43Z",
+      "duration": "PT21M10S",
+      "viewCount": 1922,
+      "likeCount": 14,
+      "commentCount": 0,
+      "tags": [
+        "현주의 책",
+        "임경선",
+        "엄마와 연애할 때",
+        "이기적인 상담실",
+        "김어준",
+        "한겨레TV",
+        "한겨레"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2012-08-16T09:11:43Z",
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "collectedAt": "2025-09-03T10:48:40Z"
     }
   },
   "channels": {
@@ -121,11 +146,38 @@
       },
       "subscriberCount": 537000,
       "viewCount": 354014202,
-      "videoCount": 11630,
-      "lastUpdated": "2025-09-03T10:02:33.144208Z"
+      "videoCount": 11631,
+      "lastUpdated": "2025-09-03T10:17:18.704681Z"
+    },
+    "UCugbqfMO94F9guLEb6Olb2A": {
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "channelUrl": "@hankyorehtv",
+      "channelDescription": "'더불어 행복한 세상을 만드는 언론' 한겨레 공식 유튜브 채널입니다. \n ■ 편성 및 제휴 문의: leepd@hani.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 946000,
+      "viewCount": 586539536,
+      "videoCount": 9682,
+      "lastUpdated": "2025-09-03T10:48:40.672237Z"
     }
   },
-  "lastUpdated": "2025-09-03T10:02:33.144208Z",
-  "totalVideos": 3,
-  "totalChannels": 2
+  "lastUpdated": "2025-09-03T10:48:40.672237Z",
+  "totalVideos": 4,
+  "totalChannels": 3
 }

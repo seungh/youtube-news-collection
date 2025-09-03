@@ -67,6 +67,95 @@
       "channelId": "UC1aS5CRRDrN6CmR2VcpmetA",
       "channelName": "한국일보(hankookilbo.com)",
       "collectedAt": "2025-09-03T10:01:45Z"
+    },
+    "63xLYfuYhGA": {
+      "videoId": "63xLYfuYhGA",
+      "title": "한국 온 슬램덩크 작가 이노우에 다케히코",
+      "description": "슬램덩크 만화를 그린 이노우에는 지금 휠체어농구 만화를 연재중이다 런던 장애인 올림픽 예선을 취재하기 위해 지난 7일 한국에 왔다",
+      "publishedAt": "2011-11-09T11:58:38Z",
+      "duration": "PT1M43S",
+      "viewCount": 21598,
+      "likeCount": 82,
+      "commentCount": 8,
+      "tags": [
+        "이노우에 다케히코"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2011-11-09T11:58:38Z",
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "collectedAt": "2025-09-03T10:48:41Z"
+    },
+    "ndWenQSj5sQ": {
+      "videoId": "ndWenQSj5sQ",
+      "title": "어버이연합 \"FTA되면 강기갑, 이정희부터 총으로...\"",
+      "description": "어버이연합의 한미FTA\r\n비준 촉구 기자회견 현장\r\n민노당이 퍼트린 한미FTA \r\n괴담이라며 말을 꺼내는데...",
+      "publishedAt": "2011-11-09T05:26:34Z",
+      "duration": "PT2M29S",
+      "viewCount": 22721,
+      "likeCount": 28,
+      "commentCount": 17,
+      "tags": [
+        "하니뉴스",
+        "fta",
+        "남경필",
+        "외통위",
+        "어버이 연합",
+        "비준",
+        "국회",
+        "미국"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2011-11-09T05:26:34Z",
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "collectedAt": "2025-09-03T10:48:41Z"
+    },
+    "9bbjBa2x5UY": {
+      "videoId": "9bbjBa2x5UY",
+      "title": "[ACC 3회] 마녀",
+      "description": "특집 Animated Cartoon Collection 3회 '마녀'. 마녀 혐의로 재판에 회부된 인기 아나운서 고윤희. 판결에 따라 특수시설1219로 향하던 도중 사고를 당하게 되고, 불길한 저택에서 하룻밤을 묵게 되는데... Animated cartoon 기법과 Interactive 기능을 버무려 내놓은 한겨레 하니TV의 '신개념 동영상 콘텐츠' 시리즈 3회. 김도성 피디 연출, 화요일 격주 편성.",
+      "publishedAt": "2011-11-09T01:51:22Z",
+      "duration": "PT3M7S",
+      "viewCount": 4983,
+      "likeCount": 7,
+      "commentCount": 0,
+      "tags": [
+        "한겨레",
+        "하니TV",
+        "로션",
+        "해피뷰티로션",
+        "acc",
+        "animated",
+        "cartoon",
+        "animation",
+        "애니메이션",
+        "만화",
+        "괴담",
+        "공포",
+        "김도성",
+        "애니메이티드",
+        "카툰",
+        "인터랙티브",
+        "interactive",
+        "그녀의",
+        "시선",
+        "그녀의시선",
+        "난도질",
+        "내연녀",
+        "비정규직",
+        "마녀",
+        "누명",
+        "이명박"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2011-11-09T01:51:22Z",
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "collectedAt": "2025-09-03T10:48:41Z"
     }
   },
   "channels": {
@@ -94,11 +183,38 @@
       },
       "subscriberCount": 362000,
       "viewCount": 296027619,
-      "videoCount": 6196,
-      "lastUpdated": "2025-09-03T10:01:45.841651Z"
+      "videoCount": 6197,
+      "lastUpdated": "2025-09-03T10:17:40.578566Z"
+    },
+    "UCugbqfMO94F9guLEb6Olb2A": {
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "channelUrl": "@hankyorehtv",
+      "channelDescription": "'더불어 행복한 세상을 만드는 언론' 한겨레 공식 유튜브 채널입니다. \n ■ 편성 및 제휴 문의: leepd@hani.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 946000,
+      "viewCount": 586539536,
+      "videoCount": 9682,
+      "lastUpdated": "2025-09-03T10:48:41.016598Z"
     }
   },
-  "lastUpdated": "2025-09-03T10:01:45.841651Z",
-  "totalVideos": 3,
-  "totalChannels": 1
+  "lastUpdated": "2025-09-03T10:48:41.016598Z",
+  "totalVideos": 6,
+  "totalChannels": 2
 }

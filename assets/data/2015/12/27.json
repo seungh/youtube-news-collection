@@ -329,6 +329,30 @@
       "channelId": "UCHXvjavEtkPFJCfGlm0wTXw",
       "channelName": "경향티비",
       "collectedAt": "2025-09-03T10:01:37Z"
+    },
+    "OFgn6rcpp2k": {
+      "videoId": "OFgn6rcpp2k",
+      "title": "정몽구 현대자동차 회장 집앞 지키는 ‘수상한 남자들’",
+      "description": "집회때마다 나타나 접근 저지\n‘유엔빌리지 봉사회’ 이름 집회신고\n노조쪽 “하청업체 사장·소장들”\n\n영상 취재/ 고한솔 한겨레 기자",
+      "publishedAt": "2015-12-27T12:16:13Z",
+      "duration": "PT1M17S",
+      "viewCount": 23641,
+      "likeCount": 28,
+      "commentCount": 8,
+      "tags": [
+        "현대차",
+        "기아차",
+        "사내하청",
+        "정몽구",
+        "노동자",
+        "한남동"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2015-12-27T12:16:13Z",
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "collectedAt": "2025-09-03T10:48:39Z"
     }
   },
   "channels": {
@@ -437,8 +461,8 @@
       },
       "subscriberCount": 362000,
       "viewCount": 296027619,
-      "videoCount": 6196,
-      "lastUpdated": "2025-09-03T10:01:37.183484Z"
+      "videoCount": 6197,
+      "lastUpdated": "2025-09-03T10:17:02.649203Z"
     },
     "UCHXvjavEtkPFJCfGlm0wTXw": {
       "channelId": "UCHXvjavEtkPFJCfGlm0wTXw",
@@ -464,11 +488,38 @@
       },
       "subscriberCount": 537000,
       "viewCount": 354014202,
-      "videoCount": 11630,
-      "lastUpdated": "2025-09-03T10:01:37.183484Z"
+      "videoCount": 11631,
+      "lastUpdated": "2025-09-03T10:17:02.649203Z"
+    },
+    "UCugbqfMO94F9guLEb6Olb2A": {
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "channelUrl": "@hankyorehtv",
+      "channelDescription": "'더불어 행복한 세상을 만드는 언론' 한겨레 공식 유튜브 채널입니다. \n ■ 편성 및 제휴 문의: leepd@hani.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 946000,
+      "viewCount": 586539536,
+      "videoCount": 9682,
+      "lastUpdated": "2025-09-03T10:48:39.413217Z"
     }
   },
-  "lastUpdated": "2025-09-03T10:01:37.183484Z",
-  "totalVideos": 11,
-  "totalChannels": 5
+  "lastUpdated": "2025-09-03T10:48:39.413217Z",
+  "totalVideos": 12,
+  "totalChannels": 6
 }

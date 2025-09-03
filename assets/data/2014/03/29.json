@@ -163,6 +163,52 @@
       "channelId": "UChlgI3UHCOnwUGzWzbJ3H5w",
       "channelName": " YTN",
       "collectedAt": "2025-08-27T19:05:19Z"
+    },
+    "YJrUBuz4pwg": {
+      "videoId": "YJrUBuz4pwg",
+      "title": "[김어준의 KFC#3] 안철수, 어쩔!",
+      "description": "한겨레TV 시사탐사쇼! [김어준의 KFC#3]\n\n#1. KFC 이슈토크: 번호 없는 새정치민주연합 청문회?!\n\n#2. KFC 이슈토크: 청와대, 채동욱 총장 찍어내기 또는 물타기 \n \n* 공개방송 *\n  4월 2일(수) 저녁 8시, 대학로 카페 벙커1\n\n진행: 김어준, 김보협, 송채경화\n기획 연출 : 이경주, 박수진, 정주용, 종합편집: 박수진, 정주용\n기술감독: 박성영, 카메라감독: 정동화, 장지남, 정주용\n디지털편성: 박종찬, 음악: 3호선 버터플라이\n제작: 한겨레TV",
+      "publishedAt": "2014-03-28T18:05:37Z",
+      "duration": "PT1H29M3S",
+      "viewCount": 445610,
+      "likeCount": 2573,
+      "commentCount": 129,
+      "tags": [
+        "김어준",
+        "한겨레TV",
+        "한겨레",
+        "이경주피디",
+        "이경주",
+        "김보협",
+        "송채경화",
+        "선대인",
+        "김어준의뉴욕타임스",
+        "김어준의KFC",
+        "유우성",
+        "국정원",
+        "간첩",
+        "증거",
+        "조작",
+        "남재준",
+        "벙커",
+        "KFC",
+        "국정원수사관",
+        "출입국관리소",
+        "김현미",
+        "새정치민주연합",
+        "안철수",
+        "김한길",
+        "야당",
+        "지방선거",
+        "기초단체장",
+        "공천"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2014-03-28T18:05:37Z",
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "collectedAt": "2025-09-03T10:48:16Z"
     }
   },
   "channels": {
@@ -246,9 +292,36 @@
       "viewCount": 17649222300,
       "videoCount": 890317,
       "lastUpdated": "2025-08-29T02:43:55.126741Z"
+    },
+    "UCugbqfMO94F9guLEb6Olb2A": {
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "channelUrl": "@hankyorehtv",
+      "channelDescription": "'더불어 행복한 세상을 만드는 언론' 한겨레 공식 유튜브 채널입니다. \n ■ 편성 및 제휴 문의: leepd@hani.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 946000,
+      "viewCount": 586539536,
+      "videoCount": 9682,
+      "lastUpdated": "2025-09-03T10:48:16.004419Z"
     }
   },
-  "lastUpdated": "2025-08-29T02:43:55.126741Z",
-  "totalVideos": 7,
-  "totalChannels": 3
+  "lastUpdated": "2025-09-03T10:48:16.004419Z",
+  "totalVideos": 8,
+  "totalChannels": 4
 }

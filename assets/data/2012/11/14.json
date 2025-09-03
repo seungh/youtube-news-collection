@@ -72,6 +72,66 @@
       "channelId": "UCHXvjavEtkPFJCfGlm0wTXw",
       "channelName": "경향티비",
       "collectedAt": "2025-09-03T10:02:32Z"
+    },
+    "mg8D-yKbuh4": {
+      "videoId": "mg8D-yKbuh4",
+      "title": "[시사영상만화 #3] 엄선! 2012 수능 대선영역",
+      "description": "향후 오년 간의 국정을 좌지우지할 선거를 앞두고, 애국 시민 학생들을 위한 수능 시험 문제가 출제되었습니다. 이름하여 이천십이 수학능력시험 대선영역! 명랑 사회 구현을 위하여 꼭 풀어봐야 할 문제로 엄선! 정답을 담당 피디에게 트위터(@kdoseong)로 보내주시면 추첨을 통해 소정의 선물을 보내드리지 않습니다. 다만 시청자의 호응에 기분 좋다고 소고기 사묵겠지요. 아이튠즈 팟캐스트 https://itunes.apple.com/kr/podcast/sisayeongsangmanhwa-video/id575452782",
+      "publishedAt": "2012-11-13T15:54:43Z",
+      "duration": "PT3M2S",
+      "viewCount": 43260,
+      "likeCount": 35,
+      "commentCount": 2,
+      "tags": [
+        "시사",
+        "영상",
+        "만화",
+        "시사영상만화",
+        "시영만",
+        "만평",
+        "김도성",
+        "정치",
+        "이정현",
+        "박근혜",
+        "문재인",
+        "안철수",
+        "단일화",
+        "김태호",
+        "홍어",
+        "김무성"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2012-11-13T15:54:43Z",
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "collectedAt": "2025-09-03T10:48:23Z"
+    },
+    "_r4n9nvvBjY": {
+      "videoId": "_r4n9nvvBjY",
+      "title": "[한귀영의 1 2 3 4 #7] 단일화 효과 12%p ↑···적합도냐? 경쟁력이냐?",
+      "description": "문재인, 안철수 단일화 효과 12%p? 대선 정국의 최대 이슈, 야권 후보 단일화. 문재인, 안철수 후보가 단일화할 것을 합의한 가운데 두 후보 중 누가 야권 단일 후보로 선출 될지가 초미의 관심사로 떠오르고 있다. 누가 야권 단일 후보가 될 가능성이 높을까? 이번 시간에는 2002년 노무현, 정몽준 후보의 단일화 과정을 통해 2012년 대선 야권 단일화후보인 문재인, 안철수 후보의 강점과 장점을 짚어봤다.\r\n\r\n연출 정주용 j2yong@hani.co.kr",
+      "publishedAt": "2012-11-14T03:32:15Z",
+      "duration": "PT10M57S",
+      "viewCount": 9185,
+      "likeCount": 8,
+      "commentCount": 5,
+      "tags": [
+        "한겨레tv",
+        "단일화",
+        "문재인",
+        "안철수",
+        "대선",
+        "박근혜",
+        "대통령",
+        "선거"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2012-11-14T03:32:15Z",
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "collectedAt": "2025-09-03T10:48:23Z"
     }
   },
   "channels": {
@@ -99,11 +159,38 @@
       },
       "subscriberCount": 537000,
       "viewCount": 354014202,
-      "videoCount": 11630,
-      "lastUpdated": "2025-09-03T10:02:32.746246Z"
+      "videoCount": 11631,
+      "lastUpdated": "2025-09-03T10:17:17.927516Z"
+    },
+    "UCugbqfMO94F9guLEb6Olb2A": {
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "channelUrl": "@hankyorehtv",
+      "channelDescription": "'더불어 행복한 세상을 만드는 언론' 한겨레 공식 유튜브 채널입니다. \n ■ 편성 및 제휴 문의: leepd@hani.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 946000,
+      "viewCount": 586539536,
+      "videoCount": 9682,
+      "lastUpdated": "2025-09-03T10:48:23.667786Z"
     }
   },
-  "lastUpdated": "2025-09-03T10:02:32.746246Z",
-  "totalVideos": 3,
-  "totalChannels": 1
+  "lastUpdated": "2025-09-03T10:48:23.667786Z",
+  "totalVideos": 5,
+  "totalChannels": 2
 }

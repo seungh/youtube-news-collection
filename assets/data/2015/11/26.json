@@ -1411,6 +1411,32 @@
       "channelId": "UCdp4_yTBhQmB8E339Lafzow",
       "channelName": "조선일보",
       "collectedAt": "2025-09-03T10:02:19Z"
+    },
+    "Vf-CjigTECQ": {
+      "videoId": "Vf-CjigTECQ",
+      "title": "“오히려 묻고 싶다 대통령이 당시 범죄 했나?”",
+      "description": "세월호 특별조사위원회가 ‘청와대의 참사 대응’에 대해 조사하기로 의결한 후 여권은 특조위에 융단폭격을 퍼부었다. 청와대는 ‘위헌’이라며 신경질적인 반응을 보였고 새누리당은 특조위원 전원 사퇴를 촉구했으며 친여 성향의 일부 언론은 특조위가 막장으로 치닫고 있다고 비난했다.\n여권은 특조위원 개인에 대해서도 공격하고 있다. 박종운 상임위원의 경우가 바로 그렇다. 새누리당은 박 위원이 ‘박 대통령 능지처참’ 발언에 박수를 치며 동조했다며 사퇴를 촉구하고 있다.",
+      "publishedAt": "2015-11-26T03:39:23Z",
+      "duration": "PT8M42S",
+      "viewCount": 40231,
+      "likeCount": 146,
+      "commentCount": 17,
+      "tags": [
+        "세월호",
+        "박종운",
+        "이석태",
+        "특조위",
+        "박근혜",
+        "조선일보",
+        "하태경",
+        "한겨레"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2015-11-26T03:39:23Z",
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "collectedAt": "2025-09-03T10:48:39Z"
     }
   },
   "channels": {
@@ -1654,8 +1680,8 @@
       },
       "subscriberCount": 537000,
       "viewCount": 354014202,
-      "videoCount": 11630,
-      "lastUpdated": "2025-09-03T10:02:19.878329Z"
+      "videoCount": 11631,
+      "lastUpdated": "2025-09-03T10:17:03.152878Z"
     },
     "UCdp4_yTBhQmB8E339Lafzow": {
       "channelId": "UCdp4_yTBhQmB8E339Lafzow",
@@ -1681,11 +1707,38 @@
       },
       "subscriberCount": 1700000,
       "viewCount": 1669752256,
-      "videoCount": 22783,
-      "lastUpdated": "2025-09-03T10:02:19.878329Z"
+      "videoCount": 22784,
+      "lastUpdated": "2025-09-03T10:17:03.154877Z"
+    },
+    "UCugbqfMO94F9guLEb6Olb2A": {
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "channelUrl": "@hankyorehtv",
+      "channelDescription": "'더불어 행복한 세상을 만드는 언론' 한겨레 공식 유튜브 채널입니다. \n ■ 편성 및 제휴 문의: leepd@hani.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 946000,
+      "viewCount": 586539536,
+      "videoCount": 9682,
+      "lastUpdated": "2025-09-03T10:48:39.443247Z"
     }
   },
-  "lastUpdated": "2025-09-03T10:02:19.878329Z",
-  "totalVideos": 50,
-  "totalChannels": 10
+  "lastUpdated": "2025-09-03T10:48:39.443247Z",
+  "totalVideos": 51,
+  "totalChannels": 11
 }

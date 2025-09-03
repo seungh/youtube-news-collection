@@ -645,6 +645,40 @@
       "channelId": "UCdp4_yTBhQmB8E339Lafzow",
       "channelName": "조선일보",
       "collectedAt": "2025-09-03T10:01:36Z"
+    },
+    "PTAWLOHp9Mo": {
+      "videoId": "PTAWLOHp9Mo",
+      "title": "국회의원들이 2G폰을 하나 더 들고 다니는 이유",
+      "description": "영상 출처/ 국회TV 오마이TV",
+      "publishedAt": "2016-03-01T08:32:18Z",
+      "duration": "PT1M38S",
+      "viewCount": 10587,
+      "likeCount": 90,
+      "commentCount": 15,
+      "tags": [],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2016-03-01T08:32:18Z",
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "collectedAt": "2025-09-03T10:48:39Z"
+    },
+    "OZ_d5ddqdtM": {
+      "videoId": "OZ_d5ddqdtM",
+      "title": "이상민 감독을 응원 온 서장훈",
+      "description": "29일 프로농구 6강 플레이오프 삼성과 인삼공사의 3차전이 열린 서울 잠실체육관으로 서장훈이 이상민(44) 삼성 감독을 찾아왔다.",
+      "publishedAt": "2016-03-01T05:29:53Z",
+      "duration": "PT1M26S",
+      "viewCount": 229297,
+      "likeCount": 462,
+      "commentCount": 49,
+      "tags": [],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2016-03-01T05:29:53Z",
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "collectedAt": "2025-09-03T10:48:39Z"
     }
   },
   "channels": {
@@ -780,8 +814,8 @@
       },
       "subscriberCount": 362000,
       "viewCount": 296027619,
-      "videoCount": 6196,
-      "lastUpdated": "2025-09-03T10:01:36.457951Z"
+      "videoCount": 6197,
+      "lastUpdated": "2025-09-03T10:17:01.355134Z"
     },
     "UCHXvjavEtkPFJCfGlm0wTXw": {
       "channelId": "UCHXvjavEtkPFJCfGlm0wTXw",
@@ -807,8 +841,8 @@
       },
       "subscriberCount": 537000,
       "viewCount": 354014202,
-      "videoCount": 11630,
-      "lastUpdated": "2025-09-03T10:01:36.457951Z"
+      "videoCount": 11631,
+      "lastUpdated": "2025-09-03T10:17:01.354586Z"
     },
     "UCdp4_yTBhQmB8E339Lafzow": {
       "channelId": "UCdp4_yTBhQmB8E339Lafzow",
@@ -834,11 +868,38 @@
       },
       "subscriberCount": 1700000,
       "viewCount": 1669752256,
-      "videoCount": 22783,
-      "lastUpdated": "2025-09-03T10:01:36.457951Z"
+      "videoCount": 22784,
+      "lastUpdated": "2025-09-03T10:17:01.355134Z"
+    },
+    "UCugbqfMO94F9guLEb6Olb2A": {
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "channelUrl": "@hankyorehtv",
+      "channelDescription": "'더불어 행복한 세상을 만드는 언론' 한겨레 공식 유튜브 채널입니다. \n ■ 편성 및 제휴 문의: leepd@hani.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 946000,
+      "viewCount": 586539536,
+      "videoCount": 9682,
+      "lastUpdated": "2025-09-03T10:48:39.397260Z"
     }
   },
-  "lastUpdated": "2025-09-03T10:01:36.457951Z",
-  "totalVideos": 26,
-  "totalChannels": 7
+  "lastUpdated": "2025-09-03T10:48:39.397260Z",
+  "totalVideos": 28,
+  "totalChannels": 8
 }

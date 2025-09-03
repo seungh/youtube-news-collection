@@ -579,6 +579,29 @@
       "channelId": "UC1aS5CRRDrN6CmR2VcpmetA",
       "channelName": "한국일보(hankookilbo.com)",
       "collectedAt": "2025-09-03T10:01:23Z"
+    },
+    "pRRrNRsJsWM": {
+      "videoId": "pRRrNRsJsWM",
+      "title": "구속영장 기각된 정유라의 길고도 긴 밤",
+      "description": "+--------------------------------------------------------------------------------+ \n◈ 중앙일보 공식 SNS 채널 ◈ \n- 페이스북 \nhttps://www.facebook.com/joongang/ \n- 네이버TV \nhttp://tvcast.naver.com/joongangsisa \n- Youtube : \nhttps://www.youtube.com/channel/UCH3mJ-nHxjjny2FJbJaqiDA?sub_confirmation=1 \n- 트위터 : \nhttp://www.twitter.com/joongangilbo \n- 인스타그램 : \nhttps://www.instagram.com/joongangilbo \n+--------------------------------------------------------------------------------+ \n당신이 원하는 뉴스, \n중앙일보 SNS 채널과 함께하세요.",
+      "publishedAt": "2017-06-03T06:48:25Z",
+      "duration": "PT55S",
+      "viewCount": 3357,
+      "likeCount": 6,
+      "commentCount": 1,
+      "tags": [
+        "정유라",
+        "최순실",
+        "국정농단",
+        "이대",
+        "중앙일보"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2017-06-03T06:48:25Z",
+      "channelId": "UCH3mJ-nHxjjny2FJbJaqiDA",
+      "channelName": "중앙일보",
+      "collectedAt": "2025-09-03T10:49:20Z"
     }
   },
   "channels": {
@@ -741,11 +764,38 @@
       },
       "subscriberCount": 362000,
       "viewCount": 296027619,
-      "videoCount": 6196,
-      "lastUpdated": "2025-09-03T10:01:23.338008Z"
+      "videoCount": 6197,
+      "lastUpdated": "2025-09-03T10:17:33.754069Z"
+    },
+    "UCH3mJ-nHxjjny2FJbJaqiDA": {
+      "channelId": "UCH3mJ-nHxjjny2FJbJaqiDA",
+      "channelName": "중앙일보",
+      "channelUrl": "@joongangilbo",
+      "channelDescription": "현장의 진실을 중앙에 두다.",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/iqcE5aK4gFUjm5A-QO4FLDCDrTgOXTfU3oCyirTZcT9Ev1i_sKtx82GqfF2rPDfbBgFtBqL0uw=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/iqcE5aK4gFUjm5A-QO4FLDCDrTgOXTfU3oCyirTZcT9Ev1i_sKtx82GqfF2rPDfbBgFtBqL0uw=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/iqcE5aK4gFUjm5A-QO4FLDCDrTgOXTfU3oCyirTZcT9Ev1i_sKtx82GqfF2rPDfbBgFtBqL0uw=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 555000,
+      "viewCount": 475518285,
+      "videoCount": 18651,
+      "lastUpdated": "2025-09-03T10:49:20.362784Z"
     }
   },
-  "lastUpdated": "2025-09-03T10:01:23.338008Z",
-  "totalVideos": 23,
-  "totalChannels": 6
+  "lastUpdated": "2025-09-03T10:49:20.362784Z",
+  "totalVideos": 24,
+  "totalChannels": 7
 }

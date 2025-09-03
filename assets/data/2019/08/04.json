@@ -5032,6 +5032,42 @@
       "channelId": "UCTHCOPwqNfZ0uiKOvFyhGwg",
       "channelName": "연합뉴스TV",
       "collectedAt": "2025-08-29T02:42:58Z"
+    },
+    "jZDGVvP4sY0": {
+      "videoId": "jZDGVvP4sY0",
+      "title": "\"육군은 유격? 해군은 전투수영\"···천안함서 이렇게 살아남았다",
+      "description": "‘비상 탈출’ 장비에 탑승한 군 장병은 위급한 상황이 발생하면 신속하게 탈출한다. 전쟁은 장기전이다. 일단 살아남아야 다음 전투에 뛰어들 수 있다. 탈출은 비겁한 도망이 아니다.\n\n전투기 조종사는 추락하기 직전 비상 탈출해 낙하산 펴서 땅으로 내려온다. 전차와 장갑차 승무원은 해치를 열고 밖으로 나온다. 해군 장병도 함정이 공격받거나 좌초해 침몰할 때 바다 한가운데에서 탈출해 생존할 수 있을까. 실제 상황을 보면 알 수 있다.\n\n생존훈련은 어떻게 이뤄질까. 해군에서는 함정 화재를 진압하는 ‘소화’, 선체 손상을 복원하는 ‘방수’ 훈련과 함께 전투수영 훈련으로 생존 능력을 키운다. 지난달 24일 진해 해군기지에서 이뤄진 전투수영 훈련에 참여했다.\n\n#해군 #전투수영 #비상탈출\n\n\"육군 유격? 해군은 전투수영\"···천안함서 이렇게 살아남았다\nhttps://mnews.joins.com/article/23543243\n\n+--------------------------------------------------------------------------------+ \n\n◈ 중앙일보 공식 SNS 채널 ◈\n\n- 페이스북 : https://www.facebook.com/joongang/\n- 인스타그램 : https://www.instagram.com/joongangilbo\n- 트위터 : http://www.twitter.com/joongangilbo\n- 유튜브 : https://goo.gl/DyGoPC\n- 네이버 TV : http://tvcast.naver.com/joongangsisa\n- 네이버포스트 : https://goo.gl/eeYh4k\n\n당신이 원하는 뉴스,\n중앙일보 SNS 채널과 함께하세요.\n\n+--------------------------------------------------------------------------------+",
+      "publishedAt": "2019-08-03T20:00:02Z",
+      "duration": "PT5M16S",
+      "viewCount": 6490,
+      "likeCount": 27,
+      "commentCount": 8,
+      "tags": [
+        "중앙일보",
+        "배틀그라운드",
+        "해군",
+        "이함훈련",
+        "전투수영",
+        "수영",
+        "다이빙",
+        "천안함",
+        "탈출",
+        "생존훈련",
+        "방수",
+        "소화",
+        "구보",
+        "도수체조",
+        "바다",
+        "비상탈출",
+        "수중행군",
+        "직립 다이빙"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2019-08-03T20:00:02Z",
+      "channelId": "UCH3mJ-nHxjjny2FJbJaqiDA",
+      "channelName": "중앙일보",
+      "collectedAt": "2025-09-03T10:49:14Z"
     }
   },
   "channels": {
@@ -5304,9 +5340,36 @@
       "viewCount": 3278386064,
       "videoCount": 233358,
       "lastUpdated": "2025-08-29T02:42:58.241557Z"
+    },
+    "UCH3mJ-nHxjjny2FJbJaqiDA": {
+      "channelId": "UCH3mJ-nHxjjny2FJbJaqiDA",
+      "channelName": "중앙일보",
+      "channelUrl": "@joongangilbo",
+      "channelDescription": "현장의 진실을 중앙에 두다.",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/iqcE5aK4gFUjm5A-QO4FLDCDrTgOXTfU3oCyirTZcT9Ev1i_sKtx82GqfF2rPDfbBgFtBqL0uw=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/iqcE5aK4gFUjm5A-QO4FLDCDrTgOXTfU3oCyirTZcT9Ev1i_sKtx82GqfF2rPDfbBgFtBqL0uw=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/iqcE5aK4gFUjm5A-QO4FLDCDrTgOXTfU3oCyirTZcT9Ev1i_sKtx82GqfF2rPDfbBgFtBqL0uw=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 555000,
+      "viewCount": 475518285,
+      "videoCount": 18651,
+      "lastUpdated": "2025-09-03T10:49:14.358722Z"
     }
   },
-  "lastUpdated": "2025-08-29T02:42:58.241557Z",
-  "totalVideos": 160,
-  "totalChannels": 10
+  "lastUpdated": "2025-09-03T10:49:14.358722Z",
+  "totalVideos": 161,
+  "totalChannels": 11
 }

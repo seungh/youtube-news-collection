@@ -1,0 +1,57 @@
+{
+  "videos": {
+    "lV6yZ51yFA4": {
+      "videoId": "lV6yZ51yFA4",
+      "title": "앱평8 - 내가 부른 노래, 전세계와 공유해요",
+      "description": "아이폰 앱 '글리'...미드 '글리' 나온 노래들 부르기\r\n직접 부르기도 하고, 다른 이용자와 같이 부르기도",
+      "publishedAt": "2010-06-23T01:45:34Z",
+      "duration": "PT9M51S",
+      "viewCount": 2107,
+      "likeCount": 1,
+      "commentCount": 1,
+      "tags": [
+        "앱평",
+        "글리",
+        "glee"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2010-06-23T01:45:34Z",
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "collectedAt": "2025-09-03T10:48:41Z"
+    }
+  },
+  "channels": {
+    "UCugbqfMO94F9guLEb6Olb2A": {
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "channelUrl": "@hankyorehtv",
+      "channelDescription": "'더불어 행복한 세상을 만드는 언론' 한겨레 공식 유튜브 채널입니다. \n ■ 편성 및 제휴 문의: leepd@hani.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 946000,
+      "viewCount": 586539536,
+      "videoCount": 9682,
+      "lastUpdated": "2025-09-03T10:48:41.480123Z"
+    }
+  },
+  "lastUpdated": "2025-09-03T10:48:41.480123Z",
+  "totalVideos": 1,
+  "totalChannels": 1
+}

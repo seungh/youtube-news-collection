@@ -1070,6 +1070,30 @@
       "channelId": "UCHXvjavEtkPFJCfGlm0wTXw",
       "channelName": "경향티비",
       "collectedAt": "2025-09-03T10:02:20Z"
+    },
+    "W0QRcK1llMM": {
+      "videoId": "W0QRcK1llMM",
+      "title": "문재인 “국정화 교과서, 국제적인 수치”",
+      "description": "“황우여, 자기뜻이 아니라 윗선의 뜻이라 했다”\n“막말 사과하고 서청원 최고위원 물러나야한다”\n“확정고시 해도 굴하지 않겠다”\n“다음 총선 때도 법으로  역사국정교과서 못하게 금지하겠다고 불패 공약하겠다”\n\n27일 저녁 서울 광화문광장에 열린 역사 교과서 국정화 반대 당원결의대회에서 문재인 새정치민주연합 대표가 연설하고 있다.",
+      "publishedAt": "2015-10-27T11:22:53Z",
+      "duration": "PT4M20S",
+      "viewCount": 5054,
+      "likeCount": 16,
+      "commentCount": 4,
+      "tags": [
+        "한겨레",
+        "한겨레신문사",
+        "The Hankyoreh",
+        "Hankyoreh",
+        "The HankyorehTV",
+        "HankyorehTV"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2015-10-27T11:22:53Z",
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "collectedAt": "2025-09-03T10:48:34Z"
     }
   },
   "channels": {
@@ -1286,11 +1310,38 @@
       },
       "subscriberCount": 537000,
       "viewCount": 354014202,
-      "videoCount": 11630,
-      "lastUpdated": "2025-09-03T10:02:20.184985Z"
+      "videoCount": 11631,
+      "lastUpdated": "2025-09-03T10:17:03.709052Z"
+    },
+    "UCugbqfMO94F9guLEb6Olb2A": {
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "channelUrl": "@hankyorehtv",
+      "channelDescription": "'더불어 행복한 세상을 만드는 언론' 한겨레 공식 유튜브 채널입니다. \n ■ 편성 및 제휴 문의: leepd@hani.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 946000,
+      "viewCount": 586539536,
+      "videoCount": 9682,
+      "lastUpdated": "2025-09-03T10:48:34.157726Z"
     }
   },
-  "lastUpdated": "2025-09-03T10:02:20.184985Z",
-  "totalVideos": 38,
-  "totalChannels": 8
+  "lastUpdated": "2025-09-03T10:48:34.158727Z",
+  "totalVideos": 39,
+  "totalChannels": 9
 }

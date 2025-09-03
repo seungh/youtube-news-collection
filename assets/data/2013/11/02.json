@@ -162,6 +162,33 @@
       "channelId": "UCdp4_yTBhQmB8E339Lafzow",
       "channelName": "조선일보",
       "collectedAt": "2025-09-03T10:02:47Z"
+    },
+    "jN02drgUWxE": {
+      "videoId": "jN02drgUWxE",
+      "title": "[잉여싸롱#11] '아이돌 천하', 숨은 음악 찾기",
+      "description": "2013년 11월2일(토)\n〈서정민·이승한의 잉여싸롱 # 11〉 \n아이돌의 음원차트 80%석권은 어떻게 가능했을까? \n\n한겨레 음악담당 서정민 기자와 TV 칼럼니스트 이승한의 컬쳐비평 프로그램　\n초대손님: 최지선 대중음악 평론가\n\n● 잉여싸롱 추천 숨은 음악 3곡\n\n장필순의 7집 〈SOONY 7〉중 '맴맴'(최지선 평론가 추천)\n-유튜브 주소: http://youtu.be/sPZS_fIOEQA\n\n전기뱀장어 '송곳니'(서정민 기자 추천)\n -유튜브 주소: http://youtu.be/GNLOKbce1HA\n\n김사랑 'ICU'(이승한 평론가 추천)\n -유튜브 주소: http://youtu.be/R3I5wCWkY1c\n\n◆ 제작진\n\n손글씨: 김노경\nCG, 타이틀: 박의정\n기술감독: 박성영\n연출: 조소영 박종찬\n\n◆ 팟캐스트\n\n -http://www.podbbang.com/ch/6435",
+      "publishedAt": "2013-11-01T22:03:54Z",
+      "duration": "PT29M11S",
+      "viewCount": 3568,
+      "likeCount": 28,
+      "commentCount": 10,
+      "tags": [
+        "아이돌",
+        "SM",
+        "YG",
+        "JYP",
+        "크레용팝",
+        "소방차",
+        "현철",
+        "변진섭",
+        "유기홍"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2013-11-01T22:03:54Z",
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "collectedAt": "2025-09-03T10:48:21Z"
     }
   },
   "channels": {
@@ -216,11 +243,38 @@
       },
       "subscriberCount": 1700000,
       "viewCount": 1669752256,
-      "videoCount": 22783,
-      "lastUpdated": "2025-09-03T10:02:47.683694Z"
+      "videoCount": 22784,
+      "lastUpdated": "2025-09-03T10:18:05.147900Z"
+    },
+    "UCugbqfMO94F9guLEb6Olb2A": {
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "channelUrl": "@hankyorehtv",
+      "channelDescription": "'더불어 행복한 세상을 만드는 언론' 한겨레 공식 유튜브 채널입니다. \n ■ 편성 및 제휴 문의: leepd@hani.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 946000,
+      "viewCount": 586539536,
+      "videoCount": 9682,
+      "lastUpdated": "2025-09-03T10:48:21.663958Z"
     }
   },
-  "lastUpdated": "2025-09-03T10:02:47.683694Z",
-  "totalVideos": 6,
-  "totalChannels": 2
+  "lastUpdated": "2025-09-03T10:48:21.663958Z",
+  "totalVideos": 7,
+  "totalChannels": 3
 }

@@ -1,0 +1,103 @@
+{
+  "videos": {
+    "Xk7YGuW3wL0": {
+      "videoId": "Xk7YGuW3wL0",
+      "title": "\"대화하자더니 쳤다\"",
+      "description": "[뉴스] 명동3구역 재개발 시행사, \"일주일에 대화 세번씩 하자\"고 말했는데,바로 그 다음주 월요일 용역 투입해 철거를 시작했다. \"세입자 돕겠다\"며 시민 50여명이 연대했다.",
+      "publishedAt": "2011-07-18T09:19:43Z",
+      "duration": "PT1M55S",
+      "viewCount": 4569,
+      "likeCount": 4,
+      "commentCount": 0,
+      "tags": [
+        "명동3구역",
+        "마리",
+        "용역",
+        "재개발"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2011-07-18T09:19:43Z",
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "collectedAt": "2025-09-03T10:48:41Z"
+    },
+    "W64VQ2kHBi8": {
+      "videoId": "W64VQ2kHBi8",
+      "title": "'삼보일퍽(큐?)' 현장 \"엠비씨 사장께...\"",
+      "description": "탁현민 교수가 엠비씨의 '소셜테이너\r\n출연 금지 규정'에 항의 하는 뜻으로\r\n김재철 사장에게 세 걸음에 한번 '주먹'을\r\n날리는 행위극을 벌였다.",
+      "publishedAt": "2011-07-18T07:33:28Z",
+      "duration": "PT1M47S",
+      "viewCount": 1764,
+      "likeCount": 5,
+      "commentCount": 1,
+      "tags": [
+        "삼보일퍽",
+        "탁현민",
+        "mbc",
+        "김재철",
+        "김여진",
+        "출연거부",
+        "출연정지"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2011-07-18T07:33:28Z",
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "collectedAt": "2025-09-03T10:48:41Z"
+    },
+    "8LhHuQeWr64": {
+      "videoId": "8LhHuQeWr64",
+      "title": "대한민국 '잡년'들이 거리로 나왔다",
+      "description": "\"옷은 양념이 아니다.\r\n그녀는 먹을 것이 아니다\"\r\n한국판 슬롯워크 '잡년행진'",
+      "publishedAt": "2011-07-18T00:43:46Z",
+      "duration": "PT2M8S",
+      "viewCount": 4408,
+      "likeCount": 12,
+      "commentCount": 2,
+      "tags": [
+        "HMC",
+        "0716NEWS"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2011-07-18T00:43:46Z",
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "collectedAt": "2025-09-03T10:48:41Z"
+    }
+  },
+  "channels": {
+    "UCugbqfMO94F9guLEb6Olb2A": {
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "channelUrl": "@hankyorehtv",
+      "channelDescription": "'더불어 행복한 세상을 만드는 언론' 한겨레 공식 유튜브 채널입니다. \n ■ 편성 및 제휴 문의: leepd@hani.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 946000,
+      "viewCount": 586539536,
+      "videoCount": 9682,
+      "lastUpdated": "2025-09-03T10:48:41.147143Z"
+    }
+  },
+  "lastUpdated": "2025-09-03T10:48:41.147143Z",
+  "totalVideos": 3,
+  "totalChannels": 1
+}

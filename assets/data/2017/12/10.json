@@ -1556,6 +1556,56 @@
       "channelId": "UCdp4_yTBhQmB8E339Lafzow",
       "channelName": "조선일보",
       "collectedAt": "2025-09-03T10:02:42Z"
+    },
+    "rU4VxLBemEs": {
+      "videoId": "rU4VxLBemEs",
+      "title": "코리아나호텔  피트니스센터 부당해고, 막말",
+      "description": "●〈한겨레TV〉 유튜브 채널 구독하기 -https://goo.gl/vYg2yI",
+      "publishedAt": "2017-12-10T06:00:37Z",
+      "duration": "PT2M53S",
+      "viewCount": 2231,
+      "likeCount": 33,
+      "commentCount": 4,
+      "tags": [
+        "한겨레",
+        "한겨레TV",
+        "Hankyoreh",
+        "HankyorehTV",
+        "korea",
+        "한국",
+        "대한민국"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2017-12-10T06:00:37Z",
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "collectedAt": "2025-09-03T10:48:39Z"
+    },
+    "9iWxRsTUFAU": {
+      "videoId": "9iWxRsTUFAU",
+      "title": "목포 갔다 계란맞은 박지원",
+      "description": "10일 오전 전남 목포시 김대중 노벨평화상 기념관 일원에서 열린 제1회 김대중 마라톤대회 출발 지점에서 박지원 국민의당 전 대표가 한 시민이 던진 계란을 맞았다.\n\n●〈한겨레TV〉 유튜브 채널 구독하기 -https://goo.gl/vYg2yI",
+      "publishedAt": "2017-12-10T02:34:38Z",
+      "duration": "PT29S",
+      "viewCount": 58514,
+      "likeCount": 297,
+      "commentCount": 49,
+      "tags": [
+        "한겨레",
+        "한겨레TV",
+        "Hankyoreh",
+        "HankyorehTV",
+        "korea",
+        "한국",
+        "대한민국"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2017-12-10T02:34:38Z",
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "collectedAt": "2025-09-03T10:48:39Z"
     }
   },
   "channels": {
@@ -1826,11 +1876,38 @@
       },
       "subscriberCount": 1700000,
       "viewCount": 1669752256,
-      "videoCount": 22783,
-      "lastUpdated": "2025-09-03T10:02:42.802378Z"
+      "videoCount": 22784,
+      "lastUpdated": "2025-09-03T10:18:00.340105Z"
+    },
+    "UCugbqfMO94F9guLEb6Olb2A": {
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "channelUrl": "@hankyorehtv",
+      "channelDescription": "'더불어 행복한 세상을 만드는 언론' 한겨레 공식 유튜브 채널입니다. \n ■ 편성 및 제휴 문의: leepd@hani.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 946000,
+      "viewCount": 586539536,
+      "videoCount": 9682,
+      "lastUpdated": "2025-09-03T10:48:39.033266Z"
     }
   },
-  "lastUpdated": "2025-09-03T10:02:42.802378Z",
-  "totalVideos": 59,
-  "totalChannels": 10
+  "lastUpdated": "2025-09-03T10:48:39.033266Z",
+  "totalVideos": 61,
+  "totalChannels": 11
 }

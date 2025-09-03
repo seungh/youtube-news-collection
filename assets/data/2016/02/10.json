@@ -463,6 +463,28 @@
       "channelId": "UCHXvjavEtkPFJCfGlm0wTXw",
       "channelName": "경향티비",
       "collectedAt": "2025-09-03T10:01:37Z"
+    },
+    "tcYtcAzAxgE": {
+      "videoId": "tcYtcAzAxgE",
+      "title": "[esc]서정민 기자의 스노보드 고프로 영상",
+      "description": "서정민 esc팀장이 일본 나가노 하쿠바에서 열린 '고프로 미디어 트레이닝' 행사에서 찍어온 고프로 영상을 직접 편집해 완성한 결과물. 관련 기사 http://www.hani.co.kr/arti/specialsection/esc_section/729839.html",
+      "publishedAt": "2016-02-10T05:37:58Z",
+      "duration": "PT59S",
+      "viewCount": 2334,
+      "likeCount": 7,
+      "commentCount": 0,
+      "tags": [
+        "gopro",
+        "고프로",
+        "스노보드",
+        "snowboard"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2016-02-10T05:37:58Z",
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "collectedAt": "2025-09-03T10:48:02Z"
     }
   },
   "channels": {
@@ -625,8 +647,8 @@
       },
       "subscriberCount": 362000,
       "viewCount": 296027619,
-      "videoCount": 6196,
-      "lastUpdated": "2025-09-03T10:01:37.058068Z"
+      "videoCount": 6197,
+      "lastUpdated": "2025-09-03T10:17:01.740520Z"
     },
     "UCHXvjavEtkPFJCfGlm0wTXw": {
       "channelId": "UCHXvjavEtkPFJCfGlm0wTXw",
@@ -652,11 +674,38 @@
       },
       "subscriberCount": 537000,
       "viewCount": 354014202,
-      "videoCount": 11630,
-      "lastUpdated": "2025-09-03T10:01:37.058068Z"
+      "videoCount": 11631,
+      "lastUpdated": "2025-09-03T10:17:01.739790Z"
+    },
+    "UCugbqfMO94F9guLEb6Olb2A": {
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "channelUrl": "@hankyorehtv",
+      "channelDescription": "'더불어 행복한 세상을 만드는 언론' 한겨레 공식 유튜브 채널입니다. \n ■ 편성 및 제휴 문의: leepd@hani.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 946000,
+      "viewCount": 586539536,
+      "videoCount": 9682,
+      "lastUpdated": "2025-09-03T10:48:02.109188Z"
     }
   },
-  "lastUpdated": "2025-09-03T10:01:37.058068Z",
-  "totalVideos": 21,
-  "totalChannels": 7
+  "lastUpdated": "2025-09-03T10:48:02.109188Z",
+  "totalVideos": 22,
+  "totalChannels": 8
 }

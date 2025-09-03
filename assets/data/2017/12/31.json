@@ -1664,6 +1664,42 @@
       "channelId": "UCHXvjavEtkPFJCfGlm0wTXw",
       "channelName": "경향티비",
       "collectedAt": "2025-09-03T10:02:14Z"
+    },
+    "L4TS6FDdm7U": {
+      "videoId": "L4TS6FDdm7U",
+      "title": "2017년 이 표지에 울고 웃었네 [하어영 김완의 훅 #8]",
+      "description": "2017년 한겨레21 올해의 표지 난민 복서 이흑산, 챔피언은 링 밖의 싸움이 더 두렵다 http://h21.hani.co.kr/arti/cover/cover_general/43643.html\n\n세 마을 잔혹사 그때는 찬성했다, 그래서 지금은 슬프다\nhttp://h21.hani.co.kr/arti/cover/cover_general/43603.html\n\n[단독] 국정원, 우익청년 매수해 여론 조작 나섰다\nhttp://h21.hani.co.kr/arti/cover/cover_general/43390.html\n\n개혁의 문으로 가는 72시간\nhttp://h21.hani.co.kr/arti/cover/cover_general/43530.html\n\n박근혜 때도 기업 보수단체 거액 지원 계속돼\nhttp://h21.hani.co.kr/arti/cover/cover_general/44406.html\n\n박수진 기자의 부산 HIV 감염 여성보도의 진실\nhttp://h21.hani.co.kr/arti/cover/cover_general/44447.html\n김성광 기자의 이주민산재 르포 \nhttp://h21.hani.co.kr/arti/cover/cover_general/44515.html\n\n한해동안 시청해주셔서 고맙습니다. 모두 새해 복 많이 받으세요.\n\n진행 : 〈한겨레21〉하어영 김완 \n타이틀 : 〈한겨레TV〉문석진\n연출: 〈한겨레TV〉 조소영\n#한겨레훅 #한겨레21",
+      "publishedAt": "2017-12-31T03:47:34Z",
+      "duration": "PT18M51S",
+      "viewCount": 2490,
+      "likeCount": 37,
+      "commentCount": 8,
+      "tags": [
+        "한겨레",
+        "한겨레TV",
+        "Hankyoreh",
+        "HankyorehTV",
+        "korea",
+        "한국",
+        "대한민국",
+        "한겨레21",
+        "올해의 표지",
+        "문재인",
+        "강정",
+        "이흑산",
+        "국정원",
+        "하어영",
+        "김완",
+        "2017년",
+        "연말결산",
+        "한겨레훅"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2017-12-31T03:47:34Z",
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "collectedAt": "2025-09-03T10:47:56Z"
     }
   },
   "channels": {
@@ -1880,11 +1916,38 @@
       },
       "subscriberCount": 537000,
       "viewCount": 354014202,
-      "videoCount": 11630,
-      "lastUpdated": "2025-09-03T10:02:14.096356Z"
+      "videoCount": 11631,
+      "lastUpdated": "2025-09-03T10:16:49.204239Z"
+    },
+    "UCugbqfMO94F9guLEb6Olb2A": {
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "channelUrl": "@hankyorehtv",
+      "channelDescription": "'더불어 행복한 세상을 만드는 언론' 한겨레 공식 유튜브 채널입니다. \n ■ 편성 및 제휴 문의: leepd@hani.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 946000,
+      "viewCount": 586539536,
+      "videoCount": 9682,
+      "lastUpdated": "2025-09-03T10:47:56.143009Z"
     }
   },
-  "lastUpdated": "2025-09-03T10:02:14.096356Z",
-  "totalVideos": 68,
-  "totalChannels": 8
+  "lastUpdated": "2025-09-03T10:47:56.143009Z",
+  "totalVideos": 69,
+  "totalChannels": 9
 }

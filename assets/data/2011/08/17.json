@@ -23,6 +23,70 @@
       "channelId": "UC1aS5CRRDrN6CmR2VcpmetA",
       "channelName": "한국일보(hankookilbo.com)",
       "collectedAt": "2025-09-03T10:01:45Z"
+    },
+    "bHN89Qvk7Lg": {
+      "videoId": "bHN89Qvk7Lg",
+      "title": "[차이나리포트16회]만리장성 서쪽 끝자락에 올라 '깐쑤'상편",
+      "description": "란저우의 황토빛깔 넘치는 황허 위로 노을이 지고\r\n만리장성 서쪽 끝자락 자위관에는 제비 우는 소리 나는 돌이 있다",
+      "publishedAt": "2011-08-17T12:25:38Z",
+      "duration": "PT22M3S",
+      "viewCount": 4146,
+      "likeCount": 6,
+      "commentCount": 0,
+      "tags": [
+        "란저우",
+        "황허",
+        "만리장성",
+        "중국"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2011-08-17T12:25:38Z",
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "collectedAt": "2025-09-03T10:48:11Z"
+    },
+    "kcZsPb43O-I": {
+      "videoId": "kcZsPb43O-I",
+      "title": "오세훈 1인시위, 시민들 '싸늘'",
+      "description": "영상제공:미디어몽구 \r\n17일 오전 오세훈시장은 서울 \r\n시내 을지로입구에서 주민투표\r\n독려 피켓을 들었다. 시민들은 \r\n오시장의 1인시위를 피해 갔다.",
+      "publishedAt": "2011-08-17T07:34:00Z",
+      "duration": "PT2M43S",
+      "viewCount": 21819,
+      "likeCount": 49,
+      "commentCount": 17,
+      "tags": [
+        "미디어몽구",
+        "오세훈",
+        "주민투표",
+        "무상급식"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2011-08-17T07:34:00Z",
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "collectedAt": "2025-09-03T10:48:11Z"
+    },
+    "1SRzAPnqBXw": {
+      "videoId": "1SRzAPnqBXw",
+      "title": "포이동 위로하는 김제동",
+      "description": "방송인 김제동씨는 12일 금요일 오후 포이동 재건마을에 강제철거 당한 주민들을 위로했다.",
+      "publishedAt": "2011-08-17T07:05:58Z",
+      "duration": "PT2M49S",
+      "viewCount": 4586,
+      "likeCount": 5,
+      "commentCount": 1,
+      "tags": [
+        "김제동",
+        "포이동"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2011-08-17T07:05:58Z",
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "collectedAt": "2025-09-03T10:48:11Z"
     }
   },
   "channels": {
@@ -50,11 +114,38 @@
       },
       "subscriberCount": 362000,
       "viewCount": 296027619,
-      "videoCount": 6196,
-      "lastUpdated": "2025-09-03T10:01:45.996739Z"
+      "videoCount": 6197,
+      "lastUpdated": "2025-09-03T10:17:40.841024Z"
+    },
+    "UCugbqfMO94F9guLEb6Olb2A": {
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "channelUrl": "@hankyorehtv",
+      "channelDescription": "'더불어 행복한 세상을 만드는 언론' 한겨레 공식 유튜브 채널입니다. \n ■ 편성 및 제휴 문의: leepd@hani.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 946000,
+      "viewCount": 586539536,
+      "videoCount": 9682,
+      "lastUpdated": "2025-09-03T10:48:11.060607Z"
     }
   },
-  "lastUpdated": "2025-09-03T10:01:45.996739Z",
-  "totalVideos": 1,
-  "totalChannels": 1
+  "lastUpdated": "2025-09-03T10:48:11.060607Z",
+  "totalVideos": 4,
+  "totalChannels": 2
 }

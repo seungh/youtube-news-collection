@@ -21,6 +21,56 @@
       "channelId": "UC1aS5CRRDrN6CmR2VcpmetA",
       "channelName": "한국일보(hankookilbo.com)",
       "collectedAt": "2025-09-03T10:01:46Z"
+    },
+    "QMipXxD00NQ": {
+      "videoId": "QMipXxD00NQ",
+      "title": "기호 8번 기민당 후보는 어디에...?",
+      "description": "10.26 서울 시장 보궐 선거\r\n기호 8번 기민당 김충립대표의\r\n불참 기자회견과 후보 등록 무효 결정",
+      "publishedAt": "2011-10-19T09:54:23Z",
+      "duration": "PT2M20S",
+      "viewCount": 1122,
+      "likeCount": 1,
+      "commentCount": 1,
+      "tags": [
+        "하니뉴스",
+        "박원순",
+        "나경원",
+        "박영선",
+        "서울시장",
+        "보궐선거",
+        "야권",
+        "민주당",
+        "기독민주당",
+        "기민당",
+        "김충립",
+        "전광"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2011-10-19T09:54:23Z",
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "collectedAt": "2025-09-03T10:48:41Z"
+    },
+    "r2loqSbbWp0": {
+      "videoId": "r2loqSbbWp0",
+      "title": "개통앞둔 경인아라뱃길 미리 가보니",
+      "description": "물류·관광 명소가 될것인가 애물단지로 전락할 것인가 막대한 사업비 들였는데, '선박없는 운하'가 될 수 있다",
+      "publishedAt": "2011-10-19T09:08:14Z",
+      "duration": "PT1M47S",
+      "viewCount": 26870,
+      "likeCount": 4,
+      "commentCount": 1,
+      "tags": [
+        "경인아라뱃길",
+        "경인운하"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2011-10-19T09:08:14Z",
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "collectedAt": "2025-09-03T10:48:41Z"
     }
   },
   "channels": {
@@ -48,11 +98,38 @@
       },
       "subscriberCount": 362000,
       "viewCount": 296027619,
-      "videoCount": 6196,
-      "lastUpdated": "2025-09-03T10:01:46.006703Z"
+      "videoCount": 6197,
+      "lastUpdated": "2025-09-03T10:17:40.915218Z"
+    },
+    "UCugbqfMO94F9guLEb6Olb2A": {
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "channelUrl": "@hankyorehtv",
+      "channelDescription": "'더불어 행복한 세상을 만드는 언론' 한겨레 공식 유튜브 채널입니다. \n ■ 편성 및 제휴 문의: leepd@hani.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 946000,
+      "viewCount": 586539536,
+      "videoCount": 9682,
+      "lastUpdated": "2025-09-03T10:48:41.036444Z"
     }
   },
-  "lastUpdated": "2025-09-03T10:01:46.006703Z",
-  "totalVideos": 1,
-  "totalChannels": 1
+  "lastUpdated": "2025-09-03T10:48:41.036444Z",
+  "totalVideos": 3,
+  "totalChannels": 2
 }

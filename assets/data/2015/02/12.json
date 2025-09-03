@@ -1470,6 +1470,31 @@
       "channelId": "UCdp4_yTBhQmB8E339Lafzow",
       "channelName": "조선일보",
       "collectedAt": "2025-09-03T10:02:23Z"
+    },
+    "ptjLP3mWQD4": {
+      "videoId": "ptjLP3mWQD4",
+      "title": "‘이완구라’ 그만두라 [정치토크 돌직구 32회]",
+      "description": "설명‘한겨레’ 정치부 여당 반장과 함께 짚어본 이완구 총리 후보 임명동의안 충돌\r\n\r\n이완구 국무총리 후보자의 임명동의안 처리를 위한 국회 본회의가 16일로 연기됐다. 새누리당은 애초 12일 본회의에서 이 후보자에 대한 임명동의안을 단독처리할 방침이었으나, 여야가 이날 오후 늦게 본회의 연기에 합의함에 따라 정면충돌은 일단 피하게 됐다. 하지만 정의화 국회의장이 16일 본회의에서 임명동의안을 상정한다는 방침이어서 여야는 이 후보자의 임명동의안을 둘러싸고 또다시 충돌할 것으로 보인다. \r\n이명박 정부에서 청와대 출입기자를 지내고 현재 새누리당 출입 기자들을 이끌고 있는 황준범 〈한겨레〉 정치부 기자와 함께 이 후보자 임명동의안 처리를 둘러싼 여야 대립을 살펴보고 정국 향방을 전망한다.\r\n\r\n◆ 제작진\r\n진행: 임석규 성한용, 게스트: 황준범, 기술감독: 박성영, 연출: 김도성 정주용 이재만\r\n\r\n◆ 팟캐스트\r\n-아이튠즈/ https://itunes.apple.com/kr/podcast/jeongchitokeu-doljiggu/id934712464?mt=2\r\n-팟빵 채널/ http://www.podbbang.com/ch/8405",
+      "publishedAt": "2015-02-12T12:51:06Z",
+      "duration": "PT9M26S",
+      "viewCount": 43069,
+      "likeCount": 50,
+      "commentCount": 4,
+      "tags": [
+        "한겨레TV",
+        "이완구",
+        "국회",
+        "문재인",
+        "돌직구",
+        "총리",
+        "박근혜"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2015-02-12T12:51:06Z",
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "collectedAt": "2025-09-03T10:48:13Z"
     }
   },
   "channels": {
@@ -1659,8 +1684,8 @@
       },
       "subscriberCount": 537000,
       "viewCount": 354014202,
-      "videoCount": 11630,
-      "lastUpdated": "2025-09-03T10:02:23.249601Z"
+      "videoCount": 11631,
+      "lastUpdated": "2025-09-03T10:17:08.022917Z"
     },
     "UCdp4_yTBhQmB8E339Lafzow": {
       "channelId": "UCdp4_yTBhQmB8E339Lafzow",
@@ -1686,11 +1711,38 @@
       },
       "subscriberCount": 1700000,
       "viewCount": 1669752256,
-      "videoCount": 22783,
-      "lastUpdated": "2025-09-03T10:02:23.249601Z"
+      "videoCount": 22784,
+      "lastUpdated": "2025-09-03T10:17:08.022917Z"
+    },
+    "UCugbqfMO94F9guLEb6Olb2A": {
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "channelUrl": "@hankyorehtv",
+      "channelDescription": "'더불어 행복한 세상을 만드는 언론' 한겨레 공식 유튜브 채널입니다. \n ■ 편성 및 제휴 문의: leepd@hani.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 946000,
+      "viewCount": 586539536,
+      "videoCount": 9682,
+      "lastUpdated": "2025-09-03T10:48:13.087584Z"
     }
   },
-  "lastUpdated": "2025-09-03T10:02:23.249601Z",
-  "totalVideos": 47,
-  "totalChannels": 8
+  "lastUpdated": "2025-09-03T10:48:13.087584Z",
+  "totalVideos": 48,
+  "totalChannels": 9
 }

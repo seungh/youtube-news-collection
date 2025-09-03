@@ -1079,6 +1079,36 @@
       "channelId": "UCTHCOPwqNfZ0uiKOvFyhGwg",
       "channelName": "연합뉴스TV",
       "collectedAt": "2025-08-29T02:43:32Z"
+    },
+    "wo5Hb20ruqE": {
+      "videoId": "wo5Hb20ruqE",
+      "title": "에이즈, 누가 그녀를 악마로 만들었나 [하어영 김완의 훅 #4]",
+      "description": "차별이 겹치면 힘이 더 세진다. 인간면역결핍바이러스(HIV) 감염인은 감염 사실이 확인되는 즉시 한국 사회에서 차별과 편견을 견뎌내야 하는 소수자가 된다. 게다가 그가 여성이라면?  \nhttp://h21.hani.co.kr/arti/cover/cover_general/44447.html \n\n출연 〈한겨레21〉박수진 하어영 김완\n타이틀  〈한겨레TV〉문석진\n연출   〈한겨레TV〉조소영\n●〈한겨레TV〉 유튜브 채널 구독하기 -https://goo.gl/vYg2yI\n\n#한겨레훅 #에이즈 #HIV",
+      "publishedAt": "2017-11-17T21:32:28Z",
+      "duration": "PT18M49S",
+      "viewCount": 13440,
+      "likeCount": 91,
+      "commentCount": 16,
+      "tags": [
+        "한겨레",
+        "한겨레TV",
+        "Hankyoreh",
+        "HankyorehTV",
+        "korea",
+        "한국",
+        "대한민국",
+        "에이즈 AIDS",
+        "HIV",
+        "한겨레21",
+        "훅",
+        "부산 성매매"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2017-11-17T21:32:28Z",
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "collectedAt": "2025-09-03T10:47:56Z"
     }
   },
   "channels": {
@@ -1270,9 +1300,36 @@
       "viewCount": 3351994752,
       "videoCount": 627296,
       "lastUpdated": "2025-08-29T02:43:32.971959Z"
+    },
+    "UCugbqfMO94F9guLEb6Olb2A": {
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "channelUrl": "@hankyorehtv",
+      "channelDescription": "'더불어 행복한 세상을 만드는 언론' 한겨레 공식 유튜브 채널입니다. \n ■ 편성 및 제휴 문의: leepd@hani.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 946000,
+      "viewCount": 586539536,
+      "videoCount": 9682,
+      "lastUpdated": "2025-09-03T10:47:56.244682Z"
     }
   },
-  "lastUpdated": "2025-08-29T02:43:32.971959Z",
-  "totalVideos": 39,
-  "totalChannels": 7
+  "lastUpdated": "2025-09-03T10:47:56.245679Z",
+  "totalVideos": 40,
+  "totalChannels": 8
 }

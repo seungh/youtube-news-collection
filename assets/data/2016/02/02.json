@@ -1388,6 +1388,54 @@
       "channelId": "UCdp4_yTBhQmB8E339Lafzow",
       "channelName": "조선일보",
       "collectedAt": "2025-09-03T10:02:19Z"
+    },
+    "J_-Hx0Wihsk": {
+      "videoId": "J_-Hx0Wihsk",
+      "title": "[한겨레21] 시리아 난민의 길 2천km 종단 르뽀 #3",
+      "description": "그리스 레스보스섬에서 아테네로 향하는 400km 바닷길은 '희망의 여정'이다. 그곳은 유럽 육로 이동의 시작점이다. \n그러나 어떤 난민에게 아테네는 거대한 벽이고 좌절의 땅이다. 대표적인 전쟁 지역 출신이 아니거나 그 지역 출신이라는 서류가 없으면 그리스 북쪽으로 올라갈 길이 더 이상 열리지 않는다. \n그 운명을 시험받는 관문은 그리스 북부 국경지대 이도메니다.\n    글 김선식기자(한겨레21) 촬영 정용일기자(한겨레21)",
+      "publishedAt": "2016-02-02T02:52:39Z",
+      "duration": "PT5M34S",
+      "viewCount": 1839,
+      "likeCount": 7,
+      "commentCount": 1,
+      "tags": [
+        "시리아",
+        "난민",
+        "그리스",
+        "이도메니",
+        "한겨레21",
+        "아테네"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2016-02-02T02:52:39Z",
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "collectedAt": "2025-09-03T10:48:02Z"
+    },
+    "lMTwqbLqEuc": {
+      "videoId": "lMTwqbLqEuc",
+      "title": "[어쩌다 음악#1] 복고풍 걸그룹 ‘바버렛츠’",
+      "description": "어쩌나, 자꾸 일이 커지네, 이를 어째. 처음에는 ‘미스터 샌드맨’이라는 노래를 하고 싶었을 뿐이다.. \n\n관련기사:  각국 초대장 비결?‘영원한 히트곡 규칙’에 반한거죠. http://www.hani.co.kr/arti/culture/music/729000.html\n\n취재: 구둘래 영상: 조소영",
+      "publishedAt": "2016-02-02T14:39:18Z",
+      "duration": "PT6M44S",
+      "viewCount": 8239,
+      "likeCount": 43,
+      "commentCount": 4,
+      "tags": [
+        "바버렛츠",
+        "구둘래",
+        "복고",
+        "경선",
+        "안신애",
+        "박소희"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2016-02-02T14:39:18Z",
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "collectedAt": "2025-09-03T10:48:02Z"
     }
   },
   "channels": {
@@ -1631,8 +1679,8 @@
       },
       "subscriberCount": 537000,
       "viewCount": 354014202,
-      "videoCount": 11630,
-      "lastUpdated": "2025-09-03T10:02:19.194914Z"
+      "videoCount": 11631,
+      "lastUpdated": "2025-09-03T10:17:01.937754Z"
     },
     "UCdp4_yTBhQmB8E339Lafzow": {
       "channelId": "UCdp4_yTBhQmB8E339Lafzow",
@@ -1658,11 +1706,38 @@
       },
       "subscriberCount": 1700000,
       "viewCount": 1669752256,
-      "videoCount": 22783,
-      "lastUpdated": "2025-09-03T10:02:19.194914Z"
+      "videoCount": 22784,
+      "lastUpdated": "2025-09-03T10:17:01.937754Z"
+    },
+    "UCugbqfMO94F9guLEb6Olb2A": {
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "channelUrl": "@hankyorehtv",
+      "channelDescription": "'더불어 행복한 세상을 만드는 언론' 한겨레 공식 유튜브 채널입니다. \n ■ 편성 및 제휴 문의: leepd@hani.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 946000,
+      "viewCount": 586539536,
+      "videoCount": 9682,
+      "lastUpdated": "2025-09-03T10:48:02.212159Z"
     }
   },
-  "lastUpdated": "2025-09-03T10:02:19.194914Z",
-  "totalVideos": 53,
-  "totalChannels": 10
+  "lastUpdated": "2025-09-03T10:48:02.212159Z",
+  "totalVideos": 55,
+  "totalChannels": 11
 }

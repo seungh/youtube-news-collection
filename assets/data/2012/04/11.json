@@ -23,6 +23,31 @@
       "channelId": "UC1aS5CRRDrN6CmR2VcpmetA",
       "channelName": "한국일보(hankookilbo.com)",
       "collectedAt": "2025-09-03T10:01:46Z"
+    },
+    "LzW2E-BthBs": {
+      "videoId": "LzW2E-BthBs",
+      "title": "[정PD가 보고 있다] 새누리 출구조사 표정 \"박수치지 마세요\"",
+      "description": "4월 11일 오후 6시 \r\n서울 여의도 새누리당사 박근혜 위원장을 비롯한\r\n새누리당 관계자들이 모여 출구조사 결과를 지켜보는데...",
+      "publishedAt": "2012-04-11T13:49:54Z",
+      "duration": "PT1M29S",
+      "viewCount": 21334,
+      "likeCount": 55,
+      "commentCount": 11,
+      "tags": [
+        "한겨레TV",
+        "정PD",
+        "총선",
+        "새누리당",
+        "민주통합당",
+        "박근혜",
+        "출구조사"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2012-04-11T13:49:54Z",
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "collectedAt": "2025-09-03T10:48:24Z"
     }
   },
   "channels": {
@@ -50,11 +75,38 @@
       },
       "subscriberCount": 362000,
       "viewCount": 296027619,
-      "videoCount": 6196,
-      "lastUpdated": "2025-09-03T10:01:46.026650Z"
+      "videoCount": 6197,
+      "lastUpdated": "2025-09-03T10:17:41.051684Z"
+    },
+    "UCugbqfMO94F9guLEb6Olb2A": {
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "channelUrl": "@hankyorehtv",
+      "channelDescription": "'더불어 행복한 세상을 만드는 언론' 한겨레 공식 유튜브 채널입니다. \n ■ 편성 및 제휴 문의: leepd@hani.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 946000,
+      "viewCount": 586539536,
+      "videoCount": 9682,
+      "lastUpdated": "2025-09-03T10:48:24.890606Z"
     }
   },
-  "lastUpdated": "2025-09-03T10:01:46.026650Z",
-  "totalVideos": 1,
-  "totalChannels": 1
+  "lastUpdated": "2025-09-03T10:48:24.890606Z",
+  "totalVideos": 2,
+  "totalChannels": 2
 }

@@ -264,6 +264,50 @@
       "channelId": "UCHXvjavEtkPFJCfGlm0wTXw",
       "channelName": "경향티비",
       "collectedAt": "2025-09-03T10:02:28Z"
+    },
+    "ByZ1R2BbqzU": {
+      "videoId": "ByZ1R2BbqzU",
+      "title": "[e-레알텃밭학교 #5] 텃밭에서 만난 곤충 이야기",
+      "description": "◆ 강연 내용\n초보 도시농부들이 텃밭에서 만나면 가장 당황스러워하는 것이 병충해입니다. 대책 없이 당할 수도 없지만, 그렇다고 내가 먹는 작물에 농약을 마구 뿌리고 싶지 않다면 어떻게 해야할까요? 텃밭에서 자주 마주치는 곤충들을 소개합니다. \n\n◆ 강연자 이지은 \n- 도시농업을 하는 청년협동조합〈씨앗들협동조합〉조합원\n- 친환경 도시농업을 보급하는〈텃밭보급소〉보급원\n- 도시농부학교, 성원중학교 텃밭CA 강사를 지나서 현재는 평범한 직장인\n\n◆ 제작진\n기획 : 씨앗들 협동조합, 제작 : 한겨레TV, 후원 : 서울특별시",
+      "publishedAt": "2013-10-29T06:18:09Z",
+      "duration": "PT14M43S",
+      "viewCount": 3254,
+      "likeCount": 24,
+      "commentCount": 0,
+      "tags": [
+        "씨앗들 협동조합",
+        "텃밭보급소",
+        "병충해",
+        "이지은",
+        "텃밭 곤충",
+        "e-레알텃밭학교",
+        "도시농부학교",
+        "도시농업",
+        "서울시 도시농업"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2013-10-29T06:18:09Z",
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "collectedAt": "2025-09-03T10:48:40Z"
+    },
+    "ZiCgcHAkyIU": {
+      "videoId": "ZiCgcHAkyIU",
+      "title": "스타벅스는 왜 길목마다 있을까?",
+      "description": "5분경영학 (30) 선점전략\n\n스타벅스의 북미지역 부동산 선점 전략 \n\n#1  한블록에 같은회사 브랜드 커피숍을 중복 배치\n- 왜 같은 회사 브랜드끼리 같은 손님을 두고 경쟁할까?\n\n#2 번화가·중심가의 간판을 모두 장악\n- 다른 부랜드가 소비자들의 머릿속에 들어설 틈조차 없도록 만듦\n- 떨어진 매장당 수익성은 광고비를 절약해서 충당\n\n\n월마트의 선점전략 \n1. 중소도시 선정\n2. 부지확보 (도시 전체 상권 규모)\n3. 거대한 매장 건립 \n4. 지역상권 장악 (가격경쟁)\n5. 다른 할인점의 진출 견제 효과",
+      "publishedAt": "2013-10-29T02:41:31Z",
+      "duration": "PT5M42S",
+      "viewCount": 4894,
+      "likeCount": 23,
+      "commentCount": 0,
+      "tags": [],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2013-10-29T02:41:31Z",
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "collectedAt": "2025-09-03T10:48:40Z"
     }
   },
   "channels": {
@@ -345,11 +389,38 @@
       },
       "subscriberCount": 537000,
       "viewCount": 354014202,
-      "videoCount": 11630,
-      "lastUpdated": "2025-09-03T10:02:28.988539Z"
+      "videoCount": 11631,
+      "lastUpdated": "2025-09-03T10:17:14.605293Z"
+    },
+    "UCugbqfMO94F9guLEb6Olb2A": {
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "channelUrl": "@hankyorehtv",
+      "channelDescription": "'더불어 행복한 세상을 만드는 언론' 한겨레 공식 유튜브 채널입니다. \n ■ 편성 및 제휴 문의: leepd@hani.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 946000,
+      "viewCount": 586539536,
+      "videoCount": 9682,
+      "lastUpdated": "2025-09-03T10:48:40.396490Z"
     }
   },
-  "lastUpdated": "2025-09-03T10:02:28.988539Z",
-  "totalVideos": 9,
-  "totalChannels": 3
+  "lastUpdated": "2025-09-03T10:48:40.396490Z",
+  "totalVideos": 11,
+  "totalChannels": 4
 }

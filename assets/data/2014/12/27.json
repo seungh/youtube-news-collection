@@ -465,6 +465,29 @@
       "channelId": "UCdp4_yTBhQmB8E339Lafzow",
       "channelName": "조선일보",
       "collectedAt": "2025-09-03T10:02:45Z"
+    },
+    "LqRn3iWYVyA": {
+      "videoId": "LqRn3iWYVyA",
+      "title": "2014 잉여싸롱 어워드 [잉여싸롱#55]",
+      "description": "한겨레 음악담당 서정민 기자와 TV 칼럼니스트 이승한, 김선영의 대중문화 비평 프로그램 \n \n2014년 마지막 잉여싸롱 방송이다. ‘잉여싸롱 어워드’라는 시상식 타이틀을 내걸고 한 해 동안 다뤘던, 혹은 다루지 못해 아쉬웠던 주제들을 정리해봤다. 어떤 주제가 가장 많은 관심을 끌었고, 어떤 주제가 외면을 받았는지, 잉여싸롱 어워드 초대 수상자는 누구인지 궁금하다면 유튜브에서 잉여싸롱을 검색해 플레이 버튼을 누르시라.\n\n◆ 협찬도서: 박노자의 ‘비굴의 시대’ \n\n◆ 배경음악: NewYork NewYork(우쿨렐레 피크닉), Do they know it's christmas (band aid 1984), Do You(이루마), Small Steps(이루마), You Are My Destiny(Paul Anka),카지노(도둑들 ost), 너에게(응답하라1994ost),울돌목(명량ost),내일(한희정,미생ost),\n\n◆제작진\n CG : 이종은\n기술: 박성영 \n연출: 조소영\n\n◆ 팟캐스트 \n-http://www.podbbang.com/ch/6435",
+      "publishedAt": "2014-12-26T15:12:26Z",
+      "duration": "PT32M37S",
+      "viewCount": 7789,
+      "likeCount": 48,
+      "commentCount": 54,
+      "tags": [
+        "잉여싸롱",
+        "연말",
+        "송년특집",
+        "잉싸",
+        "어워드"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2014-12-26T15:12:26Z",
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "collectedAt": "2025-09-03T10:48:21Z"
     }
   },
   "channels": {
@@ -573,11 +596,38 @@
       },
       "subscriberCount": 1700000,
       "viewCount": 1669752256,
-      "videoCount": 22783,
-      "lastUpdated": "2025-09-03T10:02:45.411633Z"
+      "videoCount": 22784,
+      "lastUpdated": "2025-09-03T10:18:02.530111Z"
+    },
+    "UCugbqfMO94F9guLEb6Olb2A": {
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "channelUrl": "@hankyorehtv",
+      "channelDescription": "'더불어 행복한 세상을 만드는 언론' 한겨레 공식 유튜브 채널입니다. \n ■ 편성 및 제휴 문의: leepd@hani.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 946000,
+      "viewCount": 586539536,
+      "videoCount": 9682,
+      "lastUpdated": "2025-09-03T10:48:21.041878Z"
     }
   },
-  "lastUpdated": "2025-09-03T10:02:45.411633Z",
-  "totalVideos": 16,
-  "totalChannels": 4
+  "lastUpdated": "2025-09-03T10:48:21.041878Z",
+  "totalVideos": 17,
+  "totalChannels": 5
 }

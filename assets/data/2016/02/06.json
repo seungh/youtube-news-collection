@@ -189,6 +189,30 @@
       "channelId": "UChlgI3UHCOnwUGzWzbJ3H5w",
       "channelName": " YTN",
       "collectedAt": "2025-08-27T19:04:46Z"
+    },
+    "QSFjhdDlVRc": {
+      "videoId": "QSFjhdDlVRc",
+      "title": "[토요판] 백남기씨 딸 도라지, 민주화씨 인터뷰",
+      "description": "2015년 12월21일  서울대학교 병원 중환자실 앞에서 백남기씨의 두 딸 도라지, 민주화씨를 만나 얘기를 들었습니다. \n\n취재: 허재현 영상: 조소영",
+      "publishedAt": "2016-02-05T16:30:51Z",
+      "duration": "PT7M2S",
+      "viewCount": 18972,
+      "likeCount": 95,
+      "commentCount": 56,
+      "tags": [
+        "백남기",
+        "백민주화",
+        "백도라지",
+        "농민",
+        "물대포",
+        "민중총궐기"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2016-02-05T16:30:51Z",
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "collectedAt": "2025-09-03T10:48:33Z"
     }
   },
   "channels": {
@@ -245,9 +269,36 @@
       "viewCount": 17649222300,
       "videoCount": 890317,
       "lastUpdated": "2025-08-29T02:43:16.379482Z"
+    },
+    "UCugbqfMO94F9guLEb6Olb2A": {
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "channelUrl": "@hankyorehtv",
+      "channelDescription": "'더불어 행복한 세상을 만드는 언론' 한겨레 공식 유튜브 채널입니다. \n ■ 편성 및 제휴 문의: leepd@hani.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 946000,
+      "viewCount": 586539536,
+      "videoCount": 9682,
+      "lastUpdated": "2025-09-03T10:48:33.672698Z"
     }
   },
-  "lastUpdated": "2025-08-29T02:43:16.379482Z",
-  "totalVideos": 8,
-  "totalChannels": 2
+  "lastUpdated": "2025-09-03T10:48:33.673695Z",
+  "totalVideos": 9,
+  "totalChannels": 3
 }

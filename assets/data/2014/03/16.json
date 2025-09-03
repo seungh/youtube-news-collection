@@ -199,6 +199,27 @@
       "channelId": "UCdp4_yTBhQmB8E339Lafzow",
       "channelName": "조선일보",
       "collectedAt": "2025-09-03T10:02:27Z"
+    },
+    "YvMLgdYPUak": {
+      "videoId": "YvMLgdYPUak",
+      "title": "케이팝스타3, 진짜 스타는 유희열 [잉여싸롱#20]",
+      "description": "케이팝스타3는 어떻게 살아남았나?\n〈잉여싸롱 #20〉  SBS 〈케이팝스타3〉 \n한겨레 음악담당 서정민 기자와 TV 칼럼니스트 이승한, 김선영의 대중문화 비평 프로그램 \n \n\n\"혹독한 심사평으로 유명한 오디션 프로그램을 어느새 참가자들의 힐링 캠프로 만들고 있다\"(김선영)\n\"'우승자 3대 기획사 데뷔 보장'이라는 명확한 조건을 내세워 실력자들을 끌어모았다\"(이승한)\n\"끝날 때 까지 끝난 게 아니다\" (서정민)\n\n◆ 관련자료: SBS〈케이팝스타3〉화면캡쳐, Mnet 〈슈퍼스타케이〉화면캡쳐, 한겨레사진자료, \n\n◆ 배경음악:  \n〈또 하나의 약속〉ost, 〈 도둑들〉ost, walking on there street low(김정범), 공원에서, 여름날 (유희열 소품집),난 여자가 있는데 (박진영), 브람스자장가오르골, 〈라이온킹〉ost, 〈하얀거탑〉ost, 벚꽃엔딩(버스커버스커), It Ain't Over 'Till It's Over (레니 크라비츠) \n\n◆ 제작진 \n\n손글씨: 김노경 \nCG, 타이틀: 박의정 \n기술감독: 박성영 \n연출: 조소영 이규호\n\n◆ 팟캐스트 \n-http://www.podbbang.com/ch/6435",
+      "publishedAt": "2014-03-15T20:55:06Z",
+      "duration": "PT38M45S",
+      "viewCount": 153629,
+      "likeCount": 386,
+      "commentCount": 86,
+      "tags": [
+        "잉여싸롱",
+        "케이팝스타3",
+        "유희열"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2014-03-15T20:55:06Z",
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "collectedAt": "2025-09-03T10:48:21Z"
     }
   },
   "channels": {
@@ -280,8 +301,8 @@
       },
       "subscriberCount": 537000,
       "viewCount": 354014202,
-      "videoCount": 11630,
-      "lastUpdated": "2025-09-03T10:02:27.613364Z"
+      "videoCount": 11631,
+      "lastUpdated": "2025-09-03T10:17:13.117015Z"
     },
     "UCdp4_yTBhQmB8E339Lafzow": {
       "channelId": "UCdp4_yTBhQmB8E339Lafzow",
@@ -307,11 +328,38 @@
       },
       "subscriberCount": 1700000,
       "viewCount": 1669752256,
-      "videoCount": 22783,
-      "lastUpdated": "2025-09-03T10:02:27.613364Z"
+      "videoCount": 22784,
+      "lastUpdated": "2025-09-03T10:17:13.117015Z"
+    },
+    "UCugbqfMO94F9guLEb6Olb2A": {
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "channelUrl": "@hankyorehtv",
+      "channelDescription": "'더불어 행복한 세상을 만드는 언론' 한겨레 공식 유튜브 채널입니다. \n ■ 편성 및 제휴 문의: leepd@hani.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 946000,
+      "viewCount": 586539536,
+      "videoCount": 9682,
+      "lastUpdated": "2025-09-03T10:48:21.525864Z"
     }
   },
-  "lastUpdated": "2025-09-03T10:02:27.613364Z",
-  "totalVideos": 9,
-  "totalChannels": 4
+  "lastUpdated": "2025-09-03T10:48:21.525864Z",
+  "totalVideos": 10,
+  "totalChannels": 5
 }

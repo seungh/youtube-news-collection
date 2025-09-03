@@ -271,6 +271,53 @@
       "channelId": "UCdp4_yTBhQmB8E339Lafzow",
       "channelName": "조선일보",
       "collectedAt": "2025-09-03T10:02:46Z"
+    },
+    "bYBJz0EMcJw": {
+      "videoId": "bYBJz0EMcJw",
+      "title": "[김어준의 KFC#5] 무인기와 간첩 조작",
+      "description": "*알립니다*\n한겨레TV [김어준의 KFC]에 보내주신 시청자 여러분의 관심과 격려, 항상 고맙습니다. 지난 4월16일, 6회 공개녹화에서는 '국정원의 간첩조작 꼬리자르기'와 국방부의 '무인기 중간 수사 발표'에 대한 토크가 진행됐습니다. 그러나 '세월호' 참사로 인한 국민적 슬픔을 함께 하며 6회 편성을 잠정적으로 연기하기로 결정했습니다. 시청자 여러분의 깊은 양해를 바랍니다. [김어준의 KFC] 7회는 예정대로  오는 23일(수) 저녁 8시, 대학로 카페 벙커에서 공개녹화됩니다. 여러분의 많은 참여를 기대합니다. 고맙습니다. \n\n#1. 여의도 리포트\n    \n   1.송채경화 기자 \n     \"계속되는 간첩 증거 조작 사건?\"\n \n   2.정청래 국회의원\n     \"7%차 기초선거 공천지지자 우위 예언!\"\n \n\n#2. KFC 이슈토크:  북한 제작 추정 무인기를 수사한다\n\n진행: 김어준 김보협 송채경화\n기획 연출 : 이경주, 박수진, 정주용, 종합편집: 박수진, 정주용\n기술감독: 박성영, 카메라감독: 정동화, 장지남, 정주용\n음악: 3호선 버터플라이\n제작: 한겨레TV",
+      "publishedAt": "2014-04-11T15:52:15Z",
+      "duration": "PT1H22M40S",
+      "viewCount": 511796,
+      "likeCount": 2475,
+      "commentCount": 326,
+      "tags": [
+        "김어준",
+        "한겨레TV",
+        "한겨레",
+        "이경주피디",
+        "이경주",
+        "김보협",
+        "송채경화",
+        "김어준의뉴욕타임스",
+        "김어준의KFC",
+        "유우성",
+        "국정원",
+        "간첩",
+        "증거",
+        "조작",
+        "남재준",
+        "벙커",
+        "KFC",
+        "국정원수사관",
+        "출입국관리소",
+        "새정치민주연합",
+        "김한길",
+        "야당",
+        "지방선거",
+        "기초단체장",
+        "공천",
+        "김영배",
+        "정청래",
+        "무인비행기",
+        "5회"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2014-04-11T15:52:15Z",
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "collectedAt": "2025-09-03T10:48:15Z"
     }
   },
   "channels": {
@@ -352,11 +399,38 @@
       },
       "subscriberCount": 1700000,
       "viewCount": 1669752256,
-      "videoCount": 22783,
-      "lastUpdated": "2025-09-03T10:02:46.629867Z"
+      "videoCount": 22784,
+      "lastUpdated": "2025-09-03T10:18:03.800384Z"
+    },
+    "UCugbqfMO94F9guLEb6Olb2A": {
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "channelUrl": "@hankyorehtv",
+      "channelDescription": "'더불어 행복한 세상을 만드는 언론' 한겨레 공식 유튜브 채널입니다. \n ■ 편성 및 제휴 문의: leepd@hani.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 946000,
+      "viewCount": 586539536,
+      "videoCount": 9682,
+      "lastUpdated": "2025-09-03T10:48:15.970485Z"
     }
   },
-  "lastUpdated": "2025-09-03T10:02:46.629867Z",
-  "totalVideos": 10,
-  "totalChannels": 3
+  "lastUpdated": "2025-09-03T10:48:15.970485Z",
+  "totalVideos": 11,
+  "totalChannels": 4
 }

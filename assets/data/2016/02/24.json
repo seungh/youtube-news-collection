@@ -1531,6 +1531,30 @@
       "channelId": "UCdp4_yTBhQmB8E339Lafzow",
       "channelName": "조선일보",
       "collectedAt": "2025-09-03T10:02:18Z"
+    },
+    "gv240jvj3ns": {
+      "videoId": "gv240jvj3ns",
+      "title": "[한겨레 포커스]시민 필리버스터, 테러방지법을 막아라!",
+      "description": "정의화 국회의장이 테러방지법 직권으로 본회의에 올렸다. 야당은 합법적 의사진행방해, 필리버스터로 맞서고 있다. 5시간, 10시간을 넘겨 반대토론을 진행하는 야당의원들이 오랜 만에 시민들의 박수를 받고 있다. 시민사회도 나섰다. 이름하여, 시민 필리버스터. 찬 겨울 바람 매섭게 몰아치는 서울 여의도 국회의사당 앞을 달구고 있는 시민 필리버스터 현장을 다녀왔다.",
+      "publishedAt": "2016-02-24T11:54:59Z",
+      "duration": "PT2M34S",
+      "viewCount": 6908,
+      "likeCount": 101,
+      "commentCount": 6,
+      "tags": [
+        "김광진",
+        "은수미",
+        "테러방지법",
+        "필리버스터",
+        "시민 필리버스터",
+        "국회"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2016-02-24T11:54:59Z",
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "collectedAt": "2025-09-03T10:48:22Z"
     }
   },
   "channels": {
@@ -1774,8 +1798,8 @@
       },
       "subscriberCount": 537000,
       "viewCount": 354014202,
-      "videoCount": 11630,
-      "lastUpdated": "2025-09-03T10:02:18.791240Z"
+      "videoCount": 11631,
+      "lastUpdated": "2025-09-03T10:17:01.451297Z"
     },
     "UCdp4_yTBhQmB8E339Lafzow": {
       "channelId": "UCdp4_yTBhQmB8E339Lafzow",
@@ -1801,11 +1825,38 @@
       },
       "subscriberCount": 1700000,
       "viewCount": 1669752256,
-      "videoCount": 22783,
-      "lastUpdated": "2025-09-03T10:02:18.791240Z"
+      "videoCount": 22784,
+      "lastUpdated": "2025-09-03T10:17:01.451297Z"
+    },
+    "UCugbqfMO94F9guLEb6Olb2A": {
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "channelUrl": "@hankyorehtv",
+      "channelDescription": "'더불어 행복한 세상을 만드는 언론' 한겨레 공식 유튜브 채널입니다. \n ■ 편성 및 제휴 문의: leepd@hani.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 946000,
+      "viewCount": 586539536,
+      "videoCount": 9682,
+      "lastUpdated": "2025-09-03T10:48:22.927677Z"
     }
   },
-  "lastUpdated": "2025-09-03T10:02:18.791240Z",
-  "totalVideos": 57,
-  "totalChannels": 10
+  "lastUpdated": "2025-09-03T10:48:22.927677Z",
+  "totalVideos": 58,
+  "totalChannels": 11
 }

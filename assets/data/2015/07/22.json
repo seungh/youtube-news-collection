@@ -1004,6 +1004,40 @@
       "channelId": "UCdp4_yTBhQmB8E339Lafzow",
       "channelName": "조선일보",
       "collectedAt": "2025-09-03T10:01:37Z"
+    },
+    "evMbEsahGxs": {
+      "videoId": "evMbEsahGxs",
+      "title": "'제나 할러웨이' 수중사진에 빠지다",
+      "description": "'제나 할러웨이'가 직접 설명하는 [The Fantasy]사진전\n\n슬리핑 뷰티, 피콕, 스완송, 워터베이비 시리즈 등 \n그녀의 작품 촬영 비하인드 스토리와 촬영기법을 만나본다.\n\n기획: 김명희, 연출: 이경주, 종합편집: 문석진\n기술: 박성영, 촬영: 이경주, 장지남, 전상진\n제작: 한겨레TV",
+      "publishedAt": "2015-07-22T08:45:03Z",
+      "duration": "PT14M11S",
+      "viewCount": 9281,
+      "likeCount": 23,
+      "commentCount": 0,
+      "tags": [
+        "제나 할러웨이",
+        "제나",
+        "수중사진",
+        "포토그래퍼",
+        "판타지",
+        "워터베이비",
+        "한겨레",
+        "사진전",
+        "예술의전당",
+        "한가람미술관",
+        "이경주",
+        "김명희",
+        "한겨레TV",
+        "슬리핑 뷰티",
+        "피콕",
+        "스완송"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2015-07-22T08:45:03Z",
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "collectedAt": "2025-09-03T10:48:39Z"
     }
   },
   "channels": {
@@ -1220,8 +1254,8 @@
       },
       "subscriberCount": 362000,
       "viewCount": 296027619,
-      "videoCount": 6196,
-      "lastUpdated": "2025-09-03T10:01:37.831213Z"
+      "videoCount": 6197,
+      "lastUpdated": "2025-09-03T10:17:05.316097Z"
     },
     "UCHXvjavEtkPFJCfGlm0wTXw": {
       "channelId": "UCHXvjavEtkPFJCfGlm0wTXw",
@@ -1247,8 +1281,8 @@
       },
       "subscriberCount": 537000,
       "viewCount": 354014202,
-      "videoCount": 11630,
-      "lastUpdated": "2025-09-03T10:01:37.831213Z"
+      "videoCount": 11631,
+      "lastUpdated": "2025-09-03T10:17:05.316097Z"
     },
     "UCdp4_yTBhQmB8E339Lafzow": {
       "channelId": "UCdp4_yTBhQmB8E339Lafzow",
@@ -1274,11 +1308,38 @@
       },
       "subscriberCount": 1700000,
       "viewCount": 1669752256,
-      "videoCount": 22783,
-      "lastUpdated": "2025-09-03T10:01:37.831213Z"
+      "videoCount": 22784,
+      "lastUpdated": "2025-09-03T10:17:05.316097Z"
+    },
+    "UCugbqfMO94F9guLEb6Olb2A": {
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "channelUrl": "@hankyorehtv",
+      "channelDescription": "'더불어 행복한 세상을 만드는 언론' 한겨레 공식 유튜브 채널입니다. \n ■ 편성 및 제휴 문의: leepd@hani.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 946000,
+      "viewCount": 586539536,
+      "videoCount": 9682,
+      "lastUpdated": "2025-09-03T10:48:39.506079Z"
     }
   },
-  "lastUpdated": "2025-09-03T10:01:37.831213Z",
-  "totalVideos": 40,
-  "totalChannels": 10
+  "lastUpdated": "2025-09-03T10:48:39.506079Z",
+  "totalVideos": 41,
+  "totalChannels": 11
 }

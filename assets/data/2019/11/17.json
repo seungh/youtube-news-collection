@@ -7333,6 +7333,55 @@
       "channelId": "UCTHCOPwqNfZ0uiKOvFyhGwg",
       "channelName": "연합뉴스TV",
       "collectedAt": "2025-08-29T02:42:56Z"
+    },
+    "q14HvSjB4zE": {
+      "videoId": "q14HvSjB4zE",
+      "title": "[중앙일보] 3선 김세연, 총선 불출마 \"한국당 비호감 역대급1위…모두 물러나자\"",
+      "description": "+--------------------------------------------------------------------------------+ \n\n◈ 중앙일보 공식 SNS 채널 ◈\n\n- 페이스북 : https://www.facebook.com/joongang/\n- 인스타그램 : https://www.instagram.com/joongangilbo\n- 트위터 : http://www.twitter.com/joongangilbo\n- 유튜브 : https://goo.gl/DyGoPC\n- 네이버 TV : http://tvcast.naver.com/joongangsisa\n- 네이버포스트 : https://goo.gl/eeYh4k\n\n당신이 원하는 뉴스,\n중앙일보 SNS 채널과 함께하세요.\n\n+--------------------------------------------------------------------------------+",
+      "publishedAt": "2019-11-17T07:50:58Z",
+      "duration": "PT2M42S",
+      "viewCount": 840,
+      "likeCount": 27,
+      "commentCount": 5,
+      "tags": [
+        "중앙일보",
+        "김세연",
+        "자유한국당 김세연",
+        "김세연 불출마",
+        "자유한국당 불출마",
+        "김세연 기자회견"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2019-11-17T07:50:58Z",
+      "channelId": "UCH3mJ-nHxjjny2FJbJaqiDA",
+      "channelName": "중앙일보",
+      "collectedAt": "2025-09-03T10:49:15Z"
+    },
+    "nVzParcfcgY": {
+      "videoId": "nVzParcfcgY",
+      "title": "[중앙일보] 지소미아 시한 종료 닷새를 앞두고…정경두 \"원론 수준 얘기\"",
+      "description": "+--------------------------------------------------------------------------------+ \n\n◈ 중앙일보 공식 SNS 채널 ◈\n\n- 페이스북 : https://www.facebook.com/joongang/\n- 인스타그램 : https://www.instagram.com/joongangilbo\n- 트위터 : http://www.twitter.com/joongangilbo\n- 유튜브 : https://goo.gl/DyGoPC\n- 네이버 TV : http://tvcast.naver.com/joongangsisa\n- 네이버포스트 : https://goo.gl/eeYh4k\n\n당신이 원하는 뉴스,\n중앙일보 SNS 채널과 함께하세요.\n\n+--------------------------------------------------------------------------------+",
+      "publishedAt": "2019-11-17T05:27:26Z",
+      "duration": "PT2M28S",
+      "viewCount": 155,
+      "likeCount": 4,
+      "commentCount": 0,
+      "tags": [
+        "중앙일보",
+        "지소미아",
+        "GSOMIA",
+        "정경두",
+        "화이트리스트",
+        "고노 다로",
+        "한일 국방장관"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2019-11-17T05:27:26Z",
+      "channelId": "UCH3mJ-nHxjjny2FJbJaqiDA",
+      "channelName": "중앙일보",
+      "collectedAt": "2025-09-03T10:49:15Z"
     }
   },
   "channels": {
@@ -7659,9 +7708,36 @@
       "viewCount": 3278386064,
       "videoCount": 233358,
       "lastUpdated": "2025-08-29T02:42:56.342608Z"
+    },
+    "UCH3mJ-nHxjjny2FJbJaqiDA": {
+      "channelId": "UCH3mJ-nHxjjny2FJbJaqiDA",
+      "channelName": "중앙일보",
+      "channelUrl": "@joongangilbo",
+      "channelDescription": "현장의 진실을 중앙에 두다.",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/iqcE5aK4gFUjm5A-QO4FLDCDrTgOXTfU3oCyirTZcT9Ev1i_sKtx82GqfF2rPDfbBgFtBqL0uw=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/iqcE5aK4gFUjm5A-QO4FLDCDrTgOXTfU3oCyirTZcT9Ev1i_sKtx82GqfF2rPDfbBgFtBqL0uw=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/iqcE5aK4gFUjm5A-QO4FLDCDrTgOXTfU3oCyirTZcT9Ev1i_sKtx82GqfF2rPDfbBgFtBqL0uw=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 555000,
+      "viewCount": 475518285,
+      "videoCount": 18651,
+      "lastUpdated": "2025-09-03T10:49:15.420850Z"
     }
   },
-  "lastUpdated": "2025-08-29T02:42:56.347150Z",
-  "totalVideos": 205,
-  "totalChannels": 12
+  "lastUpdated": "2025-09-03T10:49:15.420850Z",
+  "totalVideos": 207,
+  "totalChannels": 13
 }

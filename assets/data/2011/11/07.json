@@ -1,0 +1,106 @@
+{
+  "videos": {
+    "-1byWz52F7Q": {
+      "videoId": "-1byWz52F7Q",
+      "title": "[김어준의 뉴욕타임스] #147-1. 시사상담소",
+      "description": "'나는 나다'라고만 밝히며 보내준 사연 하나와 총수의 절친으로부터 날아온 부탁 사연 등 많은 시사고민을 한가해진 봉도사와 함께 풀어본다!",
+      "publishedAt": "2011-11-06T17:29:36Z",
+      "duration": "PT39M34S",
+      "viewCount": 194979,
+      "likeCount": 271,
+      "commentCount": 10,
+      "tags": [
+        "김어준",
+        "김용민",
+        "한겨레",
+        "뉴욕타임스",
+        "하니TV"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2011-11-06T17:29:36Z",
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "collectedAt": "2025-09-03T10:48:25Z"
+    },
+    "3JMIS2U2oNc": {
+      "videoId": "3JMIS2U2oNc",
+      "title": "[김어준의 뉴욕타임스] #147-2. 정봉주의 PSI",
+      "description": "한미FTA에 관한 독소조항과 직권상정을 둘러싼 향방을 봉도사에게 들어본다",
+      "publishedAt": "2011-11-06T17:22:41Z",
+      "duration": "PT32M17S",
+      "viewCount": 155946,
+      "likeCount": 190,
+      "commentCount": 6,
+      "tags": [
+        "한겨레",
+        "하니TV",
+        "뉴욕타임스",
+        "김어준",
+        "김용민",
+        "시장악퀴즈",
+        "시사되지",
+        "정봉주",
+        "PSI",
+        "FTA"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2011-11-06T17:22:41Z",
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "collectedAt": "2025-09-03T10:48:25Z"
+    },
+    "YXBoJlJEQPE": {
+      "videoId": "YXBoJlJEQPE",
+      "title": "애매한건 '정보공개청구' 하시죠잉~!",
+      "description": "투명사회 위한'정보공개센터'가\r\n누구나 알기쉽게 정보공개청구를 \r\n활용할 수 있도록 만든 영상으로 \r\n아무 때나,아무 곳에서나, 마음껏\r\n활용하시면 좋습니다",
+      "publishedAt": "2011-11-07T02:05:23Z",
+      "duration": "PT3M37S",
+      "viewCount": 1615,
+      "likeCount": 5,
+      "commentCount": 0,
+      "tags": [
+        "정보공개센터"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2011-11-07T02:05:23Z",
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "collectedAt": "2025-09-03T10:48:25Z"
+    }
+  },
+  "channels": {
+    "UCugbqfMO94F9guLEb6Olb2A": {
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "channelUrl": "@hankyorehtv",
+      "channelDescription": "'더불어 행복한 세상을 만드는 언론' 한겨레 공식 유튜브 채널입니다. \n ■ 편성 및 제휴 문의: leepd@hani.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 946000,
+      "viewCount": 586539536,
+      "videoCount": 9682,
+      "lastUpdated": "2025-09-03T10:48:25.334145Z"
+    }
+  },
+  "lastUpdated": "2025-09-03T10:48:25.334145Z",
+  "totalVideos": 3,
+  "totalChannels": 1
+}

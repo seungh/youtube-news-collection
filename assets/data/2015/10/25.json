@@ -164,6 +164,51 @@
       "channelId": "UCdp4_yTBhQmB8E339Lafzow",
       "channelName": "조선일보",
       "collectedAt": "2025-09-03T10:02:20Z"
+    },
+    "-QHztOqjcpA": {
+      "videoId": "-QHztOqjcpA",
+      "title": "[현장] “한 사람의 역사가 아닌 우리의 역사다”",
+      "description": "정부의 역사교과서 국정화 강행 움직임이 구체화되고 있는 가운데 휴일인 24일 서울 곳곳에선 이에 반대하는 여러 집회 및 시위가 벌어졌다.",
+      "publishedAt": "2015-10-24T17:11:03Z",
+      "duration": "PT2M21S",
+      "viewCount": 9479,
+      "likeCount": 78,
+      "commentCount": 11,
+      "tags": [
+        "국정화",
+        "현대사",
+        "박근혜",
+        "교육"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2015-10-24T17:11:03Z",
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "collectedAt": "2025-09-03T10:48:34Z"
+    },
+    "F6sLVkA3aFM": {
+      "videoId": "F6sLVkA3aFM",
+      "title": "‘국정화 비공개 TF’ 사무실 급습 현장",
+      "description": "25일 저녁 8시께 새정치민주연합 한국사 교과서 국정화 저지 특별위원회 소속 도종환·김태년·유기홍 의원과 정의당 정진후 의원이 서울 종로구 대학로 국립국제교육원의 ‘정부 초청 외국인 장학생 회관’ 건물을 급습했다.",
+      "publishedAt": "2015-10-25T14:26:51Z",
+      "duration": "PT21S",
+      "viewCount": 2979,
+      "likeCount": 30,
+      "commentCount": 4,
+      "tags": [
+        "국정화",
+        "국정교과서",
+        "비공개 TF",
+        "박근혜 정부",
+        "교육부"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2015-10-25T14:26:51Z",
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "collectedAt": "2025-09-03T10:48:34Z"
     }
   },
   "channels": {
@@ -245,8 +290,8 @@
       },
       "subscriberCount": 537000,
       "viewCount": 354014202,
-      "videoCount": 11630,
-      "lastUpdated": "2025-09-03T10:02:20.210907Z"
+      "videoCount": 11631,
+      "lastUpdated": "2025-09-03T10:17:03.741933Z"
     },
     "UCdp4_yTBhQmB8E339Lafzow": {
       "channelId": "UCdp4_yTBhQmB8E339Lafzow",
@@ -272,11 +317,38 @@
       },
       "subscriberCount": 1700000,
       "viewCount": 1669752256,
-      "videoCount": 22783,
-      "lastUpdated": "2025-09-03T10:02:20.211905Z"
+      "videoCount": 22784,
+      "lastUpdated": "2025-09-03T10:17:03.741933Z"
+    },
+    "UCugbqfMO94F9guLEb6Olb2A": {
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "channelUrl": "@hankyorehtv",
+      "channelDescription": "'더불어 행복한 세상을 만드는 언론' 한겨레 공식 유튜브 채널입니다. \n ■ 편성 및 제휴 문의: leepd@hani.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 946000,
+      "viewCount": 586539536,
+      "videoCount": 9682,
+      "lastUpdated": "2025-09-03T10:48:34.189228Z"
     }
   },
-  "lastUpdated": "2025-09-03T10:02:20.211905Z",
-  "totalVideos": 7,
-  "totalChannels": 4
+  "lastUpdated": "2025-09-03T10:48:34.189228Z",
+  "totalVideos": 9,
+  "totalChannels": 5
 }

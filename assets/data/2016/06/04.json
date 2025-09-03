@@ -467,6 +467,58 @@
       "channelId": "UCTHCOPwqNfZ0uiKOvFyhGwg",
       "channelName": "연합뉴스TV",
       "collectedAt": "2025-08-29T02:43:16Z"
+    },
+    "p2mI-XZ8vwg": {
+      "videoId": "p2mI-XZ8vwg",
+      "title": "[Spotlight] \"물의를 일으켜 죄송스럽다\" 대작 논란 조영남, 검찰 출두",
+      "description": "관련기사: http://news.joins.com/article/20120122\n\n“제가 노래를 부르는 사람인데, 정통 미술을 하는 사람도 아니고 어쩌다가 이런 물의를 일으켜 죄송스럽다” “검찰 조사를 성실하게 잘 받고 그때 가서 다시 얘기하겠다” 3일 오전 8시 춘천지검 속초지청에 들어가기 직전 조영남(71)씨는 언론 인터뷰에서 이렇게 말했다.\n\n[출처: 중앙일보] \"물의를 일으켜 죄송스럽다\" 대작 논란 조영남, 검찰 출두",
+      "publishedAt": "2016-06-04T02:36:17Z",
+      "duration": "PT42S",
+      "viewCount": 52,
+      "likeCount": 0,
+      "commentCount": 0,
+      "tags": [
+        "중앙일보",
+        "Spotlight",
+        "조영남",
+        "대작",
+        "논란",
+        "검찰",
+        "물의",
+        "춘천지검",
+        "춘천",
+        "속초",
+        "속초지청",
+        "노래",
+        "미술",
+        "인터뷰",
+        "미술품",
+        "사기",
+        "피의자",
+        "휴게소",
+        "홍천군",
+        "두촌면",
+        "화가",
+        "예술",
+        "변호인",
+        "소속사",
+        "매니저",
+        "화투",
+        "갤러리",
+        "무명화가",
+        "공장",
+        "돌리기",
+        "미술계",
+        "팝아트",
+        "팝아티스트",
+        "팬클럽"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2016-06-04T02:36:17Z",
+      "channelId": "UCH3mJ-nHxjjny2FJbJaqiDA",
+      "channelName": "중앙일보",
+      "collectedAt": "2025-09-03T10:49:21Z"
     }
   },
   "channels": {
@@ -577,9 +629,36 @@
       "viewCount": 3351994752,
       "videoCount": 627296,
       "lastUpdated": "2025-08-29T02:43:16.078684Z"
+    },
+    "UCH3mJ-nHxjjny2FJbJaqiDA": {
+      "channelId": "UCH3mJ-nHxjjny2FJbJaqiDA",
+      "channelName": "중앙일보",
+      "channelUrl": "@joongangilbo",
+      "channelDescription": "현장의 진실을 중앙에 두다.",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/iqcE5aK4gFUjm5A-QO4FLDCDrTgOXTfU3oCyirTZcT9Ev1i_sKtx82GqfF2rPDfbBgFtBqL0uw=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/iqcE5aK4gFUjm5A-QO4FLDCDrTgOXTfU3oCyirTZcT9Ev1i_sKtx82GqfF2rPDfbBgFtBqL0uw=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/iqcE5aK4gFUjm5A-QO4FLDCDrTgOXTfU3oCyirTZcT9Ev1i_sKtx82GqfF2rPDfbBgFtBqL0uw=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 555000,
+      "viewCount": 475518285,
+      "videoCount": 18651,
+      "lastUpdated": "2025-09-03T10:49:21.536627Z"
     }
   },
-  "lastUpdated": "2025-08-29T02:43:16.078684Z",
-  "totalVideos": 17,
-  "totalChannels": 4
+  "lastUpdated": "2025-09-03T10:49:21.536627Z",
+  "totalVideos": 18,
+  "totalChannels": 5
 }

@@ -711,6 +711,36 @@
       "channelId": "UCdp4_yTBhQmB8E339Lafzow",
       "channelName": "조선일보",
       "collectedAt": "2025-09-03T10:02:21Z"
+    },
+    "xFR5HWLQypE": {
+      "videoId": "xFR5HWLQypE",
+      "title": "행정입법 통제: 의회와 정부의 전쟁",
+      "description": "국회법 개정안을 둘러싼 논란이 이어지고 있다. 개정안의 핵심은 ‘국회의 행정입법 통제 강화’다. 대통령령, 부령 등 행정입법의 수정을 요구할 수 있다는 내용을 담았다. 박근혜 대통령은 삼권분립에 어긋나 위헌 소지가 있다고 주장했고, 유승민 새누리당 원내대표와 이종걸 새정치민주연합 원내대표는 되레 삼권분립 취지에 맞는 법 개정이라고 반박했다. 어느 쪽 말이 맞을까? 세계 정치사상 최초로 삼권분립을 헌법에 명시한 미국의 행정입법 통제를 통해 입법부와 행정부의 견제와 균형을 다시 한 번 생각해본다.\n제작: 한겨레TV\n책임 프로듀서: 이경주\n종합편집: 문석진\n구성·연출: 이재만",
+      "publishedAt": "2015-06-15T07:15:40Z",
+      "duration": "PT6M17S",
+      "viewCount": 54378,
+      "likeCount": 63,
+      "commentCount": 5,
+      "tags": [
+        "행정입법",
+        "국회법 개정안",
+        "국회법",
+        "박근혜",
+        "시행령",
+        "삼권분립",
+        "입법부",
+        "행정부",
+        "의회",
+        "정부",
+        "대통령",
+        "클린턴"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2015-06-15T07:15:40Z",
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "collectedAt": "2025-09-03T10:48:10Z"
     }
   },
   "channels": {
@@ -900,8 +930,8 @@
       },
       "subscriberCount": 537000,
       "viewCount": 354014202,
-      "videoCount": 11630,
-      "lastUpdated": "2025-09-03T10:02:21.863879Z"
+      "videoCount": 11631,
+      "lastUpdated": "2025-09-03T10:17:05.854193Z"
     },
     "UCdp4_yTBhQmB8E339Lafzow": {
       "channelId": "UCdp4_yTBhQmB8E339Lafzow",
@@ -927,11 +957,38 @@
       },
       "subscriberCount": 1700000,
       "viewCount": 1669752256,
-      "videoCount": 22783,
-      "lastUpdated": "2025-09-03T10:02:21.863879Z"
+      "videoCount": 22784,
+      "lastUpdated": "2025-09-03T10:17:05.854193Z"
+    },
+    "UCugbqfMO94F9guLEb6Olb2A": {
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "channelUrl": "@hankyorehtv",
+      "channelDescription": "'더불어 행복한 세상을 만드는 언론' 한겨레 공식 유튜브 채널입니다. \n ■ 편성 및 제휴 문의: leepd@hani.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 946000,
+      "viewCount": 586539536,
+      "videoCount": 9682,
+      "lastUpdated": "2025-09-03T10:48:10.308671Z"
     }
   },
-  "lastUpdated": "2025-09-03T10:02:21.863879Z",
-  "totalVideos": 26,
-  "totalChannels": 8
+  "lastUpdated": "2025-09-03T10:48:10.308671Z",
+  "totalVideos": 27,
+  "totalChannels": 9
 }

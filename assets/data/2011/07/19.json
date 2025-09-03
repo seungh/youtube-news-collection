@@ -45,6 +45,49 @@
       "channelId": "UC1aS5CRRDrN6CmR2VcpmetA",
       "channelName": "한국일보(hankookilbo.com)",
       "collectedAt": "2025-09-03T10:02:02Z"
+    },
+    "tWNI2iZtjn4": {
+      "videoId": "tWNI2iZtjn4",
+      "title": "[차이나리포트12회]하얼빈에서 만난 안중근 '헤이룽장'",
+      "description": "닝안의 발해 성터를 지나 화찬 최북단 조선족 동포를 만나고 하얼빈에서 안중근의사를 만나러 간다.",
+      "publishedAt": "2011-07-19T06:52:18Z",
+      "duration": "PT19M56S",
+      "viewCount": 8908,
+      "likeCount": 28,
+      "commentCount": 2,
+      "tags": [
+        "중국",
+        "안중근",
+        "헤이룽장",
+        "하얼빈"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2011-07-19T06:52:18Z",
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "collectedAt": "2025-09-03T10:48:11Z"
+    },
+    "9siAQ2IlBYU": {
+      "videoId": "9siAQ2IlBYU",
+      "title": "테크노마트, 태보동작에 '휘청'?",
+      "description": "건축학회는 19일 재연실험에서 테크노마트진동은 12층 피트니스센터의 규칙적 뜀박질 때문이라는데...",
+      "publishedAt": "2011-07-19T11:49:27Z",
+      "duration": "PT1M37S",
+      "viewCount": 9817,
+      "likeCount": 16,
+      "commentCount": 5,
+      "tags": [
+        "테크노마트",
+        "진동",
+        "태보동작"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2011-07-19T11:49:27Z",
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "collectedAt": "2025-09-03T10:48:11Z"
     }
   },
   "channels": {
@@ -72,11 +115,38 @@
       },
       "subscriberCount": 362000,
       "viewCount": 296027619,
-      "videoCount": 6196,
-      "lastUpdated": "2025-09-03T10:02:02.805771Z"
+      "videoCount": 6197,
+      "lastUpdated": "2025-09-03T10:17:51.359249Z"
+    },
+    "UCugbqfMO94F9guLEb6Olb2A": {
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "channelUrl": "@hankyorehtv",
+      "channelDescription": "'더불어 행복한 세상을 만드는 언론' 한겨레 공식 유튜브 채널입니다. \n ■ 편성 및 제휴 문의: leepd@hani.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 946000,
+      "viewCount": 586539536,
+      "videoCount": 9682,
+      "lastUpdated": "2025-09-03T10:48:11.086650Z"
     }
   },
-  "lastUpdated": "2025-09-03T10:02:02.805771Z",
-  "totalVideos": 2,
-  "totalChannels": 1
+  "lastUpdated": "2025-09-03T10:48:11.086650Z",
+  "totalVideos": 4,
+  "totalChannels": 2
 }

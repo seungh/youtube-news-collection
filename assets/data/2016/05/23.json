@@ -2418,6 +2418,35 @@
       "channelId": "UCdp4_yTBhQmB8E339Lafzow",
       "channelName": "조선일보",
       "collectedAt": "2025-09-03T10:02:17Z"
+    },
+    "lRdZ3H_Wpdo": {
+      "videoId": "lRdZ3H_Wpdo",
+      "title": "제론토크라시: 더민주에 청년은 무엇인가? [한겨레 다큐]",
+      "description": "당선자 평균 나이 55.5살. 20대 국회는 역대 최고령 국회다. 더불어민주당은 20대 총선을 앞두고 청년 비례대표 후보 선출을 놓고 파동을 겪었다. 접수비 100만원, 5분 면접, 특혜 논란 끝에 2명의 최종 후보(남성 장경태, 여성 정은혜)를 뽑았지만 모두 낙선했다. 두 후보는 각각 24번과 16번의 순번을 배정 받았고, 더민주는 25.54%의 정당 득표율을 기록하며 13번까지만 당선됐기 때문이다. 당헌을 무시하고 당선 안정권 밖에 청년 비례대표 후보를 배정한 것과 공직선거법을 어기고 여성을 짝수에 배정한 것은 한국 정치사에 오점으로 남게 됐다. \n더민주의 청년 비례대표 선출 과정과 논란을 짚어 보고, 장경태 후보(더민주 서울시당 대변인·전국청년위원회 부위원장)의 의견을 통해 한국의 청년정치를 다시 한 번 생각해 본다.\n책임 프로듀서: 이경주\n촬영: 이재만, 박성영\n연출: 이재만\n제작: 한겨레TV",
+      "publishedAt": "2016-05-23T02:54:27Z",
+      "duration": "PT17M51S",
+      "viewCount": 4955,
+      "likeCount": 22,
+      "commentCount": 5,
+      "tags": [
+        "제론토크라시",
+        "더불어민주당",
+        "더민주",
+        "청년정치",
+        "청년 비례대표",
+        "정은혜",
+        "당헌",
+        "공직선거법",
+        "20대 총선",
+        "김종인",
+        "잃어버린 20년"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2016-05-23T02:54:27Z",
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "collectedAt": "2025-09-03T10:48:10Z"
     }
   },
   "channels": {
@@ -2688,8 +2717,8 @@
       },
       "subscriberCount": 537000,
       "viewCount": 354014202,
-      "videoCount": 11630,
-      "lastUpdated": "2025-09-03T10:02:17.875864Z"
+      "videoCount": 11631,
+      "lastUpdated": "2025-09-03T10:16:59.987747Z"
     },
     "UCdp4_yTBhQmB8E339Lafzow": {
       "channelId": "UCdp4_yTBhQmB8E339Lafzow",
@@ -2715,11 +2744,38 @@
       },
       "subscriberCount": 1700000,
       "viewCount": 1669752256,
-      "videoCount": 22783,
-      "lastUpdated": "2025-09-03T10:02:17.876862Z"
+      "videoCount": 22784,
+      "lastUpdated": "2025-09-03T10:16:59.987747Z"
+    },
+    "UCugbqfMO94F9guLEb6Olb2A": {
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "channelUrl": "@hankyorehtv",
+      "channelDescription": "'더불어 행복한 세상을 만드는 언론' 한겨레 공식 유튜브 채널입니다. \n ■ 편성 및 제휴 문의: leepd@hani.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 946000,
+      "viewCount": 586539536,
+      "videoCount": 9682,
+      "lastUpdated": "2025-09-03T10:48:10.058734Z"
     }
   },
-  "lastUpdated": "2025-09-03T10:02:17.876862Z",
-  "totalVideos": 89,
-  "totalChannels": 11
+  "lastUpdated": "2025-09-03T10:48:10.058734Z",
+  "totalVideos": 90,
+  "totalChannels": 12
 }

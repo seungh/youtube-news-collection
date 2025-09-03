@@ -51,6 +51,36 @@
       "channelId": "UC1aS5CRRDrN6CmR2VcpmetA",
       "channelName": "한국일보(hankookilbo.com)",
       "collectedAt": "2025-09-03T10:01:46Z"
+    },
+    "nkzU0RXOmqQ": {
+      "videoId": "nkzU0RXOmqQ",
+      "title": "[Dear 청춘 13회] 불세출의 공연 연출가 탁현민",
+      "description": "1969년 미국 뉴욕주의 베델 평원에서 개최된 한 뮤직 페스티벌에 무려 60만의 사람이 모였다. 그 전무후무한 열기가 '저항 문화의 상징'으로 남은 우드스탁 페스티벌이다. \n '나는꼼수다' 여의도 공개콘서트의 공연 기획자이자 '저항 문화의 전도사' 탁현민 성공회대 겸임교수는 15일 \"한국의 우드스탁을 기획하는 것이 꿈\"이라고 말했다. 이 시대를 살아가는 청춘과 소통하는 한겨레TV의 강연 프로그램 '디어청춘'(박수진 피디)의 13번째 강연자로 나선 자리에서다.  글/권오성 기자sage5th@hani.co.kr\n\n프로듀서 : 이경주 / 기술감독 : 박성영, 이규호 /  카메라 : 장승호, 황규필, 이승준\n무대 디자인 : 문석진 / CG : 이다연 / 기사 데스크 : 박종찬 / 편집·연출 : 박수진",
+      "publishedAt": "2012-02-15T07:36:30Z",
+      "duration": "PT18M55S",
+      "viewCount": 40191,
+      "likeCount": 323,
+      "commentCount": 17,
+      "tags": [
+        "성공회대학교",
+        "신문방송학과",
+        "탁현민",
+        "교수",
+        "공연 연출가",
+        "나는 꼼수다",
+        "고 노무현 전 대통령 추모 공연",
+        "대중문화",
+        "저항성",
+        "김어준",
+        "김용민",
+        "트위터"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2012-02-15T07:36:30Z",
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "collectedAt": "2025-09-03T10:48:25Z"
     }
   },
   "channels": {
@@ -78,11 +108,38 @@
       },
       "subscriberCount": 362000,
       "viewCount": 296027619,
-      "videoCount": 6196,
-      "lastUpdated": "2025-09-03T10:01:46.021663Z"
+      "videoCount": 6197,
+      "lastUpdated": "2025-09-03T10:17:41.006790Z"
+    },
+    "UCugbqfMO94F9guLEb6Olb2A": {
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "channelUrl": "@hankyorehtv",
+      "channelDescription": "'더불어 행복한 세상을 만드는 언론' 한겨레 공식 유튜브 채널입니다. \n ■ 편성 및 제휴 문의: leepd@hani.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 946000,
+      "viewCount": 586539536,
+      "videoCount": 9682,
+      "lastUpdated": "2025-09-03T10:48:25.407006Z"
     }
   },
-  "lastUpdated": "2025-09-03T10:01:46.021663Z",
-  "totalVideos": 2,
-  "totalChannels": 1
+  "lastUpdated": "2025-09-03T10:48:25.407006Z",
+  "totalVideos": 3,
+  "totalChannels": 2
 }

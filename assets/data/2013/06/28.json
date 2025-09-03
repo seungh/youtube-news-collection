@@ -217,6 +217,28 @@
       "channelId": "UCHXvjavEtkPFJCfGlm0wTXw",
       "channelName": "경향티비",
       "collectedAt": "2025-09-03T10:02:30Z"
+    },
+    "H1sx0xCIYWg": {
+      "videoId": "H1sx0xCIYWg",
+      "title": "[한겨레캐스트#124] 수학영재의 '역전 버디쇼', 골프 루키 전인지",
+      "description": "2013년6월28일 〈이길우의 스포츠IN〉\n이길우 한겨레 선임기자의 스포츠 선수 인터뷰 \n\n\n◆ 이길우 선임기자가 본 전인지 \n\n스포츠경기의 백미가 뭐라고 생각하십니까?\n혹시 역전승이라고 생각하지 않습니까?\n지난 주 한국여자프로골프에서는 기막힌 역전쇼가 벌어졌습니다.\n올시즌 첫 메이저대회였습니다.\n막판 네홀을 계속 버디를 하며 한타차 극적 역전쇼를 벌였던 전인지 선수를 모셨습니다.  \n\n◆ 주요 내용\n\n- 기아자동차KLPGA에서 막판 4개홀 연속 버디로 우승했는데?\n- 16번홀에서 8m 짜리 긴 버디를 잡았는데 자신이 있었나?\n- 마지막 18번 홀 퍼팅할 때 경기상황을 알았나?\n- 프로 첫 우승이었는데 의외로 담담했던 이유는?\n- 퍼팅할 때 루틴은 어떤 게 있나?\n- 처음 골프를 시작한 계기는?\n- 앞으로 어떤 선수로 살고 싶나? \n\n\n\n◇자료사진\n\n한국여자골프협회, 한겨레 자료사진\n\n\n◇제작진\n\n기획: 이길우, 출연: 전인지, 기술감독: 박성영, 연출: 박종찬, 조소영\n\n◆ 팟캐스트\n-http://www.podbbang.com/ch/6464",
+      "publishedAt": "2013-06-28T11:28:17Z",
+      "duration": "PT15M16S",
+      "viewCount": 68443,
+      "likeCount": 116,
+      "commentCount": 15,
+      "tags": [
+        "한겨레캐스트",
+        "전인지",
+        "골프",
+        "이길우"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2013-06-28T11:28:17Z",
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "collectedAt": "2025-09-03T10:48:17Z"
     }
   },
   "channels": {
@@ -325,11 +347,38 @@
       },
       "subscriberCount": 537000,
       "viewCount": 354014202,
-      "videoCount": 11630,
-      "lastUpdated": "2025-09-03T10:02:30.070027Z"
+      "videoCount": 11631,
+      "lastUpdated": "2025-09-03T10:17:15.475686Z"
+    },
+    "UCugbqfMO94F9guLEb6Olb2A": {
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "channelUrl": "@hankyorehtv",
+      "channelDescription": "'더불어 행복한 세상을 만드는 언론' 한겨레 공식 유튜브 채널입니다. \n ■ 편성 및 제휴 문의: leepd@hani.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 946000,
+      "viewCount": 586539536,
+      "videoCount": 9682,
+      "lastUpdated": "2025-09-03T10:48:17.341686Z"
     }
   },
-  "lastUpdated": "2025-09-03T10:02:30.070027Z",
-  "totalVideos": 9,
-  "totalChannels": 4
+  "lastUpdated": "2025-09-03T10:48:17.341686Z",
+  "totalVideos": 10,
+  "totalChannels": 5
 }

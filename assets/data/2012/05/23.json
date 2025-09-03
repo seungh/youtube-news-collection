@@ -51,6 +51,39 @@
       "channelId": "UCHXvjavEtkPFJCfGlm0wTXw",
       "channelName": "경향티비",
       "collectedAt": "2025-09-03T10:01:46Z"
+    },
+    "p32TDxZ5blI": {
+      "videoId": "p32TDxZ5blI",
+      "title": "[한겨레 정치WiFi 14회] 진보정치, 어디로 가야하나",
+      "description": "\"시민들은 진보의 진 자만 들어도 진저리를 치고 있다\"\r\n부정·부실경선, 당내 계파 싸움, 폭력 사태, 검찰 개입...통합진보당의 끝모를 추락. 한때 10.3% 지지율과 원내 13석 제 3당이라는 약진을 기록했던 통합진보당이지만, 이제는 야권 전체를 수렁으로 끌고 들어가는 물귀신 취급을 받고 있다. 어떻게 된 것일까? 자주파에 가까운 성향을 보이지만 구당권파에 대해 날카로운 비판을 이어가고 있는 김민웅 교수와 함께 이번 사태의 원인과 해법에 대해 토론해 본다.\r\n\r\n진행: 성한용 한겨레 선임기자\r\n출연: 김민웅 성공회대 교수, 이철희 두문정치전략연구소 소장, 유용화 시사평론가, 김남훈 프로레슬러 \r\n프로듀서: 이경주 / 작가: 서정원 / 타이틀, 2D 자막: 문석진 정희영 이다연\r\n기술감독: 박성영 / 음향: 이규호 / ST 카메라: 정동화, 이정훈, 장지남 \r\nNLE편집: 정희영 / 연출: 이경주 김도성 이규호\r\n\r\n매주 수요일 편성됩니다. 방청 및 제보: @HankyorehTV, leepd@hani.co.kr",
+      "publishedAt": "2012-05-23T00:58:40Z",
+      "duration": "PT1H6M14S",
+      "viewCount": 13868,
+      "likeCount": 20,
+      "commentCount": 2,
+      "tags": [
+        "wifi",
+        "와이파이",
+        "한겨레",
+        "한겨레정치와이파이",
+        "정치와이파이",
+        "정치",
+        "하니tv",
+        "한겨레tv",
+        "하니티비",
+        "이은혜",
+        "성한용",
+        "통진당",
+        "진보당",
+        "통합진보당",
+        "진보"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2012-05-23T00:58:40Z",
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "collectedAt": "2025-09-03T10:48:24Z"
     }
   },
   "channels": {
@@ -78,8 +111,8 @@
       },
       "subscriberCount": 362000,
       "viewCount": 296027619,
-      "videoCount": 6196,
-      "lastUpdated": "2025-09-03T10:01:46.033657Z"
+      "videoCount": 6197,
+      "lastUpdated": "2025-09-03T10:17:19.605195Z"
     },
     "UCHXvjavEtkPFJCfGlm0wTXw": {
       "channelId": "UCHXvjavEtkPFJCfGlm0wTXw",
@@ -105,11 +138,38 @@
       },
       "subscriberCount": 537000,
       "viewCount": 354014202,
-      "videoCount": 11630,
-      "lastUpdated": "2025-09-03T10:01:46.033657Z"
+      "videoCount": 11631,
+      "lastUpdated": "2025-09-03T10:17:19.605195Z"
+    },
+    "UCugbqfMO94F9guLEb6Olb2A": {
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "channelUrl": "@hankyorehtv",
+      "channelDescription": "'더불어 행복한 세상을 만드는 언론' 한겨레 공식 유튜브 채널입니다. \n ■ 편성 및 제휴 문의: leepd@hani.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 946000,
+      "viewCount": 586539536,
+      "videoCount": 9682,
+      "lastUpdated": "2025-09-03T10:48:24.560485Z"
     }
   },
-  "lastUpdated": "2025-09-03T10:01:46.033657Z",
-  "totalVideos": 2,
-  "totalChannels": 2
+  "lastUpdated": "2025-09-03T10:48:24.560485Z",
+  "totalVideos": 3,
+  "totalChannels": 3
 }

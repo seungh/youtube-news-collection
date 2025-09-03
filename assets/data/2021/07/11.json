@@ -6560,6 +6560,69 @@
       "channelId": "UCTHCOPwqNfZ0uiKOvFyhGwg",
       "channelName": "연합뉴스TV",
       "collectedAt": "2025-08-29T02:42:21Z"
+    },
+    "9DTgNbPF8UY": {
+      "videoId": "9DTgNbPF8UY",
+      "title": "사망한 청소 노동자의 일터 찾은 이재명 경기도지사",
+      "description": "이재명 경기지사가 11일 서울대 청소노동자 사망 현장을 방문했다.\n \n이날 이 지사는 사망한 청소노동자의 남편 등과 만나 고충을 듣는 등 대화를 나눴다. 이 지사는 \"오늘은 가족분들이 가슴이 아파서 위로의 말씀을 드리러 온 만큼 제가 특별히 드릴 말씀이 없다\"고 말했다.\n\n학생처장의 역겹다는 발언에 대해 묻자 이 지사는 \"그분 입장에서는 그렇게 말씀하실 수도 있다\"고 짧게 대답했다.\n\n한편 이 지사는 지난 8일 이 사건과 관련해 페이스북에 “(고인이)삐뚤삐뚤 쓰신 답안지 사진을 보며 뜨거운 것이 목구멍으로 올라온다”고 적었다.  \n\n#서울대 #청소노동자 #이재명",
+      "publishedAt": "2021-07-11T10:08:05Z",
+      "duration": "PT1M9S",
+      "viewCount": 1188,
+      "likeCount": 18,
+      "commentCount": 21,
+      "tags": [
+        "중앙일보",
+        "이재명",
+        "서울대",
+        "서울대학교",
+        "청소노동자",
+        "노동자",
+        "답안지",
+        "갑질",
+        "사망",
+        "현장",
+        "기숙사"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2021-07-11T10:08:05Z",
+      "channelId": "UCH3mJ-nHxjjny2FJbJaqiDA",
+      "channelName": "중앙일보",
+      "collectedAt": "2025-09-03T10:49:11Z"
+    },
+    "1GgSN-bOzhI": {
+      "videoId": "1GgSN-bOzhI",
+      "title": "여심에 본격 구애 이낙연 '여성 안심 3가지 정책패키지' 발표",
+      "description": "더불어민주당 대선 주자 이낙연 전 대표가 여심(女心) 공략에 본격적으로 나섰다.\n\n이 전 대표는 11일 국회 소통관에서 기자회견을 열고 '여성 안전 3가지 정책패키지'를 발표했다. 그는 \"한국 여성은 집 밖에 나가면 화장실 사용을 꺼릴 정도로 불법촬영 범죄에 노출돼 있다\"며 \"내 삶을 지키는 나라는 곧 여성을 지키는 나라여야 한다\"고 말했다. '내 삶을 지켜주는 나라'는 이 전 대표의 슬로건이다. \n\n여성 정책을 발표하면서 최근 뜨거운 감자인 여성가족부 폐지 주장에 대해서도 반대 입장을 재차 밝혔다. 이 전 대표는 \"여성부를 신설했던 김대중 전 대통령은 역설적으로 '여성부는 여성부가 없어지는 그날을 위해 일하는 부서'라고 말했다\"며 \"지금은 젠더 평등을 위한 역할을 더 확대해야 할 때지 없앨 그날이 아니다\"고 말했다.\n\n#이낙연 #대선 #민주당",
+      "publishedAt": "2021-07-11T08:33:29Z",
+      "duration": "PT3M3S",
+      "viewCount": 1665,
+      "likeCount": 30,
+      "commentCount": 43,
+      "tags": [
+        "중앙일보",
+        "민주당",
+        "더불어민주당",
+        "대선",
+        "이낙연",
+        "여성",
+        "정책",
+        "젠더",
+        "여심",
+        "한국",
+        "여성부",
+        "평등",
+        "정치",
+        "여론조사",
+        "남성",
+        "스캔들"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2021-07-11T08:33:29Z",
+      "channelId": "UCH3mJ-nHxjjny2FJbJaqiDA",
+      "channelName": "중앙일보",
+      "collectedAt": "2025-09-03T10:49:11Z"
     }
   },
   "channels": {
@@ -6967,9 +7030,36 @@
       "viewCount": 3278386064,
       "videoCount": 233358,
       "lastUpdated": "2025-08-29T02:42:21.986979Z"
+    },
+    "UCH3mJ-nHxjjny2FJbJaqiDA": {
+      "channelId": "UCH3mJ-nHxjjny2FJbJaqiDA",
+      "channelName": "중앙일보",
+      "channelUrl": "@joongangilbo",
+      "channelDescription": "현장의 진실을 중앙에 두다.",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/iqcE5aK4gFUjm5A-QO4FLDCDrTgOXTfU3oCyirTZcT9Ev1i_sKtx82GqfF2rPDfbBgFtBqL0uw=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/iqcE5aK4gFUjm5A-QO4FLDCDrTgOXTfU3oCyirTZcT9Ev1i_sKtx82GqfF2rPDfbBgFtBqL0uw=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/iqcE5aK4gFUjm5A-QO4FLDCDrTgOXTfU3oCyirTZcT9Ev1i_sKtx82GqfF2rPDfbBgFtBqL0uw=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 555000,
+      "viewCount": 475518285,
+      "videoCount": 18651,
+      "lastUpdated": "2025-09-03T10:49:11.355965Z"
     }
   },
-  "lastUpdated": "2025-08-29T02:42:21.986979Z",
-  "totalVideos": 217,
-  "totalChannels": 15
+  "lastUpdated": "2025-09-03T10:49:11.355965Z",
+  "totalVideos": 219,
+  "totalChannels": 16
 }

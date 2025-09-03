@@ -93,6 +93,31 @@
       "channelId": "UCHXvjavEtkPFJCfGlm0wTXw",
       "channelName": "경향티비",
       "collectedAt": "2025-09-03T10:02:32Z"
+    },
+    "6sWXpeKynNk": {
+      "videoId": "6sWXpeKynNk",
+      "title": "[현주의책 #7] 〈30대 정치학〉 김종배",
+      "description": "북하니-한겨레TV 공동기획, 2030 여성들을 위한 감성토크\r\n[현주의 책 7회] 〈30대 정치학〉 김종배 시사평론가편\r\n\r\n[현주의 책 소개]\r\n\r\n\"정치와 연애하면 밥 먹여준다\"\r\n오빠와 누나를 사랑했던 팬클럽 1세대들의 화려한 부활.\r\n'이슈 털어주는 남자', 시사평론가 김종배의 〈30대 정치학〉\r\n 90년대 바람이 분다. 영화와 드라마, 음악은 물론 정치 영역까지. 386세대와 88만원 세대에 끼어 숨죽였던 30대들. 그들이 90년대의 부활과 함께 강력한 정치세력으로 떠올랐다.\r\n김종배 작가는 정치를 밥, 연애, 생활이라고 정의한다. 다가올 18대 대통령 선거에서, 우리는 누구와 사랑을 하고, 마주 앉아 밥을 먹어야 할까? '이털남' 김종배가 '내 사람 잘 고르는 방법'에 대한 연애 특강을 펼친다.(현주의 책 소개)\r\n\r\n[현주의 책] 팟캐스트:  http://itunes.apple.com/kr/podcast/hyeonjuui-chaeg-video/id553793461?mt=2",
+      "publishedAt": "2012-10-11T13:03:25Z",
+      "duration": "PT23M25S",
+      "viewCount": 7684,
+      "likeCount": 22,
+      "commentCount": 0,
+      "tags": [
+        "현주의 책",
+        "김종배",
+        "30대 정치학",
+        "대통령 선거",
+        "박근혜",
+        "이털남",
+        "한겨레TV"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2012-10-11T13:03:25Z",
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "collectedAt": "2025-09-03T10:47:59Z"
     }
   },
   "channels": {
@@ -120,11 +145,38 @@
       },
       "subscriberCount": 537000,
       "viewCount": 354014202,
-      "videoCount": 11630,
-      "lastUpdated": "2025-09-03T10:02:32.857286Z"
+      "videoCount": 11631,
+      "lastUpdated": "2025-09-03T10:17:18.227852Z"
+    },
+    "UCugbqfMO94F9guLEb6Olb2A": {
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "channelUrl": "@hankyorehtv",
+      "channelDescription": "'더불어 행복한 세상을 만드는 언론' 한겨레 공식 유튜브 채널입니다. \n ■ 편성 및 제휴 문의: leepd@hani.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 946000,
+      "viewCount": 586539536,
+      "videoCount": 9682,
+      "lastUpdated": "2025-09-03T10:47:59.976278Z"
     }
   },
-  "lastUpdated": "2025-09-03T10:02:32.857286Z",
-  "totalVideos": 4,
-  "totalChannels": 1
+  "lastUpdated": "2025-09-03T10:47:59.976278Z",
+  "totalVideos": 5,
+  "totalChannels": 2
 }

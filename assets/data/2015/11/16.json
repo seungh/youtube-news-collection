@@ -1060,6 +1060,33 @@
       "channelId": "UCdp4_yTBhQmB8E339Lafzow",
       "channelName": "조선일보",
       "collectedAt": "2025-09-03T10:02:19Z"
+    },
+    "EoB25D7rZbs": {
+      "videoId": "EoB25D7rZbs",
+      "title": "‘살인 물대포’…사람 잡는 공권력 [말풍선 브리핑 2015. 11. 16]",
+      "description": "1. 프랑스 파리 한복판에서 이슬람국가의 테러가 발생해 백명이 넘는 시민이 숨졌습니다. 중상자도 백명 가까이 됩니다. 프랑스 정부는 ‘전쟁 행위’로 규정했습니다. 대규모 보복이 예상됩니다. 희생된 분들의 명복을 빕니다.\n　\n2. 한국에서도 테러가 일어났습니다. 주체는 경찰입니다. 서울도심에서 일어난 대규모 집회에서 경찰은 작심한 듯 헌법과 법률, 자체 지침까지 무시했습니다. 사람 얼굴에 물대포를 쏘고, 쓰러지니 또 쏘고, 다친 이를 구하려는 이들과 구급차에까지 거듭 물대포를 퍼부었습니다. 공권력의 불법행위 엄벌해 주기를 공안당국에 요청합니다.\n　\n3. 교육부에 제출된 국정화 찬성 서명지 확인해봤더니 무더기 대필 정황이 드러났습니다. 62개 박스 가운데 53개 박스에서 비슷한 분량과 형태에, 인용한 사진도 동일한 찬성 의견서들이 잇따라 발견됐습니다.",
+      "publishedAt": "2015-11-16T03:33:48Z",
+      "duration": "PT58S",
+      "viewCount": 226723,
+      "likeCount": 141,
+      "commentCount": 142,
+      "tags": [
+        "한겨레TV",
+        "국정화",
+        "집회",
+        "광화문",
+        "물대포",
+        "경찰",
+        "프랑스",
+        "파리",
+        "테러"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2015-11-16T03:33:48Z",
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "collectedAt": "2025-09-03T10:48:33Z"
     }
   },
   "channels": {
@@ -1276,8 +1303,8 @@
       },
       "subscriberCount": 537000,
       "viewCount": 354014202,
-      "videoCount": 11630,
-      "lastUpdated": "2025-09-03T10:02:19.943639Z"
+      "videoCount": 11631,
+      "lastUpdated": "2025-09-03T10:17:03.319485Z"
     },
     "UCdp4_yTBhQmB8E339Lafzow": {
       "channelId": "UCdp4_yTBhQmB8E339Lafzow",
@@ -1303,11 +1330,38 @@
       },
       "subscriberCount": 1700000,
       "viewCount": 1669752256,
-      "videoCount": 22783,
-      "lastUpdated": "2025-09-03T10:02:19.943639Z"
+      "videoCount": 22784,
+      "lastUpdated": "2025-09-03T10:17:03.319485Z"
+    },
+    "UCugbqfMO94F9guLEb6Olb2A": {
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "channelUrl": "@hankyorehtv",
+      "channelDescription": "'더불어 행복한 세상을 만드는 언론' 한겨레 공식 유튜브 채널입니다. \n ■ 편성 및 제휴 문의: leepd@hani.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 946000,
+      "viewCount": 586539536,
+      "videoCount": 9682,
+      "lastUpdated": "2025-09-03T10:48:33.970411Z"
     }
   },
-  "lastUpdated": "2025-09-03T10:02:19.943639Z",
-  "totalVideos": 38,
-  "totalChannels": 9
+  "lastUpdated": "2025-09-03T10:48:33.970411Z",
+  "totalVideos": 39,
+  "totalChannels": 10
 }

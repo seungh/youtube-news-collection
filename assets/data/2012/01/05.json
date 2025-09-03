@@ -45,6 +45,60 @@
       "channelId": "UC1aS5CRRDrN6CmR2VcpmetA",
       "channelName": "한국일보(hankookilbo.com)",
       "collectedAt": "2025-09-03T10:02:02Z"
+    },
+    "4yXIqcgVqIA": {
+      "videoId": "4yXIqcgVqIA",
+      "title": "[차이나리포트32회] 붉게 빛나는 바다와 아름다운 골목길...'광둥'",
+      "description": "중국인의 감기 몸살을 잡은 광저우의 음료 '왕라오지'와 션전의 꺼지지 않는 홍콩 앞바다의 불빛에 잠들고 차오저우에서 벽화전시관같은 골목길과 청나라 목판대장경을 만나본다",
+      "publishedAt": "2012-01-05T07:59:24Z",
+      "duration": "PT21M48S",
+      "viewCount": 6360,
+      "likeCount": 11,
+      "commentCount": 0,
+      "tags": [
+        "중국",
+        "한겨레",
+        "하니TV",
+        "광둥",
+        "차이나리포트",
+        "차오저우",
+        "왕라오지",
+        "감기",
+        "몸살",
+        "목판대장경",
+        "최종명"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2012-01-05T07:59:24Z",
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "collectedAt": "2025-09-03T10:48:10Z"
+    },
+    "I1dEbctnCQs": {
+      "videoId": "I1dEbctnCQs",
+      "title": "[정PD가 보고 있다] 청와대 가지 못한 한우들의 역습 그리고...",
+      "description": "육우 단돈 1만원 시대. \r\n축산 농가들이 뿔났다.\r\n5일 청와대를 찾아 한우 반납 시위\r\n청와대에선 무슨 일이 있었나?",
+      "publishedAt": "2012-01-05T11:39:43Z",
+      "duration": "PT2M36S",
+      "viewCount": 2022,
+      "likeCount": 3,
+      "commentCount": 2,
+      "tags": [
+        "하니뉴스",
+        "한우",
+        "FTA",
+        "청와대",
+        "한우 반납",
+        "축산 농사",
+        "육우 만원"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2012-01-05T11:39:43Z",
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "collectedAt": "2025-09-03T10:48:10Z"
     }
   },
   "channels": {
@@ -72,11 +126,38 @@
       },
       "subscriberCount": 362000,
       "viewCount": 296027619,
-      "videoCount": 6196,
-      "lastUpdated": "2025-09-03T10:02:02.796795Z"
+      "videoCount": 6197,
+      "lastUpdated": "2025-09-03T10:17:51.241333Z"
+    },
+    "UCugbqfMO94F9guLEb6Olb2A": {
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "channelUrl": "@hankyorehtv",
+      "channelDescription": "'더불어 행복한 세상을 만드는 언론' 한겨레 공식 유튜브 채널입니다. \n ■ 편성 및 제휴 문의: leepd@hani.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 946000,
+      "viewCount": 586539536,
+      "videoCount": 9682,
+      "lastUpdated": "2025-09-03T10:48:10.873260Z"
     }
   },
-  "lastUpdated": "2025-09-03T10:02:02.796795Z",
-  "totalVideos": 2,
-  "totalChannels": 1
+  "lastUpdated": "2025-09-03T10:48:10.873260Z",
+  "totalVideos": 4,
+  "totalChannels": 2
 }

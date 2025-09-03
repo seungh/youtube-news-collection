@@ -1594,6 +1594,46 @@
       "channelId": "UCdp4_yTBhQmB8E339Lafzow",
       "channelName": "조선일보",
       "collectedAt": "2025-09-03T10:02:24Z"
+    },
+    "9JkN0ZaokD4": {
+      "videoId": "9JkN0ZaokD4",
+      "title": "세월호 순범이 엄마가 만든 '마음의 리본'",
+      "description": "\"오시는 분들께 마음으로 리본을 달아드리면 행복해져요.\"\r\n세월호 참사가 일어난 지 192일째인 지난 24일 서울 청운효자동주민센터 앞의 유가족 농성장을 찾았다. 유족과 지킴이들은 방문객들에게 나눠줄 노란 리본을 만들고 있었다. 안산 단원고 학생 고 권순범군의 어머니 최지영씨는 \"아이들을 생각하며 한 땀 한 땀 바느질을 하고 있다\"고 심정을 밝히며 눈시울을 적셨다.",
+      "publishedAt": "2014-10-27T09:43:28Z",
+      "duration": "PT1M45S",
+      "viewCount": 5271,
+      "likeCount": 34,
+      "commentCount": 1,
+      "tags": [],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2014-10-27T09:43:28Z",
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "collectedAt": "2025-09-03T10:47:53Z"
+    },
+    "W5hWVG8OX6Q": {
+      "videoId": "W5hWVG8OX6Q",
+      "title": "시민이 함께하는 세월호 추모 영상제",
+      "description": "'세월호 특별법 제정 촉구 영화인 모임'에서는 세월호 참사 고인들을 추모하고 유가족들을 위로하고자 '시민이 함께하는 세월호 추모 영상제'를 10월31일(금) 저녁 7시 광화문에서 엽니다. 이날 영상제에서는 세월호 참사에 대한 문제의식 및 특별법 제정 촉구에 대한 메시지를 담은 시민 제작 10편의 작품이 상영됩니다. 시민 여러분의 많은 관람 바랍니다. 제공: 세월호 특별법 제정 촉구 영화인 모임",
+      "publishedAt": "2014-10-27T06:01:40Z",
+      "duration": "PT6M54S",
+      "viewCount": 22249,
+      "likeCount": 160,
+      "commentCount": 3,
+      "tags": [
+        "세월호",
+        "영상제",
+        "유경근",
+        "김영오",
+        "이호진"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2014-10-27T06:01:40Z",
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "collectedAt": "2025-09-03T10:47:53Z"
     }
   },
   "channels": {
@@ -1783,8 +1823,8 @@
       },
       "subscriberCount": 537000,
       "viewCount": 354014202,
-      "videoCount": 11630,
-      "lastUpdated": "2025-09-03T10:02:24.716235Z"
+      "videoCount": 11631,
+      "lastUpdated": "2025-09-03T10:17:09.986615Z"
     },
     "UCdp4_yTBhQmB8E339Lafzow": {
       "channelId": "UCdp4_yTBhQmB8E339Lafzow",
@@ -1810,11 +1850,38 @@
       },
       "subscriberCount": 1700000,
       "viewCount": 1669752256,
-      "videoCount": 22783,
-      "lastUpdated": "2025-09-03T10:02:24.717231Z"
+      "videoCount": 22784,
+      "lastUpdated": "2025-09-03T10:17:09.986615Z"
+    },
+    "UCugbqfMO94F9guLEb6Olb2A": {
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "channelUrl": "@hankyorehtv",
+      "channelDescription": "'더불어 행복한 세상을 만드는 언론' 한겨레 공식 유튜브 채널입니다. \n ■ 편성 및 제휴 문의: leepd@hani.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 946000,
+      "viewCount": 586539536,
+      "videoCount": 9682,
+      "lastUpdated": "2025-09-03T10:47:53.779131Z"
     }
   },
-  "lastUpdated": "2025-09-03T10:02:24.717231Z",
-  "totalVideos": 48,
-  "totalChannels": 8
+  "lastUpdated": "2025-09-03T10:47:53.779131Z",
+  "totalVideos": 50,
+  "totalChannels": 9
 }

@@ -705,6 +705,58 @@
       "channelId": "UCTHCOPwqNfZ0uiKOvFyhGwg",
       "channelName": "연합뉴스TV",
       "collectedAt": "2025-08-29T02:43:15Z"
+    },
+    "yoLa3bVYM7o": {
+      "videoId": "yoLa3bVYM7o",
+      "title": "▶단언컨대 21세기 최고의 발명품은 이것◀",
+      "description": "Iphone이 세상을 울린지 10년째가 되었다.\n\n+--------------------------------------------------------------------------------+ \n◈ 중앙일보 공식 SNS 채널 ◈ \n- 페이스북 \nhttps://www.facebook.com/joongang/ \n- 네이버 TV캐스트 \nhttp://tvcast.naver.com/joongangsisa \n- Youtube : \nhttps://www.youtube.com/channel/UCH3mJ-nHxjjny2FJbJaqiDA?sub_confirmation=1 \n- 트위터 : \nhttp://www.twitter.com/joongangilbo \n- 인스타그램 : \nhttps://www.instagram.com/joongangilbo \n+--------------------------------------------------------------------------------+ \n당신이 원하는 뉴스, \n중앙일보 SNS 채널과 함께하세요.",
+      "publishedAt": "2017-01-07T14:19:30Z",
+      "duration": "PT48S",
+      "viewCount": 618,
+      "likeCount": 3,
+      "commentCount": 1,
+      "tags": [
+        "아이폰",
+        "스마트폰",
+        "iphone",
+        "애플",
+        "스티브잡스",
+        "잡스",
+        "중앙일보"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2017-01-07T14:19:30Z",
+      "channelId": "UCH3mJ-nHxjjny2FJbJaqiDA",
+      "channelName": "중앙일보",
+      "collectedAt": "2025-09-03T10:49:20Z"
+    },
+    "clkNw50am4Q": {
+      "videoId": "clkNw50am4Q",
+      "title": "▶박 대통령 측 \"촛불은 민심이 아니다\"◀",
+      "description": "그럼 민심은 무엇일까?\n\n+--------------------------------------------------------------------------------+ \n◈ 중앙일보 공식 SNS 채널 ◈ \n- 페이스북 \nhttps://www.facebook.com/joongang/ \n- 네이버 TV캐스트 \nhttp://tvcast.naver.com/joongangsisa \n- Youtube : \nhttps://www.youtube.com/channel/UCH3mJ-nHxjjny2FJbJaqiDA?sub_confirmation=1 \n- 트위터 : \nhttp://www.twitter.com/joongangilbo \n- 인스타그램 : \nhttps://www.instagram.com/joongangilbo \n+--------------------------------------------------------------------------------+ \n당신이 원하는 뉴스, \n중앙일보 SNS 채널과 함께하세요.",
+      "publishedAt": "2017-01-07T14:09:20Z",
+      "duration": "PT57S",
+      "viewCount": 85,
+      "likeCount": 2,
+      "commentCount": 1,
+      "tags": [
+        "박근혜",
+        "ㄹ혜",
+        "대통령",
+        "청와대",
+        "촛불",
+        "민심",
+        "촛불집회",
+        "광화문",
+        "중앙일보"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2017-01-07T14:09:20Z",
+      "channelId": "UCH3mJ-nHxjjny2FJbJaqiDA",
+      "channelName": "중앙일보",
+      "collectedAt": "2025-09-03T10:49:20Z"
     }
   },
   "channels": {
@@ -896,9 +948,36 @@
       "viewCount": 3351994752,
       "videoCount": 627296,
       "lastUpdated": "2025-08-29T02:43:15.385428Z"
+    },
+    "UCH3mJ-nHxjjny2FJbJaqiDA": {
+      "channelId": "UCH3mJ-nHxjjny2FJbJaqiDA",
+      "channelName": "중앙일보",
+      "channelUrl": "@joongangilbo",
+      "channelDescription": "현장의 진실을 중앙에 두다.",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/iqcE5aK4gFUjm5A-QO4FLDCDrTgOXTfU3oCyirTZcT9Ev1i_sKtx82GqfF2rPDfbBgFtBqL0uw=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/iqcE5aK4gFUjm5A-QO4FLDCDrTgOXTfU3oCyirTZcT9Ev1i_sKtx82GqfF2rPDfbBgFtBqL0uw=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/iqcE5aK4gFUjm5A-QO4FLDCDrTgOXTfU3oCyirTZcT9Ev1i_sKtx82GqfF2rPDfbBgFtBqL0uw=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 555000,
+      "viewCount": 475518285,
+      "videoCount": 18651,
+      "lastUpdated": "2025-09-03T10:49:20.808625Z"
     }
   },
-  "lastUpdated": "2025-08-29T02:43:15.385428Z",
-  "totalVideos": 27,
-  "totalChannels": 7
+  "lastUpdated": "2025-09-03T10:49:20.808625Z",
+  "totalVideos": 29,
+  "totalChannels": 8
 }

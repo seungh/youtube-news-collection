@@ -83,6 +83,28 @@
       "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
       "channelName": "뉴스TVCHOSUN",
       "collectedAt": "2025-08-21T10:46:23Z"
+    },
+    "5UV9SkXfr4Q": {
+      "videoId": "5UV9SkXfr4Q",
+      "title": "〈변호인〉, 송강호·노무현의 '투톱 멜로' [잉여싸롱#16]",
+      "description": "2013년 1월11일(토)〈 잉여싸롱 # 16〉\n한겨레 음악담당 서정민 기자와 TV 칼럼니스트 이승한, 김선영의 대중문화 비평 프로그램　\n\n\"정치적인 인물이 정치적인 시대에 겪은 정치적인 사건을 다룬 영화를 휴먼드라마로 만들었다고 해서 이걸 휴먼드라마로만 볼 수는 없다. 대중에게 많은 해석을 남기는 영화다\" (이승한)\n\n\"'이러면 안되는 거잖아요' 라는 송변의 말이 지금도 울림을 준다. 우리 시대는 변호인이 더 많이 필요한 시대다.\" (김선영)\n\n\"지금 당장 극장 앞에다 돼지국밥 포장마차를 차려야 겠다\" (서정민) \n\n관련자료 : \n한겨레DB,〈변호인〉 홍보사 퍼스트룩, 노무현 사료관\n\n배경음악: \n아나킨프로젝트, 유희열'공원에서', 두번째달 '신수동우리집', 레미제라블, 살인의추억, 죽은시인의 사회, 우아한세계,응답하라1994 ost, 이시우The great surgeon,  김광민'what a wonderful world', \n\n ◆ 제작진\n\n손글씨: 김노경\nCG, 타이틀: 박의정\n기술감독: 박성영\n연출: 조소영 박종찬\n\n◆ 팟캐스트\n -http://www.podbbang.com/ch/6435",
+      "publishedAt": "2014-01-11T08:55:25Z",
+      "duration": "PT31M58S",
+      "viewCount": 42177,
+      "likeCount": 165,
+      "commentCount": 40,
+      "tags": [
+        "변호인",
+        "송강호",
+        "부림사건",
+        "노무현"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2014-01-11T08:55:25Z",
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "collectedAt": "2025-09-03T10:48:21Z"
     }
   },
   "channels": {
@@ -112,9 +134,36 @@
       "viewCount": 4319423561,
       "videoCount": 150855,
       "lastUpdated": "2025-08-21T10:29:00.928762Z"
+    },
+    "UCugbqfMO94F9guLEb6Olb2A": {
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "channelUrl": "@hankyorehtv",
+      "channelDescription": "'더불어 행복한 세상을 만드는 언론' 한겨레 공식 유튜브 채널입니다. \n ■ 편성 및 제휴 문의: leepd@hani.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 946000,
+      "viewCount": 586539536,
+      "videoCount": 9682,
+      "lastUpdated": "2025-09-03T10:48:21.569312Z"
     }
   },
-  "lastUpdated": "2025-08-21T10:46:23.513837Z",
-  "totalVideos": 3,
-  "totalChannels": 1
+  "lastUpdated": "2025-09-03T10:48:21.569312Z",
+  "totalVideos": 4,
+  "totalChannels": 2
 }

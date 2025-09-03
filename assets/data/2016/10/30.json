@@ -421,6 +421,36 @@
       "channelId": "UCHXvjavEtkPFJCfGlm0wTXw",
       "channelName": "경향티비",
       "collectedAt": "2025-09-03T10:02:16Z"
+    },
+    "XnIFacIAgN4": {
+      "videoId": "XnIFacIAgN4",
+      "title": "[현장 다큐] “근혜 퇴진, 순실 구속!”…내 생애 첫 촛불",
+      "description": "●〈한겨레TV〉 유튜브 채널 구독하기 -https://goo.gl/vYg2yI\n\n‘최순실의 국정 농단 사건’에 국민들의 분노가 거세다. 29일 저녁 6시, 대통령의 퇴진를 요구하는 시민들이 서울 청계광장에 모였다. 이들은 “가만 있을 수 없어서”, “후손들에게 부끄럽지 않으려고”, “무책임한 정부에 국민이 지켜보고 있다는 것을 알려주려”고 촛불을 들었다. “박근혜 퇴진”을 요구하는 성난 시민들의 목소리를 카메라에 담아 현장 다큐로 구성했다.\n\n연출: 이규호 김도성 정주용",
+      "publishedAt": "2016-10-29T16:20:20Z",
+      "duration": "PT6M16S",
+      "viewCount": 30905,
+      "likeCount": 300,
+      "commentCount": 37,
+      "tags": [
+        "한겨레",
+        "한겨레TV",
+        "Hankyoreh",
+        "HankyorehTV",
+        "korea",
+        "한국",
+        "대한민국",
+        "박근혜",
+        "최순실",
+        "집회",
+        "시위",
+        "촛불"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2016-10-29T16:20:20Z",
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "collectedAt": "2025-09-03T10:48:22Z"
     }
   },
   "channels": {
@@ -610,11 +640,38 @@
       },
       "subscriberCount": 537000,
       "viewCount": 354014202,
-      "videoCount": 11630,
-      "lastUpdated": "2025-09-03T10:02:16.492947Z"
+      "videoCount": 11631,
+      "lastUpdated": "2025-09-03T10:16:56.829312Z"
+    },
+    "UCugbqfMO94F9guLEb6Olb2A": {
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "channelUrl": "@hankyorehtv",
+      "channelDescription": "'더불어 행복한 세상을 만드는 언론' 한겨레 공식 유튜브 채널입니다. \n ■ 편성 및 제휴 문의: leepd@hani.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 946000,
+      "viewCount": 586539536,
+      "videoCount": 9682,
+      "lastUpdated": "2025-09-03T10:48:22.759081Z"
     }
   },
-  "lastUpdated": "2025-09-03T10:02:16.492947Z",
-  "totalVideos": 15,
-  "totalChannels": 7
+  "lastUpdated": "2025-09-03T10:48:22.759081Z",
+  "totalVideos": 16,
+  "totalChannels": 8
 }

@@ -49,6 +49,55 @@
       "channelId": "UC1aS5CRRDrN6CmR2VcpmetA",
       "channelName": "한국일보(hankookilbo.com)",
       "collectedAt": "2025-09-03T10:01:45Z"
+    },
+    "QGHbQTshmC4": {
+      "videoId": "QGHbQTshmC4",
+      "title": "[정PD가 보고 있다] 규탄대회 참석했다 규탄당한 김진표",
+      "description": "30일 여의도 국회 의사당. \r\n론스타 먹튀 매각 승인 규탄대회에\r\n참석한 김진표 의원이\r\n규탄을 받았다는데...",
+      "publishedAt": "2012-01-30T11:07:09Z",
+      "duration": "PT2M40S",
+      "viewCount": 8838,
+      "likeCount": 20,
+      "commentCount": 1,
+      "tags": [
+        "하니뉴스",
+        "외환은행",
+        "론스타",
+        "김진표",
+        "저축은행",
+        "국회",
+        "민주통합당"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2012-01-30T11:07:09Z",
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "collectedAt": "2025-09-03T10:48:24Z"
+    },
+    "6VEl2Sp8pLo": {
+      "videoId": "6VEl2Sp8pLo",
+      "title": "'희망뚜벅이'는 한줄로 가세요",
+      "description": "인도를 따라 걸어도 \"깃발 내리고, \r\n조끼 벗으라\"는 경찰들과 첫날부터\r\n실랑이를 벌였다. '희망 뚜벅이'는 \r\n13일간 장기농성장을 순회하며 \r\n비정규직 정리해고 철폐를 주장할 \r\n예정이다. 첫날부터 순탄치가 않다.",
+      "publishedAt": "2012-01-30T09:42:10Z",
+      "duration": "PT3M43S",
+      "viewCount": 836,
+      "likeCount": 5,
+      "commentCount": 0,
+      "tags": [
+        "희망뚜벅이",
+        "희망버스",
+        "정리해고",
+        "비정규직",
+        "기륭전자",
+        "한국3M"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2012-01-30T09:42:10Z",
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "collectedAt": "2025-09-03T10:48:24Z"
     }
   },
   "channels": {
@@ -76,11 +125,38 @@
       },
       "subscriberCount": 362000,
       "viewCount": 296027619,
-      "videoCount": 6196,
-      "lastUpdated": "2025-09-03T10:01:45.849668Z"
+      "videoCount": 6197,
+      "lastUpdated": "2025-09-03T10:17:40.625006Z"
+    },
+    "UCugbqfMO94F9guLEb6Olb2A": {
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "channelUrl": "@hankyorehtv",
+      "channelDescription": "'더불어 행복한 세상을 만드는 언론' 한겨레 공식 유튜브 채널입니다. \n ■ 편성 및 제휴 문의: leepd@hani.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 946000,
+      "viewCount": 586539536,
+      "videoCount": 9682,
+      "lastUpdated": "2025-09-03T10:48:24.929303Z"
     }
   },
-  "lastUpdated": "2025-09-03T10:01:45.849668Z",
-  "totalVideos": 2,
-  "totalChannels": 1
+  "lastUpdated": "2025-09-03T10:48:24.929303Z",
+  "totalVideos": 4,
+  "totalChannels": 2
 }

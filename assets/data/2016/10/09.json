@@ -348,6 +348,23 @@
       "channelId": "UCTHCOPwqNfZ0uiKOvFyhGwg",
       "channelName": "연합뉴스TV",
       "collectedAt": "2025-08-29T02:43:35Z"
+    },
+    "AHjRN1llkjw": {
+      "videoId": "AHjRN1llkjw",
+      "title": "[뉴욕타임스] 명품 브랜드 펜디(FENDI) 로마 신사옥 내부 공개",
+      "description": "이탈리아 명품 브랜드 펜디(FENDI)가 로마 본사 내부를 공개했다. \n\nhttp://news.joins.com/article/20687689",
+      "publishedAt": "2016-10-09T04:43:15Z",
+      "duration": "PT4M44S",
+      "viewCount": 207,
+      "likeCount": 2,
+      "commentCount": 0,
+      "tags": [],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2016-10-09T04:43:15Z",
+      "channelId": "UCH3mJ-nHxjjny2FJbJaqiDA",
+      "channelName": "중앙일보",
+      "collectedAt": "2025-09-03T10:49:21Z"
     }
   },
   "channels": {
@@ -458,9 +475,36 @@
       "viewCount": 17649222300,
       "videoCount": 890317,
       "lastUpdated": "2025-08-29T02:43:35.712043Z"
+    },
+    "UCH3mJ-nHxjjny2FJbJaqiDA": {
+      "channelId": "UCH3mJ-nHxjjny2FJbJaqiDA",
+      "channelName": "중앙일보",
+      "channelUrl": "@joongangilbo",
+      "channelDescription": "현장의 진실을 중앙에 두다.",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/iqcE5aK4gFUjm5A-QO4FLDCDrTgOXTfU3oCyirTZcT9Ev1i_sKtx82GqfF2rPDfbBgFtBqL0uw=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/iqcE5aK4gFUjm5A-QO4FLDCDrTgOXTfU3oCyirTZcT9Ev1i_sKtx82GqfF2rPDfbBgFtBqL0uw=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/iqcE5aK4gFUjm5A-QO4FLDCDrTgOXTfU3oCyirTZcT9Ev1i_sKtx82GqfF2rPDfbBgFtBqL0uw=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 555000,
+      "viewCount": 475518285,
+      "videoCount": 18651,
+      "lastUpdated": "2025-09-03T10:49:21.156761Z"
     }
   },
-  "lastUpdated": "2025-08-29T02:43:35.712043Z",
-  "totalVideos": 11,
-  "totalChannels": 4
+  "lastUpdated": "2025-09-03T10:49:21.156761Z",
+  "totalVideos": 12,
+  "totalChannels": 5
 }

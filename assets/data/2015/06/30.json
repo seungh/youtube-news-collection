@@ -712,6 +712,31 @@
       "channelId": "UCdp4_yTBhQmB8E339Lafzow",
       "channelName": "조선일보",
       "collectedAt": "2025-09-03T10:02:21Z"
+    },
+    "JOMIx_o8X88": {
+      "videoId": "JOMIx_o8X88",
+      "title": "복지부 ‘무상 산후조리’ 반대…이재명의 대처법은?[정치토크 돌직구 67회]",
+      "description": "최근 SNS에서 가장 많은 이름이 거론되는 정치인 하면 떠오르는 인물. 바로 이재명 성남시장이다. 이재명 성남시장이 〈한겨레TV 정치토크 돌직구〉에 출연해 복지부에서 제동을 걸고 있는 ‘무상공공산후조리원’에 대한 입장을 밝혔다. 또 이 시장은 박근혜 정부에 대한 평가와 함께 새정치연합의 혁신위에 대해 전망했다.\n\n진행: 임석규 성한용, 게스트: 이재명, 기술감독: 박성영, 연출: 정주용",
+      "publishedAt": "2015-06-30T10:41:28Z",
+      "duration": "PT31M21S",
+      "viewCount": 57363,
+      "likeCount": 734,
+      "commentCount": 55,
+      "tags": [
+        "한겨레TV",
+        "이재명",
+        "무상 산후조리원",
+        "성남시장",
+        "복지부",
+        "박근혜",
+        "새정치"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2015-06-30T10:41:28Z",
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "collectedAt": "2025-09-03T10:48:12Z"
     }
   },
   "channels": {
@@ -928,8 +953,8 @@
       },
       "subscriberCount": 537000,
       "viewCount": 354014202,
-      "videoCount": 11630,
-      "lastUpdated": "2025-09-03T10:02:21.608399Z"
+      "videoCount": 11631,
+      "lastUpdated": "2025-09-03T10:17:05.641461Z"
     },
     "UCdp4_yTBhQmB8E339Lafzow": {
       "channelId": "UCdp4_yTBhQmB8E339Lafzow",
@@ -955,11 +980,38 @@
       },
       "subscriberCount": 1700000,
       "viewCount": 1669752256,
-      "videoCount": 22783,
-      "lastUpdated": "2025-09-03T10:02:21.608399Z"
+      "videoCount": 22784,
+      "lastUpdated": "2025-09-03T10:17:05.643457Z"
+    },
+    "UCugbqfMO94F9guLEb6Olb2A": {
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "channelUrl": "@hankyorehtv",
+      "channelDescription": "'더불어 행복한 세상을 만드는 언론' 한겨레 공식 유튜브 채널입니다. \n ■ 편성 및 제휴 문의: leepd@hani.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 946000,
+      "viewCount": 586539536,
+      "videoCount": 9682,
+      "lastUpdated": "2025-09-03T10:48:12.573733Z"
     }
   },
-  "lastUpdated": "2025-09-03T10:02:21.608399Z",
-  "totalVideos": 28,
-  "totalChannels": 9
+  "lastUpdated": "2025-09-03T10:48:12.573733Z",
+  "totalVideos": 29,
+  "totalChannels": 10
 }

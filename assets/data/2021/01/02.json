@@ -6273,6 +6273,34 @@
       "channelId": "UCdp4_yTBhQmB8E339Lafzow",
       "channelName": "조선일보",
       "collectedAt": "2025-09-03T10:02:38Z"
+    },
+    "s2Ehnl0HldM": {
+      "videoId": "s2Ehnl0HldM",
+      "title": "포르쉐 파나메라 하이브리드 vs BMW M550i 드래그 레이스 승자는│ #천車만별",
+      "description": "스포츠카 브랜드의 친환경차와 프리미엄 브랜드 궁극의 세단이 F1 경기가 열렸던 전남 영암을 찾았다.\n\n독일 데일리 스포츠카의 대명사인 포르쉐의 파나메라4-E 하이브리드, BMW 5시리즈 가운데 최상급 모델인 M550i 가 400m 드래그 레이스를 펼쳤다.\n\n0~100㎞/h 기록 재는 ‘제로백’ 테스트에서는 0.01초 차이로 근소한 결과가 나왔다. 과연 승자는 누구 일까?\n\n#포르쉐 #파나메라 #BMW #M550i",
+      "publishedAt": "2021-01-01T23:00:11Z",
+      "duration": "PT12M33S",
+      "viewCount": 3928,
+      "likeCount": 21,
+      "commentCount": 1,
+      "tags": [
+        "중앙일보",
+        "천차만별",
+        "천車만별",
+        "파나메라",
+        "하이브리드",
+        "포르쉐",
+        "BMW",
+        "M550i",
+        "드래그 레이스",
+        "자 비교"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2021-01-01T23:00:11Z",
+      "channelId": "UCH3mJ-nHxjjny2FJbJaqiDA",
+      "channelName": "중앙일보",
+      "collectedAt": "2025-09-03T10:49:03Z"
     }
   },
   "channels": {
@@ -6461,9 +6489,9 @@
         }
       },
       "subscriberCount": 1340000,
-      "viewCount": 870924917,
-      "videoCount": 32030,
-      "lastUpdated": "2025-08-24T21:52:41.639072Z"
+      "viewCount": 871828833,
+      "videoCount": 32204,
+      "lastUpdated": "2025-09-03T10:52:57.129291Z"
     },
     "UCkinYTS9IHqOEwR1Sze2JTw": {
       "channelId": "UCkinYTS9IHqOEwR1Sze2JTw",
@@ -6678,11 +6706,38 @@
       },
       "subscriberCount": 1700000,
       "viewCount": 1669752256,
-      "videoCount": 22783,
-      "lastUpdated": "2025-09-03T10:02:38.406551Z"
+      "videoCount": 22784,
+      "lastUpdated": "2025-09-03T10:17:56.974701Z"
+    },
+    "UCH3mJ-nHxjjny2FJbJaqiDA": {
+      "channelId": "UCH3mJ-nHxjjny2FJbJaqiDA",
+      "channelName": "중앙일보",
+      "channelUrl": "@joongangilbo",
+      "channelDescription": "현장의 진실을 중앙에 두다.",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/iqcE5aK4gFUjm5A-QO4FLDCDrTgOXTfU3oCyirTZcT9Ev1i_sKtx82GqfF2rPDfbBgFtBqL0uw=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/iqcE5aK4gFUjm5A-QO4FLDCDrTgOXTfU3oCyirTZcT9Ev1i_sKtx82GqfF2rPDfbBgFtBqL0uw=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/iqcE5aK4gFUjm5A-QO4FLDCDrTgOXTfU3oCyirTZcT9Ev1i_sKtx82GqfF2rPDfbBgFtBqL0uw=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 555000,
+      "viewCount": 475518285,
+      "videoCount": 18651,
+      "lastUpdated": "2025-09-03T10:49:03.727409Z"
     }
   },
-  "lastUpdated": "2025-09-03T10:02:38.406551Z",
-  "totalVideos": 185,
-  "totalChannels": 15
+  "lastUpdated": "2025-09-03T10:52:57.129291Z",
+  "totalVideos": 186,
+  "totalChannels": 16
 }

@@ -46,6 +46,30 @@
       "channelId": "UCHXvjavEtkPFJCfGlm0wTXw",
       "channelName": "경향티비",
       "collectedAt": "2025-09-03T10:02:28Z"
+    },
+    "3x94E5JyoLU": {
+      "videoId": "3x94E5JyoLU",
+      "title": "〈겨울왕국〉, 사랑을 위한 '렛 잇 고' [잉여싸롱#18]",
+      "description": "2013년 2월15일(토)〈 잉여싸롱 # 18〉\n한겨레 음악담당 서정민 기자와 TV 칼럼니스트 이승한, 김선영의 대중문화 비평 프로그램\n \n◆ 관련자료 : \n영화 홍보사 호호호비치 제공 〈겨울왕국〉 예고편, 메이킹필름, 본편클립, 뮤지컬〈위키드〉 메이킹필름 (ⓒ 설앤컴퍼니), 디즈니 공식프린세스 사이트 캡쳐,\n\n◆ 배경음악: \n〈겨울왕국〉 , 〈위키드〉,〈냉정과 열정 사이〉, 〈우아한세계〉, 〈안경〉,〈알라딘〉 ost ,  김광민 '내마음에 비가' 모임별 '아편굴 소녀가 들려준 이야기',동요친구들'아빠 힘내세요', 두번째 달 '신수동우리집', Michael buble'let it snow'  \n\n◆ 제작진 \n\n손글씨: 김노경 \nCG, 타이틀: 박의정 \n기술감독: 박성영 \n연출: 조소영 박종찬 \n\n◆ 팟캐스트 \n-http://www.podbbang.com/ch/6435",
+      "publishedAt": "2014-02-15T07:48:53Z",
+      "duration": "PT34M51S",
+      "viewCount": 31175,
+      "likeCount": 102,
+      "commentCount": 5,
+      "tags": [
+        "잉여싸롱",
+        "겨울왕국",
+        "디즈니",
+        "렛잇고",
+        "엘사",
+        "울라프"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2014-02-15T07:48:53Z",
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "collectedAt": "2025-09-03T10:48:21Z"
     }
   },
   "channels": {
@@ -100,11 +124,38 @@
       },
       "subscriberCount": 537000,
       "viewCount": 354014202,
-      "videoCount": 11630,
-      "lastUpdated": "2025-09-03T10:02:28.239992Z"
+      "videoCount": 11631,
+      "lastUpdated": "2025-09-03T10:17:13.722568Z"
+    },
+    "UCugbqfMO94F9guLEb6Olb2A": {
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "channelUrl": "@hankyorehtv",
+      "channelDescription": "'더불어 행복한 세상을 만드는 언론' 한겨레 공식 유튜브 채널입니다. \n ■ 편성 및 제휴 문의: leepd@hani.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 946000,
+      "viewCount": 586539536,
+      "videoCount": 9682,
+      "lastUpdated": "2025-09-03T10:48:21.542994Z"
     }
   },
-  "lastUpdated": "2025-09-03T10:02:28.239992Z",
-  "totalVideos": 2,
-  "totalChannels": 2
+  "lastUpdated": "2025-09-03T10:48:21.542994Z",
+  "totalVideos": 3,
+  "totalChannels": 3
 }

@@ -1344,6 +1344,53 @@
       "channelId": "UCdp4_yTBhQmB8E339Lafzow",
       "channelName": "조선일보",
       "collectedAt": "2025-09-03T10:01:37Z"
+    },
+    "N6l_e0-GShQ": {
+      "videoId": "N6l_e0-GShQ",
+      "title": "[2015 아시아미래포럼] 개막  ‘새로운 균형, 새로운 아시아: 신뢰와 협동의 경제’",
+      "description": "제6회 아시아미래포럼이 개막했습니다. ‘새로운 균형, 새로운 아시아: 신뢰와 협동의 경제’를 주제로 한 이번 포럼은 29일까지 이어집니다. \n\n#2015아시아미래포럼",
+      "publishedAt": "2015-10-28T07:27:45Z",
+      "duration": "PT1M53S",
+      "viewCount": 820,
+      "likeCount": 1,
+      "commentCount": 0,
+      "tags": [
+        "아시아미래포럼",
+        "한겨레",
+        "정영무",
+        "박원순",
+        "문재인"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2015-10-28T07:27:45Z",
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "collectedAt": "2025-09-03T10:47:21Z"
+    },
+    "lfhcxRifjTo": {
+      "videoId": "lfhcxRifjTo",
+      "title": "‘몸에좋은남자’ 박형준의 작업실 “저한테 성인만화는 액션만화죠”",
+      "description": "\"누군가의 지갑에서 돈을 꺼내려면 꺼내고 싶게끔 만들어야 되잖아요? 제 만화를 보고 나서 이 친구가 남자일 경우에 바지를 벗었다. 그러면 성공했다고 생각해요.\" \n\n취재: 남은주\n연출: 조소영",
+      "publishedAt": "2015-10-28T08:41:25Z",
+      "duration": "PT3M35S",
+      "viewCount": 43493,
+      "likeCount": 104,
+      "commentCount": 12,
+      "tags": [
+        "몸에 좋은 남자",
+        "박형준",
+        "꽃처럼산다",
+        "웹툰",
+        "성인만화",
+        "만화가의 작업실"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2015-10-28T08:41:25Z",
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "collectedAt": "2025-09-03T10:47:21Z"
     }
   },
   "channels": {
@@ -1587,8 +1634,8 @@
       },
       "subscriberCount": 362000,
       "viewCount": 296027619,
-      "videoCount": 6196,
-      "lastUpdated": "2025-09-03T10:01:37.342196Z"
+      "videoCount": 6197,
+      "lastUpdated": "2025-09-03T10:17:03.683617Z"
     },
     "UCHXvjavEtkPFJCfGlm0wTXw": {
       "channelId": "UCHXvjavEtkPFJCfGlm0wTXw",
@@ -1614,8 +1661,8 @@
       },
       "subscriberCount": 537000,
       "viewCount": 354014202,
-      "videoCount": 11630,
-      "lastUpdated": "2025-09-03T10:01:37.342196Z"
+      "videoCount": 11631,
+      "lastUpdated": "2025-09-03T10:17:03.683617Z"
     },
     "UCdp4_yTBhQmB8E339Lafzow": {
       "channelId": "UCdp4_yTBhQmB8E339Lafzow",
@@ -1641,11 +1688,38 @@
       },
       "subscriberCount": 1700000,
       "viewCount": 1669752256,
-      "videoCount": 22783,
-      "lastUpdated": "2025-09-03T10:01:37.342196Z"
+      "videoCount": 22784,
+      "lastUpdated": "2025-09-03T10:17:03.683617Z"
+    },
+    "UCugbqfMO94F9guLEb6Olb2A": {
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "channelUrl": "@hankyorehtv",
+      "channelDescription": "'더불어 행복한 세상을 만드는 언론' 한겨레 공식 유튜브 채널입니다. \n ■ 편성 및 제휴 문의: leepd@hani.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 946000,
+      "viewCount": 586539536,
+      "videoCount": 9682,
+      "lastUpdated": "2025-09-03T10:47:21.436644Z"
     }
   },
-  "lastUpdated": "2025-09-03T10:01:37.342196Z",
-  "totalVideos": 48,
-  "totalChannels": 11
+  "lastUpdated": "2025-09-03T10:47:21.436644Z",
+  "totalVideos": 50,
+  "totalChannels": 12
 }

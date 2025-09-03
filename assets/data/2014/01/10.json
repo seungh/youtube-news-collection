@@ -412,6 +412,57 @@
       "channelId": "UCdp4_yTBhQmB8E339Lafzow",
       "channelName": "조선일보",
       "collectedAt": "2025-09-03T10:02:47Z"
+    },
+    "QKeHJ2Qjlh0": {
+      "videoId": "QKeHJ2Qjlh0",
+      "title": "#2. 소치의 꽃, 이상화를 만나다",
+      "description": "1. 올림픽 2연패 노리는 빙상계의 우사인 볼트 이상화 선수 인터뷰\r\n\r\n2.  새정치추진위원회 윤여준 의장 인터뷰",
+      "publishedAt": "2014-01-10T11:30:38Z",
+      "duration": "PT47M11S",
+      "viewCount": 6239,
+      "likeCount": 9,
+      "commentCount": 1,
+      "tags": [],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2014-01-10T11:30:38Z",
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "collectedAt": "2025-09-03T10:48:34Z"
+    },
+    "4F_wMsTvQlI": {
+      "videoId": "4F_wMsTvQlI",
+      "title": "[표창원의 죄와 벌 #13]  \"채동욱 의혹? '증거' 확보에 달렸다\"",
+      "description": "[시사게이트#13] 찍으면 낙마, '비박' 잔혹사\n2013년 10월4일 방송분",
+      "publishedAt": "2014-01-10T07:25:12Z",
+      "duration": "PT4M46S",
+      "viewCount": 11709,
+      "likeCount": 81,
+      "commentCount": 5,
+      "tags": [],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2014-01-10T07:25:12Z",
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "collectedAt": "2025-09-03T10:48:34Z"
+    },
+    "JJwH1Q-vDg0": {
+      "videoId": "JJwH1Q-vDg0",
+      "title": "[김보협의 시민K #13]",
+      "description": "[시사게이트#13] 찍으면 낙마, '비박' 잔혹사\n2013년 10월4일 방송분\n\n    영화 '워낭소리' 주인공 최원균 씨 별세\n    말 못하는 소였지만 마음을 나눠 소통하던 \n    할아버지 모습은 많은 이들의 마음을 뭉클하게 했는데요... \n    소하고도 소통이 되던 분이 있는가하면\n    국민들과 그리고 자신이 뽑은 장관들하고도 불통인 분.\n    소통은 소하고만 통하는 게 아닙니다.",
+      "publishedAt": "2014-01-10T07:21:30Z",
+      "duration": "PT4M1S",
+      "viewCount": 3028,
+      "likeCount": 12,
+      "commentCount": 0,
+      "tags": [],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2014-01-10T07:21:30Z",
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "collectedAt": "2025-09-03T10:48:34Z"
     }
   },
   "channels": {
@@ -574,11 +625,38 @@
       },
       "subscriberCount": 1700000,
       "viewCount": 1669752256,
-      "videoCount": 22783,
-      "lastUpdated": "2025-09-03T10:02:47.051058Z"
+      "videoCount": 22784,
+      "lastUpdated": "2025-09-03T10:18:04.153344Z"
+    },
+    "UCugbqfMO94F9guLEb6Olb2A": {
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "channelUrl": "@hankyorehtv",
+      "channelDescription": "'더불어 행복한 세상을 만드는 언론' 한겨레 공식 유튜브 채널입니다. \n ■ 편성 및 제휴 문의: leepd@hani.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 946000,
+      "viewCount": 586539536,
+      "videoCount": 9682,
+      "lastUpdated": "2025-09-03T10:48:34.667408Z"
     }
   },
-  "lastUpdated": "2025-09-03T10:02:47.051058Z",
-  "totalVideos": 17,
-  "totalChannels": 6
+  "lastUpdated": "2025-09-03T10:48:34.667408Z",
+  "totalVideos": 20,
+  "totalChannels": 7
 }

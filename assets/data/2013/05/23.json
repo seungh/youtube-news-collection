@@ -201,6 +201,30 @@
       "channelId": "UCHXvjavEtkPFJCfGlm0wTXw",
       "channelName": "경향티비",
       "collectedAt": "2025-09-03T10:02:30Z"
+    },
+    "t8VLF6MCY4M": {
+      "videoId": "t8VLF6MCY4M",
+      "title": "[한겨레캐스트 #101] 전두환의 은닉 재산을 찾아라",
+      "description": "◆주요 내용\r\n-추징금 1672억원 어떻게 결정된 건가?\r\n-비자금을 찾지 못한 이유는?\r\n-시효 연장을 위한 방안은?\r\n-'크라우드 소싱'이란 무엇인가?\r\n-'크라우드 소싱' 사례는?\r\n-'잊지 말자 전두환 사전 1.0'의 의미는?\r\n-참여 방법은?\r\n-'전두환 사전 1.0'의 내용은?\r\n-차남 전재용씨의 조세포탈 수사기록의 의미는?\r\n-검찰의 수사 의지는?\r\n-노태우 전 대통령의 상황은?",
+      "publishedAt": "2013-05-23T14:05:29Z",
+      "duration": "PT17M45S",
+      "viewCount": 61828,
+      "likeCount": 91,
+      "commentCount": 13,
+      "tags": [
+        "한겨레tv",
+        "전두환",
+        "비자금",
+        "노태우",
+        "추징금",
+        "29만원"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2013-05-23T14:05:29Z",
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "collectedAt": "2025-09-03T10:48:17Z"
     }
   },
   "channels": {
@@ -282,11 +306,38 @@
       },
       "subscriberCount": 537000,
       "viewCount": 354014202,
-      "videoCount": 11630,
-      "lastUpdated": "2025-09-03T10:02:30.574019Z"
+      "videoCount": 11631,
+      "lastUpdated": "2025-09-03T10:17:15.835573Z"
+    },
+    "UCugbqfMO94F9guLEb6Olb2A": {
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "channelUrl": "@hankyorehtv",
+      "channelDescription": "'더불어 행복한 세상을 만드는 언론' 한겨레 공식 유튜브 채널입니다. \n ■ 편성 및 제휴 문의: leepd@hani.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 946000,
+      "viewCount": 586539536,
+      "videoCount": 9682,
+      "lastUpdated": "2025-09-03T10:48:17.658949Z"
     }
   },
-  "lastUpdated": "2025-09-03T10:02:30.574019Z",
-  "totalVideos": 6,
-  "totalChannels": 3
+  "lastUpdated": "2025-09-03T10:48:17.658949Z",
+  "totalVideos": 7,
+  "totalChannels": 4
 }

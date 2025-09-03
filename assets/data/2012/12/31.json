@@ -37,6 +37,51 @@
       "channelId": "UCHXvjavEtkPFJCfGlm0wTXw",
       "channelName": "경향티비",
       "collectedAt": "2025-09-03T10:02:32Z"
+    },
+    "tKNqFHz3hqg": {
+      "videoId": "tKNqFHz3hqg",
+      "title": "[CD Player 132회] '송강호' 백발 분장 도전,＂박해일 정재영 대단하다＂",
+      "description": "박찬욱, 박찬경 형제 감독의 공동 연출작 [청출어람]은 소리 연습을 위해 산행에 나선 고집불통 스승과 철부지 소녀 제자의 어느 특별한 하루를 다루고 있는 영화입니다,\n\n기획: 이경주 / 취재: 박사랑(씨네21)",
+      "publishedAt": "2012-12-31T01:52:15Z",
+      "duration": "PT2M22S",
+      "viewCount": 11549,
+      "likeCount": 13,
+      "commentCount": 0,
+      "tags": [
+        "cdplayer",
+        "cine21",
+        "씨네21",
+        "한겨레",
+        "hanitv",
+        "하니tv",
+        "청출어람",
+        "영화 청출어람",
+        "박찬욱",
+        "박찬경",
+        "박찬욱 감독",
+        "송강호",
+        "전효정",
+        "판소리",
+        "새타령",
+        "이동백 명창",
+        "PARKing CHANce",
+        "파란만장",
+        "오달슬로우",
+        "영화 관상",
+        "은교",
+        "이끼",
+        "박해일",
+        "정재영",
+        "이경주pd",
+        "박사랑기자",
+        "한겨레tv"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2012-12-31T01:52:15Z",
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "collectedAt": "2025-09-03T10:48:25Z"
     }
   },
   "channels": {
@@ -64,11 +109,38 @@
       },
       "subscriberCount": 537000,
       "viewCount": 354014202,
-      "videoCount": 11630,
-      "lastUpdated": "2025-09-03T10:02:32.496409Z"
+      "videoCount": 11631,
+      "lastUpdated": "2025-09-03T10:17:17.409303Z"
+    },
+    "UCugbqfMO94F9guLEb6Olb2A": {
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "channelUrl": "@hankyorehtv",
+      "channelDescription": "'더불어 행복한 세상을 만드는 언론' 한겨레 공식 유튜브 채널입니다. \n ■ 편성 및 제휴 문의: leepd@hani.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 946000,
+      "viewCount": 586539536,
+      "videoCount": 9682,
+      "lastUpdated": "2025-09-03T10:48:25.526421Z"
     }
   },
-  "lastUpdated": "2025-09-03T10:02:32.496409Z",
-  "totalVideos": 2,
-  "totalChannels": 1
+  "lastUpdated": "2025-09-03T10:48:25.526421Z",
+  "totalVideos": 3,
+  "totalChannels": 2
 }

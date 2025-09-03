@@ -641,6 +641,30 @@
       "channelId": "UCdp4_yTBhQmB8E339Lafzow",
       "channelName": "조선일보",
       "collectedAt": "2025-09-03T10:02:18Z"
+    },
+    "5kxJeutUQEc": {
+      "videoId": "5kxJeutUQEc",
+      "title": "‘청춘’이 뭐냐고 물으신다면~ [어쩌다음악 번외편]",
+      "description": "영화 ‘초인’ 속 도현역할 김정현, 웹툰 ‘청춘극장’의 작가 이은재, 밴드 ‘전기뱀장어’ 인터뷰 \n푸릇푸릇한 초록이 눈부신 날, 어린이날도 어버이날도 있지만 계절을 닮은 젊은 목소리는 없는 계절, 그들의 목소리를 직접 들어보았다. \n\n취재 구둘래\n영상 조소영\n\n관련기사: http://www.hani.co.kr/arti/culture/culture_general/742077.html",
+      "publishedAt": "2016-05-01T11:37:46Z",
+      "duration": "PT23M40S",
+      "viewCount": 12496,
+      "likeCount": 389,
+      "commentCount": 44,
+      "tags": [
+        "전기뱀장어",
+        "초인",
+        "김정현",
+        "이은재",
+        "청춘극장",
+        "청춘"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2016-05-01T11:37:46Z",
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "collectedAt": "2025-09-03T10:48:02Z"
     }
   },
   "channels": {
@@ -830,8 +854,8 @@
       },
       "subscriberCount": 537000,
       "viewCount": 354014202,
-      "videoCount": 11630,
-      "lastUpdated": "2025-09-03T10:02:18.033673Z"
+      "videoCount": 11631,
+      "lastUpdated": "2025-09-03T10:17:00.354120Z"
     },
     "UCdp4_yTBhQmB8E339Lafzow": {
       "channelId": "UCdp4_yTBhQmB8E339Lafzow",
@@ -857,11 +881,38 @@
       },
       "subscriberCount": 1700000,
       "viewCount": 1669752256,
-      "videoCount": 22783,
-      "lastUpdated": "2025-09-03T10:02:18.034670Z"
+      "videoCount": 22784,
+      "lastUpdated": "2025-09-03T10:17:00.355122Z"
+    },
+    "UCugbqfMO94F9guLEb6Olb2A": {
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "channelUrl": "@hankyorehtv",
+      "channelDescription": "'더불어 행복한 세상을 만드는 언론' 한겨레 공식 유튜브 채널입니다. \n ■ 편성 및 제휴 문의: leepd@hani.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 946000,
+      "viewCount": 586539536,
+      "videoCount": 9682,
+      "lastUpdated": "2025-09-03T10:48:02.956794Z"
     }
   },
-  "lastUpdated": "2025-09-03T10:02:18.034670Z",
-  "totalVideos": 26,
-  "totalChannels": 8
+  "lastUpdated": "2025-09-03T10:48:02.956794Z",
+  "totalVideos": 27,
+  "totalChannels": 9
 }

@@ -1458,6 +1458,42 @@
       "channelId": "UCdp4_yTBhQmB8E339Lafzow",
       "channelName": "조선일보",
       "collectedAt": "2025-09-03T10:02:24Z"
+    },
+    "qYvPjHwtm4g": {
+      "videoId": "qYvPjHwtm4g",
+      "title": "구석 몰린 청와대 ‘비선 사수작전’ [정치토크 돌직구 18회]",
+      "description": "‘한겨레’ 정치부장이 해설하는 ‘정윤회 국정개입 의혹’\n \n‘정윤회 국정개입 의혹’ 파문이 청와대 보고서 유출 혐의로 수사를 받던 최 아무개 경위가 자살하고 권력 암투설의 다른 한쪽인 박지만 EG 회장이 검찰 조사를 받으며 계속 확산되고 있다. 점점 복잡해지고 있는 이번 사건을, 청와대 출입기자와 워싱턴 특파원을 지낸 권태호 ‘한겨레’ 정치부장이 알기 쉽게 해설했다. 승마 선수인 정윤회씨 딸과 관련한 박근혜 대통령의 문화체육관광부 국·과장 인사 개입 특종의 전말도 밝혔다.\n \n◆ 제작진\n진행: 임석규 성한용, 게스트: 권태호, 기술감독: 박성영, 연출: 김도성 정주용 이재만\n \n◆ 팟캐스트\n \n-아이튠즈/ https://itunes.apple.com/kr/podcast/jeongchitokeu-doljiggu/id934712464?mt=2\n -팟빵 채널/ http://www.podbbang.com/ch/8405",
+      "publishedAt": "2014-12-16T09:01:31Z",
+      "duration": "PT18M56S",
+      "viewCount": 32703,
+      "likeCount": 74,
+      "commentCount": 7,
+      "tags": [
+        "시사",
+        "한겨레",
+        "캐스트",
+        "한겨레캐스트",
+        "정돌",
+        "정치토크",
+        "돌직구",
+        "정치",
+        "박근혜",
+        "정윤회",
+        "최순실",
+        "박지만",
+        "박근령",
+        "최태민",
+        "이재만",
+        "김기춘",
+        "청와대",
+        "최경락"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2014-12-16T09:01:31Z",
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "collectedAt": "2025-09-03T10:48:13Z"
     }
   },
   "channels": {
@@ -1674,8 +1710,8 @@
       },
       "subscriberCount": 537000,
       "viewCount": 354014202,
-      "videoCount": 11630,
-      "lastUpdated": "2025-09-03T10:02:24.037973Z"
+      "videoCount": 11631,
+      "lastUpdated": "2025-09-03T10:17:09.084136Z"
     },
     "UCdp4_yTBhQmB8E339Lafzow": {
       "channelId": "UCdp4_yTBhQmB8E339Lafzow",
@@ -1701,11 +1737,38 @@
       },
       "subscriberCount": 1700000,
       "viewCount": 1669752256,
-      "videoCount": 22783,
-      "lastUpdated": "2025-09-03T10:02:24.041967Z"
+      "videoCount": 22784,
+      "lastUpdated": "2025-09-03T10:17:09.084136Z"
+    },
+    "UCugbqfMO94F9guLEb6Olb2A": {
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "channelUrl": "@hankyorehtv",
+      "channelDescription": "'더불어 행복한 세상을 만드는 언론' 한겨레 공식 유튜브 채널입니다. \n ■ 편성 및 제휴 문의: leepd@hani.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 946000,
+      "viewCount": 586539536,
+      "videoCount": 9682,
+      "lastUpdated": "2025-09-03T10:48:13.323892Z"
     }
   },
-  "lastUpdated": "2025-09-03T10:02:24.044191Z",
-  "totalVideos": 44,
-  "totalChannels": 9
+  "lastUpdated": "2025-09-03T10:48:13.323892Z",
+  "totalVideos": 45,
+  "totalChannels": 10
 }

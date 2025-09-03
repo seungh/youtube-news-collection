@@ -327,6 +327,23 @@
       "channelId": "UCHXvjavEtkPFJCfGlm0wTXw",
       "channelName": "경향티비",
       "collectedAt": "2025-09-03T10:02:29Z"
+    },
+    "WQ6KzgMsQHs": {
+      "videoId": "WQ6KzgMsQHs",
+      "title": "[한겨레캐스트 #147] 국정원 개혁 외면할수록 촛불은 커진다",
+      "description": "◆ 주요내용\r\n-시민들 반응은?\r\n-민주당의 장외투쟁 이유는?\r\n-민주당 국회 포기한 건가?\r\n-국정조사 어떻게 진행되고 있나?\r\n-민주당의 장외투쟁 끝낼 조건은?\r\n-영수회담 vs 5자회담, 절충 가능성은?\r\n-이번 주 회담 가능성은?\r\n-박 대통령의 침묵 이유는?\r\n-박근혜 대통령은 당사자인가?\r\n-촛불집회와 시국선언이 이어지는 이유는?\r\n-시국선언 참여자들의 요구사항은?\r\n-촛불집회 참석자는 어떤 사람들인가?\r\n-지난 주말 촛불집회 참석 인원은?\r\n-집회 참가자 대선 결과에 불복하나?\r\n-촛불집회 앞으로의 향방은?",
+      "publishedAt": "2013-08-12T14:00:25Z",
+      "duration": "PT16M42S",
+      "viewCount": 18370,
+      "likeCount": 64,
+      "commentCount": 19,
+      "tags": [],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2013-08-12T14:00:25Z",
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "collectedAt": "2025-09-03T10:48:17Z"
     }
   },
   "channels": {
@@ -435,11 +452,38 @@
       },
       "subscriberCount": 537000,
       "viewCount": 354014202,
-      "videoCount": 11630,
-      "lastUpdated": "2025-09-03T10:02:29.638245Z"
+      "videoCount": 11631,
+      "lastUpdated": "2025-09-03T10:17:15.100059Z"
+    },
+    "UCugbqfMO94F9guLEb6Olb2A": {
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "channelUrl": "@hankyorehtv",
+      "channelDescription": "'더불어 행복한 세상을 만드는 언론' 한겨레 공식 유튜브 채널입니다. \n ■ 편성 및 제휴 문의: leepd@hani.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 946000,
+      "viewCount": 586539536,
+      "videoCount": 9682,
+      "lastUpdated": "2025-09-03T10:48:17.011090Z"
     }
   },
-  "lastUpdated": "2025-09-03T10:02:29.638245Z",
-  "totalVideos": 11,
-  "totalChannels": 4
+  "lastUpdated": "2025-09-03T10:48:17.011090Z",
+  "totalVideos": 12,
+  "totalChannels": 5
 }

@@ -837,6 +837,51 @@
       "channelId": "UCdp4_yTBhQmB8E339Lafzow",
       "channelName": "조선일보",
       "collectedAt": "2025-09-03T10:01:37Z"
+    },
+    "LWuIPzXF9aw": {
+      "videoId": "LWuIPzXF9aw",
+      "title": "지은이 박근혜, 주인공 유승민…“소설 같은 일”[정치토크 돌직구 70회]",
+      "description": "유승민 전 원내대표 사퇴와 박 대통령 지지율 전망\n\n박근혜 대통령이 유승민 원내대표를 결국 쫓아냈다. 대통령이 마음에 들지 않는 집권여당 원내대표를 쫓아내는 소설 같은 일이 현실에서 벌어진 것이다. 정치토크 돌직구 이번 시간에는 한겨레경제사회연구원 한귀영 사회조사센터장과 함께 ‘유승민 사태’에 대한 여론의 흐름을 살피고, 박근혜 대통령의 올 하반기 지지율을 전망해 보았다.\n\n진행: 임석규 성한용, 게스트: 한귀영, 기술감독: 박성영, 연출: 정주용",
+      "publishedAt": "2015-07-08T12:34:22Z",
+      "duration": "PT14M53S",
+      "viewCount": 172772,
+      "likeCount": 169,
+      "commentCount": 23,
+      "tags": [
+        "한겨레TV",
+        "박근혜",
+        "유승민",
+        "새누리당"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2015-07-08T12:34:22Z",
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "collectedAt": "2025-09-03T10:48:12Z"
+    },
+    "9srAwQdJR3Y": {
+      "videoId": "9srAwQdJR3Y",
+      "title": "정두언, ‘유승민 찍어내기’에 “왕조시대의 잔재”[정치토크 돌직구 69회]",
+      "description": "7월 6일 국회 본회의장. 국회법 개정안 재의안이 상정된 가운데 새누리당이 표결을 거부하면서 국회법 개정안이 정족수 미달로 사실상 폐기됐다. 새누리당에서는 3선 국회의원인 정두언 의원(서대문구 을)만 당론을 어기고 투표에 참여했다. 튀는 행동일까? 소신 행보일까? 〈정치토크 돌직구 69회〉에서는 새누리당의 정두언 의원이 출연해 국회법 개정안 재의안 표결 참여 이유와 국회법 개정안을 둘러싼 박 대통령의 ‘유승민 찍어내기’에 대한 입장을 들어봤다.\n진행: 임석규 성한용, 게스트: 정두언, 기술감독: 박성영, 연출: 정주용 이재만",
+      "publishedAt": "2015-07-08T04:06:10Z",
+      "duration": "PT27M38S",
+      "viewCount": 125595,
+      "likeCount": 435,
+      "commentCount": 54,
+      "tags": [
+        "한겨레TV",
+        "정두언",
+        "박근혜",
+        "유승민",
+        "김무성"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2015-07-08T04:06:10Z",
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "collectedAt": "2025-09-03T10:48:12Z"
     }
   },
   "channels": {
@@ -1026,8 +1071,8 @@
       },
       "subscriberCount": 362000,
       "viewCount": 296027619,
-      "videoCount": 6196,
-      "lastUpdated": "2025-09-03T10:01:37.892030Z"
+      "videoCount": 6197,
+      "lastUpdated": "2025-09-03T10:17:05.529280Z"
     },
     "UCHXvjavEtkPFJCfGlm0wTXw": {
       "channelId": "UCHXvjavEtkPFJCfGlm0wTXw",
@@ -1053,8 +1098,8 @@
       },
       "subscriberCount": 537000,
       "viewCount": 354014202,
-      "videoCount": 11630,
-      "lastUpdated": "2025-09-03T10:01:37.892030Z"
+      "videoCount": 11631,
+      "lastUpdated": "2025-09-03T10:17:05.529280Z"
     },
     "UCdp4_yTBhQmB8E339Lafzow": {
       "channelId": "UCdp4_yTBhQmB8E339Lafzow",
@@ -1080,11 +1125,38 @@
       },
       "subscriberCount": 1700000,
       "viewCount": 1669752256,
-      "videoCount": 22783,
-      "lastUpdated": "2025-09-03T10:01:37.892030Z"
+      "videoCount": 22784,
+      "lastUpdated": "2025-09-03T10:17:05.529280Z"
+    },
+    "UCugbqfMO94F9guLEb6Olb2A": {
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "channelUrl": "@hankyorehtv",
+      "channelDescription": "'더불어 행복한 세상을 만드는 언론' 한겨레 공식 유튜브 채널입니다. \n ■ 편성 및 제휴 문의: leepd@hani.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 946000,
+      "viewCount": 586539536,
+      "videoCount": 9682,
+      "lastUpdated": "2025-09-03T10:48:12.508483Z"
     }
   },
-  "lastUpdated": "2025-09-03T10:01:37.892030Z",
-  "totalVideos": 30,
-  "totalChannels": 9
+  "lastUpdated": "2025-09-03T10:48:12.508483Z",
+  "totalVideos": 32,
+  "totalChannels": 10
 }

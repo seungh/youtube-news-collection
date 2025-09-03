@@ -315,6 +315,33 @@
       "channelId": "UCHXvjavEtkPFJCfGlm0wTXw",
       "channelName": "경향티비",
       "collectedAt": "2025-09-03T10:02:32Z"
+    },
+    "cucRcVGGc2w": {
+      "videoId": "cucRcVGGc2w",
+      "title": "[한홍구의 한국현대사 #1] 박정희와 유신 그리고 '서울의 봄'",
+      "description": "광주, 민주화, 그리고 노무현-1\n연출: 이경주 이규호 PD",
+      "publishedAt": "2013-01-10T09:25:38Z",
+      "duration": "PT48M20S",
+      "viewCount": 93391,
+      "likeCount": 1175,
+      "commentCount": 98,
+      "tags": [
+        "한홍구",
+        "근현대사",
+        "한겨레TV",
+        "성공회대학교",
+        "박정희와 유신",
+        "한홍구의 한국현대사",
+        "역사",
+        "한홍구 교수",
+        "직설"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2013-01-10T09:25:38Z",
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "collectedAt": "2025-09-03T10:48:23Z"
     }
   },
   "channels": {
@@ -369,11 +396,38 @@
       },
       "subscriberCount": 537000,
       "viewCount": 354014202,
-      "videoCount": 11630,
-      "lastUpdated": "2025-09-03T10:02:32.472104Z"
+      "videoCount": 11631,
+      "lastUpdated": "2025-09-03T10:17:17.339001Z"
+    },
+    "UCugbqfMO94F9guLEb6Olb2A": {
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "channelUrl": "@hankyorehtv",
+      "channelDescription": "'더불어 행복한 세상을 만드는 언론' 한겨레 공식 유튜브 채널입니다. \n ■ 편성 및 제휴 문의: leepd@hani.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 946000,
+      "viewCount": 586539536,
+      "videoCount": 9682,
+      "lastUpdated": "2025-09-03T10:48:23.630787Z"
     }
   },
-  "lastUpdated": "2025-09-03T10:02:32.472104Z",
-  "totalVideos": 12,
-  "totalChannels": 2
+  "lastUpdated": "2025-09-03T10:48:23.630787Z",
+  "totalVideos": 13,
+  "totalChannels": 3
 }

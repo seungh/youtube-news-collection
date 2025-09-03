@@ -631,6 +631,48 @@
       "channelId": "UCTHCOPwqNfZ0uiKOvFyhGwg",
       "channelName": "연합뉴스TV",
       "collectedAt": "2025-08-29T02:43:36Z"
+    },
+    "e-bcACFXH4o": {
+      "videoId": "e-bcACFXH4o",
+      "title": "“내일도 4·16이다”…세월호 2주기 추모집회",
+      "description": "16일 저녁 7시, 비바람 속에 세월호 2주기 추모집회가 열렸다.",
+      "publishedAt": "2016-04-16T17:54:20Z",
+      "duration": "PT6M59S",
+      "viewCount": 4430,
+      "likeCount": 47,
+      "commentCount": 3,
+      "tags": [
+        "세월호"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2016-04-16T17:54:20Z",
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "collectedAt": "2025-09-03T10:47:52Z"
+    },
+    "5gpiSbub6Yk": {
+      "videoId": "5gpiSbub6Yk",
+      "title": "잊지 않을게, 0416: 진실을 향한 걸음 [세월호 2주기]",
+      "description": "시민 수천명, 희생자들 살던 곳 행진하며 단원고 찾아 추모.\n2016년 4월16일 세월호 참사 2주기. 수천명의 시민들은 안산 정부합동분향소를 출발해 희생자들이 살던 선부동과 고잔동을 거쳐 단원고와 화랑유원지 야외공연장까지 5.2km를 행진했다. 그리고 단원고의 존치교실을 찾아 희생된 학생들과 교사들을 추모했다.\n연출: 이재만\n제작: 한겨레TV",
+      "publishedAt": "2016-04-16T16:39:31Z",
+      "duration": "PT4M47S",
+      "viewCount": 14483,
+      "likeCount": 106,
+      "commentCount": 14,
+      "tags": [
+        "세월호",
+        "세월호 2주기",
+        "잊지 않을게 0416",
+        "단원고",
+        "진실을 향한 걸음"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2016-04-16T16:39:31Z",
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "collectedAt": "2025-09-03T10:47:52Z"
     }
   },
   "channels": {
@@ -768,9 +810,36 @@
       "viewCount": 17649222300,
       "videoCount": 890317,
       "lastUpdated": "2025-08-29T02:43:36.110024Z"
+    },
+    "UCugbqfMO94F9guLEb6Olb2A": {
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "channelUrl": "@hankyorehtv",
+      "channelDescription": "'더불어 행복한 세상을 만드는 언론' 한겨레 공식 유튜브 채널입니다. \n ■ 편성 및 제휴 문의: leepd@hani.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 946000,
+      "viewCount": 586539536,
+      "videoCount": 9682,
+      "lastUpdated": "2025-09-03T10:47:52.946525Z"
     }
   },
-  "lastUpdated": "2025-08-29T02:43:36.110024Z",
-  "totalVideos": 23,
-  "totalChannels": 5
+  "lastUpdated": "2025-09-03T10:47:52.946525Z",
+  "totalVideos": 25,
+  "totalChannels": 6
 }

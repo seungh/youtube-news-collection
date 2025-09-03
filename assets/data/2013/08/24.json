@@ -27,6 +27,44 @@
       "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
       "channelName": "뉴스TVCHOSUN",
       "collectedAt": "2025-08-21T10:46:35Z"
+    },
+    "6P-FRvjMli4": {
+      "videoId": "6P-FRvjMli4",
+      "title": "[한겨레포커스] \"특검 서명운동 벌이자\"...9월14일 대규모 촛불 예고",
+      "description": "국정원 정치개입 사건에 대한 국정조사가 종료된 23일 오후 7시, 청계광장에서 9차 집중 촛불집회가 열렸다. 주최 쪽은 이날 3만여 명이 모였다고 밝혔다.\n박석운 시국회의 공동대표는 기조발언을 통해 국정조사 이후의 운동에 대해 두 가지를 제안했다. 첫째는 특검 관철을 위한 서명운동이다. 박 공동대표는 \"수십만, 수백만이 서명한다면 결국 특검을 받을 수밖에 없을 것\"이라고 말했다. 둘째는 추석과 맞물린 대규모 촛불집회다. 지역에서 산발적으로 일어나고 있는 촛불까지 총결합해 최대규모의 촛불집회를 만들어 보자는 것이다.",
+      "publishedAt": "2013-08-23T15:05:36Z",
+      "duration": "PT2M7S",
+      "viewCount": 12171,
+      "likeCount": 47,
+      "commentCount": 4,
+      "tags": [
+        "한겨레",
+        "포커스",
+        "한겨레포커스",
+        "국정원",
+        "심리전단",
+        "댓글",
+        "종북",
+        "원세훈",
+        "박근혜",
+        "권영세",
+        "김무성",
+        "게이트",
+        "촛불",
+        "집회",
+        "시위",
+        "시국선언",
+        "시국회의",
+        "김용판",
+        "우원식",
+        "박석운"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2013-08-23T15:05:36Z",
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "collectedAt": "2025-09-03T10:48:23Z"
     }
   },
   "channels": {
@@ -56,9 +94,36 @@
       "viewCount": 4319423561,
       "videoCount": 150855,
       "lastUpdated": "2025-08-21T10:29:10.477932Z"
+    },
+    "UCugbqfMO94F9guLEb6Olb2A": {
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "channelUrl": "@hankyorehtv",
+      "channelDescription": "'더불어 행복한 세상을 만드는 언론' 한겨레 공식 유튜브 채널입니다. \n ■ 편성 및 제휴 문의: leepd@hani.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 946000,
+      "viewCount": 586539536,
+      "videoCount": 9682,
+      "lastUpdated": "2025-09-03T10:48:23.460468Z"
     }
   },
-  "lastUpdated": "2025-08-21T10:46:35.591206Z",
-  "totalVideos": 1,
-  "totalChannels": 1
+  "lastUpdated": "2025-09-03T10:48:23.460468Z",
+  "totalVideos": 2,
+  "totalChannels": 2
 }

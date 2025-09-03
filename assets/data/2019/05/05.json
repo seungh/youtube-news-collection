@@ -4151,6 +4151,31 @@
       "channelId": "UCnHyx6H7fhKfUoAAaVGYvxQ",
       "channelName": "동아일보",
       "collectedAt": "2025-09-03T10:00:51Z"
+    },
+    "3DIb9F9ATNE": {
+      "videoId": "3DIb9F9ATNE",
+      "title": "‘내 목소리 흉내’ 인공지능 동화 읽기 직접 해보니",
+      "description": "*영상 자막 중 ‘클로바‘를 클로버로 잘 못 적었는데 ‘클로바’가 맞습니다. \n인공지능 스피커가 아빠·엄마의 목소리로 대신 책을 읽어준다. 이 서비스엔 ‘개인화 음성합성 기술’이 적용됐다. 이 기술은 사용자의 음색과 억양·어조·끊어 읽기 등을 인공지능 시스템이 학습하고, 전문 성우의 장시간 녹음을 통해 텍스트를 음성으로 바꿀 수 있는 ‘베이스 모델’이 사용자의 목소리를 성대모사하는 것을 말한다. 쉽게 말해, 케이티 기가지니의 ‘지니’가 내 목소리를 흉내내는 것이라고 보면 된다. \nhttp://www.hani.co.kr/arti/economy/it/892649.html\n\n● 기획/ 취재 박태우, 연출 조소영 \n\n ●〈한겨레TV〉 유튜브 채널 구독하기 -https://goo.gl/vYg2yI\n\n■ 한겨레 채널 모음\n▶ 인터넷한겨레: http://www.hani.co.kr\n▶ 한겨레TV: http://www.hanitv.com/\n▶ 한겨레TV 페이스북: https://www.facebook.com/hankyorehtv/\n▶ 한겨레신문 구독: https://goo.gl/MBKMLD\n▶ 영상과 취재 관련 제보: pd295@hani.co.kr\n\n#한겨레TV #내목소리동화 #음성합성",
+      "publishedAt": "2019-05-05T06:47:32Z",
+      "duration": "PT5M6S",
+      "viewCount": 14204,
+      "likeCount": 116,
+      "commentCount": 9,
+      "tags": [
+        "한겨레",
+        "한겨레TV",
+        "Hankyoreh",
+        "HankyorehTV",
+        "korea",
+        "한국",
+        "대한민국"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2019-05-05T06:47:32Z",
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "collectedAt": "2025-09-03T10:48:29Z"
     }
   },
   "channels": {
@@ -4450,9 +4475,36 @@
       "viewCount": 47341564,
       "videoCount": 4079,
       "lastUpdated": "2025-09-03T10:00:51.338798Z"
+    },
+    "UCugbqfMO94F9guLEb6Olb2A": {
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "channelUrl": "@hankyorehtv",
+      "channelDescription": "'더불어 행복한 세상을 만드는 언론' 한겨레 공식 유튜브 채널입니다. \n ■ 편성 및 제휴 문의: leepd@hani.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 946000,
+      "viewCount": 586539536,
+      "videoCount": 9682,
+      "lastUpdated": "2025-09-03T10:48:29.876094Z"
     }
   },
-  "lastUpdated": "2025-09-03T10:00:51.338798Z",
-  "totalVideos": 129,
-  "totalChannels": 11
+  "lastUpdated": "2025-09-03T10:48:29.876094Z",
+  "totalVideos": 130,
+  "totalChannels": 12
 }

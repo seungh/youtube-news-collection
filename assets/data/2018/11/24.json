@@ -5221,6 +5221,30 @@
       "channelId": "UCdp4_yTBhQmB8E339Lafzow",
       "channelName": "조선일보",
       "collectedAt": "2025-09-03T10:02:42Z"
+    },
+    "sYoR5i_HERI": {
+      "videoId": "sYoR5i_HERI",
+      "title": "하늘에서 눈이 펑펑! 첫눈 온 서울 풍경",
+      "description": "#서울 #첫눈 #첫눈으로는최대치\n\n24일 서울에 내린 첫눈이 8.8㎝ 쌓이며 관련 기록이 있는 1981년 이래 최대치를 기록했다\n\n+--------------------------------------------------------------------------------+ \n\n◈ 중앙일보 공식 SNS 채널 ◈\n\n- 페이스북 : https://www.facebook.com/joongang/\n- 인스타그램 : https://www.instagram.com/joongangilbo\n- 트위터 : http://www.twitter.com/joongangilbo\n- 유튜브 : https://goo.gl/DyGoPC\n- 네이버 TV : http://tvcast.naver.com/joongangsisa\n- 네이버포스트 : https://goo.gl/eeYh4k\n\n당신이 원하는 뉴스,\n중앙일보 SNS 채널과 함께하세요.\n\n+--------------------------------------------------------------------------------+",
+      "publishedAt": "2018-11-24T02:58:17Z",
+      "duration": "PT41S",
+      "viewCount": 491,
+      "likeCount": 3,
+      "commentCount": 0,
+      "tags": [
+        "중앙일보",
+        "첫눈",
+        "눈",
+        "snow",
+        "서울첫눈",
+        "대설주의보"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2018-11-24T02:58:17Z",
+      "channelId": "UCH3mJ-nHxjjny2FJbJaqiDA",
+      "channelName": "중앙일보",
+      "collectedAt": "2025-09-03T10:49:17Z"
     }
   },
   "channels": {
@@ -5545,11 +5569,38 @@
       },
       "subscriberCount": 1700000,
       "viewCount": 1669752256,
-      "videoCount": 22783,
-      "lastUpdated": "2025-09-03T10:02:42.577532Z"
+      "videoCount": 22784,
+      "lastUpdated": "2025-09-03T10:18:00.150546Z"
+    },
+    "UCH3mJ-nHxjjny2FJbJaqiDA": {
+      "channelId": "UCH3mJ-nHxjjny2FJbJaqiDA",
+      "channelName": "중앙일보",
+      "channelUrl": "@joongangilbo",
+      "channelDescription": "현장의 진실을 중앙에 두다.",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/iqcE5aK4gFUjm5A-QO4FLDCDrTgOXTfU3oCyirTZcT9Ev1i_sKtx82GqfF2rPDfbBgFtBqL0uw=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/iqcE5aK4gFUjm5A-QO4FLDCDrTgOXTfU3oCyirTZcT9Ev1i_sKtx82GqfF2rPDfbBgFtBqL0uw=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/iqcE5aK4gFUjm5A-QO4FLDCDrTgOXTfU3oCyirTZcT9Ev1i_sKtx82GqfF2rPDfbBgFtBqL0uw=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 555000,
+      "viewCount": 475518285,
+      "videoCount": 18651,
+      "lastUpdated": "2025-09-03T10:49:17.119335Z"
     }
   },
-  "lastUpdated": "2025-09-03T10:02:42.577532Z",
-  "totalVideos": 157,
-  "totalChannels": 12
+  "lastUpdated": "2025-09-03T10:49:17.119335Z",
+  "totalVideos": 158,
+  "totalChannels": 13
 }

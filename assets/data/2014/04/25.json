@@ -953,6 +953,75 @@
       "channelId": "UCdp4_yTBhQmB8E339Lafzow",
       "channelName": "조선일보",
       "collectedAt": "2025-09-03T10:02:46Z"
+    },
+    "8XKbV9GmYsE": {
+      "videoId": "8XKbV9GmYsE",
+      "title": "그날 이후 [한겨레포커스]",
+      "description": "2014년 4월16일, 전남 진도 앞바다에서 여객선 세월호가 침몰했다. 그날로부터 열흘, 짧은 시간이 흘렀지만 많은 것들이 변했다. 재잘거림으로 가득했던 학교는 침묵으로 무겁게 가라앉았고, 30년간 둘이었던 부부는 기다림 속에 빠졌다.\n하지만 변할 수 없는 것들도 있다. 우정, 사랑, 책임감, 기다림...\n변한 것, 변하지 않은 것, 변해야 하는 것, 변하지 말아야 하는 것들. 우리는 이것들 모두를 잊지 말아야 한다.\n김도성 피디 kdspd@hani.co.kr",
+      "publishedAt": "2014-04-25T11:41:07Z",
+      "duration": "PT2M44S",
+      "viewCount": 27551,
+      "likeCount": 55,
+      "commentCount": 3,
+      "tags": [
+        "한겨레",
+        "포커스",
+        "한겨레포커스",
+        "세월호",
+        "여객선",
+        "침몰",
+        "안산",
+        "단원고",
+        "문화광장",
+        "촛불",
+        "김장수",
+        "박근혜"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2014-04-25T11:41:07Z",
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "collectedAt": "2025-09-03T10:47:54Z"
+    },
+    "xCOqZ4YR5y0": {
+      "videoId": "xCOqZ4YR5y0",
+      "title": "세월호 임시합동분향소...끊이지 않는 추모행렬",
+      "description": "25일 경기도 안산 단원구 고잔동 안산올림픽 실내체육관에 마련된 '세월호 사고 희생자 임시분향소'에서 조문객들이 눈물을 흘리고 있다.",
+      "publishedAt": "2014-04-25T10:00:01Z",
+      "duration": "PT2M55S",
+      "viewCount": 76558,
+      "likeCount": 198,
+      "commentCount": 46,
+      "tags": [
+        "세월호",
+        "안산",
+        "임시분향소",
+        "올림픽기념관"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2014-04-25T10:00:01Z",
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "collectedAt": "2025-09-03T10:47:54Z"
+    },
+    "nLrqB7qe6Ok": {
+      "videoId": "nLrqB7qe6Ok",
+      "title": "'노란리본'에 기적의 염원 담아...",
+      "description": "'노란리본'에 기적의 염원 담아...\n\n2014년 4월24일 서울 청계광장에는 실종자들의 무사생환을 바라는 노란리본들이 곳곳에 매달려있었다. 노란리본에는 \"꼭 돌아와 달라\"며 기적을 염원하는 메세지와 \"지켜주지 못해서 미안하다\"는 사과의 메세지들로 가득했다.",
+      "publishedAt": "2014-04-24T15:25:25Z",
+      "duration": "PT2M17S",
+      "viewCount": 6514,
+      "likeCount": 19,
+      "commentCount": 1,
+      "tags": [],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2014-04-24T15:25:25Z",
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "collectedAt": "2025-09-03T10:47:54Z"
     }
   },
   "channels": {
@@ -1061,11 +1130,38 @@
       },
       "subscriberCount": 1700000,
       "viewCount": 1669752256,
-      "videoCount": 22783,
-      "lastUpdated": "2025-09-03T10:02:46.513783Z"
+      "videoCount": 22784,
+      "lastUpdated": "2025-09-03T10:18:03.683687Z"
+    },
+    "UCugbqfMO94F9guLEb6Olb2A": {
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "channelUrl": "@hankyorehtv",
+      "channelDescription": "'더불어 행복한 세상을 만드는 언론' 한겨레 공식 유튜브 채널입니다. \n ■ 편성 및 제휴 문의: leepd@hani.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 946000,
+      "viewCount": 586539536,
+      "videoCount": 9682,
+      "lastUpdated": "2025-09-03T10:47:54.420048Z"
     }
   },
-  "lastUpdated": "2025-09-03T10:02:46.513783Z",
-  "totalVideos": 27,
-  "totalChannels": 4
+  "lastUpdated": "2025-09-03T10:47:54.420048Z",
+  "totalVideos": 30,
+  "totalChannels": 5
 }

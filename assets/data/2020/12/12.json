@@ -6881,6 +6881,34 @@
       "channelId": "UC1aS5CRRDrN6CmR2VcpmetA",
       "channelName": "한국일보(hankookilbo.com)",
       "collectedAt": "2025-09-03T10:00:48Z"
+    },
+    "i2aQZjV7sJY": {
+      "videoId": "i2aQZjV7sJY",
+      "title": "BMW 530i vs 벤츠 E350, 400m 드래그 레이스 승자는? │ #천車만별",
+      "description": "올 연말 수입차 시장에서 가장 뜨거운 두 차종은 BMW 5시리즈와 메르세데스-벤츠 E클래스다. 둘 다 10월 부분변경(페이스리프트) 모델 내놓으면서 수입차 1위 놓고 치열한 경쟁을 벌이고 있다. 부분변경 출시 첫 대결인 10월엔 5시리즈가 격차를 줄였지만 11월 다시 벌어지면서 벤츠의 독주와 BMW의 추격전 격화되고 있다. \n\nBMW 530i XDrive와 메르세데스-벤츠 E350 4AMTIC 동급 차량의 전격 비교해 봤다. BMW의 ‘본진’인 인천 영종도 BMW 드라이빙 센터에서 서킷 주행해봤다.\n\n#자동차비교 #530i #E350",
+      "publishedAt": "2020-12-11T23:00:23Z",
+      "duration": "PT14M9S",
+      "viewCount": 17428,
+      "likeCount": 98,
+      "commentCount": 92,
+      "tags": [
+        "중앙일보",
+        "천차만별",
+        "천車만별",
+        "BMW",
+        "벤츠",
+        "BMW 530i",
+        "벤츠 E350",
+        "수입차",
+        "차 비교",
+        "자동차 비교"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2020-12-11T23:00:23Z",
+      "channelId": "UCH3mJ-nHxjjny2FJbJaqiDA",
+      "channelName": "중앙일보",
+      "collectedAt": "2025-09-03T10:49:03Z"
     }
   },
   "channels": {
@@ -7123,9 +7151,9 @@
         }
       },
       "subscriberCount": 1340000,
-      "viewCount": 870924917,
-      "videoCount": 32030,
-      "lastUpdated": "2025-08-24T21:52:56.586551Z"
+      "viewCount": 871828833,
+      "videoCount": 32204,
+      "lastUpdated": "2025-09-03T10:52:57.202098Z"
     },
     "UCkinYTS9IHqOEwR1Sze2JTw": {
       "channelId": "UCkinYTS9IHqOEwR1Sze2JTw",
@@ -7367,11 +7395,38 @@
       },
       "subscriberCount": 362000,
       "viewCount": 296027619,
-      "videoCount": 6196,
-      "lastUpdated": "2025-09-03T10:00:48.556584Z"
+      "videoCount": 6197,
+      "lastUpdated": "2025-09-03T10:16:08.067118Z"
+    },
+    "UCH3mJ-nHxjjny2FJbJaqiDA": {
+      "channelId": "UCH3mJ-nHxjjny2FJbJaqiDA",
+      "channelName": "중앙일보",
+      "channelUrl": "@joongangilbo",
+      "channelDescription": "현장의 진실을 중앙에 두다.",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/iqcE5aK4gFUjm5A-QO4FLDCDrTgOXTfU3oCyirTZcT9Ev1i_sKtx82GqfF2rPDfbBgFtBqL0uw=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/iqcE5aK4gFUjm5A-QO4FLDCDrTgOXTfU3oCyirTZcT9Ev1i_sKtx82GqfF2rPDfbBgFtBqL0uw=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/iqcE5aK4gFUjm5A-QO4FLDCDrTgOXTfU3oCyirTZcT9Ev1i_sKtx82GqfF2rPDfbBgFtBqL0uw=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 555000,
+      "viewCount": 475518285,
+      "videoCount": 18651,
+      "lastUpdated": "2025-09-03T10:49:03.806301Z"
     }
   },
-  "lastUpdated": "2025-09-03T10:00:48.556584Z",
-  "totalVideos": 208,
-  "totalChannels": 18
+  "lastUpdated": "2025-09-03T10:52:57.202098Z",
+  "totalVideos": 209,
+  "totalChannels": 19
 }

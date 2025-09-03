@@ -5317,6 +5317,41 @@
       "channelId": "UCTHCOPwqNfZ0uiKOvFyhGwg",
       "channelName": "연합뉴스TV",
       "collectedAt": "2025-08-29T02:43:25Z"
+    },
+    "m_Z7Bu1CC28": {
+      "videoId": "m_Z7Bu1CC28",
+      "title": "한국 대중음악 100대 명반 #9 (11위-20위)",
+      "description": "한겨레X멜론X태림스코어 공동기획 ‘한국 대중음악 명반 100’\n음악평론가, 음악방송 피디, 음악 전문 기자 등 47명이 투표한 결과를 바탕으로 1위부터 100위까지 순위를 매겼습니다. 8월28일부터 9월28일까지 한 달 동안 순위를 역순으로 공개하고, 그 가운데 노래 두곡을 뽑아 소개합니다.\n\n20위 어떤날 〈어떤날 II〉(1989)\n19위 듀스 ＜Force Deux＞(1995)\n18위 델리 스파이스 ＜Deli Spice＞(1997)\n17위 한영애 〈바라본다(2집)〉(1988)\n16위 김현식 ＜김현식 III＞(1986)\n15위 사랑과 평화 〈한동안 뜸 했었지(1집)〉(1977)\n14위 시인과 촌장 〈푸른 돛(2집)〉(1986)\n13위 이문세 〈이문세 4〉(1987)\n12위 김현철 ＜김현철 Vol.1＞(1989)\n11위 장필순 〈나의 외로움이 널 부를 때(5집)〉(1997)\n\n●〈한겨레TV〉 유튜브 채널 구독하기 -https://goo.gl/vYg2yI\n\n■ 한겨레 채널 모음\n▶ 인터넷한겨레: http://www.hani.co.kr\n▶ 한겨레TV: http://www.hanitv.com/\n▶ 한겨레TV 페이스북: https://www.facebook.com/hankyorehtv/\n▶ 한겨레신문 구독: https://goo.gl/MBKMLD\n▶ 영상과 취재 관련 제보: pd295@hani.co.kr\n\n#명반100 #킬링트랙 #한겨레x멜론x 태림스코어",
+      "publishedAt": "2018-09-25T03:53:04Z",
+      "duration": "PT4M48S",
+      "viewCount": 9077,
+      "likeCount": 52,
+      "commentCount": 11,
+      "tags": [
+        "한겨레",
+        "한겨레TV",
+        "Hankyoreh",
+        "HankyorehTV",
+        "korea",
+        "한국",
+        "대한민국",
+        "서정민",
+        "킬링트랙",
+        "멜론",
+        "태림스코어",
+        "델리스파이스",
+        "김현철",
+        "동네",
+        "응답하라1988 동네",
+        "너의 목소리가 들려",
+        "챠우챠우"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2018-09-25T03:53:04Z",
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "collectedAt": "2025-09-03T10:47:47Z"
     }
   },
   "channels": {
@@ -5670,9 +5705,36 @@
       "viewCount": 3351994752,
       "videoCount": 627296,
       "lastUpdated": "2025-08-29T02:43:25.147423Z"
+    },
+    "UCugbqfMO94F9guLEb6Olb2A": {
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "channelUrl": "@hankyorehtv",
+      "channelDescription": "'더불어 행복한 세상을 만드는 언론' 한겨레 공식 유튜브 채널입니다. \n ■ 편성 및 제휴 문의: leepd@hani.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 946000,
+      "viewCount": 586539536,
+      "videoCount": 9682,
+      "lastUpdated": "2025-09-03T10:47:47.930683Z"
     }
   },
-  "lastUpdated": "2025-08-29T02:43:25.147423Z",
-  "totalVideos": 171,
-  "totalChannels": 13
+  "lastUpdated": "2025-09-03T10:47:47.930683Z",
+  "totalVideos": 172,
+  "totalChannels": 14
 }

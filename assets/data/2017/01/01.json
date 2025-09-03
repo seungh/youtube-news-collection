@@ -938,6 +938,29 @@
       "channelId": "UCdp4_yTBhQmB8E339Lafzow",
       "channelName": "조선일보",
       "collectedAt": "2025-09-03T10:02:00Z"
+    },
+    "jD47vbGBECY": {
+      "videoId": "jD47vbGBECY",
+      "title": "▶[시민마이크] 2017년 대한민국에 원하는 점◀",
+      "description": "2017년 대한민국에 원하는 점은 무엇인가요?",
+      "publishedAt": "2017-01-01T01:06:09Z",
+      "duration": "PT39S",
+      "viewCount": 605,
+      "likeCount": 1,
+      "commentCount": 0,
+      "tags": [
+        "중앙일보",
+        "대한민국",
+        "정유년",
+        "2017년",
+        "시민마이크"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2017-01-01T01:06:09Z",
+      "channelId": "UCH3mJ-nHxjjny2FJbJaqiDA",
+      "channelName": "중앙일보",
+      "collectedAt": "2025-09-03T10:49:20Z"
     }
   },
   "channels": {
@@ -1127,8 +1150,8 @@
       },
       "subscriberCount": 362000,
       "viewCount": 296027619,
-      "videoCount": 6196,
-      "lastUpdated": "2025-09-03T10:02:00.911524Z"
+      "videoCount": 6197,
+      "lastUpdated": "2025-09-03T10:16:55.513934Z"
     },
     "UCHXvjavEtkPFJCfGlm0wTXw": {
       "channelId": "UCHXvjavEtkPFJCfGlm0wTXw",
@@ -1154,8 +1177,8 @@
       },
       "subscriberCount": 537000,
       "viewCount": 354014202,
-      "videoCount": 11630,
-      "lastUpdated": "2025-09-03T10:02:00.911524Z"
+      "videoCount": 11631,
+      "lastUpdated": "2025-09-03T10:16:55.513934Z"
     },
     "UCdp4_yTBhQmB8E339Lafzow": {
       "channelId": "UCdp4_yTBhQmB8E339Lafzow",
@@ -1181,11 +1204,38 @@
       },
       "subscriberCount": 1700000,
       "viewCount": 1669752256,
-      "videoCount": 22783,
-      "lastUpdated": "2025-09-03T10:02:00.911524Z"
+      "videoCount": 22784,
+      "lastUpdated": "2025-09-03T10:16:55.513934Z"
+    },
+    "UCH3mJ-nHxjjny2FJbJaqiDA": {
+      "channelId": "UCH3mJ-nHxjjny2FJbJaqiDA",
+      "channelName": "중앙일보",
+      "channelUrl": "@joongangilbo",
+      "channelDescription": "현장의 진실을 중앙에 두다.",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/iqcE5aK4gFUjm5A-QO4FLDCDrTgOXTfU3oCyirTZcT9Ev1i_sKtx82GqfF2rPDfbBgFtBqL0uw=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/iqcE5aK4gFUjm5A-QO4FLDCDrTgOXTfU3oCyirTZcT9Ev1i_sKtx82GqfF2rPDfbBgFtBqL0uw=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/iqcE5aK4gFUjm5A-QO4FLDCDrTgOXTfU3oCyirTZcT9Ev1i_sKtx82GqfF2rPDfbBgFtBqL0uw=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 555000,
+      "viewCount": 475518285,
+      "videoCount": 18651,
+      "lastUpdated": "2025-09-03T10:49:20.871464Z"
     }
   },
-  "lastUpdated": "2025-09-03T10:02:00.911524Z",
-  "totalVideos": 39,
-  "totalChannels": 9
+  "lastUpdated": "2025-09-03T10:49:20.871464Z",
+  "totalVideos": 40,
+  "totalChannels": 10
 }

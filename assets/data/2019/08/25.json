@@ -5689,6 +5689,51 @@
       "channelId": "UCnHyx6H7fhKfUoAAaVGYvxQ",
       "channelName": "동아일보",
       "collectedAt": "2025-09-03T10:00:36Z"
+    },
+    "ieeQ151Hx2U": {
+      "videoId": "ieeQ151Hx2U",
+      "title": "[중앙일보] 독도방어훈련에 사상 최초 이지스함 투입",
+      "description": "+--------------------------------------------------------------------------------+ \n\n◈ 중앙일보 공식 SNS 채널 ◈\n\n- 페이스북 : https://www.facebook.com/joongang/\n- 인스타그램 : https://www.instagram.com/joongangilbo\n- 트위터 : http://www.twitter.com/joongangilbo\n- 유튜브 : https://goo.gl/DyGoPC\n- 네이버 TV : http://tvcast.naver.com/joongangsisa\n- 네이버포스트 : https://goo.gl/eeYh4k\n\n당신이 원하는 뉴스,\n중앙일보 SNS 채널과 함께하세요.\n\n+--------------------------------------------------------------------------------+",
+      "publishedAt": "2019-08-25T08:52:42Z",
+      "duration": "PT39S",
+      "viewCount": 616,
+      "likeCount": 12,
+      "commentCount": 2,
+      "tags": [
+        "중앙일보",
+        "독도",
+        "독도영토수호",
+        "지소미아"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2019-08-25T08:52:42Z",
+      "channelId": "UCH3mJ-nHxjjny2FJbJaqiDA",
+      "channelName": "중앙일보",
+      "collectedAt": "2025-09-03T10:49:15Z"
+    },
+    "x1dYfaurGf4": {
+      "videoId": "x1dYfaurGf4",
+      "title": "[중앙일보] 조국 \"고통스럽다고 내가 짊어진 짐 내려놓을 수 없다\"",
+      "description": "+--------------------------------------------------------------------------------+ \n\n◈ 중앙일보 공식 SNS 채널 ◈\n\n- 페이스북 : https://www.facebook.com/joongang/\n- 인스타그램 : https://www.instagram.com/joongangilbo\n- 트위터 : http://www.twitter.com/joongangilbo\n- 유튜브 : https://goo.gl/DyGoPC\n- 네이버 TV : http://tvcast.naver.com/joongangsisa\n- 네이버포스트 : https://goo.gl/eeYh4k\n\n당신이 원하는 뉴스,\n중앙일보 SNS 채널과 함께하세요.\n\n+--------------------------------------------------------------------------------+",
+      "publishedAt": "2019-08-25T04:44:08Z",
+      "duration": "PT4M32S",
+      "viewCount": 1067,
+      "likeCount": 22,
+      "commentCount": 61,
+      "tags": [
+        "중앙일보",
+        "조국",
+        "논란",
+        "법무부 장관 후보자",
+        "촛불집회"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2019-08-25T04:44:08Z",
+      "channelId": "UCH3mJ-nHxjjny2FJbJaqiDA",
+      "channelName": "중앙일보",
+      "collectedAt": "2025-09-03T10:49:15Z"
     }
   },
   "channels": {
@@ -5988,9 +6033,36 @@
       "viewCount": 47341564,
       "videoCount": 4079,
       "lastUpdated": "2025-09-03T10:00:36.042549Z"
+    },
+    "UCH3mJ-nHxjjny2FJbJaqiDA": {
+      "channelId": "UCH3mJ-nHxjjny2FJbJaqiDA",
+      "channelName": "중앙일보",
+      "channelUrl": "@joongangilbo",
+      "channelDescription": "현장의 진실을 중앙에 두다.",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/iqcE5aK4gFUjm5A-QO4FLDCDrTgOXTfU3oCyirTZcT9Ev1i_sKtx82GqfF2rPDfbBgFtBqL0uw=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/iqcE5aK4gFUjm5A-QO4FLDCDrTgOXTfU3oCyirTZcT9Ev1i_sKtx82GqfF2rPDfbBgFtBqL0uw=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/iqcE5aK4gFUjm5A-QO4FLDCDrTgOXTfU3oCyirTZcT9Ev1i_sKtx82GqfF2rPDfbBgFtBqL0uw=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 555000,
+      "viewCount": 475518285,
+      "videoCount": 18651,
+      "lastUpdated": "2025-09-03T10:49:15.839598Z"
     }
   },
-  "lastUpdated": "2025-09-03T10:00:36.042549Z",
-  "totalVideos": 164,
-  "totalChannels": 11
+  "lastUpdated": "2025-09-03T10:49:15.839598Z",
+  "totalVideos": 166,
+  "totalChannels": 12
 }

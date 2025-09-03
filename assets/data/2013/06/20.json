@@ -232,6 +232,50 @@
       "channelId": "UCHXvjavEtkPFJCfGlm0wTXw",
       "channelName": "경향티비",
       "collectedAt": "2025-09-03T10:02:30Z"
+    },
+    "hBfLR-c7vn8": {
+      "videoId": "hBfLR-c7vn8",
+      "title": "2013년, 한겨레신문사 2차 열린편집위원회",
+      "description": "한겨레가 창간 25돌을 맞아 지난 5월 발족한 제1기 한겨레열린편집위원회 제2차 회의가 13일 열렸다. 이번 회의에선 5월20일 지면개편 이후 새로 선보인 여러 기획을 중심으로 토론이 진행됐다. 특히 '사설 속으로' '전두환 재산찾기 크라우드소싱' '진주녀' 기획에 대한 외부 열린편집위원들의 관심이 높았다. 신인령 위원장의 사회로 서울 마포구 공덕동 한겨레신문사 6층 회의실에서 열린 2차 회의 내용을 정리해 지상 중계한다",
+      "publishedAt": "2013-06-20T01:09:25Z",
+      "duration": "PT2H4M30S",
+      "viewCount": 1701,
+      "likeCount": 5,
+      "commentCount": 0,
+      "tags": [
+        "한겨레신문",
+        "열린편집위원회",
+        "독자참여"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2013-06-20T01:09:25Z",
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "collectedAt": "2025-09-03T10:47:51Z"
+    },
+    "8uruSuDR9Dw": {
+      "videoId": "8uruSuDR9Dw",
+      "title": "[한겨레 캐스트 #119] 위기의 한국 축구, 누가 구할까?",
+      "description": "◆주요내용\n\n-월드컵 8연속 출전 국가는?\n\n-답답한 경기내용 이유는?\n\n-지도력의 문제인가?\n\n-본선 진출에도 성공적이라고 말 못하는 이유는?\n\n-최강희호의 후퇴 점은?\n\n-일부 유럽파 발탁되지 않은 배경은?\n\n-최강희 감독과 조광래 감독 비교한다면?\n\n-홍명보 감독의 장점은?\n\n-홍명보 감독의 약점은?\n\n-한국 축구의 전망은?",
+      "publishedAt": "2013-06-20T11:49:10Z",
+      "duration": "PT19M21S",
+      "viewCount": 5102,
+      "likeCount": 14,
+      "commentCount": 2,
+      "tags": [
+        "한겨레TV",
+        "최강희",
+        "조광래",
+        "홍명보",
+        "박지성"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2013-06-20T11:49:10Z",
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "collectedAt": "2025-09-03T10:47:51Z"
     }
   },
   "channels": {
@@ -313,11 +357,38 @@
       },
       "subscriberCount": 537000,
       "viewCount": 354014202,
-      "videoCount": 11630,
-      "lastUpdated": "2025-09-03T10:02:30.166293Z"
+      "videoCount": 11631,
+      "lastUpdated": "2025-09-03T10:17:15.562870Z"
+    },
+    "UCugbqfMO94F9guLEb6Olb2A": {
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "channelUrl": "@hankyorehtv",
+      "channelDescription": "'더불어 행복한 세상을 만드는 언론' 한겨레 공식 유튜브 채널입니다. \n ■ 편성 및 제휴 문의: leepd@hani.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 946000,
+      "viewCount": 586539536,
+      "videoCount": 9682,
+      "lastUpdated": "2025-09-03T10:47:51.626601Z"
     }
   },
-  "lastUpdated": "2025-09-03T10:02:30.166293Z",
-  "totalVideos": 8,
-  "totalChannels": 3
+  "lastUpdated": "2025-09-03T10:47:51.626601Z",
+  "totalVideos": 10,
+  "totalChannels": 4
 }

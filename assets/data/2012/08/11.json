@@ -53,6 +53,27 @@
       "channelId": "UCHXvjavEtkPFJCfGlm0wTXw",
       "channelName": "경향티비",
       "collectedAt": "2025-09-03T10:02:33Z"
+    },
+    "mHvyNxHhk8E": {
+      "videoId": "mHvyNxHhk8E",
+      "title": "[#최재봉의공간] 안도현의  '구이구산'",
+      "description": "이번주 [최재봉의 공간]은 안도현 시인을 만났습니다.\r\n \r\n 오전 아홉시면 이 집으로 출근해 저녁 대여섯시에 퇴근하는 생활이 이어졌다. 책 몇 권과 노트북 컴퓨터가 유일한 작업 도구였다. 텔레비전은 물론 라디오도 없었다. 뒹굴면서 책을 읽거나 글을 쓰다가 지치면 마당의 풀을 뽑거나 담 밑에 심은 채소를 들여다보았다. 그렇게 전주 아파트와 시골 집을 오가면서 여러 권의 산문집도 냈지만, 무엇보다 많은 시를 건진 것이 뿌듯했다. 이 집을 드나드는 동안 그는 다섯 권의 시집을 펴냈다. 이 집과 주변의 자연을 소재로 쓴 시들만도 100편은 넘을 것이라고 그는 추정했다. 그렇게, 이곳 시골집에서 그는 남부럽잖은 부자다.   \r\n\r\n관련기사: 박쥐와 풍뎅이에게 폐를 끼쳐서야 되겠는가\r\nhttp://www.hani.co.kr/arti/SERIES/349/546630.html\r\n한겨레TV '최재봉의 공간' 묶음: http://www.hanitv.com/?mid=tv&category=1589\r\n팟캐스트:  http://itunes.apple.com/kr/podcast/choejaebong-ui-gong-gan-video/id541795605\r\n\r\n기획: 최재봉/ 연출: 조소영",
+      "publishedAt": "2012-08-10T23:27:42Z",
+      "duration": "PT3M8S",
+      "viewCount": 8467,
+      "likeCount": 44,
+      "commentCount": 1,
+      "tags": [
+        "최재봉의 공간",
+        "안도현",
+        "한겨레tv"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2012-08-10T23:27:42Z",
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "collectedAt": "2025-09-03T10:48:25Z"
     }
   },
   "channels": {
@@ -80,11 +101,38 @@
       },
       "subscriberCount": 537000,
       "viewCount": 354014202,
-      "videoCount": 11630,
-      "lastUpdated": "2025-09-03T10:02:33.155579Z"
+      "videoCount": 11631,
+      "lastUpdated": "2025-09-03T10:17:18.750560Z"
+    },
+    "UCugbqfMO94F9guLEb6Olb2A": {
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "channelUrl": "@hankyorehtv",
+      "channelDescription": "'더불어 행복한 세상을 만드는 언론' 한겨레 공식 유튜브 채널입니다. \n ■ 편성 및 제휴 문의: leepd@hani.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 946000,
+      "viewCount": 586539536,
+      "videoCount": 9682,
+      "lastUpdated": "2025-09-03T10:48:25.006454Z"
     }
   },
-  "lastUpdated": "2025-09-03T10:02:33.155579Z",
-  "totalVideos": 2,
-  "totalChannels": 1
+  "lastUpdated": "2025-09-03T10:48:25.006454Z",
+  "totalVideos": 3,
+  "totalChannels": 2
 }

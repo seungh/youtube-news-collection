@@ -89,6 +89,56 @@
       "channelId": "UCHXvjavEtkPFJCfGlm0wTXw",
       "channelName": "경향티비",
       "collectedAt": "2025-09-03T10:02:33Z"
+    },
+    "n5PNbW68EBY": {
+      "videoId": "n5PNbW68EBY",
+      "title": "[정PD가 보고 있다] 장애인 보험가입의 불편한 진실",
+      "description": "장애인은 보험가입이 안 된다? 장애인차별금지추진연대를 비롯한 장애인 단체들이 25일 오전 11시 국가 인권위원회 앞에 모였다. 이들은 장애인들의 보험가입 차별과 관련된 51건의 진정서를 인권위에 제출했다. 요즘, 묻지도 않고, 따지지도 않는 다는 보험가입에 차별이 있다? 무진단, 무심사를 내세우는 보험사들. 장애인들은 왜 보험가입이 안 되는 걸까?\r\n\r\n연출 정주용 j2yong@hani.co.kr\r\n팟캐스트 http://itunes.apple.com/kr/podcast/jeongpdga-bogo-issda-jeongboda/id541496836",
+      "publishedAt": "2012-07-25T10:24:10Z",
+      "duration": "PT3M23S",
+      "viewCount": 1802,
+      "likeCount": 9,
+      "commentCount": 0,
+      "tags": [
+        "한겨레TV",
+        "정PD",
+        "정PD가 보고 있다",
+        "정보다",
+        "장애인",
+        "보험",
+        "인권위"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2012-07-25T10:24:10Z",
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "collectedAt": "2025-09-03T10:48:24Z"
+    },
+    "qD2gStkYxiU": {
+      "videoId": "qD2gStkYxiU",
+      "title": "[예고 엔딩크레디트세줄밑] 연가시 감염연기 지도한 이용직씨",
+      "description": "* 금요일자 한겨레신문에 출고되는 [엔딩크레디트 세줄밑] 예고 영상입니다. 이번에는 영화 '연가시'에서 수백명의 엑스트라 감염연기를 지도했던 한 단역배우의 이야기입니다. 금요일에 뵐게요, \r\n-------------------------------------------------------------------\r\n\r\n\" 기생충 연가시 감염된 연기도 한번 보여주실래요?\"\r\n연기자 이용직씨는 현재 440만명을 모은 영화 연가시에 처음 오디션을 보러간 것도 강원지역 경찰 단역을 따내기 위함이었다. 그런데 연출부가 듯밖의 제안을 또하나 내밀었다.\r\n\r\n첫 출연영화 [와이키키 브라더스]에서 대사라곤 \" 으아아~\" 정도였다. 술자리 탁자를 엎어버리면 되는 역이었다. 극장에 갔더니 그 장면은 편집된 채 보이지 않았다. 영화 끄트머리에 소개되는 취객남 1 이용직 이란 이름만이 사라진 단역의 흔적과 비애를 드러낼 뿐이었다....",
+      "publishedAt": "2012-07-25T02:11:36Z",
+      "duration": "PT1M12S",
+      "viewCount": 1464,
+      "likeCount": 3,
+      "commentCount": 0,
+      "tags": [
+        "엔딩크레디트 세줄밑",
+        "한겨레tv",
+        "연가시",
+        "감염연기",
+        "이용직",
+        "송호진",
+        "조소영"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2012-07-25T02:11:36Z",
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "collectedAt": "2025-09-03T10:48:24Z"
     }
   },
   "channels": {
@@ -143,11 +193,38 @@
       },
       "subscriberCount": 537000,
       "viewCount": 354014202,
-      "videoCount": 11630,
-      "lastUpdated": "2025-09-03T10:02:33.234683Z"
+      "videoCount": 11631,
+      "lastUpdated": "2025-09-03T10:17:18.970892Z"
+    },
+    "UCugbqfMO94F9guLEb6Olb2A": {
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "channelUrl": "@hankyorehtv",
+      "channelDescription": "'더불어 행복한 세상을 만드는 언론' 한겨레 공식 유튜브 채널입니다. \n ■ 편성 및 제휴 문의: leepd@hani.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 946000,
+      "viewCount": 586539536,
+      "videoCount": 9682,
+      "lastUpdated": "2025-09-03T10:48:24.815011Z"
     }
   },
-  "lastUpdated": "2025-09-03T10:02:33.234683Z",
-  "totalVideos": 4,
-  "totalChannels": 2
+  "lastUpdated": "2025-09-03T10:48:24.815011Z",
+  "totalVideos": 6,
+  "totalChannels": 3
 }

@@ -301,6 +301,23 @@
       "channelId": "UCHXvjavEtkPFJCfGlm0wTXw",
       "channelName": "경향티비",
       "collectedAt": "2025-09-03T10:02:29Z"
+    },
+    "kW1jV_KpPaE": {
+      "videoId": "kW1jV_KpPaE",
+      "title": "삼성전자서비스, 협력업체 직원들 '몰카 감시'",
+      "description": "삼성전자서비스가 '미스터리 쇼핑'이라는 명목 아래 협력업체 직원들이 일하는 장면을 몰래카메라로 찍어 서비스직을 교육하고 평가하기 위한 자료로 제작·활용해 온 것으로 드러났다.",
+      "publishedAt": "2013-07-18T23:04:34Z",
+      "duration": "PT17M16S",
+      "viewCount": 15841,
+      "likeCount": 40,
+      "commentCount": 4,
+      "tags": [],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2013-07-18T23:04:34Z",
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "collectedAt": "2025-09-03T10:48:34Z"
     }
   },
   "channels": {
@@ -382,11 +399,38 @@
       },
       "subscriberCount": 537000,
       "viewCount": 354014202,
-      "videoCount": 11630,
-      "lastUpdated": "2025-09-03T10:02:29.835734Z"
+      "videoCount": 11631,
+      "lastUpdated": "2025-09-03T10:17:15.290718Z"
+    },
+    "UCugbqfMO94F9guLEb6Olb2A": {
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "channelUrl": "@hankyorehtv",
+      "channelDescription": "'더불어 행복한 세상을 만드는 언론' 한겨레 공식 유튜브 채널입니다. \n ■ 편성 및 제휴 문의: leepd@hani.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 946000,
+      "viewCount": 586539536,
+      "videoCount": 9682,
+      "lastUpdated": "2025-09-03T10:48:34.716687Z"
     }
   },
-  "lastUpdated": "2025-09-03T10:02:29.835734Z",
-  "totalVideos": 10,
-  "totalChannels": 3
+  "lastUpdated": "2025-09-03T10:48:34.716687Z",
+  "totalVideos": 11,
+  "totalChannels": 4
 }

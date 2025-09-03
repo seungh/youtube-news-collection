@@ -3104,6 +3104,38 @@
       "channelId": "UCdp4_yTBhQmB8E339Lafzow",
       "channelName": "조선일보",
       "collectedAt": "2025-09-03T10:00:57Z"
+    },
+    "V4RY-2QIix0": {
+      "videoId": "V4RY-2QIix0",
+      "title": "벼룩의 간 빼먹는 EBS [한겨레21 #1173]",
+      "description": "●〈한겨레TV〉 유튜브 채널 구독하기 -https://goo.gl/vYg2yI\n\n한국교육방송(EBS)이 외주제작사가 정부기관으로부터 받은 제작지원금의 ‘40% 선납’을 요구해온 사실이 확인됐다. EBS가 자체 규정인 ‘외주협력제작사 협력상생 방안’을 근거로 외주제작사가 정부기관 지원금을 받으면 ‘40% 방송사 회수, 40% 제작비 투여, 20% 제작사 인센티브’ 등의 명목으로 사용할 것을 종용해온 것이다. 인센티브는 EBS가 제작사에 줄지 말지 결정할 수 있다. 따라서 EBS는 가난한 독립PD들이 받은 정부기관 지원금의 최대 60%까지 환수할 수 있다. \n\n관련기사: http://h21.hani.co.kr/arti/special/special_general/43943.html\n\n취재 〈한겨레21〉 김완 기자, 김지혜 교육연수생 \n사진 〈한겨레21〉 정용일 기자, 고 박환성·김광일 피디 페이스북, 한국독립피디협회\n편집 〈한겨레TV〉 조소영 피디",
+      "publishedAt": "2017-08-03T08:46:36Z",
+      "duration": "PT5M54S",
+      "viewCount": 5751,
+      "likeCount": 69,
+      "commentCount": 12,
+      "tags": [
+        "한겨레",
+        "한겨레TV",
+        "Hankyoreh",
+        "HankyorehTV",
+        "korea",
+        "한국",
+        "대한민국",
+        "EBS",
+        "교육방송",
+        "독립피디",
+        "박환성PD",
+        "김광일PD",
+        "다큐프라임",
+        "야수와방주"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2017-08-03T08:46:36Z",
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "collectedAt": "2025-09-03T10:48:22Z"
     }
   },
   "channels": {
@@ -3401,8 +3433,8 @@
       },
       "subscriberCount": 362000,
       "viewCount": 296027619,
-      "videoCount": 6196,
-      "lastUpdated": "2025-09-03T10:00:57.414834Z"
+      "videoCount": 6197,
+      "lastUpdated": "2025-09-03T10:16:16.306744Z"
     },
     "UCHXvjavEtkPFJCfGlm0wTXw": {
       "channelId": "UCHXvjavEtkPFJCfGlm0wTXw",
@@ -3428,8 +3460,8 @@
       },
       "subscriberCount": 537000,
       "viewCount": 354014202,
-      "videoCount": 11630,
-      "lastUpdated": "2025-09-03T10:00:57.414834Z"
+      "videoCount": 11631,
+      "lastUpdated": "2025-09-03T10:16:16.306744Z"
     },
     "UCdp4_yTBhQmB8E339Lafzow": {
       "channelId": "UCdp4_yTBhQmB8E339Lafzow",
@@ -3455,11 +3487,38 @@
       },
       "subscriberCount": 1700000,
       "viewCount": 1669752256,
-      "videoCount": 22783,
-      "lastUpdated": "2025-09-03T10:00:57.414834Z"
+      "videoCount": 22784,
+      "lastUpdated": "2025-09-03T10:16:16.306744Z"
+    },
+    "UCugbqfMO94F9guLEb6Olb2A": {
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "channelUrl": "@hankyorehtv",
+      "channelDescription": "'더불어 행복한 세상을 만드는 언론' 한겨레 공식 유튜브 채널입니다. \n ■ 편성 및 제휴 문의: leepd@hani.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 946000,
+      "viewCount": 586539536,
+      "videoCount": 9682,
+      "lastUpdated": "2025-09-03T10:48:22.356227Z"
     }
   },
-  "lastUpdated": "2025-09-03T10:00:57.414834Z",
-  "totalVideos": 94,
-  "totalChannels": 13
+  "lastUpdated": "2025-09-03T10:48:22.356227Z",
+  "totalVideos": 95,
+  "totalChannels": 14
 }

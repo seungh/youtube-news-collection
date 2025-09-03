@@ -1821,6 +1821,31 @@
       "channelId": "UCdp4_yTBhQmB8E339Lafzow",
       "channelName": "조선일보",
       "collectedAt": "2025-09-03T10:02:20Z"
+    },
+    "Nxlmt61V_hY": {
+      "videoId": "Nxlmt61V_hY",
+      "title": "김무성 대표, 당신이 배후입니까? [말풍선 브리핑/ 11.03]",
+      "description": "1.참으로 균형지다! 김무성 새누리당 대표가 극우 단체를 만나 “여론전 도와달라”고 부탁했는데요.(http://goo.gl/hVg47y) 이분들, 전국역사학대회 행사장에 난입했던 분들이네요. 김 대표, 당신이 배훕니까? \n\n2.역시 관제가 제맛. 새누리당이 ‘국정화 찬성’ 의견 확보를 위해 일선 조직을 총동원했다고 해요.(http://goo.gl/QRBZ7W) 반대 의견이 압도적으로 많자 허겁지겁 대응에 나선 거에요. 시·도당 위원장왈, “중앙당에서 ‘구의원이 있는 데는 100명씩 찬성 서명을 모아달라는 지침이 있었다”고 하네요.\n　　\n3. 교육부는 지난 20일 동안 팩스와 우편으로만 국정화 관련 의견을 받았는데요. 이 기간 내내 팩스가 불통이라는 민원이 폭주했어요. 〈한겨레〉 기자가 직접 확인해봤더니 팩스가 꺼져있었다네요. 팩스, 전기제품이에요.\n\n정치BAR 페이스북 주소 https://www.facebook.com/polibar21/?fref=ts",
+      "publishedAt": "2015-11-03T06:50:48Z",
+      "duration": "PT52S",
+      "viewCount": 22778,
+      "likeCount": 46,
+      "commentCount": 2,
+      "tags": [
+        "한겨레TV",
+        "김무성",
+        "한국사",
+        "국정화",
+        "박근혜",
+        "황우여",
+        "역사교과서"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2015-11-03T06:50:48Z",
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "collectedAt": "2025-09-03T10:48:34Z"
     }
   },
   "channels": {
@@ -2118,8 +2143,8 @@
       },
       "subscriberCount": 537000,
       "viewCount": 354014202,
-      "videoCount": 11630,
-      "lastUpdated": "2025-09-03T10:02:20.095215Z"
+      "videoCount": 11631,
+      "lastUpdated": "2025-09-03T10:17:03.586849Z"
     },
     "UCdp4_yTBhQmB8E339Lafzow": {
       "channelId": "UCdp4_yTBhQmB8E339Lafzow",
@@ -2145,11 +2170,38 @@
       },
       "subscriberCount": 1700000,
       "viewCount": 1669752256,
-      "videoCount": 22783,
-      "lastUpdated": "2025-09-03T10:02:20.095215Z"
+      "videoCount": 22784,
+      "lastUpdated": "2025-09-03T10:17:03.586849Z"
+    },
+    "UCugbqfMO94F9guLEb6Olb2A": {
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "channelUrl": "@hankyorehtv",
+      "channelDescription": "'더불어 행복한 세상을 만드는 언론' 한겨레 공식 유튜브 채널입니다. \n ■ 편성 및 제휴 문의: leepd@hani.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 946000,
+      "viewCount": 586539536,
+      "videoCount": 9682,
+      "lastUpdated": "2025-09-03T10:48:34.101793Z"
     }
   },
-  "lastUpdated": "2025-09-03T10:02:20.095215Z",
-  "totalVideos": 67,
-  "totalChannels": 12
+  "lastUpdated": "2025-09-03T10:48:34.101793Z",
+  "totalVideos": 68,
+  "totalChannels": 13
 }

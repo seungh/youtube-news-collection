@@ -465,6 +465,36 @@
       "channelId": "UCdp4_yTBhQmB8E339Lafzow",
       "channelName": "조선일보",
       "collectedAt": "2025-09-03T10:02:27Z"
+    },
+    "jWuTZXOVRfs": {
+      "videoId": "jWuTZXOVRfs",
+      "title": "박근혜 표명 '기시감'...간첩조작 사건도 '유야무야'? [한겨레포커스]",
+      "description": "2014년 3월10일, 박근혜 대통령은 간첩조작 의혹 사건에 대해 유감을 표명하면서 \"의혹 남기지 않도록 철저히 수사\"할 것이며 \"문제가 드러나면 반드시 바로잡을 것\"이라고 밝혔다. 어디서 많이 들어본 말이다. 박 대통령은 넉달 전 관권부정선거 의혹에 대해서도 \"의혹들에 대해서는 반드시 국민들께 정확히 밝히고\" \"책임을 물을 것이 있다면 물을 것\"이라고 밝힌 바 있다.\n이후 박근혜 정권이 관권부정선거 의혹에 대해 어떤 조치를 취했을까? 이를 참고하면 이 정권이 이번 간첩조작 의혹 사건에 대해 어떤 조치를 취할 것인지 추정해 볼 수 있을 것이다.",
+      "publishedAt": "2014-03-14T01:47:58Z",
+      "duration": "PT3M12S",
+      "viewCount": 19308,
+      "likeCount": 63,
+      "commentCount": 9,
+      "tags": [
+        "한겨레",
+        "포커스",
+        "한겨레포커스",
+        "박근혜",
+        "관권",
+        "부정선거",
+        "간첩",
+        "조작",
+        "유우성",
+        "증거조작",
+        "남재준",
+        "국정원"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2014-03-14T01:47:58Z",
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "collectedAt": "2025-09-03T10:48:23Z"
     }
   },
   "channels": {
@@ -600,8 +630,8 @@
       },
       "subscriberCount": 537000,
       "viewCount": 354014202,
-      "videoCount": 11630,
-      "lastUpdated": "2025-09-03T10:02:27.627808Z"
+      "videoCount": 11631,
+      "lastUpdated": "2025-09-03T10:17:13.140338Z"
     },
     "UCdp4_yTBhQmB8E339Lafzow": {
       "channelId": "UCdp4_yTBhQmB8E339Lafzow",
@@ -627,11 +657,38 @@
       },
       "subscriberCount": 1700000,
       "viewCount": 1669752256,
-      "videoCount": 22783,
-      "lastUpdated": "2025-09-03T10:02:27.627808Z"
+      "videoCount": 22784,
+      "lastUpdated": "2025-09-03T10:17:13.140338Z"
+    },
+    "UCugbqfMO94F9guLEb6Olb2A": {
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "channelUrl": "@hankyorehtv",
+      "channelDescription": "'더불어 행복한 세상을 만드는 언론' 한겨레 공식 유튜브 채널입니다. \n ■ 편성 및 제휴 문의: leepd@hani.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 946000,
+      "viewCount": 586539536,
+      "videoCount": 9682,
+      "lastUpdated": "2025-09-03T10:48:23.356567Z"
     }
   },
-  "lastUpdated": "2025-09-03T10:02:27.627808Z",
-  "totalVideos": 17,
-  "totalChannels": 6
+  "lastUpdated": "2025-09-03T10:48:23.356567Z",
+  "totalVideos": 18,
+  "totalChannels": 7
 }

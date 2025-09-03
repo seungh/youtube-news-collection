@@ -346,6 +346,29 @@
       "channelId": "UCHXvjavEtkPFJCfGlm0wTXw",
       "channelName": "경향티비",
       "collectedAt": "2025-09-03T10:02:24Z"
+    },
+    "jx9f9ZVTAl8": {
+      "videoId": "jx9f9ZVTAl8",
+      "title": "큰일이다〈칸타빌레〉, 심은경 어떡하냐 [잉여싸롱#46]",
+      "description": "한겨레 음악담당 서정민 기자와 TV 칼럼니스트 이승한, 김선영의 대중문화 비평 프로그램 \n\n\"사실 내일도 칸타빌레의 모든 비난을 심은경씨 혼자 거의 독박 쓰다시피 하고 있어요\"\n\"마음 고생 엄청하고 있을 텐데, 참.. 그 연기 잘하는 배우가.. \"\n\n◆ 협찬도서: ‘안도현의 관찰’ 〈한겨레출판〉\n◆     자료: ‘내일도 칸타빌레’ ‘노다메 칸타빌레’ ‘써니’‘파라다이스 목장’ ‘밀회’ ‘명량’ 화면 캡처    \n◆ 배경음악:  Bitter Sweet Symphony(The Verve), Tchaikovsky ,Serenade For Strings In C Major Op.48 Ii. Walze,독백part1(김광민),Mozart, Sonata For 2 Pianos In D Major K.448 1. All, Tchaikovsky ,The Nutcracker Suite Op.71A III. Dance,Saint-Saens, Le Carnaval Des Animaux - `Aquarium` ,공원에서(유희열),민중의노래, Beethoven's Symphony No. 9 (Scherzo)\n\n◆ 제작진 \n CG : 이종은\n기술: 박성영\n연출: 조소영 이규호\n\n◆ 팟캐스트 \n-http://www.podbbang.com/ch/6435",
+      "publishedAt": "2014-10-24T16:25:19Z",
+      "duration": "PT34M40S",
+      "viewCount": 19804,
+      "likeCount": 90,
+      "commentCount": 80,
+      "tags": [
+        "내일도 칸타빌레",
+        "심은경",
+        "노다메 칸타빌레",
+        "잉여싸롱",
+        "주원"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2014-10-24T16:25:19Z",
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "collectedAt": "2025-09-03T10:48:21Z"
     }
   },
   "channels": {
@@ -427,11 +450,38 @@
       },
       "subscriberCount": 537000,
       "viewCount": 354014202,
-      "videoCount": 11630,
-      "lastUpdated": "2025-09-03T10:02:24.731411Z"
+      "videoCount": 11631,
+      "lastUpdated": "2025-09-03T10:17:10.005027Z"
+    },
+    "UCugbqfMO94F9guLEb6Olb2A": {
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "channelUrl": "@hankyorehtv",
+      "channelDescription": "'더불어 행복한 세상을 만드는 언론' 한겨레 공식 유튜브 채널입니다. \n ■ 편성 및 제휴 문의: leepd@hani.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 946000,
+      "viewCount": 586539536,
+      "videoCount": 9682,
+      "lastUpdated": "2025-09-03T10:48:21.159856Z"
     }
   },
-  "lastUpdated": "2025-09-03T10:02:24.731411Z",
-  "totalVideos": 11,
-  "totalChannels": 3
+  "lastUpdated": "2025-09-03T10:48:21.159856Z",
+  "totalVideos": 12,
+  "totalChannels": 4
 }

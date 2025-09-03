@@ -9423,6 +9423,44 @@
       "channelId": "UCHXvjavEtkPFJCfGlm0wTXw",
       "channelName": "경향티비",
       "collectedAt": "2025-09-03T10:02:12Z"
+    },
+    "qZQkFJQLkYY": {
+      "videoId": "qZQkFJQLkYY",
+      "title": "“사이비 교주같은 드루킹에 왜 빠졌냐고요?” [하어영 김완의 훅#24]",
+      "description": "경제적 공진화 모임 회원 심층 인터뷰... 배신자에겐 ‘연변 거지’ 보내 처단 협박도... http://www.hani.co.kr/arti/society/society_general/841668.html\n\n타이틀: 문석진\n예고편 스틸컷: 노효주\n연출: 조소영 박종찬\n#한겨레훅 #경공모 #드루킹",
+      "publishedAt": "2018-04-27T15:34:43Z",
+      "duration": "PT21M9S",
+      "viewCount": 7534,
+      "likeCount": 69,
+      "commentCount": 17,
+      "tags": [
+        "한겨레",
+        "한겨레TV",
+        "Hankyoreh",
+        "HankyorehTV",
+        "korea",
+        "한국",
+        "대한민국",
+        "드루킹",
+        "경제적공진화모임",
+        "김동원",
+        "한겨레21",
+        "변지민기자",
+        "댓글",
+        "매크로",
+        "사이비",
+        "네이버",
+        "하어영",
+        "김경수",
+        "문재인",
+        "여론조작"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2018-04-27T15:34:43Z",
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "collectedAt": "2025-09-03T10:47:55Z"
     }
   },
   "channels": {
@@ -9747,11 +9785,38 @@
       },
       "subscriberCount": 537000,
       "viewCount": 354014202,
-      "videoCount": 11630,
-      "lastUpdated": "2025-09-03T10:02:12.256171Z"
+      "videoCount": 11631,
+      "lastUpdated": "2025-09-03T10:16:46.948617Z"
+    },
+    "UCugbqfMO94F9guLEb6Olb2A": {
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "channelUrl": "@hankyorehtv",
+      "channelDescription": "'더불어 행복한 세상을 만드는 언론' 한겨레 공식 유튜브 채널입니다. \n ■ 편성 및 제휴 문의: leepd@hani.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 946000,
+      "viewCount": 586539536,
+      "videoCount": 9682,
+      "lastUpdated": "2025-09-03T10:47:55.276425Z"
     }
   },
-  "lastUpdated": "2025-09-03T10:02:12.256171Z",
-  "totalVideos": 245,
-  "totalChannels": 12
+  "lastUpdated": "2025-09-03T10:47:55.276425Z",
+  "totalVideos": 246,
+  "totalChannels": 13
 }

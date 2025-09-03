@@ -1267,6 +1267,39 @@
       "channelId": "UCdp4_yTBhQmB8E339Lafzow",
       "channelName": "조선일보",
       "collectedAt": "2025-09-03T10:02:20Z"
+    },
+    "FqwfPlppNPA": {
+      "videoId": "FqwfPlppNPA",
+      "title": "‘부자 정당 이미지 고치겠다’는 여연 원장, 경제민주화는… [정치토크 돌직구 87회]",
+      "description": "김종석 새누리당 여의도연구원 원장과의 대화\n\n새누리당의 싱크탱크인 여의도연구원 원장 자리는 미묘한 자리다. 여연에서 조사한 여론조사 등 각종 자료가 선거 공천 때 사용되기 때문에 여연 원장 자리는 공천과 밀접한 연관이 있다. 김무성 대표가 박세일 명예교수를 여연 원장에 앉히려다 친박계의 반대로 무산된 것도 그래서다. 친박 입장에선 ‘김무성표 공천’이 실현될까 두려웠던 것이다.\n현재 여연 원장인 김종석 원장에 대해 정가의 시선이 쏠려 있는 건 그래서다. 그는 정치인 출신이 아니고 정책 전문가다. 경제민주화 반대론자로 알려지기도 했다. 그와 함께 정국과 여권의 현안에 대해 얘기를 나눠 봤다.\n\n◆ 제작진\n진행: 임석규 성한용, 게스트: 김종석, 기술감독: 박성영, 연출: 김도성\n\n◆ 팟캐스트\n-아이튠즈/ https://itunes.apple.com/kr/podcast/jeongchitokeu-doljiggu/id934712464?mt=2\n-팟빵 채널/ http://www.podbbang.com/ch/8405",
+      "publishedAt": "2015-09-15T06:56:38Z",
+      "duration": "PT30M14S",
+      "viewCount": 6121,
+      "likeCount": 14,
+      "commentCount": 0,
+      "tags": [
+        "시사",
+        "한겨레",
+        "캐스트",
+        "한겨레캐스트",
+        "정돌",
+        "정치토크",
+        "돌직구",
+        "정치",
+        "김종석",
+        "여의도연구원",
+        "여의도연구소",
+        "여연",
+        "박세일",
+        "김무성",
+        "새누리당"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2015-09-15T06:56:38Z",
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "collectedAt": "2025-09-03T10:48:12Z"
     }
   },
   "channels": {
@@ -1429,8 +1462,8 @@
       },
       "subscriberCount": 537000,
       "viewCount": 354014202,
-      "videoCount": 11630,
-      "lastUpdated": "2025-09-03T10:02:20.766187Z"
+      "videoCount": 11631,
+      "lastUpdated": "2025-09-03T10:17:04.482540Z"
     },
     "UCdp4_yTBhQmB8E339Lafzow": {
       "channelId": "UCdp4_yTBhQmB8E339Lafzow",
@@ -1456,11 +1489,38 @@
       },
       "subscriberCount": 1700000,
       "viewCount": 1669752256,
-      "videoCount": 22783,
-      "lastUpdated": "2025-09-03T10:02:20.766187Z"
+      "videoCount": 22784,
+      "lastUpdated": "2025-09-03T10:17:04.482540Z"
+    },
+    "UCugbqfMO94F9guLEb6Olb2A": {
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "channelUrl": "@hankyorehtv",
+      "channelDescription": "'더불어 행복한 세상을 만드는 언론' 한겨레 공식 유튜브 채널입니다. \n ■ 편성 및 제휴 문의: leepd@hani.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 946000,
+      "viewCount": 586539536,
+      "videoCount": 9682,
+      "lastUpdated": "2025-09-03T10:48:12.138939Z"
     }
   },
-  "lastUpdated": "2025-09-03T10:02:20.766187Z",
-  "totalVideos": 44,
-  "totalChannels": 7
+  "lastUpdated": "2025-09-03T10:48:12.138939Z",
+  "totalVideos": 45,
+  "totalChannels": 8
 }

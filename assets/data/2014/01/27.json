@@ -529,6 +529,23 @@
       "channelId": "UCdp4_yTBhQmB8E339Lafzow",
       "channelName": "조선일보",
       "collectedAt": "2025-09-03T10:02:28Z"
+    },
+    "Pch7UeTA0MM": {
+      "videoId": "Pch7UeTA0MM",
+      "title": "세금을 더 내게해달라는 '진짜' 부자들",
+      "description": "5분경영학  #40 기부 / 세금을 더 내게해달라고 부자들이 외친 까닭 \n\n# 앤드루 카네기 \"부자로 죽는 것은 부끄러운 일이다\"\n자선사업에 5억달러를 기부하고, 가족에게는 기부금액의 3%(1천5백만달러)만 남김\n\n# 존 록펠러 \n자신을 반대하는 비판 세력도 지원 \n- 그들이 함께 있어야만 사회가 더 건전해진다는 신념이 있었기 때문 \n\n# 책임있는 부자들 (조지 소로스, 빌 게이츠, 워런 버핏)\n\"상속세 폐지는 부자들이 사회적 책임을 다하지 못하게 하려는 잘못된 방침\"\n\n지금까지 5분경영학을 시청해주셔서 감사합니다 \n\n기획 : 김종일 김명희 / 편집 : 문석진 / 연출 : 이경주 이규호",
+      "publishedAt": "2014-01-27T09:34:30Z",
+      "duration": "PT5M31S",
+      "viewCount": 9454,
+      "likeCount": 45,
+      "commentCount": 8,
+      "tags": [],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2014-01-27T09:34:30Z",
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "collectedAt": "2025-09-03T10:48:40Z"
     }
   },
   "channels": {
@@ -664,8 +681,8 @@
       },
       "subscriberCount": 537000,
       "viewCount": 354014202,
-      "videoCount": 11630,
-      "lastUpdated": "2025-09-03T10:02:28.425955Z"
+      "videoCount": 11631,
+      "lastUpdated": "2025-09-03T10:17:13.905243Z"
     },
     "UCdp4_yTBhQmB8E339Lafzow": {
       "channelId": "UCdp4_yTBhQmB8E339Lafzow",
@@ -691,11 +708,38 @@
       },
       "subscriberCount": 1700000,
       "viewCount": 1669752256,
-      "videoCount": 22783,
-      "lastUpdated": "2025-09-03T10:02:28.425955Z"
+      "videoCount": 22784,
+      "lastUpdated": "2025-09-03T10:17:13.905243Z"
+    },
+    "UCugbqfMO94F9guLEb6Olb2A": {
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "channelUrl": "@hankyorehtv",
+      "channelDescription": "'더불어 행복한 세상을 만드는 언론' 한겨레 공식 유튜브 채널입니다. \n ■ 편성 및 제휴 문의: leepd@hani.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 946000,
+      "viewCount": 586539536,
+      "videoCount": 9682,
+      "lastUpdated": "2025-09-03T10:48:40.239405Z"
     }
   },
-  "lastUpdated": "2025-09-03T10:02:28.425955Z",
-  "totalVideos": 20,
-  "totalChannels": 6
+  "lastUpdated": "2025-09-03T10:48:40.239405Z",
+  "totalVideos": 21,
+  "totalChannels": 7
 }

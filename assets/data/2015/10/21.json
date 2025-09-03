@@ -1440,6 +1440,27 @@
       "channelId": "UCdp4_yTBhQmB8E339Lafzow",
       "channelName": "조선일보",
       "collectedAt": "2025-09-03T10:01:37Z"
+    },
+    "3qWAnC99rrQ": {
+      "videoId": "3qWAnC99rrQ",
+      "title": "[현장] 미친 전월셋값에 ‘이단 옆차기’ 를!",
+      "description": "‘미친 전월셋값’을 참다못한 80여명의 세입자들이 20일 서울 광화문광장에 모였다. 참여연대·전국세입자협회·민달팽이유니온 등이 마련한 자리다. 2년 만에 수천만원이나 오른 전세 보증금을 감당해야 하는 가장, 신혼집을 구하지 못해 결혼 연기를 고민하는 예비부부, 월급의 절반을 월세로 내야 하는 젊은 직장인의 하소연이 쏟아졌다. \n\n관련기사: 미친 전월셋값에 “어찌 살란 말이냐”\nhttp://hani.co.kr/arti/society/society_general/713695.html?_fr=mt2\n\n연출: 조소영",
+      "publishedAt": "2015-10-21T05:09:31Z",
+      "duration": "PT7M31S",
+      "viewCount": 4476,
+      "likeCount": 25,
+      "commentCount": 0,
+      "tags": [
+        "전월세",
+        "세입자 성토대회",
+        "집값"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2015-10-21T05:09:31Z",
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "collectedAt": "2025-09-03T10:48:34Z"
     }
   },
   "channels": {
@@ -1656,8 +1677,8 @@
       },
       "subscriberCount": 362000,
       "viewCount": 296027619,
-      "videoCount": 6196,
-      "lastUpdated": "2025-09-03T10:01:37.361109Z"
+      "videoCount": 6197,
+      "lastUpdated": "2025-09-03T10:17:03.810667Z"
     },
     "UCHXvjavEtkPFJCfGlm0wTXw": {
       "channelId": "UCHXvjavEtkPFJCfGlm0wTXw",
@@ -1683,8 +1704,8 @@
       },
       "subscriberCount": 537000,
       "viewCount": 354014202,
-      "videoCount": 11630,
-      "lastUpdated": "2025-09-03T10:01:37.361109Z"
+      "videoCount": 11631,
+      "lastUpdated": "2025-09-03T10:17:03.810667Z"
     },
     "UCdp4_yTBhQmB8E339Lafzow": {
       "channelId": "UCdp4_yTBhQmB8E339Lafzow",
@@ -1710,11 +1731,38 @@
       },
       "subscriberCount": 1700000,
       "viewCount": 1669752256,
-      "videoCount": 22783,
-      "lastUpdated": "2025-09-03T10:01:37.361109Z"
+      "videoCount": 22784,
+      "lastUpdated": "2025-09-03T10:17:03.810667Z"
+    },
+    "UCugbqfMO94F9guLEb6Olb2A": {
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "channelUrl": "@hankyorehtv",
+      "channelDescription": "'더불어 행복한 세상을 만드는 언론' 한겨레 공식 유튜브 채널입니다. \n ■ 편성 및 제휴 문의: leepd@hani.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 946000,
+      "viewCount": 586539536,
+      "videoCount": 9682,
+      "lastUpdated": "2025-09-03T10:48:34.201388Z"
     }
   },
-  "lastUpdated": "2025-09-03T10:01:37.361109Z",
-  "totalVideos": 51,
-  "totalChannels": 10
+  "lastUpdated": "2025-09-03T10:48:34.201388Z",
+  "totalVideos": 52,
+  "totalChannels": 11
 }

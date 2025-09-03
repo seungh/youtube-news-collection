@@ -690,6 +690,38 @@
       "channelId": "UCdp4_yTBhQmB8E339Lafzow",
       "channelName": "조선일보",
       "collectedAt": "2025-09-03T10:02:16Z"
+    },
+    "savyzL3kzc4": {
+      "videoId": "savyzL3kzc4",
+      "title": "20만 촛불 \"이게 나라냐, 박근혜 퇴진하라\"",
+      "description": "●〈한겨레TV〉 유튜브 채널 구독하기 -https://goo.gl/vYg2yI\n\n최순실 국정농단 의혹을 규탄하는 2차 범국민행동 ‘이게 나라냐 박근혜 퇴진하라’ 집회가 시민 15만여명이 참여한 가운데 11월5일 서울 광화문광장에서 열렸다. 시민들은 집회를 마친 뒤 \"박근혜 퇴진\", \"박근혜는 물러나라\", \"세월호 7시간, 진상을 규명하라\" 등의 구호를 외치며 종로 일대에서 거리행진을 벌였다.\n이에 앞서 고 백남기 농민 영결식이 서울 광화문 광장에서 열렸다. 광화문과 종로일대에서 성난 시민들의 외침을 스마트폰 카메라에 담았다.\n\n영상: 조소영 박종찬",
+      "publishedAt": "2016-11-06T04:34:21Z",
+      "duration": "PT6M54S",
+      "viewCount": 20143,
+      "likeCount": 137,
+      "commentCount": 13,
+      "tags": [
+        "한겨레",
+        "한겨레TV",
+        "Hankyoreh",
+        "HankyorehTV",
+        "korea",
+        "한국",
+        "대한민국",
+        "박근혜",
+        "박근혜 하야",
+        "촛불집회",
+        "백남기",
+        "물대포",
+        "최순실",
+        "국정농단"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2016-11-06T04:34:21Z",
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "collectedAt": "2025-09-03T10:47:52Z"
     }
   },
   "channels": {
@@ -852,8 +884,8 @@
       },
       "subscriberCount": 537000,
       "viewCount": 354014202,
-      "videoCount": 11630,
-      "lastUpdated": "2025-09-03T10:02:16.396591Z"
+      "videoCount": 11631,
+      "lastUpdated": "2025-09-03T10:16:56.693040Z"
     },
     "UCdp4_yTBhQmB8E339Lafzow": {
       "channelId": "UCdp4_yTBhQmB8E339Lafzow",
@@ -879,11 +911,38 @@
       },
       "subscriberCount": 1700000,
       "viewCount": 1669752256,
-      "videoCount": 22783,
-      "lastUpdated": "2025-09-03T10:02:16.396591Z"
+      "videoCount": 22784,
+      "lastUpdated": "2025-09-03T10:16:56.693040Z"
+    },
+    "UCugbqfMO94F9guLEb6Olb2A": {
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "channelUrl": "@hankyorehtv",
+      "channelDescription": "'더불어 행복한 세상을 만드는 언론' 한겨레 공식 유튜브 채널입니다. \n ■ 편성 및 제휴 문의: leepd@hani.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 946000,
+      "viewCount": 586539536,
+      "videoCount": 9682,
+      "lastUpdated": "2025-09-03T10:47:52.465430Z"
     }
   },
-  "lastUpdated": "2025-09-03T10:02:16.396591Z",
-  "totalVideos": 27,
-  "totalChannels": 7
+  "lastUpdated": "2025-09-03T10:47:52.465430Z",
+  "totalVideos": 28,
+  "totalChannels": 8
 }

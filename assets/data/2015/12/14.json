@@ -1219,6 +1219,34 @@
       "channelId": "UCHXvjavEtkPFJCfGlm0wTXw",
       "channelName": "경향티비",
       "collectedAt": "2025-09-03T10:02:19Z"
+    },
+    "wSaviOmSTAc": {
+      "videoId": "wSaviOmSTAc",
+      "title": "[명의가 본 기적 16회] 이동건 교수 \"백혈병 환자 절반은 전염병으로 사망한다”",
+      "description": "메르스(MERS·중동호흡기증후군) 사태에 이어 C형 간염 집단 감염 사건이 벌어지면서 병원 내 감염에 대한 국민의 불안이 고조되고 있다. 최근 일주일 사이 독감 의심환자가 30%나 급증해 병원 내 독감 감염을 우려하는 목소리도 나오고 있다. \n\n 14일 오후 2시에 생방송 된 중앙일보 인터넷 방송 ‘명의가 본 기적’ 16회엔 가톨릭대 서울 성모병원 감염내과 이동건 교수가 출연해 병원 내 감염의 원인과 치료방안에 대해 이야기했다.",
+      "publishedAt": "2015-12-14T09:57:37Z",
+      "duration": "PT26M41S",
+      "viewCount": 14770,
+      "likeCount": 100,
+      "commentCount": 4,
+      "tags": [
+        "명의",
+        "메르스",
+        "간염",
+        "집단간염",
+        "c형",
+        "병원",
+        "기적",
+        "명의가 본 기적",
+        "전염병",
+        "이동건"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2015-12-14T09:57:37Z",
+      "channelId": "UCH3mJ-nHxjjny2FJbJaqiDA",
+      "channelName": "중앙일보",
+      "collectedAt": "2025-09-03T10:49:21Z"
     }
   },
   "channels": {
@@ -1435,11 +1463,38 @@
       },
       "subscriberCount": 537000,
       "viewCount": 354014202,
-      "videoCount": 11630,
-      "lastUpdated": "2025-09-03T10:02:19.658322Z"
+      "videoCount": 11631,
+      "lastUpdated": "2025-09-03T10:17:02.860901Z"
+    },
+    "UCH3mJ-nHxjjny2FJbJaqiDA": {
+      "channelId": "UCH3mJ-nHxjjny2FJbJaqiDA",
+      "channelName": "중앙일보",
+      "channelUrl": "@joongangilbo",
+      "channelDescription": "현장의 진실을 중앙에 두다.",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/iqcE5aK4gFUjm5A-QO4FLDCDrTgOXTfU3oCyirTZcT9Ev1i_sKtx82GqfF2rPDfbBgFtBqL0uw=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/iqcE5aK4gFUjm5A-QO4FLDCDrTgOXTfU3oCyirTZcT9Ev1i_sKtx82GqfF2rPDfbBgFtBqL0uw=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/iqcE5aK4gFUjm5A-QO4FLDCDrTgOXTfU3oCyirTZcT9Ev1i_sKtx82GqfF2rPDfbBgFtBqL0uw=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 555000,
+      "viewCount": 475518285,
+      "videoCount": 18651,
+      "lastUpdated": "2025-09-03T10:49:21.864349Z"
     }
   },
-  "lastUpdated": "2025-09-03T10:02:19.658322Z",
-  "totalVideos": 45,
-  "totalChannels": 8
+  "lastUpdated": "2025-09-03T10:49:21.864349Z",
+  "totalVideos": 46,
+  "totalChannels": 9
 }

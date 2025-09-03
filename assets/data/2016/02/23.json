@@ -1650,6 +1650,30 @@
       "channelId": "UCdp4_yTBhQmB8E339Lafzow",
       "channelName": "조선일보",
       "collectedAt": "2025-09-03T10:02:01Z"
+    },
+    "L0l3Qp-6dqQ": {
+      "videoId": "L0l3Qp-6dqQ",
+      "title": "[어쩌다 음악#2]  우먼파워 ‘트램폴린’",
+      "description": "마지널하면서 쿨한 여성들의 자기 완성을 향한 여정 \n“테니스칠 때 공과 호흡하며 밟은 스텝의 리듬.” 지난 17일 강남구 도곡동 스페이스 공감에서의 공연도 어김없었다. 보고 듣다 보면 어느새 어깨가 실룩거렸다. 가끔씩 차효선이 키보드를 치다가 앞으로 나와서 춤을 추는 것도 흥에 겨워 어쩔 수 없는 듯했다. 하지만 신스팝 밴드 트램폴린은 여느 댄스곡의 효과와는 차이가 있다. 관객이 하나의 리듬으로 뛰기보다는 모두 자기 템포로 춤을 췄다. 트램폴린의 주문이 그렇다. ‘제 멋에 취할 것, 누가 뭐라고 해도 당신의 템포를 지킬 것, 어찌하든 즐길 것.’\n\n\n취재 구둘래\n영상 조소영 \n\n\n관련기사 :http://hani.co.kr/arti/culture/music/731702.html",
+      "publishedAt": "2016-02-23T09:50:38Z",
+      "duration": "PT11M46S",
+      "viewCount": 3523,
+      "likeCount": 32,
+      "commentCount": 4,
+      "tags": [
+        "어쩌다 음악",
+        "트램폴린",
+        "김나은",
+        "차효선",
+        "정다영",
+        "일렉트로닉팝"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2016-02-23T09:50:38Z",
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "collectedAt": "2025-09-03T10:48:03Z"
     }
   },
   "channels": {
@@ -1920,8 +1944,8 @@
       },
       "subscriberCount": 362000,
       "viewCount": 296027619,
-      "videoCount": 6196,
-      "lastUpdated": "2025-09-03T10:02:01.530617Z"
+      "videoCount": 6197,
+      "lastUpdated": "2025-09-03T10:17:01.469682Z"
     },
     "UCHXvjavEtkPFJCfGlm0wTXw": {
       "channelId": "UCHXvjavEtkPFJCfGlm0wTXw",
@@ -1947,8 +1971,8 @@
       },
       "subscriberCount": 537000,
       "viewCount": 354014202,
-      "videoCount": 11630,
-      "lastUpdated": "2025-09-03T10:02:01.530617Z"
+      "videoCount": 11631,
+      "lastUpdated": "2025-09-03T10:17:01.469682Z"
     },
     "UCdp4_yTBhQmB8E339Lafzow": {
       "channelId": "UCdp4_yTBhQmB8E339Lafzow",
@@ -1974,11 +1998,38 @@
       },
       "subscriberCount": 1700000,
       "viewCount": 1669752256,
-      "videoCount": 22783,
-      "lastUpdated": "2025-09-03T10:02:01.530617Z"
+      "videoCount": 22784,
+      "lastUpdated": "2025-09-03T10:17:01.469682Z"
+    },
+    "UCugbqfMO94F9guLEb6Olb2A": {
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "channelUrl": "@hankyorehtv",
+      "channelDescription": "'더불어 행복한 세상을 만드는 언론' 한겨레 공식 유튜브 채널입니다. \n ■ 편성 및 제휴 문의: leepd@hani.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 946000,
+      "viewCount": 586539536,
+      "videoCount": 9682,
+      "lastUpdated": "2025-09-03T10:48:03.263240Z"
     }
   },
-  "lastUpdated": "2025-09-03T10:02:01.530617Z",
-  "totalVideos": 64,
-  "totalChannels": 12
+  "lastUpdated": "2025-09-03T10:48:03.263240Z",
+  "totalVideos": 65,
+  "totalChannels": 13
 }

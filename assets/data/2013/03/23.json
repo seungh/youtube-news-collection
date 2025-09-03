@@ -16,6 +16,31 @@
       "channelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
       "channelName": "뉴스TVCHOSUN",
       "collectedAt": "2025-08-21T10:46:40Z"
+    },
+    "R0U-WUkXvLw": {
+      "videoId": "R0U-WUkXvLw",
+      "title": "[한겨레캐스트 #61] '선비들의 무예' 태격 장주 김종회",
+      "description": "[한겨레캐스트 #61] '선비들의 무예' 태격 장주 김종회\n 2013년 3월23일 이길우의 〈스포츠IN〉\n\n전통 무술은 몸에서 몸으로 이어집니다. 스승은 제자에게 자신의 스승으로부터 이어받은 무술을 전수합니다. \n그렇게 이어받은 무술은 다시 후계자에게 이어집니다. 집안 대대로 소리 소문없이 그렇게 무술은 생명력을 유지합니다. 무술 영화 스토리냐구요?  아닙니다. 마치 중국 무협영화 같은 이야기가 바로 우리 주변에 있습니다. 김제 평야 한가운데에서 우리 전통 무술인 태격이 그렇게 후손에게 온전히 전달돼 왔습니다.  호남 평야의 중심지 김제에서 경주 김씨 봉사공파 집안 대대로 전통무술인 태격이 잘 숨쉬고 있습니다. 또 이 태격을 수련하는 이들은 높은 수준의 동양학을 공부하고 있습니다.  도시에서는 상상도 하기 힘든 문과 무가 함께 만나 조화로운 발전을 이루는 곳, 이 곳 김제에서 태격의 전수자(장주)인 청곡 김종회 모시고 전통 무술 태격에 대한 이야기를 나눠 보겠습니다...(중략)\n\n◆주요내용\n\n-태격이란\n\n-태격을 수련하며 사서삼경을 공부하는 이유\n\n-평야 곡창지대인 김제에서 무술이 발달하게 된 까닭\n\n-태격의 수련법, 유래, 가치\n\n-앞으로 어떤 형태로 계승되는지\n\n-일반인들이 할 수 있는 건강 비법은 \n\n◆장소협조\n김제 학성강당 (063-544-8330)\n\n◆ 제작진\n\n앵커: 이길우, 출연: 김종회, 기술감독·카메라: 박성영, 연출: 조소영 박종찬\n\n◆ 팟캐스트\n\nhttps://itunes.apple.com/kr/podcast/hangyeolekaeseuteu-2012-audio/id579232108",
+      "publishedAt": "2013-03-22T18:44:37Z",
+      "duration": "PT12M40S",
+      "viewCount": 59020,
+      "likeCount": 144,
+      "commentCount": 45,
+      "tags": [
+        "한겨레캐스트",
+        "태격",
+        "스포츠",
+        "이길우",
+        "김종회",
+        "학성강당",
+        "김제"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2013-03-22T18:44:37Z",
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "collectedAt": "2025-09-03T10:48:18Z"
     }
   },
   "channels": {
@@ -45,9 +70,36 @@
       "viewCount": 4319423561,
       "videoCount": 150855,
       "lastUpdated": "2025-08-21T10:29:14.632435Z"
+    },
+    "UCugbqfMO94F9guLEb6Olb2A": {
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "channelUrl": "@hankyorehtv",
+      "channelDescription": "'더불어 행복한 세상을 만드는 언론' 한겨레 공식 유튜브 채널입니다. \n ■ 편성 및 제휴 문의: leepd@hani.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 946000,
+      "viewCount": 586539536,
+      "videoCount": 9682,
+      "lastUpdated": "2025-09-03T10:48:18.277821Z"
     }
   },
-  "lastUpdated": "2025-08-21T10:46:40.795149Z",
-  "totalVideos": 1,
-  "totalChannels": 1
+  "lastUpdated": "2025-09-03T10:48:18.277821Z",
+  "totalVideos": 2,
+  "totalChannels": 2
 }

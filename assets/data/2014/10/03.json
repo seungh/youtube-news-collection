@@ -1251,6 +1251,53 @@
       "channelId": "UCdp4_yTBhQmB8E339Lafzow",
       "channelName": "조선일보",
       "collectedAt": "2025-09-03T10:02:25Z"
+    },
+    "-5oYuKU6pzo": {
+      "videoId": "-5oYuKU6pzo",
+      "title": "[김어준의 파파이스#24] 유민아빠 그리고 사찰",
+      "description": "한겨레TV의 시사탐사쇼! [김어준의 파파이스]\n\n#1. 이슈브리핑\n   \n    -\"법치주의는 죽었다!\"\n    -영화 '다이빙벨' 상영불가? \n    -사이버 사찰\n                            \n#2. 이슈토크\n  \n    -\"진실만 밝혀주십시요. 진실한 언론인들이여\" \n      [김영오 세월호 참사 유가족] \n \n    \n* 기획 연출: 이경주 leepd@hani.co.kr , 박수진, 정주용, 작가: 박연신\n  종합편집: 문석진, 방송기술: 박성영\n  카메라: 정동화, 장지남, 정주용, 박성영\n  제작: 한겨레TV",
+      "publishedAt": "2014-10-03T11:03:46Z",
+      "duration": "PT1H18M1S",
+      "viewCount": 153523,
+      "likeCount": 864,
+      "commentCount": 59,
+      "tags": [
+        "한겨레TV",
+        "한겨레",
+        "이경주",
+        "김보협",
+        "송채경화",
+        "김어준의뉴욕타임스",
+        "벙커",
+        "KFC",
+        "박근혜",
+        "세월호",
+        "파파이스",
+        "김어준",
+        "특별법",
+        "청와대",
+        "국정원",
+        "정청래",
+        "법학자",
+        "허위사실",
+        "유포",
+        "검찰",
+        "산케이",
+        "수색",
+        "24회",
+        "유민아빠",
+        "김영오",
+        "다이빙벨",
+        "사찰",
+        "진실",
+        "원세훈"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2014-10-03T11:03:46Z",
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "collectedAt": "2025-09-03T10:48:15Z"
     }
   },
   "channels": {
@@ -1386,8 +1433,8 @@
       },
       "subscriberCount": 537000,
       "viewCount": 354014202,
-      "videoCount": 11630,
-      "lastUpdated": "2025-09-03T10:02:25.011400Z"
+      "videoCount": 11631,
+      "lastUpdated": "2025-09-03T10:17:10.369130Z"
     },
     "UCdp4_yTBhQmB8E339Lafzow": {
       "channelId": "UCdp4_yTBhQmB8E339Lafzow",
@@ -1413,11 +1460,38 @@
       },
       "subscriberCount": 1700000,
       "viewCount": 1669752256,
-      "videoCount": 22783,
-      "lastUpdated": "2025-09-03T10:02:25.011400Z"
+      "videoCount": 22784,
+      "lastUpdated": "2025-09-03T10:17:10.369130Z"
+    },
+    "UCugbqfMO94F9guLEb6Olb2A": {
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "channelUrl": "@hankyorehtv",
+      "channelDescription": "'더불어 행복한 세상을 만드는 언론' 한겨레 공식 유튜브 채널입니다. \n ■ 편성 및 제휴 문의: leepd@hani.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 946000,
+      "viewCount": 586539536,
+      "videoCount": 9682,
+      "lastUpdated": "2025-09-03T10:48:15.700406Z"
     }
   },
-  "lastUpdated": "2025-09-03T10:02:25.011400Z",
-  "totalVideos": 38,
-  "totalChannels": 6
+  "lastUpdated": "2025-09-03T10:48:15.700406Z",
+  "totalVideos": 39,
+  "totalChannels": 7
 }

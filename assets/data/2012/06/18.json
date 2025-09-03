@@ -183,6 +183,29 @@
       "channelId": "UCHXvjavEtkPFJCfGlm0wTXw",
       "channelName": "경향티비",
       "collectedAt": "2025-09-03T10:01:45Z"
+    },
+    "52PObls1ATA": {
+      "videoId": "52PObls1ATA",
+      "title": "[#최재봉의공간] 김도연의 진부도서관",
+      "description": "소설가 김도연은 강원도 평창군 진부도서관에서 글을 쓴다.  벌써 13년째다.. \r\n\"'끝까지 왔구나' 싶더군요. 처음엔 집에서 겨울만 나고 다시 나갈 생각이었어요. 그런데 이렇게 13년째 고향에 붙어 있게 된 게 다 도서관 때문이었어요. 집으로 들어온 사흘 뒤인가, 진부 읍내를 어슬렁거리다가 이 도서관을 발견했지요. 이 작은 면소재지에 도서관이 있으리라고는 생각도 못했기 때문에 깜짝 놀랐지요. 낮에 갈 데가 생겼다 싶어 반갑더라구요.\"\r\n기획: 최재봉/  연출: 조소영\r\n한겨레TV: http://www.hanitv.com/?mid=tv&category=1589\r\n팟캐스트:  http://itunes.apple.com/kr/podcast/choejaebong-ui-gong-gan-video/id541795605",
+      "publishedAt": "2012-06-18T03:11:07Z",
+      "duration": "PT6M10S",
+      "viewCount": 4882,
+      "likeCount": 25,
+      "commentCount": 0,
+      "tags": [
+        "최재봉의 공간",
+        "김도연",
+        "진부 도서관",
+        "0시의 부에노스아이레스",
+        "조소영"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2012-06-18T03:11:07Z",
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "collectedAt": "2025-09-03T10:48:25Z"
     }
   },
   "channels": {
@@ -210,8 +233,8 @@
       },
       "subscriberCount": 362000,
       "viewCount": 296027619,
-      "videoCount": 6196,
-      "lastUpdated": "2025-09-03T10:01:45.951850Z"
+      "videoCount": 6197,
+      "lastUpdated": "2025-09-03T10:17:19.370852Z"
     },
     "UCHXvjavEtkPFJCfGlm0wTXw": {
       "channelId": "UCHXvjavEtkPFJCfGlm0wTXw",
@@ -237,11 +260,38 @@
       },
       "subscriberCount": 537000,
       "viewCount": 354014202,
-      "videoCount": 11630,
-      "lastUpdated": "2025-09-03T10:01:45.951850Z"
+      "videoCount": 11631,
+      "lastUpdated": "2025-09-03T10:17:19.370852Z"
+    },
+    "UCugbqfMO94F9guLEb6Olb2A": {
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "channelUrl": "@hankyorehtv",
+      "channelDescription": "'더불어 행복한 세상을 만드는 언론' 한겨레 공식 유튜브 채널입니다. \n ■ 편성 및 제휴 문의: leepd@hani.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 946000,
+      "viewCount": 586539536,
+      "videoCount": 9682,
+      "lastUpdated": "2025-09-03T10:48:25.019987Z"
     }
   },
-  "lastUpdated": "2025-09-03T10:01:45.951850Z",
-  "totalVideos": 8,
-  "totalChannels": 2
+  "lastUpdated": "2025-09-03T10:48:25.019987Z",
+  "totalVideos": 9,
+  "totalChannels": 3
 }

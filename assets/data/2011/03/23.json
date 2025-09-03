@@ -1,0 +1,83 @@
+{
+  "videos": {
+    "cBi-1076O7Y": {
+      "videoId": "cBi-1076O7Y",
+      "title": "한양대 음대 '폭력적 상견례'현장",
+      "description": "[뉴스현장 '오늘'] \"머리 박아\" \"디스크? X팔린 줄 알아\"지성의 상아탑에서 벌어지는 야만의 얼차려 현장. 견디다 못해 쓰러진 한 학생은 결국 응급실로 실려갔다.",
+      "publishedAt": "2011-03-23T10:06:49Z",
+      "duration": "PT3M21S",
+      "viewCount": 43665,
+      "likeCount": 58,
+      "commentCount": 47,
+      "tags": [
+        "얼차려",
+        "한양대 음대",
+        "한겨레21",
+        "신입생 상견례"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2011-03-23T10:06:49Z",
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "collectedAt": "2025-09-03T10:48:41Z"
+    },
+    "z2U9mLNBiHw": {
+      "videoId": "z2U9mLNBiHw",
+      "title": "위안부 할머니들, 일본 위해 모금 나서",
+      "description": "한국정신대문제대책협의회는 23일 일본 대사관 앞에서 대지진 피해자를 돕자는 위안부 할머니들의 제안에 따라 이날부터 모금에 나선다고 밝혔다.",
+      "publishedAt": "2011-03-23T06:07:48Z",
+      "duration": "PT1M48S",
+      "viewCount": 534,
+      "likeCount": 1,
+      "commentCount": 2,
+      "tags": [
+        "위안부",
+        "정신대",
+        "정대협",
+        "길원옥",
+        "일본",
+        "지진",
+        "모금"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2011-03-23T06:07:48Z",
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "collectedAt": "2025-09-03T10:48:41Z"
+    }
+  },
+  "channels": {
+    "UCugbqfMO94F9guLEb6Olb2A": {
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "channelUrl": "@hankyorehtv",
+      "channelDescription": "'더불어 행복한 세상을 만드는 언론' 한겨레 공식 유튜브 채널입니다. \n ■ 편성 및 제휴 문의: leepd@hani.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 946000,
+      "viewCount": 586539536,
+      "videoCount": 9682,
+      "lastUpdated": "2025-09-03T10:48:41.209027Z"
+    }
+  },
+  "lastUpdated": "2025-09-03T10:48:41.209027Z",
+  "totalVideos": 2,
+  "totalChannels": 1
+}

@@ -1093,6 +1093,27 @@
       "channelId": "UCdp4_yTBhQmB8E339Lafzow",
       "channelName": "조선일보",
       "collectedAt": "2025-09-03T10:02:23Z"
+    },
+    "r-TKGZ80E9E": {
+      "videoId": "r-TKGZ80E9E",
+      "title": "‘탈선열차 박근혜’ 아무것도 하지 말라 [정치토크 돌직구 35회]",
+      "description": "‘한겨레’ 정치부장이 분석한 청와대의 무능과 퇴행\r\n\r\n 박근혜 대통령이 취임한 지 딱 2년이 지났다. 최근 박근혜 정부 2년을 평가하는 언론과 시민단체의 조사 결과가 나오고 있는데, 잘했다는 평가는 찾아 보기 어렵다. 경실련은 정책전문가 300명을 대상으로 조사했는데 잘못했다는 응답이 80%로 나왔다. 학점으로 따지면 D학점이다. 박근혜 정부 2년을 한 마디로 어떻게 평가할 수 있을까? 가장 잘못한 것은 무엇일까? 그래도 잘한 것이 있다면? \r\n\r\n청와대 출입기자와 워싱턴 특파원을 지낸 권태호 〈한겨레〉 정치부장과 함께 박근혜 정부 2년의 ‘실정’과 그 원인을 분석했다.\r\n\r\n◆ 제작진\r\n진행: 임석규 성한용, 게스트: 권태호, 기술감독: 박성영, 연출: 김도성 정주용 이재만\r\n\r\n\r\n◆ 팟캐스트\r\n-아이튠즈/ https://itunes.apple.com/kr/podcast/jeongchitokeu-doljiggu/id934712464?mt=2\r\n\r\n-팟빵 채널/ http://www.podbbang.com/ch/8405",
+      "publishedAt": "2015-02-26T05:55:01Z",
+      "duration": "PT11M27S",
+      "viewCount": 37884,
+      "likeCount": 102,
+      "commentCount": 10,
+      "tags": [
+        "한겨레TV",
+        "박근혜",
+        "청와대"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2015-02-26T05:55:01Z",
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "collectedAt": "2025-09-03T10:48:13Z"
     }
   },
   "channels": {
@@ -1309,8 +1330,8 @@
       },
       "subscriberCount": 537000,
       "viewCount": 354014202,
-      "videoCount": 11630,
-      "lastUpdated": "2025-09-03T10:02:23.188676Z"
+      "videoCount": 11631,
+      "lastUpdated": "2025-09-03T10:17:07.889451Z"
     },
     "UCdp4_yTBhQmB8E339Lafzow": {
       "channelId": "UCdp4_yTBhQmB8E339Lafzow",
@@ -1336,11 +1357,38 @@
       },
       "subscriberCount": 1700000,
       "viewCount": 1669752256,
-      "videoCount": 22783,
-      "lastUpdated": "2025-09-03T10:02:23.188676Z"
+      "videoCount": 22784,
+      "lastUpdated": "2025-09-03T10:17:07.889451Z"
+    },
+    "UCugbqfMO94F9guLEb6Olb2A": {
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "channelUrl": "@hankyorehtv",
+      "channelDescription": "'더불어 행복한 세상을 만드는 언론' 한겨레 공식 유튜브 채널입니다. \n ■ 편성 및 제휴 문의: leepd@hani.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 946000,
+      "viewCount": 586539536,
+      "videoCount": 9682,
+      "lastUpdated": "2025-09-03T10:48:13.055539Z"
     }
   },
-  "lastUpdated": "2025-09-03T10:02:23.188676Z",
-  "totalVideos": 40,
-  "totalChannels": 9
+  "lastUpdated": "2025-09-03T10:48:13.055539Z",
+  "totalVideos": 41,
+  "totalChannels": 10
 }

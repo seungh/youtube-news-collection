@@ -2049,6 +2049,44 @@
       "channelId": "UCdp4_yTBhQmB8E339Lafzow",
       "channelName": "조선일보",
       "collectedAt": "2025-09-03T10:02:17Z"
+    },
+    "MAehXMcjuIg": {
+      "videoId": "MAehXMcjuIg",
+      "title": "발레리노의 '몸'",
+      "description": "발레리노들은 “하고 나면 죽을 것처럼 힘든 작품”이라는데, 관객들한테는 발레리노의 매력에 빠지는 ‘입문서’가 된다. 발레리노를 주역으로 끌어낸데다가, 발레리노의 키워드라는 정교한 몸을 제대로 부각시키며 발레리노의 매력을 극대화한다. 국립발레단 수석무용수 출신의 김용걸 한국예술종합학교 교수는 “발레리노가 중심이 된 작품이 예전보다 많아지면서, 발레리노의 정교한 몸에 대한 관심도 높아지는 추세”라고 말했다. ‘몸’이란 키워드로 발레리노의 세계를 들여다봤다.\n\n취재 남지은\n영상 조소영\n\n관련기사 : 말근육은 안돼요…‘잔근육의 예술’\nhttp://m.hani.co.kr/arti/culture/music/742938.html",
+      "publishedAt": "2016-05-08T19:18:12Z",
+      "duration": "PT4M49S",
+      "viewCount": 176739,
+      "likeCount": 1026,
+      "commentCount": 81,
+      "tags": [
+        "유니버설발레단",
+        "강민우",
+        "백조의호수"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2016-05-08T19:18:12Z",
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "collectedAt": "2025-09-03T10:48:33Z"
+    },
+    "OREcHUsDLSE": {
+      "videoId": "OREcHUsDLSE",
+      "title": "김병준 특강",
+      "description": "김병준 특강 중",
+      "publishedAt": "2016-05-09T05:54:37Z",
+      "duration": "PT1M2S",
+      "viewCount": 2386,
+      "likeCount": 4,
+      "commentCount": 0,
+      "tags": [],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2016-05-09T05:54:37Z",
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "collectedAt": "2025-09-03T10:48:33Z"
     }
   },
   "channels": {
@@ -2319,8 +2357,8 @@
       },
       "subscriberCount": 537000,
       "viewCount": 354014202,
-      "videoCount": 11630,
-      "lastUpdated": "2025-09-03T10:02:17.968029Z"
+      "videoCount": 11631,
+      "lastUpdated": "2025-09-03T10:17:00.221245Z"
     },
     "UCdp4_yTBhQmB8E339Lafzow": {
       "channelId": "UCdp4_yTBhQmB8E339Lafzow",
@@ -2346,11 +2384,38 @@
       },
       "subscriberCount": 1700000,
       "viewCount": 1669752256,
-      "videoCount": 22783,
-      "lastUpdated": "2025-09-03T10:02:17.968029Z"
+      "videoCount": 22784,
+      "lastUpdated": "2025-09-03T10:17:00.221245Z"
+    },
+    "UCugbqfMO94F9guLEb6Olb2A": {
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "channelUrl": "@hankyorehtv",
+      "channelDescription": "'더불어 행복한 세상을 만드는 언론' 한겨레 공식 유튜브 채널입니다. \n ■ 편성 및 제휴 문의: leepd@hani.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 946000,
+      "viewCount": 586539536,
+      "videoCount": 9682,
+      "lastUpdated": "2025-09-03T10:48:33.503266Z"
     }
   },
-  "lastUpdated": "2025-09-03T10:02:17.968029Z",
-  "totalVideos": 83,
-  "totalChannels": 11
+  "lastUpdated": "2025-09-03T10:48:33.503266Z",
+  "totalVideos": 85,
+  "totalChannels": 12
 }

@@ -1,0 +1,84 @@
+{
+  "videos": {
+    "3LuwRaXepCQ": {
+      "videoId": "3LuwRaXepCQ",
+      "title": "[김어준의 뉴욕타임스] #145. 고성국 박사의 고성방가",
+      "description": "방청객 전원에게 통닭을 걸고 예측해보는 '통닭배 서울시장 보궐선거' 예측! 다음 주를 기대하시라!",
+      "publishedAt": "2011-10-24T02:57:32Z",
+      "duration": "PT1H15M3S",
+      "viewCount": 206404,
+      "likeCount": 270,
+      "commentCount": 12,
+      "tags": [
+        "김어준",
+        "뉴욕타임스",
+        "고성국",
+        "김용민",
+        "한겨레",
+        "하니TV"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2011-10-24T02:57:32Z",
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "collectedAt": "2025-09-03T10:48:25Z"
+    },
+    "HoDzNrNt42Y": {
+      "videoId": "HoDzNrNt42Y",
+      "title": "\"응원한다\" 안철수, 박원순 캠프 지지 방문",
+      "description": "안철수 서울대 융합과학기술대학원장이 \r\n24일 오후 1시께 \r\n범야권 박원순 후보의 \r\n안국동 선거캠프를 지지방문했다",
+      "publishedAt": "2011-10-24T06:07:19Z",
+      "duration": "PT2M45S",
+      "viewCount": 34889,
+      "likeCount": 35,
+      "commentCount": 15,
+      "tags": [
+        "하니뉴스",
+        "안철수",
+        "박원순",
+        "나경원",
+        "서울시장",
+        "오세훈"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2011-10-24T06:07:19Z",
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "collectedAt": "2025-09-03T10:48:25Z"
+    }
+  },
+  "channels": {
+    "UCugbqfMO94F9guLEb6Olb2A": {
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "channelUrl": "@hankyorehtv",
+      "channelDescription": "'더불어 행복한 세상을 만드는 언론' 한겨레 공식 유튜브 채널입니다. \n ■ 편성 및 제휴 문의: leepd@hani.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 946000,
+      "viewCount": 586539536,
+      "videoCount": 9682,
+      "lastUpdated": "2025-09-03T10:48:25.339957Z"
+    }
+  },
+  "lastUpdated": "2025-09-03T10:48:25.339957Z",
+  "totalVideos": 2,
+  "totalChannels": 1
+}

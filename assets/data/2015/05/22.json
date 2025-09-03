@@ -939,6 +939,47 @@
       "channelId": "UCdp4_yTBhQmB8E339Lafzow",
       "channelName": "조선일보",
       "collectedAt": "2025-09-03T10:02:22Z"
+    },
+    "le5lIRMr_fc": {
+      "videoId": "le5lIRMr_fc",
+      "title": "[김어준의 파파이스#51] 이하, 김갑수, 그리고 친노",
+      "description": "한겨레TV 시사탐사쇼! 금요일 밤 11시\n\n1. 김갑수 문화평론가\n   \"분열통치술에 놀아나거나, 내부의 지역주의에 흔들리지 말아야 한다.\"  \n2. 김광진 국회의원\n   \"나는 종북 흑인이다?\"\n3. 이하 팝아티스트\n   \"독재자가 만든 무의식의 액자에서 벗어나는 것.\" \n4. 김어준 총수 생각\n   미국 공화당의 이기는 선거법? \n \n* 도서협찬 [개발새발 예술인생](이하 지음, 썰물과 밀물) \n* 참여 & 제보 트위터: @sisakfc, 페이스북: 김어준의 파파이스, 전자우편: sisakfc@gmail.com\n* 광고문의 전화 02-710-0729, 메일 hanibiz@hani.co.kr \n* 연출: 이경주, 구성: 박연신, 종합편집: 문석진 \n  방송기술: 박성영, 카메라: 정동화 장지남 전상진 박성영\n  벙커팀: 배상명 박주성 이영상 김수기 김준엽 박정원 나호영",
+      "publishedAt": "2015-05-22T11:00:19Z",
+      "duration": "PT1H57M30S",
+      "viewCount": 189982,
+      "likeCount": 711,
+      "commentCount": 83,
+      "tags": [
+        "한겨레TV",
+        "한겨레",
+        "이경주",
+        "김보협",
+        "송채경화",
+        "김어준의뉴욕타임스",
+        "벙커",
+        "KFC",
+        "박근혜",
+        "세월호",
+        "파파이스",
+        "김어준",
+        "정청래",
+        "새정치민주연합",
+        "프로젝트부",
+        "시즌2",
+        "이하",
+        "51회",
+        "김외현",
+        "김갑수",
+        "김광진",
+        "공화당",
+        "선거"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2015-05-22T11:00:19Z",
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "collectedAt": "2025-09-03T10:47:53Z"
     }
   },
   "channels": {
@@ -1155,8 +1196,8 @@
       },
       "subscriberCount": 537000,
       "viewCount": 354014202,
-      "videoCount": 11630,
-      "lastUpdated": "2025-09-03T10:02:22.114645Z"
+      "videoCount": 11631,
+      "lastUpdated": "2025-09-03T10:17:06.458877Z"
     },
     "UCdp4_yTBhQmB8E339Lafzow": {
       "channelId": "UCdp4_yTBhQmB8E339Lafzow",
@@ -1182,11 +1223,38 @@
       },
       "subscriberCount": 1700000,
       "viewCount": 1669752256,
-      "videoCount": 22783,
-      "lastUpdated": "2025-09-03T10:02:22.114645Z"
+      "videoCount": 22784,
+      "lastUpdated": "2025-09-03T10:17:06.458877Z"
+    },
+    "UCugbqfMO94F9guLEb6Olb2A": {
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "channelUrl": "@hankyorehtv",
+      "channelDescription": "'더불어 행복한 세상을 만드는 언론' 한겨레 공식 유튜브 채널입니다. \n ■ 편성 및 제휴 문의: leepd@hani.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 946000,
+      "viewCount": 586539536,
+      "videoCount": 9682,
+      "lastUpdated": "2025-09-03T10:47:53.458297Z"
     }
   },
-  "lastUpdated": "2025-09-03T10:02:22.114645Z",
-  "totalVideos": 38,
-  "totalChannels": 9
+  "lastUpdated": "2025-09-03T10:47:53.458297Z",
+  "totalVideos": 39,
+  "totalChannels": 10
 }

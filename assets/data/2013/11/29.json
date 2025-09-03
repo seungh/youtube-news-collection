@@ -461,6 +461,23 @@
       "channelId": "UCdp4_yTBhQmB8E339Lafzow",
       "channelName": "조선일보",
       "collectedAt": "2025-09-03T10:02:47Z"
+    },
+    "eiHjoRKwGNE": {
+      "videoId": "eiHjoRKwGNE",
+      "title": "창조적 성과를 높이기위한 가장 쉬운 방법은",
+      "description": "5분경영학 (34) 마음속의 당근과 채찍을 찾아라 / 기업의 창조성\n\n\"회사는 창조성을 요구하는데, 회사원은 회사때문에 창조성이 죽는다?\"\n→ 경영현장의 창조성과 문화예술 분야의 창조성은 다르다 \n독창성과 창조성은 다르다 \n\n동기부여는 창조적 성과물을 만드는데 가장 큰 역할을 한다 \n→ 칭찬이나 가치 공유같은 내적 동기부여는 작은 투자로도 창조성 향상 효과를 크게 낼 수 있다 \n\n기획 : 김종일 김명희 / 편집 : 문석진 / 연출 : 이경주 이규호",
+      "publishedAt": "2013-11-29T09:53:26Z",
+      "duration": "PT6M5S",
+      "viewCount": 3943,
+      "likeCount": 4,
+      "commentCount": 0,
+      "tags": [],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2013-11-29T09:53:26Z",
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "collectedAt": "2025-09-03T10:48:40Z"
     }
   },
   "channels": {
@@ -569,11 +586,38 @@
       },
       "subscriberCount": 1700000,
       "viewCount": 1669752256,
-      "videoCount": 22783,
-      "lastUpdated": "2025-09-03T10:02:47.423928Z"
+      "videoCount": 22784,
+      "lastUpdated": "2025-09-03T10:18:04.487452Z"
+    },
+    "UCugbqfMO94F9guLEb6Olb2A": {
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "channelUrl": "@hankyorehtv",
+      "channelDescription": "'더불어 행복한 세상을 만드는 언론' 한겨레 공식 유튜브 채널입니다. \n ■ 편성 및 제휴 문의: leepd@hani.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 946000,
+      "viewCount": 586539536,
+      "videoCount": 9682,
+      "lastUpdated": "2025-09-03T10:48:40.286687Z"
     }
   },
-  "lastUpdated": "2025-09-03T10:02:47.423928Z",
-  "totalVideos": 18,
-  "totalChannels": 4
+  "lastUpdated": "2025-09-03T10:48:40.286687Z",
+  "totalVideos": 19,
+  "totalChannels": 5
 }

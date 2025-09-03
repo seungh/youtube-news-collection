@@ -112,6 +112,29 @@
       "channelId": "UCdp4_yTBhQmB8E339Lafzow",
       "channelName": "조선일보",
       "collectedAt": "2025-09-03T10:02:45Z"
+    },
+    "uG2QrT67-oU": {
+      "videoId": "uG2QrT67-oU",
+      "title": "경찰, 전국 CCTV로 ‘수배차량 검색체계’ 구축…정보인권 침해 ‘논란’",
+      "description": "경찰이 전국 지자체가 운영하는 CCTV 5900여대를 연계해 여기서 촬영된 모든 차량의 정보를 실시간으로 검색할 수 있고, 운행정보를 최소 석달간 경찰청 서버에 보관하는 시스템을 구축한 것으로 확인됐다.\n보인권 침해에 대한 우려가 높아지는 상황인데다 개인정보보호법 위반소지까지 있어 논란이 클 전망이다.\n\n취재 박태우, 편집 김도성, 영상제공 진선미 의원실",
+      "publishedAt": "2014-10-26T10:59:48Z",
+      "duration": "PT1M14S",
+      "viewCount": 12416,
+      "likeCount": 8,
+      "commentCount": 0,
+      "tags": [
+        "CCTV",
+        "씨씨티비",
+        "폐쇄회로텔레비전",
+        "진선미",
+        "개인정보"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2014-10-26T10:59:48Z",
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "collectedAt": "2025-09-03T10:48:34Z"
     }
   },
   "channels": {
@@ -166,11 +189,38 @@
       },
       "subscriberCount": 1700000,
       "viewCount": 1669752256,
-      "videoCount": 22783,
-      "lastUpdated": "2025-09-03T10:02:45.596464Z"
+      "videoCount": 22784,
+      "lastUpdated": "2025-09-03T10:18:02.638820Z"
+    },
+    "UCugbqfMO94F9guLEb6Olb2A": {
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "channelUrl": "@hankyorehtv",
+      "channelDescription": "'더불어 행복한 세상을 만드는 언론' 한겨레 공식 유튜브 채널입니다. \n ■ 편성 및 제휴 문의: leepd@hani.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 946000,
+      "viewCount": 586539536,
+      "videoCount": 9682,
+      "lastUpdated": "2025-09-03T10:48:34.387924Z"
     }
   },
-  "lastUpdated": "2025-09-03T10:02:45.596464Z",
-  "totalVideos": 5,
-  "totalChannels": 2
+  "lastUpdated": "2025-09-03T10:48:34.387924Z",
+  "totalVideos": 6,
+  "totalChannels": 3
 }

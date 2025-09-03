@@ -93,6 +93,55 @@
       "channelId": "UCHXvjavEtkPFJCfGlm0wTXw",
       "channelName": "경향티비",
       "collectedAt": "2025-09-03T10:02:32Z"
+    },
+    "P358IEGNNOk": {
+      "videoId": "P358IEGNNOk",
+      "title": "12월 대선, PK 자영업자에 주목하라",
+      "description": "이번 대선의 핵으로 떠오른 부산․경남 지역. 문재인, 안철수 후보의 출신지인 동시에 보수 정당의 텃밭이다. 최근 부산․경남 지역에서 문재인 안철수 후보의 지지율이 노무현 전 대통령의 지지율 보다 10%p가량 높다는 언론 보도가 나왔다. 여론 조사 전문가인 한겨레 사회정책 연구소의 한귀영 연구 위원은 부산․경남 지역의 자영업층에 주목해 볼 필요가 있다고 말한다. 왜 하필 자영업층일까? 부산․경남 지역의 자영업층, 그들에게 주목해야할 이유. 한귀영의 1 2 3 4에서 알아보았다.",
+      "publishedAt": "2012-10-10T06:46:49Z",
+      "duration": "PT4M38S",
+      "viewCount": 8654,
+      "likeCount": 10,
+      "commentCount": 1,
+      "tags": [
+        "한겨레tv",
+        "대선",
+        "문재인",
+        "안철수",
+        "박근혜",
+        "대통령",
+        "한귀영"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2012-10-10T06:46:49Z",
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "collectedAt": "2025-09-03T10:48:23Z"
+    },
+    "qYENRhihoYk": {
+      "videoId": "qYENRhihoYk",
+      "title": "[한귀영의 1 2 3 4] '안VS문' 현재 스코어 16대8?",
+      "description": "오늘의 숫자 51.8. 이 숫자는 정권교체를 찬성하는 56.7%에 박근혜 후보가 대통령이 되어도 정권교체라고 생각하는 4.9%를 뺀 수치로 '야권 지지율 최대치'를 뜻한다. 이번 시간에는 야권 지지율 최대치 51.8%를 통해 이번 대선의 화두로 떠오른 문재인, 안철수 후보의 야권 후보 단일화를 전망해 본다.\r\n\r\n연출 정주용",
+      "publishedAt": "2012-10-10T05:59:59Z",
+      "duration": "PT6M42S",
+      "viewCount": 20098,
+      "likeCount": 11,
+      "commentCount": 6,
+      "tags": [
+        "한겨레tv",
+        "대선",
+        "단일화",
+        "문재인",
+        "안철수",
+        "야권"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2012-10-10T05:59:59Z",
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "collectedAt": "2025-09-03T10:48:23Z"
     }
   },
   "channels": {
@@ -120,11 +169,38 @@
       },
       "subscriberCount": 537000,
       "viewCount": 354014202,
-      "videoCount": 11630,
-      "lastUpdated": "2025-09-03T10:02:32.859854Z"
+      "videoCount": 11631,
+      "lastUpdated": "2025-09-03T10:17:18.241651Z"
+    },
+    "UCugbqfMO94F9guLEb6Olb2A": {
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "channelUrl": "@hankyorehtv",
+      "channelDescription": "'더불어 행복한 세상을 만드는 언론' 한겨레 공식 유튜브 채널입니다. \n ■ 편성 및 제휴 문의: leepd@hani.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 946000,
+      "viewCount": 586539536,
+      "videoCount": 9682,
+      "lastUpdated": "2025-09-03T10:48:23.806927Z"
     }
   },
-  "lastUpdated": "2025-09-03T10:02:32.859854Z",
-  "totalVideos": 4,
-  "totalChannels": 1
+  "lastUpdated": "2025-09-03T10:48:23.806927Z",
+  "totalVideos": 6,
+  "totalChannels": 2
 }

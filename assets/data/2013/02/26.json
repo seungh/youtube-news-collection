@@ -177,6 +177,30 @@
       "channelId": "UCHXvjavEtkPFJCfGlm0wTXw",
       "channelName": "경향티비",
       "collectedAt": "2025-09-03T10:02:31Z"
+    },
+    "tyLZ_x3raIA": {
+      "videoId": "tyLZ_x3raIA",
+      "title": "[한겨레캐스트 #47] '박정희 유전자'의 부활",
+      "description": "2013년 2월26일(화)〈한겨레캐스트 2013 #47 - '21의 생각'〉\n박근혜 정부와 '박정희 DNA'의 부활\n〈한겨레21〉기자들의 시사이슈 프로그램\n \n◆ 주요내용\n\n인혁당 판결 즉시 사형 집행 명령서에 서명한 서종철 전 장관의 아들 서승환 국토교통부장관. 제4차 경제개발5개년계획을 기획한 현오석 경제부총리 후보자...\n\n'박근혜 정부'의 출범을 이끌 새 정부 장관 후보자와 청와대 비서진의 진용이 갖춰졌다. 무엇보다 눈에 띄는 건 30년 넘는 세월을 뛰어넘어, 그것도 딸인 박근혜 대통령을 통해 부활한 박정희의 유전자다.  서승환 국토교통부 장관 후보자의 경우 부친의 이력이 논란거리다. 그의 부친인 서종철 전 국방부 장관은 육사 1기 출신으로, 박 전 대통령의 한 기수 선배다. 서 저 장관이 일본군 소위 출신이라는 사실을 두고 소셜네트워크서비스(SNS)를 중심으로 친일 논란도 거세게 일고 있지만, 민족문제연구소가 편찬한 〈친일인명사전〉에서 서종철이라는 이름은 제외됐다. 연구소의 조세열 사무총장은 \"서종철 전 장관의 경우 일본군 소위로 임관한 직후 해방을 맞았고, 학도병 출신으로 기록돼 자발적 입대 여부와 구체적 친일 행적을 확인 할 수 없으므로 인명사전에 등재되지 않았다\"고 설명했다... \n(중략)\n\n전두환·노태우가 부관이었던 장관의 아들\n정영회 \"올해는 대통령과 함께 가든파티를\"\n무기·시멘트 업체 ...화려한 '로비스트 정부'\n\n◆ 제작진\n\n앵커: 김남일, 출연: 송호균, 기술감독: 박성영, 연출: 조소영 박종찬 \n\n◆ 팟캐스트\n-https://itunes.apple.com/kr/podcast/hangyeolekaeseuteu-2012-audio/id579232108",
+      "publishedAt": "2013-02-26T07:56:45Z",
+      "duration": "PT18M6S",
+      "viewCount": 60938,
+      "likeCount": 85,
+      "commentCount": 25,
+      "tags": [
+        "한겨레캐스트",
+        "한겨레21",
+        "박정희",
+        "박근혜",
+        "송호균",
+        "김남일"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2013-02-26T07:56:45Z",
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "collectedAt": "2025-09-03T10:48:18Z"
     }
   },
   "channels": {
@@ -231,11 +255,38 @@
       },
       "subscriberCount": 537000,
       "viewCount": 354014202,
-      "videoCount": 11630,
-      "lastUpdated": "2025-09-03T10:02:31.618828Z"
+      "videoCount": 11631,
+      "lastUpdated": "2025-09-03T10:17:16.686334Z"
+    },
+    "UCugbqfMO94F9guLEb6Olb2A": {
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "channelUrl": "@hankyorehtv",
+      "channelDescription": "'더불어 행복한 세상을 만드는 언론' 한겨레 공식 유튜브 채널입니다. \n ■ 편성 및 제휴 문의: leepd@hani.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 946000,
+      "viewCount": 586539536,
+      "videoCount": 9682,
+      "lastUpdated": "2025-09-03T10:48:18.424716Z"
     }
   },
-  "lastUpdated": "2025-09-03T10:02:31.620848Z",
-  "totalVideos": 7,
-  "totalChannels": 2
+  "lastUpdated": "2025-09-03T10:48:18.424716Z",
+  "totalVideos": 8,
+  "totalChannels": 3
 }

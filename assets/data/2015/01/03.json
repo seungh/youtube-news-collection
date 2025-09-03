@@ -472,6 +472,45 @@
       "channelId": "UCdp4_yTBhQmB8E339Lafzow",
       "channelName": "조선일보",
       "collectedAt": "2025-09-03T10:02:45Z"
+    },
+    "h2fFJHEAS04": {
+      "videoId": "h2fFJHEAS04",
+      "title": "[고공21] ‘하늘 노동자‘의 첫번째 귀가",
+      "description": "[한겨레 포커스] 씨앤앰 비정규직 노동자 임정균씨와 강성덕씨가 50일만에 땅을 밟았다. \n하지만, 아직도 45m 와 70m  고공에서 ‘하늘살이’를 하는 이들이 있다. \n2015년이 시작됐지먼, 그들은 각각 220일째와 20일째 고공에서 아침을 맞았다.\n\n경북 구미 스타케미칼 공장 차광호 해고노동자\n경기 평택 쌍용차 공장 이창근, 김정욱 해고노동자\n\n고공에서 한해를 보내며, 또 한해를 맞이했던 이들의 생생한 모습과 이야기들을 영상으로 담았다. \n\n기획 : 한겨레21 이문영 기자\n영상취재 : 강예슬, 정인선, 이수현 인턴기자 \n연출 : 이규호 정인환",
+      "publishedAt": "2015-01-02T17:31:06Z",
+      "duration": "PT5M51S",
+      "viewCount": 5400,
+      "likeCount": 13,
+      "commentCount": 1,
+      "tags": [
+        "씨앤앰",
+        "비정규직",
+        "임정균",
+        "강성덕",
+        "하늘살이",
+        "스타케미칼",
+        "차광호",
+        "해고노동자",
+        "쌍용차",
+        "이찬근",
+        "김정호",
+        "고공농성",
+        "고공",
+        "한겨레21",
+        "고공21",
+        "이문영",
+        "강예슬",
+        "정인선",
+        "이수현",
+        "이규호",
+        "정인환"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2015-01-02T17:31:06Z",
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "collectedAt": "2025-09-03T10:48:22Z"
     }
   },
   "channels": {
@@ -580,11 +619,38 @@
       },
       "subscriberCount": 1700000,
       "viewCount": 1669752256,
-      "videoCount": 22783,
-      "lastUpdated": "2025-09-03T10:02:45.211811Z"
+      "videoCount": 22784,
+      "lastUpdated": "2025-09-03T10:18:02.477253Z"
+    },
+    "UCugbqfMO94F9guLEb6Olb2A": {
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "channelUrl": "@hankyorehtv",
+      "channelDescription": "'더불어 행복한 세상을 만드는 언론' 한겨레 공식 유튜브 채널입니다. \n ■ 편성 및 제휴 문의: leepd@hani.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 946000,
+      "viewCount": 586539536,
+      "videoCount": 9682,
+      "lastUpdated": "2025-09-03T10:48:22.978179Z"
     }
   },
-  "lastUpdated": "2025-09-03T10:02:45.211811Z",
-  "totalVideos": 15,
-  "totalChannels": 4
+  "lastUpdated": "2025-09-03T10:48:22.978179Z",
+  "totalVideos": 16,
+  "totalChannels": 5
 }

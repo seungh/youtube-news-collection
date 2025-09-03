@@ -1405,6 +1405,31 @@
       "channelId": "UCdp4_yTBhQmB8E339Lafzow",
       "channelName": "조선일보",
       "collectedAt": "2025-09-03T10:02:22Z"
+    },
+    "P6A1UZsVRlU": {
+      "videoId": "P6A1UZsVRlU",
+      "title": "권한으로의 도피",
+      "description": "1946년 5월 일본 도쿄. 세계 2차대전을 일으킨 일본의 전쟁범죄를 심판하는 극동 국제 군사재판이 시작됐다. 검사의 심문에 A급 전범들이 변호의 방패로 삼은 건 바로 법. 그들은 불리한 질문을 받으면 법에 규정되어 있는 직무권한을 내세우며 책임을 회피했다. 불리한 상황에서 권한으로 도피하는 것은 2015년 대한민국 사회에서도 볼 수 있다. 법과 권한 뒤에 숨은 이성과 양심은 바로 우리의 이야기다. \n\n구성 연출:이재만\n제작: 한겨레TV",
+      "publishedAt": "2015-05-26T09:50:21Z",
+      "duration": "PT4M12S",
+      "viewCount": 6854,
+      "likeCount": 38,
+      "commentCount": 3,
+      "tags": [
+        "마루야마 마사오",
+        "권한으로의 도피",
+        "전범재판",
+        "2차대전",
+        "박근혜",
+        "박상옥",
+        "세월호"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2015-05-26T09:50:21Z",
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "collectedAt": "2025-09-03T10:47:53Z"
     }
   },
   "channels": {
@@ -1594,8 +1619,8 @@
       },
       "subscriberCount": 537000,
       "viewCount": 354014202,
-      "videoCount": 11630,
-      "lastUpdated": "2025-09-03T10:02:22.063206Z"
+      "videoCount": 11631,
+      "lastUpdated": "2025-09-03T10:17:06.403639Z"
     },
     "UCdp4_yTBhQmB8E339Lafzow": {
       "channelId": "UCdp4_yTBhQmB8E339Lafzow",
@@ -1621,11 +1646,38 @@
       },
       "subscriberCount": 1700000,
       "viewCount": 1669752256,
-      "videoCount": 22783,
-      "lastUpdated": "2025-09-03T10:02:22.063206Z"
+      "videoCount": 22784,
+      "lastUpdated": "2025-09-03T10:17:06.403639Z"
+    },
+    "UCugbqfMO94F9guLEb6Olb2A": {
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "channelUrl": "@hankyorehtv",
+      "channelDescription": "'더불어 행복한 세상을 만드는 언론' 한겨레 공식 유튜브 채널입니다. \n ■ 편성 및 제휴 문의: leepd@hani.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 946000,
+      "viewCount": 586539536,
+      "videoCount": 9682,
+      "lastUpdated": "2025-09-03T10:47:53.434881Z"
     }
   },
-  "lastUpdated": "2025-09-03T10:02:22.063206Z",
-  "totalVideos": 48,
-  "totalChannels": 8
+  "lastUpdated": "2025-09-03T10:47:53.434881Z",
+  "totalVideos": 49,
+  "totalChannels": 9
 }

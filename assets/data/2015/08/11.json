@@ -1965,6 +1965,34 @@
       "channelId": "UCdp4_yTBhQmB8E339Lafzow",
       "channelName": "조선일보",
       "collectedAt": "2025-09-03T10:02:21Z"
+    },
+    "WldL0DGXkck": {
+      "videoId": "WldL0DGXkck",
+      "title": "[인터뷰] 아티스트 봉만대 \"더 솔직하게 더 음란하게\"",
+      "description": "한겨레 미디어카페 후[HU:]에서 열린 '후아유콘서트'.\n아티스트 봉만대 영화감독 출연 .\n\"한국에는 에로감독은 있지만 에로배우는 없다\"\n\"내 아들의 첫 성인영화는 내 영화였으면...\"\n\"10년후 천만관객이 보는 영화만드는게 꿈\"\n\n사회: 씨네21 주성철편집장\n기술: 박성영\n연출: 이경주\n제작: 한겨레TV\n\n*끝부분 녹음상태가 좋지 않아 불편을 드려서 죄송합니다.\n#봉만대 #에로 #영화",
+      "publishedAt": "2015-08-11T05:57:56Z",
+      "duration": "PT1H3M6S",
+      "viewCount": 14105,
+      "likeCount": 14,
+      "commentCount": 1,
+      "tags": [
+        "봉만대",
+        "미디어 카페 후",
+        "한겨레",
+        "한겨레tv",
+        "에로영화",
+        "19금",
+        "성인물",
+        "영화",
+        "예술",
+        "감독"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2015-08-11T05:57:56Z",
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "collectedAt": "2025-09-03T10:47:18Z"
     }
   },
   "channels": {
@@ -2208,8 +2236,8 @@
       },
       "subscriberCount": 537000,
       "viewCount": 354014202,
-      "videoCount": 11630,
-      "lastUpdated": "2025-09-03T10:02:21.234049Z"
+      "videoCount": 11631,
+      "lastUpdated": "2025-09-03T10:17:05.055295Z"
     },
     "UCdp4_yTBhQmB8E339Lafzow": {
       "channelId": "UCdp4_yTBhQmB8E339Lafzow",
@@ -2235,11 +2263,38 @@
       },
       "subscriberCount": 1700000,
       "viewCount": 1669752256,
-      "videoCount": 22783,
-      "lastUpdated": "2025-09-03T10:02:21.234049Z"
+      "videoCount": 22784,
+      "lastUpdated": "2025-09-03T10:17:05.055295Z"
+    },
+    "UCugbqfMO94F9guLEb6Olb2A": {
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "channelUrl": "@hankyorehtv",
+      "channelDescription": "'더불어 행복한 세상을 만드는 언론' 한겨레 공식 유튜브 채널입니다. \n ■ 편성 및 제휴 문의: leepd@hani.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 946000,
+      "viewCount": 586539536,
+      "videoCount": 9682,
+      "lastUpdated": "2025-09-03T10:47:18.921119Z"
     }
   },
-  "lastUpdated": "2025-09-03T10:02:21.234049Z",
-  "totalVideos": 75,
-  "totalChannels": 10
+  "lastUpdated": "2025-09-03T10:47:18.921119Z",
+  "totalVideos": 76,
+  "totalChannels": 11
 }

@@ -417,6 +417,26 @@
       "channelId": "UCHXvjavEtkPFJCfGlm0wTXw",
       "channelName": "경향티비",
       "collectedAt": "2025-09-03T10:01:44Z"
+    },
+    "KDKKdnk42Z4": {
+      "videoId": "KDKKdnk42Z4",
+      "title": "[LIVE] 100세 인생, 이렇게 준비하시죠!…100세 시대를 사는",
+      "description": "\"아직은 젊어서 못 간다고 전해라~\"\n가수 이애란의 ‘100세 인생’ 중 한 대목입니다.\n\n\n네, 정말 100세 시대가 왔습니다.\n장수는 인류의 꿈이지만 준비가 되어 있지 않다면 축복이라고 말하기 어렵겠죠.\n \n지금 서울시청 시민청 활짝라운지에선 신성식 복지전문기자가 ‘100세 시대를 사는 법’이라는 주제로 강연을 하고 있습니다.\n \nOn Air.\n100세 시대, 어떻게 준비해야 할지 막막하다면 이 강연에 주목하세요.",
+      "publishedAt": "2016-04-10T02:33:39Z",
+      "duration": "PT8M29S",
+      "viewCount": 194,
+      "likeCount": 0,
+      "commentCount": 0,
+      "tags": [],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": {
+        "actualStartTime": "2016-04-10T02:14:24Z",
+        "actualEndTime": "2016-04-10T02:24:23Z"
+      },
+      "actualPubAt": "2016-04-10T02:14:24Z",
+      "channelId": "UCH3mJ-nHxjjny2FJbJaqiDA",
+      "channelName": "중앙일보",
+      "collectedAt": "2025-09-03T10:49:21Z"
     }
   },
   "channels": {
@@ -579,8 +599,8 @@
       },
       "subscriberCount": 362000,
       "viewCount": 296027619,
-      "videoCount": 6196,
-      "lastUpdated": "2025-09-03T10:01:44.632333Z"
+      "videoCount": 6197,
+      "lastUpdated": "2025-09-03T10:17:00.696496Z"
     },
     "UCHXvjavEtkPFJCfGlm0wTXw": {
       "channelId": "UCHXvjavEtkPFJCfGlm0wTXw",
@@ -606,11 +626,38 @@
       },
       "subscriberCount": 537000,
       "viewCount": 354014202,
-      "videoCount": 11630,
-      "lastUpdated": "2025-09-03T10:01:44.632333Z"
+      "videoCount": 11631,
+      "lastUpdated": "2025-09-03T10:17:00.696496Z"
+    },
+    "UCH3mJ-nHxjjny2FJbJaqiDA": {
+      "channelId": "UCH3mJ-nHxjjny2FJbJaqiDA",
+      "channelName": "중앙일보",
+      "channelUrl": "@joongangilbo",
+      "channelDescription": "현장의 진실을 중앙에 두다.",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/iqcE5aK4gFUjm5A-QO4FLDCDrTgOXTfU3oCyirTZcT9Ev1i_sKtx82GqfF2rPDfbBgFtBqL0uw=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/iqcE5aK4gFUjm5A-QO4FLDCDrTgOXTfU3oCyirTZcT9Ev1i_sKtx82GqfF2rPDfbBgFtBqL0uw=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/iqcE5aK4gFUjm5A-QO4FLDCDrTgOXTfU3oCyirTZcT9Ev1i_sKtx82GqfF2rPDfbBgFtBqL0uw=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 555000,
+      "viewCount": 475518285,
+      "videoCount": 18651,
+      "lastUpdated": "2025-09-03T10:49:21.723030Z"
     }
   },
-  "lastUpdated": "2025-09-03T10:01:44.632333Z",
-  "totalVideos": 11,
-  "totalChannels": 7
+  "lastUpdated": "2025-09-03T10:49:21.724028Z",
+  "totalVideos": 12,
+  "totalChannels": 8
 }

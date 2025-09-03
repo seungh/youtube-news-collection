@@ -6758,6 +6758,35 @@
       "channelId": "UCnHyx6H7fhKfUoAAaVGYvxQ",
       "channelName": "동아일보",
       "collectedAt": "2025-09-03T10:00:47Z"
+    },
+    "OdnG1zu-Jgs": {
+      "videoId": "OdnG1zu-Jgs",
+      "title": "\"안될 줄 알면서도 김진아 찍었다\" '이여자'는 왜 민주당에 등 돌렸나 │ #밀실",
+      "description": "“4·7 재보궐선거에서 우리가 20대 남성의 지지를 잃은 건 페미니즘 때문”이라는 민주당의 선거 참패 원인 분석에 대해 20대 여성들은 “그건 염치없는 생각\"이라고 말한다. \n\n실제로 여론조사 전문가들은 동일 세대에서 성별 간 정치적 인식 격차가 이렇게 크게 난 적이 없다고 지적한다. \n\n국민의힘·민주당·그 외 3정당에 표를 던진 20대 여성 5명 인터뷰했다.\n\n#이여자 #이대남 #더불어민주당",
+      "publishedAt": "2021-04-24T23:00:04Z",
+      "duration": "PT5M18S",
+      "viewCount": 4330,
+      "likeCount": 31,
+      "commentCount": 55,
+      "tags": [
+        "중앙일보",
+        "이여자",
+        "이대남",
+        "친여",
+        "재보선",
+        "민주당 참패",
+        "페미니즘",
+        "제3후보",
+        "더불어민주당",
+        "국민의힘",
+        "소수정당"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2021-04-24T23:00:04Z",
+      "channelId": "UCH3mJ-nHxjjny2FJbJaqiDA",
+      "channelName": "중앙일보",
+      "collectedAt": "2025-09-03T10:49:13Z"
     }
   },
   "channels": {
@@ -6946,9 +6975,9 @@
         }
       },
       "subscriberCount": 1340000,
-      "viewCount": 870924917,
-      "videoCount": 32030,
-      "lastUpdated": "2025-08-24T21:52:55.489156Z"
+      "viewCount": 871828833,
+      "videoCount": 32204,
+      "lastUpdated": "2025-09-03T10:53:37.182904Z"
     },
     "UCkinYTS9IHqOEwR1Sze2JTw": {
       "channelId": "UCkinYTS9IHqOEwR1Sze2JTw",
@@ -7165,9 +7194,36 @@
       "viewCount": 47341564,
       "videoCount": 4079,
       "lastUpdated": "2025-09-03T10:00:47.935319Z"
+    },
+    "UCH3mJ-nHxjjny2FJbJaqiDA": {
+      "channelId": "UCH3mJ-nHxjjny2FJbJaqiDA",
+      "channelName": "중앙일보",
+      "channelUrl": "@joongangilbo",
+      "channelDescription": "현장의 진실을 중앙에 두다.",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/iqcE5aK4gFUjm5A-QO4FLDCDrTgOXTfU3oCyirTZcT9Ev1i_sKtx82GqfF2rPDfbBgFtBqL0uw=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/iqcE5aK4gFUjm5A-QO4FLDCDrTgOXTfU3oCyirTZcT9Ev1i_sKtx82GqfF2rPDfbBgFtBqL0uw=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/iqcE5aK4gFUjm5A-QO4FLDCDrTgOXTfU3oCyirTZcT9Ev1i_sKtx82GqfF2rPDfbBgFtBqL0uw=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 555000,
+      "viewCount": 475518285,
+      "videoCount": 18651,
+      "lastUpdated": "2025-09-03T10:49:13.312359Z"
     }
   },
-  "lastUpdated": "2025-09-03T10:00:47.935319Z",
-  "totalVideos": 210,
-  "totalChannels": 15
+  "lastUpdated": "2025-09-03T10:53:37.182904Z",
+  "totalVideos": 211,
+  "totalChannels": 16
 }

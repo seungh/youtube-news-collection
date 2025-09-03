@@ -20,6 +20,54 @@
       "channelId": "UC1aS5CRRDrN6CmR2VcpmetA",
       "channelName": "한국일보(hankookilbo.com)",
       "collectedAt": "2025-09-03T10:01:45Z"
+    },
+    "lP3Rh9MoI4o": {
+      "videoId": "lP3Rh9MoI4o",
+      "title": "[차이나리포트21회] 병마용은 진시황과 무관하다?...'산시'",
+      "description": "린퉁의 세계문화유산 병마용을 둘러보고 시안의 후이족 사원을 거닐다 한국드라마를 좋아하는 중국인 친구와 저녁을 함께 하다",
+      "publishedAt": "2011-09-21T00:45:40Z",
+      "duration": "PT20M18S",
+      "viewCount": 54851,
+      "likeCount": 97,
+      "commentCount": 23,
+      "tags": [
+        "중국",
+        "병마용",
+        "진시황",
+        "산시",
+        "린퉁",
+        "세계문화유산",
+        "후이족",
+        "시안"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2011-09-21T00:45:40Z",
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "collectedAt": "2025-09-03T10:48:11Z"
+    },
+    "Cn2HIjmwZJE": {
+      "videoId": "Cn2HIjmwZJE",
+      "title": "박원순 서울시장 출마 \"사람을 위한 도시로 변화하는 10년\"",
+      "description": "21일 오전 서울 백범회관서 기자회견...반드시 실천할 핵심공약 6가지 내놔\r\n시민들에게 '돈 꿔서' 선거자금 마련...\"민주당 입당은 통합후보 된 뒤 고민\"",
+      "publishedAt": "2011-09-21T05:37:21Z",
+      "duration": "PT1M51S",
+      "viewCount": 2486,
+      "likeCount": 2,
+      "commentCount": 0,
+      "tags": [
+        "박원순",
+        "서울시장",
+        "출마",
+        "기자회견"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2011-09-21T05:37:21Z",
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "collectedAt": "2025-09-03T10:48:11Z"
     }
   },
   "channels": {
@@ -47,11 +95,38 @@
       },
       "subscriberCount": 362000,
       "viewCount": 296027619,
-      "videoCount": 6196,
-      "lastUpdated": "2025-09-03T10:01:45.833651Z"
+      "videoCount": 6197,
+      "lastUpdated": "2025-09-03T10:17:40.548638Z"
+    },
+    "UCugbqfMO94F9guLEb6Olb2A": {
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "channelUrl": "@hankyorehtv",
+      "channelDescription": "'더불어 행복한 세상을 만드는 언론' 한겨레 공식 유튜브 채널입니다. \n ■ 편성 및 제휴 문의: leepd@hani.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 946000,
+      "viewCount": 586539536,
+      "videoCount": 9682,
+      "lastUpdated": "2025-09-03T10:48:11.006605Z"
     }
   },
-  "lastUpdated": "2025-09-03T10:01:45.833651Z",
-  "totalVideos": 1,
-  "totalChannels": 1
+  "lastUpdated": "2025-09-03T10:48:11.006605Z",
+  "totalVideos": 3,
+  "totalChannels": 2
 }

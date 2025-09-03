@@ -3063,6 +3063,27 @@
       "channelId": "UCdp4_yTBhQmB8E339Lafzow",
       "channelName": "조선일보",
       "collectedAt": "2025-09-03T10:01:31Z"
+    },
+    "xn-TQDGHzbc": {
+      "videoId": "xn-TQDGHzbc",
+      "title": "김명수 대법원장 후보자 인사청문회",
+      "description": "9월12일 국회 인사청문회장에서 열린 김명수 대법원장 후보자 인사청문회의 녹화방송입니다. 이 영상은 국회방송이 제공합니다. 〈한겨레TV〉",
+      "publishedAt": "2017-09-12T04:01:13Z",
+      "duration": "PT2H13M40S",
+      "viewCount": 5607,
+      "likeCount": 32,
+      "commentCount": 6,
+      "tags": [],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": {
+        "actualStartTime": "2017-09-12T01:01:45Z",
+        "actualEndTime": "2017-09-12T03:16:32Z",
+        "scheduledStartTime": "1970-01-01T08:59:00Z"
+      },
+      "actualPubAt": "2017-09-12T01:01:45Z",
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "collectedAt": "2025-09-03T10:47:44Z"
     }
   },
   "channels": {
@@ -3279,8 +3300,8 @@
       },
       "subscriberCount": 362000,
       "viewCount": 296027619,
-      "videoCount": 6196,
-      "lastUpdated": "2025-09-03T10:01:31.342260Z"
+      "videoCount": 6197,
+      "lastUpdated": "2025-09-03T10:17:37.429682Z"
     },
     "UCdp4_yTBhQmB8E339Lafzow": {
       "channelId": "UCdp4_yTBhQmB8E339Lafzow",
@@ -3306,11 +3327,38 @@
       },
       "subscriberCount": 1700000,
       "viewCount": 1669752256,
-      "videoCount": 22783,
-      "lastUpdated": "2025-09-03T10:01:31.342260Z"
+      "videoCount": 22784,
+      "lastUpdated": "2025-09-03T10:17:37.429682Z"
+    },
+    "UCugbqfMO94F9guLEb6Olb2A": {
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "channelUrl": "@hankyorehtv",
+      "channelDescription": "'더불어 행복한 세상을 만드는 언론' 한겨레 공식 유튜브 채널입니다. \n ■ 편성 및 제휴 문의: leepd@hani.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 946000,
+      "viewCount": 586539536,
+      "videoCount": 9682,
+      "lastUpdated": "2025-09-03T10:47:44.616817Z"
     }
   },
-  "lastUpdated": "2025-09-03T10:01:31.342260Z",
-  "totalVideos": 101,
-  "totalChannels": 9
+  "lastUpdated": "2025-09-03T10:47:44.616817Z",
+  "totalVideos": 102,
+  "totalChannels": 10
 }

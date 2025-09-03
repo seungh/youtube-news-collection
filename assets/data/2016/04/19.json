@@ -1654,6 +1654,26 @@
       "channelId": "UCdp4_yTBhQmB8E339Lafzow",
       "channelName": "조선일보",
       "collectedAt": "2025-09-03T10:01:36Z"
+    },
+    "A6-x1oUhcqI": {
+      "videoId": "A6-x1oUhcqI",
+      "title": "“오늘이 마지막인 것처럼”…세월호 생존학생의 2년",
+      "description": "벌써 2년입니다. 세월호 참사 생존학생들은 이제 스무살이 되었습니다. 이들은 그동안 어떤 2년을 겪었을까요? 참사의 순간을 그들은 어떻게 기억하고 있을까요?\n이 영상은 책 ‘다시 봄이 올 거예요’의 내용 중 일부를 영상화한 것입니다. 이 책은 생존학생과 형제자매의 육성기록집입니다. 이 이야기는 그 중 생존학생 이시우(가명)의 구술 내용을 김순천 작가가 기록한 것입니다.\n연출 김도성 kdspd@hani.co.kr",
+      "publishedAt": "2016-04-19T02:20:10Z",
+      "duration": "PT8M48S",
+      "viewCount": 25700,
+      "likeCount": 151,
+      "commentCount": 18,
+      "tags": [
+        "세월호",
+        "한겨레"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2016-04-19T02:20:10Z",
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "collectedAt": "2025-09-03T10:47:52Z"
     }
   },
   "channels": {
@@ -1897,8 +1917,8 @@
       },
       "subscriberCount": 362000,
       "viewCount": 296027619,
-      "videoCount": 6196,
-      "lastUpdated": "2025-09-03T10:01:36.892271Z"
+      "videoCount": 6197,
+      "lastUpdated": "2025-09-03T10:17:00.535050Z"
     },
     "UCHXvjavEtkPFJCfGlm0wTXw": {
       "channelId": "UCHXvjavEtkPFJCfGlm0wTXw",
@@ -1924,8 +1944,8 @@
       },
       "subscriberCount": 537000,
       "viewCount": 354014202,
-      "videoCount": 11630,
-      "lastUpdated": "2025-09-03T10:01:36.892271Z"
+      "videoCount": 11631,
+      "lastUpdated": "2025-09-03T10:17:00.532437Z"
     },
     "UCdp4_yTBhQmB8E339Lafzow": {
       "channelId": "UCdp4_yTBhQmB8E339Lafzow",
@@ -1951,11 +1971,38 @@
       },
       "subscriberCount": 1700000,
       "viewCount": 1669752256,
-      "videoCount": 22783,
-      "lastUpdated": "2025-09-03T10:01:36.892271Z"
+      "videoCount": 22784,
+      "lastUpdated": "2025-09-03T10:17:00.535050Z"
+    },
+    "UCugbqfMO94F9guLEb6Olb2A": {
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "channelUrl": "@hankyorehtv",
+      "channelDescription": "'더불어 행복한 세상을 만드는 언론' 한겨레 공식 유튜브 채널입니다. \n ■ 편성 및 제휴 문의: leepd@hani.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 946000,
+      "viewCount": 586539536,
+      "videoCount": 9682,
+      "lastUpdated": "2025-09-03T10:47:52.915096Z"
     }
   },
-  "lastUpdated": "2025-09-03T10:01:36.892271Z",
-  "totalVideos": 65,
-  "totalChannels": 11
+  "lastUpdated": "2025-09-03T10:47:52.915096Z",
+  "totalVideos": 66,
+  "totalChannels": 12
 }

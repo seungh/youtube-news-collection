@@ -177,6 +177,23 @@
       "channelId": "UC4Aa3OPkMenwTANpf0oWVRQ",
       "channelName": "CBS 김현정의 뉴스쇼",
       "collectedAt": "2025-08-22T14:03:36Z"
+    },
+    "rMof5xj45R0": {
+      "videoId": "rMof5xj45R0",
+      "title": "[포토 오디세이 20회] 공존",
+      "description": "'곽윤섭의 사진마을'  과 함께 하는\n시청자 참여 프로젝트 스무번째 테마 '공존'\n\n모든 경계에\n꽃이 핀다고 했던가요\n\n다름은 틀린 거와 다릅니다\n같음과 어울리면\n전혀 다른 같음이 생깁니다\n\n나와 남은 받침 하나 차이입니다\n구별하되 차별하지 않으면\n전혀 다른 우리가 태어납니다\n　\n더불어 함께 차이 나는 다름\n공존의 미학입니다\n\n\n기획 곽윤섭 / 프로듀서 이경주 / 글 구성 문병권 / 편집 이규호",
+      "publishedAt": "2013-08-09T07:59:56Z",
+      "duration": "PT6M28S",
+      "viewCount": 3180,
+      "likeCount": 7,
+      "commentCount": 0,
+      "tags": [],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2013-08-09T07:59:56Z",
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "collectedAt": "2025-09-03T10:48:40Z"
     }
   },
   "channels": {
@@ -233,9 +250,36 @@
       "viewCount": 1280577570,
       "videoCount": 19124,
       "lastUpdated": "2025-08-24T21:55:14.739153Z"
+    },
+    "UCugbqfMO94F9guLEb6Olb2A": {
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "channelUrl": "@hankyorehtv",
+      "channelDescription": "'더불어 행복한 세상을 만드는 언론' 한겨레 공식 유튜브 채널입니다. \n ■ 편성 및 제휴 문의: leepd@hani.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 946000,
+      "viewCount": 586539536,
+      "videoCount": 9682,
+      "lastUpdated": "2025-09-03T10:48:40.439000Z"
     }
   },
-  "lastUpdated": "2025-08-24T21:55:14.740150Z",
-  "totalVideos": 5,
-  "totalChannels": 2
+  "lastUpdated": "2025-09-03T10:48:40.439000Z",
+  "totalVideos": 6,
+  "totalChannels": 3
 }

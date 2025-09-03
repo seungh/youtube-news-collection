@@ -1249,6 +1249,27 @@
       "channelId": "UCdp4_yTBhQmB8E339Lafzow",
       "channelName": "조선일보",
       "collectedAt": "2025-09-03T10:02:22Z"
+    },
+    "DYt_jIr7Oi0": {
+      "videoId": "DYt_jIr7Oi0",
+      "title": "‘잉싸족’, 그것이 알고 싶다 [2주년 티저]",
+      "description": "〈오지않는 UCC의 비밀〉편 \n[영상제작: 이승한 평론가]\n\n오는 5월30일 잉여싸롱 2주년을 맞습니다.\n 2주년 특집회에 영상으로라도 잉싸족분들을 \n모시고자 시청자분의 영상편지를 기다립니다. \n연출부 메일로 azuri@hani.co.kr 로 보내주세요.\n방송되신 분에게는 소정의 선물을 전해드립니다.",
+      "publishedAt": "2015-05-18T01:22:31Z",
+      "duration": "PT1M49S",
+      "viewCount": 2528,
+      "likeCount": 19,
+      "commentCount": 8,
+      "tags": [
+        "잉여싸롱",
+        "잉싸족",
+        "2주년"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2015-05-18T01:22:31Z",
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "collectedAt": "2025-09-03T10:48:20Z"
     }
   },
   "channels": {
@@ -1438,8 +1459,8 @@
       },
       "subscriberCount": 537000,
       "viewCount": 354014202,
-      "videoCount": 11630,
-      "lastUpdated": "2025-09-03T10:02:22.167899Z"
+      "videoCount": 11631,
+      "lastUpdated": "2025-09-03T10:17:06.522903Z"
     },
     "UCdp4_yTBhQmB8E339Lafzow": {
       "channelId": "UCdp4_yTBhQmB8E339Lafzow",
@@ -1465,11 +1486,38 @@
       },
       "subscriberCount": 1700000,
       "viewCount": 1669752256,
-      "videoCount": 22783,
-      "lastUpdated": "2025-09-03T10:02:22.167899Z"
+      "videoCount": 22784,
+      "lastUpdated": "2025-09-03T10:17:06.522903Z"
+    },
+    "UCugbqfMO94F9guLEb6Olb2A": {
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "channelUrl": "@hankyorehtv",
+      "channelDescription": "'더불어 행복한 세상을 만드는 언론' 한겨레 공식 유튜브 채널입니다. \n ■ 편성 및 제휴 문의: leepd@hani.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 946000,
+      "viewCount": 586539536,
+      "videoCount": 9682,
+      "lastUpdated": "2025-09-03T10:48:20.842721Z"
     }
   },
-  "lastUpdated": "2025-09-03T10:02:22.167899Z",
-  "totalVideos": 47,
-  "totalChannels": 8
+  "lastUpdated": "2025-09-03T10:48:20.842721Z",
+  "totalVideos": 48,
+  "totalChannels": 9
 }

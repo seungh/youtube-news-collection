@@ -5232,6 +5232,31 @@
       "channelId": "UCTHCOPwqNfZ0uiKOvFyhGwg",
       "channelName": "연합뉴스TV",
       "collectedAt": "2025-08-29T02:42:56Z"
+    },
+    "w4fMNQRYYGI": {
+      "videoId": "w4fMNQRYYGI",
+      "title": "[중앙일보] 美대사관저 월담 대학생 7명 영장 청구…경찰 \"엄정 수사\"",
+      "description": "+--------------------------------------------------------------------------------+ \n\n◈ 중앙일보 공식 SNS 채널 ◈\n\n- 페이스북 : https://www.facebook.com/joongang/\n- 인스타그램 : https://www.instagram.com/joongangilbo\n- 트위터 : http://www.twitter.com/joongangilbo\n- 유튜브 : https://goo.gl/DyGoPC\n- 네이버 TV : http://tvcast.naver.com/joongangsisa\n- 네이버포스트 : https://goo.gl/eeYh4k\n\n당신이 원하는 뉴스,\n중앙일보 SNS 채널과 함께하세요.\n#한국대학생진보연합 #해리스주한미대사 #방위비분담금인상\n+--------------------------------------------------------------------------------+",
+      "publishedAt": "2019-10-20T05:21:16Z",
+      "duration": "PT55S",
+      "viewCount": 181,
+      "likeCount": 3,
+      "commentCount": 1,
+      "tags": [
+        "중앙일보",
+        "대진연",
+        "한국대학생진보연합",
+        "해리스주한미대사",
+        "미 대사관저",
+        "월담",
+        "방위비분담금"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2019-10-20T05:21:16Z",
+      "channelId": "UCH3mJ-nHxjjny2FJbJaqiDA",
+      "channelName": "중앙일보",
+      "collectedAt": "2025-09-03T10:49:15Z"
     }
   },
   "channels": {
@@ -5531,9 +5556,36 @@
       "viewCount": 3278386064,
       "videoCount": 233358,
       "lastUpdated": "2025-08-29T02:42:56.544363Z"
+    },
+    "UCH3mJ-nHxjjny2FJbJaqiDA": {
+      "channelId": "UCH3mJ-nHxjjny2FJbJaqiDA",
+      "channelName": "중앙일보",
+      "channelUrl": "@joongangilbo",
+      "channelDescription": "현장의 진실을 중앙에 두다.",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/iqcE5aK4gFUjm5A-QO4FLDCDrTgOXTfU3oCyirTZcT9Ev1i_sKtx82GqfF2rPDfbBgFtBqL0uw=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/iqcE5aK4gFUjm5A-QO4FLDCDrTgOXTfU3oCyirTZcT9Ev1i_sKtx82GqfF2rPDfbBgFtBqL0uw=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/iqcE5aK4gFUjm5A-QO4FLDCDrTgOXTfU3oCyirTZcT9Ev1i_sKtx82GqfF2rPDfbBgFtBqL0uw=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 555000,
+      "viewCount": 475518285,
+      "videoCount": 18651,
+      "lastUpdated": "2025-09-03T10:49:15.656388Z"
     }
   },
-  "lastUpdated": "2025-08-29T02:42:56.544363Z",
-  "totalVideos": 159,
-  "totalChannels": 11
+  "lastUpdated": "2025-09-03T10:49:15.656388Z",
+  "totalVideos": 160,
+  "totalChannels": 12
 }

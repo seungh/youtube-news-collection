@@ -1328,6 +1328,33 @@
       "channelId": "UCdp4_yTBhQmB8E339Lafzow",
       "channelName": "조선일보",
       "collectedAt": "2025-09-03T10:02:45Z"
+    },
+    "8xRH-DFLsBk": {
+      "videoId": "8xRH-DFLsBk",
+      "title": "세월호 유가족 “의지만 있다면, 진상규명 됩니다. 사람이 하는 일이기 때문에…”",
+      "description": " 2014년 9월 1일, 세월호 특별법 협상을 위해 세번째 만난 이날 새누리당과 세월호 유가족들은 날 선 공방만 벌이다 30분 만에 헤어졌다. \n 김병권 세월호 가족대책위원장이 “1·2차 때처럼 똑같이 우리를 설득하는 자리라면 만나고 싶지 않다”고 운을 떼자, 이완구 새누리당 원내대표는 “서로 예의는 좀 지켰으면 좋겠다”고 맞받으면서 협상은 처음부터 ‘기싸움’ 양상으로 들어갔다. 유족들은 김재원 새누리당 원내수석부대표가 이날 협상에 앞서 “더 이상 양보는 없다”고 밝힌 데 대한 점을 지적한 것이다.\n 유경근 가족대책위 대변인은 “사회적 상식에 맞는 예의도 지켜져야 한다. 유가족들을 대하는 자세와 태도부터 좀 바꿔달라. 집에 있는 자녀들 대하듯, 부모님 대하듯 그렇게 진심으로 대해주면 얼마든지 이야기가 가능하고 진전이 가능한데, 그런 자세가 완전히 결여돼서 진전이 안 된다”고 말했다. (중략) 취재 / 박수진 피디 jjinpd@hani.co.kr",
+      "publishedAt": "2014-09-01T14:04:36Z",
+      "duration": "PT3M42S",
+      "viewCount": 24570,
+      "likeCount": 64,
+      "commentCount": 12,
+      "tags": [
+        "세월호 유가족 대책위",
+        "유경근 대변인",
+        "새누리당 주호영",
+        "김병권 세월호 가족대책위원장",
+        "이완구 원내대표",
+        "박종운 변호사",
+        "수사권",
+        "기소권",
+        "세월호 특별법"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2014-09-01T14:04:36Z",
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "collectedAt": "2025-09-03T10:47:53Z"
     }
   },
   "channels": {
@@ -1490,11 +1517,38 @@
       },
       "subscriberCount": 1700000,
       "viewCount": 1669752256,
-      "videoCount": 22783,
-      "lastUpdated": "2025-09-03T10:02:45.779220Z"
+      "videoCount": 22784,
+      "lastUpdated": "2025-09-03T10:18:02.798393Z"
+    },
+    "UCugbqfMO94F9guLEb6Olb2A": {
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "channelUrl": "@hankyorehtv",
+      "channelDescription": "'더불어 행복한 세상을 만드는 언론' 한겨레 공식 유튜브 채널입니다. \n ■ 편성 및 제휴 문의: leepd@hani.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 946000,
+      "viewCount": 586539536,
+      "videoCount": 9682,
+      "lastUpdated": "2025-09-03T10:47:53.858104Z"
     }
   },
-  "lastUpdated": "2025-09-03T10:02:45.779220Z",
-  "totalVideos": 37,
-  "totalChannels": 6
+  "lastUpdated": "2025-09-03T10:47:53.858104Z",
+  "totalVideos": 38,
+  "totalChannels": 7
 }

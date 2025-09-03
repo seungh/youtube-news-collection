@@ -458,6 +458,32 @@
       "channelId": "UCdp4_yTBhQmB8E339Lafzow",
       "channelName": "조선일보",
       "collectedAt": "2025-09-03T10:02:26Z"
+    },
+    "wUshs2QIqn8": {
+      "videoId": "wUshs2QIqn8",
+      "title": "다음·카카오 합병에 거는 기대와 우려 [오피니언 #274]",
+      "description": "다음커뮤니케이션과 카카오가 주식교환 방식으로 합병을 해 '다음카카오'라는 이름의 새로운 법인을 출범하겠다고 지난 26일 발표했습니다. 국내 2위의 포털서비스인 다음과 1위 모바일 메신저 카카오톡을 운영하고 있는 두 업체가 한몸이 되는 것입니다.\n두 회사의 합병은 국내 인터텟업계와 주식시장에서 대형 재료로 떠올랐습니다. 다음커뮤니케이션은 합병을 발표하기 전 주가가 7만원대였는데, 합병 발표 뒤 이틀 만에 10만원대로 올랐습니다. 5월 28일 현재 다음커뮤니케이션의 시가총액은 약 1조4천억원입니다. 그런데 증권회사들의 추정에 따르면 비상장기업인 카카오와 합병한 뒤에는 시가총액이 5조~6조원으로 증가할 것이라고 합니다.\n오늘은 이 다음카카오가 산업에 끼칠 영향에 대해 알아보겠습니다.",
+      "publishedAt": "2014-05-28T09:28:53Z",
+      "duration": "PT4M20S",
+      "viewCount": 7036,
+      "likeCount": 22,
+      "commentCount": 1,
+      "tags": [
+        "시사",
+        "한겨레",
+        "캐스트",
+        "한겨레캐스트",
+        "다음",
+        "카카오",
+        "다음카카오",
+        "네이버"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2014-05-28T09:28:53Z",
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "collectedAt": "2025-09-03T10:48:39Z"
     }
   },
   "channels": {
@@ -566,8 +592,8 @@
       },
       "subscriberCount": 537000,
       "viewCount": 354014202,
-      "videoCount": 11630,
-      "lastUpdated": "2025-09-03T10:02:26.583700Z"
+      "videoCount": 11631,
+      "lastUpdated": "2025-09-03T10:17:12.065831Z"
     },
     "UCdp4_yTBhQmB8E339Lafzow": {
       "channelId": "UCdp4_yTBhQmB8E339Lafzow",
@@ -593,11 +619,38 @@
       },
       "subscriberCount": 1700000,
       "viewCount": 1669752256,
-      "videoCount": 22783,
-      "lastUpdated": "2025-09-03T10:02:26.583700Z"
+      "videoCount": 22784,
+      "lastUpdated": "2025-09-03T10:17:12.065831Z"
+    },
+    "UCugbqfMO94F9guLEb6Olb2A": {
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "channelUrl": "@hankyorehtv",
+      "channelDescription": "'더불어 행복한 세상을 만드는 언론' 한겨레 공식 유튜브 채널입니다. \n ■ 편성 및 제휴 문의: leepd@hani.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 946000,
+      "viewCount": 586539536,
+      "videoCount": 9682,
+      "lastUpdated": "2025-09-03T10:48:39.949909Z"
     }
   },
-  "lastUpdated": "2025-09-03T10:02:26.583700Z",
-  "totalVideos": 22,
-  "totalChannels": 5
+  "lastUpdated": "2025-09-03T10:48:39.953908Z",
+  "totalVideos": 23,
+  "totalChannels": 6
 }

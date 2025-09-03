@@ -1,0 +1,80 @@
+{
+  "videos": {
+    "lAlasjVcm5A": {
+      "videoId": "lAlasjVcm5A",
+      "title": "\"공정한 조중동 방송? 기대 안해요.\"",
+      "description": "[길거리 리포트]  보수 언론사 대거 종편으로 진출했다. 시민들은'채널선택권 확대' 반기는 목소리와'편파 방송 될까' 걱정의 눈초리가 교차되어 있다.",
+      "publishedAt": "2011-01-04T13:43:03Z",
+      "duration": "PT3M59S",
+      "viewCount": 1279,
+      "likeCount": 8,
+      "commentCount": 7,
+      "tags": [
+        "조중동 방송",
+        "종편채널",
+        "방송통신위원회"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2011-01-04T13:43:03Z",
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "collectedAt": "2025-09-03T10:48:41Z"
+    },
+    "4ww6kwDORe8": {
+      "videoId": "4ww6kwDORe8",
+      "title": "장애인 인권활동가 우동민씨 노제",
+      "description": "현병철 인권위원장 사퇴 촉구 농성 과정에서 폐렴을 얻어 사망한 고 우동민씨의 노제가 4일 오전 11시 인권위 앞에서 열렸다.",
+      "publishedAt": "2011-01-04T09:26:14Z",
+      "duration": "PT2M52S",
+      "viewCount": 484,
+      "likeCount": 3,
+      "commentCount": 0,
+      "tags": [
+        "우동민",
+        "노제",
+        "장애",
+        "인권",
+        "현병철"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2011-01-04T09:26:14Z",
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "collectedAt": "2025-09-03T10:48:41Z"
+    }
+  },
+  "channels": {
+    "UCugbqfMO94F9guLEb6Olb2A": {
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "channelUrl": "@hankyorehtv",
+      "channelDescription": "'더불어 행복한 세상을 만드는 언론' 한겨레 공식 유튜브 채널입니다. \n ■ 편성 및 제휴 문의: leepd@hani.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 946000,
+      "viewCount": 586539536,
+      "videoCount": 9682,
+      "lastUpdated": "2025-09-03T10:48:41.307299Z"
+    }
+  },
+  "lastUpdated": "2025-09-03T10:48:41.307299Z",
+  "totalVideos": 2,
+  "totalChannels": 1
+}

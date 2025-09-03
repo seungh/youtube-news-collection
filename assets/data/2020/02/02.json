@@ -7350,6 +7350,58 @@
       "channelId": "UCHXvjavEtkPFJCfGlm0wTXw",
       "channelName": "경향티비",
       "collectedAt": "2025-09-03T10:02:09Z"
+    },
+    "6T9eUgvKNPg": {
+      "videoId": "6T9eUgvKNPg",
+      "title": "'바쁘다 바빠, 24시간 풀가동 마스크 공장'",
+      "description": "◈ 당신이 원하는 뉴스,\n중앙일보 채널과 함께하세요 ◈ \n\n- 페이스북 : https://www.facebook.com/joongang/\n- 인스타그램 : https://www.instagram.com/joongangilbo\n- 트위터 : http://www.twitter.com/joongangilbo\n- 네이버 TV : http://tvcast.naver.com/joongangsisa\n- 네이버포스트 : https://goo.gl/eeYh4k",
+      "publishedAt": "2020-02-02T14:02:26Z",
+      "duration": "PT1M25S",
+      "viewCount": 5399,
+      "likeCount": 17,
+      "commentCount": 10,
+      "tags": [
+        "중앙일보",
+        "우한폐렴",
+        "코로나바이러스",
+        "우한",
+        "마스크",
+        "마스크 공장",
+        "진천",
+        "마스크 매진"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2020-02-02T14:02:26Z",
+      "channelId": "UCH3mJ-nHxjjny2FJbJaqiDA",
+      "channelName": "중앙일보",
+      "collectedAt": "2025-09-03T10:49:13Z"
+    },
+    "TVOzHoLswmA": {
+      "videoId": "TVOzHoLswmA",
+      "title": "허경영이 돌아왔다! 국민에게 150만원씩 준다?",
+      "description": "허경영 \"국회의원 무보수 100명으로 해라\", \"국가예산 60% 절약해서 국민에게 배당금을 주겠다\" \n\n#허경영 #인터뷰\n\n◈ 당신이 원하는 뉴스,\n중앙일보 채널과 함께하세요 ◈ \n\n- 페이스북 : https://www.facebook.com/joongang/\n- 인스타그램 : https://www.instagram.com/joongangilbo\n- 트위터 : http://www.twitter.com/joongangilbo\n- 네이버 TV : http://tvcast.naver.com/joongangsisa\n- 네이버포스트 : https://goo.gl/eeYh4k",
+      "publishedAt": "2020-02-02T14:45:00Z",
+      "duration": "PT4M41S",
+      "viewCount": 25427,
+      "likeCount": 1279,
+      "commentCount": 317,
+      "tags": [
+        "중앙일보",
+        "허경영",
+        "국민",
+        "인터뷰",
+        "허경영정책",
+        "정치",
+        "국회의원",
+        "허경영인터뷰"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2020-02-02T14:45:00Z",
+      "channelId": "UCH3mJ-nHxjjny2FJbJaqiDA",
+      "channelName": "중앙일보",
+      "collectedAt": "2025-09-03T10:49:13Z"
     }
   },
   "channels": {
@@ -7538,9 +7590,9 @@
         }
       },
       "subscriberCount": 1340000,
-      "viewCount": 870924917,
-      "videoCount": 32030,
-      "lastUpdated": "2025-08-24T21:53:41.993723Z"
+      "viewCount": 871828833,
+      "videoCount": 32204,
+      "lastUpdated": "2025-09-03T10:53:36.198412Z"
     },
     "UCkinYTS9IHqOEwR1Sze2JTw": {
       "channelId": "UCkinYTS9IHqOEwR1Sze2JTw",
@@ -7755,11 +7807,38 @@
       },
       "subscriberCount": 537000,
       "viewCount": 354014202,
-      "videoCount": 11630,
-      "lastUpdated": "2025-09-03T10:02:09.538105Z"
+      "videoCount": 11631,
+      "lastUpdated": "2025-09-03T10:16:41.828720Z"
+    },
+    "UCH3mJ-nHxjjny2FJbJaqiDA": {
+      "channelId": "UCH3mJ-nHxjjny2FJbJaqiDA",
+      "channelName": "중앙일보",
+      "channelUrl": "@joongangilbo",
+      "channelDescription": "현장의 진실을 중앙에 두다.",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/iqcE5aK4gFUjm5A-QO4FLDCDrTgOXTfU3oCyirTZcT9Ev1i_sKtx82GqfF2rPDfbBgFtBqL0uw=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/iqcE5aK4gFUjm5A-QO4FLDCDrTgOXTfU3oCyirTZcT9Ev1i_sKtx82GqfF2rPDfbBgFtBqL0uw=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/iqcE5aK4gFUjm5A-QO4FLDCDrTgOXTfU3oCyirTZcT9Ev1i_sKtx82GqfF2rPDfbBgFtBqL0uw=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 555000,
+      "viewCount": 475518285,
+      "videoCount": 18651,
+      "lastUpdated": "2025-09-03T10:49:13.202896Z"
     }
   },
-  "lastUpdated": "2025-09-03T10:02:09.538105Z",
-  "totalVideos": 245,
-  "totalChannels": 15
+  "lastUpdated": "2025-09-03T10:53:36.198412Z",
+  "totalVideos": 247,
+  "totalChannels": 16
 }

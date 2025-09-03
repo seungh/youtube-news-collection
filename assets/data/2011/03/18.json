@@ -1,0 +1,102 @@
+{
+  "videos": {
+    "FCov-oFG4-o": {
+      "videoId": "FCov-oFG4-o",
+      "title": "경찰, 조선일보 일가 수사 후 '시치미'",
+      "description": "[뉴스현장 '오늘']'장씨와 만난 식당에 ㅂ씨가 있었다'경찰은 장자연 사건 관련 2년 전 수사 때 조선일보 ㅂ씨를 참고인 신분으로 조사를 했던 것으로 드러나 파장이 예상된다.",
+      "publishedAt": "2011-03-18T01:53:33Z",
+      "duration": "PT2M56S",
+      "viewCount": 700,
+      "likeCount": 3,
+      "commentCount": 0,
+      "tags": [
+        "장자연",
+        "조선일보",
+        "ㅂ 씨",
+        "부실 수사"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2011-03-18T01:53:33Z",
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "collectedAt": "2025-09-03T10:48:41Z"
+    },
+    "ZER2NxUzofI": {
+      "videoId": "ZER2NxUzofI",
+      "title": "국과수 \"'장자연 편지', 친필 아니다\"",
+      "description": "국립과학수사연구소 필적감정발표\r\nSBS 기자 \"유사하지만 다르다니?\"\r\n거듭된 질문에 국과수, '설왕설래'\r\n영상제공 미디어몽구",
+      "publishedAt": "2011-03-18T01:44:00Z",
+      "duration": "PT6M24S",
+      "viewCount": 842,
+      "likeCount": 1,
+      "commentCount": 0,
+      "tags": [
+        "장자연",
+        "국립과학수사연구소",
+        "미디어몽구",
+        "필적"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2011-03-18T01:44:00Z",
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "collectedAt": "2025-09-03T10:48:41Z"
+    },
+    "03Aha4nYrfk": {
+      "videoId": "03Aha4nYrfk",
+      "title": "경찰 \"'장자연 편지' 관계망상증의 산물\"",
+      "description": "[뉴스현장 '오늘'] \"자연이 편지 사실은 퍼온 건데\"경찰은 전씨의 부산구치소 면담기록 등을 증거로 제시하며 '장자연 편지'가 위작이라고 발표했다.",
+      "publishedAt": "2011-03-18T01:32:32Z",
+      "duration": "PT1M57S",
+      "viewCount": 1527,
+      "likeCount": 2,
+      "commentCount": 2,
+      "tags": [
+        "장자연",
+        "경기경찰청",
+        "분당경찰서",
+        "필적조사"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2011-03-18T01:32:32Z",
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "collectedAt": "2025-09-03T10:48:41Z"
+    }
+  },
+  "channels": {
+    "UCugbqfMO94F9guLEb6Olb2A": {
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "channelUrl": "@hankyorehtv",
+      "channelDescription": "'더불어 행복한 세상을 만드는 언론' 한겨레 공식 유튜브 채널입니다. \n ■ 편성 및 제휴 문의: leepd@hani.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 946000,
+      "viewCount": 586539536,
+      "videoCount": 9682,
+      "lastUpdated": "2025-09-03T10:48:41.210057Z"
+    }
+  },
+  "lastUpdated": "2025-09-03T10:48:41.210057Z",
+  "totalVideos": 3,
+  "totalChannels": 1
+}

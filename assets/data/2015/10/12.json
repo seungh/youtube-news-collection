@@ -1199,6 +1199,26 @@
       "channelId": "UCdp4_yTBhQmB8E339Lafzow",
       "channelName": "조선일보",
       "collectedAt": "2025-09-03T10:02:20Z"
+    },
+    "XxMd9PpN_Sg": {
+      "videoId": "XxMd9PpN_Sg",
+      "title": "[이승한의 ‘33한 드립’ #5] 과자전",
+      "description": "이승한 TV 평론가가 직접 선정한 한주간 주목할만한 대중문화계 이슈와 소식을 33초의 제한 시간 안에 소개하는 코너입니다. 이번 주는 달콤한 드립, ‘서울 과자전’편입니다.",
+      "publishedAt": "2015-10-12T06:22:28Z",
+      "duration": "PT57S",
+      "viewCount": 1563,
+      "likeCount": 10,
+      "commentCount": 1,
+      "tags": [
+        "이승한",
+        "서울 과자전"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2015-10-12T06:22:28Z",
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "collectedAt": "2025-09-03T10:48:20Z"
     }
   },
   "channels": {
@@ -1442,8 +1462,8 @@
       },
       "subscriberCount": 537000,
       "viewCount": 354014202,
-      "videoCount": 11630,
-      "lastUpdated": "2025-09-03T10:02:20.477977Z"
+      "videoCount": 11631,
+      "lastUpdated": "2025-09-03T10:17:04.017486Z"
     },
     "UCdp4_yTBhQmB8E339Lafzow": {
       "channelId": "UCdp4_yTBhQmB8E339Lafzow",
@@ -1469,11 +1489,38 @@
       },
       "subscriberCount": 1700000,
       "viewCount": 1669752256,
-      "videoCount": 22783,
-      "lastUpdated": "2025-09-03T10:02:20.477977Z"
+      "videoCount": 22784,
+      "lastUpdated": "2025-09-03T10:17:04.017486Z"
+    },
+    "UCugbqfMO94F9guLEb6Olb2A": {
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "channelUrl": "@hankyorehtv",
+      "channelDescription": "'더불어 행복한 세상을 만드는 언론' 한겨레 공식 유튜브 채널입니다. \n ■ 편성 및 제휴 문의: leepd@hani.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 946000,
+      "viewCount": 586539536,
+      "videoCount": 9682,
+      "lastUpdated": "2025-09-03T10:48:20.642861Z"
     }
   },
-  "lastUpdated": "2025-09-03T10:02:20.477977Z",
-  "totalVideos": 42,
-  "totalChannels": 10
+  "lastUpdated": "2025-09-03T10:48:20.642861Z",
+  "totalVideos": 43,
+  "totalChannels": 11
 }

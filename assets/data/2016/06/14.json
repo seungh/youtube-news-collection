@@ -2093,6 +2093,72 @@
       "channelId": "UCdp4_yTBhQmB8E339Lafzow",
       "channelName": "조선일보",
       "collectedAt": "2025-09-03T10:02:17Z"
+    },
+    "ndIHohbRJLU": {
+      "videoId": "ndIHohbRJLU",
+      "title": "[클립NOW] 11평 아파트가 8억6000만원인 이유?",
+      "description": "한달 사이 1억원 넘게 오른 서울 강남의 재건축 아파트.\n혹시 거품은 아닐까요?",
+      "publishedAt": "2016-06-14T09:36:35Z",
+      "duration": "PT1M31S",
+      "viewCount": 1689,
+      "likeCount": 1,
+      "commentCount": 0,
+      "tags": [
+        "강남",
+        "재건축",
+        "아파트",
+        "금리인하"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2016-06-14T09:36:35Z",
+      "channelId": "UCH3mJ-nHxjjny2FJbJaqiDA",
+      "channelName": "중앙일보",
+      "collectedAt": "2025-09-03T10:49:21Z"
+    },
+    "IepQ___94C0": {
+      "videoId": "IepQ___94C0",
+      "title": "[단독] 박유천 군복무 1/4은 연가나 병가",
+      "description": "관련기사: http://news.joins.com/article/20167470\n\n14일 본지가 강남구청에서 입수한 ‘사회복무요원 근태현황 최근 6개월(2015년 10월1일~2016년 3월31일)’에 따르면 박씨는 지난해 9월 복무를 시작한 이후 연가 14.5일·병가 13.5일·조퇴 2일을 각각 사용했다. 주말과 공휴일을 제외한 군 복무기간 124일 중 30일을 연가나 병가 등으로 보낸 것이다. 이는 전체 복무기간의 1/4이며 출퇴근일(94일)의 3분의1 수준이다.\n\n[출처: 중앙일보] [단독] 박유천 군복무 1/4은 연가나 병가",
+      "publishedAt": "2016-06-14T06:29:28Z",
+      "duration": "PT24S",
+      "viewCount": 2937,
+      "likeCount": 1,
+      "commentCount": 0,
+      "tags": [
+        "중앙일보",
+        "동방신기",
+        "박유천",
+        "유천",
+        "성폭행",
+        "JYJ",
+        "소속",
+        "소속사",
+        "군복무",
+        "복무",
+        "공익",
+        "사회복무요원",
+        "4급",
+        "보충역",
+        "강남",
+        "강남구청",
+        "연가",
+        "병가",
+        "조퇴",
+        "공익근무요원",
+        "공익근무",
+        "속옷",
+        "화장실",
+        "유흥업소",
+        "관광",
+        "관광진흥과"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2016-06-14T06:29:28Z",
+      "channelId": "UCH3mJ-nHxjjny2FJbJaqiDA",
+      "channelName": "중앙일보",
+      "collectedAt": "2025-09-03T10:49:21Z"
     }
   },
   "channels": {
@@ -2390,8 +2456,8 @@
       },
       "subscriberCount": 537000,
       "viewCount": 354014202,
-      "videoCount": 11630,
-      "lastUpdated": "2025-09-03T10:02:17.597467Z"
+      "videoCount": 11631,
+      "lastUpdated": "2025-09-03T10:16:59.512036Z"
     },
     "UCdp4_yTBhQmB8E339Lafzow": {
       "channelId": "UCdp4_yTBhQmB8E339Lafzow",
@@ -2417,11 +2483,38 @@
       },
       "subscriberCount": 1700000,
       "viewCount": 1669752256,
-      "videoCount": 22783,
-      "lastUpdated": "2025-09-03T10:02:17.597467Z"
+      "videoCount": 22784,
+      "lastUpdated": "2025-09-03T10:16:59.512036Z"
+    },
+    "UCH3mJ-nHxjjny2FJbJaqiDA": {
+      "channelId": "UCH3mJ-nHxjjny2FJbJaqiDA",
+      "channelName": "중앙일보",
+      "channelUrl": "@joongangilbo",
+      "channelDescription": "현장의 진실을 중앙에 두다.",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/iqcE5aK4gFUjm5A-QO4FLDCDrTgOXTfU3oCyirTZcT9Ev1i_sKtx82GqfF2rPDfbBgFtBqL0uw=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/iqcE5aK4gFUjm5A-QO4FLDCDrTgOXTfU3oCyirTZcT9Ev1i_sKtx82GqfF2rPDfbBgFtBqL0uw=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/iqcE5aK4gFUjm5A-QO4FLDCDrTgOXTfU3oCyirTZcT9Ev1i_sKtx82GqfF2rPDfbBgFtBqL0uw=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 555000,
+      "viewCount": 475518285,
+      "videoCount": 18651,
+      "lastUpdated": "2025-09-03T10:49:21.485537Z"
     }
   },
-  "lastUpdated": "2025-09-03T10:02:17.597467Z",
-  "totalVideos": 74,
-  "totalChannels": 12
+  "lastUpdated": "2025-09-03T10:49:21.485537Z",
+  "totalVideos": 76,
+  "totalChannels": 13
 }

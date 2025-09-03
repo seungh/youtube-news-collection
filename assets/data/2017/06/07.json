@@ -2714,6 +2714,56 @@
       "channelId": "UCdp4_yTBhQmB8E339Lafzow",
       "channelName": "조선일보",
       "collectedAt": "2025-09-03T10:01:22Z"
+    },
+    "sfGK0tPKshQ": {
+      "videoId": "sfGK0tPKshQ",
+      "title": "강경화 외교부장관 후보자 인사청문회",
+      "description": "7일 오후 국회에서 열린 강경화 외교부 장관 후보자 인사청문회 생중계의 녹화방송입니다. 생중계는 국회방송이 제공했습니다. 영상제공 국회방송. 〈한겨레TV〉",
+      "publishedAt": "2017-06-07T10:37:00Z",
+      "duration": "PT4H17M24S",
+      "viewCount": 35745,
+      "likeCount": 125,
+      "commentCount": 13,
+      "tags": [
+        "강경화",
+        "외교부 장관 후보자",
+        "문재인 정부"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": {
+        "actualStartTime": "2017-06-07T05:03:31Z",
+        "actualEndTime": "2017-06-07T09:22:13Z"
+      },
+      "actualPubAt": "2017-06-07T05:03:31Z",
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "collectedAt": "2025-09-03T10:47:44Z"
+    },
+    "F7StRqxSEBE": {
+      "videoId": "F7StRqxSEBE",
+      "title": "김동연 경제부총리 후보자 인사청문회",
+      "description": "지금 이 시간 국회에서 열리고 있는 김동연 경제부총리 후보자 인사청문회를 국회방송을 받아 생중계합니다. 많은 시청 바랍니다. 영상제공 국회방송. 〈한겨레TV〉",
+      "publishedAt": "2017-06-07T04:01:36Z",
+      "duration": "PT2H9M13S",
+      "viewCount": 11581,
+      "likeCount": 65,
+      "commentCount": 3,
+      "tags": [
+        "김동연",
+        "인사청문회",
+        "문재인 정부",
+        "장관",
+        "경제부총리"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": {
+        "actualStartTime": "2017-06-07T01:03:55Z",
+        "actualEndTime": "2017-06-07T03:13:54Z"
+      },
+      "actualPubAt": "2017-06-07T01:03:55Z",
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "collectedAt": "2025-09-03T10:47:44Z"
     }
   },
   "channels": {
@@ -2957,8 +3007,8 @@
       },
       "subscriberCount": 362000,
       "viewCount": 296027619,
-      "videoCount": 6196,
-      "lastUpdated": "2025-09-03T10:01:22.847925Z"
+      "videoCount": 6197,
+      "lastUpdated": "2025-09-03T10:16:52.237783Z"
     },
     "UCHXvjavEtkPFJCfGlm0wTXw": {
       "channelId": "UCHXvjavEtkPFJCfGlm0wTXw",
@@ -2984,8 +3034,8 @@
       },
       "subscriberCount": 537000,
       "viewCount": 354014202,
-      "videoCount": 11630,
-      "lastUpdated": "2025-09-03T10:01:22.848922Z"
+      "videoCount": 11631,
+      "lastUpdated": "2025-09-03T10:16:52.237783Z"
     },
     "UCdp4_yTBhQmB8E339Lafzow": {
       "channelId": "UCdp4_yTBhQmB8E339Lafzow",
@@ -3011,11 +3061,38 @@
       },
       "subscriberCount": 1700000,
       "viewCount": 1669752256,
-      "videoCount": 22783,
-      "lastUpdated": "2025-09-03T10:01:22.848922Z"
+      "videoCount": 22784,
+      "lastUpdated": "2025-09-03T10:16:52.237783Z"
+    },
+    "UCugbqfMO94F9guLEb6Olb2A": {
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "channelUrl": "@hankyorehtv",
+      "channelDescription": "'더불어 행복한 세상을 만드는 언론' 한겨레 공식 유튜브 채널입니다. \n ■ 편성 및 제휴 문의: leepd@hani.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 946000,
+      "viewCount": 586539536,
+      "videoCount": 9682,
+      "lastUpdated": "2025-09-03T10:47:44.881437Z"
     }
   },
-  "lastUpdated": "2025-09-03T10:01:22.848922Z",
-  "totalVideos": 96,
-  "totalChannels": 11
+  "lastUpdated": "2025-09-03T10:47:44.881437Z",
+  "totalVideos": 98,
+  "totalChannels": 12
 }

@@ -229,6 +229,40 @@
       "channelId": "UCHXvjavEtkPFJCfGlm0wTXw",
       "channelName": "경향티비",
       "collectedAt": "2025-09-03T10:02:30Z"
+    },
+    "kbtvW2FprQg": {
+      "videoId": "kbtvW2FprQg",
+      "title": "각도를 바꾸면 새로운 사진이 탄생한다",
+      "description": "곽윤섭의 사진클리닉 (9) 앵글\n\n앵글은 사진을 찍는 각도. \n아이레벨은 사진을 찍는 사람의 눈높이. \n대부분의 사람들은 평생 비슷한 높이로 보고 찍는다. \n신선하고 재미있고 특이한 사진을 위해선 평소와 다른 앵글로 바라보는 훈련이 중요. \n\n#1. 높은앵글 & 낮은앵글\n#2. 좌우로 둘러보라 \n#3. 넓은앵글 & 좋은앵글\n#4. 설명 vs 강조\n\n내 사진을 치료하자! 사진에 관한 클리닉을 받고싶을 때는 곽윤섭 기자의 \n한겨레 사진마을 참여마당 (http://photovil.hani.co.kr)에 접수하세요~ 24시간 진료합니다.\n\n[곽윤섭의 사진클리닉]은 매주 수요일 편성됩니다.\n\n기획: 문병권 / 프로듀서: 이경주 / 구성: 곽윤섭 / NLE, 연출: 이규호",
+      "publishedAt": "2013-04-30T08:25:59Z",
+      "duration": "PT7M48S",
+      "viewCount": 19920,
+      "likeCount": 112,
+      "commentCount": 0,
+      "tags": [],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2013-04-30T08:25:59Z",
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "collectedAt": "2025-09-03T10:48:21Z"
+    },
+    "Op4mubUuTxg": {
+      "videoId": "Op4mubUuTxg",
+      "title": "할인에 숨겨진 비밀 - 왜 깎아줬을까?",
+      "description": "이원재의 5분경영학 (15)  가격차별, 소비자잉여\n\n이른 아침 어르신들에게만 특별할인되는 영화표의 비밀 \n\n같은 제품이라도 소비자에따라 최대지불의사가 다르다. \n그렇다면, 어떤 가격전략을 펼쳐야할까?\n소비자를 일정한 기준으로 차별해야 한다. \n\n기업들의 소비자차별 방법\n- 연령에 따른 소비자 차별 (학생 할인)\n- 이용시간대에 따른 소비자 차별 (양장본)\n- 심리에 따른 소비자 차별 (비행기 1등석)\n \n기획 : 김종일 김명희 / 편집 : 문석진 / 연출 : 이경주 이규호",
+      "publishedAt": "2013-04-29T15:33:18Z",
+      "duration": "PT6M20S",
+      "viewCount": 3818,
+      "likeCount": 20,
+      "commentCount": 0,
+      "tags": [],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2013-04-29T15:33:18Z",
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "collectedAt": "2025-09-03T10:48:21Z"
     }
   },
   "channels": {
@@ -310,11 +344,38 @@
       },
       "subscriberCount": 537000,
       "viewCount": 354014202,
-      "videoCount": 11630,
-      "lastUpdated": "2025-09-03T10:02:30.856466Z"
+      "videoCount": 11631,
+      "lastUpdated": "2025-09-03T10:17:16.055248Z"
+    },
+    "UCugbqfMO94F9guLEb6Olb2A": {
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "channelUrl": "@hankyorehtv",
+      "channelDescription": "'더불어 행복한 세상을 만드는 언론' 한겨레 공식 유튜브 채널입니다. \n ■ 편성 및 제휴 문의: leepd@hani.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 946000,
+      "viewCount": 586539536,
+      "videoCount": 9682,
+      "lastUpdated": "2025-09-03T10:48:21.719878Z"
     }
   },
-  "lastUpdated": "2025-09-03T10:02:30.856466Z",
-  "totalVideos": 8,
-  "totalChannels": 3
+  "lastUpdated": "2025-09-03T10:48:21.719878Z",
+  "totalVideos": 10,
+  "totalChannels": 4
 }

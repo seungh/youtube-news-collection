@@ -1,0 +1,83 @@
+{
+  "videos": {
+    "MpgpN40TWWg": {
+      "videoId": "MpgpN40TWWg",
+      "title": "이아립 100beat",
+      "description": " ",
+      "publishedAt": "2010-09-02T10:42:29Z",
+      "duration": "PT16M14S",
+      "viewCount": 1528,
+      "likeCount": 8,
+      "commentCount": 2,
+      "tags": [
+        "이아립",
+        "100beat"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2010-09-02T10:42:29Z",
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "collectedAt": "2025-09-03T10:48:41Z"
+    },
+    "ib1SBu0q0G4": {
+      "videoId": "ib1SBu0q0G4",
+      "title": "달라이라마의 스승 리종 린포체",
+      "description": "조현의 라다크·잔스카르 순례기④ 세계 최고 고갯길 넘어 만난 생불",
+      "publishedAt": "2010-09-02T07:47:19Z",
+      "duration": "PT7M43S",
+      "viewCount": 88202,
+      "likeCount": 779,
+      "commentCount": 42,
+      "tags": [
+        "라다크",
+        "잔스카르",
+        "티베트",
+        "티베트불교",
+        "티벳",
+        "티벳불교",
+        "라마교",
+        "데키사원",
+        "조현"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2010-09-02T07:47:19Z",
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "collectedAt": "2025-09-03T10:48:41Z"
+    }
+  },
+  "channels": {
+    "UCugbqfMO94F9guLEb6Olb2A": {
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "channelUrl": "@hankyorehtv",
+      "channelDescription": "'더불어 행복한 세상을 만드는 언론' 한겨레 공식 유튜브 채널입니다. \n ■ 편성 및 제휴 문의: leepd@hani.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 946000,
+      "viewCount": 586539536,
+      "videoCount": 9682,
+      "lastUpdated": "2025-09-03T10:48:41.411308Z"
+    }
+  },
+  "lastUpdated": "2025-09-03T10:48:41.411308Z",
+  "totalVideos": 2,
+  "totalChannels": 1
+}

@@ -328,6 +328,40 @@
       "channelId": "UCdp4_yTBhQmB8E339Lafzow",
       "channelName": "조선일보",
       "collectedAt": "2025-09-03T10:02:28Z"
+    },
+    "FCO9Bc2uhR8": {
+      "videoId": "FCO9Bc2uhR8",
+      "title": "[김보협의 시민K #7]",
+      "description": "[시사게이트#7-1] 막장에서 광장으로\n2013년 8월2일 방송\n\n\n\"후라이드 반, 양념 반... 상식 반, 양심 반 국정조사를 바랍니다\"",
+      "publishedAt": "2013-12-16T03:39:53Z",
+      "duration": "PT3M45S",
+      "viewCount": 3418,
+      "likeCount": 20,
+      "commentCount": 0,
+      "tags": [],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2013-12-16T03:39:53Z",
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "collectedAt": "2025-09-03T10:48:40Z"
+    },
+    "_HfmEiYCXh4": {
+      "videoId": "_HfmEiYCXh4",
+      "title": "[표창원의 죄와 벌 #7] \"김진태 의원, 검사와 검찰이 불쌍합니다\"",
+      "description": "[시사게이트#7-2] 이거 다 거짓말인거 아시죠?\n2013년 8월2일 방송\n\n\n\"김진태 새누리당 의원님, 검사와 검찰 직원이 불쌍합니다.\"",
+      "publishedAt": "2013-12-16T03:39:32Z",
+      "duration": "PT2M22S",
+      "viewCount": 59177,
+      "likeCount": 284,
+      "commentCount": 87,
+      "tags": [],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2013-12-16T03:39:32Z",
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "collectedAt": "2025-09-03T10:48:40Z"
     }
   },
   "channels": {
@@ -436,8 +470,8 @@
       },
       "subscriberCount": 537000,
       "viewCount": 354014202,
-      "videoCount": 11630,
-      "lastUpdated": "2025-09-03T10:02:28.681337Z"
+      "videoCount": 11631,
+      "lastUpdated": "2025-09-03T10:17:14.216919Z"
     },
     "UCdp4_yTBhQmB8E339Lafzow": {
       "channelId": "UCdp4_yTBhQmB8E339Lafzow",
@@ -463,11 +497,38 @@
       },
       "subscriberCount": 1700000,
       "viewCount": 1669752256,
-      "videoCount": 22783,
-      "lastUpdated": "2025-09-03T10:02:28.685366Z"
+      "videoCount": 22784,
+      "lastUpdated": "2025-09-03T10:17:14.216919Z"
+    },
+    "UCugbqfMO94F9guLEb6Olb2A": {
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "channelUrl": "@hankyorehtv",
+      "channelDescription": "'더불어 행복한 세상을 만드는 언론' 한겨레 공식 유튜브 채널입니다. \n ■ 편성 및 제휴 문의: leepd@hani.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 946000,
+      "viewCount": 586539536,
+      "videoCount": 9682,
+      "lastUpdated": "2025-09-03T10:48:40.271817Z"
     }
   },
-  "lastUpdated": "2025-09-03T10:02:28.685366Z",
-  "totalVideos": 13,
-  "totalChannels": 5
+  "lastUpdated": "2025-09-03T10:48:40.271817Z",
+  "totalVideos": 15,
+  "totalChannels": 6
 }

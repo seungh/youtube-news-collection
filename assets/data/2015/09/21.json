@@ -1010,6 +1010,30 @@
       "channelId": "UCdp4_yTBhQmB8E339Lafzow",
       "channelName": "조선일보",
       "collectedAt": "2025-09-03T10:02:20Z"
+    },
+    "sl7IPxigCWI": {
+      "videoId": "sl7IPxigCWI",
+      "title": "[이승한의 ‘33한 드립’ #3] 개같은 날의 오후, 걸스카우트",
+      "description": "이승한 TV 평론가가 직접 선정한 한주간 주목할만한 대중문화계 이슈와 소식을 33초의 제한 시간 안에 소개하는 코너입니다. \n이번주는 추석을 맞아 명절 스트레스 해소용 영화 두편을 골랐습니다. ‘개같은 날의 오후’와 ‘걸스카우트’입니다.",
+      "publishedAt": "2015-09-21T00:59:30Z",
+      "duration": "PT51S",
+      "viewCount": 4328,
+      "likeCount": 10,
+      "commentCount": 3,
+      "tags": [
+        "이승한",
+        "33한 드립",
+        "개같은 날의 오후",
+        "걸스카우트",
+        "추석",
+        "명절"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2015-09-21T00:59:30Z",
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "collectedAt": "2025-09-03T10:48:20Z"
     }
   },
   "channels": {
@@ -1226,8 +1250,8 @@
       },
       "subscriberCount": 537000,
       "viewCount": 354014202,
-      "videoCount": 11630,
-      "lastUpdated": "2025-09-03T10:02:20.657060Z"
+      "videoCount": 11631,
+      "lastUpdated": "2025-09-03T10:17:04.365666Z"
     },
     "UCdp4_yTBhQmB8E339Lafzow": {
       "channelId": "UCdp4_yTBhQmB8E339Lafzow",
@@ -1253,11 +1277,38 @@
       },
       "subscriberCount": 1700000,
       "viewCount": 1669752256,
-      "videoCount": 22783,
-      "lastUpdated": "2025-09-03T10:02:20.657060Z"
+      "videoCount": 22784,
+      "lastUpdated": "2025-09-03T10:17:04.365666Z"
+    },
+    "UCugbqfMO94F9guLEb6Olb2A": {
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "channelUrl": "@hankyorehtv",
+      "channelDescription": "'더불어 행복한 세상을 만드는 언론' 한겨레 공식 유튜브 채널입니다. \n ■ 편성 및 제휴 문의: leepd@hani.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 946000,
+      "viewCount": 586539536,
+      "videoCount": 9682,
+      "lastUpdated": "2025-09-03T10:48:20.702200Z"
     }
   },
-  "lastUpdated": "2025-09-03T10:02:20.657060Z",
-  "totalVideos": 36,
-  "totalChannels": 9
+  "lastUpdated": "2025-09-03T10:48:20.702200Z",
+  "totalVideos": 37,
+  "totalChannels": 10
 }

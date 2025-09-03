@@ -915,6 +915,44 @@
       "channelId": "UCdp4_yTBhQmB8E339Lafzow",
       "channelName": "조선일보",
       "collectedAt": "2025-09-03T10:02:46Z"
+    },
+    "rFTTPwYtBCc": {
+      "videoId": "rFTTPwYtBCc",
+      "title": "대한민국 맥주사용설명서 [잉여싸롱 #33]",
+      "description": "'라거'든 '에일'이든 이렇게 즐기시라~ \n잉여싸롱 첫 공개방송, 맥주싸롱 현장 공개! [잉여싸롱 #33]\n\n3MC \"우리도 이렇게 취할줄 몰랐다\"\n숨겨온 맥주 개인기 대폭발! \n\n\"라거, 에일, IPA 뭐가 이렇게 어려워~\"\n올여름 무더위는 시원한 얼음 맥주와 함께~ \n\n\nCG : 류지인\n기술감독 : 박성영\n촬영 : 장지남 문준영\n연출 : 이규호 조소영",
+      "publishedAt": "2014-07-11T16:08:33Z",
+      "duration": "PT26M54S",
+      "viewCount": 10181,
+      "likeCount": 46,
+      "commentCount": 40,
+      "tags": [
+        "맥주",
+        "라거",
+        "에일",
+        "잉여싸롱",
+        "맥주싸롱",
+        "한겨레",
+        "한겨레tv",
+        "서정민",
+        "이승한",
+        "김선영",
+        "퀸즈에일",
+        "에일스톤",
+        "세븐브로이",
+        "맥스",
+        "오비골든라거",
+        "하이트",
+        "오비",
+        "kloud",
+        "클라우드",
+        "beer"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2014-07-11T16:08:33Z",
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "collectedAt": "2025-09-03T10:48:21Z"
     }
   },
   "channels": {
@@ -1050,11 +1088,38 @@
       },
       "subscriberCount": 1700000,
       "viewCount": 1669752256,
-      "videoCount": 22783,
-      "lastUpdated": "2025-09-03T10:02:46.096048Z"
+      "videoCount": 22784,
+      "lastUpdated": "2025-09-03T10:18:03.225622Z"
+    },
+    "UCugbqfMO94F9guLEb6Olb2A": {
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "channelUrl": "@hankyorehtv",
+      "channelDescription": "'더불어 행복한 세상을 만드는 언론' 한겨레 공식 유튜브 채널입니다. \n ■ 편성 및 제휴 문의: leepd@hani.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 946000,
+      "viewCount": 586539536,
+      "videoCount": 9682,
+      "lastUpdated": "2025-09-03T10:48:21.365439Z"
     }
   },
-  "lastUpdated": "2025-09-03T10:02:46.096048Z",
-  "totalVideos": 22,
-  "totalChannels": 5
+  "lastUpdated": "2025-09-03T10:48:21.365439Z",
+  "totalVideos": 23,
+  "totalChannels": 6
 }

@@ -204,6 +204,59 @@
       "channelId": "UCTHCOPwqNfZ0uiKOvFyhGwg",
       "channelName": "연합뉴스TV",
       "collectedAt": "2025-08-29T02:43:16Z"
+    },
+    "9olHC2zgDbQ": {
+      "videoId": "9olHC2zgDbQ",
+      "title": "[김어준의 파파이스#77] 백자매 그리고 여론조작",
+      "description": "한겨레TV 시사탐사쇼! 진행: 김어준, 김보협  \n\n1. 백도라지 편집인\n   \"아버지는 박대통령에게 그저 공약을 이행하라고 하셨다.\" \n\n2. 김경진 변호사 \n  \"임은정 검사가 '검사직무적격심사' 대상자가 된 이유는?\" \n\n3. 권순정 리얼미터 실장 \n  \"여론조사는 '여론프레임'을 만든다!?.\" \n\n4. 정청래 최고위원 \n  \"안철수 의원의 거취 예견?\"\n \n5. 파파이스 퀴즈\n   대통령 선거 개표 '미분류' 통계 미스터리 \n \n* 참여 & 제보 \n  트위터: @sisakfc\n  페이스북: 김어준의 파파이스\n 전자우편: sisakfc@gmail.com\n \n* 광고문의 전화 02-710-0742, 메일 hanibiz@hani.co.kr \n\n* 연출: 이경주, 구성: 박연신, 종합편집: 문석진 \n  방송기술: 박성영, 카메라: 정동화 장지남 전상진 박성영\n  벙커팀: 배상명 박주성 이영상 김수기 김준엽 박정원 나호영\n  제작: 한겨레TV",
+      "publishedAt": "2015-12-11T16:06:06Z",
+      "duration": "PT2H43S",
+      "viewCount": 252207,
+      "likeCount": 1204,
+      "commentCount": 116,
+      "tags": [
+        "한겨레TV",
+        "한겨레",
+        "이경주",
+        "김보협",
+        "송채경화",
+        "김어준의뉴욕타임스",
+        "벙커",
+        "KFC",
+        "박근혜",
+        "세월호",
+        "파파이스",
+        "김어준",
+        "정청래",
+        "새정치민주연합",
+        "프로젝트부",
+        "시즌2",
+        "김외현",
+        "따루",
+        "김지영",
+        "거짓말",
+        "77회",
+        "역누적",
+        "대선",
+        "개표",
+        "조작",
+        "백남기",
+        "백도라지",
+        "백민주화",
+        "김경진",
+        "임은정",
+        "검찰.검사직무적격심사",
+        "권순정",
+        "여론조사",
+        "안철수",
+        "미분류"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2015-12-11T16:06:06Z",
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "collectedAt": "2025-09-03T10:47:53Z"
     }
   },
   "channels": {
@@ -314,9 +367,36 @@
       "viewCount": 3351994752,
       "videoCount": 627296,
       "lastUpdated": "2025-08-29T02:43:16.492353Z"
+    },
+    "UCugbqfMO94F9guLEb6Olb2A": {
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "channelUrl": "@hankyorehtv",
+      "channelDescription": "'더불어 행복한 세상을 만드는 언론' 한겨레 공식 유튜브 채널입니다. \n ■ 편성 및 제휴 문의: leepd@hani.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 946000,
+      "viewCount": 586539536,
+      "videoCount": 9682,
+      "lastUpdated": "2025-09-03T10:47:53.222767Z"
     }
   },
-  "lastUpdated": "2025-08-29T02:43:16.492353Z",
-  "totalVideos": 9,
-  "totalChannels": 4
+  "lastUpdated": "2025-09-03T10:47:53.222767Z",
+  "totalVideos": 10,
+  "totalChannels": 5
 }

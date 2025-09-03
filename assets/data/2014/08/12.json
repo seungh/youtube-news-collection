@@ -1166,6 +1166,31 @@
       "channelId": "UCdp4_yTBhQmB8E339Lafzow",
       "channelName": "조선일보",
       "collectedAt": "2025-09-03T10:02:45Z"
+    },
+    "qFErhRPt0VY": {
+      "videoId": "qFErhRPt0VY",
+      "title": "‘박근혜 7시간’ 특검으로는 못밝힌다 [21의생각 #301]",
+      "description": "2014년 8월12일(화) \n〈한겨레캐스트 #301- 21의 생각〉 \n〈한겨레21〉기자들의 시사 진단 프로그램\n\n‘거리의 사제’라고 불리는 프란치스코 교황이 8월14일 한국을 찾습니다. 한국에서 고통 받고 있는 이들은 교황이 자신의 목소리에 귀를 기울여주기를 기다립니다. 세월호 진상규명을 주장하는 유가족들의 기다리는 마음은 절박합니다. 정치에서 희망을 잃은 이들이 교황에게 전하고 싶은 이야기는 무엇일까요? \n\n정은주 〈한겨레21〉 사회팀장과 함께 세월호 특별법 재협상 논란과 교황을 기다리는 세월호 유가족들의 마음에 대해 이야기 나눠보도록 하겠습니다 \n\n◆ 주요내용\n1. 세월호 특별법, 만약 재협상을 하게 되면 앞으로 어떤 국면으로 흘러가게 될까\n2. 왜 유가족들은 특별법이 알맹이는 쏙 빠지고 껍데기만 남았다고 주장하나?\n3. 특검이 진상규명을 할 수 있나?\n4. 유가족 단식이 30일째, 현재 광화문과 여의도 국회에 있는 유가족의 상황은?\n5. 왜 유가족들은 교황을 기다리나?\n \n\n〈한겨레1024호〉\n \n\n ◆ 팟캐스트\n -아이튠즈/https://itunes.apple.com/kr/podcast/hangyeolekaeseuteu-2013/id664437159?mt=2\n -팟빵 채널/ http://www.podbbang.com/ch/6464\n \n\n\n◆ 제작진  \n앵커: 황예랑, 취재: 정은주, 기술감독: 박성영, 연출: 조소영",
+      "publishedAt": "2014-08-12T11:09:27Z",
+      "duration": "PT17M41S",
+      "viewCount": 31237,
+      "likeCount": 76,
+      "commentCount": 7,
+      "tags": [
+        "세월호 특별법",
+        "유가족",
+        "교황",
+        "프란치스코",
+        "특검",
+        "수사권",
+        "기소권"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2014-08-12T11:09:27Z",
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "collectedAt": "2025-09-03T10:47:54Z"
     }
   },
   "channels": {
@@ -1328,11 +1353,38 @@
       },
       "subscriberCount": 1700000,
       "viewCount": 1669752256,
-      "videoCount": 22783,
-      "lastUpdated": "2025-09-03T10:02:45.916936Z"
+      "videoCount": 22784,
+      "lastUpdated": "2025-09-03T10:18:02.953323Z"
+    },
+    "UCugbqfMO94F9guLEb6Olb2A": {
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "channelUrl": "@hankyorehtv",
+      "channelDescription": "'더불어 행복한 세상을 만드는 언론' 한겨레 공식 유튜브 채널입니다. \n ■ 편성 및 제휴 문의: leepd@hani.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 946000,
+      "viewCount": 586539536,
+      "videoCount": 9682,
+      "lastUpdated": "2025-09-03T10:47:54.032629Z"
     }
   },
-  "lastUpdated": "2025-09-03T10:02:45.916936Z",
-  "totalVideos": 33,
-  "totalChannels": 6
+  "lastUpdated": "2025-09-03T10:47:54.032629Z",
+  "totalVideos": 34,
+  "totalChannels": 7
 }

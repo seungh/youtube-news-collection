@@ -2768,6 +2768,31 @@
       "channelId": "UCdp4_yTBhQmB8E339Lafzow",
       "channelName": "조선일보",
       "collectedAt": "2025-09-03T10:02:16Z"
+    },
+    "dkgdEleCtkQ": {
+      "videoId": "dkgdEleCtkQ",
+      "title": "변방의 투사, 이재명 성남시장 인터뷰",
+      "description": "●〈한겨레TV〉 유튜브 채널 구독하기 -https://goo.gl/vYg2yI\n‘청년배당’ 두고 대통령 상대로 권한쟁의심판 낸 이재명 성남시장, “변화의 시발점은 변방” 강조...내년 대선 후보 경선 ”최선 다할 것” 이재명 성남시장은 거침이 없었다. 인터뷰 내내 “박근혜 정부가 일베가 하는 짓”을 한다거나, “더불어민주당 대선후보군 2~6위가 연합하면 1위를 제칠 것 같다”는 ‘돌직구’가 이어졌다. “이런 얘기 다 써도 돼요. 사실인데, 뭐.” 다른 정치인이었다면 황급히 주워담았음직한 말인데도, 거르거나 뒤로 빼려 들지 않았다.\n관련기사: “자본주의 보완하려면 기본소득 정책으로”\nhttp://h21.hani.co.kr/arti/politics/politics_general/42305.html\n취재 황예랑 영상 조소영",
+      "publishedAt": "2016-09-05T01:16:21Z",
+      "duration": "PT3M20S",
+      "viewCount": 28870,
+      "likeCount": 389,
+      "commentCount": 60,
+      "tags": [
+        "한겨레",
+        "한겨레TV",
+        "Hankyoreh",
+        "HankyorehTV",
+        "korea",
+        "한국",
+        "대한민국"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2016-09-05T01:16:21Z",
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "collectedAt": "2025-09-03T10:48:22Z"
     }
   },
   "channels": {
@@ -3065,8 +3090,8 @@
       },
       "subscriberCount": 537000,
       "viewCount": 354014202,
-      "videoCount": 11630,
-      "lastUpdated": "2025-09-03T10:02:16.804506Z"
+      "videoCount": 11631,
+      "lastUpdated": "2025-09-03T10:16:58.021461Z"
     },
     "UCdp4_yTBhQmB8E339Lafzow": {
       "channelId": "UCdp4_yTBhQmB8E339Lafzow",
@@ -3092,11 +3117,38 @@
       },
       "subscriberCount": 1700000,
       "viewCount": 1669752256,
-      "videoCount": 22783,
-      "lastUpdated": "2025-09-03T10:02:16.804506Z"
+      "videoCount": 22784,
+      "lastUpdated": "2025-09-03T10:16:58.023484Z"
+    },
+    "UCugbqfMO94F9guLEb6Olb2A": {
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "channelUrl": "@hankyorehtv",
+      "channelDescription": "'더불어 행복한 세상을 만드는 언론' 한겨레 공식 유튜브 채널입니다. \n ■ 편성 및 제휴 문의: leepd@hani.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 946000,
+      "viewCount": 586539536,
+      "videoCount": 9682,
+      "lastUpdated": "2025-09-03T10:48:22.847159Z"
     }
   },
-  "lastUpdated": "2025-09-03T10:02:16.804506Z",
-  "totalVideos": 99,
-  "totalChannels": 12
+  "lastUpdated": "2025-09-03T10:48:22.847159Z",
+  "totalVideos": 100,
+  "totalChannels": 13
 }

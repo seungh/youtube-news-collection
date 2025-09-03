@@ -146,6 +146,32 @@
       "channelId": "UCdp4_yTBhQmB8E339Lafzow",
       "channelName": "조선일보",
       "collectedAt": "2025-09-03T10:02:01Z"
+    },
+    "wfxx-xURTZg": {
+      "videoId": "wfxx-xURTZg",
+      "title": "[셰프릴레이] 모든 음식은 사람을 담아낸다'…미리 맛보기",
+      "description": "셰프가 주목하는 또 다른 셰프를 통해 맛집 릴레이를 이어 온 ‘셰프릴레이’가 취재 과정의 일부를 소개합니다. \n\n강혜란 음식탐험기자가 경기 성남시청 인근 우동전문식당 ‘면통단’을 찾았습니다. \n박우수 셰프가 추천한 남경필 셰프의 우동을 먼저 맛보기 위해서죠.\n셰프의 추천도 중요하지만, 취재 전 미리 찾아가 하는 맛 분석은 필수입니다.   \n물론 사전 약속은 하지 않았습니다. \n \n대부분의 요리는 추천한 이유를 헤아리게 합니다. \n박우수 셰프로부터 추천받는 남경표 셰프 영상은 7월에 찾아갑니다.",
+      "publishedAt": "2016-06-26T14:46:19Z",
+      "duration": "PT2M15S",
+      "viewCount": 466,
+      "likeCount": 1,
+      "commentCount": 0,
+      "tags": [
+        "셰프릴레이",
+        "강혜란 음식탐험기자",
+        "면통단",
+        "남경표셰프",
+        "유부초밥",
+        "박우수",
+        "우동",
+        "가지볶음"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2016-06-26T14:46:19Z",
+      "channelId": "UCH3mJ-nHxjjny2FJbJaqiDA",
+      "channelName": "중앙일보",
+      "collectedAt": "2025-09-03T10:49:21Z"
     }
   },
   "channels": {
@@ -254,8 +280,8 @@
       },
       "subscriberCount": 362000,
       "viewCount": 296027619,
-      "videoCount": 6196,
-      "lastUpdated": "2025-09-03T10:02:01.182177Z"
+      "videoCount": 6197,
+      "lastUpdated": "2025-09-03T10:16:59.313710Z"
     },
     "UCHXvjavEtkPFJCfGlm0wTXw": {
       "channelId": "UCHXvjavEtkPFJCfGlm0wTXw",
@@ -281,8 +307,8 @@
       },
       "subscriberCount": 537000,
       "viewCount": 354014202,
-      "videoCount": 11630,
-      "lastUpdated": "2025-09-03T10:02:01.183175Z"
+      "videoCount": 11631,
+      "lastUpdated": "2025-09-03T10:16:59.313710Z"
     },
     "UCdp4_yTBhQmB8E339Lafzow": {
       "channelId": "UCdp4_yTBhQmB8E339Lafzow",
@@ -308,11 +334,38 @@
       },
       "subscriberCount": 1700000,
       "viewCount": 1669752256,
-      "videoCount": 22783,
-      "lastUpdated": "2025-09-03T10:02:01.183175Z"
+      "videoCount": 22784,
+      "lastUpdated": "2025-09-03T10:16:59.313710Z"
+    },
+    "UCH3mJ-nHxjjny2FJbJaqiDA": {
+      "channelId": "UCH3mJ-nHxjjny2FJbJaqiDA",
+      "channelName": "중앙일보",
+      "channelUrl": "@joongangilbo",
+      "channelDescription": "현장의 진실을 중앙에 두다.",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/iqcE5aK4gFUjm5A-QO4FLDCDrTgOXTfU3oCyirTZcT9Ev1i_sKtx82GqfF2rPDfbBgFtBqL0uw=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/iqcE5aK4gFUjm5A-QO4FLDCDrTgOXTfU3oCyirTZcT9Ev1i_sKtx82GqfF2rPDfbBgFtBqL0uw=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/iqcE5aK4gFUjm5A-QO4FLDCDrTgOXTfU3oCyirTZcT9Ev1i_sKtx82GqfF2rPDfbBgFtBqL0uw=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 555000,
+      "viewCount": 475518285,
+      "videoCount": 18651,
+      "lastUpdated": "2025-09-03T10:49:21.401821Z"
     }
   },
-  "lastUpdated": "2025-09-03T10:02:01.183175Z",
-  "totalVideos": 7,
-  "totalChannels": 6
+  "lastUpdated": "2025-09-03T10:49:21.401821Z",
+  "totalVideos": 8,
+  "totalChannels": 7
 }

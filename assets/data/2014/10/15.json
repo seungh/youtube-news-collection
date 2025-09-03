@@ -1232,6 +1232,23 @@
       "channelId": "UCdp4_yTBhQmB8E339Lafzow",
       "channelName": "조선일보",
       "collectedAt": "2025-09-03T10:02:24Z"
+    },
+    "80V-izdWCJk": {
+      "videoId": "80V-izdWCJk",
+      "title": "‘누구에게나 엄마가 필요하다’ [21의생각 #318]",
+      "description": "2014년 10월15일(수) \n〈한겨레캐스트 #318- 21의 생각〉 \n〈한겨레21〉기자들의 시사 진단 프로그램\n \n 울던 그를 우리는 안아주지 못했습니다. 세월호가 침몰하던 4월16일, 진도경찰서 김아무개 경감의 삶도 급격하게 변했습니다. 진도 팽목항과 실내체육관은 그의 거처이자 사무실이 됐고, 73일동안 집에 들어와 제대로 머문 것은 3번뿐이었습니다. 스무살 난 자식을 먼저 하늘나라로 보낸 경험이 있는 그는 유가족들의 슬픔에 더 깊이 공감하고 아파했습니다. 그러던 그는 지난 6월26일 밤, 진도대교에서 바다로 몸을 던져 세상을 등졌습니다. 세월호 참사는 한국 사회에 깊은 상처를 남겼습니다. 참사를 수습하는 경찰관이나 공무원, 심리상담사들은 유가족만큼이나 깊은 2차 트라우마에 노출돼있습니다. 사회적 재난을 겪은 우리 주변 이웃들을 다시 한번 돌아보고 엄마의 마음으로 따듯하게 보듬어 안아야할 때를 우리는 놓치고 있는 건 아닐까요? 이번주 한겨레21의 표지이야기는 세월호 참사 뒤 외상후 스트레스 장애를 겪고 있는 이들에게 손을 내밉니다. \n\n〈한겨레1032호〉\n \n\n ◆ 팟캐스트\n -아이튠즈/https://itunes.apple.com/kr/podcast/hangyeolekaeseuteu-2013/id664437159?mt=2\n -팟빵 채널/ http://www.podbbang.com/ch/6464\n \n◆ 제작진  \n앵커: 황예랑, 취재: 정은주, 기술감독: 박성영, 연출: 조소영",
+      "publishedAt": "2014-10-15T08:38:27Z",
+      "duration": "PT14M44S",
+      "viewCount": 6164,
+      "likeCount": 24,
+      "commentCount": 0,
+      "tags": [],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2014-10-15T08:38:27Z",
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "collectedAt": "2025-09-03T10:48:39Z"
     }
   },
   "channels": {
@@ -1421,8 +1438,8 @@
       },
       "subscriberCount": 537000,
       "viewCount": 354014202,
-      "videoCount": 11630,
-      "lastUpdated": "2025-09-03T10:02:24.850934Z"
+      "videoCount": 11631,
+      "lastUpdated": "2025-09-03T10:17:10.157050Z"
     },
     "UCdp4_yTBhQmB8E339Lafzow": {
       "channelId": "UCdp4_yTBhQmB8E339Lafzow",
@@ -1448,11 +1465,38 @@
       },
       "subscriberCount": 1700000,
       "viewCount": 1669752256,
-      "videoCount": 22783,
-      "lastUpdated": "2025-09-03T10:02:24.850934Z"
+      "videoCount": 22784,
+      "lastUpdated": "2025-09-03T10:17:10.157050Z"
+    },
+    "UCugbqfMO94F9guLEb6Olb2A": {
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "channelUrl": "@hankyorehtv",
+      "channelDescription": "'더불어 행복한 세상을 만드는 언론' 한겨레 공식 유튜브 채널입니다. \n ■ 편성 및 제휴 문의: leepd@hani.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 946000,
+      "viewCount": 586539536,
+      "videoCount": 9682,
+      "lastUpdated": "2025-09-03T10:48:39.538993Z"
     }
   },
-  "lastUpdated": "2025-09-03T10:02:24.850934Z",
-  "totalVideos": 40,
-  "totalChannels": 8
+  "lastUpdated": "2025-09-03T10:48:39.538993Z",
+  "totalVideos": 41,
+  "totalChannels": 9
 }

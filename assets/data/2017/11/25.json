@@ -947,6 +947,36 @@
       "channelId": "UCdp4_yTBhQmB8E339Lafzow",
       "channelName": "조선일보",
       "collectedAt": "2025-09-03T10:01:42Z"
+    },
+    "XvnV7UvirIk": {
+      "videoId": "XvnV7UvirIk",
+      "title": "청와대 · 국정원· 새누리당· 경찰 4각통화 커넥션 드러났다 [하어영 김완의 훅 #5]",
+      "description": "청와대 · 국정원· 새누리당· 경찰 4각통화 커넥션 드러났다 2012년 12월16일 국정원 댓글 수사 결과 발표 전 6일간 국정원 ·경찰핵심 간부 10명 통화 내역 단독 입수  \n\n관련 기사 : http://h21.hani.co.kr/arti/cover/cover_general/44481.html \n출연: 〈한겨레21〉 변지민· 김완 ·하어영\n타이틀 : 〈한겨레TV〉문석진 \n연출 : 〈한겨레TV〉조소영\n\n●〈한겨레TV〉 유튜브 채널 구독하기 -https://goo.gl/vYg2yI\n#한겨레훅 #국정원 #변지민",
+      "publishedAt": "2017-11-24T21:57:56Z",
+      "duration": "PT19M23S",
+      "viewCount": 5935,
+      "likeCount": 97,
+      "commentCount": 13,
+      "tags": [
+        "한겨레",
+        "한겨레TV",
+        "Hankyoreh",
+        "HankyorehTV",
+        "korea",
+        "한국",
+        "대한민국",
+        "한겨레21",
+        "이명박",
+        "국정원",
+        "댓글",
+        "박근혜"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2017-11-24T21:57:56Z",
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "collectedAt": "2025-09-03T10:47:56Z"
     }
   },
   "channels": {
@@ -1190,8 +1220,8 @@
       },
       "subscriberCount": 362000,
       "viewCount": 296027619,
-      "videoCount": 6196,
-      "lastUpdated": "2025-09-03T10:01:42.685070Z"
+      "videoCount": 6197,
+      "lastUpdated": "2025-09-03T10:17:40.109339Z"
     },
     "UCdp4_yTBhQmB8E339Lafzow": {
       "channelId": "UCdp4_yTBhQmB8E339Lafzow",
@@ -1217,11 +1247,38 @@
       },
       "subscriberCount": 1700000,
       "viewCount": 1669752256,
-      "videoCount": 22783,
-      "lastUpdated": "2025-09-03T10:01:42.685070Z"
+      "videoCount": 22784,
+      "lastUpdated": "2025-09-03T10:17:40.109339Z"
+    },
+    "UCugbqfMO94F9guLEb6Olb2A": {
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "channelUrl": "@hankyorehtv",
+      "channelDescription": "'더불어 행복한 세상을 만드는 언론' 한겨레 공식 유튜브 채널입니다. \n ■ 편성 및 제휴 문의: leepd@hani.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 946000,
+      "viewCount": 586539536,
+      "videoCount": 9682,
+      "lastUpdated": "2025-09-03T10:47:56.225273Z"
     }
   },
-  "lastUpdated": "2025-09-03T10:01:42.686068Z",
-  "totalVideos": 38,
-  "totalChannels": 10
+  "lastUpdated": "2025-09-03T10:47:56.225273Z",
+  "totalVideos": 39,
+  "totalChannels": 11
 }

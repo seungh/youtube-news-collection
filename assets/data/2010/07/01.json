@@ -1,0 +1,82 @@
+{
+  "videos": {
+    "NEEsOGVQRfs": {
+      "videoId": "NEEsOGVQRfs",
+      "title": "\"KBS를 살리고 싶습니다.\"",
+      "description": "1일 KBS 새노조 파업 돌입",
+      "publishedAt": "2010-07-01T07:16:47Z",
+      "duration": "PT2M19S",
+      "viewCount": 942,
+      "likeCount": 8,
+      "commentCount": 1,
+      "tags": [
+        "HMC",
+        "20100701",
+        "KBS",
+        "새노조",
+        "파업",
+        "출정식",
+        "완"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2010-07-01T07:16:47Z",
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "collectedAt": "2025-09-03T10:48:41Z"
+    },
+    "p52mMJPN0bY": {
+      "videoId": "p52mMJPN0bY",
+      "title": "앱평9 - 스티브 잡스 명연설을 휴대전화에서 보다",
+      "description": "'북앤딕 세계 명연설' '섀도잉' 등 어학 학습 앱\n모르는 단어는 따로 단어장으로...읽고 녹음하는 기능",
+      "publishedAt": "2010-06-30T23:39:07Z",
+      "duration": "PT9M16S",
+      "viewCount": 3020,
+      "likeCount": 2,
+      "commentCount": 0,
+      "tags": [
+        "앱평",
+        "세계명연설",
+        "섀도잉"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2010-06-30T23:39:07Z",
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "collectedAt": "2025-09-03T10:48:41Z"
+    }
+  },
+  "channels": {
+    "UCugbqfMO94F9guLEb6Olb2A": {
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "channelUrl": "@hankyorehtv",
+      "channelDescription": "'더불어 행복한 세상을 만드는 언론' 한겨레 공식 유튜브 채널입니다. \n ■ 편성 및 제휴 문의: leepd@hani.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 946000,
+      "viewCount": 586539536,
+      "videoCount": 9682,
+      "lastUpdated": "2025-09-03T10:48:41.477132Z"
+    }
+  },
+  "lastUpdated": "2025-09-03T10:48:41.477132Z",
+  "totalVideos": 2,
+  "totalChannels": 1
+}

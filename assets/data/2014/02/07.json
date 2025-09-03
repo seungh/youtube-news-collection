@@ -655,6 +655,23 @@
       "channelId": "UCdp4_yTBhQmB8E339Lafzow",
       "channelName": "조선일보",
       "collectedAt": "2025-09-03T10:02:28Z"
+    },
+    "MvwcgLYfTAQ": {
+      "videoId": "MvwcgLYfTAQ",
+      "title": "#5. 안철수·박원순 경쟁과 협력사이",
+      "description": "◆주요내용\n-안철수 의원과 박원순 서울 시장의 관계 분석\n-2014년의 전당포의 모습은 어떠할까? 기자 전당포를 가다\n\n◆ 제작진\n진행: 최성진·허재현, 취재: 김종철, 윤형중 기술감독: 박성영, 연출: 정주용\n\n◆ 팟캐스트\n\n-아이튠즈/ https://itunes.apple.com/kr/podcast/choeseongjin-heojaehyeon-ui/id787083921?mt=2\n\n-팟빵 채널/ http://www.podbbang.com/ch/7049\n\n한겨레tv, 안철수, 박원순, 지방선거, 서울시장",
+      "publishedAt": "2014-02-07T09:53:20Z",
+      "duration": "PT43M59S",
+      "viewCount": 5742,
+      "likeCount": 10,
+      "commentCount": 1,
+      "tags": [],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2014-02-07T09:53:20Z",
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "collectedAt": "2025-09-03T10:48:34Z"
     }
   },
   "channels": {
@@ -763,8 +780,8 @@
       },
       "subscriberCount": 537000,
       "viewCount": 354014202,
-      "videoCount": 11630,
-      "lastUpdated": "2025-09-03T10:02:28.353252Z"
+      "videoCount": 11631,
+      "lastUpdated": "2025-09-03T10:17:13.825458Z"
     },
     "UCdp4_yTBhQmB8E339Lafzow": {
       "channelId": "UCdp4_yTBhQmB8E339Lafzow",
@@ -790,11 +807,38 @@
       },
       "subscriberCount": 1700000,
       "viewCount": 1669752256,
-      "videoCount": 22783,
-      "lastUpdated": "2025-09-03T10:02:28.353252Z"
+      "videoCount": 22784,
+      "lastUpdated": "2025-09-03T10:17:13.825458Z"
+    },
+    "UCugbqfMO94F9guLEb6Olb2A": {
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "channelUrl": "@hankyorehtv",
+      "channelDescription": "'더불어 행복한 세상을 만드는 언론' 한겨레 공식 유튜브 채널입니다. \n ■ 편성 및 제휴 문의: leepd@hani.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 946000,
+      "viewCount": 586539536,
+      "videoCount": 9682,
+      "lastUpdated": "2025-09-03T10:48:34.633407Z"
     }
   },
-  "lastUpdated": "2025-09-03T10:02:28.353252Z",
-  "totalVideos": 24,
-  "totalChannels": 5
+  "lastUpdated": "2025-09-03T10:48:34.633407Z",
+  "totalVideos": 25,
+  "totalChannels": 6
 }

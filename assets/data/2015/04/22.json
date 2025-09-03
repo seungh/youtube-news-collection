@@ -1254,6 +1254,29 @@
       "channelId": "UCdp4_yTBhQmB8E339Lafzow",
       "channelName": "조선일보",
       "collectedAt": "2025-09-03T10:02:02Z"
+    },
+    "X1aeGyjawIY": {
+      "videoId": "X1aeGyjawIY",
+      "title": "‘박 깨진 친박’…‘박’은 뭐하나[정치토크 돌직구 50회]",
+      "description": "‘한겨레’ 여당 반장이 분석한 ‘성완종 리스트’와 이완구 사퇴\n\n‘성완종 리스트’에 오른 이완구 국무총리가 사퇴를 발표했지만, 박근혜 대통령은 “매우 안타깝고 총리의 고뇌를 느낀다”며 측근들의 불법자금 수혜 의혹에 대해 ‘모르쇠’ 입장을 고수했다. 여야를 싸잡아 “검찰의 확실한 수사”를 지시하며 국민 감정과 거리가 먼 무책임한 태도를 보였다. 박 대통령은 과연 한 마디 사과도 없이 이 정국을 넘기려는 것일까? 또 다시 비어버린 총리 자리엔 어떤 인물들이 물망에 오르고 있나? \n새누리당 출입 기자들을 이끌고 있는 황준범 ‘한겨레’ 정치부 기자와 함께 이 총리 사퇴와 ‘성완종 리스트’ 파문을 분석해 본다.\n\n◆ 제작진\n진행: 임석규 성한용, 게스트: 황준범, 기술감독: 박성영, 연출: 김도성 정주용 이재만\n\n◆ 팟캐스트\n-아이튠즈/ https://itunes.apple.com/kr/podcast/jeongchitokeu-doljiggu/id934712464?mt=2\n-팟빵 채널/ http://www.podbbang.com/ch/8405",
+      "publishedAt": "2015-04-22T09:53:06Z",
+      "duration": "PT13M47S",
+      "viewCount": 66332,
+      "likeCount": 63,
+      "commentCount": 4,
+      "tags": [
+        "한겨레TV",
+        "이완구",
+        "성완종",
+        "박근혜",
+        "총리"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2015-04-22T09:53:06Z",
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "collectedAt": "2025-09-03T10:48:12Z"
     }
   },
   "channels": {
@@ -1470,8 +1493,8 @@
       },
       "subscriberCount": 362000,
       "viewCount": 296027619,
-      "videoCount": 6196,
-      "lastUpdated": "2025-09-03T10:02:02.468085Z"
+      "videoCount": 6197,
+      "lastUpdated": "2025-09-03T10:17:07.038865Z"
     },
     "UCHXvjavEtkPFJCfGlm0wTXw": {
       "channelId": "UCHXvjavEtkPFJCfGlm0wTXw",
@@ -1497,8 +1520,8 @@
       },
       "subscriberCount": 537000,
       "viewCount": 354014202,
-      "videoCount": 11630,
-      "lastUpdated": "2025-09-03T10:02:02.468085Z"
+      "videoCount": 11631,
+      "lastUpdated": "2025-09-03T10:17:07.038865Z"
     },
     "UCdp4_yTBhQmB8E339Lafzow": {
       "channelId": "UCdp4_yTBhQmB8E339Lafzow",
@@ -1524,11 +1547,38 @@
       },
       "subscriberCount": 1700000,
       "viewCount": 1669752256,
-      "videoCount": 22783,
-      "lastUpdated": "2025-09-03T10:02:02.468085Z"
+      "videoCount": 22784,
+      "lastUpdated": "2025-09-03T10:17:07.038865Z"
+    },
+    "UCugbqfMO94F9guLEb6Olb2A": {
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "channelUrl": "@hankyorehtv",
+      "channelDescription": "'더불어 행복한 세상을 만드는 언론' 한겨레 공식 유튜브 채널입니다. \n ■ 편성 및 제휴 문의: leepd@hani.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 946000,
+      "viewCount": 586539536,
+      "videoCount": 9682,
+      "lastUpdated": "2025-09-03T10:48:12.864599Z"
     }
   },
-  "lastUpdated": "2025-09-03T10:02:02.468085Z",
-  "totalVideos": 43,
-  "totalChannels": 10
+  "lastUpdated": "2025-09-03T10:48:12.864599Z",
+  "totalVideos": 44,
+  "totalChannels": 11
 }

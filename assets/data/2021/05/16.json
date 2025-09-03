@@ -5951,6 +5951,36 @@
       "channelId": "UCdp4_yTBhQmB8E339Lafzow",
       "channelName": "조선일보",
       "collectedAt": "2025-09-03T10:02:38Z"
+    },
+    "tnvIImRyJjU": {
+      "videoId": "tnvIImRyJjU",
+      "title": "\"장제원!\" \"왜 표창원!\"…류호정·문정복이 꺼낸 국회 반말의 역사",
+      "description": "류호정(28) 정의당 의원과 문정복(54) 더불어민주당 의원 간 ‘반말’ 설전의 앙금이 15일까지 풀리지 않고 있다.\n \n발단은 지난 13일 국회 본회의장에서 박준영 전 해양수산부 장관 후보자의 ‘도자기 논란’을 지적한 배진교 정의당 원내대표에게 문 의원이 다가가 항의한 것이었다. 문 의원이 “‘당신’(박 전 후보자)이 국정운영에 부담이 될 것 같아서 (사퇴했다)”라고 말하자 옆에 있던 류 의원이 “당신?”이라고 되물었다. 그러자 문 의원은 “야! 어디서 감히! 어디서 목소리를 높여!”라고 지적했고 이에 류 의원도 “우리 당이 만만한가? 저기(국민의힘)에는 한 마디도 못하면서 여기(정의당)에 와서 뭐하시는 건가!”라고 응수했다.\n \n두 사람 간의 설전은 양당 갈등으로도 번질 조짐이다. 장혜영 정의당 의원이 14일 “(문 의원이) 사과조차 거부하는 것은 의회의 명예를 두 번 실추시키는 일”이라고 주장하자 민주당에선 “정의당이 너무 뻗댄다”(한 당직자)고 반발했다.\n\n#국회의원 #막말 #류호정",
+      "publishedAt": "2021-05-16T05:30:45Z",
+      "duration": "PT2M25S",
+      "viewCount": 125460,
+      "likeCount": 414,
+      "commentCount": 221,
+      "tags": [
+        "중앙일보",
+        "국회의원",
+        "막말",
+        "반말",
+        "민주당",
+        "정의당",
+        "류호정",
+        "문정복",
+        "표창원",
+        "국회",
+        "설전",
+        "사과"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2021-05-16T05:30:45Z",
+      "channelId": "UCH3mJ-nHxjjny2FJbJaqiDA",
+      "channelName": "중앙일보",
+      "collectedAt": "2025-09-03T10:49:11Z"
     }
   },
   "channels": {
@@ -6166,9 +6196,9 @@
         }
       },
       "subscriberCount": 1340000,
-      "viewCount": 870924917,
-      "videoCount": 32030,
-      "lastUpdated": "2025-08-24T21:52:55.187856Z"
+      "viewCount": 871828833,
+      "videoCount": 32204,
+      "lastUpdated": "2025-09-03T10:53:27.094966Z"
     },
     "UCkinYTS9IHqOEwR1Sze2JTw": {
       "channelId": "UCkinYTS9IHqOEwR1Sze2JTw",
@@ -6383,11 +6413,38 @@
       },
       "subscriberCount": 1700000,
       "viewCount": 1669752256,
-      "videoCount": 22783,
-      "lastUpdated": "2025-09-03T10:02:38.307300Z"
+      "videoCount": 22784,
+      "lastUpdated": "2025-09-03T10:17:56.896399Z"
+    },
+    "UCH3mJ-nHxjjny2FJbJaqiDA": {
+      "channelId": "UCH3mJ-nHxjjny2FJbJaqiDA",
+      "channelName": "중앙일보",
+      "channelUrl": "@joongangilbo",
+      "channelDescription": "현장의 진실을 중앙에 두다.",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/iqcE5aK4gFUjm5A-QO4FLDCDrTgOXTfU3oCyirTZcT9Ev1i_sKtx82GqfF2rPDfbBgFtBqL0uw=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/iqcE5aK4gFUjm5A-QO4FLDCDrTgOXTfU3oCyirTZcT9Ev1i_sKtx82GqfF2rPDfbBgFtBqL0uw=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/iqcE5aK4gFUjm5A-QO4FLDCDrTgOXTfU3oCyirTZcT9Ev1i_sKtx82GqfF2rPDfbBgFtBqL0uw=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 555000,
+      "viewCount": 475518285,
+      "videoCount": 18651,
+      "lastUpdated": "2025-09-03T10:49:11.673154Z"
     }
   },
-  "lastUpdated": "2025-09-03T10:02:38.307300Z",
-  "totalVideos": 194,
-  "totalChannels": 16
+  "lastUpdated": "2025-09-03T10:53:27.094966Z",
+  "totalVideos": 195,
+  "totalChannels": 17
 }

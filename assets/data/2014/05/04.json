@@ -129,6 +129,23 @@
       "channelId": "UChlgI3UHCOnwUGzWzbJ3H5w",
       "channelName": " YTN",
       "collectedAt": "2025-08-27T19:05:15Z"
+    },
+    "JowaNEH3o_0": {
+      "videoId": "JowaNEH3o_0",
+      "title": "\"미안합니다\" 세월호 참사 추모촛불",
+      "description": "5월3일 저녁 7시 서울 청계광장에서 열린 세월호 참사 시민촛불집회에 4천5백여명의 시민이 참가했습니다.\n\n영상 취재: 이경주 leepd@hani.co.kr",
+      "publishedAt": "2014-05-04T13:42:57Z",
+      "duration": "PT1M44S",
+      "viewCount": 7874,
+      "likeCount": 59,
+      "commentCount": 1,
+      "tags": [],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2014-05-04T13:42:57Z",
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "collectedAt": "2025-09-03T10:47:54Z"
     }
   },
   "channels": {
@@ -212,9 +229,36 @@
       "viewCount": 17649222300,
       "videoCount": 890317,
       "lastUpdated": "2025-08-29T02:43:51.657345Z"
+    },
+    "UCugbqfMO94F9guLEb6Olb2A": {
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "channelUrl": "@hankyorehtv",
+      "channelDescription": "'더불어 행복한 세상을 만드는 언론' 한겨레 공식 유튜브 채널입니다. \n ■ 편성 및 제휴 문의: leepd@hani.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 946000,
+      "viewCount": 586539536,
+      "videoCount": 9682,
+      "lastUpdated": "2025-09-03T10:47:54.362954Z"
     }
   },
-  "lastUpdated": "2025-08-29T02:43:51.657345Z",
-  "totalVideos": 5,
-  "totalChannels": 3
+  "lastUpdated": "2025-09-03T10:47:54.362954Z",
+  "totalVideos": 6,
+  "totalChannels": 4
 }

@@ -9863,6 +9863,30 @@
       "channelId": "UCdp4_yTBhQmB8E339Lafzow",
       "channelName": "조선일보",
       "collectedAt": "2025-09-03T10:01:46Z"
+    },
+    "2yb1DKhuYSU": {
+      "videoId": "2yb1DKhuYSU",
+      "title": "징검다리 연휴 코앞인데…태풍 '끄라톤' 방향 틀어 한반도로?",
+      "description": "✔중앙일보 구독하기 https://www.youtube.com/c/JoongAngIlbo?sub_confirmation=1\n\n대만을 향해 이동 중인 18호 태풍 ‘끄라톤’(KRATHON)이 방향을 바꿔 한반도 쪽으로 이동할 가능성이 있다고 기상청이 밝혔다.\n \n29일 기상청은 끄라톤이 30일~다음 달 1일 사이 끄라톤이 대만에서 전향해 제주도 남부 먼 해상 방향으로 이동하기 시작할 것으로 예상된다고 했다. 한반도 부근으로 북상한다면 개천절(10월 3일)이 낀 징검다리 연휴가 태풍 영향을 받는 시기가 될 전망이다. 끄라톤은 태국이 제출한 태풍명으로 열대과일 이름이다.\n\n#끄라톤 #태풍 #대만",
+      "publishedAt": "2024-09-29T12:02:30Z",
+      "duration": "PT1M",
+      "viewCount": 1710,
+      "likeCount": 29,
+      "commentCount": 2,
+      "tags": [
+        "중앙일보",
+        "UCH3mJ-nHxjjny2FJbJaqiDA",
+        "중앙일보 뉴스",
+        "뉴스",
+        "신문",
+        "방송"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2024-09-29T12:02:30Z",
+      "channelId": "UCH3mJ-nHxjjny2FJbJaqiDA",
+      "channelName": "중앙일보",
+      "collectedAt": "2025-09-03T10:48:45Z"
     }
   },
   "channels": {
@@ -10186,9 +10210,9 @@
         }
       },
       "subscriberCount": 1340000,
-      "viewCount": 870924917,
-      "videoCount": 32030,
-      "lastUpdated": "2025-08-24T21:49:49.146592Z"
+      "viewCount": 871828833,
+      "videoCount": 32204,
+      "lastUpdated": "2025-09-03T10:51:19.654215Z"
     },
     "UCcQTRi69dsVYHN3exePtZ1A": {
       "channelId": "UCcQTRi69dsVYHN3exePtZ1A",
@@ -10349,8 +10373,8 @@
       },
       "subscriberCount": 362000,
       "viewCount": 296027619,
-      "videoCount": 6196,
-      "lastUpdated": "2025-09-03T10:01:46.307056Z"
+      "videoCount": 6197,
+      "lastUpdated": "2025-09-03T10:16:21.036276Z"
     },
     "UCHXvjavEtkPFJCfGlm0wTXw": {
       "channelId": "UCHXvjavEtkPFJCfGlm0wTXw",
@@ -10376,8 +10400,8 @@
       },
       "subscriberCount": 537000,
       "viewCount": 354014202,
-      "videoCount": 11630,
-      "lastUpdated": "2025-09-03T10:01:46.312390Z"
+      "videoCount": 11631,
+      "lastUpdated": "2025-09-03T10:16:21.036276Z"
     },
     "UCdp4_yTBhQmB8E339Lafzow": {
       "channelId": "UCdp4_yTBhQmB8E339Lafzow",
@@ -10403,11 +10427,38 @@
       },
       "subscriberCount": 1700000,
       "viewCount": 1669752256,
-      "videoCount": 22783,
-      "lastUpdated": "2025-09-03T10:01:46.312390Z"
+      "videoCount": 22784,
+      "lastUpdated": "2025-09-03T10:16:21.036276Z"
+    },
+    "UCH3mJ-nHxjjny2FJbJaqiDA": {
+      "channelId": "UCH3mJ-nHxjjny2FJbJaqiDA",
+      "channelName": "중앙일보",
+      "channelUrl": "@joongangilbo",
+      "channelDescription": "현장의 진실을 중앙에 두다.",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/iqcE5aK4gFUjm5A-QO4FLDCDrTgOXTfU3oCyirTZcT9Ev1i_sKtx82GqfF2rPDfbBgFtBqL0uw=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/iqcE5aK4gFUjm5A-QO4FLDCDrTgOXTfU3oCyirTZcT9Ev1i_sKtx82GqfF2rPDfbBgFtBqL0uw=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/iqcE5aK4gFUjm5A-QO4FLDCDrTgOXTfU3oCyirTZcT9Ev1i_sKtx82GqfF2rPDfbBgFtBqL0uw=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 555000,
+      "viewCount": 475518285,
+      "videoCount": 18651,
+      "lastUpdated": "2025-09-03T10:48:45.552763Z"
     }
   },
-  "lastUpdated": "2025-09-03T10:01:46.312390Z",
-  "totalVideos": 299,
-  "totalChannels": 20
+  "lastUpdated": "2025-09-03T10:51:19.654215Z",
+  "totalVideos": 300,
+  "totalChannels": 21
 }

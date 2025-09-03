@@ -1836,6 +1836,47 @@
       "channelId": "UCdp4_yTBhQmB8E339Lafzow",
       "channelName": "조선일보",
       "collectedAt": "2025-09-03T10:01:35Z"
+    },
+    "fksVKpgs9Po": {
+      "videoId": "fksVKpgs9Po",
+      "title": "[행가레#11] 인공지능과 다르게 사는 법_김경일 교수",
+      "description": "행복한 가족을 위한 디지털 레시피- 행가레\n행가레는 스마트폰만 보는 아이와 걱정하는 부모\n그 전쟁속에서 행복한 가정을 만들기 위한 프로그램입니다\n\n\n[사람과디지털연구소]에서 기획한\n2016년 행가레 두 번째 시리즈의 주제는 \n‘디지털 시대의 놀이와 문화’. \n그 두번째 강연은 아주대학교 심리학과 김경일 교수의\n'인공지능과 다르게 사는 법’입니다.\n아이를 성공한 자녀로 키우려면 꼭 해야할 두가지... \n스마트폰과 지갑 없이 하루 30분 걷게하기. \n성적이 안 좋은 아이와 친구하게 하기. \n과연 그럴까? \n행가레 11편에서 확인하시기 바랍니다. \n\n\n기획:사람과디지털연구소 \n프로듀서:이경주 \n카메라:정동화, 장지남 \n성우:손우숙 \n메이크업: 강희정\n지미집:조은그림 \n장소협조:미디어카페 Hu: \n현장 진행:조수경 \n연출:서정원\n제작:큐싸인미디어",
+      "publishedAt": "2016-06-28T02:59:55Z",
+      "duration": "PT26M19S",
+      "viewCount": 22367,
+      "likeCount": 277,
+      "commentCount": 6,
+      "tags": [
+        "행가레",
+        "사람과디지털연구소",
+        "스마트폰",
+        "청소년",
+        "중독",
+        "한겨레",
+        "온라인",
+        "갈등",
+        "단절",
+        "행복",
+        "디지털",
+        "소통",
+        "구본권",
+        "OECD",
+        "포기",
+        "부모",
+        "역할",
+        "의지",
+        "자기주도",
+        "관계회복",
+        "아주대학교",
+        "인공지능",
+        "김경일"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2016-06-28T02:59:55Z",
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "collectedAt": "2025-09-03T10:48:08Z"
     }
   },
   "channels": {
@@ -2106,8 +2147,8 @@
       },
       "subscriberCount": 362000,
       "viewCount": 296027619,
-      "videoCount": 6196,
-      "lastUpdated": "2025-09-03T10:01:35.861736Z"
+      "videoCount": 6197,
+      "lastUpdated": "2025-09-03T10:16:59.270474Z"
     },
     "UCHXvjavEtkPFJCfGlm0wTXw": {
       "channelId": "UCHXvjavEtkPFJCfGlm0wTXw",
@@ -2133,8 +2174,8 @@
       },
       "subscriberCount": 537000,
       "viewCount": 354014202,
-      "videoCount": 11630,
-      "lastUpdated": "2025-09-03T10:01:35.861736Z"
+      "videoCount": 11631,
+      "lastUpdated": "2025-09-03T10:16:59.270474Z"
     },
     "UCdp4_yTBhQmB8E339Lafzow": {
       "channelId": "UCdp4_yTBhQmB8E339Lafzow",
@@ -2160,11 +2201,38 @@
       },
       "subscriberCount": 1700000,
       "viewCount": 1669752256,
-      "videoCount": 22783,
-      "lastUpdated": "2025-09-03T10:01:35.861736Z"
+      "videoCount": 22784,
+      "lastUpdated": "2025-09-03T10:16:59.270474Z"
+    },
+    "UCugbqfMO94F9guLEb6Olb2A": {
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "channelUrl": "@hankyorehtv",
+      "channelDescription": "'더불어 행복한 세상을 만드는 언론' 한겨레 공식 유튜브 채널입니다. \n ■ 편성 및 제휴 문의: leepd@hani.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 946000,
+      "viewCount": 586539536,
+      "videoCount": 9682,
+      "lastUpdated": "2025-09-03T10:48:08.190724Z"
     }
   },
-  "lastUpdated": "2025-09-03T10:01:35.861736Z",
-  "totalVideos": 70,
-  "totalChannels": 12
+  "lastUpdated": "2025-09-03T10:48:08.190724Z",
+  "totalVideos": 71,
+  "totalChannels": 13
 }

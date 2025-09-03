@@ -812,6 +812,28 @@
       "channelId": "UCdp4_yTBhQmB8E339Lafzow",
       "channelName": "조선일보",
       "collectedAt": "2025-09-03T10:02:02Z"
+    },
+    "qaHeh9UzPwU": {
+      "videoId": "qaHeh9UzPwU",
+      "title": "박대통령 지지율 하락…무능에 장사 없다[정치토크 돌직구 62회]",
+      "description": "메르스 사태와 박근혜 대통령 지지율\n\n박근혜 대통령의 지지율이 떨어지고 있다. 메르스 사태를 대처하는 박근혜 정부의 무능이 지지율에 반영된 모습니다. 작년에 있었던 세월호 참사, 비선 실세 국정농단 의혹과 최근 성완종 리스트 파문 때와 비슷하다.\n위기 때마다 곤두박질치는 박 대통령의 지지율은 시간이 지나면 이내 회복한다. 50대, 60대와 부산·울산·경남 지역의 지지층들이 박 대통령의 지지율 회복에 한몫을 하고 있다. 반대로, ‘박 대통령의 위기’ 때마다 가장 크게 반응했던 층이 50대와 부산·울산·경남 지역의 박 대통령 지지층이기도 하다. 이번 시간에는 여론조사 전문가인 한귀영 한겨레 사회정책연구소 소장에게 메르스 사태와 박 대통령의 지지율을 주제로 이야기 나눈다.\n\n◆ 제작진\n진행: 임석규 성한용, 게스트: 한귀영, 기술감독: 박성영, 연출: 김도성 정주용\n\n\n◆ 팟캐스트\n-아이튠즈/ https://itunes.apple.com/kr/podcast/jeongchitokeu-doljiggu/id934712464?mt=2\n-팟빵 채널/ http://www.podbbang.com/ch/8405",
+      "publishedAt": "2015-06-10T09:19:43Z",
+      "duration": "PT14M26S",
+      "viewCount": 133407,
+      "likeCount": 322,
+      "commentCount": 52,
+      "tags": [
+        "한겨레TV",
+        "메르스",
+        "박근혜",
+        "여론조사"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2015-06-10T09:19:43Z",
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "collectedAt": "2025-09-03T10:48:12Z"
     }
   },
   "channels": {
@@ -1028,8 +1050,8 @@
       },
       "subscriberCount": 362000,
       "viewCount": 296027619,
-      "videoCount": 6196,
-      "lastUpdated": "2025-09-03T10:02:02.282938Z"
+      "videoCount": 6197,
+      "lastUpdated": "2025-09-03T10:17:05.919964Z"
     },
     "UCHXvjavEtkPFJCfGlm0wTXw": {
       "channelId": "UCHXvjavEtkPFJCfGlm0wTXw",
@@ -1055,8 +1077,8 @@
       },
       "subscriberCount": 537000,
       "viewCount": 354014202,
-      "videoCount": 11630,
-      "lastUpdated": "2025-09-03T10:02:02.282938Z"
+      "videoCount": 11631,
+      "lastUpdated": "2025-09-03T10:17:05.919964Z"
     },
     "UCdp4_yTBhQmB8E339Lafzow": {
       "channelId": "UCdp4_yTBhQmB8E339Lafzow",
@@ -1082,11 +1104,38 @@
       },
       "subscriberCount": 1700000,
       "viewCount": 1669752256,
-      "videoCount": 22783,
-      "lastUpdated": "2025-09-03T10:02:02.282938Z"
+      "videoCount": 22784,
+      "lastUpdated": "2025-09-03T10:17:05.919964Z"
+    },
+    "UCugbqfMO94F9guLEb6Olb2A": {
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "channelUrl": "@hankyorehtv",
+      "channelDescription": "'더불어 행복한 세상을 만드는 언론' 한겨레 공식 유튜브 채널입니다. \n ■ 편성 및 제휴 문의: leepd@hani.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 946000,
+      "viewCount": 586539536,
+      "videoCount": 9682,
+      "lastUpdated": "2025-09-03T10:48:12.677659Z"
     }
   },
-  "lastUpdated": "2025-09-03T10:02:02.282938Z",
-  "totalVideos": 31,
-  "totalChannels": 10
+  "lastUpdated": "2025-09-03T10:48:12.678316Z",
+  "totalVideos": 32,
+  "totalChannels": 11
 }

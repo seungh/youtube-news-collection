@@ -1362,6 +1362,31 @@
       "channelId": "UCdp4_yTBhQmB8E339Lafzow",
       "channelName": "조선일보",
       "collectedAt": "2025-09-03T10:02:16Z"
+    },
+    "zJ0EdpDJLMg": {
+      "videoId": "zJ0EdpDJLMg",
+      "title": "오리엔탈 쇼커스, 곡 속에 암호를 찾아라 [어쩌다음악#23]",
+      "description": "●〈한겨레TV〉 유튜브 채널 구독하기 -https://goo.gl/vYg2yI\n오리엔탈 쇼커스는 노래를 하는 김그레, 하모니카와 트럼펫을 부는 김여레, 키보드를 치고 트롬본을 부는 김현경을 앞세운 ‘걸크러시’ 밴드다.  연주곡 ‘폴 인투 스텝’에서 하모니카가 저런 소리를 낼 수 있나를 보여주는 김여레와 귀여우면서도 무표정의 카리스마가 돋보이는 김현경의 연주를 듣고 있노라면 나이 어린 동생들을 향해 “언니” 소리가 절로 나오게 된다. 이들의 뒤를 단단하게 받쳐주는 건 베이스의 장철호(리더), 기타의 조진성, 색소폰의 한영광, 드럼의 김기원이다.\n관련기사: http://m.hani.co.kr/arti/culture/music/763789.html\n취재 구둘래\n영상 조소영 \n\n관련기사: “우리 곡 속에서 암호 찾아보세요”\nhttp://www.hani.co.kr/arti/culture/music/763789.html",
+      "publishedAt": "2016-10-02T15:34:16Z",
+      "duration": "PT6M19S",
+      "viewCount": 2325,
+      "likeCount": 13,
+      "commentCount": 0,
+      "tags": [
+        "한겨레",
+        "한겨레TV",
+        "Hankyoreh",
+        "HankyorehTV",
+        "korea",
+        "한국",
+        "대한민국"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2016-10-02T15:34:16Z",
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "collectedAt": "2025-09-03T10:48:02Z"
     }
   },
   "channels": {
@@ -1551,8 +1576,8 @@
       },
       "subscriberCount": 537000,
       "viewCount": 354014202,
-      "videoCount": 11630,
-      "lastUpdated": "2025-09-03T10:02:16.610694Z"
+      "videoCount": 11631,
+      "lastUpdated": "2025-09-03T10:16:57.551423Z"
     },
     "UCdp4_yTBhQmB8E339Lafzow": {
       "channelId": "UCdp4_yTBhQmB8E339Lafzow",
@@ -1578,11 +1603,38 @@
       },
       "subscriberCount": 1700000,
       "viewCount": 1669752256,
-      "videoCount": 22783,
-      "lastUpdated": "2025-09-03T10:02:16.610694Z"
+      "videoCount": 22784,
+      "lastUpdated": "2025-09-03T10:16:57.551423Z"
+    },
+    "UCugbqfMO94F9guLEb6Olb2A": {
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "channelUrl": "@hankyorehtv",
+      "channelDescription": "'더불어 행복한 세상을 만드는 언론' 한겨레 공식 유튜브 채널입니다. \n ■ 편성 및 제휴 문의: leepd@hani.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 946000,
+      "viewCount": 586539536,
+      "videoCount": 9682,
+      "lastUpdated": "2025-09-03T10:48:02.828429Z"
     }
   },
-  "lastUpdated": "2025-09-03T10:02:16.610694Z",
-  "totalVideos": 49,
-  "totalChannels": 8
+  "lastUpdated": "2025-09-03T10:48:02.828429Z",
+  "totalVideos": 50,
+  "totalChannels": 9
 }

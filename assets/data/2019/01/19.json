@@ -4792,6 +4792,34 @@
       "channelId": "UCTHCOPwqNfZ0uiKOvFyhGwg",
       "channelName": "연합뉴스TV",
       "collectedAt": "2025-08-29T02:43:10Z"
+    },
+    "-7yHK68-8lc": {
+      "videoId": "-7yHK68-8lc",
+      "title": "한겨레가 네이버 구독자 100만명을 달성했습니다",
+      "description": "한겨레가 '네이버 모바일 채널 서비스'에서 구독자 100만명을 돌파했습니다. 한겨레를 선택해주신 독자 여러분께 감사드립니다.\n\n네이버는 지난해 10월 모바일 채널 시범 서비스를 시작했습니다. 언론사가 직접 편집한 기사가 네이버 모바일 메인 뉴스 화면에 배치되고, 이용자는 언론사를 선택해 구독하는 방식입니다. 현재 베타테스트 버전으로 운영되고 있는데, 올해 1분기 중 이용자가 선택한 언론사의 뉴스만 첫 화면에 노출되도록 공식 적용할 계획입니다.\n\n●〈한겨레TV〉 유튜브 채널 구독하기 -https://goo.gl/vYg2yI\n\n■ 한겨레 채널 모음\n▶ 인터넷한겨레: http://www.hani.co.kr\n▶ 한겨레TV: http://www.hanitv.com/\n▶ 한겨레TV 페이스북: https://www.facebook.com/hankyorehtv/\n▶ 한겨레신문 구독: https://goo.gl/MBKMLD\n▶ 영상과 취재 관련 제보: pd295@hani.co.kr\n\n#한겨레 #한겨레TV",
+      "publishedAt": "2019-01-19T01:48:39Z",
+      "duration": "PT1M53S",
+      "viewCount": 1124,
+      "likeCount": 25,
+      "commentCount": 5,
+      "tags": [
+        "한겨레",
+        "한겨레TV",
+        "Hankyoreh",
+        "HankyorehTV",
+        "korea",
+        "한국",
+        "대한민국",
+        "네이버",
+        "네이버구독",
+        "네이버100만"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2019-01-19T01:48:39Z",
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "collectedAt": "2025-09-03T10:48:38Z"
     }
   },
   "channels": {
@@ -5091,9 +5119,36 @@
       "viewCount": 3351994752,
       "videoCount": 627296,
       "lastUpdated": "2025-08-29T02:43:10.653025Z"
+    },
+    "UCugbqfMO94F9guLEb6Olb2A": {
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "channelUrl": "@hankyorehtv",
+      "channelDescription": "'더불어 행복한 세상을 만드는 언론' 한겨레 공식 유튜브 채널입니다. \n ■ 편성 및 제휴 문의: leepd@hani.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 946000,
+      "viewCount": 586539536,
+      "videoCount": 9682,
+      "lastUpdated": "2025-09-03T10:48:38.669592Z"
     }
   },
-  "lastUpdated": "2025-08-29T02:43:10.653025Z",
-  "totalVideos": 137,
-  "totalChannels": 11
+  "lastUpdated": "2025-09-03T10:48:38.669592Z",
+  "totalVideos": 138,
+  "totalChannels": 12
 }

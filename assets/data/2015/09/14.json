@@ -1351,6 +1351,28 @@
       "channelId": "UCdp4_yTBhQmB8E339Lafzow",
       "channelName": "조선일보",
       "collectedAt": "2025-09-03T10:02:02Z"
+    },
+    "SdzzysAikwA": {
+      "videoId": "SdzzysAikwA",
+      "title": "[이승한의 ‘33한 드립’ #2] 청담동 살아요",
+      "description": "이승한 TV 평론가가 직접 선정한 한주간 주목할만한 대중문화계 이슈와 소식을 33초의 제한 시간 안에 소개하는 코너입니다.",
+      "publishedAt": "2015-09-14T03:01:12Z",
+      "duration": "PT50S",
+      "viewCount": 1493,
+      "likeCount": 9,
+      "commentCount": 2,
+      "tags": [
+        "청담동 살아요",
+        "잉여싸롱",
+        "이승한",
+        "삼삼한 드립"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2015-09-14T03:01:12Z",
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "collectedAt": "2025-09-03T10:48:20Z"
     }
   },
   "channels": {
@@ -1594,8 +1616,8 @@
       },
       "subscriberCount": 362000,
       "viewCount": 296027619,
-      "videoCount": 6196,
-      "lastUpdated": "2025-09-03T10:02:02.114082Z"
+      "videoCount": 6197,
+      "lastUpdated": "2025-09-03T10:17:04.502673Z"
     },
     "UCHXvjavEtkPFJCfGlm0wTXw": {
       "channelId": "UCHXvjavEtkPFJCfGlm0wTXw",
@@ -1621,8 +1643,8 @@
       },
       "subscriberCount": 537000,
       "viewCount": 354014202,
-      "videoCount": 11630,
-      "lastUpdated": "2025-09-03T10:02:02.114082Z"
+      "videoCount": 11631,
+      "lastUpdated": "2025-09-03T10:17:04.501663Z"
     },
     "UCdp4_yTBhQmB8E339Lafzow": {
       "channelId": "UCdp4_yTBhQmB8E339Lafzow",
@@ -1648,11 +1670,38 @@
       },
       "subscriberCount": 1700000,
       "viewCount": 1669752256,
-      "videoCount": 22783,
-      "lastUpdated": "2025-09-03T10:02:02.114082Z"
+      "videoCount": 22784,
+      "lastUpdated": "2025-09-03T10:17:04.502673Z"
+    },
+    "UCugbqfMO94F9guLEb6Olb2A": {
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "channelUrl": "@hankyorehtv",
+      "channelDescription": "'더불어 행복한 세상을 만드는 언론' 한겨레 공식 유튜브 채널입니다. \n ■ 편성 및 제휴 문의: leepd@hani.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 946000,
+      "viewCount": 586539536,
+      "videoCount": 9682,
+      "lastUpdated": "2025-09-03T10:48:20.724158Z"
     }
   },
-  "lastUpdated": "2025-09-03T10:02:02.114082Z",
-  "totalVideos": 48,
-  "totalChannels": 11
+  "lastUpdated": "2025-09-03T10:48:20.724158Z",
+  "totalVideos": 49,
+  "totalChannels": 12
 }

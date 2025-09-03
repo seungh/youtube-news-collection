@@ -1,0 +1,83 @@
+{
+  "videos": {
+    "WkexYUZctMQ": {
+      "videoId": "WkexYUZctMQ",
+      "title": "[김어준의 뉴욕타임스] #140. 김용민의 시사되지X정봉주의 PSI",
+      "description": "시사되지와 함께 2주 후 시사 예측과 봉도사의 무학의 통찰을 들어본다",
+      "publishedAt": "2011-09-19T12:36:05Z",
+      "duration": "PT59M59S",
+      "viewCount": 137711,
+      "likeCount": 319,
+      "commentCount": 10,
+      "tags": [
+        "김어준",
+        "김용민",
+        "뉴욕타임스",
+        "정봉주",
+        "한겨레",
+        "PSI",
+        "시사되지"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2011-09-19T12:36:05Z",
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "collectedAt": "2025-09-03T10:48:25Z"
+    },
+    "5FxoyKBHtyI": {
+      "videoId": "5FxoyKBHtyI",
+      "title": "국회의사당 종편 기자실 가보니...",
+      "description": "국회 1층 정론관(국회기자실) 맞은편에는 공사가 한창 진행중이다. 아직 개국이 두달이나 넘게 남아있는 종편 기자실을 짓는 중이다.  종편은 사업자 선정 과정에서부터 특혜 논란이 있었다. 종편 채널을 위한 방송통신위원회의 심의기준·규제책도 확정 안 된 상태\"로 \"미디어법을 날치기로 통과시킨 국회가, 기자실까지 앞장서서 마련해주고 있어 그 의도가 의심스럽다\"고 유영주 언론개혁시민연대 상임정책위원은 말했다.",
+      "publishedAt": "2011-09-19T13:14:34Z",
+      "duration": "PT1M14S",
+      "viewCount": 2100,
+      "likeCount": 2,
+      "commentCount": 0,
+      "tags": [
+        "종편",
+        "기자실",
+        "종합편성채널",
+        "국회"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2011-09-19T13:14:34Z",
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "collectedAt": "2025-09-03T10:48:25Z"
+    }
+  },
+  "channels": {
+    "UCugbqfMO94F9guLEb6Olb2A": {
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "channelUrl": "@hankyorehtv",
+      "channelDescription": "'더불어 행복한 세상을 만드는 언론' 한겨레 공식 유튜브 채널입니다. \n ■ 편성 및 제휴 문의: leepd@hani.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 946000,
+      "viewCount": 586539536,
+      "videoCount": 9682,
+      "lastUpdated": "2025-09-03T10:48:25.368740Z"
+    }
+  },
+  "lastUpdated": "2025-09-03T10:48:25.369738Z",
+  "totalVideos": 2,
+  "totalChannels": 1
+}

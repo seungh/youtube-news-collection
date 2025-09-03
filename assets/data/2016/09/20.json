@@ -2202,6 +2202,30 @@
       "channelId": "UCdp4_yTBhQmB8E339Lafzow",
       "channelName": "조선일보",
       "collectedAt": "2025-09-03T10:02:16Z"
+    },
+    "t8lY-rjy7-Y": {
+      "videoId": "t8lY-rjy7-Y",
+      "title": "경주 지진 실제 상황…대한민국이 흔들린 이날의 모습",
+      "description": "9월 12일, 경주에서는 역대 최대 규모인 5.8 지진이 일어났다.\n\n지진으로 서울과 수도권까지 전국이 흔들렸고, 이로 인해 전화와 카카오톡도 모두 먹통이었다.\n\n정부는 지진 발생 9분이 지나서야 긴급재난문자를 발송했고 이마저도 서울과 수도권 지역 국민들은 문자를 받지 못했다.\n\n#경주 #지진 #재난문자",
+      "publishedAt": "2016-09-20T01:55:18Z",
+      "duration": "PT1M27S",
+      "viewCount": 1275795,
+      "likeCount": 3050,
+      "commentCount": 1181,
+      "tags": [
+        "중앙일보",
+        "경주",
+        "지진",
+        "서울",
+        "수도권",
+        "재난문자"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2016-09-20T01:55:18Z",
+      "channelId": "UCH3mJ-nHxjjny2FJbJaqiDA",
+      "channelName": "중앙일보",
+      "collectedAt": "2025-09-03T10:49:21Z"
     }
   },
   "channels": {
@@ -2499,8 +2523,8 @@
       },
       "subscriberCount": 537000,
       "viewCount": 354014202,
-      "videoCount": 11630,
-      "lastUpdated": "2025-09-03T10:02:16.696346Z"
+      "videoCount": 11631,
+      "lastUpdated": "2025-09-03T10:16:57.793508Z"
     },
     "UCdp4_yTBhQmB8E339Lafzow": {
       "channelId": "UCdp4_yTBhQmB8E339Lafzow",
@@ -2526,11 +2550,38 @@
       },
       "subscriberCount": 1700000,
       "viewCount": 1669752256,
-      "videoCount": 22783,
-      "lastUpdated": "2025-09-03T10:02:16.696346Z"
+      "videoCount": 22784,
+      "lastUpdated": "2025-09-03T10:16:57.793508Z"
+    },
+    "UCH3mJ-nHxjjny2FJbJaqiDA": {
+      "channelId": "UCH3mJ-nHxjjny2FJbJaqiDA",
+      "channelName": "중앙일보",
+      "channelUrl": "@joongangilbo",
+      "channelDescription": "현장의 진실을 중앙에 두다.",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/iqcE5aK4gFUjm5A-QO4FLDCDrTgOXTfU3oCyirTZcT9Ev1i_sKtx82GqfF2rPDfbBgFtBqL0uw=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/iqcE5aK4gFUjm5A-QO4FLDCDrTgOXTfU3oCyirTZcT9Ev1i_sKtx82GqfF2rPDfbBgFtBqL0uw=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/iqcE5aK4gFUjm5A-QO4FLDCDrTgOXTfU3oCyirTZcT9Ev1i_sKtx82GqfF2rPDfbBgFtBqL0uw=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 555000,
+      "viewCount": 475518285,
+      "videoCount": 18651,
+      "lastUpdated": "2025-09-03T10:49:21.172840Z"
     }
   },
-  "lastUpdated": "2025-09-03T10:02:16.696346Z",
-  "totalVideos": 79,
-  "totalChannels": 12
+  "lastUpdated": "2025-09-03T10:49:21.172840Z",
+  "totalVideos": 80,
+  "totalChannels": 13
 }

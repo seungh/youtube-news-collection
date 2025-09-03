@@ -143,6 +143,30 @@
       "channelId": "UCdp4_yTBhQmB8E339Lafzow",
       "channelName": "조선일보",
       "collectedAt": "2025-09-03T10:02:20Z"
+    },
+    "k8yxQQmaVc0": {
+      "videoId": "k8yxQQmaVc0",
+      "title": "[조연이 주연이다] 〈그녀는 예뻤다〉 ‘반전남’ 안세하",
+      "description": "“아유, 멋잇는 척, 있는 척 연기하려니까 힘들었어요.” 〈그녀는 예뻤다〉1회부터 양념처럼 깔려 재미를 더했던 ‘재벌 아들 찾기’ 주인공은 ‘김풍호’였다. 효자손을 들도 다니고 수염도 안 깎는, 대학 복학생 선배 같앗던 김풍호가 재벌 아들이란 사실은 시청자의 ‘후두부’를 살짝 두드리며 반전의 재미를 줬다. 김훙호를 연기했던 안세하는 5일 〈한겨레〉와의 인터뷰에서도 끝까지 정체를 밝히지 않고 보안을 지켰다. \n관련기사: ‘그녀는 예뻤다’ 안세하 “사이코패스역 하고파”\nhttp://hani.co.kr/arti/culture/entertainment/716510.html?_fr=mt3\n\n취재 남지은\n영상 조소영",
+      "publishedAt": "2015-11-08T04:28:14Z",
+      "duration": "PT3M43S",
+      "viewCount": 6715,
+      "likeCount": 20,
+      "commentCount": 3,
+      "tags": [
+        "안세하",
+        "그녀는 예뻤다",
+        "김풍호",
+        "남지은",
+        "조연",
+        "창원"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2015-11-08T04:28:14Z",
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "collectedAt": "2025-09-03T10:48:34Z"
     }
   },
   "channels": {
@@ -251,8 +275,8 @@
       },
       "subscriberCount": 537000,
       "viewCount": 354014202,
-      "videoCount": 11630,
-      "lastUpdated": "2025-09-03T10:02:20.031266Z"
+      "videoCount": 11631,
+      "lastUpdated": "2025-09-03T10:17:03.481228Z"
     },
     "UCdp4_yTBhQmB8E339Lafzow": {
       "channelId": "UCdp4_yTBhQmB8E339Lafzow",
@@ -278,11 +302,38 @@
       },
       "subscriberCount": 1700000,
       "viewCount": 1669752256,
-      "videoCount": 22783,
-      "lastUpdated": "2025-09-03T10:02:20.031266Z"
+      "videoCount": 22784,
+      "lastUpdated": "2025-09-03T10:17:03.481228Z"
+    },
+    "UCugbqfMO94F9guLEb6Olb2A": {
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "channelUrl": "@hankyorehtv",
+      "channelDescription": "'더불어 행복한 세상을 만드는 언론' 한겨레 공식 유튜브 채널입니다. \n ■ 편성 및 제휴 문의: leepd@hani.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 946000,
+      "viewCount": 586539536,
+      "videoCount": 9682,
+      "lastUpdated": "2025-09-03T10:48:34.050263Z"
     }
   },
-  "lastUpdated": "2025-09-03T10:02:20.031266Z",
-  "totalVideos": 6,
-  "totalChannels": 5
+  "lastUpdated": "2025-09-03T10:48:34.050263Z",
+  "totalVideos": 7,
+  "totalChannels": 6
 }

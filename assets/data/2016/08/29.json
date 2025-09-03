@@ -2447,6 +2447,31 @@
       "channelId": "UCdp4_yTBhQmB8E339Lafzow",
       "channelName": "조선일보",
       "collectedAt": "2025-09-03T10:01:23Z"
+    },
+    "pjnC4k8zx_s": {
+      "videoId": "pjnC4k8zx_s",
+      "title": "아이가 아프면 모두가 아프다",
+      "description": "●〈한겨레TV〉 유튜브 채널 구독하기 -https://goo.gl/vYg2yI\n아직 자랄 키도, 자랄 마음도, 살아야 할 시간도 많이 남은 0~15살 아이들의 입원 진료비를 국가가 보장하는 제도가 왜 필요한지 살펴보는 프로젝트입니다. 치료기간도 길고 치료비도 많이 들어 아이들은 물론, 가정까지 무너지는 '의료사각지대'를 들여다봅니다.\n\nhttps://storyfunding.daum.net/project/5864/episodes\n\n사진 정용일,    취재 박수진, \n그래픽 위준영, 영상 조소영",
+      "publishedAt": "2016-08-29T08:08:05Z",
+      "duration": "PT3M41S",
+      "viewCount": 5460,
+      "likeCount": 32,
+      "commentCount": 3,
+      "tags": [
+        "한겨레",
+        "한겨레TV",
+        "Hankyoreh",
+        "HankyorehTV",
+        "korea",
+        "한국",
+        "대한민국"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2016-08-29T08:08:05Z",
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "collectedAt": "2025-09-03T10:48:22Z"
     }
   },
   "channels": {
@@ -2717,8 +2742,8 @@
       },
       "subscriberCount": 362000,
       "viewCount": 296027619,
-      "videoCount": 6196,
-      "lastUpdated": "2025-09-03T10:01:23.833925Z"
+      "videoCount": 6197,
+      "lastUpdated": "2025-09-03T10:16:58.134486Z"
     },
     "UCHXvjavEtkPFJCfGlm0wTXw": {
       "channelId": "UCHXvjavEtkPFJCfGlm0wTXw",
@@ -2744,8 +2769,8 @@
       },
       "subscriberCount": 537000,
       "viewCount": 354014202,
-      "videoCount": 11630,
-      "lastUpdated": "2025-09-03T10:01:23.833925Z"
+      "videoCount": 11631,
+      "lastUpdated": "2025-09-03T10:16:58.134486Z"
     },
     "UCdp4_yTBhQmB8E339Lafzow": {
       "channelId": "UCdp4_yTBhQmB8E339Lafzow",
@@ -2771,11 +2796,38 @@
       },
       "subscriberCount": 1700000,
       "viewCount": 1669752256,
-      "videoCount": 22783,
-      "lastUpdated": "2025-09-03T10:01:23.833925Z"
+      "videoCount": 22784,
+      "lastUpdated": "2025-09-03T10:16:58.134486Z"
+    },
+    "UCugbqfMO94F9guLEb6Olb2A": {
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "channelUrl": "@hankyorehtv",
+      "channelDescription": "'더불어 행복한 세상을 만드는 언론' 한겨레 공식 유튜브 채널입니다. \n ■ 편성 및 제휴 문의: leepd@hani.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 946000,
+      "viewCount": 586539536,
+      "videoCount": 9682,
+      "lastUpdated": "2025-09-03T10:48:22.876183Z"
     }
   },
-  "lastUpdated": "2025-09-03T10:01:23.833925Z",
-  "totalVideos": 88,
-  "totalChannels": 12
+  "lastUpdated": "2025-09-03T10:48:22.876183Z",
+  "totalVideos": 89,
+  "totalChannels": 13
 }

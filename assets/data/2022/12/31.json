@@ -9769,6 +9769,30 @@
       "channelId": "UCdp4_yTBhQmB8E339Lafzow",
       "channelName": "조선일보",
       "collectedAt": "2025-09-03T10:00:43Z"
+    },
+    "IMtJHZLm6l4": {
+      "videoId": "IMtJHZLm6l4",
+      "title": "107년 역사 유성호텔마저 폐업 수순…쇠락의 길 걷는 온천지구 l #e즐펀한토크",
+      "description": "✔중앙일보 구독하기 https://www.youtube.com/c/JoongAngIlbo?sub_confirmation=1\n\n1970~80년대 신혼여행과 외국인들의 관광으로 인기를 누렸던 온천의 명성이 점차 사라져가고 있다. 대전의 유성온천을 비롯해 수안보와 온양·도고, 부곡, 동래 등 전국 온천지구는 66개에 달한다. \n\n하지만 대부분의 온천지구 호텔과 숙박시설은 시설이 노후한데다 신종 코로나바이러스 감염증(코로나19) 여파를 견디지 못하고 줄줄이 문을 닫는 상황이다. \n\n#유성온천 #대전관광 #유성호텔",
+      "publishedAt": "2022-12-30T20:00:07Z",
+      "duration": "PT1M52S",
+      "viewCount": 8278,
+      "likeCount": 66,
+      "commentCount": 11,
+      "tags": [
+        "중앙일보",
+        "UCH3mJ-nHxjjny2FJbJaqiDA",
+        "중앙일보 뉴스",
+        "뉴스",
+        "신문",
+        "방송"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2022-12-30T20:00:07Z",
+      "channelId": "UCH3mJ-nHxjjny2FJbJaqiDA",
+      "channelName": "중앙일보",
+      "collectedAt": "2025-09-03T10:49:01Z"
     }
   },
   "channels": {
@@ -10092,9 +10116,9 @@
         }
       },
       "subscriberCount": 1340000,
-      "viewCount": 870924917,
-      "videoCount": 32030,
-      "lastUpdated": "2025-08-24T21:51:25.800410Z"
+      "viewCount": 871828833,
+      "videoCount": 32204,
+      "lastUpdated": "2025-09-03T10:52:52.207121Z"
     },
     "UCF4Wxdo3inmxP-Y59wXDsFw": {
       "channelId": "UCF4Wxdo3inmxP-Y59wXDsFw",
@@ -10309,8 +10333,8 @@
       },
       "subscriberCount": 537000,
       "viewCount": 354014202,
-      "videoCount": 11630,
-      "lastUpdated": "2025-09-03T10:00:43.390279Z"
+      "videoCount": 11631,
+      "lastUpdated": "2025-09-03T10:16:02.981581Z"
     },
     "UCdp4_yTBhQmB8E339Lafzow": {
       "channelId": "UCdp4_yTBhQmB8E339Lafzow",
@@ -10336,11 +10360,38 @@
       },
       "subscriberCount": 1700000,
       "viewCount": 1669752256,
-      "videoCount": 22783,
-      "lastUpdated": "2025-09-03T10:00:43.390279Z"
+      "videoCount": 22784,
+      "lastUpdated": "2025-09-03T10:16:02.981581Z"
+    },
+    "UCH3mJ-nHxjjny2FJbJaqiDA": {
+      "channelId": "UCH3mJ-nHxjjny2FJbJaqiDA",
+      "channelName": "중앙일보",
+      "channelUrl": "@joongangilbo",
+      "channelDescription": "현장의 진실을 중앙에 두다.",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/iqcE5aK4gFUjm5A-QO4FLDCDrTgOXTfU3oCyirTZcT9Ev1i_sKtx82GqfF2rPDfbBgFtBqL0uw=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/iqcE5aK4gFUjm5A-QO4FLDCDrTgOXTfU3oCyirTZcT9Ev1i_sKtx82GqfF2rPDfbBgFtBqL0uw=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/iqcE5aK4gFUjm5A-QO4FLDCDrTgOXTfU3oCyirTZcT9Ev1i_sKtx82GqfF2rPDfbBgFtBqL0uw=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 555000,
+      "viewCount": 475518285,
+      "videoCount": 18651,
+      "lastUpdated": "2025-09-03T10:49:01.523330Z"
     }
   },
-  "lastUpdated": "2025-09-03T10:00:43.390279Z",
-  "totalVideos": 281,
-  "totalChannels": 21
+  "lastUpdated": "2025-09-03T10:52:52.207121Z",
+  "totalVideos": 282,
+  "totalChannels": 22
 }

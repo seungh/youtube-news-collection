@@ -2171,6 +2171,30 @@
       "channelId": "UCdp4_yTBhQmB8E339Lafzow",
       "channelName": "조선일보",
       "collectedAt": "2025-09-03T10:02:01Z"
+    },
+    "3TxjfABRWJU": {
+      "videoId": "3TxjfABRWJU",
+      "title": "인천의 클럽데이 ‘사운드바운드’ [어쩌다 음악 #12]",
+      "description": "2013년 시작된 인천의 음악축제다. 2014년 10월 이후 2년 만에 부활했다. 티켓 한 장(2만원)으로 인천 구도심 개항장 일대 여러 곳의 문화공간을 돌며 마음에 드는 뮤지션의 음악을 감상할 수 있다. 다음 ‘사운드바운드’는 5월 7일 부평에서 열린다.\n\n취재 구둘래\n영상 조소영",
+      "publishedAt": "2016-03-30T12:35:22Z",
+      "duration": "PT4M27S",
+      "viewCount": 1165,
+      "likeCount": 4,
+      "commentCount": 0,
+      "tags": [
+        "사운드바운드",
+        "인천",
+        "어쩌다 음악",
+        "뷰티핸섬",
+        "위아더나잇",
+        "이장혁"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2016-03-30T12:35:22Z",
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "collectedAt": "2025-09-03T10:48:03Z"
     }
   },
   "channels": {
@@ -2468,8 +2492,8 @@
       },
       "subscriberCount": 362000,
       "viewCount": 296027619,
-      "videoCount": 6196,
-      "lastUpdated": "2025-09-03T10:02:01.465207Z"
+      "videoCount": 6197,
+      "lastUpdated": "2025-09-03T10:17:00.859053Z"
     },
     "UCHXvjavEtkPFJCfGlm0wTXw": {
       "channelId": "UCHXvjavEtkPFJCfGlm0wTXw",
@@ -2495,8 +2519,8 @@
       },
       "subscriberCount": 537000,
       "viewCount": 354014202,
-      "videoCount": 11630,
-      "lastUpdated": "2025-09-03T10:02:01.465207Z"
+      "videoCount": 11631,
+      "lastUpdated": "2025-09-03T10:17:00.859053Z"
     },
     "UCdp4_yTBhQmB8E339Lafzow": {
       "channelId": "UCdp4_yTBhQmB8E339Lafzow",
@@ -2522,11 +2546,38 @@
       },
       "subscriberCount": 1700000,
       "viewCount": 1669752256,
-      "videoCount": 22783,
-      "lastUpdated": "2025-09-03T10:02:01.465207Z"
+      "videoCount": 22784,
+      "lastUpdated": "2025-09-03T10:17:00.859053Z"
+    },
+    "UCugbqfMO94F9guLEb6Olb2A": {
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "channelUrl": "@hankyorehtv",
+      "channelDescription": "'더불어 행복한 세상을 만드는 언론' 한겨레 공식 유튜브 채널입니다. \n ■ 편성 및 제휴 문의: leepd@hani.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 946000,
+      "viewCount": 586539536,
+      "videoCount": 9682,
+      "lastUpdated": "2025-09-03T10:48:03.039730Z"
     }
   },
-  "lastUpdated": "2025-09-03T10:02:01.465207Z",
-  "totalVideos": 79,
-  "totalChannels": 13
+  "lastUpdated": "2025-09-03T10:48:03.039730Z",
+  "totalVideos": 80,
+  "totalChannels": 14
 }

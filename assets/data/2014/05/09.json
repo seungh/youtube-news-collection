@@ -534,6 +534,38 @@
       "channelId": "UCdp4_yTBhQmB8E339Lafzow",
       "channelName": "조선일보",
       "collectedAt": "2025-09-03T10:02:26Z"
+    },
+    "outxWVCgB-E": {
+      "videoId": "outxWVCgB-E",
+      "title": "세월호 유족, 청와대 앞 17시간 반의 기다림 [한겨레포커스]",
+      "description": "2014년 5월 9일 청와대 인근 청운효자동주민센터 앞. 세월호 참사 유족들은 이날 새벽 박 대통령 면담을 요구하며 청와대로 향했으나, 청운효자동주민센터 앞에서 경찰에 앞을 막히자 그 자리에 앉은 채 그저 기다릴 수밖에 없었다.\n엄마·아빠들이 차가운 도로에서 차가운 밤이슬을 맞으며 3시간을 기다린 후에야 청와대는 '긴급회의'를 했다. 엄마·아빠들은 그리고 2시간 반이 지난 후에야 청와대 '높은' 분들을 만날 수 있었다. 그리고 4시간 반이 지난 후에야 국민의 방송 보도국장이 사임했다. 그리고 1시간 반이 지난 후에야 국민의 방송 사장이 사과를 했다.",
+      "publishedAt": "2014-05-09T08:43:20Z",
+      "duration": "PT3M55S",
+      "viewCount": 18930,
+      "likeCount": 68,
+      "commentCount": 6,
+      "tags": [
+        "한겨레",
+        "포커스",
+        "한겨레포커스",
+        "세월호",
+        "여객선",
+        "침몰",
+        "안산",
+        "단원고",
+        "유족",
+        "청운동",
+        "농성",
+        "김시곤",
+        "KBS",
+        "청와대"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2014-05-09T08:43:20Z",
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "collectedAt": "2025-09-03T10:47:54Z"
     }
   },
   "channels": {
@@ -696,8 +728,8 @@
       },
       "subscriberCount": 537000,
       "viewCount": 354014202,
-      "videoCount": 11630,
-      "lastUpdated": "2025-09-03T10:02:26.990212Z"
+      "videoCount": 11631,
+      "lastUpdated": "2025-09-03T10:17:12.439707Z"
     },
     "UCdp4_yTBhQmB8E339Lafzow": {
       "channelId": "UCdp4_yTBhQmB8E339Lafzow",
@@ -723,11 +755,38 @@
       },
       "subscriberCount": 1700000,
       "viewCount": 1669752256,
-      "videoCount": 22783,
-      "lastUpdated": "2025-09-03T10:02:26.990212Z"
+      "videoCount": 22784,
+      "lastUpdated": "2025-09-03T10:17:12.439707Z"
+    },
+    "UCugbqfMO94F9guLEb6Olb2A": {
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "channelUrl": "@hankyorehtv",
+      "channelDescription": "'더불어 행복한 세상을 만드는 언론' 한겨레 공식 유튜브 채널입니다. \n ■ 편성 및 제휴 문의: leepd@hani.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 946000,
+      "viewCount": 586539536,
+      "videoCount": 9682,
+      "lastUpdated": "2025-09-03T10:47:54.334215Z"
     }
   },
-  "lastUpdated": "2025-09-03T10:02:26.990212Z",
-  "totalVideos": 20,
-  "totalChannels": 7
+  "lastUpdated": "2025-09-03T10:47:54.334215Z",
+  "totalVideos": 21,
+  "totalChannels": 8
 }

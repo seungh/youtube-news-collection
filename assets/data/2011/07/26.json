@@ -1,0 +1,112 @@
+{
+  "videos": {
+    "QSJcVksZpx0": {
+      "videoId": "QSJcVksZpx0",
+      "title": "러브락 콘서트 '두드림'",
+      "description": "잊지 말아요! 당신 안의 로큰롤!\r\n8월 20일 저녁 6시 서울 올림픽공원 올림픽홀 뮤즈라이브에서 열립니다.\r\n록밴드 갤럭시 익스프레스, 텔레플라이, 파블로프, 얄개들, 이스턴사이드킥이 출연합니다.",
+      "publishedAt": "2011-07-26T12:30:17Z",
+      "duration": "PT22S",
+      "viewCount": 122,
+      "likeCount": 1,
+      "commentCount": 0,
+      "tags": [
+        "한겨레",
+        "러브락 컴퍼니",
+        "러브락 콘서트",
+        "두드림",
+        "올림픽공원",
+        "올림픽홀",
+        "뮤즈라이브",
+        "갤럭시 익스프레스",
+        "파블로프",
+        "얄개들",
+        "텔레플라이",
+        "이스턴 사이드 킥",
+        "하니TV",
+        "로큰롤"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2011-07-26T12:30:17Z",
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "collectedAt": "2025-09-03T10:48:41Z"
+    },
+    "GC4Kimv2rmY": {
+      "videoId": "GC4Kimv2rmY",
+      "title": "전직 주한 미군의 '고엽제 폭로'",
+      "description": "고엽제 마실 수도 있고\r\n목욕도 할 수 있고\r\n양치도 가능하다?\r\n고엽제 민간인 지역 살포 증언 현장",
+      "publishedAt": "2011-07-26T12:19:33Z",
+      "duration": "PT2M32S",
+      "viewCount": 780,
+      "likeCount": 4,
+      "commentCount": 1,
+      "tags": [
+        "고엽제",
+        "캠프캐럴",
+        "파주",
+        "미군"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2011-07-26T12:19:33Z",
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "collectedAt": "2025-09-03T10:48:41Z"
+    },
+    "rjwnIgW6uM0": {
+      "videoId": "rjwnIgW6uM0",
+      "title": "\"문태종? 대표팀 가려운 등 긁어줄 사람\"",
+      "description": "대표팀 첫 훈련한 36살 노장선수 문태종 태극마크를 달고 서툰 한국말로\"엄마 위해 최선을 다해서\"뛰겠다며 순박한 얼굴로 웃었다.",
+      "publishedAt": "2011-07-26T00:43:05Z",
+      "duration": "PT2M",
+      "viewCount": 5909,
+      "likeCount": 16,
+      "commentCount": 1,
+      "tags": [
+        "문태종",
+        "존슨컵",
+        "허재",
+        "국가대표"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2011-07-26T00:43:05Z",
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "collectedAt": "2025-09-03T10:48:41Z"
+    }
+  },
+  "channels": {
+    "UCugbqfMO94F9guLEb6Olb2A": {
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "channelUrl": "@hankyorehtv",
+      "channelDescription": "'더불어 행복한 세상을 만드는 언론' 한겨레 공식 유튜브 채널입니다. \n ■ 편성 및 제휴 문의: leepd@hani.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 946000,
+      "viewCount": 586539536,
+      "videoCount": 9682,
+      "lastUpdated": "2025-09-03T10:48:41.140161Z"
+    }
+  },
+  "lastUpdated": "2025-09-03T10:48:41.140161Z",
+  "totalVideos": 3,
+  "totalChannels": 1
+}

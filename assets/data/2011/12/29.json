@@ -1,0 +1,111 @@
+{
+  "videos": {
+    "Hl-r16zSDQA": {
+      "videoId": "Hl-r16zSDQA",
+      "title": "[연말특집] 2011 다시보는 대한민국",
+      "description": "종합편성채널 특혜 논란부터\r\n김정일 국방위원장의 사망까지\r\n2011년 대한민국 \r\n여러분은 어떠셨습니까?",
+      "publishedAt": "2011-12-29T11:07:29Z",
+      "duration": "PT12M17S",
+      "viewCount": 1579,
+      "likeCount": 8,
+      "commentCount": 0,
+      "tags": [
+        "하니뉴스",
+        "정PD",
+        "연말",
+        "종편",
+        "FTA",
+        "오세훈",
+        "용역",
+        "어버이연합",
+        "안철수",
+        "박원순",
+        "공권력",
+        "김정일"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2011-12-29T11:07:29Z",
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "collectedAt": "2025-09-03T10:48:24Z"
+    },
+    "zkYgUxtdlJI": {
+      "videoId": "zkYgUxtdlJI",
+      "title": "3D 입체 초음파 진찰",
+      "description": "[산모를 위한 오늘의 팁] (18)\r\n외형적 모습 이상 유무 확인 \r\n구개파열의 경우 손상의 크기까지 진단\r\n산모나 태아의 상태에 따라 관찰 힘들수도...",
+      "publishedAt": "2011-12-29T05:23:58Z",
+      "duration": "PT3M38S",
+      "viewCount": 1978,
+      "likeCount": 3,
+      "commentCount": 0,
+      "tags": [
+        "산모",
+        "임신",
+        "베이비트리",
+        "3D입체초음파",
+        "태아"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2011-12-29T05:23:58Z",
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "collectedAt": "2025-09-03T10:48:24Z"
+    },
+    "kDqKiAofyUQ": {
+      "videoId": "kDqKiAofyUQ",
+      "title": "아기의 첫 태동 (움직임)",
+      "description": "[산모를 위한 오늘의 팁] (19)\r\n태아의 움직임은 임신 10~12주 사이\r\n임산부가 느끼는 태동은 20주 전 후\r\n6개월에도 태동이 느껴지지 않으면 주치의와 상의\r\n1일 태동이 5회 안되면 병원에서 진찰받아야...",
+      "publishedAt": "2011-12-29T05:31:05Z",
+      "duration": "PT3M16S",
+      "viewCount": 25824,
+      "likeCount": 52,
+      "commentCount": 2,
+      "tags": [
+        "산모",
+        "임신",
+        "베이비트리",
+        "태동"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2011-12-29T05:31:05Z",
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "collectedAt": "2025-09-03T10:48:24Z"
+    }
+  },
+  "channels": {
+    "UCugbqfMO94F9guLEb6Olb2A": {
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "channelUrl": "@hankyorehtv",
+      "channelDescription": "'더불어 행복한 세상을 만드는 언론' 한겨레 공식 유튜브 채널입니다. \n ■ 편성 및 제휴 문의: leepd@hani.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 946000,
+      "viewCount": 586539536,
+      "videoCount": 9682,
+      "lastUpdated": "2025-09-03T10:48:24.967323Z"
+    }
+  },
+  "lastUpdated": "2025-09-03T10:48:24.967323Z",
+  "totalVideos": 3,
+  "totalChannels": 1
+}

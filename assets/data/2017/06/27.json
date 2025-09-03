@@ -2736,6 +2736,31 @@
       "channelId": "UCdp4_yTBhQmB8E339Lafzow",
       "channelName": "조선일보",
       "collectedAt": "2025-09-03T10:02:14Z"
+    },
+    "attk3d_CN7A": {
+      "videoId": "attk3d_CN7A",
+      "title": "강정마을 10년의 잔혹사 [한겨레21 #1168]",
+      "description": "●〈한겨레TV〉 유튜브 채널 구독하기 -https://goo.gl/vYg2yI\n제주강정마을 주민 101명 설문조사…\n일감 잃고 계모임 사라진 10년의 잔혹사  \nhttp://h21.hani.co.kr/arti/cover/cover_general/43762.html \n\n제주 강정마을은 590여 가구에 2천여 명이 사는 큰 마을이다. 마을회의 투표권을 가진 주민만 1100여 명이다. 〈한겨레21〉은 지난 5월부터 6주에 걸쳐 강정 마을 주민을 설문 형식으로 전수 조사 했다.  어떤 주민은 설문조사 자체를 거부했고, 조사의 편향성을 되묻는 주민도 있었다. 설문조사에 응하지 않겠다고 한 이들은 대부분 “이제 와 이걸 한들 바뀌는 게 있냐”고 했다. “해군기지만 생각하면 골이 아파서 하고 싶지 않다”는 주민도 있었다.\n\n배경음악 Run Rabbit Run, Humoresque \n편집 조소영, 이정온",
+      "publishedAt": "2017-06-27T09:43:29Z",
+      "duration": "PT3M50S",
+      "viewCount": 8121,
+      "likeCount": 54,
+      "commentCount": 78,
+      "tags": [
+        "한겨레",
+        "한겨레TV",
+        "Hankyoreh",
+        "HankyorehTV",
+        "korea",
+        "한국",
+        "대한민국"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2017-06-27T09:43:29Z",
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "collectedAt": "2025-09-03T10:48:22Z"
     }
   },
   "channels": {
@@ -3033,8 +3058,8 @@
       },
       "subscriberCount": 537000,
       "viewCount": 354014202,
-      "videoCount": 11630,
-      "lastUpdated": "2025-09-03T10:02:14.782133Z"
+      "videoCount": 11631,
+      "lastUpdated": "2025-09-03T10:16:51.908088Z"
     },
     "UCdp4_yTBhQmB8E339Lafzow": {
       "channelId": "UCdp4_yTBhQmB8E339Lafzow",
@@ -3060,11 +3085,38 @@
       },
       "subscriberCount": 1700000,
       "viewCount": 1669752256,
-      "videoCount": 22783,
-      "lastUpdated": "2025-09-03T10:02:14.782133Z"
+      "videoCount": 22784,
+      "lastUpdated": "2025-09-03T10:16:51.909121Z"
+    },
+    "UCugbqfMO94F9guLEb6Olb2A": {
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "channelUrl": "@hankyorehtv",
+      "channelDescription": "'더불어 행복한 세상을 만드는 언론' 한겨레 공식 유튜브 채널입니다. \n ■ 편성 및 제휴 문의: leepd@hani.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 946000,
+      "viewCount": 586539536,
+      "videoCount": 9682,
+      "lastUpdated": "2025-09-03T10:48:22.630975Z"
     }
   },
-  "lastUpdated": "2025-09-03T10:02:14.782133Z",
-  "totalVideos": 96,
-  "totalChannels": 12
+  "lastUpdated": "2025-09-03T10:48:22.630975Z",
+  "totalVideos": 97,
+  "totalChannels": 13
 }

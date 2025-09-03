@@ -319,6 +319,29 @@
       "channelId": "UCHXvjavEtkPFJCfGlm0wTXw",
       "channelName": "경향티비",
       "collectedAt": "2025-09-03T10:02:30Z"
+    },
+    "i7NpOJVY5EM": {
+      "videoId": "i7NpOJVY5EM",
+      "title": "[한겨레 캐스트 #107] 148명 초선의원, 이것이 궁금하다",
+      "description": "◆주요내용\r\n-19대 국회 초선의원 비율, 어느 정도인가?\r\n-우리나라 초선의원 비율이 높은 이유는?\r\n-새누리당 초선의원들의 만족도는?\r\n-발전 가능성 보이는 새누리당 초선의원은?\r\n-민주당 국회의원들의 근황은?\r\n-발전 가능성 보이는 민주당 초선의원은?\r\n-교섭단체가 아닌 정당 소속 국회의원의 불이익은?\r\n-장래성이 보이는 진보정당 의원들은?\r\n-비례대표 의원이 재선, 삼선 하지 못하는 이유는?\r\n-안철수 의원의 의정활동은?",
+      "publishedAt": "2013-06-03T14:49:57Z",
+      "duration": "PT18M46S",
+      "viewCount": 1591,
+      "likeCount": 6,
+      "commentCount": 0,
+      "tags": [
+        "한겨레TV",
+        "국회의원",
+        "새누리당",
+        "민주당",
+        "안철수"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2013-06-03T14:49:57Z",
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "collectedAt": "2025-09-03T10:48:17Z"
     }
   },
   "channels": {
@@ -427,11 +450,38 @@
       },
       "subscriberCount": 537000,
       "viewCount": 354014202,
-      "videoCount": 11630,
-      "lastUpdated": "2025-09-03T10:02:30.422636Z"
+      "videoCount": 11631,
+      "lastUpdated": "2025-09-03T10:17:15.694988Z"
+    },
+    "UCugbqfMO94F9guLEb6Olb2A": {
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "channelName": "한겨레TV",
+      "channelUrl": "@hankyorehtv",
+      "channelDescription": "'더불어 행복한 세상을 만드는 언론' 한겨레 공식 유튜브 채널입니다. \n ■ 편성 및 제휴 문의: leepd@hani.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/lrhT-9GirTu8tJAHggeD49Qv7mgMwy0yljNYixQMbP6N9xi7tTwq3U6TsTolyPm-wHkf6UpECAo=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 946000,
+      "viewCount": 586539536,
+      "videoCount": 9682,
+      "lastUpdated": "2025-09-03T10:48:17.532275Z"
     }
   },
-  "lastUpdated": "2025-09-03T10:02:30.422636Z",
-  "totalVideos": 10,
-  "totalChannels": 4
+  "lastUpdated": "2025-09-03T10:48:17.532275Z",
+  "totalVideos": 11,
+  "totalChannels": 5
 }
