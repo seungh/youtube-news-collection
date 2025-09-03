@@ -216,6 +216,48 @@
       "enabled": true,
       "maxVideos": 50,
       "description": ""
+    },
+    {
+      "name": "경향티비",
+      "channelId": "UCHXvjavEtkPFJCfGlm0wTXw",
+      "enabled": true,
+      "maxVideos": 50,
+      "description": ""
+    },
+    {
+      "name": "한겨례티비",
+      "channelId": "UCugbqfMO94F9guLEb6Olb2A",
+      "enabled": true,
+      "maxVideos": 50,
+      "description": ""
+    },
+    {
+      "name": "조선일보",
+      "channelId": "UCdp4_yTBhQmB8E339Lafzow",
+      "enabled": true,
+      "maxVideos": 50,
+      "description": ""
+    },
+    {
+      "name": "중앙일보",
+      "channelId": "UCH3mJ-nHxjjny2FJbJaqiDA",
+      "enabled": true,
+      "maxVideos": 50,
+      "description": ""
+    },
+    {
+      "name": "동아일보",
+      "channelId": "UCnHyx6H7fhKfUoAAaVGYvxQ",
+      "enabled": true,
+      "maxVideos": 50,
+      "description": ""
+    },
+    {
+      "name": "한국일보",
+      "channelId": "UC1aS5CRRDrN6CmR2VcpmetA",
+      "enabled": true,
+      "maxVideos": 50,
+      "description": ""
     }
   ],
   "settings": {
