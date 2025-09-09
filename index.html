@@ -30,6 +30,8 @@
             --toggle-btn-color: #4A5766;
             --toggle-btn-active-bg: #4A5766;
             --toggle-btn-active-color: #FFFFFF;
+            --channel-badge-bg: #F0F0F0;
+            --channel-badge-color: #666666;
         }
 
         [data-theme="dark"] {
@@ -53,6 +55,8 @@
             --toggle-btn-color: #888888;
             --toggle-btn-active-bg: #4A5766;
             --toggle-btn-active-color: #FFFFFF;
+            --channel-badge-bg: #2A2A2A;
+            --channel-badge-color: #999999;
         }
 
         * {
@@ -85,27 +89,34 @@
         }
 
         .header-content {
-            max-width: 1200px;
+            max-width: 800px;
             margin: 0 auto;
             display: flex;
             justify-content: space-between;
             align-items: center;
-            flex-wrap: wrap;
-            gap: 15px;
+            gap: 20px;
         }
 
-        .title {
+        .title a {
             font-family: 'Pretendard', sans-serif;
             font-size: 24px;
             color: var(--title-color);
             font-weight: 700;
+            flex-shrink: 0;
+            text-decoration: none;
         }
 
         .controls {
             display: flex;
-            gap: 15px;
+            gap: 12px;
             align-items: center;
             flex-wrap: wrap;
+        }
+
+        .control-group {
+            display: flex;
+            gap: 8px;
+            align-items: center;
         }
 
         .date-input, .search-input {
@@ -113,36 +124,50 @@
             background: var(--input-bg);
             border: 1px solid var(--input-border);
             color: var(--main-text-color);
-            border-radius: 4px;
+            border-radius: 6px;
             font-family: inherit;
             font-size: 14px;
-            transition: background 0.3s ease, border-color 0.3s ease;
+            transition: all 0.3s ease;
+            min-width: 0;
+        }
+
+        .search-input {
+            width: 200px;
         }
 
         .date-input:focus, .search-input:focus {
             outline: none;
             border-color: var(--link-color);
+            box-shadow: 0 0 0 2px rgba(169, 137, 82, 0.2);
         }
         
         /* Dark Mode Toggle Button */
         .dark-mode-toggle {
-            background: none;
-            border: none;
+            background: var(--toggle-bg);
+            border: 1px solid var(--toggle-border);
             color: var(--secondary-text-color);
             cursor: pointer;
-            font-size: 20px;
-            transition: color 0.3s;
+            font-size: 12px;
+            padding: 2px 2px;
+            border-radius: 6px;
+            transition: all 0.3s;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            width: 32px;
+            height: 32px;
         }
 
         .dark-mode-toggle:hover {
             color: var(--main-text-color);
+            border-color: var(--link-color);
         }
         
         .view-toggle {
             display: flex;
             background: var(--toggle-bg);
             border: 1px solid var(--toggle-border);
-            border-radius: 4px;
+            border-radius: 6px;
             overflow: hidden;
             transition: background 0.3s ease, border-color 0.3s ease;
         }
@@ -155,6 +180,7 @@
             cursor: pointer;
             font-family: inherit;
             font-size: 12px;
+            font-weight: 600;
             transition: all 0.2s;
         }
 
@@ -168,14 +194,8 @@
             color: var(--toggle-btn-active-color);
         }
 
-        .search-info {
-            font-size: 10px;
-            color: var(--secondary-text-color);
-            max-width: 300px;
-        }
-
         .main {
-            max-width: 1200px;
+            max-width: 1000px;
             margin: 0 auto;
             padding: 20px;
             flex: 1;
@@ -183,8 +203,7 @@
 
         .loading, .no-results {
             text-align: center;
-            /* padding: 50px; */
-            padding: auto;
+            padding: 50px 20px;
             color: var(--secondary-text-color);
             font-size: 14px;
         }
@@ -193,35 +212,39 @@
         .list-view {
             background: var(--list-bg);
             border: 1px solid var(--list-border);
-            border-radius: 4px;
+            border-radius: 8px;
             overflow: hidden;
             transition: background 0.3s, border-color 0.3s;
+            box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
         }
 
         .list-header {
             display: grid;
-            grid-template-columns: 50px 1fr 2fr 80px 120px 40px;
+            grid-template-columns: 50px 3fr 100px 120px 40px;
             background: var(--header-bg);
-            border-bottom: 1px solid var(--header-border);
-            padding: 12px 10px;
+            border-bottom: 2px solid var(--header-border);
+            padding: 16px 12px;
             font-size: 12px;
             color: var(--secondary-text-color);
             font-weight: 700;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
         }
 
         .list-row {
             display: grid;
-            grid-template-columns: 50px 1fr 2fr 80px 120px 40px;
-            padding: 12px 10px;
+            grid-template-columns: 50px 3fr 100px 120px 40px;
+            padding: 16px 12px;
             border-bottom: 1px solid var(--list-border);
             cursor: pointer;
-            transition: background 0.2s;
+            transition: all 0.2s;
             align-items: center;
             font-size: 14px;
         }
 
         .list-row:hover {
             background: var(--toggle-bg);
+            transform: translateX(2px);
         }
 
         .list-row:last-child {
@@ -232,21 +255,40 @@
             cursor: pointer;
             color: var(--main-text-color);
             font-family: 'Pretendard', sans-serif;
+            font-weight: 500;
             text-align: left;
+            display: flex;
+            align-items: center;
+            gap: 8px;
+            line-height: 1.4;
         }
 
-        .title-cell:hover {
+        .title-text {
+            flex: 1;
+            min-width: 0;
+        }
+
+        .channel-badge {
+            background: var(--channel-badge-bg);
+            color: var(--channel-badge-color);
+            padding: 2px 8px;
+            border-radius: 12px;
+            font-size: 10px;
+            font-weight: 600;
+            white-space: nowrap;
+            flex-shrink: 0;
+            text-transform: uppercase;
+            letter-spacing: 0.3px;
+        }
+
+        .title-cell:hover .title-text {
             color: var(--link-color);
-        }
-
-        .channel-cell {
-            color: var(--secondary-text-color);
-            font-size: 12px;
         }
 
         .duration-cell, .date-cell {
             color: var(--secondary-text-color);
             font-size: 12px;
+            font-weight: 500;
         }
 
         .link-cell {
@@ -257,11 +299,14 @@
             color: var(--secondary-text-color);
             cursor: pointer;
             font-size: 20px;
-            transition: color 0.2s;
+            transition: all 0.2s;
+            padding: 4px;
+            border-radius: 4px;
         }
 
         .youtube-icon:hover {
             color: #ff0000;
+            background: rgba(255, 0, 0, 0.1);
         }
 
         /* Mobile List View */
@@ -286,9 +331,10 @@
             color: var(--main-text-color);
             font-family: 'Pretendard', sans-serif;
             font-size: 16px;
-            /* font-weight: 600; */
+            font-weight: 500;
             line-height: 1.4;
             margin-bottom: 8px;
+            text-align: left;
         }
 
         .mobile-meta {
@@ -308,29 +354,34 @@
         }
 
         .mobile-channel {
-            color: var(--secondary-text-color);
-            font-size: 12px;
+            background: var(--channel-badge-bg);
+            color: var(--channel-badge-color);
+            padding: 4px 8px;
+            border-radius: 12px;
+            font-size: 11px;
+            font-weight: 600;
             white-space: nowrap;
-            overflow: hidden;
-            text-overflow: ellipsis;
+            text-transform: uppercase;
+            letter-spacing: 0.3px;
             flex-shrink: 0;
         }
 
         .mobile-duration {
             color: var(--secondary-text-color);
-            font-size: 11px;
-            /* background: var(--toggle-bg); */
+            font-size: 12px;
             padding: 2px 6px;
             border-radius: 3px;
             white-space: nowrap;
             flex-shrink: 0;
+            font-weight: 500;
         }
 
         .mobile-date {
             color: var(--secondary-text-color);
-            font-size: 11px;
+            font-size: 12px;
             white-space: nowrap;
             flex-shrink: 0;
+            font-weight: 500;
         }
 
         .mobile-link {
@@ -344,23 +395,24 @@
         /* Card View */
         .card-grid {
             display: grid;
-            grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+            grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
             gap: 20px;
         }
 
         .card {
             background: var(--card-bg);
             border: 1px solid var(--card-border);
-            border-radius: 4px;
+            border-radius: 12px;
             overflow: hidden;
             cursor: pointer;
-            transition: all 0.2s;
-            box-shadow: 0 2px 5px rgba(0,0,0,0.05);
+            transition: all 0.3s;
+            box-shadow: 0 4px 12px rgba(0,0,0,0.08);
         }
 
         .card:hover {
             border-color: var(--link-color);
-            transform: translateY(-2px);
+            transform: translateY(-4px);
+            box-shadow: 0 8px 24px rgba(0,0,0,0.15);
         }
 
         .card-thumbnail {
@@ -379,31 +431,47 @@
 
         .card-duration {
             position: absolute;
-            bottom: 5px;
-            right: 5px;
-            background: rgba(0,0,0,0.7);
+            bottom: 8px;
+            right: 8px;
+            background: rgba(0,0,0,0.8);
             color: #fff;
-            padding: 2px 6px;
-            font-size: 10px;
-            border-radius: 2px;
+            padding: 4px 8px;
+            font-size: 11px;
+            border-radius: 4px;
+            font-weight: 600;
         }
 
         .card-content {
-            padding: 15px;
+            padding: 20px;
         }
 
         .card-title {
             color: var(--main-text-color);
             font-family: 'Pretendard', sans-serif;
             font-size: 16px;
-            margin-bottom: 8px;
+            margin-bottom: 12px;
             line-height: 1.4;
-            font-weight: 700;
+            font-weight: 600;
+            text-align: left;
         }
 
         .card-meta {
+            display: flex;
+            align-items: center;
+            gap: 8px;
             color: var(--secondary-text-color);
             font-size: 12px;
+        }
+
+        .card-channel {
+            background: var(--channel-badge-bg);
+            color: var(--channel-badge-color);
+            padding: 2px 6px;
+            border-radius: 8px;
+            font-size: 10px;
+            font-weight: 600;
+            text-transform: uppercase;
+            letter-spacing: 0.3px;
         }
 
         /* Modal */
@@ -420,29 +488,37 @@
         }
 
         .modal-content {
-            max-width: 600px;
+            max-width: 700px;
             margin: 50px auto;
             background: var(--card-bg);
             border: 1px solid var(--card-border);
-            border-radius: 4px;
+            border-radius: 12px;
             position: relative;
             transition: background 0.3s, border-color 0.3s;
+            box-shadow: 0 20px 60px rgba(0,0,0,0.3);
         }
 
         .modal-close {
             position: absolute;
-            top: 10px;
+            top: 15px;
             right: 15px;
-            background: none;
+            background: rgba(0, 0, 0, 0.6);
             border: none;
-            color: var(--secondary-text-color);
-            font-size: 24px;
+            color: #fff;
+            font-size: 20px;
             cursor: pointer;
             z-index: 10;
+            width: 32px;
+            height: 32px;
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            transition: background 0.2s;
         }
 
         .modal-close:hover {
-            color: var(--main-text-color);
+            background: rgba(0, 0, 0, 0.8);
         }
 
         .modal-thumbnail {
@@ -450,6 +526,8 @@
             height: 300px;
             background: var(--list-bg);
             overflow: hidden;
+            border-top-left-radius: 12px;
+            border-top-right-radius: 12px;
         }
 
         .modal-thumbnail img {
@@ -459,14 +537,14 @@
         }
 
         .modal-body {
-            padding: 20px;
+            padding: 24px;
         }
 
         .modal-title {
             color: var(--title-color);
             font-family: 'Pretendard', sans-serif;
             font-size: 20px;
-            margin-bottom: 10px;
+            margin-bottom: 12px;
             line-height: 1.4;
             font-weight: 700;
         }
@@ -474,44 +552,48 @@
         .modal-meta {
             color: var(--secondary-text-color);
             font-size: 14px;
-            margin-bottom: 15px;
+            margin-bottom: 20px;
+            font-weight: 500;
         }
 
         .modal-description {
             color: var(--secondary-text-color);
             font-size: 14px;
             line-height: 1.6;
-            margin-bottom: 15px;
+            margin-bottom: 20px;
             white-space: pre-wrap;
         }
 
         .modal-tags {
-            margin-bottom: 15px;
+            margin-bottom: 20px;
         }
 
         .tag {
             display: inline-block;
             background: var(--toggle-bg);
             color: var(--secondary-text-color);
-            padding: 2px 8px;
+            padding: 4px 12px;
             margin: 2px;
             font-size: 11px;
-            border-radius: 20px;
+            border-radius: 16px;
+            font-weight: 600;
         }
 
         .modal-link {
             display: inline-block;
             background: var(--ytb-color);
             color: #FFFFFF;
-            padding: 10px 20px;
+            padding: 12px 24px;
             text-decoration: none;
             font-size: 14px;
-            border-radius: 4px;
-            transition: background 0.2s;
+            border-radius: 8px;
+            transition: all 0.2s;
+            font-weight: 600;
         }
 
         .modal-link:hover {
             background: #cc0033;
+            transform: translateY(-1px);
         }
 
         .status-bar {
@@ -555,7 +637,7 @@
         }
 
         .footer-content {
-            max-width: 1200px;
+            max-width: 1000px;
             margin: 0 auto;
             display: flex;
             justify-content: center;
@@ -578,14 +660,32 @@
             .header-content {
                 flex-direction: column;
                 align-items: stretch;
-            }
-
-            .controls {
-                justify-content: space-between;
+                gap: 15px;
             }
 
             .title {
                 font-size: 20px;
+                text-align: center;
+            }
+
+            .controls {
+                justify-content: center;
+                flex-wrap: nowrap;
+                overflow-x: auto;
+                padding: 5px 0;
+            }
+
+            .control-group {
+                flex-shrink: 0;
+            }
+
+            .search-input {
+                width: 140px;
+                min-width: 140px;
+            }
+
+            .date-input {
+                min-width: 120px;
             }
 
             /* Hide desktop list view on mobile */
@@ -607,7 +707,7 @@
             }
 
             .main {
-                padding: 10px;
+                padding: 15px;
             }
 
             /* Mobile modal adjustments */
@@ -628,46 +728,75 @@
             .modal-thumbnail {
                 height: 250px;
                 flex-shrink: 0;
+                border-radius: 0;
             }
 
             .modal-body {
                 flex: 1;
                 overflow-y: auto;
-                padding: 15px;
+                padding: 20px;
             }
 
             .modal-title {
                 font-size: 18px;
-                margin-bottom: 8px;
+                margin-bottom: 10px;
             }
 
             .modal-meta {
                 font-size: 13px;
-                margin-bottom: 12px;
+                margin-bottom: 15px;
             }
 
             .modal-description {
                 font-size: 13px;
-                margin-bottom: 12px;
+                margin-bottom: 15px;
             }
 
-            .modal-close {
-                top: 15px;
-                right: 15px;
-                background: rgba(0, 0, 0, 0.6);
-                color: #fff;
+            .mobile-meta {
+                display: flex;
+                justify-content: space-between;
+                align-items: center;
+                flex-wrap: wrap;
+                gap: 8px;
+            }
+
+            .mobile-meta-left {
+                justify-content: left;
+            }
+
+            .mobile-link {
+                align-self: center;
+            }
+        }
+
+        @media (max-width: 480px) {
+            .header {
+                padding: 10px 15px;
+            }
+
+            .controls {
+                gap: 8px;
+            }
+
+            .search-input {
+                width: 120px;
+                min-width: 120px;
+                font-size: 13px;
+            }
+
+            .date-input {
+                font-size: 13px;
+            }
+
+            .view-btn {
+                padding: 6px 10px;
+                font-size: 11px;
+            }
+
+            .dark-mode-toggle {
                 width: 32px;
                 height: 32px;
-                border-radius: 50%;
-                display: flex;
-                align-items: center;
-                justify-content: center;
-                font-size: 18px;
-            }
-
-            .modal-close:hover {
-                background: rgba(0, 0, 0, 0.8);
-                color: #fff;
+                font-size: 14px;
             }
         }
     </style>
@@ -675,15 +804,23 @@
 <body>
     <div class="header">
         <div class="header-content">
-            <div class="title">유튜브 뉴스 모음</div>
+            <div class="title">
+                <a href="https://seungh.github.io/YouTube-News-Collection/">
+                유튜브 뉴스 모음
+                </a>
+            </div>
             <div class="controls">
-                <input type="date" class="date-input" id="dateInput">
-                <input type="text" class="search-input" id="searchInput" placeholder='Search... ("exact", OR, AND, -, *, ())'>
-                <div class="view-toggle">
-                    <button class="view-btn active" data-view="list">LIST</button>
-                    <button class="view-btn" data-view="card">CARD</button>
+                <div class="control-group">
+                    <input type="date" class="date-input" id="dateInput">
+                    <input type="text" class="search-input" id="searchInput" placeholder='Search...'>
                 </div>
-                <button id="darkModeToggle" class="dark-mode-toggle">DARK</button>
+                <div class="control-group">
+                    <div class="view-toggle">
+                        <button class="view-btn active" data-view="list">LIST</button>
+                        <button class="view-btn" data-view="card">CARD</button>
+                    </div>
+                    <button id="darkModeToggle" class="dark-mode-toggle">🌙</button>
+                </div>
             </div>
         </div>
     </div>
@@ -721,6 +858,7 @@
     <script>
         let currentData = [];
         let filteredData = [];
+        let channelData = [];
         let currentView = 'list';
         
         // Initialize
@@ -797,6 +935,8 @@
                     new Date(b.actualPubAt) - new Date(a.actualPubAt)
                 );
                 filteredData = [...currentData];
+
+                channelData = Object.values(data.channels).sort();
                 
                 updateStatus(`Loaded ${currentData.length} items`);
                 renderData();
@@ -980,7 +1120,6 @@
                 <div class="list-view">
                     <div class="list-header">
                         <div>No.</div>
-                        <div>채널</div>
                         <div>제목</div>
                         <div>재생시간</div>
                         <div>날짜</div>
@@ -990,14 +1129,19 @@
             
             filteredData.forEach((item, index) => {
                 const duration = formatDuration(item.duration, item.liveBroadcastContent);
-                const actualPubAt = formatDate(item.actualPubAt); 
+                const actualPubAt = formatDate(item.actualPubAt);
+                const channelId = item.channelId;
+                const channelInfo = channelData.find(e => e.channelId === channelId);
                 
                 // Desktop list row
                 html += `
                     <div class="list-row" onclick="showModal('${item.videoId}')">
                         <div>${index + 1}</div>
-                        <div class="channel-cell">${escapeHtml(item.channelName)}</div>
-                        <div class="title-cell">${escapeHtml(item.title)}</div>
+                        <div class="title-cell">
+                            <span class="title-text">${escapeHtml(item.title)}
+                                <span class="channel-badge">${escapeHtml(item.channelName)}</span>
+                            </span>
+                        </div>
                         <div class="duration-cell">${duration}</div>
                         <div class="date-cell">${actualPubAt}</div>
                         <div class="link-cell">
@@ -1011,10 +1155,15 @@
                 // Mobile list row
                 html += `
                     <div class="mobile-list-row" onclick="showModal('${item.videoId}')">
-                        <div class="mobile-title">${escapeHtml(item.title)}</div>
+                        <div class="mobile-title">
+                            <span>
+                                ${escapeHtml(item.title)}
+                            </span>
+                            <span class="mobile-channel">
+                                ${escapeHtml(item.channelName)}
+                            </div>
                         <div class="mobile-meta">
                             <div class="mobile-meta-left">
-                                <div class="mobile-channel">${escapeHtml(item.channelName)}</div>
                                 <div class="mobile-duration">${duration}</div>
                                 <div class="mobile-date">${actualPubAt}</div>
                             </div>
@@ -1046,7 +1195,10 @@
                         </div>
                         <div class="card-content">
                             <div class="card-title">${escapeHtml(item.title)}</div>
-                            <div class="card-meta">${escapeHtml(item.channelName)} • ${actualPubAt}</div>
+                            <div class="card-meta">
+                                <span class="card-channel">${escapeHtml(item.channelName)}</span>
+                                <span>• ${actualPubAt}</span>
+                            </div>
                         </div>
                     </div>
                 `;
@@ -1136,7 +1288,7 @@
         function updateToggleButton() {
             const toggleButton = document.getElementById('darkModeToggle');
             const currentTheme = document.documentElement.getAttribute('data-theme');
-            toggleButton.textContent = currentTheme === 'dark' ? 'LIGHT' : 'DARK';
+            toggleButton.textContent = currentTheme === 'dark' ? '☀️' : '🌙';
         }
 
         // Close modal when clicking outside
