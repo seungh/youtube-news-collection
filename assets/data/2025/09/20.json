@@ -49,7 +49,7 @@
       "publishedAt": "2025-09-19T13:41:18Z",
       "duration": "P0D",
       "viewCount": 0,
-      "likeCount": 0,
+      "likeCount": 1,
       "commentCount": 0,
       "tags": [
         "MBC",
@@ -111,7 +111,7 @@
       "actualPubAt": "2025-09-20T02:00:00Z",
       "channelId": "UCTTmtS2ljy1vyl_s-d_LEHQ",
       "channelName": "MBC 라디오 시사",
-      "collectedAt": "2025-09-19T13:45:09Z"
+      "collectedAt": "2025-09-19T13:54:58Z"
     }
   },
   "channels": {
@@ -138,9 +138,9 @@
         }
       },
       "subscriberCount": 5020000,
-      "viewCount": 15202008420,
+      "viewCount": 15204838577,
       "videoCount": 301522,
-      "lastUpdated": "2025-09-19T13:45:09.297137Z"
+      "lastUpdated": "2025-09-19T13:54:58.055524Z"
     },
     "UCTTmtS2ljy1vyl_s-d_LEHQ": {
       "channelId": "UCTTmtS2ljy1vyl_s-d_LEHQ",
@@ -170,7 +170,7 @@
       "lastUpdated": "2025-09-19T13:45:09.298312Z"
     }
   },
-  "lastUpdated": "2025-09-19T13:45:09.298332Z",
+  "lastUpdated": "2025-09-19T13:54:58.056241Z",
   "totalVideos": 2,
   "totalChannels": 2
 }
