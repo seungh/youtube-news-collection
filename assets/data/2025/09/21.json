@@ -7,7 +7,7 @@
       "publishedAt": "2025-09-20T00:39:59Z",
       "duration": "P0D",
       "viewCount": 0,
-      "likeCount": 3,
+      "likeCount": 4,
       "commentCount": 0,
       "tags": [
         "SBS NEWS",
@@ -40,7 +40,59 @@
       "actualPubAt": "2025-09-20T21:00:00Z",
       "channelId": "UCkinYTS9IHqOEwR1Sze2JTw",
       "channelName": "SBS 뉴스",
-      "collectedAt": "2025-09-20T14:18:47Z"
+      "collectedAt": "2025-09-20T15:19:37Z"
+    },
+    "YDUYzOaxFIA": {
+      "videoId": "YDUYzOaxFIA",
+      "title": "[🔴속보] 러시아 전투기, 에스토니아 영공 침범/'점입가경' 푸틴...EU '초유의 결정'/2025년 9월 21일(일)/KBS",
+      "description": "러시아가 북대서양조약기구, 나토 영공을 또 무단 침범했습니다.\n\n폴란드와 루마니아에 이어 이번엔 전투기로 에스토니아를 침범했는데요.\n\n러시아가 유럽 전체로 긴장을 고조시키고 있다는 우려가 커지는 가운데 유럽연합은 러시아 추가 제재안을 공개했습니다.\n\n#푸틴 #EU #전쟁 #에스토니아 #나토 #폴란드 #루마니아 #전투기 #영공 #트럼프 #젤렌스키 \n\nCopyright ⓒ KBS. All rights reserved. 무단 전재, 재배포 및 이용(AI 학습 포함) 금지\n\n\n▣ KBS뉴스 유튜브 구독하기 : https://goo.gl/qCWZjZ\n▣ KBS뉴스 유튜브 커뮤니티 : https://goo.gl/6yko39\n▣ KBS 뉴스  \n◇ PC : http://news.kbs.co.kr    \n◇ 모바일 : http://mn.kbs.co.kr \n▣ 인스타그램 : https://www.instagram.com/kbsnews    \n▣ 페이스북 : https://www.facebook.com/kbsnews  \n▣ 트위터 : https://twitter.com/kbsnews\n▣ 틱톡 :  https://tiktok.com/@kbsnewsofficial",
+      "publishedAt": "2025-09-20T13:14:14Z",
+      "duration": "P0D",
+      "viewCount": 2364,
+      "likeCount": 24,
+      "commentCount": 0,
+      "tags": [
+        "KBS",
+        "KBS NEWS",
+        "KBS뉴스",
+        "NEWS",
+        "KBS실시간",
+        "KBSLIVE",
+        "KBS LIVE",
+        "LIVE",
+        "실시간",
+        "실시간뉴스",
+        "라이브",
+        "라이브뉴스",
+        "뉴스",
+        "이슈",
+        "KBS 뉴스",
+        "kbs news",
+        "news",
+        "@newskbs",
+        "푸틴",
+        "EU",
+        "전쟁",
+        "에스토니아",
+        "나토",
+        "폴란드",
+        "루마니아",
+        "전투기",
+        "영공",
+        "트럼프",
+        "젤렌스키"
+      ],
+      "liveBroadcastContent": "live",
+      "liveStreamingDetails": {
+        "actualStartTime": "2025-09-20T15:00:15Z",
+        "scheduledStartTime": "2025-09-20T15:00:00Z",
+        "concurrentViewers": "1303",
+        "activeLiveChatId": "Cg0KC1lEVVl6T2F4RklBKicKGFVDY1FUUmk2OWRzVllITjNleGVQdFoxQRILWURVWXpPYXhGSUE"
+      },
+      "actualPubAt": "2025-09-20T15:00:15Z",
+      "channelId": "UCcQTRi69dsVYHN3exePtZ1A",
+      "channelName": "KBS News",
+      "collectedAt": "2025-09-20T15:19:37Z"
     }
   },
   "channels": {
@@ -70,9 +122,36 @@
       "viewCount": 15217746097,
       "videoCount": 301607,
       "lastUpdated": "2025-09-20T14:18:47.309200Z"
+    },
+    "UCcQTRi69dsVYHN3exePtZ1A": {
+      "channelId": "UCcQTRi69dsVYHN3exePtZ1A",
+      "channelName": "KBS News",
+      "channelUrl": "@newskbs",
+      "channelDescription": "수신료로 만들어가는 KBS 뉴스",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/LIRDgU59ID6x9CqOQQR5TO9WsaenXRWOwD5kj4pwY4mz24hRW6qxIiKZl1JSso-u6auqakRj0g=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/LIRDgU59ID6x9CqOQQR5TO9WsaenXRWOwD5kj4pwY4mz24hRW6qxIiKZl1JSso-u6auqakRj0g=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/LIRDgU59ID6x9CqOQQR5TO9WsaenXRWOwD5kj4pwY4mz24hRW6qxIiKZl1JSso-u6auqakRj0g=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 3430000,
+      "viewCount": 9376255409,
+      "videoCount": 400080,
+      "lastUpdated": "2025-09-20T15:19:37.971598Z"
     }
   },
-  "lastUpdated": "2025-09-20T14:18:47.309244Z",
-  "totalVideos": 1,
-  "totalChannels": 1
+  "lastUpdated": "2025-09-20T15:19:37.972911Z",
+  "totalVideos": 2,
+  "totalChannels": 2
 }
