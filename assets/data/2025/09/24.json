@@ -51,7 +51,7 @@
       "publishedAt": "2025-09-22T00:30:10Z",
       "duration": "P0D",
       "viewCount": 0,
-      "likeCount": 1,
+      "likeCount": 2,
       "commentCount": 0,
       "tags": [
         "국회방송"
@@ -64,7 +64,7 @@
       "actualPubAt": "2025-09-24T00:30:00Z",
       "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
       "channelName": "NATV 국회방송",
-      "collectedAt": "2025-09-22T21:19:46Z"
+      "collectedAt": "2025-09-23T01:16:33Z"
     },
     "ZrFNx4li6y4": {
       "videoId": "ZrFNx4li6y4",
@@ -263,6 +263,28 @@
       "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
       "channelName": "NATV 국회방송",
       "collectedAt": "2025-09-22T21:19:46Z"
+    },
+    "pSOmgmbKDzs": {
+      "videoId": "pSOmgmbKDzs",
+      "title": "[2025 국회 입법박람회] 국회의장과의 토크 콘서트 및 폐막식 (25.9.24.) | 국회방송",
+      "description": "📣일시: 9. 24. (수) 16시 \n\n📌\n#국회 #국회방송 #생중계 #2025 #국회입법박람회 #입법박람회 #국회예산정책처 #국회사무처 #우원식 #국회의장 #토크 #콘서트 #토크콘서트 #폐막식\n－－－－－－－－－－－－－－－－－－－－\n\n◼ 국회방송 구독하기 ▷https://www.youtube.com/@NATV_korea",
+      "publishedAt": "2025-09-22T00:36:32Z",
+      "duration": "P0D",
+      "viewCount": 0,
+      "likeCount": 0,
+      "commentCount": 0,
+      "tags": [
+        "국회방송"
+      ],
+      "liveBroadcastContent": "upcoming",
+      "liveStreamingDetails": {
+        "scheduledStartTime": "2025-09-24T07:00:00Z",
+        "activeLiveChatId": "Cg0KC3BTT21nbWJLRHpzKicKGFVDTC1XT2oxRnhLUjhIbHpnNXR2bldLZxILcFNPbWdtYktEenM"
+      },
+      "actualPubAt": "2025-09-24T07:00:00Z",
+      "channelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
+      "channelName": "NATV 국회방송",
+      "collectedAt": "2025-09-23T01:16:33Z"
     }
   },
   "channels": {
@@ -290,11 +312,11 @@
       },
       "subscriberCount": 269000,
       "viewCount": 91511364,
-      "videoCount": 16793,
-      "lastUpdated": "2025-09-22T15:40:45.694722Z"
+      "videoCount": 16794,
+      "lastUpdated": "2025-09-23T01:16:33.261014Z"
     }
   },
-  "lastUpdated": "2025-09-22T21:19:46.662948Z",
-  "totalVideos": 12,
+  "lastUpdated": "2025-09-23T01:16:33.261133Z",
+  "totalVideos": 13,
   "totalChannels": 1
 }
