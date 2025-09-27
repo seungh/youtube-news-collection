@@ -201,7 +201,7 @@ class YouTubeAPI:
                     "playlistId": playlist_id,
                     "maxResults": min(50, max_results - len(video_ids)),
                     "pageToken": next_page_token
-                })                
+                })
                 for item in response.get("items", []):
                     if item["snippet"]["channelId"] != channel_id:
                         continue
@@ -216,6 +216,8 @@ class YouTubeAPI:
             
         except YouTubeAPIError as e:
             logger.error(f"Failed to get playlist videos ({playlist_id}): {e}")
+            if "Resource not found: playlistItems" in str(e):
+                return []
             raise
             # return []
     
