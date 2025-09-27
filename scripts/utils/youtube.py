@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-YouTube API wrapper with retry logic and live stream support
+YouTube API wrapper with retry logic, live stream support, and improved cache management
 """
 
 import requests
@@ -57,7 +57,8 @@ class QuotaTracker:
         }
 
 class YouTubeAPI:
-    def __init__(self, api_key: str, retry_attempts: int = 3, retry_delay: int = 2, timeout: int = 30, use_cache=True, cache_dir="cache"):
+    def __init__(self, api_key: str, retry_attempts: int = 3, retry_delay: int = 2, timeout: int = 30, 
+                 use_cache=True, cache_dir="cache", cache_max_age_days=7, cache_max_files=1000):
         self.api_key = api_key
         self.base_url = "https://www.googleapis.com/youtube/v3"
         self.retry_attempts = retry_attempts
@@ -65,8 +66,12 @@ class YouTubeAPI:
         self.timeout = timeout
         self.session = requests.Session()
         self.use_cache = use_cache
-        self.cache_manager = CacheManager(cache_dir) if use_cache else None
+        self.cache_manager = CacheManager(cache_dir, cache_max_age_days, cache_max_files) if use_cache else None
         self.quota_tracker = QuotaTracker()
+        
+        # 초기화 시 캐시 정리 실행
+        if self.cache_manager:
+            self.cache_manager.maintain_cache()
     
     def _create_request_key(self, endpoint, params: Dict) -> str:
         """
@@ -83,6 +88,7 @@ class YouTubeAPI:
         """
         cached_data = None
         headers = {}
+        cache_was_hit = False
         
         if self.use_cache:
             request_key = self._create_request_key(endpoint, params)
@@ -107,12 +113,12 @@ class YouTubeAPI:
                         error_msg = data['error'].get('message', 'Unknown API error')
                         raise YouTubeAPIError(f"YouTube API error: {error_msg}")
                     
-                    # Store etag and response in cache
+                    # Store new data in cache (this will replace old cache if exists)
                     if self.use_cache:
                         etag = data.get('etag')
                         if etag:
                             self.cache_manager.save_etag(request_key, etag, data)
-                            logger.debug(f"Saved ETag({etag}) for request: {request_key}")
+                            logger.debug(f"Saved new ETag({etag}) for request: {request_key}")
                         self.quota_tracker.add_request(endpoint, False)
 
                     logger.debug(f"API request successful: {endpoint}")
@@ -123,6 +129,7 @@ class YouTubeAPI:
                     logger.debug(f"Data not modified (304). Using cached data for: {request_key}")
                     if self.use_cache and cached_data:
                         self.quota_tracker.add_request(endpoint, True)
+                        cache_was_hit = True
                         return cached_data
                     else:
                         raise YouTubeAPIError("Received 304 but no cached data available")
@@ -166,6 +173,28 @@ class YouTubeAPI:
         # All retry attempts failed
         raise YouTubeAPIError(f"API request failed: {endpoint} (all retries failed)")
     
+    def get_cache_stats(self):
+        """
+        캐시 통계 정보 반환
+        """
+        if self.cache_manager:
+            return self.cache_manager.get_cache_stats()
+        return None
+    
+    def maintain_cache(self):
+        """
+        캐시 유지보수 수동 실행
+        """
+        if self.cache_manager:
+            self.cache_manager.maintain_cache()
+    
+    def clear_cache(self):
+        """
+        모든 캐시 파일 삭제
+        """
+        if self.cache_manager:
+            self.cache_manager.clear_cache()
+
     def get_channel_info(self, channel_id: str) -> Optional[Dict]:
         """
         Get basic channel information.
@@ -184,7 +213,6 @@ class YouTubeAPI:
         except YouTubeAPIError as e:
             logger.error(f"Failed to get channel info ({channel_id}): {e}")
             raise
-            # return None
 
     def get_playlist_videos(self, playlist_id: str, channel_id: str, max_results: int = 50) -> List[str]:
         """
@@ -219,7 +247,6 @@ class YouTubeAPI:
             if "Resource not found: playlistItems" in str(e):
                 return []
             raise
-            # return []
     
     def get_videos_details(self, video_ids: List[str], channel_id: str=None) -> List[Dict]:
         """
@@ -281,7 +308,6 @@ class YouTubeAPI:
         except YouTubeAPIError as e:
             logger.error(f"Failed to get video details: {e}")
             raise
-            # return []
     
     def get_channel_videos(self, channel_id: str, max_results: int = 50) -> Optional[Dict]:
         """
