@@ -7,7 +7,7 @@
       "publishedAt": "2025-10-25T07:25:15Z",
       "duration": "P0D",
       "viewCount": 0,
-      "likeCount": 0,
+      "likeCount": 2,
       "commentCount": 0,
       "tags": [
         "SBS NEWS",
@@ -40,7 +40,7 @@
       "actualPubAt": "2025-10-25T21:00:00Z",
       "channelId": "UCkinYTS9IHqOEwR1Sze2JTw",
       "channelName": "SBS 뉴스",
-      "collectedAt": "2025-10-25T12:35:30Z"
+      "collectedAt": "2025-10-25T13:08:30Z"
     },
     "HlsThbrvhYI": {
       "videoId": "HlsThbrvhYI",
@@ -49,7 +49,7 @@
       "publishedAt": "2025-10-24T03:21:42Z",
       "duration": "P0D",
       "viewCount": 0,
-      "likeCount": 0,
+      "likeCount": 1,
       "commentCount": 0,
       "tags": [
         "조선일보",
@@ -79,7 +79,7 @@
       "actualPubAt": "2025-10-26T00:00:00Z",
       "channelId": "UCdp4_yTBhQmB8E339Lafzow",
       "channelName": "조선일보",
-      "collectedAt": "2025-10-25T12:35:30Z"
+      "collectedAt": "2025-10-25T13:08:30Z"
     }
   },
   "channels": {
@@ -107,8 +107,8 @@
       },
       "subscriberCount": 5070000,
       "viewCount": 15509846432,
-      "videoCount": 306266,
-      "lastUpdated": "2025-10-25T12:35:30.837138Z"
+      "videoCount": 306268,
+      "lastUpdated": "2025-10-25T13:08:30.031314Z"
     },
     "UCdp4_yTBhQmB8E339Lafzow": {
       "channelId": "UCdp4_yTBhQmB8E339Lafzow",
@@ -138,7 +138,7 @@
       "lastUpdated": "2025-10-25T12:35:30.838026Z"
     }
   },
-  "lastUpdated": "2025-10-25T12:35:30.838048Z",
+  "lastUpdated": "2025-10-25T13:08:30.032659Z",
   "totalVideos": 2,
   "totalChannels": 2
 }
