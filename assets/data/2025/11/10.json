@@ -7,7 +7,7 @@
       "publishedAt": "2025-11-09T04:23:32Z",
       "duration": "P0D",
       "viewCount": 0,
-      "likeCount": 4,
+      "likeCount": 5,
       "commentCount": 0,
       "tags": [
         "SBS NEWS",
@@ -40,7 +40,29 @@
       "actualPubAt": "2025-11-09T21:00:00Z",
       "channelId": "UCkinYTS9IHqOEwR1Sze2JTw",
       "channelName": "SBS 뉴스",
-      "collectedAt": "2025-11-09T14:37:07Z"
+      "collectedAt": "2025-11-09T15:20:21Z"
+    },
+    "XI6qh3S0qzA": {
+      "videoId": "XI6qh3S0qzA",
+      "title": "[돌발영상] 국민의힘 최고위원 입에서… \"현지궁, 고릴라춤, 서팔계\" / YTN",
+      "description": "지난 3일, 국민의힘 최고위원회의에서 김재원 최고위원은 '동물국회'라는 말과 함께 민주당 의원들을 향한 막말을 쏟아냈는데요.\n\n듣고 있던 동료 의원들은 \"잘했다\"고 오히려 추켜세웠습니다.\n\n#김재원 #김현지 #서팔계 #막말 #고릴라춤 #양향자 #송언석 #동물국회 #법사위 #YTN #돌발영상\n\n▶ 기사 원문 : https://www.ytn.co.kr/replay/view.php?idx=16&key=202511050220465827\n▶ 제보 하기 : https://mj.ytn.co.kr/mj/mj_write.php\n\n▣ YTN 유튜브 채널 구독 : http://goo.gl/Ytb5SZ\n\nⓒ YTN 무단 전재, 재배포금지 및 AI 데이터 활용 금지",
+      "publishedAt": "2025-11-09T15:01:49Z",
+      "duration": "PT1M48S",
+      "viewCount": 301,
+      "likeCount": 7,
+      "commentCount": 2,
+      "tags": [
+        "source:영상",
+        "type:방송",
+        "genre:기타",
+        "format:기타"
+      ],
+      "liveBroadcastContent": "none",
+      "liveStreamingDetails": null,
+      "actualPubAt": "2025-11-09T15:01:49Z",
+      "channelId": "UChlgI3UHCOnwUGzWzbJ3H5w",
+      "channelName": " YTN",
+      "collectedAt": "2025-11-09T15:20:21Z"
     }
   },
   "channels": {
@@ -70,9 +92,36 @@
       "viewCount": 15647015816,
       "videoCount": 308401,
       "lastUpdated": "2025-11-09T13:09:26.462835Z"
+    },
+    "UChlgI3UHCOnwUGzWzbJ3H5w": {
+      "channelId": "UChlgI3UHCOnwUGzWzbJ3H5w",
+      "channelName": " YTN",
+      "channelUrl": "@ytnnews24",
+      "channelDescription": "24시간 생중계되는 대한민국 대표 뉴스\nYTN 공식채널을 지금 바로 구독하세요\n\n▶ 구독하기 : http://goo.gl/Ytb5SZ\n\n▶ YTN 기사제보 안내\n- 홈페이지: https://mj.ytn.co.kr/mj/mj_write.php?sort=0\n- 모바일: YTN 앱의 제보하기\n- 이메일: social@ytn.co.kr\n- 전화: 02-398-8282 또는 8585 \n\n▶ 라이브 스트리밍 대체광고 및 콘텐츠 협업 문의\n - 이메일 : ljk@ytn.co.kr\n\n▶ 영상 사용 및 구매 문의\n - https://www.ytn.co.kr/business/sell_program.php\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/Sd77hfGXNh1K4VgLCnYVrzWVkUKh04N5VDClPweoP-sbaZXzH3llUz2W1N_-Z4RX5_XauYpvSQ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/Sd77hfGXNh1K4VgLCnYVrzWVkUKh04N5VDClPweoP-sbaZXzH3llUz2W1N_-Z4RX5_XauYpvSQ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/Sd77hfGXNh1K4VgLCnYVrzWVkUKh04N5VDClPweoP-sbaZXzH3llUz2W1N_-Z4RX5_XauYpvSQ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 5220000,
+      "viewCount": 18297511269,
+      "videoCount": 910325,
+      "lastUpdated": "2025-11-09T15:20:21.234438Z"
     }
   },
-  "lastUpdated": "2025-11-09T14:37:07.781100Z",
-  "totalVideos": 1,
-  "totalChannels": 1
+  "lastUpdated": "2025-11-09T15:20:21.234969Z",
+  "totalVideos": 2,
+  "totalChannels": 2
 }
