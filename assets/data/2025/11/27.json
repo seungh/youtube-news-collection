@@ -83,6 +83,26 @@
       "channelId": "UCkinYTS9IHqOEwR1Sze2JTw",
       "channelName": "SBS 뉴스",
       "collectedAt": "2025-11-26T14:00:10Z"
+    },
+    "hXBzxlw3A4g": {
+      "videoId": "hXBzxlw3A4g",
+      "title": "[LIVE/JTBC 뉴스특보] 누리호 4차 발사 (25.11.27)",
+      "description": "JTBC 뉴스특보, 누리호 4차 발사 생중계를 전해드립니다. 2년 전, 순수 우리 기술로 만든 누리호가 3차 발사를 성공적으로 마쳤습니다. 이번 4차 발사에서는 새로운 도전이 이뤄집니다. 첫 민간 발사, 첫 야간 발사라는 과제를 수행하는 겁니다. 이번 발사와 과제들이 어떤 의미가 있는지 뉴스특보에서 짚어보겠습니다.\n \n11월 27일 (목) JTBC 뉴스특보\n#누리호 #누리호4차발사 #JTBC뉴스특보\n\n📢 지금, 이슈의 현장을 실시간으로!\n☞JTBC 모바일라이브 시청하기 https://www.youtube.com/@jtbc_news/streams\n\n☞JTBC유튜브 구독하기 (https://www.youtube.com/user/JTBC10news)\n☞JTBC유튜브 커뮤니티 (https://www.youtube.com/user/JTBC10news/community)\n\n#JTBC뉴스 공식 페이지 https://news.jtbc.co.kr\n\n페이스북 https://www.facebook.com/jtbcnews\nX(트위터) https://twitter.com/JTBC_news\n인스타그램 https://www.instagram.com/jtbcnews\n\n☏ 제보하기 https://news.jtbc.co.kr/report\n방송사 : JTBC (https://jtbc.co.kr)",
+      "publishedAt": "2025-11-26T08:23:08Z",
+      "duration": "P0D",
+      "viewCount": 0,
+      "likeCount": 0,
+      "commentCount": 0,
+      "tags": [],
+      "liveBroadcastContent": "upcoming",
+      "liveStreamingDetails": {
+        "scheduledStartTime": "2025-11-26T15:30:00Z",
+        "activeLiveChatId": "Cg0KC2hYQnp4bHczQTRnKicKGFVDc1UtSS12SExpYU1mVl9jZWFZejVyURILaFhCenhsdzNBNGc"
+      },
+      "actualPubAt": "2025-11-26T15:30:00Z",
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "collectedAt": "2025-11-26T14:24:32Z"
     }
   },
   "channels": {
@@ -109,12 +129,39 @@
         }
       },
       "subscriberCount": 5100000,
-      "viewCount": 15778179259,
+      "viewCount": 15781905809,
       "videoCount": 310897,
-      "lastUpdated": "2025-11-26T14:00:10.377196Z"
+      "lastUpdated": "2025-11-26T14:24:32.432688Z"
+    },
+    "UCsU-I-vHLiaMfV_ceaYz5rQ": {
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "channelUrl": "@jtbc_news",
+      "channelDescription": "진실에 닿을 때까지 멈추지 않는 질문, JTBC News\nWelcome to the official JTBC News Channel.\n\n▶ https://news.jtbc.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 4770000,
+      "viewCount": 15902487978,
+      "videoCount": 277200,
+      "lastUpdated": "2025-11-26T14:24:32.431635Z"
     }
   },
-  "lastUpdated": "2025-11-26T14:00:10.377226Z",
-  "totalVideos": 2,
-  "totalChannels": 1
+  "lastUpdated": "2025-11-26T14:24:32.432720Z",
+  "totalVideos": 3,
+  "totalChannels": 2
 }
