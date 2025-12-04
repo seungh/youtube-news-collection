@@ -83,6 +83,26 @@
       "channelId": "UCkinYTS9IHqOEwR1Sze2JTw",
       "channelName": "SBS 뉴스",
       "collectedAt": "2025-12-04T12:44:27Z"
+    },
+    "wJ43AMRN368": {
+      "videoId": "wJ43AMRN368",
+      "title": "[LIVE/JTBC 뉴스] 논/쟁 – 비상계엄 1년, 청산은? (25.12.4)",
+      "description": "JTBC 토론 논/쟁을 시작합니다. 한해 전, 평온했던 국민의 삶을 송두리째 흔들었던 전직 대통령은 1년이 지났지만 반성은 없었습니다. 국민의 자유와 주권을 지키기 위한 절박한 메시지였다는 주장을 되풀이했죠. 반면 현직 대통령은 말합니다. \"빛의 혁명은 아직 끝나지 않았다\", \"치명적인 암을 제거\"해야 한다며 명확한 진실규명, 엄정한 처벌로 정의로운 통합을 만들겠단 입장입니다. \n\n비상계엄 사태 1년, 과연 청산은 이뤄졌는지, 남은 과제는 무엇인지 대한민국의 현주소를 짚어보겠습니다.\n\n출연 : \n\n박주민 더불어민주당 의원\n정성국 국민의힘 의원\n류혁 전 법무부 감찰관\n서정욱 변호사\n\n12월 4일 (목) 논/쟁\n\n📢 지금, 이슈의 현장을 실시간으로!\n☞JTBC 모바일라이브 시청하기 https://www.youtube.com/@jtbc_news/streams\n\n☞JTBC유튜브 구독하기 (https://www.youtube.com/user/JTBC10news)\n☞JTBC유튜브 커뮤니티 (https://www.youtube.com/user/JTBC10news/community)\n\n#JTBC뉴스 공식 페이지 https://news.jtbc.co.kr\n\n페이스북 https://www.facebook.com/jtbcnews\nX(트위터) https://twitter.com/JTBC_news\n인스타그램 https://www.instagram.com/jtbcnews\n\n☏ 제보하기 https://news.jtbc.co.kr/report\n방송사 : JTBC (https://jtbc.co.kr)",
+      "publishedAt": "2025-12-04T10:44:05Z",
+      "duration": "P0D",
+      "viewCount": 0,
+      "likeCount": 0,
+      "commentCount": 0,
+      "tags": [],
+      "liveBroadcastContent": "upcoming",
+      "liveStreamingDetails": {
+        "scheduledStartTime": "2025-12-04T15:10:00Z",
+        "activeLiveChatId": "Cg0KC3dKNDNBTVJOMzY4KicKGFVDc1UtSS12SExpYU1mVl9jZWFZejVyURILd0o0M0FNUk4zNjg"
+      },
+      "actualPubAt": "2025-12-04T15:10:00Z",
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "collectedAt": "2025-12-04T13:29:13Z"
     }
   },
   "channels": {
@@ -110,11 +130,38 @@
       },
       "subscriberCount": 5100000,
       "viewCount": 15854487783,
-      "videoCount": 312204,
-      "lastUpdated": "2025-12-04T12:44:27.805929Z"
+      "videoCount": 312214,
+      "lastUpdated": "2025-12-04T13:29:13.697509Z"
+    },
+    "UCsU-I-vHLiaMfV_ceaYz5rQ": {
+      "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+      "channelName": "JTBC News",
+      "channelUrl": "@jtbc_news",
+      "channelDescription": "진실에 닿을 때까지 멈추지 않는 질문, JTBC News\nWelcome to the official JTBC News Channel.\n\n▶ https://news.jtbc.co.kr\n",
+      "channelThumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/huo8anjEzTu67FuF6mO6ui8beFyZ2rECX6-WkshXZlEfohUB1R8o66jGRbhAErooLYAXxH9U27E=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "subscriberCount": 4770000,
+      "viewCount": 16018677035,
+      "videoCount": 278710,
+      "lastUpdated": "2025-12-04T13:29:13.696000Z"
     }
   },
-  "lastUpdated": "2025-12-04T12:44:27.805961Z",
-  "totalVideos": 2,
-  "totalChannels": 1
+  "lastUpdated": "2025-12-04T13:29:13.697545Z",
+  "totalVideos": 3,
+  "totalChannels": 2
 }
