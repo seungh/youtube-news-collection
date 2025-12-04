@@ -91,7 +91,7 @@
       "publishedAt": "2025-12-04T10:44:05Z",
       "duration": "P0D",
       "viewCount": 0,
-      "likeCount": 0,
+      "likeCount": 1,
       "commentCount": 0,
       "tags": [],
       "liveBroadcastContent": "upcoming",
@@ -102,7 +102,7 @@
       "actualPubAt": "2025-12-04T15:10:00Z",
       "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
       "channelName": "JTBC News",
-      "collectedAt": "2025-12-04T13:29:13Z"
+      "collectedAt": "2025-12-04T14:25:38Z"
     }
   },
   "channels": {
@@ -130,8 +130,8 @@
       },
       "subscriberCount": 5100000,
       "viewCount": 15854487783,
-      "videoCount": 312215,
-      "lastUpdated": "2025-12-04T14:02:10.102692Z"
+      "videoCount": 312217,
+      "lastUpdated": "2025-12-04T14:25:38.550577Z"
     },
     "UCsU-I-vHLiaMfV_ceaYz5rQ": {
       "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
@@ -161,7 +161,7 @@
       "lastUpdated": "2025-12-04T14:02:10.104208Z"
     }
   },
-  "lastUpdated": "2025-12-04T14:02:10.104241Z",
+  "lastUpdated": "2025-12-04T14:25:38.552712Z",
   "totalVideos": 3,
   "totalChannels": 2
 }
